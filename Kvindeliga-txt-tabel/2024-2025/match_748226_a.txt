@@ -1,0 +1,1123 @@
+================================================================================
+Dato: 12-11-2024
+================================================================================
+
+--- Side 1 ---
+
+KAMPHÆNDELSER
+Ikast Håndbold - Nykøbing F. Håndbold   31 - 29  (14 - 16)
+
+748226 / 12-11-2024 / IBF Arena Hal A / Kvindeligaen
+
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+
+0.00
+Start 1:e halvleg
+
+0.36
+0-1
+NFH Mål
+PL
+18
+Alberte KIELSTRUP
+12
+Filippa IDÉHN
+
+0.43
+IKA
+Skud på stolpe
+2:e
+21
+Ingvild BAKKERUD
+1
+Sofie BÖRJESSON
+
+1.41
+NFH Skud reddet
+VF
+22
+Zoë SPRENGERS
+12
+Filippa IDÉHN
+
+1.48
+IKA
+Fejlaflevering
+21
+Ingvild BAKKERUD
+Bold erobret
+0
+
+2.19
+NFH Skud blokeret
+PL
+26
+Mona OBAIDLI
+Blok af (ret)
+0
+
+3.04
+NFH Skud på stolpe
+PL
+18
+Alberte KIELSTRUP
+12
+Filippa IDÉHN
+
+3.56
+IKA
+Skud reddet
+PL
+21
+Ingvild BAKKERUD
+1
+Sofie BÖRJESSON
+
+4.04
+0-2
+NFH Mål
+1:e
+20
+Maja MAGNUSSEN
+Assist
+2
+Caroline AAR
+12
+Filippa IDÉHN
+
+4.42
+1-2
+IKA
+Mål
+PL
+7
+Stine SKOGRAND
+1
+Sofie BÖRJESSON
+
+4.56
+1-3
+NFH Mål
+2:e
+18
+Alberte KIELSTRUP
+12
+Filippa IDÉHN
+
+5.38
+NFH Advarsel
+49
+Aimée VON PEREIRA
+
+5.51
+2-3
+IKA
+Mål
+VB
+21
+Ingvild BAKKERUD
+1
+Sofie BÖRJESSON
+
+6.27
+2-4
+NFH Mål
+VB
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+6.36
+3-4
+IKA
+Mål
+2:e
+14
+Emma LINDQVIST
+Assist
+21
+Ingvild BAKKERUD
+1
+Sofie BÖRJESSON
+
+6.42
+IKA
+Udvisning
+21
+Ingvild BAKKERUD
+
+7.02
+NFH Skud reddet
+Gbr 26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+7.39
+IKA
+Regelfejl
+14
+Emma LINDQVIST
+
+7.43
+3-5
+NFH Mål
+1:e
+2
+Caroline AAR
+0
+
+8.41
+IKA
+Skud reddet
+HB
+7
+Stine SKOGRAND
+1
+Sofie BÖRJESSON
+
+9.09
+3-6
+NFH Mål
+Gbr 26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+9.40
+IKA
+Fejlaflevering
+6
+Cecilie BRANDT
+
+9.46
+3-7
+NFH Mål
+2:e
+79
+Kristina KRISTIANSEN
+Assist
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+9.51
+IKA
+Time out
+
+10.49
+4-7
+IKA
+Mål
+HB 14
+Emma LINDQVIST
+1
+Sofie BÖRJESSON
+
+11.53
+NFH Skud reddet
+VF
+22
+Zoë SPRENGERS
+Retur
+0
+12
+Filippa IDÉHN
+
+12.04
+NFH Tilkendt straffe
+2
+Caroline AAR
+Forårs. str.
+18
+Maria LYKKEGAARD
+
+12.21
+NFH Straffekast reddet
+22
+Zoë SPRENGERS
+12
+Filippa IDÉHN
+
+12.53
+IKA
+Skud blokeret
+VB
+51
+Markéta JERÁBKOVÁ
+Blok af (ret)
+8
+Stine EIBERG
+
+13.18
+5-7
+IKA
+Mål
+HF
+6
+Cecilie BRANDT
+Assist
+17
+Simone PETERSEN
+1
+Sofie BÖRJESSON
+
+14.30
+NFH Skud reddet
+PL
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+14.40
+6-7
+IKA
+Mål
+2:e
+51
+Markéta JERÁBKOVÁ
+1
+Sofie BÖRJESSON
+
+15.01
+NFH Time out
+
+15.18
+6-8
+NFH Mål
+HF
+20
+Maja MAGNUSSEN
+Assist
+79
+Kristina KRISTIANSEN
+12
+Filippa IDÉHN
+
+15.59
+7-8
+IKA
+Mål
+PL
+17
+Simone PETERSEN
+1
+Sofie BÖRJESSON
+
+16.39
+IKA
+Advarsel
+11
+Sarah Aaberg IVERSEN
+
+17.00
+7-9
+NFH Mål
+Gbr 26
+Mona OBAIDLI
+Assist
+79
+Kristina KRISTIANSEN
+12
+Filippa IDÉHN
+
+17.31
+8-9
+IKA
+Mål
+HB 14
+Emma LINDQVIST
+1
+Sofie BÖRJESSON
+
+17.48
+8-10
+NFH Mål
+2:e
+49
+Aimée VON PEREIRA
+12
+Filippa IDÉHN
+
+18.43
+9-10
+IKA
+Mål
+VB
+51
+Markéta JERÁBKOVÁ
+1
+Sofie BÖRJESSON
+
+19.00
+NFH Tilkendt straffe
+2
+Caroline AAR
+Forårs. str.
+51
+Markéta JERÁBKOVÁ
+
+19.03
+9-11
+NFH Mål på straffe
+49
+Aimée VON PEREIRA
+12
+Filippa IDÉHN
+
+19.42 10-11 IKA
+Mål
+ST
+18
+Maria LYKKEGAARD
+Assist
+51
+Markéta JERÁBKOVÁ
+1
+Sofie BÖRJESSON
+
+20.45 10-12 NFH Mål
+PL
+79
+Kristina KRISTIANSEN
+12
+Filippa IDÉHN
+
+20.57 11-12 IKA
+Mål
+2:e
+11
+Sarah Aaberg IVERSEN
+Assist
+17
+Simone PETERSEN
+1
+Sofie BÖRJESSON
+
+21.13 11-13 NFH Mål
+2:e
+20
+Maja MAGNUSSEN
+Assist
+18
+Alberte KIELSTRUP
+12
+Filippa IDÉHN
+
+22.07 12-13 IKA
+Mål
+VB
+51
+Markéta JERÁBKOVÁ
+1
+Sofie BÖRJESSON
+
+22.50
+NFH Regelfejl
+29
+Julie Vibe SEEBERG
+
+23.14
+IKA
+Skud reddet
+PL
+51
+Markéta JERÁBKOVÁ
+1
+Sofie BÖRJESSON
+
+23.56
+NFH Skud reddet
+HB 18
+Alberte KIELSTRUP
+12
+Filippa IDÉHN
+
+24.08 13-13 IKA
+Mål
+2:e
+17
+Simone PETERSEN
+1
+Sofie BÖRJESSON
+
+24.45 13-14 NFH Mål
+PL
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+25.28
+IKA
+Skud på stolpe
+ST
+11
+Sarah Aaberg IVERSEN
+12
+Catharina BROCH
+
+25.39
+NFH Regelfejl
+26
+Mona OBAIDLI
+
+
+--- Side 2 ---
+
+KAMPHÆNDELSER
+Ikast Håndbold - Nykøbing F. Håndbold   31 - 29  (14 - 16)
+
+748226 / 12-11-2024 / IBF Arena Hal A / Kvindeligaen
+
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+
+26.15
+IKA
+Fejlaflevering
+17
+Simone PETERSEN
+
+26.29
+NFH Tabt bold
+18
+Alberte KIELSTRUP
+
+26.56 14-14 IKA
+Mål
+PL
+51
+Markéta JERÁBKOVÁ
+12
+Catharina BROCH
+
+27.52 14-15 NFH Mål
+HF
+20
+Maja MAGNUSSEN
+Assist
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+28.34
+IKA
+Regelfejl
+7
+Stine SKOGRAND
+
+29.13
+NFH Tilkendt straffe
+18
+Alberte KIELSTRUP
+Forårs. str.
+11
+Sarah Aaberg IVERSEN
+
+29.15 14-16 NFH Mål på straffe
+49
+Aimée VON PEREIRA
+12
+Filippa IDÉHN
+
+30.00
+IKA
+Skud blokeret
+PL
+51
+Markéta JERÁBKOVÁ
+Blokeret af
+18
+Alberte KIELSTRUP
+
+30.00 14-16
+Halvleg
+
+30.00
+Start 2:e halvleg
+
+30.31
+IKA
+Fejlaflevering
+21
+Ingvild BAKKERUD
+Bold erobret 20
+Maja MAGNUSSEN
+
+30.36 14-17 NFH Mål
+1:e
+21
+Matilde VESTERGAARD
+Assist
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+31.54 15-17 IKA
+Mål
+Gbr
+7
+Stine SKOGRAND
+12
+Catharina BROCH
+
+32.05
+NFH Tabt bold
+49
+Aimée VON PEREIRA
+
+32.12
+IKA
+Tabt bold
+21
+Ingvild BAKKERUD
+
+32.17 15-18 NFH Mål
+2:e
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+32.48
+IKA
+Skud reddet
+ST
+11
+Sarah Aaberg IVERSEN
+12
+Catharina BROCH
+
+33.50 15-19 NFH Mål
+PL
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+33.59 16-19 IKA
+Mål
+2:e
+14
+Emma LINDQVIST
+12
+Catharina BROCH
+
+34.42 16-20 NFH Mål
+VB
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+35.13 17-20 IKA
+Mål
+VB
+21
+Ingvild BAKKERUD
+12
+Catharina BROCH
+
+35.56
+NFH Tilkendt straffe
+2
+Caroline AAR
+Forårs. str.
+11
+Sarah Aaberg IVERSEN
+
+35.56
+IKA
+Udvisning
+11
+Sarah Aaberg IVERSEN
+
+35.56 17-21 NFH Mål på straffe
+49
+Aimée VON PEREIRA
+12
+Filippa IDÉHN
+
+36.58
+IKA
+Skud på stolpe
+PL
+21
+Ingvild BAKKERUD
+12
+Catharina BROCH
+
+37.29
+NFH Skud på stolpe
+VF
+21
+Matilde VESTERGAARD
+12
+Filippa IDÉHN
+
+37.40 18-21 IKA
+Mål
+2:e
+21
+Ingvild BAKKERUD
+0
+
+38.07 18-22 NFH Mål
+VB
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+38.40
+IKA
+Tabt bold
+21
+Ingvild BAKKERUD
+Bold erobret
+2
+Caroline AAR
+
+39.34
+NFH Skud reddet
+HF
+18
+Alberte KIELSTRUP
+12
+Filippa IDÉHN
+
+39.46
+IKA
+Time out
+
+40.00 19-22 IKA
+Mål
+PL
+17
+Simone PETERSEN
+12
+Catharina BROCH
+
+40.12
+NFH Fejlaflevering
+26
+Mona OBAIDLI
+Bold erobret
+6
+Cecilie BRANDT
+
+40.18
+IKA
+Fejlaflevering
+17
+Simone PETERSEN
+Bold erobret 12
+Catharina BROCH
+
+40.25 19-23 NFH Mål
+2:e
+2
+Caroline AAR
+Assist
+18
+Alberte KIELSTRUP
+12
+Filippa IDÉHN
+
+41.02
+IKA
+Skud reddet
+PL
+17
+Simone PETERSEN
+12
+Catharina BROCH
+
+41.40
+NFH Fejlaflevering
+26
+Mona OBAIDLI
+
+41.51
+IKA
+Skud reddet
+2:e
+51
+Markéta JERÁBKOVÁ
+Retur
+51
+Markéta JERÁBKOVÁ
+12
+Catharina BROCH
+
+41.58 20-23 IKA
+Mål
+ST
+51
+Markéta JERÁBKOVÁ
+12
+Catharina BROCH
+
+42.10
+NFH Time out
+
+42.52 20-24 NFH Mål
+HB 18
+Alberte KIELSTRUP
+12
+Filippa IDÉHN
+
+43.05
+IKA
+Skud på stolpe
+2:e
+51
+Markéta JERÁBKOVÁ
+Retur
+6
+Cecilie BRANDT
+12
+Catharina BROCH
+
+43.33
+IKA
+Tilkendt straffe
+14
+Emma LINDQVIST
+Forårs. str.
+26
+Mona OBAIDLI
+
+43.55 21-24 IKA
+Mål på straffe
+7
+Stine SKOGRAND
+12
+Catharina BROCH
+
+44.50
+NFH Regelfejl
+18
+Alberte KIELSTRUP
+
+45.19 22-24 IKA
+Mål
+HF
+6
+Cecilie BRANDT
+Assist
+14
+Emma LINDQVIST
+12
+Catharina BROCH
+
+45.31 22-25 NFH Mål
+2:e
+26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+46.10 23-25 IKA
+Mål
+VB
+51
+Markéta JERÁBKOVÁ
+12
+Catharina BROCH
+
+46.44
+NFH Tabt bold
+26
+Mona OBAIDLI
+Bold erobret 51
+Markéta JERÁBKOVÁ
+
+46.48 24-25 IKA
+Mål
+1:e
+6
+Cecilie BRANDT
+Assist
+14
+Emma LINDQVIST
+12
+Catharina BROCH
+
+47.43 24-26 NFH Mål
+HF
+20
+Maja MAGNUSSEN
+12
+Filippa IDÉHN
+
+48.09
+IKA
+Fejlaflevering
+51
+Markéta JERÁBKOVÁ
+Bold erobret 21
+Matilde VESTERGAARD
+
+48.17 24-27 NFH Mål
+1:e
+21
+Matilde VESTERGAARD
+0
+
+48.45 25-27 IKA
+Mål
+PL
+51
+Markéta JERÁBKOVÁ
+12
+Catharina BROCH
+
+
+--- Side 3 ---
+
+KAMPHÆNDELSER
+Ikast Håndbold - Nykøbing F. Håndbold   31 - 29  (14 - 16)
+
+748226 / 12-11-2024 / IBF Arena Hal A / Kvindeligaen
+
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+
+48.58
+NFH Skud forbi
+2:e
+29
+Julie Vibe SEEBERG
+12
+Filippa IDÉHN
+
+49.20 26-27 IKA
+Mål
+VF
+2
+Matilde KONDRUP NIELSEN
+Assist
+17
+Simone PETERSEN
+12
+Catharina BROCH
+
+49.36 26-28 NFH Mål
+VF
+21
+Matilde VESTERGAARD
+12
+Filippa IDÉHN
+
+50.21 27-28 IKA
+Mål
+Gbr 14
+Emma LINDQVIST
+12
+Catharina BROCH
+
+51.30
+NFH Skud reddet
+HF
+20
+Maja MAGNUSSEN
+12
+Filippa IDÉHN
+
+51.56
+IKA
+Tilkendt straffe
+14
+Emma LINDQVIST
+Forårs. str.
+21
+Matilde VESTERGAARD
+
+51.56
+NFH Udvisning
+21
+Matilde VESTERGAARD
+
+51.59 28-28 IKA
+Mål på straffe
+7
+Stine SKOGRAND
+1
+Sofie BÖRJESSON
+
+52.50
+NFH Skud reddet
+PL
+18
+Alberte KIELSTRUP
+12
+Filippa IDÉHN
+
+53.17
+IKA
+Skud reddet
+HF
+6
+Cecilie BRANDT
+1
+Sofie BÖRJESSON
+
+53.49
+NFH Regelfejl
+79
+Kristina KRISTIANSEN
+
+54.00 29-28 IKA
+Mål
+PL
+17
+Simone PETERSEN
+1
+Sofie BÖRJESSON
+
+54.37
+NFH Tilkendt straffe
+18
+Alberte KIELSTRUP
+Forårs. str.
+18
+Maria LYKKEGAARD
+
+54.58
+NFH Straffekast reddet
+49
+Aimée VON PEREIRA
+12
+Filippa IDÉHN
+
+55.40
+IKA
+Skud på stolpe
+HB 14
+Emma LINDQVIST
+1
+Sofie BÖRJESSON
+
+56.12
+IKA
+Udvisning
+14
+Emma LINDQVIST
+
+56.34
+NFH Skud reddet
+VF
+21
+Matilde VESTERGAARD
+12
+Filippa IDÉHN
+
+57.26
+IKA
+Passivt spil
+0
+
+57.48
+NFH Skud reddet
+VF
+21
+Matilde VESTERGAARD
+12
+Filippa IDÉHN
+
+58.30 30-28 IKA
+Mål
+VF
+2
+Matilde KONDRUP NIELSEN
+Assist
+17
+Simone PETERSEN
+1
+Sofie BÖRJESSON
+
+58.40
+NFH Time out
+
+59.01 30-29 NFH Mål
+Gbr 26
+Mona OBAIDLI
+12
+Filippa IDÉHN
+
+59.36
+IKA
+Tilkendt straffe
+7
+Stine SKOGRAND
+Forårs. str.
+26
+Mona OBAIDLI
+
+59.39 31-29 IKA
+Mål på straffe
+51
+Markéta JERÁBKOVÁ
+1
+Sofie BÖRJESSON
+
+59.55
+NFH Skud forbi
+VF
+22
+Zoë SPRENGERS
+12
+Filippa IDÉHN
+
+60.00
+IKA
+Skud forbi
+2:e
+12
+Filippa IDÉHN
+1
+Sofie BÖRJESSON
+
+60.00 31-29
+Fuld tid
+
+60.00
+Kamp slut
+
+Software: Jilsén System AB. Logget af: Jess Pedersen, Dan Pedersen,
+
