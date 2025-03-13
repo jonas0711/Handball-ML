@@ -1,0 +1,141 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748281,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748281,0.40,,NFH,Skud reddet,PL,26,Mona OBAIDLI,Retur,0,Yara TEN HOLTE,,
+3,748281,0.46,0-1,NFH,Mål,VF,21,Matilde VESTERGAARD,,,,38,Yara TEN HOLTE
+4,748281,0.56,1-1,ODE,Mål,ST,3,Maren AARDAHL,Assist,68,Helena ELVER,1,Sofie BÖRJESSON
+5,748281,1.09,,NFH,Skud reddet,2:e,2,Caroline AAR,,,,38,Yara TEN HOLTE
+6,748281,1.21,,ODE,Fejlaflevering,,22,Ragnhild DAHL,,,,,
+7,748281,2.01,,NFH,Skud reddet,HF,11,Rosa SCHMIDT,,,,38,Yara TEN HOLTE
+8,748281,2.54,,ODE,Skud reddet,Gbr,22,Ragnhild DAHL,,,,1,Sofie BÖRJESSON
+9,748281,3.33,,ODE,Advarsel,,20,Lysa DEFO,,,,,
+10,748281,4.13,,NFH,Fejlaflevering,,7,Amalie WULFF,Bold erobret,23,Elma HALILCEVIC,,
+11,748281,4.19,2-1,ODE,Mål,2:e,3,Maren AARDAHL,Assist,68,Helena ELVER,1,Sofie BÖRJESSON
+12,748281,4.32,2-2,NFH,Mål,Gbr,7,Amalie WULFF,,,,38,Yara TEN HOLTE
+13,748281,5.35,3-2,ODE,Mål,PL,33,Thale Rushfeldt DEILA,,,,1,Sofie BÖRJESSON
+14,748281,6.49,3-3,NFH,Mål,Gbr,18,Alberte KIELSTRUP,,,,38,Yara TEN HOLTE
+15,748281,6.58,4-3,ODE,Mål,2:e,68,Helena ELVER,,,,1,Sofie BÖRJESSON
+16,748281,7.31,,NFH,Skud forbi,VF,21,Matilde VESTERGAARD,,,,38,Yara TEN HOLTE
+17,748281,8.15,5-3,ODE,Mål,PL,33,Thale Rushfeldt DEILA,,,,1,Sofie BÖRJESSON
+18,748281,8.48,,NFH,Fejlaflevering,,18,Alberte KIELSTRUP,,,,,
+19,748281,8.55,6-3,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,22,Ragnhild DAHL,1,Sofie BÖRJESSON
+20,748281,9.24,,NFH,Skud reddet,Gbr,18,Alberte KIELSTRUP,Retur,0,Yara TEN HOLTE,,
+21,748281,9.43,,NFH,Fejlaflevering,,26,Mona OBAIDLI,Bold erobret,6,Malin AUNE,,
+22,748281,9.49,7-3,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,33,Thale Rushfeldt DEILA,1,Sofie BÖRJESSON
+23,748281,10.20,,NFH,Fejlaflevering,,7,Amalie WULFF,Bold erobret,23,Elma HALILCEVIC,,
+24,748281,10.25,8-3,ODE,Mål,1:e,23,Elma HALILCEVIC,,,,,
+25,748281,11.00,,NFH,Skud på stolpe,VF,21,Matilde VESTERGAARD,,,,38,Yara TEN HOLTE
+26,748281,11.13,,ODE,Skud reddet,VB,22,Ragnhild DAHL,Retur,0,Sofie BÖRJESSON,,
+27,748281,11.34,,ODE,Regelfejl,,68,Helena ELVER,,,,,
+28,748281,12.12,,NFH,Fejlaflevering,,26,Mona OBAIDLI,,,,,
+29,748281,12.27,,ODE,Tabt bold,,33,Thale Rushfeldt DEILA,,,,,
+30,748281,12.33,8-4,NFH,Mål,1:e,11,Rosa SCHMIDT,Assist,79,Kristina KRISTIANSEN,38,Yara TEN HOLTE
+31,748281,13.01,,ODE,Fejlaflevering,,68,Helena ELVER,,,,,
+32,748281,13.17,,NFH,Skud reddet,Gbr,49,Aimée VON PEREIRA,,,,38,Yara TEN HOLTE
+33,748281,13.58,,ODE,Skud på stolpe,ST,3,Maren AARDAHL,,,,1,Sofie BÖRJESSON
+34,748281,14.22,,NFH,Fejlaflevering,,26,Mona OBAIDLI,,,,,
+35,748281,15.17,,ODE,Tilkendt straffe,,33,Thale Rushfeldt DEILA,Forårs. str.,49,Aimée VON PEREIRA,,
+36,748281,15.32,9-4,ODE,Mål på straffe,,34,Andrea HANSEN,,,,1,Sofie BÖRJESSON
+37,748281,15.37,,NFH,Time out,,,,,,,,
+38,748281,16.06,9-5,NFH,Mål,Gbr,26,Mona OBAIDLI,,,,38,Yara TEN HOLTE
+39,748281,16.19,10-5,ODE,Mål,PL,33,Thale Rushfeldt DEILA,,,,1,Sofie BÖRJESSON
+40,748281,17.05,,ODE,Advarsel,,27,Louise BURGAARD,,,,,
+41,748281,17.24,,NFH,Fejlaflevering,,79,Kristina KRISTIANSEN,Bold erobret,23,Elma HALILCEVIC,,
+42,748281,17.28,11-5,ODE,Mål,1:e,23,Elma HALILCEVIC,,,,,
+43,748281,17.59,,NFH,Skud forbi,ST,34,Sofie BARDRUM,,,,38,Yara TEN HOLTE
+44,748281,18.08,,ODE,Skud forbi,2:e,33,Thale Rushfeldt DEILA,,,,1,Sofie BÖRJESSON
+45,748281,18.16,11-6,NFH,Mål,1:e,21,Matilde VESTERGAARD,Assist,1,Sofie BÖRJESSON,38,Yara TEN HOLTE
+46,748281,18.45,12-6,ODE,Mål,HF,6,Malin AUNE,Assist,27,Louise BURGAARD,1,Sofie BÖRJESSON
+47,748281,19.11,,NFH,Skud reddet,ST,2,Caroline AAR,,,,38,Yara TEN HOLTE
+48,748281,19.19,13-6,ODE,Mål,2:e,23,Elma HALILCEVIC,Assist,33,Thale Rushfeldt DEILA,1,Sofie BÖRJESSON
+49,748281,20.29,,NFH,Skud forbi,VB,26,Mona OBAIDLI,,,,38,Yara TEN HOLTE
+50,748281,20.36,,ODE,Skud forbi,1:e,38,Yara TEN HOLTE,,,,,
+51,748281,21.02,,NFH,Skud reddet,VB,26,Mona OBAIDLI,,,,38,Yara TEN HOLTE
+52,748281,21.25,14-6,ODE,Mål,PL,68,Helena ELVER,,,,1,Sofie BÖRJESSON
+53,748281,21.39,,NFH,Time out,,,,,,,,
+54,748281,22.12,14-7,NFH,Mål,Gbr,79,Kristina KRISTIANSEN,,,,38,Yara TEN HOLTE
+55,748281,22.39,15-7,ODE,Mål,PL,33,Thale Rushfeldt DEILA,,,,1,Sofie BÖRJESSON
+56,748281,23.11,,NFH,Skud reddet,VF,21,Matilde VESTERGAARD,,,,38,Yara TEN HOLTE
+57,748281,23.33,,ODE,Skud forbi,PL,33,Thale Rushfeldt DEILA,,,,1,Sofie BÖRJESSON
+58,748281,24.32,,NFH,Skud reddet,ST,34,Sofie BARDRUM,,,,38,Yara TEN HOLTE
+59,748281,24.40,,ODE,Skud forbi,2:e,33,Thale Rushfeldt DEILA,,,,1,Sofie BÖRJESSON
+60,748281,25.17,,ODE,Udvisning,,20,Lysa DEFO,,,,,
+61,748281,25.30,15-8,NFH,Mål,HF,11,Rosa SCHMIDT,Assist,18,Alberte KIELSTRUP,38,Yara TEN HOLTE
+62,748281,25.49,,ODE,Time out,,,,,,,,
+63,748281,26.25,,ODE,Skud reddet,VB,33,Thale Rushfeldt DEILA,Retur,0,,1,Sofie BÖRJESSON
+64,748281,26.52,16-8,ODE,Mål,Gbr,68,Helena ELVER,Assist,23,Elma HALILCEVIC,1,Sofie BÖRJESSON
+65,748281,27.22,,NFH,Skud forbi,HF,11,Rosa SCHMIDT,,,,38,Yara TEN HOLTE
+66,748281,28.10,17-8,ODE,Mål,ST,34,Andrea HANSEN,Assist,8,Helene FAUSKE,1,Sofie BÖRJESSON
+67,748281,29.03,,NFH,Regelfejl,,2,Caroline AAR,,,,,
+68,748281,29.55,18-8,ODE,Mål,HB,27,Louise BURGAARD,,,,1,Sofie BÖRJESSON
+69,748281,30.00,18-8,ODE,Halvleg,,,,,,,,
+70,748281,30.00,,,Start 2:e halvleg,,,,,,,,
+71,748281,30.23,19-8,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,12,Catharina BROCH
+72,748281,31.27,19-9,NFH,Mål,ST,34,Sofie BARDRUM,Assist,79,Kristina KRISTIANSEN,38,Yara TEN HOLTE
+73,748281,31.52,20-9,ODE,Mål,PL,33,Thale Rushfeldt DEILA,,,,12,Catharina BROCH
+74,748281,32.32,20-10,NFH,Mål,HF,11,Rosa SCHMIDT,Assist,18,Alberte KIELSTRUP,38,Yara TEN HOLTE
+75,748281,33.14,,ODE,Skud reddet,PL,8,Helene FAUSKE,,,,12,Catharina BROCH
+76,748281,33.23,20-11,NFH,Mål,2:e,18,Alberte KIELSTRUP,,,,38,Yara TEN HOLTE
+77,748281,33.59,21-11,ODE,Mål,PL,8,Helene FAUSKE,Assist,33,Thale Rushfeldt DEILA,12,Catharina BROCH
+78,748281,34.22,21-12,NFH,Mål,ST,18,Alberte KIELSTRUP,Assist,79,Kristina KRISTIANSEN,38,Yara TEN HOLTE
+79,748281,34.30,,ODE,Skud reddet,2:e,3,Maren AARDAHL,,,,12,Catharina BROCH
+80,748281,34.55,,NFH,Fejlaflevering,,18,Alberte KIELSTRUP,Bold erobret,44,Nikita Van Der VLIET,,
+81,748281,35.15,22-12,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,8,Helene FAUSKE,12,Catharina BROCH
+82,748281,35.29,,NFH,Skud forbi,Gbr,18,Alberte KIELSTRUP,,,,38,Yara TEN HOLTE
+83,748281,36.00,,ODE,Regelfejl,,28,Clara Skyum THOMSEN,,,,,
+84,748281,36.27,22-13,NFH,Mål,Gbr,7,Amalie WULFF,,,,38,Yara TEN HOLTE
+85,748281,37.10,,ODE,Skud reddet,PL,28,Clara Skyum THOMSEN,,,,12,Catharina BROCH
+86,748281,37.41,,NFH,Tabt bold,,21,Matilde VESTERGAARD,,,,,
+87,748281,37.57,,ODE,Skud blokeret,1:e,33,Thale Rushfeldt DEILA,Blokeret af,18,Alberte KIELSTRUP,,
+88,748281,38.13,,NFH,Regelfejl,,21,Matilde VESTERGAARD,,,,,
+89,748281,38.23,23-13,ODE,Mål,PL,28,Clara Skyum THOMSEN,,,,12,Catharina BROCH
+90,748281,38.34,,NFH,Tilkendt straffe,,2,Caroline AAR,Forårs. str.,44,Nikita Van Der VLIET,,
+91,748281,38.42,,NFH,Straffekast på stolpe,,34,Sofie BARDRUM,,,,38,Yara TEN HOLTE
+92,748281,39.09,,ODE,Skud reddet,PL,8,Helene FAUSKE,,,,12,Catharina BROCH
+93,748281,39.15,23-14,NFH,Mål,1:e,26,Mona OBAIDLI,,,,38,Yara TEN HOLTE
+94,748281,39.56,,ODE,Tabt bold,,28,Clara Skyum THOMSEN,,,,,
+95,748281,39.59,23-15,NFH,Mål,1:e,18,Alberte KIELSTRUP,Assist,26,Mona OBAIDLI,38,Yara TEN HOLTE
+96,748281,39.59,,ODE,Time out,,,,,,,,
+97,748281,40.28,,ODE,Skud forbi,HB,27,Louise BURGAARD,,,,12,Catharina BROCH
+98,748281,40.35,23-16,NFH,Mål,2:e,26,Mona OBAIDLI,,,,38,Yara TEN HOLTE
+99,748281,41.05,,ODE,Fejlaflevering,,34,Andrea HANSEN,Bold erobret,18,Alberte KIELSTRUP,,
+100,748281,41.13,,NFH,Regelfejl,,26,Mona OBAIDLI,,,,,
+101,748281,41.43,24-16,ODE,Mål,Gbr,68,Helena ELVER,,,,12,Catharina BROCH
+102,748281,42.18,,NFH,Skud forbi,VF,21,Matilde VESTERGAARD,,,,38,Yara TEN HOLTE
+103,748281,42.47,25-16,ODE,Mål,Gbr,68,Helena ELVER,Assist,22,Ragnhild DAHL,12,Catharina BROCH
+104,748281,42.55,25-17,NFH,Mål,,,,,,,38,Yara TEN HOLTE
+105,748281,43.42,26-17,ODE,Mål,VF,10,Anna GRUNDTVIG,Assist,27,Louise BURGAARD,12,Catharina BROCH
+106,748281,43.46,,NFH,Time out,,,,,,,,
+107,748281,44.04,,NFH,Tabt bold,,7,Amalie WULFF,,,,,
+108,748281,44.40,,NFH,Udvisning,,2,Caroline AAR,,,,,
+109,748281,44.54,27-17,ODE,Mål,Gbr,68,Helena ELVER,,,,12,Catharina BROCH
+110,748281,45.46,,NFH,Tabt bold,,26,Mona OBAIDLI,,,,,
+111,748281,46.02,28-17,ODE,Mål,2:e,34,Andrea HANSEN,Assist,27,Louise BURGAARD,12,Catharina BROCH
+112,748281,46.37,,NFH,Fejlaflevering,,18,Alberte KIELSTRUP,,,,,
+113,748281,46.40,29-17,ODE,Mål,1:e,27,Louise BURGAARD,Assist,20,Lysa DEFO,,
+114,748281,47.22,,NFH,Tilkendt straffe,,34,Sofie BARDRUM,Forårs. str.,20,Lysa DEFO,,
+115,748281,47.39,29-18,NFH,Mål på straffe,,49,Aimée VON PEREIRA,,,,38,Yara TEN HOLTE
+116,748281,48.08,30-18,ODE,Mål,VF,10,Anna GRUNDTVIG,Assist,22,Ragnhild DAHL,12,Catharina BROCH
+117,748281,48.35,30-19,NFH,Mål,PL,79,Kristina KRISTIANSEN,,,,12,Andrea Nørklit JØRGENSEN
+118,748281,48.40,31-19,ODE,Mål,2:e,3,Maren AARDAHL,,,,,
+119,748281,49.16,31-20,NFH,Mål,PL,79,Kristina KRISTIANSEN,,,,12,Andrea Nørklit JØRGENSEN
+120,748281,49.22,32-20,ODE,Mål,2:e,3,Maren AARDAHL,,,,,
+121,748281,50.13,,NFH,Skud forbi,PL,79,Kristina KRISTIANSEN,,,,12,Andrea Nørklit JØRGENSEN
+122,748281,50.43,33-20,ODE,Mål,Gbr,22,Ragnhild DAHL,,,,12,Catharina BROCH
+123,748281,51.06,33-21,NFH,Mål,ST,34,Sofie BARDRUM,Assist,18,Alberte KIELSTRUP,12,Andrea Nørklit JØRGENSEN
+124,748281,52.00,,ODE,Skud reddet,PL,22,Ragnhild DAHL,Retur,,,12,Catharina BROCH
+125,748281,52.19,,ODE,Skud reddet,Gbr,27,Louise BURGAARD,,,,12,Catharina BROCH
+126,748281,52.57,,NFH,Tilkendt straffe,,26,Mona OBAIDLI,Forårs. str.,22,Ragnhild DAHL,,
+127,748281,53.11,33-22,NFH,Mål på straffe,,49,Aimée VON PEREIRA,,,,12,Andrea Nørklit JØRGENSEN
+128,748281,53.41,,ODE,Skud reddet,ST,20,Lysa DEFO,,,,12,Catharina BROCH
+129,748281,54.15,33-23,NFH,Mål,Gbr,79,Kristina KRISTIANSEN,,,,12,Andrea Nørklit JØRGENSEN
+130,748281,54.41,34-23,ODE,Mål,HB,27,Louise BURGAARD,,,,12,Catharina BROCH
+131,748281,55.22,,NFH,Regelfejl,,26,Mona OBAIDLI,,,,,
+132,748281,55.55,,ODE,Skud reddet,VB,22,Ragnhild DAHL,,,,12,Catharina BROCH
+133,748281,56.36,,NFH,Skud reddet,VF,21,Matilde VESTERGAARD,Retur,,,12,Andrea Nørklit JØRGENSEN
+134,748281,57.04,,NFH,Skud reddet,HF,11,Rosa SCHMIDT,,,,12,Andrea Nørklit JØRGENSEN
+135,748281,57.28,,ODE,Fejlaflevering,,27,Louise BURGAARD,,,,,
+136,748281,57.52,34-24,NFH,Mål,ST,2,Caroline AAR,Assist,79,Kristina KRISTIANSEN,12,Andrea Nørklit JØRGENSEN
+137,748281,57.59,35-24,ODE,Mål,2:e,3,Maren AARDAHL,,,,,
+138,748281,58.44,35-25,NFH,Mål,Gbr,7,Amalie WULFF,,,,12,Andrea Nørklit JØRGENSEN
+139,748281,59.19,36-25,ODE,Mål,PL,27,Louise BURGAARD,,,,12,Catharina BROCH
+140,748281,59.57,,NFH,Skud på stolpe,PL,79,Kristina KRISTIANSEN,,,,12,Andrea Nørklit JØRGENSEN

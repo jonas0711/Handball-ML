@@ -1,0 +1,139 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748692,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748692,0.34,1-0,TMS,Mål,PL,5,Mark NIKOLAJSEN,,,,30,Svend RUGHAVE
+3,748692,1.19,1-1,MTH,Mål,PL,21,Marcus MIDTGAARD,,,,16,Andreas HAAGEN
+4,748692,2.06,,TMS,Skud blokeret,PL,17,Oliver WOSNIAK,Blok af (ret),4,Kasper LINDGREN,,
+5,748692,2.17,,TMS,Skud forbi,HB,19,Benjamin HALLGREN,,,,30,Svend RUGHAVE
+6,748692,2.49,1-2,MTH,Mål,Gbr,28,Rasmus MADSEN,,,,16,Andreas HAAGEN
+7,748692,2.59,,TMS,Skud reddet,PL,17,Oliver WOSNIAK,,,,30,Svend RUGHAVE
+8,748692,3.12,,MTH,Tilkendt straffe,,7,Nichlas HALD,Forårs. str.,17,Oliver WOSNIAK,,
+9,748692,3.32,1-3,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,16,Andreas HAAGEN
+10,748692,4.02,2-3,TMS,Mål,Gbr,7,Christoffer DREYER,,,,30,Svend RUGHAVE
+11,748692,4.59,,MTH,Tilkendt straffe,,15,Henrik Toft HANSEN,Forårs. str.,19,Benjamin HALLGREN,,
+12,748692,5.12,2-4,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,16,Andreas HAAGEN
+13,748692,6.01,3-4,TMS,Mål,Gbr,5,Mark NIKOLAJSEN,,,,30,Svend RUGHAVE
+14,748692,6.18,,TMS,Advarsel,,2,Joachim MØLLER,,,,,
+15,748692,6.57,,MTH,Skud reddet,Gbr,21,Marcus MIDTGAARD,,,,16,Andreas HAAGEN
+16,748692,7.50,4-4,TMS,Mål,Gbr,5,Mark NIKOLAJSEN,,,,30,Svend RUGHAVE
+17,748692,8.02,4-5,MTH,Mål,Gbr,7,Nichlas HALD,,,,16,Andreas HAAGEN
+18,748692,8.22,5-5,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,30,Svend RUGHAVE
+19,748692,9.10,,MTH,Skud reddet,PL,28,Rasmus MADSEN,,,,16,Andreas HAAGEN
+20,748692,10.13,,TMS,Fejlaflevering,,81,Tobias NIELSEN,Bold erobret,15,Henrik Toft HANSEN,,
+21,748692,10.46,,MTH,Tabt bold,,15,Henrik Toft HANSEN,Bold erobret,16,Andreas HAAGEN,,
+22,748692,10.51,6-5,TMS,Mål,2:e,2,Joachim MØLLER,Assist,7,Christoffer DREYER,30,Svend RUGHAVE
+23,748692,11.26,6-6,MTH,Mål,VF,25,Magnus NORLYK,Assist,10,Mads Svane KNUDSEN,16,Andreas HAAGEN
+24,748692,12.00,,TMS,Tilkendt straffe,,24,Simon OOMS,Forårs. str.,4,Kasper LINDGREN,,
+25,748692,12.13,,MTH,Advarsel,,4,Kasper LINDGREN,,,,,
+26,748692,12.21,,TMS,Straffekast reddet,,81,Tobias NIELSEN,,,,30,Svend RUGHAVE
+27,748692,13.09,,MTH,Skud reddet,Gbr,7,Nichlas HALD,,,,16,Andreas HAAGEN
+28,748692,13.18,,TMS,Tilkendt straffe,,7,Christoffer DREYER,Forårs. str.,4,Kasper LINDGREN,,
+29,748692,13.21,,MTH,Udvisning,,4,Kasper LINDGREN,,,,,
+30,748692,13.31,,TMS,Straffekast reddet,,81,Tobias NIELSEN,,,,30,Svend RUGHAVE
+31,748692,13.56,6-7,MTH,Mål,Gbr,7,Nichlas HALD,,,,16,Andreas HAAGEN
+32,748692,14.03,7-7,TMS,Mål,1:e,7,Christoffer DREYER,,,,,
+33,748692,14.51,,MTH,Fejlaflevering,,9,Kristoffer VESTERGAARD,,,,,
+34,748692,15.05,8-7,TMS,Mål,VB,17,Oliver WOSNIAK,,,,30,Svend RUGHAVE
+35,748692,15.40,8-8,MTH,Mål,PL,9,Kristoffer VESTERGAARD,,,,16,Andreas HAAGEN
+36,748692,16.13,9-8,TMS,Mål,Gbr,7,Christoffer DREYER,,,,30,Svend RUGHAVE
+37,748692,16.27,,MTH,Skud forbi,PL,7,Nichlas HALD,,,,16,Andreas HAAGEN
+38,748692,17.07,10-8,TMS,Mål,PL,19,Benjamin HALLGREN,,,,30,Svend RUGHAVE
+39,748692,17.15,10-9,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,7,Nichlas HALD,16,Andreas HAAGEN
+40,748692,17.49,11-9,TMS,Mål,VF,27,Victor WOLF,Assist,7,Christoffer DREYER,30,Svend RUGHAVE
+41,748692,18.19,,MTH,Skud forbi,PL,10,Mads Svane KNUDSEN,,,,16,Andreas HAAGEN
+42,748692,19.03,,TMS,Skud blokeret,PL,5,Mark NIKOLAJSEN,Blokeret af,36,Silas OVERBY,,
+43,748692,19.29,11-10,MTH,Mål,VB,9,Kristoffer VESTERGAARD,Assist,10,Mads Svane KNUDSEN,16,Andreas HAAGEN
+44,748692,20.04,12-10,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,30,Svend RUGHAVE
+45,748692,20.22,,MTH,Tabt bold,,21,Marcus MIDTGAARD,,,,,
+46,748692,21.02,,TMS,Skud reddet,PL,5,Mark NIKOLAJSEN,,,,20,Oliver LARSEN
+47,748692,21.15,,MTH,Skud reddet,PL,28,Rasmus MADSEN,,,,16,Andreas HAAGEN
+48,748692,21.50,13-10,TMS,Mål,PL,19,Benjamin HALLGREN,,,,20,Oliver LARSEN
+49,748692,22.59,,MTH,Regelfejl,,17,Malthe BULL,,,,,
+50,748692,23.38,14-10,TMS,Mål,Gbr,10,Frederik HORN,,,,20,Oliver LARSEN
+51,748692,23.47,,MTH,Time out,,,,,,,,
+52,748692,24.06,14-11,MTH,Mål,Gbr,7,Nichlas HALD,,,,16,Andreas HAAGEN
+53,748692,24.42,,TMS,Tabt bold,,10,Frederik HORN,Bold erobret,21,Marcus MIDTGAARD,,
+54,748692,24.48,14-12,MTH,Mål,1:e,7,Nichlas HALD,,,,16,Andreas HAAGEN
+55,748692,25.22,,TMS,Regelfejl,,5,Mark NIKOLAJSEN,,,,,
+56,748692,26.16,,MTH,Skud forbi,HB,9,Kristoffer VESTERGAARD,,,,16,Andreas HAAGEN
+57,748692,26.48,,TMS,Fejlaflevering,,19,Benjamin HALLGREN,Bold erobret,17,Malthe BULL,,
+58,748692,26.54,14-13,MTH,Mål,1:e,17,Malthe BULL,,,,16,Andreas HAAGEN
+59,748692,27.27,15-13,TMS,Mål,VF,27,Victor WOLF,Assist,5,Mark NIKOLAJSEN,20,Oliver LARSEN
+60,748692,27.34,,MTH,Fejlaflevering,,21,Marcus MIDTGAARD,Bold erobret,27,Victor WOLF,,
+61,748692,27.39,,TMS,Skud reddet,1:e,27,Victor WOLF,Retur,7,Christoffer DREYER,20,Oliver LARSEN
+62,748692,27.46,16-13,TMS,Mål,1:e,7,Christoffer DREYER,,,,20,Oliver LARSEN
+63,748692,28.17,,MTH,Tilkendt straffe,,15,Henrik Toft HANSEN,Forårs. str.,17,Oliver WOSNIAK,,
+64,748692,28.23,,MTH,Straffekast reddet,,11,Lasse PEDERSEN,,,,16,Andreas HAAGEN
+65,748692,29.10,,TMS,Tilkendt straffe,,19,Benjamin HALLGREN,Forårs. str.,7,Nichlas HALD,,
+66,748692,29.14,17-13,TMS,Mål på straffe,,27,Victor WOLF,,,,30,Svend RUGHAVE
+67,748692,29.58,,MTH,Skud reddet,VB,7,Nichlas HALD,,,,16,Andreas HAAGEN
+68,748692,30.00,17-13,,Halvleg,,,,,,,,
+69,748692,30.00,,,Start 2:e halvleg,,,,,,,,
+70,748692,30.43,,MTH,Skud forbi,PL,7,Nichlas HALD,,,,16,Andreas HAAGEN
+71,748692,30.48,18-13,TMS,Mål,2:e,17,Oliver WOSNIAK,,,,20,Oliver LARSEN
+72,748692,32.03,18-14,MTH,Mål,Gbr,28,Rasmus MADSEN,,,,16,Andreas HAAGEN
+73,748692,32.43,,TMS,Skud reddet,Gbr,19,Benjamin HALLGREN,,,,20,Oliver LARSEN
+74,748692,32.52,,MTH,Skud forbi,PL,7,Nichlas HALD,,,,16,Andreas HAAGEN
+75,748692,33.28,19-14,TMS,Mål,Gbr,17,Oliver WOSNIAK,,,,20,Oliver LARSEN
+76,748692,34.09,,MTH,Fejlaflevering,,19,Victor NORLYK,,,,,
+77,748692,34.14,20-14,TMS,Mål,2:e,2,Joachim MØLLER,Assist,17,Oliver WOSNIAK,20,Oliver LARSEN
+78,748692,34.44,20-15,MTH,Mål,ST,4,Kasper LINDGREN,Assist,7,Nichlas HALD,16,Andreas HAAGEN
+79,748692,35.13,21-15,TMS,Mål,ST,24,Simon OOMS,Assist,19,Benjamin HALLGREN,20,Oliver LARSEN
+80,748692,35.21,,MTH,Skud reddet,2:e,7,Nichlas HALD,,,,16,Andreas HAAGEN
+81,748692,35.27,,TMS,Fejlaflevering,,16,Andreas HAAGEN,Bold erobret,10,Mads Svane KNUDSEN,,
+82,748692,35.55,21-16,MTH,Mål,ST,15,Henrik Toft HANSEN,Assist,10,Mads Svane KNUDSEN,16,Andreas HAAGEN
+83,748692,36.23,22-16,TMS,Mål,PL,17,Oliver WOSNIAK,,,,20,Oliver LARSEN
+84,748692,36.29,22-17,MTH,Mål,2:e,21,Marcus MIDTGAARD,,,,16,Andreas HAAGEN
+85,748692,37.13,,TMS,Regelfejl,,17,Oliver WOSNIAK,,,,,
+86,748692,38.01,,MTH,Skud på stolpe,Gbr,21,Marcus MIDTGAARD,,,,16,Andreas HAAGEN
+87,748692,38.32,23-17,TMS,Mål,PL,17,Oliver WOSNIAK,,,,30,Svend RUGHAVE
+88,748692,38.40,,MTH,Regelfejl,,21,Marcus MIDTGAARD,,,,,
+89,748692,39.24,,TMS,Skud reddet,ST,24,Simon OOMS,,,,30,Svend RUGHAVE
+90,748692,39.30,23-18,MTH,Mål,2:e,10,Mads Svane KNUDSEN,Assist,7,Nichlas HALD,16,Andreas HAAGEN
+91,748692,40.22,,TMS,Tilkendt straffe,,19,Benjamin HALLGREN,Forårs. str.,7,Nichlas HALD,,
+92,748692,40.46,24-18,TMS,Mål på straffe,,27,Victor WOLF,,,,30,Svend RUGHAVE
+93,748692,41.18,,MTH,Skud reddet,PL,10,Mads Svane KNUDSEN,,,,16,Andreas HAAGEN
+94,748692,41.59,,MTH,Udvisning,,21,Marcus MIDTGAARD,,,,,
+95,748692,42.18,,TMS,Skud på stolpe,Gbr,7,Christoffer DREYER,,,,30,Svend RUGHAVE
+96,748692,42.49,24-19,MTH,Mål,PL,10,Mads Svane KNUDSEN,,,,16,Andreas HAAGEN
+97,748692,43.09,25-19,TMS,Mål,HF,81,Tobias NIELSEN,Assist,19,Benjamin HALLGREN,30,Svend RUGHAVE
+98,748692,43.42,,MTH,Skud reddet,PL,10,Mads Svane KNUDSEN,,,,16,Andreas HAAGEN
+99,748692,43.46,26-19,TMS,Mål,1:e,81,Tobias NIELSEN,Assist,,,16,Andreas HAAGEN
+100,748692,44.21,26-20,MTH,Mål,ST,15,Henrik Toft HANSEN,Assist,10,Mads Svane KNUDSEN,16,Andreas HAAGEN
+101,748692,44.29,,TMS,Regelfejl,,19,Benjamin HALLGREN,,,,,
+102,748692,44.40,,MTH,Time out,,,,,,,,
+103,748692,45.27,26-21,MTH,Mål,VF,25,Magnus NORLYK,Assist,10,Mads Svane KNUDSEN,16,Andreas HAAGEN
+104,748692,45.52,27-21,TMS,Mål,,,,,,,,
+105,748692,46.24,,MTH,Skud reddet,ST,15,Henrik Toft HANSEN,,,,16,Andreas HAAGEN
+106,748692,46.59,28-21,TMS,Mål,PL,5,Mark NIKOLAJSEN,,,,30,Svend RUGHAVE
+107,748692,47.26,,TMS,Udvisning,,24,Simon OOMS,,,,,
+108,748692,47.49,,MTH,Skud reddet,ST,4,Kasper LINDGREN,,,,16,Andreas HAAGEN
+109,748692,48.28,29-21,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,30,Svend RUGHAVE
+110,748692,48.51,,MTH,Regelfejl,,21,Marcus MIDTGAARD,,,,,
+111,748692,49.19,,MTH,Udvisning,,36,Silas OVERBY,,,,,
+112,748692,49.19,,MTH,Advarsel,B,,Dennis Bo JENSEN,,,,,
+113,748692,49.19,,TMS,Advarsel,B,,Marc UHD,,,,,
+114,748692,49.50,30-21,TMS,Mål,PL,17,Oliver WOSNIAK,,,,30,Svend RUGHAVE
+115,748692,50.21,30-22,MTH,Mål,Gbr,28,Rasmus MADSEN,Assist,10,Mads Svane KNUDSEN,16,Andreas HAAGEN
+116,748692,50.45,31-22,TMS,Mål,PL,17,Oliver WOSNIAK,,,,30,Svend RUGHAVE
+117,748692,51.28,31-23,MTH,Mål,PL,10,Mads Svane KNUDSEN,,,,16,Andreas HAAGEN
+118,748692,52.18,32-23,TMS,Mål,PL,7,Christoffer DREYER,,,,30,Svend RUGHAVE
+119,748692,52.20,,MTH,Time out,,,,,,,,
+120,748692,52.39,,MTH,Skud reddet,Gbr,10,Mads Svane KNUDSEN,,,,16,Andreas HAAGEN
+121,748692,53.09,,TMS,Tabt bold,,5,Mark NIKOLAJSEN,Bold erobret,15,Henrik Toft HANSEN,,
+122,748692,53.10,,TMS,Udvisning,,17,Oliver WOSNIAK,,,,,
+123,748692,53.29,32-24,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,16,Andreas HAAGEN
+124,748692,54.04,,TMS,Skud reddet,Gbr,7,Christoffer DREYER,,,,30,Svend RUGHAVE
+125,748692,54.15,32-25,MTH,Mål,PL,10,Mads Svane KNUDSEN,,,,16,Andreas HAAGEN
+126,748692,54.45,,TMS,Time out,,,,,,,,
+127,748692,55.00,,TMS,Regelfejl,,22,Axel ANDERSSON,,,,,
+128,748692,55.07,32-26,MTH,Mål,2:e,10,Mads Svane KNUDSEN,,,,16,Andreas HAAGEN
+129,748692,55.30,,TMS,Regelfejl,,19,Benjamin HALLGREN,,,,,
+130,748692,56.24,32-27,MTH,Mål,Gbr,10,Mads Svane KNUDSEN,,,,16,Andreas HAAGEN
+131,748692,57.00,,TMS,Skud blokeret,PL,19,Benjamin HALLGREN,Blokeret af,4,Kasper LINDGREN,,
+132,748692,57.13,32-28,MTH,Mål,1:e,10,Mads Svane KNUDSEN,Assist,21,Marcus MIDTGAARD,16,Andreas HAAGEN
+133,748692,57.49,33-28,TMS,Mål,PL,17,Oliver WOSNIAK,,,,30,Svend RUGHAVE
+134,748692,58.17,,MTH,Skud forbi,Gbr,10,Mads Svane KNUDSEN,,,,16,Andreas HAAGEN
+135,748692,58.25,34-28,TMS,Mål,HF,81,Tobias NIELSEN,Assist,7,Christoffer DREYER,30,Svend RUGHAVE
+136,748692,59.00,,MTH,Skud reddet,PL,19,Victor NORLYK,,,,16,Andreas HAAGEN
+137,748692,59.34,35-28,TMS,Mål,PL,15,Dines KJELDGAARD,,,,30,Svend RUGHAVE
+138,748692,59.56,35-29,MTH,Mål,PL,9,Kristoffer VESTERGAARD,,,,16,Andreas HAAGEN

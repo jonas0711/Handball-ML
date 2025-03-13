@@ -1,0 +1,144 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748222,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748222,0.41,1-0,ODE,Mål,PL,32,Mie HØJLUND,,,,12,Filippa IDÉHN
+3,748222,1.30,,IKA,Tabt bold,,7,Stine SKOGRAND,,,,,
+4,748222,1.44,,ODE,Tabt bold,,33,Thale Rushfeldt DEILA,,,,,
+5,748222,1.52,,IKA,Regelfejl,,51,Markéta JERÁBKOVÁ,,,,,
+6,748222,2.02,2-0,ODE,Mål,HF,34,Andrea HANSEN,Assist,33,Thale Rushfeldt DEILA,12,Filippa IDÉHN
+7,748222,2.54,,IKA,Skud forbi,HB,51,Markéta JERÁBKOVÁ,,,,16,Althea REINHARDT
+8,748222,3.04,,IKA,Advarsel,,11,Sarah Aaberg IVERSEN,,,,,
+9,748222,3.34,,ODE,Skud reddet,Gbr,33,Thale Rushfeldt DEILA,,,,12,Filippa IDÉHN
+10,748222,3.42,2-1,IKA,Mål,2:e,7,Stine SKOGRAND,,,,16,Althea REINHARDT
+11,748222,3.54,,ODE,Skud reddet,VB,33,Thale Rushfeldt DEILA,,,,12,Filippa IDÉHN
+12,748222,3.59,2-2,IKA,Mål,1:e,22,Lærke NOLSØE,Assist,21,Ingvild BAKKERUD,16,Althea REINHARDT
+13,748222,4.33,3-2,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,68,Helena ELVER,12,Filippa IDÉHN
+14,748222,5.08,,ODE,Advarsel,,3,Maren AARDAHL,,,,,
+15,748222,5.26,3-3,IKA,Mål,PL,21,Ingvild BAKKERUD,,,,16,Althea REINHARDT
+16,748222,6.27,,ODE,Tilkendt straffe,,32,Mie HØJLUND,Forårs. str.,7,Stine SKOGRAND,,
+17,748222,6.30,,ODE,Straffekast forbi,,34,Andrea HANSEN,,,,12,Filippa IDÉHN
+18,748222,7.03,,IKA,Skud forbi,PL,21,Ingvild BAKKERUD,,,,16,Althea REINHARDT
+19,748222,7.14,,ODE,Skud på stolpe,Gbr,68,Helena ELVER,,,,12,Filippa IDÉHN
+20,748222,7.44,3-4,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,51,Markéta JERÁBKOVÁ,16,Althea REINHARDT
+21,748222,8.11,4-4,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,12,Filippa IDÉHN
+22,748222,8.22,4-5,IKA,Mål,2:e,21,Ingvild BAKKERUD,,,,16,Althea REINHARDT
+23,748222,8.56,5-5,ODE,Mål,HF,34,Andrea HANSEN,Assist,33,Thale Rushfeldt DEILA,12,Filippa IDÉHN
+24,748222,9.11,5-6,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,7,Stine SKOGRAND,16,Althea REINHARDT
+25,748222,9.23,,ODE,Fejlaflevering,,68,Helena ELVER,,,,,
+26,748222,10.10,,IKA,Fejlaflevering,,7,Stine SKOGRAND,,,,,
+27,748222,10.15,6-6,ODE,Mål,1:e,34,Andrea HANSEN,Assist,32,Mie HØJLUND,12,Filippa IDÉHN
+28,748222,10.39,,ODE,Udvisning,,20,Lysa DEFO,,,,,
+29,748222,11.01,6-7,IKA,Mål,ST,18,Maria LYKKEGAARD,Assist,19,Amanda Loft HANSEN,16,Althea REINHARDT
+30,748222,12.06,,ODE,Fejlaflevering,,68,Helena ELVER,,,,,
+31,748222,12.36,6-8,IKA,Mål,HF,77,Line Mai HOUGAARD,Assist,17,Simone PETERSEN,16,Althea REINHARDT
+32,748222,13.04,,ODE,Skud reddet,Gbr,33,Thale Rushfeldt DEILA,,,,12,Filippa IDÉHN
+33,748222,14.29,,IKA,Skud blokeret,VB,21,Ingvild BAKKERUD,Blok af (ret),33,Thale Rushfeldt DEILA,,
+34,748222,14.49,,IKA,Skud blokeret,HB,7,Stine SKOGRAND,Blokeret af,32,Mie HØJLUND,,
+35,748222,15.02,,ODE,Time out,,,,,,,,
+36,748222,15.31,7-8,ODE,Mål,Gbr,32,Mie HØJLUND,,,,12,Filippa IDÉHN
+37,748222,15.39,7-9,IKA,Mål,2:e,77,Line Mai HOUGAARD,Assist,7,Stine SKOGRAND,16,Althea REINHARDT
+38,748222,16.08,,IKA,Udvisning,,21,Ingvild BAKKERUD,,,,,
+39,748222,16.26,,ODE,Tilkendt straffe,,33,Thale Rushfeldt DEILA,Forårs. str.,51,Markéta JERÁBKOVÁ,,
+40,748222,16.51,8-9,ODE,Mål på straffe,,34,Andrea HANSEN,,,,12,Filippa IDÉHN
+41,748222,17.53,,IKA,Regelfejl,,7,Stine SKOGRAND,,,,,
+42,748222,18.10,,ODE,Regelfejl,,8,Helene FAUSKE,,,,,
+43,748222,18.52,,IKA,Time out,,,,,,,,
+44,748222,19.06,,IKA,Skud blokeret,PL,21,Ingvild BAKKERUD,Blok af (ret),3,Maren AARDAHL,,
+45,748222,19.25,,IKA,Skud reddet,PL,51,Markéta JERÁBKOVÁ,,,,16,Althea REINHARDT
+46,748222,19.34,9-9,ODE,Mål,2:e,33,Thale Rushfeldt DEILA,,,,12,Filippa IDÉHN
+47,748222,20.07,,IKA,Regelfejl,,14,Emma LINDQVIST,,,,,
+48,748222,20.38,,ODE,Fejlaflevering,,8,Helene FAUSKE,,,,,
+49,748222,20.44,9-10,IKA,Mål,1:e,18,Maria LYKKEGAARD,Assist,21,Ingvild BAKKERUD,16,Althea REINHARDT
+50,748222,21.11,10-10,ODE,Mål,ST,3,Maren AARDAHL,Assist,33,Thale Rushfeldt DEILA,12,Filippa IDÉHN
+51,748222,21.54,,IKA,Skud reddet,VF,22,Lærke NOLSØE,,,,16,Althea REINHARDT
+52,748222,22.02,11-10,ODE,Mål,2:e,33,Thale Rushfeldt DEILA,,,,12,Filippa IDÉHN
+53,748222,22.46,,IKA,Skud forbi,Gbr,14,Emma LINDQVIST,,,,16,Althea REINHARDT
+54,748222,22.53,12-10,ODE,Mål,2:e,20,Lysa DEFO,Assist,33,Thale Rushfeldt DEILA,12,Filippa IDÉHN
+55,748222,23.30,,IKA,Skud reddet,VB,51,Markéta JERÁBKOVÁ,,,,16,Althea REINHARDT
+56,748222,23.39,,ODE,Tilkendt straffe,,20,Lysa DEFO,Forårs. str.,14,Emma LINDQVIST,,
+57,748222,23.39,,IKA,Udvisning,,14,Emma LINDQVIST,,,,,
+58,748222,23.43,,ODE,Straffekast reddet,,34,Andrea HANSEN,,,,12,Filippa IDÉHN
+59,748222,24.33,,IKA,Skud reddet,ST,18,Maria LYKKEGAARD,Retur,0,,16,Althea REINHARDT
+60,748222,24.45,,IKA,Skud reddet,Gbr,77,Line Mai HOUGAARD,,,,16,Althea REINHARDT
+61,748222,24.53,13-10,ODE,Mål,ST,20,Lysa DEFO,Assist,68,Helena ELVER,12,Filippa IDÉHN
+62,748222,25.34,13-11,IKA,Mål,ST,22,Lærke NOLSØE,Assist,17,Simone PETERSEN,16,Althea REINHARDT
+63,748222,26.21,,ODE,Skud forbi,PL,22,Ragnhild DAHL,,,,12,Filippa IDÉHN
+64,748222,26.28,,IKA,Tabt bold,,14,Emma LINDQVIST,,,,,
+65,748222,26.37,,ODE,Tilkendt straffe,,33,Thale Rushfeldt DEILA,Forårs. str.,14,Emma LINDQVIST,,
+66,748222,26.43,14-11,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,12,Filippa IDÉHN
+67,748222,27.10,,IKA,Skud forbi,PL,21,Ingvild BAKKERUD,,,,16,Althea REINHARDT
+68,748222,27.39,15-11,ODE,Mål,Gbr,22,Ragnhild DAHL,,,,12,Filippa IDÉHN
+69,748222,27.49,,IKA,Tilkendt straffe,,22,Lærke NOLSØE,Forårs. str.,33,Thale Rushfeldt DEILA,,
+70,748222,27.49,,ODE,Udvisning,,20,Lysa DEFO,,,,,
+71,748222,27.53,,IKA,Straffekast reddet,,17,Simone PETERSEN,Retur,0,,16,Althea REINHARDT
+72,748222,28.21,15-12,IKA,Mål,Gbr,14,Emma LINDQVIST,,,,16,Althea REINHARDT
+73,748222,29.23,,ODE,Passivt spil,,0,,,,,,
+74,748222,29.33,,IKA,Skud reddet,1:e,21,Ingvild BAKKERUD,,,,16,Althea REINHARDT
+75,748222,29.51,,ODE,Skud forbi,PL,68,Helena ELVER,,,,12,Filippa IDÉHN
+76,748222,30.00,15-12,,Halvleg,,,,,,,,
+77,748222,30.00,,,Start 2:e halvleg,,,,,,,,
+78,748222,30.26,,IKA,Skud blokeret,VB,21,Ingvild BAKKERUD,Blok af (ret),20,Lysa DEFO,,
+79,748222,30.42,,IKA,Skud reddet,PL,51,Markéta JERÁBKOVÁ,Retur,0,,16,Althea REINHARDT
+80,748222,31.12,,IKA,Skud blokeret,PL,21,Ingvild BAKKERUD,Blok af (ret),20,Lysa DEFO,,
+81,748222,31.22,,IKA,Skud blokeret,PL,21,Ingvild BAKKERUD,Blok af (ret),3,Maren AARDAHL,,
+82,748222,31.36,15-13,IKA,Mål,VB,21,Ingvild BAKKERUD,Assist,11,Sarah Aaberg IVERSEN,16,Althea REINHARDT
+83,748222,32.09,16-13,ODE,Mål,Gbr,68,Helena ELVER,,,,12,Filippa IDÉHN
+84,748222,32.31,16-14,IKA,Mål,PL,7,Stine SKOGRAND,,,,16,Althea REINHARDT
+85,748222,32.46,,ODE,Skud reddet,HF,6,Malin AUNE,,,,12,Filippa IDÉHN
+86,748222,34.01,,IKA,Fejlaflevering,,7,Stine SKOGRAND,,,,,
+87,748222,34.35,17-14,ODE,Mål,Gbr,32,Mie HØJLUND,Assist,68,Helena ELVER,12,Filippa IDÉHN
+88,748222,34.45,,ODE,Udvisning,,20,Lysa DEFO,,,,,
+89,748222,34.45,,ODE,Rødt kort,,20,Lysa DEFO,,,,,
+90,748222,35.02,17-15,IKA,Mål,PL,7,Stine SKOGRAND,,,,16,Althea REINHARDT
+91,748222,35.52,18-15,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,32,Mie HØJLUND,12,Filippa IDÉHN
+92,748222,36.20,18-16,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,16,Althea REINHARDT
+93,748222,36.58,,ODE,Skud reddet,HF,6,Malin AUNE,,,,12,Filippa IDÉHN
+94,748222,37.28,,IKA,Regelfejl,,51,Markéta JERÁBKOVÁ,,,,,
+95,748222,38.02,19-16,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,33,Thale Rushfeldt DEILA,12,Filippa IDÉHN
+96,748222,38.34,,IKA,Tabt bold,,7,Stine SKOGRAND,,,,,
+97,748222,39.03,20-16,ODE,Mål,Gbr,68,Helena ELVER,,,,12,Filippa IDÉHN
+98,748222,39.16,,IKA,Skud blokeret,PL,21,Ingvild BAKKERUD,Blok af (ret),3,Maren AARDAHL,,
+99,748222,39.22,,IKA,Time out,,,,,,,,
+100,748222,40.07,,IKA,Skud reddet,HB,21,Ingvild BAKKERUD,,,,16,Althea REINHARDT
+101,748222,40.42,,ODE,Fejlaflevering,,68,Helena ELVER,,,,,
+102,748222,41.14,20-17,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,16,Althea REINHARDT
+103,748222,41.23,21-17,ODE,Mål,,,,,,,,
+104,748222,41.57,21-18,IKA,Mål,HF,77,Line Mai HOUGAARD,Assist,7,Stine SKOGRAND,16,Althea REINHARDT
+105,748222,42.24,,ODE,Skud reddet,Gbr,33,Thale Rushfeldt DEILA,,,,12,Filippa IDÉHN
+106,748222,42.37,,IKA,Skud forbi,PL,21,Ingvild BAKKERUD,,,,16,Althea REINHARDT
+107,748222,43.12,22-18,ODE,Mål,Gbr,68,Helena ELVER,,,,12,Filippa IDÉHN
+108,748222,43.13,,IKA,Udvisning,,18,Maria LYKKEGAARD,,,,,
+109,748222,43.43,,IKA,Skud reddet,VF,22,Lærke NOLSØE,,,,16,Althea REINHARDT
+110,748222,44.13,23-18,ODE,Mål,Gbr,32,Mie HØJLUND,Assist,23,Elma HALILCEVIC,12,Filippa IDÉHN
+111,748222,45.17,,IKA,Skud reddet,HB,7,Stine SKOGRAND,,,,16,Althea REINHARDT
+112,748222,45.46,24-18,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,32,Mie HØJLUND,12,Filippa IDÉHN
+113,748222,46.20,,IKA,Skud reddet,Gbr,14,Emma LINDQVIST,,,,16,Althea REINHARDT
+114,748222,46.58,25-18,ODE,Mål,PL,32,Mie HØJLUND,,,,12,Filippa IDÉHN
+115,748222,47.42,,IKA,Tilkendt straffe,,17,Simone PETERSEN,Forårs. str.,44,Nikita Van Der VLIET,,
+116,748222,48.00,25-19,IKA,Mål på straffe,,51,Markéta JERÁBKOVÁ,,,,16,Althea REINHARDT
+117,748222,48.47,26-19,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,32,Mie HØJLUND,1,Irma SCHJÖTT
+118,748222,48.59,26-20,IKA,Mål,2:e,14,Emma LINDQVIST,,,,16,Althea REINHARDT
+119,748222,49.32,,ODE,Tabt bold,,33,Thale Rushfeldt DEILA,,,,,
+120,748222,50.11,26-21,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,16,Althea REINHARDT
+121,748222,50.39,27-21,ODE,Mål,ST,22,Ragnhild DAHL,Assist,68,Helena ELVER,1,Irma SCHJÖTT
+122,748222,51.11,27-22,IKA,Mål,VF,22,Lærke NOLSØE,Assist,14,Emma LINDQVIST,16,Althea REINHARDT
+123,748222,52.06,,ODE,Passivt spil,,0,,,,,,
+124,748222,52.42,27-23,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,17,Simone PETERSEN,16,Althea REINHARDT
+125,748222,53.01,,ODE,Time out,,,,,,,,
+126,748222,53.13,,ODE,Skud forbi,Gbr,33,Thale Rushfeldt DEILA,,,,1,Irma SCHJÖTT
+127,748222,53.53,,IKA,Skud reddet,Gbr,14,Emma LINDQVIST,,,,16,Althea REINHARDT
+128,748222,54.26,28-23,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,33,Thale Rushfeldt DEILA,1,Irma SCHJÖTT
+129,748222,54.38,,IKA,Skud reddet,2:e,7,Stine SKOGRAND,,,,16,Althea REINHARDT
+130,748222,55.29,29-23,ODE,Mål,Gbr,32,Mie HØJLUND,,,,1,Irma SCHJÖTT
+131,748222,55.57,29-24,IKA,Mål,ST,18,Maria LYKKEGAARD,Assist,17,Simone PETERSEN,16,Althea REINHARDT
+132,748222,56.46,30-24,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,33,Thale Rushfeldt DEILA,1,Irma SCHJÖTT
+133,748222,56.56,,IKA,Skud forbi,2:e,21,Ingvild BAKKERUD,,,,16,Althea REINHARDT
+134,748222,57.28,31-24,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,68,Helena ELVER,1,Irma SCHJÖTT
+135,748222,57.33,,IKA,Time out,,,,,,,,
+136,748222,57.56,,IKA,Fejlaflevering,,14,Emma LINDQVIST,Bold erobret,34,Andrea HANSEN,,
+137,748222,58.28,32-24,ODE,Mål,Gbr,32,Mie HØJLUND,Assist,68,Helena ELVER,1,Irma SCHJÖTT
+138,748222,58.59,,IKA,Fejlaflevering,,17,Simone PETERSEN,Bold erobret,34,Andrea HANSEN,,
+139,748222,59.07,33-24,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,34,Andrea HANSEN,0,
+140,748222,59.47,,IKA,Tilkendt straffe,,17,Simone PETERSEN,Forårs. str.,23,Elma HALILCEVIC,,
+141,748222,60.00,33-25,IKA,Mål på straffe,,51,Markéta JERÁBKOVÁ,,,,16,Althea REINHARDT
+142,748222,60.00,33-25,,Fuld tid,,,,,,,,
+143,748222,60.00,,,Kamp slut,,,,,,,,

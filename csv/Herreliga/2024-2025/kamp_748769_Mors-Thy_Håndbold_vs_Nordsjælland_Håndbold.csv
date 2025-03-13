@@ -1,0 +1,149 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748769,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748769,0.35,1-0,MTH,Mål,PL,10,Mads Svane KNUDSEN,,,,16,Magnus PETERSEN
+3,748769,0.47,1-1,NSH,Mål,2:e,19,Thomas BOILESEN,,,,30,Svend RUGHAVE
+4,748769,0.55,2-1,MTH,Mål,2:e,28,Rasmus MADSEN,,,,16,Magnus PETERSEN
+5,748769,1.10,2-2,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,Assist,20,Jesper DAHL,30,Svend RUGHAVE
+6,748769,1.20,,MTH,Skud reddet,2:e,10,Mads Svane KNUDSEN,,,,16,Magnus PETERSEN
+7,748769,2.13,2-3,NSH,Mål,PL,20,Jesper DAHL,,,,30,Svend RUGHAVE
+8,748769,2.24,3-3,MTH,Mål,2:e,28,Rasmus MADSEN,,,,16,Magnus PETERSEN
+9,748769,2.33,3-4,NSH,Mål,2:e,14,Rasmus MADSBØLL,Assist,19,Thomas BOILESEN,30,Svend RUGHAVE
+10,748769,3.08,4-4,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,16,Magnus PETERSEN
+11,748769,3.41,,NSH,Skud reddet,Gbr,7,Léo MARTINEZ,,,,30,Svend RUGHAVE
+12,748769,4.21,,NSH,Advarsel,,5,Julius MØRCH,,,,,
+13,748769,4.44,5-4,MTH,Mål,Gbr,28,Rasmus MADSEN,Assist,21,Marcus MIDTGAARD,16,Magnus PETERSEN
+14,748769,4.53,5-5,NSH,Mål,2:e,20,Jesper DAHL,Assist,42,Matias CAMPBELL,30,Svend RUGHAVE
+15,748769,5.36,6-5,MTH,Mål,Gbr,10,Mads Svane KNUDSEN,,,,16,Magnus PETERSEN
+16,748769,6.24,,NSH,Regelfejl,,7,Léo MARTINEZ,,,,,
+17,748769,6.32,,MTH,Skud reddet,2:e,10,Mads Svane KNUDSEN,Retur,0,,16,Magnus PETERSEN
+18,748769,7.10,7-5,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,16,Magnus PETERSEN
+19,748769,7.17,,NSH,Skud reddet,2:e,20,Jesper DAHL,,,,30,Svend RUGHAVE
+20,748769,7.28,,MTH,Skud reddet,2:e,25,Magnus NORLYK,,,,16,Magnus PETERSEN
+21,748769,8.17,,MTH,Advarsel,,28,Rasmus MADSEN,,,,,
+22,748769,8.37,7-6,NSH,Mål,Gbr,7,Léo MARTINEZ,,,,30,Svend RUGHAVE
+23,748769,9.15,,MTH,Skud reddet,Gbr,21,Marcus MIDTGAARD,Retur,0,,16,Magnus PETERSEN
+24,748769,9.18,8-6,MTH,Mål,ST,25,Magnus NORLYK,Assist,0,,16,Magnus PETERSEN
+25,748769,9.25,8-7,NSH,Mål,2:e,7,Léo MARTINEZ,,,,30,Svend RUGHAVE
+26,748769,9.34,9-7,MTH,Mål,2:e,10,Mads Svane KNUDSEN,,,,16,Magnus PETERSEN
+27,748769,9.43,,NSH,Udvisning,,5,Julius MØRCH,,,,,
+28,748769,10.21,,MTH,Udvisning,,15,Henrik Toft HANSEN,,,,,
+29,748769,10.37,9-8,NSH,Mål,Gbr,19,Thomas BOILESEN,Assist,42,Matias CAMPBELL,30,Svend RUGHAVE
+30,748769,11.07,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,,,,,
+31,748769,11.16,9-9,NSH,Mål,1:e,42,Matias CAMPBELL,,,,30,Svend RUGHAVE
+32,748769,11.29,10-9,MTH,Mål,ST,4,Kasper LINDGREN,Assist,10,Mads Svane KNUDSEN,16,Magnus PETERSEN
+33,748769,12.06,,NSH,Regelfejl,,19,Thomas BOILESEN,,,,,
+34,748769,13.14,,MTH,Skud reddet,Gbr,21,Marcus MIDTGAARD,,,,16,Magnus PETERSEN
+35,748769,13.22,10-10,NSH,Mål,2:e,17,Assar KAMMENHED,,,,30,Svend RUGHAVE
+36,748769,13.33,11-10,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,10,Mads Svane KNUDSEN,16,Magnus PETERSEN
+37,748769,14.44,,NSH,Tabt bold,,42,Matias CAMPBELL,Bold erobret,28,Rasmus MADSEN,,
+38,748769,15.41,12-10,MTH,Mål,Gbr,10,Mads Svane KNUDSEN,,,,16,Magnus PETERSEN
+39,748769,15.50,12-11,NSH,Mål,1:e,14,Rasmus MADSBØLL,Assist,19,Thomas BOILESEN,30,Svend RUGHAVE
+40,748769,16.31,,MTH,Skud reddet,HF,11,Lasse PEDERSEN,,,,16,Magnus PETERSEN
+41,748769,17.14,12-12,NSH,Mål,ST,5,Julius MØRCH,Assist,19,Thomas BOILESEN,30,Svend RUGHAVE
+42,748769,17.52,,NSH,Udvisning,,17,Assar KAMMENHED,,,,,
+43,748769,18.06,13-12,MTH,Mål,ST,4,Kasper LINDGREN,Assist,10,Mads Svane KNUDSEN,16,Magnus PETERSEN
+44,748769,19.00,,NSH,Skud blokeret,PL,7,Léo MARTINEZ,Blokeret af,33,Kasper DIDRIKSEN,,
+45,748769,19.10,14-12,MTH,Mål,1:e,25,Magnus NORLYK,Assist,,,30,Svend RUGHAVE
+46,748769,19.52,,NSH,Tilkendt straffe,,19,Thomas BOILESEN,Forårs. str.,7,Nichlas HALD,,
+47,748769,19.52,,MTH,Udvisning,,7,Nichlas HALD,,,,,
+48,748769,19.58,,NSH,Straffekast reddet,,3,Carl-Emil HAUNSTRUP,Retur,0,,30,Svend RUGHAVE
+49,748769,20.03,14-13,NSH,Mål,ST,3,Carl-Emil HAUNSTRUP,,,,30,Svend RUGHAVE
+50,748769,20.47,,MTH,Tilkendt straffe,,28,Rasmus MADSEN,Forårs. str.,11,Jonas RAUNDAHL,,
+51,748769,20.58,15-13,MTH,Mål på straffe,,10,Mads Svane KNUDSEN,,,,16,Magnus PETERSEN
+52,748769,21.45,15-14,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,19,Thomas BOILESEN,30,Svend RUGHAVE
+53,748769,22.26,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,,,,,
+54,748769,22.37,,NSH,Skud reddet,HF,3,Carl-Emil HAUNSTRUP,,,,30,Svend RUGHAVE
+55,748769,22.48,,MTH,Fejlaflevering,,9,Kristoffer VESTERGAARD,Bold erobret,14,Rasmus MADSBØLL,,
+56,748769,22.54,15-15,NSH,Mål,1:e,11,Jonas RAUNDAHL,Assist,42,Matias CAMPBELL,30,Svend RUGHAVE
+57,748769,23.36,,NSH,Udvisning,,42,Matias CAMPBELL,,,,,
+58,748769,23.48,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,Bold erobret,5,Julius MØRCH,,
+59,748769,23.53,15-16,NSH,Mål,1:e,3,Carl-Emil HAUNSTRUP,,,,30,Svend RUGHAVE
+60,748769,24.12,16-16,MTH,Mål,Gbr,21,Marcus MIDTGAARD,Assist,10,Mads Svane KNUDSEN,16,Magnus PETERSEN
+61,748769,24.55,16-17,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,19,Thomas BOILESEN,30,Svend RUGHAVE
+62,748769,25.37,,MTH,Tilkendt straffe,,4,Kasper LINDGREN,Forårs. str.,3,Carl-Emil HAUNSTRUP,,
+63,748769,25.42,,MTH,Straffekast reddet,,10,Mads Svane KNUDSEN,,,,16,Magnus PETERSEN
+64,748769,26.33,,NSH,Regelfejl,,7,Léo MARTINEZ,,,,,
+65,748769,26.44,,MTH,Skud reddet,2:e,21,Marcus MIDTGAARD,,,,16,Magnus PETERSEN
+66,748769,26.51,16-18,NSH,Mål,2:e,20,Jesper DAHL,Assist,42,Matias CAMPBELL,30,Svend RUGHAVE
+67,748769,26.56,,MTH,Time out,,,,,,,,
+68,748769,27.35,17-18,MTH,Mål,PL,7,Nichlas HALD,,,,16,Magnus PETERSEN
+69,748769,27.49,17-19,NSH,Mål,2:e,7,Léo MARTINEZ,,,,30,Svend RUGHAVE
+70,748769,28.00,18-19,MTH,Mål,2:e,28,Rasmus MADSEN,,,,16,Magnus PETERSEN
+71,748769,28.46,,MTH,Udvisning,,28,Rasmus MADSEN,,,,,
+72,748769,29.19,18-20,NSH,Mål,Gbr,19,Thomas BOILESEN,,,,30,Svend RUGHAVE
+73,748769,30.00,,MTH,Skud blokeret,HB,9,Kristoffer VESTERGAARD,Blokeret af,0,,,
+74,748769,30.00,18-20,,Halvleg,,,,,,,,
+75,748769,30.00,,,Start 2:e halvleg,,,,,,,,
+76,748769,30.29,18-21,NSH,Mål,Gbr,19,Thomas BOILESEN,Assist,42,Matias CAMPBELL,20,Oliver LARSEN
+77,748769,31.19,19-21,MTH,Mål,VB,7,Nichlas HALD,,,,16,Magnus PETERSEN
+78,748769,31.35,,NSH,Fejlaflevering,,19,Thomas BOILESEN,Bold erobret,4,Kasper LINDGREN,,
+79,748769,31.42,20-21,MTH,Mål,1:e,25,Magnus NORLYK,Assist,7,Nichlas HALD,16,Magnus PETERSEN
+80,748769,32.33,,NSH,Tilkendt straffe,,19,Thomas BOILESEN,Forårs. str.,33,Kasper DIDRIKSEN,,
+81,748769,32.35,20-22,NSH,Mål på straffe,,42,Matias CAMPBELL,,,,30,Svend RUGHAVE
+82,748769,33.09,21-22,MTH,Mål,Gbr,10,Mads Svane KNUDSEN,,,,16,Magnus PETERSEN
+83,748769,33.41,,NSH,Regelfejl,,7,Léo MARTINEZ,,,,,
+84,748769,33.50,22-22,MTH,Mål,1:e,7,Nichlas HALD,,,,16,Magnus PETERSEN
+85,748769,33.59,22-23,NSH,Mål,1:e,5,Julius MØRCH,Assist,19,Thomas BOILESEN,20,Oliver LARSEN
+86,748769,34.09,,MTH,Skud reddet,1:e,28,Rasmus MADSEN,Retur,0,,16,Magnus PETERSEN
+87,748769,34.46,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,Bold erobret,17,Assar KAMMENHED,,
+88,748769,34.51,,NSH,Fejlaflevering,,42,Matias CAMPBELL,Bold erobret,25,Magnus NORLYK,,
+89,748769,35.38,23-23,MTH,Mål,VB,7,Nichlas HALD,,,,16,Magnus PETERSEN
+90,748769,36.52,,NSH,Skud reddet,Gbr,17,Assar KAMMENHED,,,,20,Oliver LARSEN
+91,748769,36.58,24-23,MTH,Mål,1:e,28,Rasmus MADSEN,,,,16,Magnus PETERSEN
+92,748769,37.56,,NSH,Time out,,,,,,,,
+93,748769,38.02,,NSH,Regelfejl,,20,Jesper DAHL,,,,,
+94,748769,38.31,,MTH,Skud reddet,VF,25,Magnus NORLYK,,,,16,Magnus PETERSEN
+95,748769,39.18,,NSH,Fejlaflevering,,42,Matias CAMPBELL,Bold erobret,4,Kasper LINDGREN,,
+96,748769,39.23,25-23,MTH,Mål,1:e,25,Magnus NORLYK,,,,0,
+97,748769,40.01,,NSH,Fejlaflevering,,42,Matias CAMPBELL,,,,,
+98,748769,40.26,26-23,MTH,Mål,2:e,7,Nichlas HALD,,,,16,Magnus PETERSEN
+99,748769,41.13,,NSH,Skud blokeret,PL,20,Jesper DAHL,Blokeret af,4,Kasper LINDGREN,,
+100,748769,41.42,27-23,MTH,Mål,ST,4,Kasper LINDGREN,Assist,10,Mads Svane KNUDSEN,16,Magnus PETERSEN
+101,748769,42.20,,NSH,Skud reddet,VF,14,Rasmus MADSBØLL,,,,20,Oliver LARSEN
+102,748769,42.48,28-23,MTH,Mål,VB,7,Nichlas HALD,,,,16,Magnus PETERSEN
+103,748769,42.55,28-24,NSH,Mål,2:e,42,Matias CAMPBELL,,,,0,
+104,748769,43.53,,,,,,,,,,,
+105,748769,44.06,,NSH,Skud reddet,1:e,5,Julius MØRCH,Retur,0,,20,Oliver LARSEN
+106,748769,44.32,28-25,NSH,Mål,Gbr,21,Tim RANTALA,,,,20,Oliver LARSEN
+107,748769,44.50,29-25,MTH,Mål,1:e,15,Henrik Toft HANSEN,,,,16,Magnus PETERSEN
+108,748769,45.10,29-26,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,19,Thomas BOILESEN,20,Oliver LARSEN
+109,748769,45.43,30-26,MTH,Mål,PL,10,Mads Svane KNUDSEN,,,,16,Magnus PETERSEN
+110,748769,46.27,,NSH,Fejlaflevering,,20,Jesper DAHL,Bold erobret,7,Nichlas HALD,,
+111,748769,46.29,,NSH,Udvisning,,19,Thomas BOILESEN,,,,,
+112,748769,46.29,,MTH,Tilkendt straffe,,0,,Forårs. str.,0,,,
+113,748769,46.34,31-26,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,16,Magnus PETERSEN
+114,748769,47.08,,NSH,Tilkendt straffe,,11,Jonas RAUNDAHL,Forårs. str.,15,Henrik Toft HANSEN,,
+115,748769,47.09,31-27,NSH,Mål på straffe,,42,Matias CAMPBELL,,,,20,Oliver LARSEN
+116,748769,47.36,32-27,MTH,Mål,ST,4,Kasper LINDGREN,Assist,10,Mads Svane KNUDSEN,29,Jimmi ANDERSEN
+117,748769,48.16,,NSH,Tabt bold,,7,Léo MARTINEZ,,,,,
+118,748769,48.28,33-27,MTH,Mål,1:e,20,Oliver LARSEN,,,,0,
+119,748769,48.33,,NSH,Time out,,,,,,,,
+120,748769,49.21,33-28,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,19,Thomas BOILESEN,20,Oliver LARSEN
+121,748769,50.04,,MTH,Skud reddet,Gbr,19,Victor NORLYK,,,,29,Jimmi ANDERSEN
+122,748769,50.34,,NSH,Regelfejl,,11,Jonas RAUNDAHL,,,,,
+123,748769,51.09,,MTH,Fejlaflevering,,19,Victor NORLYK,,,,,
+124,748769,51.22,,NSH,Skud på stolpe,PL,19,Thomas BOILESEN,Retur,0,,20,Oliver LARSEN
+125,748769,51.27,,NSH,Skud reddet,HF,3,Carl-Emil HAUNSTRUP,,,,20,Oliver LARSEN
+126,748769,51.55,34-28,MTH,Mål,Gbr,21,Marcus MIDTGAARD,Assist,19,Victor NORLYK,29,Jimmi ANDERSEN
+127,748769,52.27,34-29,NSH,Mål,ST,21,Tim RANTALA,Assist,42,Matias CAMPBELL,20,Oliver LARSEN
+128,748769,52.48,35-29,MTH,Mål,Gbr,28,Rasmus MADSEN,,,,29,Jimmi ANDERSEN
+129,748769,52.48,,NSH,Udvisning,,19,Thomas BOILESEN,,,,,
+130,748769,53.19,35-30,NSH,Mål,VF,14,Rasmus MADSBØLL,,,,20,Oliver LARSEN
+131,748769,53.27,,MTH,Skud reddet,1:e,21,Marcus MIDTGAARD,,,,29,Jimmi ANDERSEN
+132,748769,53.35,,NSH,Skud reddet,1:e,7,Léo MARTINEZ,,,,20,Oliver LARSEN
+133,748769,54.09,,MTH,Tilkendt straffe,,21,Marcus MIDTGAARD,Forårs. str.,42,Matias CAMPBELL,,
+134,748769,54.13,,MTH,Straffekast reddet,,11,Lasse PEDERSEN,,,,29,Jimmi ANDERSEN
+135,748769,54.46,35-31,NSH,Mål,Gbr,57,Nikolaj LARSSON,,,,20,Oliver LARSEN
+136,748769,54.54,,MTH,Skud på stolpe,1:e,7,Nichlas HALD,,,,29,Jimmi ANDERSEN
+137,748769,55.01,,NSH,Skud reddet,1:e,11,Jonas RAUNDAHL,,,,20,Oliver LARSEN
+138,748769,55.39,36-31,MTH,Mål,ST,33,Kasper DIDRIKSEN,Assist,10,Mads Svane KNUDSEN,29,Jimmi ANDERSEN
+139,748769,56.11,36-32,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,7,Léo MARTINEZ,20,Oliver LARSEN
+140,748769,57.00,,MTH,Tilkendt straffe,,21,Marcus MIDTGAARD,Forårs. str.,5,Julius MØRCH,,
+141,748769,57.04,37-32,MTH,Mål på straffe,,10,Mads Svane KNUDSEN,,,,29,Jimmi ANDERSEN
+142,748769,57.41,37-33,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,57,Nikolaj LARSSON,20,Oliver LARSEN
+143,748769,58.08,,MTH,Skud reddet,Gbr,7,Nichlas HALD,Retur,0,,29,Jimmi ANDERSEN
+144,748769,58.19,38-33,MTH,Mål,Gbr,7,Nichlas HALD,Assist,21,Marcus MIDTGAARD,29,Jimmi ANDERSEN
+145,748769,58.48,38-34,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,19,Thomas BOILESEN,20,Oliver LARSEN
+146,748769,59.08,39-34,MTH,Mål,2:e,21,Marcus MIDTGAARD,,,,29,Jimmi ANDERSEN
+147,748769,59.54,,NSH,Skud reddet,VB,19,Thomas BOILESEN,,,,20,Oliver LARSEN
+148,748769,59.58,40-34,MTH,Mål,1:e,4,Kasper LINDGREN,Assist,,,20,Oliver LARSEN

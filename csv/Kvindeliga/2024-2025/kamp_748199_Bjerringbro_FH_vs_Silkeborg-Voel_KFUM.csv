@@ -1,0 +1,135 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748199,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748199,0.44,1-0,BFH,Mål,PL,72,Line FRANDSEN,,,,16,Anna VENG
+3,748199,1.19,,SVK,Tabt bold,,18,Natasja ANDREASEN,,,,,
+4,748199,2.00,,SVK,Advarsel,,15,Karen KLOKKER,,,,,
+5,748199,2.29,2-0,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,7,Line GYLDENLØVE,16,Anna VENG
+6,748199,2.40,,SVK,Tabt bold,,31,Andrea West BENDTSEN,,,,,
+7,748199,2.43,3-0,BFH,Mål,1:e,11,Arlinda HAJDARI,Assist,0,,16,Anna VENG
+8,748199,3.11,3-1,SVK,Mål,PL,18,Natasja ANDREASEN,,,,24,Josephine NORDSTRØM
+9,748199,3.51,,BFH,Skud reddet,VB,72,Line FRANDSEN,,,,16,Anna VENG
+10,748199,3.59,3-2,SVK,Mål,2:e,7,Maja Munch LAURSEN,Assist,31,Andrea West BENDTSEN,24,Josephine NORDSTRØM
+11,748199,4.36,4-2,BFH,Mål,VB,21,Emma ERNST,,,,16,Anna VENG
+12,748199,4.46,,SVK,Regelfejl,,31,Andrea West BENDTSEN,,,,,
+13,748199,5.38,5-2,BFH,Mål,ST,19,Rikke Dahl NIELSEN,Assist,72,Line FRANDSEN,16,Anna VENG
+14,748199,5.50,,SVK,Regelfejl,,15,Karen KLOKKER,,,,,
+15,748199,6.19,,BFH,Skud reddet,ST,19,Rikke Dahl NIELSEN,,,,16,Anna VENG
+16,748199,6.27,,SVK,Skud reddet,1:e,15,Karen KLOKKER,,,,24,Josephine NORDSTRØM
+17,748199,7.14,,BFH,Skud blokeret,VB,21,Emma ERNST,Blokeret af,0,,,
+18,748199,7.33,,SVK,Fejlaflevering,,0,,,,,,
+19,748199,8.17,,BFH,Skud forbi,ST,19,Rikke Dahl NIELSEN,,,,16,Anna VENG
+20,748199,8.24,5-3,SVK,Mål,2:e,15,Karen KLOKKER,Assist,18,Natasja ANDREASEN,24,Josephine NORDSTRØM
+21,748199,9.02,,BFH,Skud reddet,PL,7,Line GYLDENLØVE,Retur,4,Emilie BANGSHØI,16,Anna VENG
+22,748199,9.09,6-3,BFH,Mål,VF,4,Emilie BANGSHØI,,,,16,Anna VENG
+23,748199,9.33,6-4,SVK,Mål,PL,11,Sara MADSEN,,,,24,Josephine NORDSTRØM
+24,748199,10.26,,BFH,Skud reddet,PL,21,Emma ERNST,,,,16,Anna VENG
+25,748199,10.37,6-5,SVK,Mål,2:e,7,Maja Munch LAURSEN,Assist,18,Natasja ANDREASEN,24,Josephine NORDSTRØM
+26,748199,11.07,,BFH,Skud reddet,HB 21,Emma ERNST,,,,,16,Anna VENG
+27,748199,11.44,6-6,SVK,Mål,HB 11,Sara MADSEN,,,,,24,Josephine NORDSTRØM
+28,748199,12.11,7-6,BFH,Mål,ST,19,Rikke Dahl NIELSEN,Assist,72,Line FRANDSEN,16,Anna VENG
+29,748199,12.49,7-7,SVK,Mål,ST,15,Karen KLOKKER,Assist,11,Sara MADSEN,24,Josephine NORDSTRØM
+30,748199,13.46,,BFH,Regelfejl,,18,Sidsel POULSEN,,,,,
+31,748199,13.53,7-8,SVK,Mål,2:e,7,Maja Munch LAURSEN,Assist,0,,24,Josephine NORDSTRØM
+32,748199,13.58,,BFH,Time out,,,,,,,,
+33,748199,14.31,8-8,BFH,Mål,PL,31,Marianne HAUGSTED,,,,16,Anna VENG
+34,748199,14.37,,SVK,Regelfejl,,11,Sara MADSEN,,,,,
+35,748199,15.08,9-8,BFH,Mål,PL,31,Marianne HAUGSTED,,,,16,Anna VENG
+36,748199,15.51,,SVK,Skud på stolpe,HB 11,Sara MADSEN,,,,,20,Clara BAK
+37,748199,16.24,10-8,BFH,Mål,PL,7,Line GYLDENLØVE,,,,16,Anna VENG
+38,748199,16.58,10-9,SVK,Mål,PL,6,Thea RASMUSSEN,,,,20,Clara BAK
+39,748199,17.09,,BFH,Skud reddet,ST,19,Rikke Dahl NIELSEN,,,,16,Anna VENG
+40,748199,17.19,10-10,SVK,Mål,2:e,15,Karen KLOKKER,Assist,0,,20,Clara BAK
+41,748199,17.55,11-10,BFH,Mål,ST,18,Sidsel POULSEN,Assist,31,Marianne HAUGSTED,16,Anna VENG
+42,748199,18.04,,SVK,Fejlaflevering,,31,Andrea West BENDTSEN,Bold erobret,18,Sidsel POULSEN,,
+43,748199,18.40,,BFH,Regelfejl,,72,Line FRANDSEN,,,,,
+44,748199,19.12,11-11,SVK,Mål,PL,6,Thea RASMUSSEN,,,,20,Clara BAK
+45,748199,20.10,,BFH,Skud reddet,PL,72,Line FRANDSEN,Retur,18,Sidsel POULSEN,16,Anna VENG
+46,748199,20.44,12-11,BFH,Mål,PL,31,Marianne HAUGSTED,,,,16,Anna VENG
+47,748199,20.55,12-12,SVK,Mål,PL,31,Andrea West BENDTSEN,,,,20,Clara BAK
+48,748199,21.36,,BFH,Regelfejl,,72,Line FRANDSEN,,,,,
+49,748199,22.02,,SVK,Skud reddet,PL,6,Thea RASMUSSEN,,,,20,Clara BAK
+50,748199,22.36,13-12,BFH,Mål,ST,18,Sidsel POULSEN,Assist,9,Mathilde PIIL,16,Anna VENG
+51,748199,23.38,,SVK,Skud reddet,Gbr 18,Natasja ANDREASEN,,,,,20,Clara BAK
+52,748199,23.50,14-12,BFH,Mål,2:e,19,Rikke Dahl NIELSEN,Assist,0,,16,Anna VENG
+53,748199,23.57,,SVK,Time out,,,,,,,,
+54,748199,24.09,14-13,SVK,Mål,Gbr,6,Thea RASMUSSEN,,,,20,Clara BAK
+55,748199,24.34,15-13,BFH,Mål,PL,7,Line GYLDENLØVE,,,,16,Anna VENG
+56,748199,24.45,15-14,SVK,Mål,2:e,11,Sara MADSEN,,,,20,Clara BAK
+57,748199,25.45,16-14,BFH,Mål,HF,44,Louise HALD,,,,16,Anna VENG
+58,748199,26.33,,SVK,Skud på stolpe,HF,23,Thilde FRANDSEN,,,,20,Clara BAK
+59,748199,27.05,,BFH,Skud reddet,VB,31,Marianne HAUGSTED,,,,22,Stine BONDE
+60,748199,27.19,16-15,SVK,Mål,HB,11,Sara MADSEN,,,,20,Clara BAK
+61,748199,27.42,17-15,BFH,Mål,Gbr,72,Line FRANDSEN,,,,22,Stine BONDE
+62,748199,28.12,17-16,SVK,Mål,Gbr,6,Thea RASMUSSEN,Assist,18,Natasja ANDREASEN,20,Clara BAK
+63,748199,28.44,,BFH,Skud på stolpe,HF,44,Louise HALD,,,,22,Stine BONDE
+64,748199,29.35,,SVK,Fejlaflevering,,18,Natasja ANDREASEN,Bold erobret,19,Rikke Dahl NIELSEN,,
+65,748199,29.58,,BFH,Skud reddet,HF,44,Louise HALD,,,,22,Stine BONDE
+66,748199,30.00,17-16,,Halvleg,,,,,,,,
+67,748199,30.00,,,Start 2:e halvleg,,,,,,,,
+68,748199,30.52,17-17,SVK,Mål,HF,23,Thilde FRANDSEN,Assist,27,Marigona HAJDARI,20,Clara BAK
+69,748199,31.27,,BFH,Tilkendt straffe,,72,Line FRANDSEN,Forårs. str.,23,Thilde FRANDSEN,,
+70,748199,31.44,,BFH,Straffekast på stolpe,,7,Line GYLDENLØVE,,,,22,Stine BONDE
+71,748199,32.27,17-18,SVK,Mål,ST,13,Mathilde KRISTENSEN,Assist,6,Thea RASMUSSEN,20,Clara BAK
+72,748199,33.07,,BFH,Skud reddet,VF,4,Emilie BANGSHØI,,,,22,Stine BONDE
+73,748199,33.58,17-19,SVK,Mål,HB,4,Maria HOLM,,,,20,Clara BAK
+74,748199,34.34,18-19,BFH,Mål,HF,44,Louise HALD,Assist,11,Arlinda HAJDARI,22,Stine BONDE
+75,748199,34.46,,SVK,Regelfejl,,6,Thea RASMUSSEN,,,,,
+76,748199,35.16,,BFH,Skud reddet,Gbr,7,Line GYLDENLØVE,,,,22,Stine BONDE
+77,748199,35.31,,SVK,Skud reddet,2:e,23,Thilde FRANDSEN,Retur,4,Maria HOLM,20,Clara BAK
+78,748199,35.36,18-20,SVK,Mål,HB,4,Maria HOLM,,,,20,Clara BAK
+79,748199,36.44,,BFH,Skud reddet,HB,11,Arlinda HAJDARI,,,,22,Stine BONDE
+80,748199,37.58,,SVK,Skud reddet,PL,4,Maria HOLM,,,,20,Clara BAK
+81,748199,38.27,,BFH,Fejlaflevering,,72,Line FRANDSEN,Bold erobret,4,Maria HOLM,,
+82,748199,38.42,18-21,SVK,Mål,1:e,6,Thea RASMUSSEN,Assist,4,Maria HOLM,20,Clara BAK
+83,748199,39.05,,BFH,Fejlaflevering,,11,Arlinda HAJDARI,,,,,
+84,748199,39.15,18-22,SVK,Mål,1:e,4,Maria HOLM,,,,0,
+85,748199,39.36,,BFH,Skud reddet,PL,72,Line FRANDSEN,,,,22,Stine BONDE
+86,748199,40.28,,SVK,Skud reddet,HF,23,Thilde FRANDSEN,,,,20,Clara BAK
+87,748199,40.55,19-22,BFH,Mål,Gbr,7,Line GYLDENLØVE,Assist,4,Emilie BANGSHØI,22,Stine BONDE
+88,748199,41.55,,SVK,Skud forbi,PL,27,Marigona HAJDARI,,,,20,Clara BAK
+89,748199,42.23,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,Bold erobret,23,Thilde FRANDSEN,,
+90,748199,42.57,,SVK,Skud på stolpe,PL,6,Thea RASMUSSEN,,,,20,Clara BAK
+91,748199,43.39,20-22,BFH,Mål,VF,4,Emilie BANGSHØI,Assist,72,Line FRANDSEN,22,Stine BONDE
+92,748199,44.17,20-23,SVK,Mål,HB,4,Maria HOLM,,,,20,Clara BAK
+93,748199,44.45,,BFH,Tabt bold,,21,Emma ERNST,,,,,
+94,748199,44.51,20-24,SVK,Mål,1:e,13,Mathilde KRISTENSEN,,,,20,Clara BAK
+95,748199,44.51,,BFH,Udvisning,,19,Rikke Dahl NIELSEN,,,,,
+96,748199,45.32,,BFH,Regelfejl,,72,Line FRANDSEN,,,,,
+97,748199,45.32,,BFH,Udvisning,,72,Line FRANDSEN,,,,,
+98,748199,46.12,20-25,SVK,Mål,HF,19,Laura Galle HANSEN,Assist,27,Marigona HAJDARI,20,Clara BAK
+99,748199,46.56,,BFH,Regelfejl,,21,Emma ERNST,,,,,
+100,748199,47.31,,SVK,Tilkendt straffe,,13,Mathilde KRISTENSEN,Forårs. str.,11,Arlinda HAJDARI,,
+101,748199,47.51,20-26,SVK,Mål på straffe,,21,Maja EDLING,,,,20,Clara BAK
+102,748199,48.26,,BFH,Skud reddet,VB,21,Emma ERNST,,,,22,Stine BONDE
+103,748199,49.26,,SVK,Skud reddet,PL,27,Marigona HAJDARI,Retur,0,,20,Clara BAK
+104,748199,49.44,20-27,SVK,Mål,,,,,,,,
+105,748199,49.48,,BFH,Time out,,,,,,,,
+106,748199,50.46,,BFH,Skud reddet,PL,7,Line GYLDENLØVE,,,,22,Stine BONDE
+107,748199,50.56,,SVK,Skud reddet,2:e,31,Andrea West BENDTSEN,,,,24,Josephine NORDSTRØM
+108,748199,51.14,21-27,BFH,Mål,ST,18,Sidsel POULSEN,Assist,7,Line GYLDENLØVE,22,Stine BONDE
+109,748199,52.15,,SVK,Skud på stolpe,PL,31,Andrea West BENDTSEN,,,,20,Clara BAK
+110,748199,52.33,,BFH,Tilkendt straffe,,19,Rikke Dahl NIELSEN,Forårs. str.,19,Laura Galle HANSEN,,
+111,748199,52.42,22-27,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,22,Stine BONDE
+112,748199,53.16,,SVK,Regelfejl,,15,Karen KLOKKER,,,,,
+113,748199,53.47,,BFH,Skud reddet,HB,11,Arlinda HAJDARI,,,,22,Stine BONDE
+114,748199,53.56,,SVK,Skud forbi,1:e,31,Andrea West BENDTSEN,,,,20,Clara BAK
+115,748199,54.07,23-27,BFH,Mål,ST,18,Sidsel POULSEN,Assist,11,Arlinda HAJDARI,22,Stine BONDE
+116,748199,54.12,,SVK,Time out,,,,,,,,
+117,748199,54.28,23-28,SVK,Mål,PL,18,Natasja ANDREASEN,,,,20,Clara BAK
+118,748199,54.36,,SVK,Udvisning,,4,Maria HOLM,,,,,
+119,748199,54.54,24-28,BFH,Mål,VF,9,Mathilde PIIL,,,,22,Stine BONDE
+120,748199,55.28,24-29,SVK,Mål,HF,19,Laura Galle HANSEN,Assist,18,Natasja ANDREASEN,20,Clara BAK
+121,748199,55.58,,BFH,Skud reddet,VF,9,Mathilde PIIL,,,,22,Stine BONDE
+122,748199,56.28,,SVK,Fejlaflevering,,18,Natasja ANDREASEN,,,,,
+123,748199,56.33,,BFH,Time out,,,,,,,,
+124,748199,56.40,,BFH,Skud på stolpe,PL,72,Line FRANDSEN,,,,22,Stine BONDE
+125,748199,57.52,,SVK,Skud reddet,HB,11,Sara MADSEN,Retur,0,,20,Clara BAK
+126,748199,58.10,,SVK,Time out,,,,,,,,
+127,748199,58.18,24-30,SVK,Mål,PL,3,Isabella POULSEN,,,,20,Clara BAK
+128,748199,58.35,25-30,BFH,Mål,HF,44,Louise HALD,Assist,72,Line FRANDSEN,22,Stine BONDE
+129,748199,59.10,,SVK,Skud reddet,VB,15,Karen KLOKKER,Retur,21,Maja EDLING,20,Clara BAK
+130,748199,59.28,25-31,SVK,Mål,VF,21,Maja EDLING,,,,20,Clara BAK
+131,748199,59.37,26-31,BFH,Mål,VB,7,Line GYLDENLØVE,,,,22,Stine BONDE
+132,748199,60.00,26-32,SVK,Mål,VB,3,Isabella POULSEN,,,,20,Clara BAK
+133,748199,60.00,26-32,,Fuld tid,,,,,,,,
+134,748199,60.00,,,Kamp slut,,,,,,,,

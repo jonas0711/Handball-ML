@@ -1,0 +1,137 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748195,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748195,0.26,0-1,SKB,Mål,PL,3,Clara BANG,,,,16,Stephanie ANDERSEN
+3,748195,0.40,,RIN,Tilkendt straffe,,20,Stine Opstrup KRISTENSEN,Forårs. str.,20,Suna HANSEN,,
+4,748195,0.40,,SKB,Udvisning,,20,Suna HANSEN,,,,,
+5,748195,0.41,1-1,RIN,Mål på straffe,,18,Emilie ROSBORG,,,,12,Sarah ERNEBJERG
+6,748195,1.10,,RIN,Udvisning,,8,Camilla PEDERSEN,,,,,
+7,748195,1.29,,SKB,Tilkendt straffe,,44,Nicoline LAURITSEN,Forårs. str.,5,Caroline SVARRE,,
+8,748195,1.41,1-2,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,16,Stephanie ANDERSEN
+9,748195,2.28,,RIN,Skud reddet,VF,18,Emilie ROSBORG,,,,12,Sarah ERNEBJERG
+10,748195,2.48,,SKB,Tilkendt straffe,,44,Nicoline LAURITSEN,Forårs. str.,5,Caroline SVARRE,,
+11,748195,2.48,,RIN,Udvisning,,5,Caroline SVARRE,,,,,
+12,748195,2.51,1-3,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,88,Rakul WARDUM
+13,748195,3.38,2-3,RIN,Mål,VB,3,Maria Berger WIERZBA,,,,12,Sarah ERNEBJERG
+14,748195,4.00,2-4,SKB,Mål,Gbr,15,Astrid LESLIE,,,,16,Stephanie ANDERSEN
+15,748195,5.07,,RIN,Skud reddet,VF,18,Emilie ROSBORG,,,,12,Sarah ERNEBJERG
+16,748195,5.31,2-5,SKB,Mål,VB,14,Verona REXHEPI,,,,16,Stephanie ANDERSEN
+17,748195,5.48,,RIN,Skud reddet,Gbr,20,Stine Opstrup KRISTENSEN,,,,12,Sarah ERNEBJERG
+18,748195,5.59,2-6,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,3,Clara BANG,16,Stephanie ANDERSEN
+19,748195,7.02,3-6,RIN,Mål,Gbr,10,Frida Høgaard NIELSEN,,,,12,Sarah ERNEBJERG
+20,748195,7.30,,SKB,Skud på stolpe,PL,14,Verona REXHEPI,,,,16,Stephanie ANDERSEN
+21,748195,8.13,,RIN,Skud blokeret,PL,3,Maria Berger WIERZBA,Blokeret af,10,Filippa NEDOVIC,,
+22,748195,9.27,,SKB,Tabt bold,,3,Clara BANG,,,,,
+23,748195,9.35,4-6,RIN,Mål,2:e,18,Emilie ROSBORG,Assist,3,Maria Berger WIERZBA,12,Sarah ERNEBJERG
+24,748195,10.02,,SKB,Skud reddet,ST,10,Filippa NEDOVIC,,,,16,Stephanie ANDERSEN
+25,748195,10.12,5-6,RIN,Mål,2:e,10,Frida Høgaard NIELSEN,,,,12,Sarah ERNEBJERG
+26,748195,10.25,,SKB,Skud reddet,2:e,20,Suna HANSEN,,,,16,Stephanie ANDERSEN
+27,748195,11.06,6-6,RIN,Mål,Gbr,10,Frida Høgaard NIELSEN,,,,12,Sarah ERNEBJERG
+28,748195,11.17,,SKB,Skud reddet,PL,14,Verona REXHEPI,,,,16,Stephanie ANDERSEN
+29,748195,12.10,,RIN,Tabt bold,,10,Frida Høgaard NIELSEN,Bold erobret,14,Verona REXHEPI,,
+30,748195,12.23,6-7,SKB,Mål,HF,4,Emilie BECH,Assist,14,Verona REXHEPI,16,Stephanie ANDERSEN
+31,748195,12.59,7-7,RIN,Mål,Gbr,73,Karoline FAHLBERG,,,,12,Sarah ERNEBJERG
+32,748195,13.26,7-8,SKB,Mål,Gbr,14,Verona REXHEPI,,,,16,Stephanie ANDERSEN
+33,748195,13.37,,RIN,Skud reddet,PL,10,Frida Høgaard NIELSEN,,,,12,Sarah ERNEBJERG
+34,748195,14.06,,SKB,Skud reddet,VF,25,Astrid LYNNERUP,,,,16,Stephanie ANDERSEN
+35,748195,14.43,,RIN,Fejlaflevering,,10,Frida Høgaard NIELSEN,,,,,
+36,748195,14.47,7-9,SKB,Mål,1:e,14,Verona REXHEPI,,,,0,
+37,748195,15.19,8-9,RIN,Mål,Gbr,73,Karoline FAHLBERG,,,,12,Sarah ERNEBJERG
+38,748195,15.55,8-10,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,14,Verona REXHEPI,16,Stephanie ANDERSEN
+39,748195,16.39,,RIN,Fejlaflevering,,10,Frida Høgaard NIELSEN,,,,,
+40,748195,16.52,8-11,SKB,Mål,2:e,3,Clara BANG,,,,16,Stephanie ANDERSEN
+41,748195,18.14,9-11,RIN,Mål,HF,22,Sofie ØSTERGAARD,Assist,10,Frida Høgaard NIELSEN,12,Sarah ERNEBJERG
+42,748195,18.23,9-12,SKB,Mål,2:e,14,Verona REXHEPI,,,,16,Stephanie ANDERSEN
+43,748195,19.11,,RIN,Fejlaflevering,,20,Stine Opstrup KRISTENSEN,,,,,
+44,748195,19.26,,SKB,Skud reddet,Gbr,20,Suna HANSEN,,,,16,Stephanie ANDERSEN
+45,748195,20.12,,RIN,Regelfejl,,20,Stine Opstrup KRISTENSEN,,,,,
+46,748195,20.41,9-13,SKB,Mål,HF,4,Emilie BECH,Assist,3,Clara BANG,16,Stephanie ANDERSEN
+47,748195,20.48,,RIN,Time out,,,,,,,,
+48,748195,21.09,10-13,RIN,Mål,HB,33,Emma LAURSEN,,,,12,Sarah ERNEBJERG
+49,748195,21.29,,SKB,Regelfejl,,15,Astrid LESLIE,,,,,
+50,748195,21.36,,RIN,Regelfejl,,3,Maria Berger WIERZBA,,,,,
+51,748195,22.04,,SKB,Fejlaflevering,,14,Verona REXHEPI,,,,,
+52,748195,22.58,,RIN,Skud reddet,PL,10,Frida Høgaard NIELSEN,,,,23,Stine ALMIND
+53,748195,23.25,,SKB,Skud forbi,Gbr,3,Clara BANG,,,,16,Stephanie ANDERSEN
+54,748195,23.34,,RIN,Skud forbi,2:e,3,Maria Berger WIERZBA,,,,23,Stine ALMIND
+55,748195,24.11,,SKB,Tilkendt straffe,,14,Verona REXHEPI,Forårs. str.,33,Emma LAURSEN,,
+56,748195,24.20,,SKB,Straffekast reddet,,25,Astrid LYNNERUP,,,,88,Rakul WARDUM
+57,748195,24.56,,RIN,Skud reddet,HF,33,Emma LAURSEN,,,,23,Stine ALMIND
+58,748195,25.07,10-14,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,15,Astrid LESLIE,88,Rakul WARDUM
+59,748195,25.40,11-14,RIN,Mål,Gbr,20,Stine Opstrup KRISTENSEN,,,,23,Stine ALMIND
+60,748195,26.36,11-15,SKB,Mål,Gbr,3,Clara BANG,,,,88,Rakul WARDUM
+61,748195,27.25,,RIN,Tilkendt straffe,,20,Stine Opstrup KRISTENSEN,Forårs. str.,4,Emilie BECH,,
+62,748195,27.44,12-15,RIN,Mål på straffe,,18,Emilie ROSBORG,,,,23,Stine ALMIND
+63,748195,28.22,12-16,SKB,Mål,PL,3,Clara BANG,,,,88,Rakul WARDUM
+64,748195,28.33,,RIN,Tilkendt straffe,,33,Emma LAURSEN,Forårs. str.,25,Astrid LYNNERUP,,
+65,748195,28.33,,SKB,Udvisning,,25,Astrid LYNNERUP,,,,,
+66,748195,28.35,13-16,RIN,Mål på straffe,,18,Emilie ROSBORG,,,,23,Stine ALMIND
+67,748195,28.35,,SKB,Advarsel,A,,Kim JOHANSEN,,,,,
+68,748195,29.09,13-17,SKB,Mål,HF,4,Emilie BECH,Assist,15,Astrid LESLIE,88,Rakul WARDUM
+69,748195,29.34,,RIN,Tabt bold,,10,Frida Høgaard NIELSEN,Bold erobret,14,Verona REXHEPI,,
+70,748195,29.46,,SKB,Time out,,,,,,,,
+71,748195,29.58,,SKB,Regelfejl,,3,Clara BANG,,,,,
+72,748195,30.00,13-17,,Halvleg,,,,,,,,
+73,748195,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748195,30.22,14-17,RIN,Mål,Gbr,10,Frida Høgaard NIELSEN,,,,23,Stine ALMIND
+75,748195,31.10,14-18,SKB,Mål,Gbr,20,Suna HANSEN,,,,16,Stephanie ANDERSEN
+76,748195,31.55,,RIN,Skud reddet,Gbr,3,Maria Berger WIERZBA,,,,23,Stine ALMIND
+77,748195,32.32,14-19,SKB,Mål,Gbr,20,Suna HANSEN,,,,16,Stephanie ANDERSEN
+78,748195,33.06,,RIN,Skud reddet,HB,10,Frida Høgaard NIELSEN,,,,23,Stine ALMIND
+79,748195,33.33,,SKB,Skud forbi,PL,15,Astrid LESLIE,,,,16,Stephanie ANDERSEN
+80,748195,33.54,,RIN,Skud reddet,ST,8,Camilla PEDERSEN,,,,23,Stine ALMIND
+81,748195,34.26,,SKB,Regelfejl,,15,Astrid LESLIE,,,,,
+82,748195,34.35,15-19,RIN,Mål,2:e,10,Frida Høgaard NIELSEN,,,,23,Stine ALMIND
+83,748195,35.08,,SKB,Skud reddet,PL,15,Astrid LESLIE,,,,16,Stephanie ANDERSEN
+84,748195,35.16,,RIN,Tabt bold,,3,Maria Berger WIERZBA,,,,,
+85,748195,35.20,15-20,SKB,Mål,1:e,22,Anne-Sofie FILTENBORG,Assist,0,16,16,Stephanie ANDERSEN
+86,748195,36.13,,RIN,Fejlaflevering,,10,Frida Høgaard NIELSEN,,,,,
+87,748195,36.47,,RIN,Udvisning,,5,Caroline SVARRE,,,,,
+88,748195,37.13,15-21,SKB,Mål,VF,6,Josefine Kaae LARSEN,Assist,15,Astrid LESLIE,16,Stephanie ANDERSEN
+89,748195,37.48,,RIN,Tilkendt straffe,,20,Stine Opstrup KRISTENSEN,Forårs. str.,22,Anne-Sofie FILTENBORG,,
+90,748195,38.00,,RIN,Straffekast reddet,,18,Emilie ROSBORG,,,,23,Stine ALMIND
+91,748195,38.25,15-22,SKB,Mål,HF,22,Anne-Sofie FILTENBORG,Assist,15,Astrid LESLIE,16,Stephanie ANDERSEN
+92,748195,38.59,16-22,RIN,Mål,Gbr,3,Maria Berger WIERZBA,,,,23,Stine ALMIND
+93,748195,39.31,16-23,SKB,Mål,Gbr,14,Verona REXHEPI,,,,16,Stephanie ANDERSEN
+94,748195,40.16,,RIN,Tabt bold,,5,Caroline SVARRE,,,,,
+95,748195,40.55,16-24,SKB,Mål,Gbr,3,Clara BANG,,,,16,Stephanie ANDERSEN
+96,748195,41.01,,RIN,Time out,,,,,,,,
+97,748195,41.34,17-24,RIN,Mål,PL,3,Maria Berger WIERZBA,,,,23,Stine ALMIND
+98,748195,41.40,17-25,SKB,Mål,2:e,14,Verona REXHEPI,,0,,,
+99,748195,42.11,,RIN,Skud forbi,HF,33,Emma LAURSEN,,,,23,Stine ALMIND
+100,748195,42.35,17-26,SKB,Mål,Gbr,3,Clara BANG,,,,16,Stephanie ANDERSEN
+101,748195,43.03,,SKB,Udvisning,,10,Filippa NEDOVIC,,,,,
+102,748195,43.22,,RIN,Fejlaflevering,,73,Karoline FAHLBERG,,,,,
+103,748195,43.46,17-27,SKB,Mål,PL,3,Clara BANG,,,,16,Stephanie ANDERSEN
+104,748195,44.10,18-27,RIN,Mål,,,,,,,,
+105,748195,44.41,,SKB,Skud reddet,Gbr,20,Suna HANSEN,,,,16,Stephanie ANDERSEN
+106,748195,44.47,19-27,RIN,Mål,2:e,5,Caroline SVARRE,Assist,10,Frida Høgaard NIELSEN,23,Stine ALMIND
+107,748195,45.45,19-28,SKB,Mål,ST,2,Boline LAURSEN,Assist,20,Suna HANSEN,16,Stephanie ANDERSEN
+108,748195,46.06,20-28,RIN,Mål,Gbr,3,Maria Berger WIERZBA,,,,23,Stine ALMIND
+109,748195,46.14,20-29,SKB,Mål,2:e,14,Verona REXHEPI,,,,0,
+110,748195,46.48,21-29,RIN,Mål,Gbr,20,Stine Opstrup KRISTENSEN,Assist,0,,23,Stine ALMIND
+111,748195,47.27,,SKB,Time out,,,,,,,,
+112,748195,47.54,,SKB,Regelfejl,,20,Suna HANSEN,,,,,
+113,748195,48.33,22-29,RIN,Mål,PL,3,Maria Berger WIERZBA,,,,23,Stine ALMIND
+114,748195,49.19,,SKB,Tabt bold,,23,Stine ALMIND,Bold erobret,10,Frida Høgaard NIELSEN,,
+115,748195,49.26,23-29,RIN,Mål,1:e,19,Rikke JOCHUMSEN,Assist,10,Frida Høgaard NIELSEN,23,Stine ALMIND
+116,748195,49.50,,SKB,Regelfejl,,2,Boline LAURSEN,,,,,
+117,748195,49.57,,RIN,Skud reddet,2:e,5,Caroline SVARRE,,,,23,Stine ALMIND
+118,748195,50.24,23-30,SKB,Mål,Gbr,3,Clara BANG,,,,88,Rakul WARDUM
+119,748195,51.06,24-30,RIN,Mål,ST,5,Caroline SVARRE,Assist,20,Stine Opstrup KRISTENSEN,23,Stine ALMIND
+120,748195,51.50,24-31,SKB,Mål,ST,2,Boline LAURSEN,Assist,20,Suna HANSEN,88,Rakul WARDUM
+121,748195,52.27,25-31,RIN,Mål,Gbr,20,Stine Opstrup KRISTENSEN,Assist,3,Maria Berger WIERZBA,23,Stine ALMIND
+122,748195,53.06,,SKB,Skud forbi,PL,44,Nicoline LAURITSEN,,,,88,Rakul WARDUM
+123,748195,53.32,26-31,RIN,Mål,Gbr,3,Maria Berger WIERZBA,,,,23,Stine ALMIND
+124,748195,54.04,,SKB,Regelfejl,,22,Anne-Sofie FILTENBORG,,,,,
+125,748195,54.43,,RIN,Skud reddet,HF,22,Sofie ØSTERGAARD,,,,23,Stine ALMIND
+126,748195,55.36,26-32,SKB,Mål,PL,14,Verona REXHEPI,,,,88,Rakul WARDUM
+127,748195,55.44,,SKB,Udvisning,,26,Christina HANSEN,,,,,
+128,748195,56.00,27-32,RIN,Mål,HF,22,Sofie ØSTERGAARD,Assist,10,Frida Høgaard NIELSEN,23,Stine ALMIND
+129,748195,56.46,,SKB,Skud reddet,ST,2,Boline LAURSEN,,,,88,Rakul WARDUM
+130,748195,57.07,28-32,RIN,Mål,VF,19,Rikke JOCHUMSEN,Assist,20,Stine Opstrup KRISTENSEN,23,Stine ALMIND
+131,748195,57.42,,SKB,Skud på stolpe,Gbr,20,Suna HANSEN,,,,88,Rakul WARDUM
+132,748195,57.50,,RIN,Fejlaflevering,,10,Frida Høgaard NIELSEN,Bold erobret,14,Verona REXHEPI,,
+133,748195,57.55,28-33,SKB,Mål,1:e,14,Verona REXHEPI,,,,88,Rakul WARDUM
+134,748195,58.53,,RIN,Skud reddet,Gbr,20,Stine Opstrup KRISTENSEN,,,,23,Stine ALMIND
+135,748195,59.29,28-34,SKB,Mål,ST,25,Astrid LYNNERUP,Assist,3,Clara BANG,88,Rakul WARDUM
+136,748195,60.00,,RIN,Skud reddet,Gbr,3,Maria Berger WIERZBA,,,,23,Stine ALMIND

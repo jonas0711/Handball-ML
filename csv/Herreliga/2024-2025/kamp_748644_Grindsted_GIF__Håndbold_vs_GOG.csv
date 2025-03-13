@@ -1,0 +1,138 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748644,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748644,0.33,1-0,GIF,Mål,PL,21,Kristoffer VESTERGAARD,Assist,15,Jonas FUGLSBJERG,12,Peter JOHANNESSON
+3,748644,1.13,,GOG,Fejlaflevering,,3,Nicolai PEDERSEN,,,,,
+4,748644,1.18,2-0,GIF,Mål,1:e,14,Nicolai SKYTTE,Assist,15,Jonas FUGLSBJERG,12,Peter JOHANNESSON
+5,748644,2.03,,GOG,Skud blokeret,VB,15,Tobias GRØNDAHL,Blok af (ret),11,Kristoffer JESSEN,,
+6,748644,2.21,,GOG,Skud på stolpe,VF,71,Alexander BLONZ,,,,16,Christian WETCHE
+7,748644,2.59,3-0,GIF,Mål,HB,14,Nicolai SKYTTE,,,,12,Peter JOHANNESSON
+8,748644,3.33,,GIF,Advarsel,,11,Kristoffer JESSEN,,,,,
+9,748644,3.53,3-1,GOG,Mål,VF,71,Alexander BLONZ,Assist,3,Nicolai PEDERSEN,16,Christian WETCHE
+10,748644,3.58,,GOG,Udvisning,,21,Kasper KILDELUND,,,,,
+11,748644,4.23,4-1,GIF,Mål,Gbr,14,Nicolai SKYTTE,,,,12,Peter JOHANNESSON
+12,748644,5.00,,GOG,Skud reddet,PL,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+13,748644,5.06,,GIF,Skud forbi,1:e,16,Christian WETCHE,,,,0,
+14,748644,5.55,,GOG,Tilkendt straffe,,15,Tobias GRØNDAHL,Forårs. str.,11,Kristoffer JESSEN,,
+15,748644,6.04,4-2,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+16,748644,6.34,5-2,GIF,Mål,PL,21,Kristoffer VESTERGAARD,,,,12,Peter JOHANNESSON
+17,748644,7.29,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+18,748644,8.07,,GIF,Fejlaflevering,,14,Nicolai SKYTTE,,,,,
+19,748644,8.12,,GOG,Fejlaflevering,,21,Kasper KILDELUND,,,,,
+20,748644,8.21,,GIF,Skud reddet,2:e,17,Kristian Krag ØRSTED,,,,12,Peter JOHANNESSON
+21,748644,8.52,5-3,GOG,Mål,Gbr,37,Linus PERSSON,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+22,748644,9.47,,GIF,Tilkendt straffe,,21,Kristoffer VESTERGAARD,Forårs. str.,15,Tobias GRØNDAHL,,
+23,748644,10.06,6-3,GIF,Mål på straffe,,15,Jonas FUGLSBJERG,,,,12,Peter JOHANNESSON
+24,748644,10.42,,GOG,Tilkendt straffe,,9,Henrik JAKOBSEN,Forårs. str.,11,Kristoffer JESSEN,,
+25,748644,10.55,,GOG,Straffekast reddet,,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+26,748644,12.00,7-3,GIF,Mål,HF,3,Thomas THEILGAARD,Assist,21,Kristoffer VESTERGAARD,12,Peter JOHANNESSON
+27,748644,12.08,,GOG,Time out,,,,,,,,
+28,748644,12.44,,GOG,Tilkendt straffe,,9,Henrik JAKOBSEN,Forårs. str.,8,Rolf RAVN,,
+29,748644,12.44,,GIF,Udvisning,,8,Rolf RAVN,,,,,
+30,748644,12.48,7-4,GOG,Mål på straffe,,71,Alexander BLONZ,,,,16,Christian WETCHE
+31,748644,13.54,,GIF,Skud blokeret,PL,14,Nicolai SKYTTE,Blok af (ret),66,Anton LINDSKOG,,
+32,748644,14.04,,GIF,Skud blokeret,HB,21,Kristoffer VESTERGAARD,Blok af (ret),3,Nicolai PEDERSEN,,
+33,748644,14.14,,GIF,Skud reddet,PL,20,Frederik IVERSEN,,,,64,Salah BOUTAF
+34,748644,14.31,7-5,GOG,Mål,Gbr,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+35,748644,15.06,,GIF,Fejlaflevering,,14,Nicolai SKYTTE,,,,,
+36,748644,15.18,7-6,GOG,Mål,2:e,71,Alexander BLONZ,Assist,3,Nicolai PEDERSEN,16,Christian WETCHE
+37,748644,16.04,,GOG,Advarsel,,19,Oskar VIND,,,,,
+38,748644,16.42,,GIF,Skud blokeret,PL,15,Jonas FUGLSBJERG,Blokeret af,9,Henrik JAKOBSEN,,
+39,748644,16.54,,GOG,Skud reddet,2:e,29,Hjalte LYKKE,,,,16,Christian WETCHE
+40,748644,17.22,,GOG,Udvisning,,66,Anton LINDSKOG,,,,,
+41,748644,17.38,8-6,GIF,Mål,HF,3,Thomas THEILGAARD,Assist,15,Jonas FUGLSBJERG,64,Salah BOUTAF
+42,748644,18.19,,GOG,Skud reddet,Gbr,8,Frederik TILSTED,,,,16,Christian WETCHE
+43,748644,18.55,9-6,GIF,Mål,Gbr,21,Kristoffer VESTERGAARD,,,,64,Salah BOUTAF
+44,748644,19.32,9-7,GOG,Mål,PL,29,Hjalte LYKKE,,,,16,Christian WETCHE
+45,748644,20.31,,GIF,Passivt spil,,0,,,,,,
+46,748644,20.37,,GOG,Fejlaflevering,,8,Frederik TILSTED,,,,,
+47,748644,20.47,,GIF,Skud reddet,2:e,3,Thomas THEILGAARD,,,,64,Salah BOUTAF
+48,748644,21.01,9-8,GOG,Mål,2:e,71,Alexander BLONZ,Assist,8,Frederik TILSTED,16,Christian WETCHE
+49,748644,21.59,10-8,GIF,Mål,PL,21,Kristoffer VESTERGAARD,Assist,15,Jonas FUGLSBJERG,64,Salah BOUTAF
+50,748644,22.36,10-9,GOG,Mål,Gbr,8,Frederik TILSTED,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+51,748644,23.34,,GIF,Skud reddet,HB,21,Kristoffer VESTERGAARD,,,,64,Salah BOUTAF
+52,748644,23.40,,GOG,Skud reddet,2:e,19,Oskar VIND,,,,16,Christian WETCHE
+53,748644,24.20,11-9,GIF,Mål,VF,20,Frederik IVERSEN,Assist,4,Frederik NIELSEN,64,Salah BOUTAF
+54,748644,24.52,11-10,GOG,Mål,HB,29,Hjalte LYKKE,,,,16,Christian WETCHE
+55,748644,25.28,12-10,GIF,Mål,PL,23,Bjarke NYBO,,,,64,Salah BOUTAF
+56,748644,25.37,,GOG,Fejlaflevering,,29,Hjalte LYKKE,,,,,
+57,748644,26.15,,GIF,Fejlaflevering,,23,Bjarke NYBO,,,,,
+58,748644,26.26,12-11,GOG,Mål,2:e,8,Frederik TILSTED,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+59,748644,27.02,,GIF,Skud reddet,VB,4,Frederik NIELSEN,,,,64,Salah BOUTAF
+60,748644,27.11,12-12,GOG,Mål,2:e,19,Oskar VIND,Assist,29,Hjalte LYKKE,16,Christian WETCHE
+61,748644,27.15,,GIF,Time out,,,,,,,,
+62,748644,27.42,13-12,GIF,Mål,PL,14,Nicolai SKYTTE,,,,64,Salah BOUTAF
+63,748644,27.51,,GOG,Tilkendt straffe,,8,Frederik TILSTED,Forårs. str.,11,Kristoffer JESSEN,,
+64,748644,28.00,,GOG,Straffekast reddet,,71,Alexander BLONZ,,,,16,Christian WETCHE
+65,748644,28.41,,GIF,Regelfejl,,14,Nicolai SKYTTE,,,,,
+66,748644,28.50,13-13,GOG,Mål,2:e,8,Frederik TILSTED,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+67,748644,29.38,,GIF,Skud forbi,HB,15,Jonas FUGLSBJERG,,,,64,Salah BOUTAF
+68,748644,29.58,,GOG,Skud reddet,Gbr,8,Frederik TILSTED,,,,16,Christian WETCHE
+69,748644,30.00,13-13,,Halvleg,,,,,,,,
+70,748644,30.00,,,Start 2:e halvleg,,,,,,,,
+71,748644,30.34,13-14,GOG,Mål,HB,29,Hjalte LYKKE,,,,16,Christian WETCHE
+72,748644,31.28,,GIF,Skud reddet,HF,7,Jakob VILLEMOES,,,,64,Salah BOUTAF
+73,748644,31.43,13-15,GOG,Mål,2:e,71,Alexander BLONZ,Assist,8,Frederik TILSTED,16,Christian WETCHE
+74,748644,32.40,14-15,GIF,Mål,Gbr,14,Nicolai SKYTTE,Assist,21,Kristoffer VESTERGAARD,64,Salah BOUTAF
+75,748644,32.51,,GOG,Tilkendt straffe,,29,Hjalte LYKKE,Forårs. str.,7,Jakob VILLEMOES,,
+76,748644,32.51,,GIF,Udvisning,,7,Jakob VILLEMOES,,,,,
+77,748644,32.53,14-16,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+78,748644,33.45,15-16,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,15,Jonas FUGLSBJERG,64,Salah BOUTAF
+79,748644,33.57,,GOG,Tilkendt straffe,,8,Frederik TILSTED,Forårs. str.,3,Thomas THEILGAARD,,
+80,748644,34.05,,GOG,Straffekast reddet,,15,Tobias GRØNDAHL,,,,1,Frederik SKOVGAARD
+81,748644,34.59,16-16,GIF,Mål,Gbr,14,Nicolai SKYTTE,Assist,15,Jonas FUGLSBJERG,64,Salah BOUTAF
+82,748644,35.12,,GOG,Skud reddet,2:e,29,Hjalte LYKKE,,,,16,Christian WETCHE
+83,748644,35.51,,GIF,Skud reddet,VF,20,Frederik IVERSEN,,,,64,Salah BOUTAF
+84,748644,36.01,16-17,GOG,Mål,2:e,9,Henrik JAKOBSEN,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+85,748644,36.58,,GIF,Skud reddet,PL,15,Jonas FUGLSBJERG,,,,64,Salah BOUTAF
+86,748644,37.04,16-18,GOG,Mål,2:e,29,Hjalte LYKKE,,,,16,Christian WETCHE
+87,748644,37.11,,GIF,Time out,,,,,,,,
+88,748644,37.42,17-18,GIF,Mål,VF,20,Frederik IVERSEN,Assist,14,Nicolai SKYTTE,64,Salah BOUTAF
+89,748644,38.40,,GOG,Skud blokeret,PL,8,Frederik TILSTED,Blok af (ret),11,Kristoffer JESSEN,,
+90,748644,38.55,17-19,GOG,Mål,Gbr,8,Frederik TILSTED,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+91,748644,39.11,18-19,GIF,Mål,HF,3,Thomas THEILGAARD,Assist,15,Jonas FUGLSBJERG,64,Salah BOUTAF
+92,748644,39.23,,GOG,Tilkendt straffe,,15,Tobias GRØNDAHL,Forårs. str.,15,Jonas FUGLSBJERG,,
+93,748644,39.26,18-20,GOG,Mål på straffe,,29,Hjalte LYKKE,,,,1,Frederik SKOVGAARD
+94,748644,40.04,19-20,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,15,Jonas FUGLSBJERG,64,Salah BOUTAF
+95,748644,40.13,19-21,GOG,Mål,2:e,8,Frederik TILSTED,,,,16,Christian WETCHE
+96,748644,40.24,,GOG,Udvisning,,9,Henrik JAKOBSEN,,,,,
+97,748644,40.49,20-21,GIF,Mål,Gbr,15,Jonas FUGLSBJERG,,,,64,Salah BOUTAF
+98,748644,40.54,,GOG,Tilkendt straffe,,66,Anton LINDSKOG,Forårs. str.,23,Bjarke NYBO,,
+99,748644,40.54,,GIF,Udvisning,,23,Bjarke NYBO,,,,,
+100,748644,40.55,20-22,GOG,Mål på straffe,,29,Hjalte LYKKE,,,,16,Christian WETCHE
+101,748644,41.28,21-22,GIF,Mål,Gbr,14,Nicolai SKYTTE,,,,64,Salah BOUTAF
+102,748644,42.00,21-23,GOG,Mål,HF,19,Oskar VIND,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+103,748644,42.31,22-23,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,15,Jonas FUGLSBJERG,64,Salah BOUTAF
+104,748644,43.32,,,,,,,,,,,
+105,748644,44.11,23-23,GIF,Mål,Gbr,4,Frederik NIELSEN,Assist,15,Jonas FUGLSBJERG,64,Salah BOUTAF
+106,748644,44.21,23-24,GOG,Mål,2:e,19,Oskar VIND,Assist,8,Frederik TILSTED,16,Christian WETCHE
+107,748644,45.36,24-24,GIF,Mål,ST,15,Jonas FUGLSBJERG,,,,64,Salah BOUTAF
+108,748644,46.23,24-25,GOG,Mål,HF,19,Oskar VIND,Assist,29,Hjalte LYKKE,16,Christian WETCHE
+109,748644,47.04,,GOG,Udvisning,,66,Anton LINDSKOG,,,,,
+110,748644,47.26,,GIF,Tilkendt straffe,,14,Nicolai SKYTTE,Forårs. str.,19,Oskar VIND,,
+111,748644,47.37,25-25,GIF,Mål på straffe,,15,Jonas FUGLSBJERG,,,,12,Peter JOHANNESSON
+112,748644,48.26,,GOG,Skud reddet,ST,13,Andreas NIELSEN,,,,16,Christian WETCHE
+113,748644,48.29,26-25,GIF,Mål,1:e,4,Frederik NIELSEN,,,,,
+114,748644,49.04,26-26,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,16,Christian WETCHE
+115,748644,49.47,,GIF,Fejlaflevering,,15,Jonas FUGLSBJERG,,,,,
+116,748644,49.59,,GOG,Skud på stolpe,2:e,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+117,748644,50.34,27-26,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,4,Frederik NIELSEN,12,Peter JOHANNESSON
+118,748644,50.43,,GOG,Skud reddet,2:e,19,Oskar VIND,,,,16,Christian WETCHE
+119,748644,51.39,,GIF,Tabt bold,,4,Frederik NIELSEN,,,,,
+120,748644,51.44,27-27,GOG,Mål,1:e,37,Linus PERSSON,Assist,3,Nicolai PEDERSEN,16,Christian WETCHE
+121,748644,52.56,,GIF,Skud blokeret,PL,15,Jonas FUGLSBJERG,Blokeret af,13,Andreas NIELSEN,,
+122,748644,53.17,,GOG,Time out,,,,,,,,
+123,748644,53.49,,GOG,Skud reddet,Gbr,29,Hjalte LYKKE,,,,16,Christian WETCHE
+124,748644,54.23,28-27,GIF,Mål,VF,20,Frederik IVERSEN,Assist,4,Frederik NIELSEN,12,Peter JOHANNESSON
+125,748644,54.38,,GOG,Tilkendt straffe,,29,Hjalte LYKKE,Forårs. str.,20,Frederik IVERSEN,,
+126,748644,54.57,28-28,GOG,Mål på straffe,,29,Hjalte LYKKE,,,,16,Christian WETCHE
+127,748644,55.30,,GIF,Fejlaflevering,,14,Nicolai SKYTTE,,,,,
+128,748644,55.35,28-29,GOG,Mål,1:e,71,Alexander BLONZ,,,,16,Christian WETCHE
+129,748644,56.05,,GIF,Tabt bold,,14,Nicolai SKYTTE,,,,,
+130,748644,56.46,28-30,GOG,Mål,ST,66,Anton LINDSKOG,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+131,748644,56.58,,GIF,Time out,,,,,,,,
+132,748644,57.15,29-30,GIF,Mål,PL,21,Kristoffer VESTERGAARD,Assist,15,Jonas FUGLSBJERG,12,Peter JOHANNESSON
+133,748644,57.45,29-31,GOG,Mål,ST,13,Andreas NIELSEN,Assist,3,Nicolai PEDERSEN,16,Christian WETCHE
+134,748644,58.03,30-31,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,12,Peter JOHANNESSON
+135,748644,58.51,,GOG,Tilkendt straffe,,15,Tobias GRØNDAHL,Forårs. str.,17,Kristian Krag ØRSTED,,
+136,748644,58.51,30-32,GOG,Mål på straffe,,29,Hjalte LYKKE,,,,1,Frederik SKOVGAARD
+137,748644,59.35,,GIF,Regelfejl,,15,Jonas FUGLSBJERG,,,,,

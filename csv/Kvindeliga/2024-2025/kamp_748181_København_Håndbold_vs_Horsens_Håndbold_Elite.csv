@@ -1,0 +1,133 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748181,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748181,0.40,,HHE,Fejlaflevering,,11,Fanny ELOVSSON,,,,,
+3,748181,1.16,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+4,748181,1.52,,HHE,Skud på stolpe,Gbr,19,Frida Haug HOEL,,,,20,Anne Christine BOSSEN
+5,748181,2.31,1-0,KBH,Mål,PL,15,Emma NAVNE,,,,16,Andrea AUSTMO
+6,748181,3.07,,HHE,Skud på stolpe,Gbr,19,Frida Haug HOEL,,,,20,Anne Christine BOSSEN
+7,748181,3.11,2-0,KBH,Mål,1:e,7,Emilie Ytting PEDERSEN,Assist,20,Anne Christine BOSSEN,16,Andrea AUSTMO
+8,748181,3.42,2-1,HHE,Mål,PL,11,Fanny ELOVSSON,,,,20,Anne Christine BOSSEN
+9,748181,4.19,3-1,KBH,Mål,ST,17,Tabea SCHMID,Assist,15,Emma NAVNE,16,Andrea AUSTMO
+10,748181,5.26,3-2,HHE,Mål,HB,19,Frida Haug HOEL,,,,20,Anne Christine BOSSEN
+11,748181,6.08,,KBH,Skud reddet,Gbr,4,Catharina MOLENAAR,,,,16,Andrea AUSTMO
+12,748181,6.15,3-3,HHE,Mål,2:e,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+13,748181,6.24,4-3,KBH,Mål,2:e,21,Helene KINDBERG,,,,16,Andrea AUSTMO
+14,748181,6.30,4-4,HHE,Mål,2:e,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,20,Anne Christine BOSSEN
+15,748181,7.02,,KBH,Tilkendt straffe,,4,Catharina MOLENAAR,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+16,748181,7.18,5-4,KBH,Mål på straffe,,5,Clara SKØTT,,,,16,Andrea AUSTMO
+17,748181,7.48,5-5,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+18,748181,8.00,,KBH,Skud reddet,2:e,7,Emilie Ytting PEDERSEN,,,,16,Andrea AUSTMO
+19,748181,8.42,5-6,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,19,Frida Haug HOEL,20,Anne Christine BOSSEN
+20,748181,9.14,,KBH,Skud reddet,HB,21,Helene KINDBERG,,,,16,Andrea AUSTMO
+21,748181,9.29,,HHE,Tilkendt straffe,,19,Frida Haug HOEL,Forårs. str.,15,Emma NAVNE,,
+22,748181,9.43,5-7,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+23,748181,10.17,6-7,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,15,Emma NAVNE,16,Andrea AUSTMO
+24,748181,10.50,,HHE,Skud reddet,Gbr,19,Frida Haug HOEL,,,,20,Anne Christine BOSSEN
+25,748181,10.57,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+26,748181,11.34,6-8,HHE,Mål,VB,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+27,748181,11.45,,KBH,Regelfejl,,15,Emma NAVNE,,,,,
+28,748181,11.48,6-9,HHE,Mål,2:e,21,Romee MAARSCHALKEWEERD,Assist,11,Fanny ELOVSSON,20,Anne Christine BOSSEN
+29,748181,12.18,,KBH,Tilkendt straffe,,4,Catharina MOLENAAR,Forårs. str.,19,Frida Haug HOEL,,
+30,748181,12.40,7-9,KBH,Mål på straffe,,5,Clara SKØTT,,,,16,Andrea AUSTMO
+31,748181,13.12,,HHE,Fejlaflevering,,7,Maria Palsdottir NÓLSOY,,,,,
+32,748181,13.35,8-9,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Andrea AUSTMO
+33,748181,14.06,,HHE,Skud på stolpe,ST,21,Romee MAARSCHALKEWEERD,,,,20,Anne Christine BOSSEN
+34,748181,14.36,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,16,Andrea AUSTMO
+35,748181,14.44,8-10,HHE,Mål,2:e,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,20,Anne Christine BOSSEN
+36,748181,15.19,9-10,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Andrea AUSTMO
+37,748181,15.55,,HHE,Skud på stolpe,PL,11,Fanny ELOVSSON,,,,20,Anne Christine BOSSEN
+38,748181,16.01,10-10,KBH,Mål,2:e,4,Catharina MOLENAAR,,,,16,Andrea AUSTMO
+39,748181,16.32,10-11,HHE,Mål,PL,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+40,748181,16.42,11-11,KBH,Mål,PL,15,Emma NAVNE,,,,16,Andrea AUSTMO
+41,748181,17.48,11-12,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,20,Anne Christine BOSSEN
+42,748181,18.32,,KBH,Skud reddet,VF,7,Emilie Ytting PEDERSEN,,,,16,Andrea AUSTMO
+43,748181,19.18,11-13,HHE,Mål,PL,14,Mai KRAGBALLE,,,,2,Bianca SCHANSSEMA
+44,748181,20.17,,KBH,Tilkendt straffe,,21,Helene KINDBERG,Forårs. str.,11,Fanny ELOVSSON,,
+45,748181,20.26,12-13,KBH,Mål på straffe,,5,Clara SKØTT,,,,1,Mathilde BISGAARD
+46,748181,20.59,12-14,HHE,Mål,HB,19,Frida Haug HOEL,Assist,14,Mai KRAGBALLE,2,Bianca SCHANSSEMA
+47,748181,21.05,13-14,KBH,Mål,2:e,7,Emilie Ytting PEDERSEN,Assist,15,Emma NAVNE,16,Andrea AUSTMO
+48,748181,21.44,13-15,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,,,,2,Bianca SCHANSSEMA
+49,748181,21.58,,KBH,Regelfejl,,21,Helene KINDBERG,,,,,
+50,748181,22.29,,HHE,Skud reddet,ST,3,Alma SKRETTING,,,,2,Bianca SCHANSSEMA
+51,748181,23.10,14-15,KBH,Mål,PL,15,Emma NAVNE,,,,16,Andrea AUSTMO
+52,748181,24.01,,HHE,Regelfejl,,19,Frida Haug HOEL,,,,,
+53,748181,24.30,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,3,Alma SKRETTING,,
+54,748181,24.54,15-15,KBH,Mål på straffe,,5,Clara SKØTT,,,,16,Andrea AUSTMO
+55,748181,25.20,,HHE,Tabt bold,,14,Mai KRAGBALLE,,,,,
+56,748181,25.23,16-15,KBH,Mål,1:e,7,Emilie Ytting PEDERSEN,Assist,10,Pernille BRANDENBORG,16,Andrea AUSTMO
+57,748181,25.29,,HHE,Time out,,,,,,,,
+58,748181,25.58,,HHE,Regelfejl,,3,Alma SKRETTING,,,,,
+59,748181,26.23,17-15,KBH,Mål,VB,4,Catharina MOLENAAR,,,,16,Andrea AUSTMO
+60,748181,27.28,17-16,HHE,Mål,ST,3,Alma SKRETTING,Assist,14,Mai KRAGBALLE,2,Bianca SCHANSSEMA
+61,748181,28.13,,KBH,Skud reddet,PL,15,Emma NAVNE,,,,1,Mathilde BISGAARD
+62,748181,28.52,,HHE,Skud reddet,PL,11,Fanny ELOVSSON,,,,2,Bianca SCHANSSEMA
+63,748181,29.20,,KBH,Skud reddet,VF,7,Emilie Ytting PEDERSEN,,,,1,Mathilde BISGAARD
+64,748181,29.31,,HHE,Fejlaflevering,,19,Frida Haug HOEL,,,,,
+65,748181,29.34,,KBH,Time out,,,,,,,,
+66,748181,29.48,,HHE,Udvisning,,33,Laura Holm ANDERSEN,,,,,
+67,748181,29.59,,KBH,Skud på stolpe,HF,5,Clara SKØTT,,,,1,Mathilde BISGAARD
+68,748181,30.00,17-16,,Halvleg,,,,,,,,
+69,748181,30.00,,,Start 2:e halvleg,,,,,,,,
+70,748181,30.19,18-16,KBH,Mål,ST,17,Tabea SCHMID,Assist,15,Emma NAVNE,1,Mathilde BISGAARD
+71,748181,31.05,,HHE,Skud reddet,VF,6,Maria HØJGAARD,,,,20,Anne Christine BOSSEN
+72,748181,31.13,19-16,KBH,Mål,2:e,47,Agnes HVIDSTEEN,Assist,22,Stine JØRGENSEN,1,Mathilde BISGAARD
+73,748181,32.04,,HHE,Skud reddet,PL,11,Fanny ELOVSSON,,,,20,Anne Christine BOSSEN
+74,748181,32.38,,KBH,Regelfejl,,17,Tabea SCHMID,,,,,
+75,748181,32.45,19-17,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,11,Fanny ELOVSSON,20,Anne Christine BOSSEN
+76,748181,33.09,,KBH,Fejlaflevering,,22,Stine JØRGENSEN,,,,,
+77,748181,33.18,19-18,HHE,Mål,PL,11,Fanny ELOVSSON,,,,20,Anne Christine BOSSEN
+78,748181,33.47,,HHE,Advarsel,A,,Ronni BOY,,,,,
+79,748181,34.10,20-18,KBH,Mål,ST,17,Tabea SCHMID,Assist,15,Emma NAVNE,1,Mathilde BISGAARD
+80,748181,34.40,20-19,HHE,Mål,2:e,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+81,748181,35.22,,KBH,Regelfejl,,17,Tabea SCHMID,,,,,
+82,748181,35.28,,HHE,Skud reddet,2:e,22,Sille Cecilie SORTH,,,,20,Anne Christine BOSSEN
+83,748181,35.36,21-19,KBH,Mål,2:e,22,Stine JØRGENSEN,Assist,15,Emma NAVNE,1,Mathilde BISGAARD
+84,748181,36.37,,HHE,Skud reddet,PL,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+85,748181,37.15,22-19,KBH,Mål,ST,17,Tabea SCHMID,Assist,15,Emma NAVNE,1,Mathilde BISGAARD
+86,748181,37.56,22-20,HHE,Mål,PL,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+87,748181,38.05,23-20,KBH,Mål,PL,15,Emma NAVNE,,,,1,Mathilde BISGAARD
+88,748181,38.40,,HHE,Tabt bold,,21,Romee MAARSCHALKEWEERD,,,,,
+89,748181,38.48,,KBH,Skud på stolpe,2:e,5,Clara SKØTT,,,,1,Mathilde BISGAARD
+90,748181,39.16,,KBH,Udvisning,,17,Tabea SCHMID,,,,,
+91,748181,39.28,,KBH,Advarsel,B,,Bo SPELLERBERG,,,,,
+92,748181,39.33,,HHE,Skud reddet,ST,21,Romee MAARSCHALKEWEERD,,,,20,Anne Christine BOSSEN
+93,748181,40.10,24-20,KBH,Mål,ST,5,Clara SKØTT,Assist,22,Stine JØRGENSEN,1,Mathilde BISGAARD
+94,748181,40.47,,HHE,Skud på stolpe,HF,22,Sille Cecilie SORTH,,,,20,Anne Christine BOSSEN
+95,748181,41.33,,KBH,Skud reddet,VB,22,Stine JØRGENSEN,,,,1,Mathilde BISGAARD
+96,748181,41.39,,HHE,Time out,,,,,,,,
+97,748181,42.24,24-21,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,,,,20,Anne Christine BOSSEN
+98,748181,42.36,25-21,KBH,Mål,HF,5,Clara SKØTT,Assist,21,Helene KINDBERG,1,Mathilde BISGAARD
+99,748181,43.12,,HHE,Skud forbi,VB,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+100,748181,43.23,,KBH,Fejlaflevering,,21,Helene KINDBERG,,,,,
+101,748181,44.05,,HHE,Skud reddet,Gbr,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+102,748181,44.12,,KBH,Skud reddet,1:e,6,Freja COHRT,,,,1,Mathilde BISGAARD
+103,748181,44.50,25-22,HHE,Mål,Gbr,39,Melanie BAK,,,,20,Anne Christine BOSSEN
+104,748181,45.26,26-22,KBH,Mål,,,,,,,,
+105,748181,45.56,,HHE,Regelfejl,,39,Melanie BAK,,,,,
+106,748181,46.48,,KBH,Skud blokeret,PL,22,Stine JØRGENSEN,Blokeret af,11,Fanny ELOVSSON,,
+107,748181,47.23,26-23,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,Assist,14,Mai KRAGBALLE,20,Anne Christine BOSSEN
+108,748181,48.11,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+109,748181,48.17,,KBH,Udvisning,,15,Emma NAVNE,,,,,
+110,748181,48.35,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,Bold erobret,4,Catharina MOLENAAR,,
+111,748181,49.21,27-23,KBH,Mål,PL,21,Helene KINDBERG,,,,1,Mathilde BISGAARD
+112,748181,50.13,27-24,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,Assist,14,Mai KRAGBALLE,20,Anne Christine BOSSEN
+113,748181,50.53,,KBH,Skud reddet,VF,7,Emilie Ytting PEDERSEN,,,,1,Mathilde BISGAARD
+114,748181,51.02,27-25,HHE,Mål,2:e,11,Fanny ELOVSSON,,,,20,Anne Christine BOSSEN
+115,748181,51.40,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,1,Mathilde BISGAARD
+116,748181,52.18,27-26,HHE,Mål,Gbr,39,Melanie BAK,,,,20,Anne Christine BOSSEN
+117,748181,53.02,28-26,KBH,Mål,HF,5,Clara SKØTT,Assist,21,Helene KINDBERG,1,Mathilde BISGAARD
+118,748181,53.34,,HHE,Skud på stolpe,ST,21,Romee MAARSCHALKEWEERD,,,,20,Anne Christine BOSSEN
+119,748181,54.01,,KBH,Skud reddet,Gbr,4,Catharina MOLENAAR,,,,1,Mathilde BISGAARD
+120,748181,54.16,28-27,HHE,Mål,ST,9,Annika MEYER,Assist,11,Fanny ELOVSSON,20,Anne Christine BOSSEN
+121,748181,54.52,29-27,KBH,Mål,ST,17,Tabea SCHMID,Assist,15,Emma NAVNE,1,Mathilde BISGAARD
+122,748181,55.36,,HHE,Skud på stolpe,PL,11,Fanny ELOVSSON,,,,20,Anne Christine BOSSEN
+123,748181,56.11,,KBH,Skud på stolpe,PL,15,Emma NAVNE,,,,1,Mathilde BISGAARD
+124,748181,56.46,,HHE,Time out,,,,,,,,
+125,748181,57.00,,HHE,Skud reddet,Gbr,7,Maria Palsdottir NÓLSOY,,,,20,Anne Christine BOSSEN
+126,748181,57.35,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+127,748181,58.05,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,,,,,
+128,748181,58.35,30-27,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,1,Mathilde BISGAARD
+129,748181,59.09,,HHE,Skud på stolpe,PL,14,Mai KRAGBALLE,Retur,39,Melanie BAK,20,Anne Christine BOSSEN
+130,748181,59.25,,HHE,Skud reddet,PL,14,Mai KRAGBALLE,,,,20,Anne Christine BOSSEN
+131,748181,59.48,,KBH,Time out,,,,,,,,
+132,748181,60.00,31-27,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,4,Catharina MOLENAAR,1,Mathilde BISGAARD

@@ -1,0 +1,136 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748737,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748737,0.40,1-0,GOG,Mål,VB,3,Nicolai PEDERSEN,,,,12,Magnus BRANDBYGE
+3,748737,1.54,,SAH,Skud på stolpe,HF,11,Mikkel LANG,,,,64,Salah BOUTAF
+4,748737,2.25,,GOG,Skud reddet,HB,29,Hjalte LYKKE,,,,12,Magnus BRANDBYGE
+5,748737,2.35,,SAH,Skud reddet,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,64,Salah BOUTAF
+6,748737,2.54,,GOG,Tilkendt straffe,,29,Hjalte LYKKE,Forårs. str.,6,Kristian BONEFELD,,
+7,748737,3.13,2-0,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,12,Magnus BRANDBYGE
+8,748737,3.42,2-1,SAH,Mål,HB,3,Kristjan ÖRN KRISTJANSSON,,,,64,Salah BOUTAF
+9,748737,4.18,,GOG,Skud reddet,PL,3,Nicolai PEDERSEN,,,,12,Magnus BRANDBYGE
+10,748737,4.31,,SAH,Regelfejl,,19,Thor CHRISTENSEN,,,,,
+11,748737,5.41,3-1,GOG,Mål,VB,3,Nicolai PEDERSEN,,,,12,Magnus BRANDBYGE
+12,748737,5.52,3-2,SAH,Mål,2:e,19,Thor CHRISTENSEN,Assist,32,Fredrik OLSSON,64,Salah BOUTAF
+13,748737,6.01,4-2,GOG,Mål,2:e,9,Henrik JAKOBSEN,Assist,15,Tobias GRØNDAHL,12,Magnus BRANDBYGE
+14,748737,6.55,,SAH,Tilkendt straffe,,19,Thor CHRISTENSEN,Forårs. str.,7,Lasse VILHELMSEN,,
+15,748737,7.19,4-3,SAH,Mål på straffe,,23,Morten Hempel JENSEN,,,,64,Salah BOUTAF
+16,748737,8.14,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,Bold erobret,19,Thor CHRISTENSEN,,
+17,748737,8.53,,SAH,Tabt bold,,3,Kristjan ÖRN KRISTJANSSON,Bold erobret,9,Henrik JAKOBSEN,,
+18,748737,8.58,5-3,GOG,Mål,1:e,9,Henrik JAKOBSEN,Assist,7,Lasse VILHELMSEN,12,Magnus BRANDBYGE
+19,748737,9.22,5-4,SAH,Mål,VB,15,Emil LÆRKE,,,,64,Salah BOUTAF
+20,748737,9.35,,SAH,Advarsel,,6,Kristian BONEFELD,,,,,
+21,748737,10.37,6-4,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,29,Hjalte LYKKE,12,Magnus BRANDBYGE
+22,748737,11.08,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+23,748737,11.14,7-4,GOG,Mål,2:e,3,Nicolai PEDERSEN,,,,12,Magnus BRANDBYGE
+24,748737,11.47,7-5,SAH,Mål,PL,15,Emil LÆRKE,,,,64,Salah BOUTAF
+25,748737,12.30,8-5,GOG,Mål,Gbr,3,Nicolai PEDERSEN,Assist,29,Hjalte LYKKE,12,Magnus BRANDBYGE
+26,748737,13.02,,SAH,Skud reddet,HF,11,Mikkel LANG,,,,64,Salah BOUTAF
+27,748737,13.14,,SAH,Udvisning,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+28,748737,14.08,,GOG,Passivt spil,,0,,,,,,
+29,748737,14.57,,SAH,Regelfejl,,32,Fredrik OLSSON,,,,,
+30,748737,15.15,,GOG,Skud reddet,ST,66,Anton LINDSKOG,Retur,0,,12,Magnus BRANDBYGE
+31,748737,15.23,,GOG,Regelfejl,,29,Hjalte LYKKE,,,,,
+32,748737,16.06,,SAH,Skud på stolpe,PL,32,Fredrik OLSSON,,,,64,Salah BOUTAF
+33,748737,16.14,9-5,GOG,Mål,2:e,9,Henrik JAKOBSEN,Assist,37,Linus PERSSON,12,Magnus BRANDBYGE
+34,748737,16.32,9-6,SAH,Mål,2:e,6,Kristian BONEFELD,,,,64,Salah BOUTAF
+35,748737,16.52,10-6,GOG,Mål,PL,8,Frederik TILSTED,,,,12,Magnus BRANDBYGE
+36,748737,17.18,10-7,SAH,Mål,PL,15,Emil LÆRKE,,,,64,Salah BOUTAF
+37,748737,18.01,11-7,GOG,Mål,VF,23,Joachim Lyng ALS,Assist,8,Frederik TILSTED,1,Kristoffer LAURSEN
+38,748737,18.14,,SAH,Regelfejl,,20,Morten BALLING,,,,,
+39,748737,18.21,12-7,GOG,Mål,2:e,8,Frederik TILSTED,,,,1,Kristoffer LAURSEN
+40,748737,18.31,,SAH,Time out,,,,,,,,
+41,748737,18.56,12-8,SAH,Mål,HF,11,Mikkel LANG,Assist,20,Morten BALLING,64,Salah BOUTAF
+42,748737,19.37,13-8,GOG,Mål,Gbr,8,Frederik TILSTED,,,,1,Kristoffer LAURSEN
+43,748737,20.13,,SAH,Tilkendt straffe,,23,Morten Hempel JENSEN,Forårs. str.,37,Linus PERSSON,,
+44,748737,20.24,13-9,SAH,Mål på straffe,,23,Morten Hempel JENSEN,,,,64,Salah BOUTAF
+45,748737,21.01,14-9,GOG,Mål,PL,8,Frederik TILSTED,,,,1,Kristoffer LAURSEN
+46,748737,21.30,14-10,SAH,Mål,HF,11,Mikkel LANG,Assist,20,Morten BALLING,64,Salah BOUTAF
+47,748737,21.41,,GOG,Regelfejl,,8,Frederik TILSTED,,,,,
+48,748737,22.18,14-11,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,64,Salah BOUTAF
+49,748737,22.31,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+50,748737,22.37,14-12,SAH,Mål,1:e,6,Kristian BONEFELD,Assist,11,Mikkel LANG,64,Salah BOUTAF
+51,748737,22.40,,GOG,Time out,,,,,,,,
+52,748737,23.38,,GOG,Skud blokeret,PL,8,Frederik TILSTED,Blok af (ret),19,Thor CHRISTENSEN,,
+53,748737,23.51,,GOG,Skud reddet,PL,29,Hjalte LYKKE,,,,1,Kristoffer LAURSEN
+54,748737,24.14,,SAH,Regelfejl,,19,Thor CHRISTENSEN,,,,,
+55,748737,24.53,15-12,GOG,Mål,PL,7,Lasse VILHELMSEN,,,,1,Kristoffer LAURSEN
+56,748737,25.20,15-13,SAH,Mål,Gbr,23,Morten Hempel JENSEN,Assist,28,Morten KAALUND,12,Peter JOHANNESSON
+57,748737,25.58,16-13,GOG,Mål,VF,23,Joachim Lyng ALS,Assist,8,Frederik TILSTED,1,Kristoffer LAURSEN
+58,748737,26.51,,SAH,Skud reddet,PL,32,Fredrik OLSSON,,,,12,Peter JOHANNESSON
+59,748737,27.03,17-13,GOG,Mål,2:e,21,Kasper KILDELUND,Assist,15,Tobias GRØNDAHL,1,Kristoffer LAURSEN
+60,748737,27.03,,SAH,Udvisning,,6,Kristian BONEFELD,,,,,
+61,748737,27.57,,SAH,Skud reddet,HB,15,Emil LÆRKE,,,,12,Peter JOHANNESSON
+62,748737,28.23,18-13,GOG,Mål,HF,21,Kasper KILDELUND,Assist,29,Hjalte LYKKE,1,Kristoffer LAURSEN
+63,748737,29.17,,SAH,Regelfejl,,25,Jeppe CIESLAK,,,,,
+64,748737,29.43,,GOG,Time out,,,,,,,,
+65,748737,29.54,19-13,GOG,Mål,PL,15,Tobias GRØNDAHL,,,,1,Kristoffer LAURSEN
+66,748737,29.58,,SAH,Skud blokeret,2:e,6,Kristian BONEFELD,Blokeret af,8,Frederik TILSTED,,
+67,748737,30.00,19-13,,Halvleg,,,,,,,,
+68,748737,30.00,,,Start 2:e halvleg,,,,,,,,
+69,748737,30.23,,SAH,Skud reddet,VB,23,Morten Hempel JENSEN,,,,12,Peter JOHANNESSON
+70,748737,31.04,,GOG,Fejlaflevering,,7,Lasse VILHELMSEN,,,,,
+71,748737,31.14,19-14,SAH,Mål,Gbr,23,Morten Hempel JENSEN,,,,12,Peter JOHANNESSON
+72,748737,32.43,,GOG,Skud blokeret,HB,7,Lasse VILHELMSEN,Blokeret af,15,Emil LÆRKE,,
+73,748737,33.24,,SAH,Fejlaflevering,,23,Morten Hempel JENSEN,Bold erobret,21,Kasper KILDELUND,,
+74,748737,33.28,20-14,GOG,Mål,1:e,21,Kasper KILDELUND,,,,0,
+75,748737,33.52,20-15,SAH,Mål,VB,15,Emil LÆRKE,,,,12,Peter JOHANNESSON
+76,748737,34.31,,GOG,Fejlaflevering,,7,Lasse VILHELMSEN,Bold erobret,28,Morten KAALUND,,
+77,748737,34.58,,SAH,Tilkendt straffe,,23,Morten Hempel JENSEN,Forårs. str.,66,Anton LINDSKOG,,
+78,748737,34.58,,GOG,Udvisning,,66,Anton LINDSKOG,,,,,
+79,748737,35.01,20-16,SAH,Mål på straffe,,25,Jeppe CIESLAK,,,,12,Peter JOHANNESSON
+80,748737,35.43,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+81,748737,35.50,20-17,SAH,Mål,1:e,15,Emil LÆRKE,,,,0,
+82,748737,36.32,21-17,GOG,Mål,HB,7,Lasse VILHELMSEN,Assist,15,Tobias GRØNDAHL,12,Magnus BRANDBYGE
+83,748737,36.48,,SAH,Time out,,,,,,,,
+84,748737,37.08,21-18,SAH,Mål,ST,28,Morten KAALUND,Assist,15,Emil LÆRKE,12,Peter JOHANNESSON
+85,748737,37.58,,GOG,Tilkendt straffe,,29,Hjalte LYKKE,Forårs. str.,15,Emil LÆRKE,,
+86,748737,37.58,,SAH,Udvisning,,15,Emil LÆRKE,,,,,
+87,748737,38.01,22-18,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,12,Magnus BRANDBYGE
+88,748737,38.39,22-19,SAH,Mål,ST,28,Morten KAALUND,Assist,32,Fredrik OLSSON,12,Peter JOHANNESSON
+89,748737,38.39,,GOG,Udvisning,,9,Henrik JAKOBSEN,,,,,
+90,748737,39.09,23-19,GOG,Mål,VF,23,Joachim Lyng ALS,Assist,8,Frederik TILSTED,12,Magnus BRANDBYGE
+91,748737,39.49,23-20,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,32,Fredrik OLSSON,12,Peter JOHANNESSON
+92,748737,40.19,,GOG,Skud på stolpe,PL,15,Tobias GRØNDAHL,,,,12,Magnus BRANDBYGE
+93,748737,40.36,23-21,SAH,Mål,VB,15,Emil LÆRKE,,,,12,Peter JOHANNESSON
+94,748737,41.14,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,Bold erobret,25,Jeppe CIESLAK,,
+95,748737,41.21,23-22,SAH,Mål,1:e,25,Jeppe CIESLAK,,,,0,
+96,748737,41.48,,GOG,Regelfejl,,9,Henrik JAKOBSEN,,,,,
+97,748737,42.20,23-23,SAH,Mål,Gbr,20,Morten BALLING,Assist,23,Morten Hempel JENSEN,12,Peter JOHANNESSON
+98,748737,42.39,24-23,GOG,Mål,VF,11,Kasper Dahl JACOBSEN,Assist,8,Frederik TILSTED,12,Magnus BRANDBYGE
+99,748737,43.23,,SAH,Fejlaflevering,,15,Emil LÆRKE,,,,,
+100,748737,43.32,25-23,GOG,Mål,1:e,15,Tobias GRØNDAHL,,,,0,
+101,748737,44.09,25-24,SAH,Mål,VB,15,Emil LÆRKE,,,,64,Salah BOUTAF
+102,748737,44.46,26-24,GOG,Mål,PL,15,Tobias GRØNDAHL,,,,12,Magnus BRANDBYGE
+103,748737,44.56,26-25,SAH,Mål,2:e,28,Morten KAALUND,,,,0,
+104,748737,45.29,,,,,,,,,,,
+105,748737,46.07,26-26,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,23,Morten Hempel JENSEN,64,Salah BOUTAF
+106,748737,46.52,27-26,GOG,Mål,ST,9,Henrik JAKOBSEN,Assist,15,Tobias GRØNDAHL,12,Magnus BRANDBYGE
+107,748737,47.03,,SAH,Regelfejl,,23,Morten Hempel JENSEN,,,,,
+108,748737,48.03,,GOG,Skud reddet,VF,11,Kasper Dahl JACOBSEN,,,,12,Magnus BRANDBYGE
+109,748737,48.52,,SAH,Tilkendt straffe,,11,Mikkel LANG,Forårs. str.,11,Kasper Dahl JACOBSEN,,
+110,748737,48.54,27-27,SAH,Mål på straffe,,23,Morten Hempel JENSEN,,,,64,Salah BOUTAF
+111,748737,49.40,28-27,GOG,Mål,ST,66,Anton LINDSKOG,Assist,8,Frederik TILSTED,12,Magnus BRANDBYGE
+112,748737,50.13,28-28,SAH,Mål,VB,15,Emil LÆRKE,,,,64,Salah BOUTAF
+113,748737,50.18,29-28,GOG,Mål,2:e,3,Nicolai PEDERSEN,,,,12,Magnus BRANDBYGE
+114,748737,51.16,29-29,SAH,Mål,HF,11,Mikkel LANG,Assist,20,Morten BALLING,64,Salah BOUTAF
+115,748737,52.10,,GOG,Fejlaflevering,,8,Frederik TILSTED,,,,,
+116,748737,52.15,29-30,SAH,Mål,1:e,11,Mikkel LANG,Assist,6,Kristian BONEFELD,,
+117,748737,52.45,,GOG,Fejlaflevering,,8,Frederik TILSTED,,,,,
+118,748737,52.45,29-31,SAH,Mål,1:e,6,Kristian BONEFELD,,,,,
+119,748737,52.50,,GOG,Time out,,0,,,,,,
+120,748737,53.04,30-31,GOG,Mål,PL,29,Hjalte LYKKE,,,,12,Magnus BRANDBYGE
+121,748737,53.39,,SAH,Fejlaflevering,,20,Morten BALLING,Bold erobret,3,Nicolai PEDERSEN,,
+122,748737,53.42,31-31,GOG,Mål,1:e,3,Nicolai PEDERSEN,,,,0,
+123,748737,54.22,,SAH,Skud reddet,PL,23,Morten Hempel JENSEN,,,,12,Peter JOHANNESSON
+124,748737,54.52,,GOG,Tilkendt straffe,,29,Hjalte LYKKE,Forårs. str.,6,Kristian BONEFELD,,
+125,748737,55.00,32-31,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,1,Kristoffer LAURSEN
+126,748737,55.19,,SAH,Time out,,0,,,,,,
+127,748737,55.33,32-32,SAH,Mål,PL,15,Emil LÆRKE,,,,12,Peter JOHANNESSON
+128,748737,56.10,33-32,GOG,Mål,PL,29,Hjalte LYKKE,,,,12,Magnus BRANDBYGE
+129,748737,56.39,33-33,SAH,Mål,PL,15,Emil LÆRKE,,,,12,Peter JOHANNESSON
+130,748737,57.17,,GOG,Skud reddet,HB,29,Hjalte LYKKE,Retur,0,,12,Magnus BRANDBYGE
+131,748737,57.23,34-33,GOG,Mål,ST,9,Henrik JAKOBSEN,,,,12,Magnus BRANDBYGE
+132,748737,57.47,,SAH,Skud reddet,ST,19,Thor CHRISTENSEN,,,,12,Peter JOHANNESSON
+133,748737,58.42,35-33,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,12,Magnus BRANDBYGE
+134,748737,59.11,35-34,SAH,Mål,VB,15,Emil LÆRKE,,,,12,Peter JOHANNESSON
+135,748737,59.59,,GOG,Skud forbi,HB,15,Tobias GRØNDAHL,,,,12,Magnus BRANDBYGE

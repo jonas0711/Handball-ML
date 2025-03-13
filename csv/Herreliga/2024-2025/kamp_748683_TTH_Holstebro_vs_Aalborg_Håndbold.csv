@@ -1,0 +1,141 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748683,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748683,0.37,,TTH,Skud reddet,VB,11,Thomas DAMGAARD,,,,12,Fabian NORSTEN
+3,748683,0.47,,TTH,Advarsel,,7,William AAR,,,,,
+4,748683,1.39,0-1,AAH,Mål,HB,14,Mads HOXER,,,,16,Sander HEIEREN
+5,748683,1.54,,AAH,Advarsel,,7,Thomas ARNOLDSEN,,,,,
+6,748683,2.57,,TTH,Skud forbi,PL,7,William AAR,,,,12,Fabian NORSTEN
+7,748683,3.07,0-2,AAH,Mål,2:e,14,Mads HOXER,Assist,7,Thomas ARNOLDSEN,16,Sander HEIEREN
+8,748683,3.22,,TTH,Skud reddet,Gbr,18,Edwin ASPENBÄCK,,,,12,Fabian NORSTEN
+9,748683,3.34,0-3,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,16,Sander HEIEREN
+10,748683,4.14,1-3,TTH,Mål,VB,7,William AAR,,,,12,Fabian NORSTEN
+11,748683,5.34,,AAH,Skud forbi,PL,7,Thomas ARNOLDSEN,,,,16,Sander HEIEREN
+12,748683,6.16,2-3,TTH,Mål,PL,7,William AAR,,,,12,Fabian NORSTEN
+13,748683,6.27,,AAH,Skud reddet,2:e,9,Miguel MARTINS,,,,16,Sander HEIEREN
+14,748683,6.58,3-3,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,18,Edwin ASPENBÄCK,12,Fabian NORSTEN
+15,748683,7.56,,AAH,Skud forbi,PL,9,Miguel MARTINS,,,,16,Sander HEIEREN
+16,748683,8.37,4-3,TTH,Mål,PL,18,Edwin ASPENBÄCK,,,,12,Fabian NORSTEN
+17,748683,8.44,4-4,AAH,Mål,2:e,7,Thomas ARNOLDSEN,,,,16,Sander HEIEREN
+18,748683,9.29,5-4,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,12,Fabian NORSTEN
+19,748683,10.04,5-5,AAH,Mål,Gbr,9,Miguel MARTINS,,,,16,Sander HEIEREN
+20,748683,10.16,6-5,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,18,Edwin ASPENBÄCK,12,Fabian NORSTEN
+21,748683,10.24,,AAH,Tilkendt straffe,,23,Buster JUUL,Forårs. str.,23,Miha ZVIZEJ,,
+22,748683,10.24,,TTH,Udvisning,,28,Kevin GULLIKSEN,,,,,
+23,748683,10.28,6-6,AAH,Mål på straffe,,15,Jack THURIN,,,,16,Sander HEIEREN
+24,748683,11.19,,TTH,Tilkendt straffe,,18,Edwin ASPENBÄCK,Forårs. str.,14,Mads HOXER,,
+25,748683,11.19,,AAH,Udvisning,,14,Mads HOXER,,,,,
+26,748683,11.23,7-6,TTH,Mål på straffe,,6,Frederik BJERRE,,,,12,Fabian NORSTEN
+27,748683,12.08,7-7,AAH,Mål,Gbr,15,Jack THURIN,Assist,7,Thomas ARNOLDSEN,16,Sander HEIEREN
+28,748683,12.43,8-7,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,18,Edwin ASPENBÄCK,12,Fabian NORSTEN
+29,748683,13.06,,AAH,Tilkendt straffe,,9,Miguel MARTINS,Forårs. str.,13,Sven EHRIG,,
+30,748683,13.23,8-8,AAH,Mål på straffe,,15,Jack THURIN,,,,16,Sander HEIEREN
+31,748683,13.56,9-8,TTH,Mål,PL,7,William AAR,,,,12,Fabian NORSTEN
+32,748683,14.23,9-9,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,16,Sander HEIEREN
+33,748683,14.54,,TTH,Skud reddet,Gbr,7,William AAR,,,,12,Fabian NORSTEN
+34,748683,15.31,9-10,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,16,Sander HEIEREN
+35,748683,16.12,,TTH,Tilkendt straffe,,7,William AAR,Forårs. str.,15,Jack THURIN,,
+36,748683,16.35,10-10,TTH,Mål på straffe,,6,Frederik BJERRE,,,,12,Fabian NORSTEN
+37,748683,17.15,,AAH,Tabt bold,,7,Thomas ARNOLDSEN,Bold erobret,18,Edwin ASPENBÄCK,,
+38,748683,17.53,,TTH,Skud på stolpe,VF,10,Magnus BRAMMING,,,,12,Fabian NORSTEN
+39,748683,18.04,,AAH,Skud forbi,2:e,25,Marinus MUNK,,,,16,Sander HEIEREN
+40,748683,18.17,,TTH,Skud forbi,VB,7,William AAR,,,,12,Fabian NORSTEN
+41,748683,19.07,,AAH,Tilkendt straffe,,7,Thomas ARNOLDSEN,Forårs. str.,23,Miha ZVIZEJ,,
+42,748683,19.26,,AAH,Straffekast reddet,,15,Jack THURIN,,,,16,Sander HEIEREN
+43,748683,20.18,11-10,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,18,Edwin ASPENBÄCK,12,Fabian NORSTEN
+44,748683,20.59,,AAH,Time out,,,,,,,,
+45,748683,21.18,,AAH,Tabt bold,,7,Thomas ARNOLDSEN,,,,,
+46,748683,21.26,12-10,TTH,Mål,2:e,11,Thomas DAMGAARD,Assist,25,Jonas PORUP,12,Fabian NORSTEN
+47,748683,21.38,12-11,AAH,Mål,Gbr,25,Marinus MUNK,,,,16,Sander HEIEREN
+48,748683,22.16,13-11,TTH,Mål,PL,11,Thomas DAMGAARD,,,,12,Fabian NORSTEN
+49,748683,22.26,,AAH,Skud forbi,2:e,15,Jack THURIN,,,,16,Sander HEIEREN
+50,748683,22.32,14-11,TTH,Mål,1:e,21,Mathias SMED,Assist,18,Edwin ASPENBÄCK,12,Fabian NORSTEN
+51,748683,23.13,14-12,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,16,Sander HEIEREN
+52,748683,23.24,15-12,TTH,Mål,2:e,18,Edwin ASPENBÄCK,,,,12,Fabian NORSTEN
+53,748683,23.56,,AAH,Skud reddet,Gbr,15,Jack THURIN,,,,16,Sander HEIEREN
+54,748683,24.36,,TTH,Skud på stolpe,PL,11,Thomas DAMGAARD,,,,12,Fabian NORSTEN
+55,748683,25.10,,AAH,Skud reddet,HB,25,Marinus MUNK,,,,16,Sander HEIEREN
+56,748683,26.01,,TTH,Skud blokeret,PL,11,Thomas DAMGAARD,Blokeret af,20,Felix MÖLLER,,
+57,748683,26.43,15-13,AAH,Mål,Gbr,9,Miguel MARTINS,,,,16,Sander HEIEREN
+58,748683,27.21,,TTH,Time out,,,,,,,,
+59,748683,27.47,16-13,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,Assist,11,Thomas DAMGAARD,12,Fabian NORSTEN
+60,748683,28.16,16-14,AAH,Mål,Gbr,9,Miguel MARTINS,,,,16,Sander HEIEREN
+61,748683,28.50,,AAH,Udvisning,,9,Miguel MARTINS,,,,,
+62,748683,29.02,17-14,TTH,Mål,VB,22,Nikolaj MARKUSSEN,,,,12,Fabian NORSTEN
+63,748683,30.00,,AAH,Skud blokeret,HB,7,Thomas ARNOLDSEN,Blokeret af,21,Mathias SMED,,
+64,748683,30.00,17-14,,Halvleg,,,,,,,,
+65,748683,30.00,,,Start 2:e halvleg,,,,,,,,
+66,748683,30.38,,AAH,Skud reddet,ST,11,Simon HALD,,,,16,Sander HEIEREN
+67,748683,30.50,,TTH,Skud reddet,VF,6,Frederik BJERRE,,,,12,Fabian NORSTEN
+68,748683,31.30,,AAH,Skud reddet,PL,25,Marinus MUNK,,,,16,Sander HEIEREN
+69,748683,31.42,18-14,TTH,Mål,Gbr,7,William AAR,Assist,18,Edwin ASPENBÄCK,12,Fabian NORSTEN
+70,748683,31.53,,AAH,Skud reddet,2:e,7,Thomas ARNOLDSEN,,,,16,Sander HEIEREN
+71,748683,31.58,19-14,TTH,Mål,1:e,28,Kevin GULLIKSEN,Assist,18,Edwin ASPENBÄCK,12,Fabian NORSTEN
+72,748683,33.26,,AAH,Skud reddet,PL,7,Thomas ARNOLDSEN,,,,16,Sander HEIEREN
+73,748683,33.35,20-14,TTH,Mål,2:e,18,Edwin ASPENBÄCK,,,,12,Fabian NORSTEN
+74,748683,33.43,,AAH,Time out,,,,,,,,
+75,748683,34.02,,AAH,Skud forbi,PL,9,Miguel MARTINS,,,,16,Sander HEIEREN
+76,748683,34.10,21-14,TTH,Mål,2:e,28,Kevin GULLIKSEN,Assist,18,Edwin ASPENBÄCK,12,Fabian NORSTEN
+77,748683,34.11,,AAH,Udvisning,,11,Simon HALD,,,,,
+78,748683,34.41,21-15,AAH,Mål,HF,19,Kristian BJØRNSEN,,,,16,Sander HEIEREN
+79,748683,35.05,,TTH,Fejlaflevering,,22,Nikolaj MARKUSSEN,,,,,
+80,748683,35.33,21-16,AAH,Mål,Gbr,9,Miguel MARTINS,Assist,25,Marinus MUNK,16,Sander HEIEREN
+81,748683,35.42,,TTH,Tilkendt straffe,,21,Mathias SMED,Forårs. str.,19,Kristian BJØRNSEN,,
+82,748683,35.45,,TTH,Straffekast reddet,,6,Frederik BJERRE,,,,32,Anton HELLBERG
+83,748683,36.16,21-17,AAH,Mål,PL,25,Marinus MUNK,,,,16,Sander HEIEREN
+84,748683,36.22,22-17,TTH,Mål,2:e,18,Edwin ASPENBÄCK,,,,32,Anton HELLBERG
+85,748683,37.08,22-18,AAH,Mål,HB,14,Mads HOXER,,,,16,Sander HEIEREN
+86,748683,38.24,23-18,TTH,Mål,HF,13,Sven EHRIG,Assist,18,Edwin ASPENBÄCK,32,Anton HELLBERG
+87,748683,38.58,,AAH,Skud reddet,PL,9,Miguel MARTINS,,,,16,Sander HEIEREN
+88,748683,39.02,24-18,TTH,Mål,1:e,16,Sander HEIEREN,,,,,
+89,748683,39.42,24-19,AAH,Mål,VF,23,Buster JUUL,Assist,25,Marinus MUNK,16,Sander HEIEREN
+90,748683,39.52,,TTH,Fejlaflevering,,18,Edwin ASPENBÄCK,Bold erobret,23,Buster JUUL,,
+91,748683,39.58,24-20,AAH,Mål,1:e,23,Buster JUUL,,,,16,Sander HEIEREN
+92,748683,40.52,,TTH,Fejlaflevering,,7,William AAR,,,,,
+93,748683,41.04,,AAH,Tilkendt straffe,,11,Simon HALD,Forårs. str.,13,Sven EHRIG,,
+94,748683,41.13,24-21,AAH,Mål på straffe,,23,Buster JUUL,,,,16,Sander HEIEREN
+95,748683,41.45,25-21,TTH,Mål,PL,11,Thomas DAMGAARD,,,,32,Anton HELLBERG
+96,748683,42.13,25-22,AAH,Mål,PL,25,Marinus MUNK,Assist,9,Miguel MARTINS,16,Sander HEIEREN
+97,748683,42.20,26-22,TTH,Mål,2:e,4,Christoffer CICHOSZ,,,,,
+98,748683,42.52,26-23,AAH,Mål,Gbr,25,Marinus MUNK,,,,16,Sander HEIEREN
+99,748683,43.35,,TTH,Skud forbi,VB,22,Nikolaj MARKUSSEN,,,,32,Anton HELLBERG
+100,748683,44.14,26-24,AAH,Mål,Gbr,25,Marinus MUNK,,,,16,Sander HEIEREN
+101,748683,44.20,27-24,TTH,Mål,2:e,23,Miha ZVIZEJ,,,,,
+102,748683,45.10,,AAH,Regelfejl,,17,Martin LARSEN,,,,,
+103,748683,45.17,28-24,TTH,Mål,2:e,25,Jonas PORUP,Assist,18,Edwin ASPENBÄCK,32,Anton HELLBERG
+104,748683,45.45,28-25,AAH,Mål,,,,,,,,
+105,748683,46.29,,TTH,Regelfejl,,11,Thomas DAMGAARD,,,,,
+106,748683,46.55,28-26,AAH,Mål,Gbr,9,Miguel MARTINS,,,,16,Sander HEIEREN
+107,748683,47.11,,TTH,Time out,,,,,,,,
+108,748683,47.23,,TTH,Skud reddet,VB,22,Nikolaj MARKUSSEN,,,,32,Anton HELLBERG
+109,748683,47.29,28-27,AAH,Mål,1:e,20,Felix MÖLLER,,,,16,Sander HEIEREN
+110,748683,47.52,,TTH,Tilkendt straffe,,18,Edwin ASPENBÄCK,Forårs. str.,7,Thomas ARNOLDSEN,,
+111,748683,48.01,29-27,TTH,Mål på straffe,,10,Magnus BRAMMING,,,,32,Anton HELLBERG
+112,748683,48.33,29-28,AAH,Mål,HF,19,Kristian BJØRNSEN,Assist,7,Thomas ARNOLDSEN,16,Sander HEIEREN
+113,748683,49.12,,TTH,Tabt bold,,23,Miha ZVIZEJ,,,,,
+114,748683,49.16,29-29,AAH,Mål,1:e,23,Buster JUUL,Assist,7,Thomas ARNOLDSEN,16,Sander HEIEREN
+115,748683,49.42,,TTH,Fejlaflevering,,7,William AAR,,,,,
+116,748683,49.48,29-30,AAH,Mål,1:e,7,Thomas ARNOLDSEN,,,,16,Sander HEIEREN
+117,748683,50.26,,TTH,Tabt bold,,18,Edwin ASPENBÄCK,Bold erobret,7,Thomas ARNOLDSEN,,
+118,748683,50.31,29-31,AAH,Mål,1:e,17,Martin LARSEN,,,,16,Sander HEIEREN
+119,748683,50.35,,TTH,Time out,,,,,,,,
+120,748683,51.15,,TTH,Skud reddet,VF,6,Frederik BJERRE,,,,32,Anton HELLBERG
+121,748683,51.41,29-32,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,16,Sander HEIEREN
+122,748683,51.48,,TTH,Tabt bold,,18,Edwin ASPENBÄCK,,,,,
+123,748683,52.31,29-33,AAH,Mål,HF,19,Kristian BJØRNSEN,Assist,7,Thomas ARNOLDSEN,16,Sander HEIEREN
+124,748683,53.10,,TTH,Tilkendt straffe,,18,Edwin ASPENBÄCK,Forårs. str.,7,Thomas ARNOLDSEN,,
+125,748683,53.12,,TTH,Straffekast reddet,,10,Magnus BRAMMING,,,,32,Anton HELLBERG
+126,748683,54.20,,AAH,Tilkendt straffe,,7,Thomas ARNOLDSEN,Forårs. str.,18,Edwin ASPENBÄCK,,
+127,748683,54.24,29-34,AAH,Mål på straffe,,23,Buster JUUL,,,,16,Sander HEIEREN
+128,748683,54.55,30-34,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,11,Thomas DAMGAARD,32,Anton HELLBERG
+129,748683,55.25,30-35,AAH,Mål,VF,23,Buster JUUL,Assist,9,Miguel MARTINS,16,Sander HEIEREN
+130,748683,55.50,31-35,TTH,Mål,PL,11,Thomas DAMGAARD,,,,32,Anton HELLBERG
+131,748683,56.20,31-36,AAH,Mål,Gbr,17,Martin LARSEN,Assist,9,Miguel MARTINS,1,Victor HOLST-HANSEN
+132,748683,56.32,,AAH,Udvisning,,11,Simon HALD,,,,,
+133,748683,57.00,,TTH,Tilkendt straffe,,7,William AAR,Forårs. str.,19,Kristian BJØRNSEN,,
+134,748683,57.04,,TTH,Straffekast reddet,,11,Thomas DAMGAARD,,,,32,Anton HELLBERG
+135,748683,57.35,,AAH,Skud reddet,PL,17,Martin LARSEN,,,,1,Victor HOLST-HANSEN
+136,748683,57.44,32-36,TTH,Mål,2:e,18,Edwin ASPENBÄCK,,,,32,Anton HELLBERG
+137,748683,58.29,,AAH,Skud reddet,HF,19,Kristian BJØRNSEN,,,,1,Victor HOLST-HANSEN
+138,748683,59.44,33-36,TTH,Mål,PL,7,William AAR,,,,32,Anton HELLBERG
+139,748683,60.00,33-36,,Fuld tid,,,,,,,,
+140,748683,60.00,,,Kamp slut,,,,,,,,

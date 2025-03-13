@@ -1,0 +1,141 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748659,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748659,0.52,,SAH,Skud reddet,ST,5,Frederik ARNOLDSEN,,,,1,Rasmus HENRIKSEN
+3,748659,1.59,,TTH,Skud forbi,HB,18,Edwin ASPENBÄCK,,,,12,Magnus BRANDBYGE
+4,748659,2.38,,SAH,Skud reddet,PL,20,Morten BALLING,,,,1,Rasmus HENRIKSEN
+5,748659,2.48,1-0,TTH,Mål,2:e,28,Kevin GULLIKSEN,Assist,7,William AAR,12,Magnus BRANDBYGE
+6,748659,3.37,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+7,748659,4.18,,TTH,Tilkendt straffe,,4,Christoffer CICHOSZ,Forårs. str.,20,Morten BALLING,,
+8,748659,4.34,,TTH,Straffekast reddet,,6,Frederik BJERRE,,,,12,Magnus BRANDBYGE
+9,748659,5.11,,SAH,Regelfejl,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+10,748659,5.18,2-0,TTH,Mål,2:e,25,Jonas PORUP,Assist,18,Edwin ASPENBÄCK,12,Magnus BRANDBYGE
+11,748659,5.39,,TTH,Advarsel,,21,Mathias SMED,,,,,
+12,748659,6.29,,SAH,Regelfejl,,5,Frederik ARNOLDSEN,,,,,
+13,748659,7.01,,TTH,Fejlaflevering,,18,Edwin ASPENBÄCK,Bold erobret,25,Jeppe CIESLAK,,
+14,748659,8.00,,SAH,Skud på stolpe,Gbr,20,Morten BALLING,,,,1,Rasmus HENRIKSEN
+15,748659,8.28,,TTH,Skud blokeret,PL,11,Thomas DAMGAARD,Blokeret af,5,Frederik ARNOLDSEN,,
+16,748659,8.35,2-1,SAH,Mål,1:e,11,Mikkel LANG,,,,1,Rasmus HENRIKSEN
+17,748659,8.42,,TTH,Regelfejl,,4,Christoffer CICHOSZ,,,,,
+18,748659,9.22,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+19,748659,9.28,3-1,TTH,Mål,1:e,28,Kevin GULLIKSEN,Assist,,,1,Rasmus HENRIKSEN
+20,748659,9.40,,SAH,Tilkendt straffe,,3,Kristjan ÖRN KRISTJANSSON,Forårs. str.,6,Frederik BJERRE,,
+21,748659,10.09,3-2,SAH,Mål på straffe,,23,Morten Hempel JENSEN,,,,1,Rasmus HENRIKSEN
+22,748659,11.24,,TTH,Skud reddet,PL,11,Thomas DAMGAARD,,,,12,Magnus BRANDBYGE
+23,748659,11.37,3-3,SAH,Mål,1:e,25,Jeppe CIESLAK,Assist,15,Emil LÆRKE,1,Rasmus HENRIKSEN
+24,748659,12.08,,TTH,Tilkendt straffe,,4,Christoffer CICHOSZ,Forårs. str.,11,Mikkel LANG,,
+25,748659,12.14,,SAH,Advarsel,,11,Mikkel LANG,,,,,
+26,748659,12.26,4-3,TTH,Mål på straffe,,6,Frederik BJERRE,,,,12,Magnus BRANDBYGE
+27,748659,12.59,,SAH,Skud reddet,HB,3,Kristjan ÖRN KRISTJANSSON,,,,1,Rasmus HENRIKSEN
+28,748659,13.36,5-3,TTH,Mål,PL,7,William AAR,,,,12,Magnus BRANDBYGE
+29,748659,14.24,,SAH,Skud reddet,PL,32,Fredrik OLSSON,,,,1,Rasmus HENRIKSEN
+30,748659,14.39,6-3,TTH,Mål,Gbr,7,William AAR,Assist,18,Edwin ASPENBÄCK,12,Magnus BRANDBYGE
+31,748659,15.13,6-4,SAH,Mål,VB,15,Emil LÆRKE,,,,1,Rasmus HENRIKSEN
+32,748659,16.05,,TTH,Skud reddet,HF,28,Kevin GULLIKSEN,,,,12,Magnus BRANDBYGE
+33,748659,16.16,6-5,SAH,Mål,2:e,28,Morten KAALUND,Assist,3,Kristjan ÖRN KRISTJANSSON,1,Rasmus HENRIKSEN
+34,748659,16.52,7-5,TTH,Mål,Gbr,11,Thomas DAMGAARD,Assist,18,Edwin ASPENBÄCK,12,Magnus BRANDBYGE
+35,748659,17.30,7-6,SAH,Mål,ST,28,Morten KAALUND,Assist,15,Emil LÆRKE,1,Rasmus HENRIKSEN
+36,748659,18.09,8-6,TTH,Mål,PL,7,William AAR,,,,12,Magnus BRANDBYGE
+37,748659,18.23,8-7,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,15,Emil LÆRKE,1,Rasmus HENRIKSEN
+38,748659,19.08,,TTH,Skud reddet,ST,4,Christoffer CICHOSZ,,,,12,Magnus BRANDBYGE
+39,748659,19.46,8-8,SAH,Mål,ST,23,Morten Hempel JENSEN,Assist,15,Emil LÆRKE,1,Rasmus HENRIKSEN
+40,748659,20.25,,TTH,Skud reddet,Gbr,18,Edwin ASPENBÄCK,,,,12,Magnus BRANDBYGE
+41,748659,20.33,8-9,SAH,Mål,2:e,25,Jeppe CIESLAK,Assist,6,Kristian BONEFELD,1,Rasmus HENRIKSEN
+42,748659,21.01,9-9,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,12,Magnus BRANDBYGE
+43,748659,21.11,,SAH,Skud forbi,2:e,29,Andreas AAGREEN,,,,1,Rasmus HENRIKSEN
+44,748659,21.21,10-9,TTH,Mål,2:e,13,Sven EHRIG,,,,12,Magnus BRANDBYGE
+45,748659,21.52,,SAH,Fejlaflevering,,15,Emil LÆRKE,,,,,
+46,748659,22.00,11-9,TTH,Mål,HF,13,Sven EHRIG,Assist,7,William AAR,12,Magnus BRANDBYGE
+47,748659,22.28,11-10,SAH,Mål,PL,15,Emil LÆRKE,,,,1,Rasmus HENRIKSEN
+48,748659,23.07,12-10,TTH,Mål,HF,13,Sven EHRIG,Assist,18,Edwin ASPENBÄCK,12,Magnus BRANDBYGE
+49,748659,23.43,,SAH,Skud på stolpe,PL,32,Fredrik OLSSON,,,,1,Rasmus HENRIKSEN
+50,748659,23.47,13-10,TTH,Mål,1:e,13,Sven EHRIG,Assist,7,William AAR,12,Magnus BRANDBYGE
+51,748659,23.58,,SAH,Tabt bold,,15,Emil LÆRKE,,,,,
+52,748659,24.03,14-10,TTH,Mål,1:e,7,William AAR,Assist,6,Frederik BJERRE,12,Magnus BRANDBYGE
+53,748659,24.05,,SAH,Udvisning,,11,Mikkel LANG,,,,,
+54,748659,24.05,,SAH,Time out,,,,,,,,
+55,748659,24.59,,SAH,Regelfejl,,28,Morten KAALUND,,,,,
+56,748659,25.19,15-10,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,Assist,22,Nikolaj MARKUSSEN,12,Magnus BRANDBYGE
+57,748659,25.59,,SAH,Fejlaflevering,,15,Emil LÆRKE,Bold erobret,21,Mathias SMED,,
+58,748659,26.41,16-10,TTH,Mål,VF,6,Frederik BJERRE,Assist,22,Nikolaj MARKUSSEN,12,Magnus BRANDBYGE
+59,748659,26.50,,SAH,Time out,,,,,,,,
+60,748659,27.16,,TTH,Advarsel,,23,Miha ZVIZEJ,,,,,
+61,748659,27.51,16-11,SAH,Mål,VB,23,Morten Hempel JENSEN,,,,1,Rasmus HENRIKSEN
+62,748659,28.20,17-11,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,22,Nikolaj MARKUSSEN,12,Magnus BRANDBYGE
+63,748659,28.48,17-12,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,1,Rasmus HENRIKSEN
+64,748659,29.31,,TTH,Time out,,,,,,,,
+65,748659,29.38,18-12,TTH,Mål,HB,22,Nikolaj MARKUSSEN,,,,12,Magnus BRANDBYGE
+66,748659,29.58,,SAH,Tilkendt straffe,,28,Morten KAALUND,Forårs. str.,25,Jonas PORUP,,
+67,748659,30.00,,SAH,Straffekast reddet,,23,Morten Hempel JENSEN,,,,16,Sander HEIEREN
+68,748659,30.00,18-12,,Halvleg,,,,,,,,
+69,748659,30.00,,,Start 2:e halvleg,,,,,,,,
+70,748659,30.39,,TTH,Skud reddet,PL,7,William AAR,,,,1,Kristoffer LAURSEN
+71,748659,30.51,18-13,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,1,Rasmus HENRIKSEN
+72,748659,31.23,,TTH,Regelfejl,,23,Miha ZVIZEJ,,,,,
+73,748659,31.34,,SAH,Tilkendt straffe,,32,Fredrik OLSSON,Forårs. str.,18,Edwin ASPENBÄCK,,
+74,748659,31.43,18-14,SAH,Mål på straffe,,25,Jeppe CIESLAK,,,,16,Sander HEIEREN
+75,748659,32.07,19-14,TTH,Mål,Gbr,7,William AAR,,,,1,Kristoffer LAURSEN
+76,748659,32.44,19-15,SAH,Mål,ST,28,Morten KAALUND,Assist,23,Morten Hempel JENSEN,1,Rasmus HENRIKSEN
+77,748659,34.06,,TTH,Skud reddet,PL,11,Thomas DAMGAARD,,,,1,Kristoffer LAURSEN
+78,748659,34.14,19-16,SAH,Mål,2:e,32,Fredrik OLSSON,,,,1,Rasmus HENRIKSEN
+79,748659,35.02,,SAH,Udvisning,,6,Kristian BONEFELD,,,,,
+80,748659,35.14,20-16,TTH,Mål,ST,3,Sebastian ØRUM,Assist,22,Nikolaj MARKUSSEN,1,Kristoffer LAURSEN
+81,748659,35.45,,SAH,Tilkendt straffe,,32,Fredrik OLSSON,Forårs. str.,21,Mathias SMED,,
+82,748659,35.53,20-17,SAH,Mål på straffe,,25,Jeppe CIESLAK,,,,16,Sander HEIEREN
+83,748659,36.17,21-17,TTH,Mål,ST,3,Sebastian ØRUM,Assist,22,Nikolaj MARKUSSEN,1,Kristoffer LAURSEN
+84,748659,37.18,21-18,SAH,Mål,ST,28,Morten KAALUND,Assist,23,Morten Hempel JENSEN,1,Rasmus HENRIKSEN
+85,748659,38.06,22-18,TTH,Mål,VF,6,Frederik BJERRE,Assist,7,William AAR,1,Kristoffer LAURSEN
+86,748659,38.35,22-19,SAH,Mål,Gbr,23,Morten Hempel JENSEN,,,,1,Rasmus HENRIKSEN
+87,748659,39.07,,TTH,Tilkendt straffe,,11,Thomas DAMGAARD,Forårs. str.,23,Morten Hempel JENSEN,,
+88,748659,39.27,23-19,TTH,Mål på straffe,,6,Frederik BJERRE,,,,1,Kristoffer LAURSEN
+89,748659,39.58,,SAH,Skud blokeret,PL,23,Morten Hempel JENSEN,Blok af (ret),21,Mathias SMED,,
+90,748659,40.17,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+91,748659,40.23,,TTH,Skud reddet,1:e,13,Sven EHRIG,,,,1,Kristoffer LAURSEN
+92,748659,40.41,,SAH,Regelfejl,,23,Morten Hempel JENSEN,,,,,
+93,748659,41.03,24-19,TTH,Mål,PL,11,Thomas DAMGAARD,,,,1,Kristoffer LAURSEN
+94,748659,41.43,24-20,SAH,Mål,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,1,Rasmus HENRIKSEN
+95,748659,41.51,,TTH,Tilkendt straffe,,18,Edwin ASPENBÄCK,Forårs. str.,23,Morten Hempel JENSEN,,
+96,748659,41.56,25-20,TTH,Mål på straffe,,6,Frederik BJERRE,,,,1,Kristoffer LAURSEN
+97,748659,42.30,25-21,SAH,Mål,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,1,Rasmus HENRIKSEN
+98,748659,42.39,,TTH,Skud reddet,2:e,21,Mathias SMED,,,,1,Kristoffer LAURSEN
+99,748659,42.46,25-22,SAH,Mål,1:e,29,Andreas AAGREEN,Assist,23,Morten Hempel JENSEN,1,Rasmus HENRIKSEN
+100,748659,43.33,,SAH,Udvisning,,28,Morten KAALUND,,,,,
+101,748659,43.52,,TTH,Skud reddet,HF,13,Sven EHRIG,,,,1,Kristoffer LAURSEN
+102,748659,44.22,25-23,SAH,Mål,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,16,Sander HEIEREN
+103,748659,44.48,,TTH,Tilkendt straffe,,23,Miha ZVIZEJ,Forårs. str.,5,Frederik ARNOLDSEN,,
+104,748659,45.44,,SAH,Regelfejl,,23,Morten Hempel JENSEN,,,,,
+105,748659,46.17,,TTH,Skud reddet,ST,23,Miha ZVIZEJ,,,,1,Kristoffer LAURSEN
+106,748659,46.46,25-24,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,16,Sander HEIEREN
+107,748659,46.58,26-24,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,Assist,7,William AAR,1,Kristoffer LAURSEN
+108,748659,47.11,26-25,SAH,Mål,2:e,28,Morten KAALUND,Assist,3,Kristjan ÖRN KRISTJANSSON,16,Sander HEIEREN
+109,748659,47.17,,TTH,Time out,,,,,,,,
+110,748659,47.35,27-25,TTH,Mål,PL,18,Edwin ASPENBÄCK,,,,1,Kristoffer LAURSEN
+111,748659,47.50,,TTH,Udvisning,,4,Christoffer CICHOSZ,,,,,
+112,748659,48.07,,SAH,Tilkendt straffe,,32,Fredrik OLSSON,Forårs. str.,25,Jonas PORUP,,
+113,748659,48.16,27-26,SAH,Mål på straffe,,25,Jeppe CIESLAK,,,,1,Rasmus HENRIKSEN
+114,748659,49.00,28-26,TTH,Mål,HB,18,Edwin ASPENBÄCK,Assist,11,Thomas DAMGAARD,1,Kristoffer LAURSEN
+115,748659,49.23,,SAH,Skud reddet,ST,5,Frederik ARNOLDSEN,,,,16,Sander HEIEREN
+116,748659,49.58,,TTH,Regelfejl,,18,Edwin ASPENBÄCK,,,,,
+117,748659,50.53,28-27,SAH,Mål,HF,11,Mikkel LANG,Assist,3,Kristjan ÖRN KRISTJANSSON,16,Sander HEIEREN
+118,748659,51.22,,TTH,Tilkendt straffe,,4,Christoffer CICHOSZ,Forårs. str.,5,Frederik ARNOLDSEN,,
+119,748659,51.26,29-27,TTH,Mål på straffe,,11,Thomas DAMGAARD,,,,12,Magnus BRANDBYGE
+120,748659,52.04,,SAH,Tilkendt straffe,,3,Kristjan ÖRN KRISTJANSSON,Forårs. str.,6,Frederik BJERRE,,
+121,748659,52.21,29-28,SAH,Mål på straffe,,25,Jeppe CIESLAK,,,,16,Sander HEIEREN
+122,748659,52.47,30-28,TTH,Mål,Gbr,7,William AAR,Assist,4,Christoffer CICHOSZ,1,Kristoffer LAURSEN
+123,748659,52.57,,SAH,Skud reddet,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,16,Sander HEIEREN
+124,748659,53.45,31-28,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,,,,1,Kristoffer LAURSEN
+125,748659,54.38,31-29,SAH,Mål,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,16,Sander HEIEREN
+126,748659,55.17,32-29,TTH,Mål,Gbr,7,William AAR,,,,12,Magnus BRANDBYGE
+127,748659,55.48,,SAH,Skud reddet,PL,32,Fredrik OLSSON,,,,16,Sander HEIEREN
+128,748659,56.07,,SAH,Advarsel,A,,Nick RASMUSSEN,,,,,
+129,748659,56.07,,SAH,Udvisning,,25,Jeppe CIESLAK,,,,,
+130,748659,56.20,,TTH,Skud forbi,PL,22,Nikolaj MARKUSSEN,,,,12,Magnus BRANDBYGE
+131,748659,56.43,32-30,SAH,Mål,ST,28,Morten KAALUND,Assist,32,Fredrik OLSSON,16,Sander HEIEREN
+132,748659,57.15,,TTH,Skud reddet,ST,4,Christoffer CICHOSZ,,,,12,Magnus BRANDBYGE
+133,748659,57.21,,SAH,Skud reddet,1:e,11,Mikkel LANG,,,,16,Sander HEIEREN
+134,748659,57.52,33-30,TTH,Mål,VF,6,Frederik BJERRE,Assist,11,Thomas DAMGAARD,12,Magnus BRANDBYGE
+135,748659,58.02,33-31,SAH,Mål,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,16,Sander HEIEREN
+136,748659,58.32,34-31,TTH,Mål,Gbr,7,William AAR,,,,12,Magnus BRANDBYGE
+137,748659,58.47,,SAH,Time out,,,,,,,,
+138,748659,58.58,,SAH,Skud reddet,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,16,Sander HEIEREN
+139,748659,59.32,35-31,TTH,Mål,Gbr,11,Thomas DAMGAARD,Assist,18,Edwin ASPENBÄCK,12,Magnus BRANDBYGE
+140,748659,59.57,,SAH,Skud reddet,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,16,Sander HEIEREN

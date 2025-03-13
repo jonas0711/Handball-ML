@@ -1,0 +1,148 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748253,0.00,,,Video Proof,,,,,,,,
+2,748253,0.00,,,Start 1:e halvleg,,,,,,,,
+3,748253,0.00,,,Video Proof slut,,,,,,,,
+4,748253,0.36,,SJE,Skud forbi,HB,10,Nicoline OLSEN,,,,16,Johanne GRAUGAARD
+5,748253,0.46,,EHA,Skud reddet,2:e,30,Clara LERBY,,,,12,Stine BROLØS
+6,748253,1.23,,SJE,Skud blokeret,VB,14,Louise ELLEBÆK,Blok af (ret),10,Sofie LASSEN,,
+7,748253,1.41,1-0,SJE,Mål,VF,17,June BØTTGER,Assist,14,Louise ELLEBÆK,16,Johanne GRAUGAARD
+8,748253,2.23,1-1,EHA,Mål,Gbr,23,Silje BRØNS,Assist,5,Anna Hviid BANG,12,Stine BROLØS
+9,748253,2.55,,SJE,Skud blokeret,PL,14,Louise ELLEBÆK,Blok af (ret),10,Sofie LASSEN,,
+10,748253,3.32,,EHA,Advarsel,,10,Sofie LASSEN,,,,,
+11,748253,3.53,,SJE,Skud blokeret,PL,6,Lea HANSEN,Blokeret af,4,Cecilie TERMANSEN,,
+12,748253,4.08,,EHA,Skud reddet,2:e,28,Maiken SKOV,,,,12,Stine BROLØS
+13,748253,4.17,2-1,SJE,Mål,2:e,14,Louise ELLEBÆK,Assist,10,Nicoline OLSEN,16,Johanne GRAUGAARD
+14,748253,4.33,,EHA,Skud på stolpe,2:e,5,Anna Hviid BANG,,,,12,Stine BROLØS
+15,748253,4.55,3-1,SJE,Mål,HF,6,Lea HANSEN,Assist,10,Nicoline OLSEN,16,Johanne GRAUGAARD
+16,748253,5.07,3-2,EHA,Mål,Gbr,10,Sofie LASSEN,,,,12,Stine BROLØS
+17,748253,5.18,4-2,SJE,Mål,2:e,6,Lea HANSEN,Assist,10,Nicoline OLSEN,16,Johanne GRAUGAARD
+18,748253,5.46,,EHA,Skud forbi,PL,21,Frederikke GULMARK,,,,12,Stine BROLØS
+19,748253,5.52,5-2,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,10,Nicoline OLSEN,16,Johanne GRAUGAARD
+20,748253,6.06,,EHA,Skud på stolpe,2:e,30,Clara LERBY,,,,12,Stine BROLØS
+21,748253,6.44,,SJE,Skud forbi,Gbr,14,Louise ELLEBÆK,,,,16,Johanne GRAUGAARD
+22,748253,7.18,,EHA,Skud reddet,Gbr,21,Frederikke GULMARK,,,,12,Stine BROLØS
+23,748253,7.30,6-2,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,10,Nicoline OLSEN,16,Johanne GRAUGAARD
+24,748253,8.12,6-3,EHA,Mål,PL,23,Silje BRØNS,,,,12,Stine BROLØS
+25,748253,8.19,7-3,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,10,Nicoline OLSEN,16,Johanne GRAUGAARD
+26,748253,8.44,,SJE,Udvisning,,31,Ida-Marie DAHL,,,,,
+27,748253,9.02,,EHA,Tilkendt straffe,,28,Maiken SKOV,Forårs. str.,17,June BØTTGER,,
+28,748253,9.02,,SJE,Udvisning,,17,June BØTTGER,,,,,
+29,748253,9.06,7-4,EHA,Mål på straffe,,30,Clara LERBY,,,,12,Stine BROLØS
+30,748253,9.36,8-4,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,10,Nicoline OLSEN,16,Johanne GRAUGAARD
+31,748253,10.14,,EHA,Fejlaflevering,,4,Cecilie TERMANSEN,,,,,
+32,748253,10.51,,SJE,Skud blokeret,PL,14,Louise ELLEBÆK,Blok af (ret),10,Sofie LASSEN,,
+33,748253,11.01,,SJE,Fejlaflevering,,10,Nicoline OLSEN,Bold erobret,28,Maiken SKOV,,
+34,748253,11.08,,EHA,Skud på stolpe,1:e,30,Clara LERBY,,,,12,Stine BROLØS
+35,748253,11.46,9-4,SJE,Mål,Gbr,14,Louise ELLEBÆK,,,,1,Annika FRIDHEIM
+36,748253,11.56,,EHA,Time out,,,,,,,,
+37,748253,12.20,,EHA,Skud forbi,Gbr,8,Tine GEERTSEN,,,,12,Stine BROLØS
+38,748253,12.51,,SJE,Skud reddet,ST,31,Ida-Marie DAHL,,,,1,Annika FRIDHEIM
+39,748253,13.03,,EHA,Regelfejl,,8,Tine GEERTSEN,,,,,
+40,748253,13.32,10-4,SJE,Mål,HF,6,Lea HANSEN,Assist,10,Nicoline OLSEN,1,Annika FRIDHEIM
+41,748253,13.44,10-5,EHA,Mål,VF,17,Lin JOHANNSEN,Assist,10,Sofie LASSEN,12,Stine BROLØS
+42,748253,14.15,,SJE,Skud på stolpe,PL,7,Melissa PETRÉN,,,,1,Annika FRIDHEIM
+43,748253,14.25,10-6,EHA,Mål,2:e,28,Maiken SKOV,Assist,5,Anna Hviid BANG,12,Stine BROLØS
+44,748253,14.57,,SJE,Tilkendt straffe,,31,Ida-Marie DAHL,Forårs. str.,22,Mirja LYNGSØ,,
+45,748253,15.15,11-6,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,1,Annika FRIDHEIM
+46,748253,15.45,,EHA,Skud reddet,PL,23,Silje BRØNS,,,,12,Stine BROLØS
+47,748253,15.58,,SJE,Skud på stolpe,2:e,17,June BØTTGER,,,,1,Annika FRIDHEIM
+48,748253,16.37,,SJE,Udvisning,,14,Louise ELLEBÆK,,,,,
+49,748253,17.04,,EHA,Skud reddet,ST,4,Cecilie TERMANSEN,Retur,0,,12,Stine BROLØS
+50,748253,17.25,,EHA,Skud reddet,Gbr,23,Silje BRØNS,,,,12,Stine BROLØS
+51,748253,18.11,,SJE,Regelfejl,,28,Sarah PAULSEN,,,,,
+52,748253,18.32,,EHA,Skud reddet,Gbr,23,Silje BRØNS,,,,12,Stine BROLØS
+53,748253,19.05,12-6,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,1,Annika FRIDHEIM
+54,748253,19.13,,EHA,Time out,,,,,,,,
+55,748253,19.40,,EHA,Tilkendt straffe,,5,Anna Hviid BANG,Forårs. str.,31,Ida-Marie DAHL,,
+56,748253,19.44,12-7,EHA,Mål på straffe,,30,Clara LERBY,,,,26,Nora PERSSON
+57,748253,20.18,,SJE,Fejlaflevering,,28,Sarah PAULSEN,,,,,
+58,748253,20.54,12-8,EHA,Mål,VF,28,Maiken SKOV,Assist,19,Mette BRANDT,12,Stine BROLØS
+59,748253,21.51,,SJE,Skud reddet,HB,8,Karine DAHLUM,,,,1,Annika FRIDHEIM
+60,748253,22.11,,EHA,Regelfejl,,3,Liv SVEINBJØRNSDÓTTIR,,,,,
+61,748253,22.13,13-8,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,17,June BØTTGER,1,Annika FRIDHEIM
+62,748253,22.41,,EHA,Fejlaflevering,,9,Camilla THORHAUGE,Bold erobret,22,Olivia SIMONSEN,,
+63,748253,22.44,14-8,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,22,Olivia SIMONSEN,0,
+64,748253,23.15,,EHA,Skud reddet,Gbr,5,Anna Hviid BANG,,,,12,Stine BROLØS
+65,748253,23.47,,SJE,Skud reddet,Gbr,28,Sarah PAULSEN,,,,1,Annika FRIDHEIM
+66,748253,23.59,,EHA,Skud på stolpe,2:e,21,Frederikke GULMARK,,,,12,Stine BROLØS
+67,748253,24.46,,SJE,Skud forbi,Gbr,8,Karine DAHLUM,,,,1,Annika FRIDHEIM
+68,748253,24.58,,EHA,Skud reddet,2:e,10,Sofie LASSEN,,,,12,Stine BROLØS
+69,748253,25.19,,SJE,Time out,,,,,,,,
+70,748253,25.38,15-8,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,1,Annika FRIDHEIM
+71,748253,25.51,,EHA,Regelfejl,,22,Mirja LYNGSØ,,,,,
+72,748253,26.13,16-8,SJE,Mål,HB,8,Karine DAHLUM,,,,1,Annika FRIDHEIM
+73,748253,27.07,,EHA,Regelfejl,,19,Mette BRANDT,,,,,
+74,748253,27.35,17-8,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,1,Annika FRIDHEIM
+75,748253,27.45,,SJE,Udvisning,,22,Olivia SIMONSEN,,,,,
+76,748253,27.56,17-9,EHA,Mål,Gbr,3,Liv SVEINBJØRNSDÓTTIR,,,,12,Stine BROLØS
+77,748253,28.28,18-9,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,8,Karine DAHLUM,1,Annika FRIDHEIM
+78,748253,29.05,18-10,EHA,Mål,HF,28,Maiken SKOV,Assist,3,Liv SVEINBJØRNSDÓTTIR,12,Stine BROLØS
+79,748253,29.39,19-10,SJE,Mål,Gbr,17,June BØTTGER,Assist,7,Melissa PETRÉN,1,Annika FRIDHEIM
+80,748253,30.00,,EHA,Fejlaflevering,,3,Liv SVEINBJØRNSDÓTTIR,,,,,
+81,748253,30.00,19-10,,Halvleg,,,,,,,,
+82,748253,30.00,,,Start 2:e halvleg,,,,,,,,
+83,748253,30.32,,EHA,Tilkendt straffe,,5,Anna Hviid BANG,Forårs. str.,31,Ida-Marie DAHL,,
+84,748253,30.55,,EHA,Straffekast på stolpe,,30,Clara LERBY,,,,12,Stine BROLØS
+85,748253,32.00,,SJE,Passivt spil,,0,,,,,,
+86,748253,32.34,19-11,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,23,Silje BRØNS,12,Stine BROLØS
+87,748253,32.46,20-11,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,16,Johanne GRAUGAARD
+88,748253,33.04,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+89,748253,33.15,,SJE,Fejlaflevering,,8,Karine DAHLUM,Bold erobret,5,Anna Hviid BANG,,
+90,748253,34.10,,EHA,Skud reddet,ST,4,Cecilie TERMANSEN,,,,12,Stine BROLØS
+91,748253,34.19,,SJE,Fejlaflevering,,22,Olivia SIMONSEN,Bold erobret,10,Sofie LASSEN,,
+92,748253,34.25,,EHA,Tabt bold,,17,Lin JOHANNSEN,Bold erobret,6,Lea HANSEN,,
+93,748253,35.08,,SJE,Skud reddet,HB,8,Karine DAHLUM,,,,16,Johanne GRAUGAARD
+94,748253,35.23,,EHA,Skud reddet,Gbr,8,Tine GEERTSEN,,,,12,Stine BROLØS
+95,748253,36.15,21-11,SJE,Mål,VF,15,Sara IBRANOVIC,Assist,7,Melissa PETRÉN,16,Johanne GRAUGAARD
+96,748253,36.50,,EHA,Skud reddet,PL,10,Sofie LASSEN,,,,12,Stine BROLØS
+97,748253,37.15,22-11,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,7,Melissa PETRÉN,16,Johanne GRAUGAARD
+98,748253,37.52,,EHA,Fejlaflevering,,5,Anna Hviid BANG,Bold erobret,6,Lea HANSEN,,
+99,748253,37.58,23-11,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,6,Lea HANSEN,16,Johanne GRAUGAARD
+100,748253,39.03,,EHA,Skud reddet,ST,4,Cecilie TERMANSEN,,,,12,Stine BROLØS
+101,748253,39.12,,SJE,Skud reddet,1:e,15,Sara IBRANOVIC,,,,16,Johanne GRAUGAARD
+102,748253,39.16,,EHA,Time out,,,,,,,,
+103,748253,39.34,23-12,EHA,Mål,Gbr,3,Liv SVEINBJØRNSDÓTTIR,,,,12,Stine BROLØS
+104,748253,40.26,24-12,SJE,Mål,,,,,,,,
+105,748253,40.41,,EHA,Skud reddet,1:e,22,Mirja LYNGSØ,Retur,0,,12,Stine BROLØS
+106,748253,41.20,,EHA,Skud forbi,HB,3,Liv SVEINBJØRNSDÓTTIR,,,,12,Stine BROLØS
+107,748253,42.26,25-12,SJE,Mål,Gbr,28,Sarah PAULSEN,Assist,7,Melissa PETRÉN,16,Johanne GRAUGAARD
+108,748253,43.46,25-13,EHA,Mål,HF,7,Marlene DAHLMANN,,,,12,Stine BROLØS
+109,748253,44.19,26-13,SJE,Mål,HF,17,June BØTTGER,Assist,7,Melissa PETRÉN,16,Johanne GRAUGAARD
+110,748253,44.49,,EHA,Skud reddet,Gbr,3,Liv SVEINBJØRNSDÓTTIR,,,,12,Stine BROLØS
+111,748253,45.14,,SJE,Skud reddet,Gbr,7,Melissa PETRÉN,,,,16,Johanne GRAUGAARD
+112,748253,45.24,26-14,EHA,Mål,2:e,21,Frederikke GULMARK,,,,12,Stine BROLØS
+113,748253,45.54,27-14,SJE,Mål,PL,28,Sarah PAULSEN,,,,16,Johanne GRAUGAARD
+114,748253,46.03,27-15,EHA,Mål,1:e,19,Mette BRANDT,,,,12,Stine BROLØS
+115,748253,46.17,,SJE,Time out,,,,,,,,
+116,748253,46.51,,SJE,Skud forbi,ST,22,Olivia SIMONSEN,,,,16,Johanne GRAUGAARD
+117,748253,47.08,,EHA,Tilkendt straffe,,19,Mette BRANDT,Forårs. str.,10,Nicoline OLSEN,,
+118,748253,47.29,27-16,EHA,Mål på straffe,,30,Clara LERBY,,,,12,Stine BROLØS
+119,748253,48.07,,SJE,Skud reddet,Gbr,10,Nicoline OLSEN,,,,16,Johanne GRAUGAARD
+120,748253,48.15,27-17,EHA,Mål,1:e,17,Lin JOHANNSEN,Assist,16,Johanne GRAUGAARD,12,Stine BROLØS
+121,748253,48.56,28-17,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,7,Melissa PETRÉN,16,Johanne GRAUGAARD
+122,748253,49.10,,EHA,Skud reddet,ST,22,Mirja LYNGSØ,,,,12,Stine BROLØS
+123,748253,49.16,29-17,SJE,Mål,1:e,15,Sara IBRANOVIC,Assist,28,Sarah PAULSEN,16,Johanne GRAUGAARD
+124,748253,49.29,,EHA,Skud reddet,Gbr,3,Liv SVEINBJØRNSDÓTTIR,,,,12,Stine BROLØS
+125,748253,50.11,30-17,SJE,Mål,VB,10,Nicoline OLSEN,,,,16,Johanne GRAUGAARD
+126,748253,50.43,,EHA,Regelfejl,,22,Mirja LYNGSØ,,,,,
+127,748253,50.49,31-17,SJE,Mål,2:e,24,Josefine DRAGENBERG,Assist,10,Nicoline OLSEN,1,Annika FRIDHEIM
+128,748253,51.42,,EHA,Fejlaflevering,,3,Liv SVEINBJØRNSDÓTTIR,Bold erobret,28,Sarah PAULSEN,,
+129,748253,51.50,32-17,SJE,Mål,1:e,28,Sarah PAULSEN,Assist,10,Nicoline OLSEN,1,Annika FRIDHEIM
+130,748253,52.48,,EHA,Tabt bold,,21,Frederikke GULMARK,Bold erobret,10,Nicoline OLSEN,,
+131,748253,53.47,,SJE,Skud reddet,PL,28,Sarah PAULSEN,,,,1,Annika FRIDHEIM
+132,748253,53.53,32-18,EHA,Mål,1:e,7,Marlene DAHLMANN,Assist,1,Annika FRIDHEIM,12,Stine BROLØS
+133,748253,54.26,33-18,SJE,Mål,VB,7,Melissa PETRÉN,,,,1,Annika FRIDHEIM
+134,748253,54.58,,EHA,Skud reddet,Gbr,5,Anna Hviid BANG,,,,12,Stine BROLØS
+135,748253,55.28,34-18,SJE,Mål,PL,7,Melissa PETRÉN,Assist,28,Sarah PAULSEN,1,Annika FRIDHEIM
+136,748253,56.00,,EHA,Fejlaflevering,,5,Anna Hviid BANG,Bold erobret,17,June BØTTGER,,
+137,748253,56.03,35-18,SJE,Mål,1:e,28,Sarah PAULSEN,Assist,17,June BØTTGER,1,Annika FRIDHEIM
+138,748253,56.25,,EHA,Skud reddet,2:e,4,Cecilie TERMANSEN,,,,12,Stine BROLØS
+139,748253,56.43,,SJE,Tabt bold,,10,Nicoline OLSEN,Bold erobret,4,Cecilie TERMANSEN,,
+140,748253,57.52,35-19,EHA,Mål,HB,5,Anna Hviid BANG,,,,12,Stine BROLØS
+141,748253,58.00,36-19,SJE,Mål,1:e,28,Sarah PAULSEN,,,,1,Annika FRIDHEIM
+142,748253,58.24,,EHA,Tilkendt straffe,,4,Cecilie TERMANSEN,Forårs. str.,22,Olivia SIMONSEN,,
+143,748253,58.37,36-20,EHA,Mål på straffe,,19,Mette BRANDT,,,,12,Stine BROLØS
+144,748253,59.12,37-20,SJE,Mål,ST,24,Josefine DRAGENBERG,Assist,10,Nicoline OLSEN,1,Annika FRIDHEIM
+145,748253,59.22,37-21,EHA,Mål,2:e,23,Silje BRØNS,,,,12,Stine BROLØS
+146,748253,59.56,,SJE,Regelfejl,,24,Josefine DRAGENBERG,,,,,
+147,748253,59.59,37-22,EHA,Mål,1:e,8,Tine GEERTSEN,Assist,10,Sofie LASSEN,12,Stine BROLØS

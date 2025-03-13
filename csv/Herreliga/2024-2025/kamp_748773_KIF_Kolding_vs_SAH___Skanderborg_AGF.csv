@@ -1,0 +1,121 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748773,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748773,0.44,,SAH,Skud blokeret,PL,3,Kristjan ÖRN KRISTJANSSON,Blok af (ret),18,Benjamin PEDERSEN,,
+3,748773,1.15,,KIF,Advarsel,,6,Jonas TIDEMAND,,,,,
+4,748773,1.35,0-1,SAH,Mål,HB,3,Kristjan ÖRN KRISTJANSSON,,,,1,Emil TELLERUP
+5,748773,2.20,1-1,KIF,Mål,ST,18,Benjamin PEDERSEN,Assist,15,Jens SVANE,1,Kristoffer LAURSEN
+6,748773,3.01,1-2,SAH,Mål,PL,32,Fredrik OLSSON,,,,1,Emil TELLERUP
+7,748773,3.31,2-2,KIF,Mål,HB,5,Oliver NORLYK,,,,1,Kristoffer LAURSEN
+8,748773,4.11,2-3,SAH,Mål,HF,11,Mikkel LANG,Assist,3,Kristjan ÖRN KRISTJANSSON,1,Emil TELLERUP
+9,748773,5.18,,SAH,Advarsel,,11,Mikkel LANG,,,,,
+10,748773,6.07,,KIF,Fejlaflevering,,15,Jens SVANE,Bold erobret,19,Thor CHRISTENSEN,,
+11,748773,6.13,2-4,SAH,Mål,1:e,25,Jeppe CIESLAK,Assist,23,Morten Hempel JENSEN,1,Emil TELLERUP
+12,748773,7.41,3-4,KIF,Mål,HB,5,Oliver NORLYK,,,,1,Kristoffer LAURSEN
+13,748773,7.59,3-5,SAH,Mål,HF,11,Mikkel LANG,Assist,6,Kristian BONEFELD,1,Emil TELLERUP
+14,748773,9.10,,KIF,Skud forbi,PL,15,Jens SVANE,,,,1,Kristoffer LAURSEN
+15,748773,9.39,3-6,SAH,Mål,Gbr,3,Kristjan ÖRN KRISTJANSSON,Assist,32,Fredrik OLSSON,12,Josip CAVAR
+16,748773,10.31,,KIF,Skud forbi,PL,28,Lauritz LEGÉR,,,,1,Kristoffer LAURSEN
+17,748773,10.55,3-7,SAH,Mål,PL,23,Morten Hempel JENSEN,,,,12,Josip CAVAR
+18,748773,11.00,,KIF,Time out,,,,,,,,
+19,748773,11.31,,KIF,Skud reddet,PL,21,Kristian STOKLUND,,,,1,Kristoffer LAURSEN
+20,748773,11.35,3-8,SAH,Mål,PL,25,Jeppe CIESLAK,,,,0,
+21,748773,11.59,4-8,KIF,Mål,PL,21,Kristian STOKLUND,,,,1,Kristoffer LAURSEN
+22,748773,12.35,4-9,SAH,Mål,PL,3,Kristjan ÖRN KRISTJANSSON,,,,12,Josip CAVAR
+23,748773,13.35,5-9,KIF,Mål,Gbr,5,Oliver NORLYK,Assist,28,Lauritz LEGÉR,1,Kristoffer LAURSEN
+24,748773,14.33,,SAH,Skud reddet,PL,32,Fredrik OLSSON,Retur,0,,12,Josip CAVAR
+25,748773,14.48,5-10,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,32,Fredrik OLSSON,12,Josip CAVAR
+26,748773,15.29,,KIF,Skud på stolpe,Gbr,28,Lauritz LEGÉR,,,,1,Kristoffer LAURSEN
+27,748773,16.08,,SAH,Skud reddet,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,12,Josip CAVAR
+28,748773,17.05,,KIF,Skud reddet,VF,4,Lars SKAARUP,,,,1,Kristoffer LAURSEN
+29,748773,17.51,,SAH,Skud reddet,ST,28,Morten KAALUND,,,,12,Josip CAVAR
+30,748773,17.56,,KIF,Skud reddet,1:e,18,Benjamin PEDERSEN,,,,1,Kristoffer LAURSEN
+31,748773,18.24,5-11,SAH,Mål,PL,32,Fredrik OLSSON,,,,12,Josip CAVAR
+32,748773,19.01,6-11,KIF,Mål,ST,18,Benjamin PEDERSEN,Assist,21,Kristian STOKLUND,1,Kristoffer LAURSEN
+33,748773,19.13,6-12,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,12,Josip CAVAR
+34,748773,19.50,,SAH,Udvisning,,15,Emil LÆRKE,,,,,
+35,748773,20.03,7-12,KIF,Mål,HF,29,Viktor NEVERS,Assist,5,Oliver NORLYK,1,Kristoffer LAURSEN
+36,748773,20.55,7-13,SAH,Mål,HB,3,Kristjan ÖRN KRISTJANSSON,,,,12,Josip CAVAR
+37,748773,21.21,,KIF,Tabt bold,,15,Jens SVANE,,,,,
+38,748773,21.28,7-14,SAH,Mål,PL,28,Morten KAALUND,,,,0,
+39,748773,21.49,,KIF,Regelfejl,,29,Viktor NEVERS,,,,,
+40,748773,22.20,7-15,SAH,Mål,ST,28,Morten KAALUND,Assist,3,Kristjan ÖRN KRISTJANSSON,12,Josip CAVAR
+41,748773,23.09,8-15,KIF,Mål,VF,4,Lars SKAARUP,Assist,15,Jens SVANE,1,Kristoffer LAURSEN
+42,748773,23.47,8-16,SAH,Mål,HB,3,Kristjan ÖRN KRISTJANSSON,,,,12,Josip CAVAR
+43,748773,24.21,9-16,KIF,Mål,Gbr,15,Jens SVANE,,,,1,Kristoffer LAURSEN
+44,748773,25.06,,SAH,Fejlaflevering,,15,Emil LÆRKE,,,,,
+45,748773,25.49,,KIF,Tilkendt straffe,,15,Jens SVANE,Forårs. str.,7,Jonatan MOLLERUP,,
+46,748773,26.08,10-16,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,1,Kristoffer LAURSEN
+47,748773,26.44,10-17,SAH,Mål,ST,28,Morten KAALUND,Assist,15,Emil LÆRKE,20,Anton HELLBERG
+48,748773,26.57,11-17,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,5,Oliver NORLYK,1,Kristoffer LAURSEN
+49,748773,27.33,11-18,SAH,Mål,PL,3,Kristjan ÖRN KRISTJANSSON,,,,20,Anton HELLBERG
+50,748773,28.30,12-18,KIF,Mål,Gbr,5,Oliver NORLYK,,,,1,Kristoffer LAURSEN
+51,748773,28.40,,SAH,Skud forbi,2:e,15,Emil LÆRKE,,,,20,Anton HELLBERG
+52,748773,29.28,13-18,KIF,Mål,ST,6,Jonas TIDEMAND,Assist,21,Kristian STOKLUND,1,Kristoffer LAURSEN
+53,748773,29.31,,SAH,Udvisning,,15,Emil LÆRKE,,,,,
+54,748773,29.43,,SAH,Time out,,,,,,,,
+55,748773,30.00,,SAH,Skud blokeret,VB,23,Morten Hempel JENSEN,Blokeret af,13,Mathias HEDEGAARD,,
+56,748773,30.00,,,Halvleg,,,,,,,,
+57,748773,30.00,,,Start 2:e halvleg,,,,,,,,
+58,748773,30.19,14-18,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,5,Oliver NORLYK,12,Magnus BRANDBYGE
+59,748773,30.51,14-19,SAH,Mål,PL,32,Fredrik OLSSON,,,,20,Anton HELLBERG
+60,748773,31.19,15-19,KIF,Mål,Gbr,15,Jens SVANE,,,,12,Magnus BRANDBYGE
+61,748773,32.33,,SAH,Skud reddet,HB,3,Kristjan ÖRN KRISTJANSSON,,,,20,Anton HELLBERG
+62,748773,33.03,16-19,KIF,Mål,PL,21,Kristian STOKLUND,,,,12,Magnus BRANDBYGE
+63,748773,33.31,,SAH,Regelfejl,,19,Thor CHRISTENSEN,,,,,
+64,748773,34.09,,KIF,Skud på stolpe,Gbr,15,Jens SVANE,,,,12,Magnus BRANDBYGE
+65,748773,34.14,16-20,SAH,Mål,PL,23,Morten Hempel JENSEN,,0,,,
+66,748773,34.56,,KIF,Tilkendt straffe,,5,Oliver NORLYK,Forårs. str.,6,Kristian BONEFELD,,
+67,748773,35.05,17-20,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,12,Magnus BRANDBYGE
+68,748773,36.04,17-21,SAH,Mål,PL,19,Thor CHRISTENSEN,Assist,23,Morten Hempel JENSEN,20,Anton HELLBERG
+69,748773,36.52,18-21,KIF,Mål,ST,6,Jonas TIDEMAND,Assist,21,Kristian STOKLUND,12,Magnus BRANDBYGE
+70,748773,37.27,,SAH,Fejlaflevering,,32,Fredrik OLSSON,Bold erobret,6,Jonas TIDEMAND,,
+71,748773,37.31,19-21,KIF,Mål,1:e,4,Lars SKAARUP,Assist,29,Viktor NEVERS,12,Magnus BRANDBYGE
+72,748773,37.55,19-22,SAH,Mål,HF,11,Mikkel LANG,Assist,3,Kristjan ÖRN KRISTJANSSON,20,Anton HELLBERG
+73,748773,38.38,,KIF,Fejlaflevering,,15,Jens SVANE,,,,,
+74,748773,38.57,19-23,SAH,Mål,HB,3,Kristjan ÖRN KRISTJANSSON,,,,20,Anton HELLBERG
+75,748773,39.29,,KIF,Skud reddet,ST,18,Benjamin PEDERSEN,,,,12,Magnus BRANDBYGE
+76,748773,40.02,19-24,SAH,Mål,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,20,Anton HELLBERG
+77,748773,40.11,,KIF,Time out,,,,,,,,
+78,748773,40.34,20-24,KIF,Mål,PL,21,Kristian STOKLUND,,,,12,Magnus BRANDBYGE
+79,748773,40.45,20-25,SAH,Mål,PL,3,Kristjan ÖRN KRISTJANSSON,,,,12,Josip CAVAR
+80,748773,41.11,,KIF,Fejlaflevering,,5,Oliver NORLYK,Bold erobret,25,Jeppe CIESLAK,,
+81,748773,41.56,,SAH,Skud reddet,PL,32,Fredrik OLSSON,,,,12,Josip CAVAR
+82,748773,42.02,,KIF,Fejlaflevering,,15,Jens SVANE,Bold erobret,11,Mikkel LANG,,
+83,748773,42.32,20-26,SAH,Mål,HF,11,Mikkel LANG,Assist,3,Kristjan ÖRN KRISTJANSSON,12,Josip CAVAR
+84,748773,43.02,21-26,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,28,Lauritz LEGÉR,12,Magnus BRANDBYGE
+85,748773,43.06,,SAH,Udvisning,,19,Thor CHRISTENSEN,,,,,
+86,748773,43.33,21-27,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,23,Morten Hempel JENSEN,12,Josip CAVAR
+87,748773,43.49,22-27,KIF,Mål,Gbr,15,Jens SVANE,,,,12,Magnus BRANDBYGE
+88,748773,44.32,,SAH,Skud reddet,ST,28,Morten KAALUND,,,,12,Josip CAVAR
+89,748773,44.45,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,,,,,
+90,748773,45.00,,SAH,Time out,,,,,,,,
+91,748773,45.20,22-28,SAH,Mål,VB,23,Morten Hempel JENSEN,,,,12,Josip CAVAR
+92,748773,46.14,,KIF,Skud reddet,HF,29,Viktor NEVERS,,,,12,Magnus BRANDBYGE
+93,748773,47.01,,SAH,Tilkendt straffe,,32,Fredrik OLSSON,Forårs. str.,15,Jens SVANE,,
+94,748773,47.01,,KIF,Udvisning,,15,Jens SVANE,,,,,
+95,748773,47.04,22-29,SAH,Mål på straffe,,23,Morten Hempel JENSEN,,,,12,Josip CAVAR
+96,748773,47.44,,KIF,Regelfejl,,21,Kristian STOKLUND,,,,,
+97,748773,47.44,,SAH,Udvisning,,6,Kristian BONEFELD,,,,,
+98,748773,48.16,,SAH,Skud forbi,Gbr,23,Morten Hempel JENSEN,,,,12,Josip CAVAR
+99,748773,48.45,23-29,KIF,Mål,HF,29,Viktor NEVERS,Assist,5,Oliver NORLYK,12,Magnus BRANDBYGE
+100,748773,49.01,,SAH,Fejlaflevering,,32,Fredrik OLSSON,Bold erobret,28,Lauritz LEGÉR,,
+101,748773,49.07,24-29,KIF,Mål,1:e,29,Viktor NEVERS,Assist,6,Jonas TIDEMAND,12,Magnus BRANDBYGE
+102,748773,49.55,24-30,SAH,Mål,VB,23,Morten Hempel JENSEN,,,,12,Josip CAVAR
+103,748773,50.30,25-30,KIF,Mål,Gbr,28,Lauritz LEGÉR,,,,12,Magnus BRANDBYGE
+104,748773,51.10,25-31,SAH,Mål,,,,,,,,
+105,748773,51.56,26-31,KIF,Mål,ST,28,Morten KAALUND,Assist,23,Morten Hempel JENSEN,12,Josip CAVAR
+106,748773,52.30,26-32,SAH,Mål,ST,28,Morten KAALUND,Assist,7,Jonatan MOLLERUP,12,Josip CAVAR
+107,748773,53.12,27-32,KIF,Mål,PL,21,Kristian STOKLUND,,,,1,Kristoffer LAURSEN
+108,748773,54.04,,SAH,Skud reddet,PL,7,Jonatan MOLLERUP,,,,12,Josip CAVAR
+109,748773,54.47,28-32,KIF,Mål,ST,18,Benjamin PEDERSEN,Assist,5,Oliver NORLYK,1,Kristoffer LAURSEN
+110,748773,55.20,,SAH,Skud reddet,HB,7,Jonatan MOLLERUP,,,,12,Josip CAVAR
+111,748773,55.27,29-32,KIF,Mål,HF,29,Viktor NEVERS,Assist,5,Oliver NORLYK,1,Kristoffer LAURSEN
+112,748773,56.29,,SAH,Skud blokeret,PL,3,Kristjan ÖRN KRISTJANSSON,Blokeret af,18,Benjamin PEDERSEN,,
+113,748773,57.03,,KIF,Skud reddet,Gbr,5,Oliver NORLYK,,,,1,Kristoffer LAURSEN
+114,748773,57.56,29-33,SAH,Mål,PL,32,Fredrik OLSSON,,,,12,Josip CAVAR
+115,748773,58.06,,KIF,Time out,,,,,,,,
+116,748773,58.13,30-33,KIF,Mål,ST,6,Jonas TIDEMAND,Assist,21,Kristian STOKLUND,1,Kristoffer LAURSEN
+117,748773,58.44,,KIF,Udvisning,,6,Jonas TIDEMAND,,,,,
+118,748773,58.57,30-34,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,12,Josip CAVAR
+119,748773,59.38,,KIF,Skud forbi,HB,5,Oliver NORLYK,,,,1,Kristoffer LAURSEN
+120,748773,60.00,,SAH,Skud reddet,HB,23,Morten Hempel JENSEN,,,,12,Josip CAVAR

@@ -1,0 +1,142 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748318,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748318,0.31,1-0,KBH,Mål,Gbr,22,Stine JØRGENSEN,,,,22,Stine BONDE
+3,748318,0.40,,SVK,Fejlaflevering,,4,Maria HOLM,,,,,
+4,748318,1.03,2-0,KBH,Mål,Gbr,4,Catharina MOLENAAR,,,,22,Stine BONDE
+5,748318,1.11,2-1,SVK,Mål,2:e,15,Karen KLOKKER,Assist,31,Andrea West BENDTSEN,20,Anne Christine BOSSEN
+6,748318,1.36,3-1,KBH,Mål,ST,17,Tabea SCHMID,Assist,22,Stine JØRGENSEN,22,Stine BONDE
+7,748318,2.23,,SVK,Skud på stolpe,Gbr,6,Thea RASMUSSEN,,,,20,Anne Christine BOSSEN
+8,748318,2.51,4-1,KBH,Mål,PL,4,Catharina MOLENAAR,,,,22,Stine BONDE
+9,748318,3.03,,SVK,Skud reddet,2:e,31,Andrea West BENDTSEN,,,,20,Anne Christine BOSSEN
+10,748318,3.32,5-1,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,22,Stine BONDE
+11,748318,3.46,,SVK,Regelfejl,,7,Maja Munch LAURSEN,,,,,
+12,748318,4.18,,KBH,Regelfejl,,17,Tabea SCHMID,,,,,
+13,748318,4.26,5-2,SVK,Mål,2:e,6,Thea RASMUSSEN,,,,20,Anne Christine BOSSEN
+14,748318,4.56,6-2,KBH,Mål,Gbr,21,Helene KINDBERG,,,,22,Stine BONDE
+15,748318,5.09,,SVK,Fejlaflevering,,4,Maria HOLM,,,,,
+16,748318,5.31,7-2,KBH,Mål,HF,9,Ditte BACH,Assist,21,Helene KINDBERG,22,Stine BONDE
+17,748318,5.36,,SVK,Time out,,,,,,,,
+18,748318,5.48,7-3,SVK,Mål,PL,31,Andrea West BENDTSEN,,,,20,Anne Christine BOSSEN
+19,748318,6.30,8-3,KBH,Mål,PL,21,Helene KINDBERG,Assist,4,Catharina MOLENAAR,22,Stine BONDE
+20,748318,7.09,,SVK,Skud reddet,PL,31,Andrea West BENDTSEN,Retur,4,Maria HOLM,20,Anne Christine BOSSEN
+21,748318,7.17,,SVK,Tilkendt straffe,,4,Maria HOLM,Forårs. str.,10,Pernille BRANDENBORG,,
+22,748318,7.33,8-4,SVK,Mål på straffe,,21,Maja EDLING,,,,20,Anne Christine BOSSEN
+23,748318,8.02,9-4,KBH,Mål,ST,17,Tabea SCHMID,Assist,22,Stine JØRGENSEN,16,Anna VENG
+24,748318,8.38,9-5,SVK,Mål,VB,31,Andrea West BENDTSEN,,,,20,Anne Christine BOSSEN
+25,748318,9.08,,KBH,Skud reddet,PL,4,Catharina MOLENAAR,,,,16,Anna VENG
+26,748318,9.43,9-6,SVK,Mål,HB,4,Maria HOLM,Assist,31,Andrea West BENDTSEN,20,Anne Christine BOSSEN
+27,748318,10.44,,KBH,Tilkendt straffe,,17,Tabea SCHMID,Forårs. str.,4,Maria HOLM,,
+28,748318,11.04,10-6,KBH,Mål på straffe,,17,Tabea SCHMID,,,,16,Anna VENG
+29,748318,11.38,,SVK,Skud reddet,ST,15,Karen KLOKKER,,,,20,Anne Christine BOSSEN
+30,748318,11.38,,SVK,Udvisning,,15,Karen KLOKKER,,,,,
+31,748318,11.56,,KBH,Skud reddet,VB,22,Stine JØRGENSEN,,,,16,Anna VENG
+32,748318,12.24,,SVK,Skud reddet,Gbr,31,Andrea West BENDTSEN,,,,20,Anne Christine BOSSEN
+33,748318,12.39,11-6,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,16,Anna VENG
+34,748318,13.11,11-7,SVK,Mål,PL,6,Thea RASMUSSEN,,,,20,Anne Christine BOSSEN
+35,748318,13.28,,SVK,Udvisning,,6,Thea RASMUSSEN,,,,,
+36,748318,13.39,,KBH,Tabt bold,,21,Helene KINDBERG,,,,,
+37,748318,13.42,11-8,SVK,Mål,1:e,23,Thilde FRANDSEN,,,,20,Anne Christine BOSSEN
+38,748318,14.07,,KBH,Skud på stolpe,HF,9,Ditte BACH,,,,16,Anna VENG
+39,748318,14.40,,SVK,Fejlaflevering,,4,Maria HOLM,,,,,
+40,748318,15.03,12-8,KBH,Mål,HF,9,Ditte BACH,Assist,21,Helene KINDBERG,16,Anna VENG
+41,748318,15.43,,SVK,Skud reddet,PL,3,Isabella POULSEN,Retur,0,,20,Anne Christine BOSSEN
+42,748318,16.04,12-9,SVK,Mål,Gbr,6,Thea RASMUSSEN,,,,20,Anne Christine BOSSEN
+43,748318,16.39,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,Bold erobret,23,Thilde FRANDSEN,,
+44,748318,17.16,12-10,SVK,Mål,Gbr,6,Thea RASMUSSEN,,,,20,Anne Christine BOSSEN
+45,748318,18.08,,KBH,Time out,,,,,,,,
+46,748318,18.53,13-10,KBH,Mål,PL,22,Stine JØRGENSEN,,,,16,Anna VENG
+47,748318,19.28,13-11,SVK,Mål,VF,7,Maja Munch LAURSEN,Assist,6,Thea RASMUSSEN,20,Anne Christine BOSSEN
+48,748318,19.57,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,16,Anna VENG
+49,748318,20.03,13-12,SVK,Mål,2:e,7,Maja Munch LAURSEN,Assist,4,Maria HOLM,20,Anne Christine BOSSEN
+50,748318,20.36,14-12,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Anna VENG
+51,748318,21.21,,SVK,Skud reddet,VB,6,Thea RASMUSSEN,,,,20,Anne Christine BOSSEN
+52,748318,21.30,,KBH,Tabt bold,,22,Stine JØRGENSEN,,,,,
+53,748318,22.07,14-13,SVK,Mål,PL,4,Maria HOLM,,,,20,Anne Christine BOSSEN
+54,748318,22.40,,KBH,Fejlaflevering,,22,Stine JØRGENSEN,Bold erobret,4,Maria HOLM,,
+55,748318,22.42,14-14,SVK,Mål,1:e,4,Maria HOLM,,,,20,Anne Christine BOSSEN
+56,748318,22.49,15-14,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Anna VENG
+57,748318,23.26,,SVK,Skud reddet,Gbr,6,Thea RASMUSSEN,,,,20,Anne Christine BOSSEN
+58,748318,24.08,16-14,KBH,Mål,PL,21,Helene KINDBERG,,,,16,Anna VENG
+59,748318,24.54,,SVK,Skud reddet,PL,3,Isabella POULSEN,,,,20,Anne Christine BOSSEN
+60,748318,25.55,17-14,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,22,Stine JØRGENSEN,16,Anna VENG
+61,748318,26.39,,KBH,Udvisning,,10,Pernille BRANDENBORG,,,,,
+62,748318,26.54,17-15,SVK,Mål,ST,13,Mathilde KRISTENSEN,Assist,4,Maria HOLM,20,Anne Christine BOSSEN
+63,748318,28.00,,KBH,Fejlaflevering,,22,Stine JØRGENSEN,Bold erobret,4,Maria HOLM,,
+64,748318,28.04,17-16,SVK,Mål,1:e,4,Maria HOLM,,,,0,
+65,748318,28.44,18-16,KBH,Mål,Gbr,4,Catharina MOLENAAR,Assist,22,Stine JØRGENSEN,16,Anna VENG
+66,748318,29.16,18-17,SVK,Mål,Gbr,31,Andrea West BENDTSEN,,,,20,Anne Christine BOSSEN
+67,748318,29.50,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+68,748318,30.00,18-17,,Halvleg,,,,,,,,
+69,748318,30.00,,,Start 2:e halvleg,,,,,,,,
+70,748318,30.56,,SVK,Skud forbi,VB,31,Andrea West BENDTSEN,,,,20,Anne Christine BOSSEN
+71,748318,31.34,19-17,KBH,Mål,PL,4,Catharina MOLENAAR,,,,16,Anna VENG
+72,748318,32.08,19-18,SVK,Mål,HB,4,Maria HOLM,,,,20,Anne Christine BOSSEN
+73,748318,32.34,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,16,Anna VENG
+74,748318,33.07,,SVK,Fejlaflevering,,6,Thea RASMUSSEN,,,,,
+75,748318,33.21,20-18,KBH,Mål,ST,17,Tabea SCHMID,Assist,11,Martha NICKELSEN,16,Anna VENG
+76,748318,33.47,20-19,SVK,Mål,PL,4,Maria HOLM,,,,20,Anne Christine BOSSEN
+77,748318,34.15,,KBH,Regelfejl,,21,Helene KINDBERG,,,,,
+78,748318,34.55,,SVK,Tabt bold,,31,Andrea West BENDTSEN,,,,,
+79,748318,34.58,21-19,KBH,Mål,1:e,9,Ditte BACH,Assist,17,Tabea SCHMID,16,Anna VENG
+80,748318,35.37,,SVK,Skud forbi,PL,4,Maria HOLM,,,,20,Anne Christine BOSSEN
+81,748318,36.12,22-19,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Anna VENG
+82,748318,36.21,,SVK,Skud reddet,2:e,4,Maria HOLM,,,,20,Anne Christine BOSSEN
+83,748318,36.59,,KBH,Skud reddet,HB,21,Helene KINDBERG,Retur,17,Tabea SCHMID,16,Anna VENG
+84,748318,37.10,,KBH,Skud på stolpe,ST,17,Tabea SCHMID,,,,16,Anna VENG
+85,748318,37.33,,SVK,Regelfejl,,4,Maria HOLM,,,,,
+86,748318,37.41,23-19,KBH,Mål,2:e,9,Ditte BACH,Assist,21,Helene KINDBERG,16,Anna VENG
+87,748318,37.54,,SVK,Fejlaflevering,,6,Thea RASMUSSEN,,,,,
+88,748318,38.30,,KBH,Regelfejl,,17,Tabea SCHMID,,,,,
+89,748318,38.38,,SVK,Tabt bold,,15,Karen KLOKKER,,,,,
+90,748318,38.42,24-19,KBH,Mål,1:e,9,Ditte BACH,,,,16,Anna VENG
+91,748318,38.54,,SVK,Time out,,,,,,,,
+92,748318,39.53,,SVK,Regelfejl,,7,Maja Munch LAURSEN,,,,,
+93,748318,40.14,25-19,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Anna VENG
+94,748318,40.27,,SVK,Tabt bold,,11,Sara MADSEN,,,,,
+95,748318,40.29,26-19,KBH,Mål,1:e,21,Helene KINDBERG,,,,16,Anna VENG
+96,748318,41.02,26-20,SVK,Mål,PL,11,Sara MADSEN,,,,20,Anne Christine BOSSEN
+97,748318,41.59,27-20,KBH,Mål,Gbr,4,Catharina MOLENAAR,Assist,21,Helene KINDBERG,16,Anna VENG
+98,748318,42.16,27-21,SVK,Mål,HF,23,Thilde FRANDSEN,Assist,11,Sara MADSEN,20,Anne Christine BOSSEN
+99,748318,42.53,28-21,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,4,Catharina MOLENAAR,16,Anna VENG
+100,748318,43.28,28-22,SVK,Mål,VB,31,Andrea West BENDTSEN,,,,20,Anne Christine BOSSEN
+101,748318,43.55,,KBH,Skud forbi,VB,4,Catharina MOLENAAR,,,,22,Stine BONDE
+102,748318,44.03,,SVK,Skud reddet,HB,11,Sara MADSEN,,,,20,Anne Christine BOSSEN
+103,748318,44.07,29-22,KBH,Mål,1:e,7,Emilie Ytting PEDERSEN,Assist,20,Anne Christine BOSSEN,22,Stine BONDE
+104,748318,44.36,29-23,SVK,Mål,,,,,,,,
+105,748318,45.09,,KBH,Skud reddet,VF,7,Emilie Ytting PEDERSEN,,,,22,Stine BONDE
+106,748318,45.40,,KBH,Udvisning,,17,Tabea SCHMID,,,,,
+107,748318,45.54,,SVK,Skud reddet,VF,21,Maja EDLING,,,,22,Stine BONDE
+108,748318,46.33,30-23,KBH,Mål,Gbr,4,Catharina MOLENAAR,Assist,11,Martha NICKELSEN,22,Stine BONDE
+109,748318,46.54,,KBH,Udvisning,,21,Helene KINDBERG,,,,,
+110,748318,47.07,,SVK,Skud reddet,ST,15,Karen KLOKKER,,,,22,Stine BONDE
+111,748318,48.01,,KBH,Skud reddet,HB,4,Catharina MOLENAAR,,,,22,Stine BONDE
+112,748318,48.32,30-24,SVK,Mål,Gbr,6,Thea RASMUSSEN,,,,22,Stine BONDE
+113,748318,49.26,,SVK,Udvisning,,15,Karen KLOKKER,,,,,
+114,748318,49.53,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+115,748318,50.37,30-25,SVK,Mål,Gbr,3,Isabella POULSEN,,,,22,Stine BONDE
+116,748318,50.45,,KBH,Time out,,,,,,,,
+117,748318,50.54,,KBH,Skud reddet,HF,9,Ditte BACH,,,,22,Stine BONDE
+118,748318,51.17,30-26,SVK,Mål,VB,3,Isabella POULSEN,,,,22,Stine BONDE
+119,748318,51.26,31-26,KBH,Mål,1:e,17,Tabea SCHMID,,,,,
+120,748318,52.11,,SVK,Fejlaflevering,,11,Sara MADSEN,Bold erobret,10,Pernille BRANDENBORG,,
+121,748318,53.05,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+122,748318,53.11,,SVK,Skud forbi,1:e,23,Thilde FRANDSEN,,,,22,Stine BONDE
+123,748318,53.37,32-26,KBH,Mål,Gbr,22,Stine JØRGENSEN,,,,22,Stine BONDE
+124,748318,53.46,32-27,SVK,Mål,ST,13,Mathilde KRISTENSEN,Assist,11,Sara MADSEN,22,Stine BONDE
+125,748318,54.53,33-27,KBH,Mål,VB,22,Stine JØRGENSEN,,,,22,Stine BONDE
+126,748318,55.09,,SVK,Regelfejl,,21,Maja EDLING,,,,,
+127,748318,55.47,,KBH,Skud på stolpe,PL,4,Catharina MOLENAAR,,,,22,Stine BONDE
+128,748318,56.02,,SVK,Time out,,,,,,,,
+129,748318,56.10,33-28,SVK,Mål,VB,3,Isabella POULSEN,,,,22,Stine BONDE
+130,748318,56.31,34-28,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,22,Stine JØRGENSEN,22,Stine BONDE
+131,748318,56.57,34-29,SVK,Mål,VB,3,Isabella POULSEN,,,,22,Stine BONDE
+132,748318,57.32,,KBH,Time out,,,,,,,,
+133,748318,57.41,35-29,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,22,Stine BONDE
+134,748318,58.07,35-30,SVK,Mål,PL,11,Sara MADSEN,,,,22,Stine BONDE
+135,748318,58.35,36-30,KBH,Mål,Gbr,22,Stine JØRGENSEN,,,,22,Stine BONDE
+136,748318,58.42,36-31,SVK,Mål,1:e,31,Andrea West BENDTSEN,,,,22,Stine BONDE
+137,748318,59.06,,KBH,Skud reddet,ST,17,Tabea SCHMID,Retur,0,,22,Stine BONDE
+138,748318,59.30,37-31,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,22,Stine JØRGENSEN,22,Stine BONDE
+139,748318,60.00,,SVK,Skud forbi,ST,15,Karen KLOKKER,,,,22,Stine BONDE
+140,748318,60.00,37-31,,Fuld tid,,,,,,,,
+141,748318,60.00,,,Kamp slut,,,,,,,,

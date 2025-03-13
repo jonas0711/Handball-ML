@@ -1,0 +1,147 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748764,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748764,0.42,0-1,SJE,Mål,VF,28,Patrick VOLZ,Assist,29,Magnus FREDRIKSEN,1,Mikkel LØVKVIST
+3,748764,1.52,,BSH,Skud reddet,Gbr,26,Peter BALLING,,,,1,Matthias DORGELO
+4,748764,2.32,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+5,748764,2.38,,BSH,Skud på stolpe,2:e,9,Gudmundur Bragi ASTPARSSON,,,,1,Matthias DORGELO
+6,748764,3.11,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+7,748764,3.20,,BSH,Fejlaflevering,,9,Gudmundur Bragi ASTPARSSON,,,,,
+8,748764,4.12,,SJE,Tabt bold,,14,Jacob BAGERSTED,,,,,
+9,748764,4.14,1-1,BSH,Mål,1:e,32,Nikolaj LÆSØ,,,,,
+10,748764,4.57,,SJE,Skud reddet,ST,14,Jacob BAGERSTED,,,,1,Mikkel LØVKVIST
+11,748764,5.14,,BSH,Regelfejl,,9,Gudmundur Bragi ASTPARSSON,,,,,
+12,748764,5.51,,SJE,Skud blokeret,PL,11,Nicolaj JØRGENSEN,Blokeret af,19,René Toft HANSEN,,
+13,748764,6.04,,BSH,Skud blokeret,2:e,26,Peter BALLING,Blok af (ret),18,Morten BJØRNSHAUGE,,
+14,748764,6.52,2-1,BSH,Mål,Gbr,32,Nikolaj LÆSØ,,,,1,Matthias DORGELO
+15,748764,7.23,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+16,748764,7.26,3-1,BSH,Mål,1:e,23,Mads LENBROCH,Assist,22,Anders ZACHARIASSEN,,
+17,748764,8.00,3-2,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,1,Mikkel LØVKVIST
+18,748764,8.08,4-2,BSH,Mål,2:e,22,Anders ZACHARIASSEN,Assist,26,Peter BALLING,1,Matthias DORGELO
+19,748764,9.08,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,Bold erobret,23,Mads LENBROCH,,
+20,748764,9.11,5-2,BSH,Mål,1:e,26,Peter BALLING,,,,,
+21,748764,9.14,,SJE,Time out,,,,,,,,
+22,748764,9.33,5-3,SJE,Mål,PL,48,Gabriel SETTERBLOM,,,,1,Mikkel LØVKVIST
+23,748764,9.41,,BSH,Fejlaflevering,,9,Gudmundur Bragi ASTPARSSON,,,,,
+24,748764,9.47,,SJE,Fejlaflevering,,1,Matthias DORGELO,Bold erobret,4,Patrick BOLDSEN,,
+25,748764,10.49,,SJE,Advarsel,,14,Jacob BAGERSTED,,,,,
+26,748764,11.24,,BSH,Skud blokeret,PL,32,Nikolaj LÆSØ,Blok af (ret),14,Jacob BAGERSTED,,
+27,748764,11.28,6-3,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,26,Peter BALLING,1,Matthias DORGELO
+28,748764,12.01,,SJE,Skud reddet,Gbr,29,Magnus FREDRIKSEN,,,,1,Mikkel LØVKVIST
+29,748764,12.01,,SJE,Udvisning,,29,Magnus FREDRIKSEN,,,,,
+30,748764,12.27,7-3,BSH,Mål,VB,97,Magnus RAHBEK,,,,1,Matthias DORGELO
+31,748764,13.04,,SJE,Skud forbi,PL,11,Nicolaj JØRGENSEN,,,,1,Mikkel LØVKVIST
+32,748764,13.31,,BSH,Regelfejl,,32,Nikolaj LÆSØ,,,,,
+33,748764,14.06,,SJE,Skud reddet,PL,48,Gabriel SETTERBLOM,,,,1,Mikkel LØVKVIST
+34,748764,14.38,,BSH,Regelfejl,,26,Peter BALLING,,,,,
+35,748764,15.19,,SJE,Skud reddet,VF,28,Patrick VOLZ,,,,1,Mikkel LØVKVIST
+36,748764,15.49,8-3,BSH,Mål,VB,97,Magnus RAHBEK,,,,1,Matthias DORGELO
+37,748764,16.21,,SJE,Tabt bold,,48,Gabriel SETTERBLOM,,,,,
+38,748764,17.00,9-3,BSH,Mål,PL,32,Nikolaj LÆSØ,,,,1,Matthias DORGELO
+39,748764,17.06,,SJE,Time out,,,,,,,,
+40,748764,17.30,,SJE,Tilkendt straffe,,20,August WIGER,Forårs. str.,22,Anders ZACHARIASSEN,,
+41,748764,17.51,,SJE,Straffekast reddet,,11,Nicolaj JØRGENSEN,,,,1,Mikkel LØVKVIST
+42,748764,18.25,,BSH,Regelfejl,,97,Magnus RAHBEK,,,,,
+43,748764,18.37,9-4,SJE,Mål,2:e,29,Magnus FREDRIKSEN,,,,1,Mikkel LØVKVIST
+44,748764,19.28,10-4,BSH,Mål,PL,26,Peter BALLING,,,,30,Julius STEN
+45,748764,19.38,,BSH,Advarsel,,23,Mads LENBROCH,,,,,
+46,748764,20.26,10-5,SJE,Mål,PL,48,Gabriel SETTERBLOM,,,,1,Mikkel LØVKVIST
+47,748764,21.08,,BSH,Tilkendt straffe,,22,Anders ZACHARIASSEN,Forårs. str.,48,Gabriel SETTERBLOM,,
+48,748764,21.15,11-5,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,30,Julius STEN
+49,748764,22.08,,SJE,Tilkendt straffe,,48,Gabriel SETTERBLOM,Forårs. str.,23,Mads LENBROCH,,
+50,748764,22.38,11-6,SJE,Mål på straffe,,22,Magnus HOLPERT,,,,1,Mikkel LØVKVIST
+51,748764,23.14,12-6,BSH,Mål,Gbr,32,Nikolaj LÆSØ,,,,30,Julius STEN
+52,748764,23.23,,BSH,Udvisning,,14,Alexander LYNGGAARD,,,,,
+53,748764,23.41,12-7,SJE,Mål,Gbr,11,Nicolaj JØRGENSEN,Assist,33,Ebbe STANKIEWICZ,1,Mikkel LØVKVIST
+54,748764,24.34,,BSH,Skud forbi,PL,13,Lasse SUNDE LID,,,,30,Julius STEN
+55,748764,24.54,12-8,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,1,Mikkel LØVKVIST
+56,748764,25.41,13-8,BSH,Mål,VB,97,Magnus RAHBEK,,,,30,Julius STEN
+57,748764,26.16,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+58,748764,26.20,14-8,BSH,Mål,1:e,14,Alexander LYNGGAARD,Assist,22,Anders ZACHARIASSEN,30,Julius STEN
+59,748764,26.52,14-9,SJE,Mål,PL,11,Nicolaj JØRGENSEN,Assist,29,Magnus FREDRIKSEN,1,Mikkel LØVKVIST
+60,748764,27.27,15-9,BSH,Mål,Gbr,13,Lasse SUNDE LID,Assist,32,Nikolaj LÆSØ,30,Julius STEN
+61,748764,27.53,15-10,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,Assist,29,Magnus FREDRIKSEN,1,Mikkel LØVKVIST
+62,748764,28.25,16-10,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,13,Lasse SUNDE LID,30,Julius STEN
+63,748764,28.59,,SJE,Fejlaflevering,,48,Gabriel SETTERBLOM,,,,,
+64,748764,29.21,,BSH,Time out,,,,,,,,
+65,748764,29.37,17-10,BSH,Mål,Gbr,97,Magnus RAHBEK,Assist,14,Alexander LYNGGAARD,30,Julius STEN
+66,748764,29.59,,SJE,Skud blokeret,PL,11,Nicolaj JØRGENSEN,Blokeret af,22,Anders ZACHARIASSEN,30,Julius STEN
+67,748764,30.00,,,Halvleg,,,,,,,,
+68,748764,30.00,,,Start 2:e halvleg,,,,,,,,
+69,748764,30.48,,BSH,Fejlaflevering,,26,Peter BALLING,,,,,
+70,748764,31.05,,SJE,Skud reddet,2:e,29,Magnus FREDRIKSEN,,,,1,Mikkel LØVKVIST
+71,748764,31.17,,BSH,Tilkendt straffe,,32,Nikolaj LÆSØ,Forårs. str.,18,Morten BJØRNSHAUGE,,
+72,748764,31.44,,BSH,Straffekast reddet,,9,Gudmundur Bragi ASTPARSSON,,,,1,Matthias DORGELO
+73,748764,32.21,,SJE,Regelfejl,,48,Gabriel SETTERBLOM,,,,,
+74,748764,32.48,,BSH,Skud blokeret,PL,32,Nikolaj LÆSØ,Blokeret af,18,Morten BJØRNSHAUGE,,
+75,748764,33.01,,SJE,Skud reddet,2:e,11,Nicolaj JØRGENSEN,,,,1,Mikkel LØVKVIST
+76,748764,33.07,18-10,BSH,Mål,2:e,26,Peter BALLING,,,,1,Matthias DORGELO
+77,748764,33.49,18-11,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,,,,1,Mikkel LØVKVIST
+78,748764,34.17,,BSH,Skud reddet,Gbr,97,Magnus RAHBEK,,,,1,Matthias DORGELO
+79,748764,34.57,,SJE,Regelfejl,,11,Nicolaj JØRGENSEN,,,,,
+80,748764,35.01,,BSH,Skud reddet,1:e,4,Patrick BOLDSEN,,,,1,Matthias DORGELO
+81,748764,35.11,,SJE,Skud reddet,2:e,11,Nicolaj JØRGENSEN,,,,1,Mikkel LØVKVIST
+82,748764,35.19,,BSH,Skud reddet,1:e,22,Anders ZACHARIASSEN,,,,1,Matthias DORGELO
+83,748764,35.56,,SJE,Regelfejl,,14,Jacob BAGERSTED,,,,,
+84,748764,36.09,19-11,BSH,Mål,2:e,97,Magnus RAHBEK,,,,1,Matthias DORGELO
+85,748764,37.03,19-12,SJE,Mål,VF,28,Patrick VOLZ,Assist,20,August WIGER,1,Mikkel LØVKVIST
+86,748764,37.45,,BSH,Tilkendt straffe,,14,Alexander LYNGGAARD,Forårs. str.,20,August WIGER,,
+87,748764,38.09,20-12,BSH,Mål på straffe,,23,Mads LENBROCH,,,,1,Matthias DORGELO
+88,748764,38.59,20-13,SJE,Mål,VF,28,Patrick VOLZ,Assist,20,August WIGER,1,Mikkel LØVKVIST
+89,748764,39.40,21-13,BSH,Mål,ST,14,Alexander LYNGGAARD,Assist,97,Magnus RAHBEK,1,Matthias DORGELO
+90,748764,40.24,,SJE,Regelfejl,,23,Tobias OLSEN,,,,,
+91,748764,40.28,22-13,BSH,Mål,1:e,4,Patrick BOLDSEN,Assist,26,Peter BALLING,1,Matthias DORGELO
+92,748764,41.22,22-14,SJE,Mål,Gbr,23,Tobias OLSEN,,,,1,Mikkel LØVKVIST
+93,748764,41.33,,BSH,Tilkendt straffe,,23,Mads LENBROCH,Forårs. str.,29,Magnus FREDRIKSEN,,
+94,748764,41.33,,SJE,Udvisning,,29,Magnus FREDRIKSEN,,,,,
+95,748764,41.37,23-14,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,1,Matthias DORGELO
+96,748764,42.07,23-15,SJE,Mål,HB,11,Nicolaj JØRGENSEN,Assist,23,Tobias OLSEN,1,Mikkel LØVKVIST
+97,748764,42.08,,BSH,Udvisning,,32,Nikolaj LÆSØ,,,,,
+98,748764,42.31,,BSH,Skud reddet,VF,23,Mads LENBROCH,,,,1,Matthias DORGELO
+99,748764,43.03,,SJE,Tilkendt straffe,,48,Gabriel SETTERBLOM,Forårs. str.,97,Magnus RAHBEK,,
+100,748764,43.07,,SJE,Straffekast reddet,,22,Magnus HOLPERT,,,,1,Mikkel LØVKVIST
+101,748764,43.47,,BSH,Passivt spil,,0,,,,,,
+102,748764,44.40,,SJE,Tilkendt straffe,,3,Lucas REHFUS,Forårs. str.,23,Mads LENBROCH,,
+103,748764,44.55,23-16,SJE,Mål på straffe,,28,Patrick VOLZ,,,,1,Mikkel LØVKVIST
+104,748764,44.59,,,,,,,,,,,
+105,748764,45.25,,BSH,Fejlaflevering,,26,Peter BALLING,,,,,
+106,748764,45.54,23-17,SJE,Mål,HB,23,Tobias OLSEN,,,,1,Mikkel LØVKVIST
+107,748764,46.07,,BSH,Regelfejl,,2,Benjamin JAKOBSEN,,,,,
+108,748764,46.12,23-18,SJE,Mål,1:e,6,Nikolaj SVALASTOG,Assist,20,August WIGER,0,
+109,748764,46.48,,BSH,Skud reddet,HB,26,Peter BALLING,,,,1,Matthias DORGELO
+110,748764,46.53,23-19,SJE,Mål,1:e,6,Nikolaj SVALASTOG,Assist,20,August WIGER,1,Mikkel LØVKVIST
+111,748764,47.56,,BSH,Skud blokeret,HB,26,Peter BALLING,Blok af (ret),20,August WIGER,,
+112,748764,48.04,24-19,BSH,Mål,VB,97,Magnus RAHBEK,,,,1,Matthias DORGELO
+113,748764,48.32,24-20,SJE,Mål,Gbr,20,August WIGER,,,,1,Mikkel LØVKVIST
+114,748764,49.05,25-20,BSH,Mål,HB,26,Peter BALLING,,,,1,Matthias DORGELO
+115,748764,49.10,25-21,SJE,Mål,2:e,6,Nikolaj SVALASTOG,,,,1,Mikkel LØVKVIST
+116,748764,49.36,,BSH,Fejlaflevering,,9,Gudmundur Bragi ASTPARSSON,Bold erobret,33,Ebbe STANKIEWICZ,,
+117,748764,49.39,25-22,SJE,Mål,1:e,33,Ebbe STANKIEWICZ,,,,0,
+118,748764,50.20,26-22,BSH,Mål,ST,22,Anders ZACHARIASSEN,Assist,26,Peter BALLING,1,Matthias DORGELO
+119,748764,50.53,,SJE,Tilkendt straffe,,11,Nicolaj JØRGENSEN,Forårs. str.,14,Alexander LYNGGAARD,,
+120,748764,51.04,26-23,SJE,Mål på straffe,,28,Patrick VOLZ,,,,12,Kasper LARSEN
+121,748764,51.30,27-23,BSH,Mål,Gbr,32,Nikolaj LÆSØ,Assist,9,Gudmundur Bragi ASTPARSSON,1,Matthias DORGELO
+122,748764,52.31,27-24,SJE,Mål,Gbr,11,Nicolaj JØRGENSEN,,,,1,Mikkel LØVKVIST
+123,748764,52.58,,BSH,Fejlaflevering,,9,Gudmundur Bragi ASTPARSSON,Bold erobret,28,Patrick VOLZ,,
+124,748764,53.02,27-25,SJE,Mål,1:e,28,Patrick VOLZ,,,,0,
+125,748764,53.56,28-25,BSH,Mål,Gbr,97,Magnus RAHBEK,,,,1,Matthias DORGELO
+126,748764,54.08,28-26,SJE,Mål,2:e,2,Tobias Gregers SCHMIDT,Assist,11,Nicolaj JØRGENSEN,1,Mikkel LØVKVIST
+127,748764,54.08,,BSH,Udvisning,,19,René Toft HANSEN,,,,,
+128,748764,54.34,,BSH,Skud reddet,Gbr,26,Peter BALLING,Retur,0,,1,Matthias DORGELO
+129,748764,55.02,29-26,BSH,Mål,PL,97,Magnus RAHBEK,,,,1,Matthias DORGELO
+130,748764,55.06,29-27,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,,,0,
+131,748764,55.43,30-27,BSH,Mål,Gbr,26,Peter BALLING,,,,1,Matthias DORGELO
+132,748764,55.47,30-28,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,,,0,
+133,748764,56.22,,BSH,Skud på stolpe,Gbr,26,Peter BALLING,,,,1,Matthias DORGELO
+134,748764,56.30,,SJE,Time out,,,,,,,,
+135,748764,57.01,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+136,748764,58.01,,BSH,Skud reddet,ST,22,Anders ZACHARIASSEN,,,,1,Matthias DORGELO
+137,748764,58.11,30-29,SJE,Mål,2:e,2,Tobias Gregers SCHMIDT,Assist,23,Tobias OLSEN,12,Kasper LARSEN
+138,748764,58.37,,BSH,Fejlaflevering,,97,Magnus RAHBEK,Bold erobret,33,Ebbe STANKIEWICZ,,
+139,748764,59.15,,SJE,Tilkendt straffe,,23,Tobias OLSEN,Forårs. str.,14,Alexander LYNGGAARD,,
+140,748764,59.15,,BSH,Udvisning,,14,Alexander LYNGGAARD,,,,,
+141,748764,59.20,30-30,SJE,Mål på straffe,,28,Patrick VOLZ,,,,1,Mikkel LØVKVIST
+142,748764,59.32,,BSH,Time out,,,,,,,,
+143,748764,59.52,31-30,BSH,Mål,Gbr,97,Magnus RAHBEK,,,,1,Matthias DORGELO
+144,748764,59.57,31-31,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,,,0,
+145,748764,60.00,31-31,,Fuld tid,,,,,,,,
+146,748764,60.00,,,Kamp slut,,,,,,,,

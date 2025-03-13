@@ -1,0 +1,148 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748643,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748643,0.40,1-0,MTH,Mål,Gbr,10,Mads Svane KNUDSEN,Assist,21,Marcus MIDTGAARD,1,Rasmus HENRIKSEN
+3,748643,0.53,1-1,TTH,Mål,2:e,6,Frederik BJERRE,Assist,25,Jonas PORUP,30,Svend RUGHAVE
+4,748643,1.38,,TTH,Advarsel,,4,Christoffer CICHOSZ,,,,,
+5,748643,2.17,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,,,,,
+6,748643,2.20,1-2,TTH,Mål,1:e,4,Christoffer CICHOSZ,Assist,18,Edwin ASPENBÄCK,30,Svend RUGHAVE
+7,748643,2.29,,TTH,Udvisning,,6,Frederik BJERRE,,,,,
+8,748643,2.53,2-2,MTH,Mål,ST,4,Kasper LINDGREN,Assist,10,Mads Svane KNUDSEN,1,Rasmus HENRIKSEN
+9,748643,3.29,2-3,TTH,Mål,PL,11,Thomas DAMGAARD,,,,30,Svend RUGHAVE
+10,748643,3.45,3-3,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,1,Rasmus HENRIKSEN
+11,748643,4.32,,TTH,Tabt bold,,18,Edwin ASPENBÄCK,Bold erobret,15,Henrik Toft HANSEN,,
+12,748643,4.40,4-3,MTH,Mål,1:e,23,Henrik TILSTED,Assist,21,Marcus MIDTGAARD,1,Rasmus HENRIKSEN
+13,748643,5.07,4-4,TTH,Mål,VB,11,Thomas DAMGAARD,,,,30,Svend RUGHAVE
+14,748643,5.22,,MTH,Tabt bold,,10,Mads Svane KNUDSEN,Bold erobret,18,Edwin ASPENBÄCK,,
+15,748643,5.26,,TTH,Fejlaflevering,,18,Edwin ASPENBÄCK,Bold erobret,21,Marcus MIDTGAARD,,
+16,748643,6.06,5-4,MTH,Mål,PL,10,Mads Svane KNUDSEN,,,,1,Rasmus HENRIKSEN
+17,748643,7.08,,TTH,Regelfejl,,23,Miha ZVIZEJ,,,,,
+18,748643,7.14,,TTH,Udvisning,,23,Miha ZVIZEJ,,,,,
+19,748643,7.33,,MTH,Skud reddet,ST,15,Henrik Toft HANSEN,,,,1,Rasmus HENRIKSEN
+20,748643,7.39,5-5,TTH,Mål,1:e,28,Kevin GULLIKSEN,Assist,25,Jonas PORUP,30,Svend RUGHAVE
+21,748643,8.00,6-5,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,21,Marcus MIDTGAARD,1,Rasmus HENRIKSEN
+22,748643,8.35,,TTH,Skud reddet,Gbr,25,Jonas PORUP,,,,30,Svend RUGHAVE
+23,748643,9.08,,MTH,Skud reddet,PL,10,Mads Svane KNUDSEN,,,,1,Rasmus HENRIKSEN
+24,748643,9.46,,TTH,Regelfejl,,18,Edwin ASPENBÄCK,,,,,
+25,748643,10.23,,MTH,Skud reddet,ST,11,Lasse PEDERSEN,,,,1,Rasmus HENRIKSEN
+26,748643,10.38,,TTH,Tilkendt straffe,,4,Christoffer CICHOSZ,Forårs. str.,19,Victor NORLYK,,
+27,748643,10.44,,TTH,Straffekast reddet,,6,Frederik BJERRE,,,,30,Svend RUGHAVE
+28,748643,11.56,,MTH,Tilkendt straffe,,23,Henrik TILSTED,Forårs. str.,28,Kevin GULLIKSEN,,
+29,748643,12.00,,MTH,Straffekast reddet,,10,Mads Svane KNUDSEN,,,,1,Rasmus HENRIKSEN
+30,748643,12.29,,MTH,Advarsel,,33,Kasper DIDRIKSEN,,,,,
+31,748643,12.37,,MTH,Advarsel,,30,Svend RUGHAVE,,,,,
+32,748643,12.50,,TTH,Skud reddet,VB,22,Nikolaj MARKUSSEN,Retur,0,,30,Svend RUGHAVE
+33,748643,13.01,6-6,TTH,Mål,PL,22,Nikolaj MARKUSSEN,,,,30,Svend RUGHAVE
+34,748643,14.16,7-6,MTH,Mål,HB,21,Marcus MIDTGAARD,,,,1,Rasmus HENRIKSEN
+35,748643,14.26,7-7,TTH,Mål,2:e,6,Frederik BJERRE,Assist,25,Jonas PORUP,30,Svend RUGHAVE
+36,748643,15.16,,MTH,Skud forbi,PL,19,Victor NORLYK,,,,1,Rasmus HENRIKSEN
+37,748643,15.27,,TTH,Fejlaflevering,,18,Edwin ASPENBÄCK,Bold erobret,33,Kasper DIDRIKSEN,,
+38,748643,16.11,,MTH,Fejlaflevering,,19,Victor NORLYK,,,,,
+39,748643,17.13,,TTH,Skud blokeret,PL,22,Nikolaj MARKUSSEN,Blok af (ret),4,Kasper LINDGREN,,
+40,748643,17.21,7-8,TTH,Mål,HB,22,Nikolaj MARKUSSEN,,,,30,Svend RUGHAVE
+41,748643,17.55,8-8,MTH,Mål,Gbr,7,Nichlas HALD,Assist,19,Victor NORLYK,1,Rasmus HENRIKSEN
+42,748643,18.27,,MTH,Udvisning,,4,Kasper LINDGREN,,,,,
+43,748643,18.37,8-9,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,0,Oliver LARSEN,30,Svend RUGHAVE
+44,748643,19.24,,MTH,Skud blokeret,PL,9,Kristoffer VESTERGAARD,Blok af (ret),4,Christoffer CICHOSZ,,
+45,748643,19.41,,MTH,Passivt spil,,0,,,,,,
+46,748643,20.01,8-10,TTH,Mål,ST,3,Sebastian ØRUM,,,,20,Oliver LARSEN
+47,748643,20.42,9-10,MTH,Mål,HB,7,Nichlas HALD,,,,1,Rasmus HENRIKSEN
+48,748643,21.29,,TTH,Fejlaflevering,,11,Thomas DAMGAARD,Bold erobret,33,Kasper DIDRIKSEN,,
+49,748643,21.32,10-10,MTH,Mål,1:e,15,Henrik Toft HANSEN,Assist,19,Victor NORLYK,1,Rasmus HENRIKSEN
+50,748643,22.41,,TTH,Skud reddet,PL,22,Nikolaj MARKUSSEN,,,,20,Oliver LARSEN
+51,748643,22.55,11-10,MTH,Mål,ST,23,Henrik TILSTED,,,,1,Rasmus HENRIKSEN
+52,748643,23.06,,TTH,Skud reddet,Gbr,7,William AAR,,,,20,Oliver LARSEN
+53,748643,23.24,,MTH,Time out,,,,,,,,
+54,748643,23.54,12-10,MTH,Mål,VB,7,Nichlas HALD,,,,1,Rasmus HENRIKSEN
+55,748643,24.27,12-11,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,20,Oliver LARSEN
+56,748643,24.37,13-11,MTH,Mål,PL,7,Nichlas HALD,,,,1,Rasmus HENRIKSEN
+57,748643,24.45,,MTH,Udvisning,,4,Kasper LINDGREN,,,,,
+58,748643,24.45,,TTH,Tilkendt straffe,,18,Edwin ASPENBÄCK,Forårs. str.,4,Kasper LINDGREN,,
+59,748643,24.47,13-12,TTH,Mål på straffe,,6,Frederik BJERRE,,,,20,Oliver LARSEN
+60,748643,25.22,14-12,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,16,Sander HEIEREN
+61,748643,25.56,14-13,TTH,Mål,ST,3,Sebastian ØRUM,Assist,22,Nikolaj MARKUSSEN,20,Oliver LARSEN
+62,748643,26.41,15-13,MTH,Mål,Gbr,7,Nichlas HALD,,,,16,Sander HEIEREN
+63,748643,26.50,15-14,TTH,Mål,2:e,4,Christoffer CICHOSZ,,,,,
+64,748643,27.53,16-14,MTH,Mål,PL,7,Nichlas HALD,,,,16,Sander HEIEREN
+65,748643,28.22,16-15,TTH,Mål,HF,13,Sven EHRIG,Assist,18,Edwin ASPENBÄCK,20,Oliver LARSEN
+66,748643,29.13,,MTH,Skud reddet,PL,7,Nichlas HALD,,,,16,Sander HEIEREN
+67,748643,29.35,,TTH,Time out,,,,,,,,
+68,748643,30.00,16-16,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,,,,20,Oliver LARSEN
+69,748643,30.00,16-16,,Halvleg,,,,,,,,
+70,748643,30.00,,,Start 2:e halvleg,,,,,,,,
+71,748643,30.44,16-17,TTH,Mål,Gbr,7,William AAR,Assist,18,Edwin ASPENBÄCK,20,Oliver LARSEN
+72,748643,31.40,17-17,MTH,Mål,Gbr,28,Rasmus MADSEN,,,,16,Sander HEIEREN
+73,748643,31.52,,TTH,Skud reddet,VB,6,Frederik BJERRE,,,,20,Oliver LARSEN
+74,748643,32.22,18-17,MTH,Mål,Gbr,28,Rasmus MADSEN,,,,16,Sander HEIEREN
+75,748643,32.53,18-18,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,,,,20,Oliver LARSEN
+76,748643,33.06,,MTH,Regelfejl,,10,Mads Svane KNUDSEN,,,,,
+77,748643,33.26,,TTH,Fejlaflevering,,7,William AAR,,,,,
+78,748643,33.31,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,Bold erobret,23,Miha ZVIZEJ,,
+79,748643,34.27,,MTH,Udvisning,,21,Marcus MIDTGAARD,,,,,
+80,748643,34.42,,TTH,Skud forbi,Gbr,18,Edwin ASPENBÄCK,,,,20,Oliver LARSEN
+81,748643,35.30,,MTH,Skud på stolpe,VB,7,Nichlas HALD,,,,16,Sander HEIEREN
+82,748643,35.40,18-19,TTH,Mål,1:e,13,Sven EHRIG,,,,,
+83,748643,36.10,,MTH,Tilkendt straffe,,15,Henrik Toft HANSEN,Forårs. str.,25,Jonas PORUP,,
+84,748643,36.12,19-19,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,1,Rasmus HENRIKSEN
+85,748643,36.30,19-20,TTH,Mål,ST,4,Christoffer CICHOSZ,Assist,22,Nikolaj MARKUSSEN,20,Oliver LARSEN
+86,748643,37.06,,TTH,Udvisning,,23,Miha ZVIZEJ,,,,,
+87,748643,37.19,20-20,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,16,Sander HEIEREN
+88,748643,38.07,20-21,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,20,Oliver LARSEN
+89,748643,38.43,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,Bold erobret,7,William AAR,,
+90,748643,39.20,,TTH,Tilkendt straffe,,4,Christoffer CICHOSZ,Forårs. str.,21,Marcus MIDTGAARD,,
+91,748643,39.39,20-22,TTH,Mål på straffe,,6,Frederik BJERRE,,,,20,Oliver LARSEN
+92,748643,40.09,21-22,MTH,Mål,VF,23,Henrik TILSTED,Assist,10,Mads Svane KNUDSEN,16,Sander HEIEREN
+93,748643,40.38,,TTH,Skud reddet,Gbr,11,Thomas DAMGAARD,,,,20,Oliver LARSEN
+94,748643,41.07,,MTH,Skud på stolpe,PL,21,Marcus MIDTGAARD,Retur,0,,16,Sander HEIEREN
+95,748643,41.25,,TTH,Udvisning,,4,Christoffer CICHOSZ,,,,,
+96,748643,41.39,,MTH,Skud blokeret,PL,10,Mads Svane KNUDSEN,Blok af (ret),7,William AAR,,
+97,748643,41.50,22-22,MTH,Mål,ST,15,Henrik Toft HANSEN,Assist,10,Mads Svane KNUDSEN,16,Sander HEIEREN
+98,748643,42.28,22-23,TTH,Mål,VF,6,Frederik BJERRE,Assist,11,Thomas DAMGAARD,20,Oliver LARSEN
+99,748643,42.56,23-23,MTH,Mål,VB,10,Mads Svane KNUDSEN,,,,1,Rasmus HENRIKSEN
+100,748643,43.33,,TTH,Tilkendt straffe,,7,William AAR,Forårs. str.,21,Marcus MIDTGAARD,,
+101,748643,43.37,23-24,TTH,Mål på straffe,,6,Frederik BJERRE,,,,30,Svend RUGHAVE
+102,748643,44.14,24-24,MTH,Mål,Gbr,10,Mads Svane KNUDSEN,,,,1,Rasmus HENRIKSEN
+103,748643,44.47,,TTH,Skud reddet,Gbr,11,Thomas DAMGAARD,,,,20,Oliver LARSEN
+104,748643,44.54,25-24,MTH,Mål,,,,,,,,
+105,748643,45.11,,TTH,Regelfejl,,28,Kevin GULLIKSEN,,,,,
+106,748643,45.53,,MTH,Skud forbi,ST,4,Kasper LINDGREN,,,,1,Rasmus HENRIKSEN
+107,748643,46.05,,TTH,Regelfejl,,4,Christoffer CICHOSZ,,,,,
+108,748643,46.12,26-24,MTH,Mål,1:e,23,Henrik TILSTED,Assist,10,Mads Svane KNUDSEN,1,Rasmus HENRIKSEN
+109,748643,46.19,,TTH,Time out,,,,,,,,
+110,748643,46.42,,TTH,Regelfejl,,7,William AAR,,,,,
+111,748643,47.22,,MTH,Skud blokeret,PL,10,Mads Svane KNUDSEN,Blok af (ret),25,Jonas PORUP,,
+112,748643,47.36,,MTH,Tabt bold,,7,Nichlas HALD,,,,,
+113,748643,47.59,26-25,TTH,Mål,VB,7,William AAR,,,,20,Oliver LARSEN
+114,748643,48.45,27-25,MTH,Mål,Gbr,9,Kristoffer VESTERGAARD,,,,1,Rasmus HENRIKSEN
+115,748643,48.58,,,Video Proof,,0,,,,,,
+116,748643,48.58,,,Video Proof slut,,0,,,,,,
+117,748643,49.01,,TTH,Udvisning,,7,William AAR,,,,,
+118,748643,49.01,,MTH,Udvisning,,9,Kristoffer VESTERGAARD,,,,,
+119,748643,49.08,27-26,TTH,Mål,ST,22,Nikolaj MARKUSSEN,,,,20,Oliver LARSEN
+120,748643,49.24,28-26,MTH,Mål,VF,23,Henrik TILSTED,Assist,7,Nichlas HALD,1,Rasmus HENRIKSEN
+121,748643,50.01,,TTH,Skud reddet,Gbr,18,Edwin ASPENBÄCK,,,,20,Oliver LARSEN
+122,748643,50.35,29-26,MTH,Mål,Gbr,21,Marcus MIDTGAARD,Assist,7,Nichlas HALD,1,Rasmus HENRIKSEN
+123,748643,50.57,29-27,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,22,Nikolaj MARKUSSEN,20,Oliver LARSEN
+124,748643,51.26,30-27,MTH,Mål,Gbr,7,Nichlas HALD,,,,1,Rasmus HENRIKSEN
+125,748643,51.57,30-28,TTH,Mål,PL,22,Nikolaj MARKUSSEN,,,,20,Oliver LARSEN
+126,748643,52.27,,MTH,Skud reddet,Gbr,28,Rasmus MADSEN,,,,16,Sander HEIEREN
+127,748643,52.32,30-29,TTH,Mål,1:e,4,Christoffer CICHOSZ,Assist,6,Frederik BJERRE,20,Oliver LARSEN
+128,748643,53.42,31-29,MTH,Mål,PL,7,Nichlas HALD,,,,16,Sander HEIEREN
+129,748643,54.01,31-30,TTH,Mål,ST,4,Christoffer CICHOSZ,,,,20,Oliver LARSEN
+130,748643,54.07,,MTH,Time out,,,,,,,,
+131,748643,54.51,,MTH,Tilkendt straffe,,15,Henrik Toft HANSEN,Forårs. str.,25,Jonas PORUP,,
+132,748643,54.56,32-30,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,16,Sander HEIEREN
+133,748643,55.32,32-31,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,,,,30,Svend RUGHAVE
+134,748643,56.23,33-31,MTH,Mål,PL,7,Nichlas HALD,,,,16,Sander HEIEREN
+135,748643,56.55,,TTH,Skud reddet,HF,28,Kevin GULLIKSEN,,,,30,Svend RUGHAVE
+136,748643,57.40,,MTH,Skud på stolpe,PL,7,Nichlas HALD,,,,16,Sander HEIEREN
+137,748643,58.01,33-32,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,30,Svend RUGHAVE
+138,748643,58.08,34-32,MTH,Mål,2:e,15,Henrik Toft HANSEN,,,,0,
+139,748643,58.37,,TTH,Time out,,,,,,,,
+140,748643,58.48,34-33,TTH,Mål,PL,22,Nikolaj MARKUSSEN,,,,30,Svend RUGHAVE
+141,748643,59.15,,MTH,Skud reddet,VB,7,Nichlas HALD,,,,16,Sander HEIEREN
+142,748643,59.51,,MTH,Udvisning,,23,Henrik TILSTED,,,,,
+143,748643,59.56,34-34,TTH,Mål,HB,18,Edwin ASPENBÄCK,,,,30,Svend RUGHAVE
+144,748643,59.56,,MTH,Time out,,,,,,,,
+145,748643,60.00,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,,,,,
+146,748643,60.00,34-34,,Fuld tid,,,,,,,,
+147,748643,60.00,,,Kamp slut,,,,,,,,

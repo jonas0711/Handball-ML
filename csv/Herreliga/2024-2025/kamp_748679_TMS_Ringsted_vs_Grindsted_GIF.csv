@@ -1,0 +1,130 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748679,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748679,0.46,,GIF,Skud reddet,HB,4,Frederik NIELSEN,,,,16,Andreas HAAGEN
+3,748679,1.20,,TMS,Fejlaflevering,,19,Benjamin HALLGREN,Bold erobret,17,Kristian Krag ØRSTED,,
+4,748679,2.00,0-1,GIF,Mål,PL,21,Kristoffer VESTERGAARD,,,,16,Andreas HAAGEN
+5,748679,2.47,1-1,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,16,Christian WETCHE
+6,748679,3.21,1-2,GIF,Mål,Gbr,23,Bjarke NYBO,Assist,21,Kristoffer VESTERGAARD,16,Andreas HAAGEN
+7,748679,3.58,,GIF,Advarsel,,11,Kristoffer JESSEN,,,,,
+8,748679,4.17,,TMS,Regelfejl,,7,Christoffer DREYER,,,,,
+9,748679,4.26,,TMS,Advarsel,,19,Benjamin HALLGREN,,,,,
+10,748679,4.56,1-3,GIF,Mål,PL,21,Kristoffer VESTERGAARD,,,,16,Andreas HAAGEN
+11,748679,5.05,,TMS,Fejlaflevering,,19,Benjamin HALLGREN,Bold erobret,20,Frederik IVERSEN,,
+12,748679,5.44,1-4,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,21,Kristoffer VESTERGAARD,16,Andreas HAAGEN
+13,748679,6.01,2-4,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,16,Christian WETCHE
+14,748679,6.34,,GIF,Fejlaflevering,,21,Kristoffer VESTERGAARD,Bold erobret,19,Benjamin HALLGREN,,
+15,748679,6.42,,TMS,Skud på stolpe,1:e,19,Benjamin HALLGREN,,,,0,
+16,748679,7.10,,GIF,Fejlaflevering,,21,Kristoffer VESTERGAARD,Bold erobret,22,Axel ANDERSSON,,
+17,748679,7.16,,TMS,Skud forbi,1:e,7,Christoffer DREYER,,,,16,Christian WETCHE
+18,748679,7.48,2-5,GIF,Mål,HF,3,Thomas THEILGAARD,Assist,21,Kristoffer VESTERGAARD,16,Andreas HAAGEN
+19,748679,9.10,3-5,TMS,Mål,PL,7,Christoffer DREYER,,,,16,Christian WETCHE
+20,748679,10.05,,GIF,Skud blokeret,PL,21,Kristoffer VESTERGAARD,Blokeret af,7,Christoffer DREYER,,
+21,748679,10.16,,TMS,Skud reddet,VB,10,Frederik HORN,Retur,0,,16,Christian WETCHE
+22,748679,10.32,4-5,TMS,Mål,ST,24,Simon OOMS,Assist,7,Christoffer DREYER,16,Christian WETCHE
+23,748679,11.07,4-6,GIF,Mål,HF,3,Thomas THEILGAARD,Assist,23,Bjarke NYBO,16,Andreas HAAGEN
+24,748679,11.39,,TMS,Skud forbi,VF,22,Axel ANDERSSON,,,,16,Christian WETCHE
+25,748679,12.13,,GIF,Skud reddet,Gbr,4,Frederik NIELSEN,,,,16,Andreas HAAGEN
+26,748679,12.19,5-6,TMS,Mål,1:e,24,Simon OOMS,,,,0,
+27,748679,12.44,5-7,GIF,Mål,ST,22,Hjalmar ANDERSEN,Assist,4,Frederik NIELSEN,16,Andreas HAAGEN
+28,748679,13.20,,TMS,Skud reddet,Gbr,19,Benjamin HALLGREN,,,,16,Christian WETCHE
+29,748679,13.55,5-8,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,16,Andreas HAAGEN
+30,748679,14.07,6-8,TMS,Mål,VF,22,Axel ANDERSSON,Assist,10,Frederik HORN,16,Christian WETCHE
+31,748679,14.52,6-9,GIF,Mål,HB,21,Kristoffer VESTERGAARD,,,,16,Andreas HAAGEN
+32,748679,15.33,,TMS,Skud på stolpe,PL,10,Frederik HORN,,,,16,Christian WETCHE
+33,748679,16.05,6-10,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,16,Andreas HAAGEN
+34,748679,16.13,,TMS,Time out,,,,,,,,
+35,748679,16.32,7-10,TMS,Mål,ST,25,Anders AGGER,Assist,19,Benjamin HALLGREN,16,Christian WETCHE
+36,748679,16.40,,GIF,Skud reddet,2:e,11,Kristoffer JESSEN,,,,16,Andreas HAAGEN
+37,748679,17.09,,TMS,Skud reddet,ST,25,Anders AGGER,Retur,0,,16,Christian WETCHE
+38,748679,17.40,8-10,TMS,Mål,PL,5,Mark NIKOLAJSEN,,,,16,Christian WETCHE
+39,748679,18.09,,GIF,Skud reddet,VB,23,Bjarke NYBO,,,,16,Andreas HAAGEN
+40,748679,18.46,9-10,TMS,Mål,VF,22,Axel ANDERSSON,Assist,17,Oliver WOSNIAK,16,Christian WETCHE
+41,748679,19.38,,GIF,Tabt bold,,4,Frederik NIELSEN,Bold erobret,44,Tobias TOMBAK,,
+42,748679,19.43,10-10,TMS,Mål,1:e,81,Tobias NIELSEN,,,,0,
+43,748679,20.18,,GIF,Skud forbi,Gbr,23,Bjarke NYBO,,,,16,Andreas HAAGEN
+44,748679,21.26,,TMS,Skud reddet,PL,17,Oliver WOSNIAK,,,,16,Christian WETCHE
+45,748679,21.55,,GIF,Skud reddet,Gbr,4,Frederik NIELSEN,,,,16,Andreas HAAGEN
+46,748679,22.44,11-10,TMS,Mål,ST,24,Simon OOMS,Assist,19,Benjamin HALLGREN,16,Christian WETCHE
+47,748679,23.30,,GIF,Skud forbi,PL,21,Kristoffer VESTERGAARD,,,,16,Andreas HAAGEN
+48,748679,23.59,,TMS,Fejlaflevering,,5,Mark NIKOLAJSEN,,,,,
+49,748679,24.07,,GIF,Time out,,,,,,,,
+50,748679,24.30,11-11,GIF,Mål,ST,22,Hjalmar ANDERSEN,,,,16,Andreas HAAGEN
+51,748679,25.10,12-11,TMS,Mål,Gbr,17,Oliver WOSNIAK,,,,16,Christian WETCHE
+52,748679,25.19,,GIF,Tilkendt straffe,,4,Frederik NIELSEN,Forårs. str.,24,Simon OOMS,,
+53,748679,25.19,,TMS,Udvisning,,24,Simon OOMS,,,,,
+54,748679,25.19,12-12,GIF,Mål på straffe,,20,Frederik IVERSEN,,,,16,Andreas HAAGEN
+55,748679,26.07,,TMS,Skud reddet,PL,17,Oliver WOSNIAK,,,,16,Christian WETCHE
+56,748679,26.32,12-13,GIF,Mål,Gbr,21,Kristoffer VESTERGAARD,,,,16,Andreas HAAGEN
+57,748679,27.15,13-13,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,16,Christian WETCHE
+58,748679,27.15,,GIF,Udvisning,,4,Frederik NIELSEN,,,,,
+59,748679,27.25,13-14,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,21,Kristoffer VESTERGAARD,16,Andreas HAAGEN
+60,748679,27.51,,TMS,Skud reddet,Gbr,19,Benjamin HALLGREN,,,,16,Christian WETCHE
+61,748679,28.51,13-15,GIF,Mål,PL,23,Bjarke NYBO,,,,16,Andreas HAAGEN
+62,748679,29.15,14-15,TMS,Mål,ST,24,Simon OOMS,Assist,19,Benjamin HALLGREN,16,Christian WETCHE
+63,748679,29.58,,GIF,Skud reddet,VB,23,Bjarke NYBO,,,,16,Andreas HAAGEN
+64,748679,30.00,14-15,,Halvleg,,,,,,,,
+65,748679,30.00,,,Start 2:e halvleg,,,,,,,,
+66,748679,30.32,,TMS,Fejlaflevering,,19,Benjamin HALLGREN,Bold erobret,20,Frederik IVERSEN,,
+67,748679,31.23,14-16,GIF,Mål,PL,21,Kristoffer VESTERGAARD,,,,16,Andreas HAAGEN
+68,748679,32.20,,TMS,Tilkendt straffe,,19,Benjamin HALLGREN,Forårs. str.,20,Frederik IVERSEN,,
+69,748679,32.41,15-16,TMS,Mål på straffe,,81,Tobias NIELSEN,,,,16,Christian WETCHE
+70,748679,33.07,15-17,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,16,Andreas HAAGEN
+71,748679,33.35,16-17,TMS,Mål,ST,25,Anders AGGER,Assist,17,Oliver WOSNIAK,16,Christian WETCHE
+72,748679,34.22,16-18,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,16,Andreas HAAGEN
+73,748679,34.34,17-18,TMS,Mål,ST,25,Anders AGGER,Assist,17,Oliver WOSNIAK,16,Christian WETCHE
+74,748679,34.49,,GIF,Skud reddet,PL,21,Kristoffer VESTERGAARD,Retur,17,Kristian Krag ØRSTED,16,Andreas HAAGEN
+75,748679,34.55,17-19,GIF,Mål,ST,17,Kristian Krag ØRSTED,,,,16,Andreas HAAGEN
+76,748679,35.36,,TMS,Fejlaflevering,,17,Oliver WOSNIAK,,,,,
+77,748679,36.37,17-20,GIF,Mål,VF,20,Frederik IVERSEN,Assist,21,Kristoffer VESTERGAARD,16,Andreas HAAGEN
+78,748679,36.48,18-20,TMS,Mål,Gbr,17,Oliver WOSNIAK,,,,16,Christian WETCHE
+79,748679,36.57,18-21,GIF,Mål,2:e,11,Kristoffer JESSEN,,,,16,Andreas HAAGEN
+80,748679,37.27,,TMS,Tabt bold,,19,Benjamin HALLGREN,Bold erobret,11,Kristoffer JESSEN,,
+81,748679,37.57,,GIF,Tabt bold,,21,Kristoffer VESTERGAARD,Bold erobret,25,Anders AGGER,,
+82,748679,38.04,19-21,TMS,Mål,1:e,81,Tobias NIELSEN,,,,16,Christian WETCHE
+83,748679,38.35,,GIF,Skud reddet,VB,23,Bjarke NYBO,Retur,0,,16,Andreas HAAGEN
+84,748679,38.57,,GIF,Skud på stolpe,Gbr,5,Daniel JØRGENSEN,,,,16,Andreas HAAGEN
+85,748679,39.38,,TMS,Tilkendt straffe,,17,Oliver WOSNIAK,Forårs. str.,7,Jakob VILLEMOES,,
+86,748679,39.59,20-21,TMS,Mål på straffe,,81,Tobias NIELSEN,,,,16,Christian WETCHE
+87,748679,40.30,,GIF,Fejlaflevering,,21,Kristoffer VESTERGAARD,Bold erobret,16,Andreas HAAGEN,,
+88,748679,40.38,21-21,TMS,Mål,1:e,81,Tobias NIELSEN,Assist,,,16,Andreas HAAGEN
+89,748679,40.42,,GIF,Time out,,,,,,,,
+90,748679,41.10,21-22,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,16,Andreas HAAGEN
+91,748679,41.31,,TMS,Tilkendt straffe,,19,Benjamin HALLGREN,Forårs. str.,11,Kristoffer JESSEN,,
+92,748679,41.31,,GIF,Udvisning,,11,Kristoffer JESSEN,,,,,
+93,748679,41.31,22-22,TMS,Mål på straffe,,81,Tobias NIELSEN,,,,1,Frederik SKOVGAARD
+94,748679,42.30,,GIF,Skud blokeret,HB,21,Kristoffer VESTERGAARD,Blok af (ret),7,Christoffer DREYER,,
+95,748679,42.39,,GIF,Fejlaflevering,,7,Jakob VILLEMOES,,,,,
+96,748679,43.06,23-22,TMS,Mål,ST,24,Simon OOMS,Assist,17,Oliver WOSNIAK,16,Christian WETCHE
+97,748679,44.10,23-23,GIF,Mål,ST,22,Hjalmar ANDERSEN,Assist,21,Kristoffer VESTERGAARD,16,Andreas HAAGEN
+98,748679,44.46,,TMS,Skud på stolpe,Gbr,7,Christoffer DREYER,,,,16,Christian WETCHE
+99,748679,45.21,23-24,GIF,Mål,HB,21,Kristoffer VESTERGAARD,,,,16,Andreas HAAGEN
+100,748679,46.09,,TMS,Skud blokeret,HB,19,Benjamin HALLGREN,Blok af (ret),17,Kristian Krag ØRSTED,,
+101,748679,46.18,24-24,TMS,Mål,PL,7,Christoffer DREYER,,,,16,Christian WETCHE
+102,748679,47.37,,GIF,Skud blokeret,PL,21,Kristoffer VESTERGAARD,Blokeret af,24,Simon OOMS,,
+103,748679,48.07,25-24,TMS,Mål,PL,5,Mark NIKOLAJSEN,,,,1,Frederik SKOVGAARD
+104,748679,49.43,,TMS,Skud blokeret,PL,5,Mark NIKOLAJSEN,Blok af (ret),17,Kristian Krag ØRSTED,,
+105,748679,49.59,26-24,TMS,Mål,HF,81,Tobias NIELSEN,Assist,19,Benjamin HALLGREN,1,Frederik SKOVGAARD
+106,748679,50.14,,GIF,Time out,,,,,,,,
+107,748679,50.37,,GIF,Fejlaflevering,,21,Kristoffer VESTERGAARD,,,,,
+108,748679,51.31,27-24,TMS,Mål,PL,5,Mark NIKOLAJSEN,,,,16,Christian WETCHE
+109,748679,52.21,,GIF,Skud reddet,ST,22,Hjalmar ANDERSEN,,,,29,Rasmus LARSEN
+110,748679,52.58,28-24,TMS,Mål,VF,22,Axel ANDERSSON,Assist,19,Benjamin HALLGREN,16,Christian WETCHE
+111,748679,53.39,28-25,GIF,Mål,ST,9,Nicklas Bjørn VASSVIK,Assist,21,Kristoffer VESTERGAARD,29,Rasmus LARSEN
+112,748679,54.16,29-25,TMS,Mål,ST,25,Anders AGGER,Assist,19,Benjamin HALLGREN,16,Christian WETCHE
+113,748679,54.27,,GIF,Skud reddet,PL,11,Kristoffer JESSEN,,,,29,Rasmus LARSEN
+114,748679,55.04,,GIF,Udvisning,,8,Rolf RAVN,,,,,
+115,748679,55.16,30-25,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,16,Christian WETCHE
+116,748679,55.56,,GIF,Tilkendt straffe,,23,Bjarke NYBO,Forårs. str.,44,Tobias TOMBAK,,
+117,748679,55.56,,TMS,Udvisning,,44,Tobias TOMBAK,,,,,
+118,748679,55.56,,GIF,Straffekast reddet,,20,Frederik IVERSEN,Retur,0,Andreas HAAGEN,,
+119,748679,56.25,30-26,GIF,Mål,Gbr,4,Frederik NIELSEN,Assist,21,Kristoffer VESTERGAARD,16,Andreas HAAGEN
+120,748679,56.54,,TMS,Skud reddet,PL,19,Benjamin HALLGREN,,,,16,Christian WETCHE
+121,748679,57.05,,GIF,Skud blokeret,1:e,4,Frederik NIELSEN,Blokeret af,17,Oliver WOSNIAK,,
+122,748679,57.43,,GIF,Udvisning,,17,Kristian Krag ØRSTED,,,,,
+123,748679,57.58,31-26,TMS,Mål,ST,7,Christoffer DREYER,Assist,17,Oliver WOSNIAK,16,Christian WETCHE
+124,748679,58.27,,GIF,Fejlaflevering,,4,Frederik NIELSEN,Bold erobret,81,Tobias NIELSEN,,
+125,748679,58.31,32-26,TMS,Mål,1:e,81,Tobias NIELSEN,,,,,
+126,748679,59.22,,GIF,Skud på stolpe,PL,23,Bjarke NYBO,Retur,4,Frederik NIELSEN,29,Rasmus LARSEN
+127,748679,59.28,,GIF,Skud reddet,ST,4,Frederik NIELSEN,,,,29,Rasmus LARSEN
+128,748679,59.44,33-26,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,16,Christian WETCHE
+129,748679,60.00,,GIF,Skud reddet,PL,4,Frederik NIELSEN,,,,29,Rasmus LARSEN

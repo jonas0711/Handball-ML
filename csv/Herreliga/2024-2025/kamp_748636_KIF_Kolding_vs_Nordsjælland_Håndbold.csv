@@ -1,0 +1,134 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748636,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748636,0.40,1-0,KIF,Mål,VF,4,Lars SKAARUP,Assist,21,Kristian STOKLUND,16,Magnus PETERSEN
+3,748636,1.31,,NSH,Fejlaflevering,,7,Leo MARTINÉZ,Bold erobret,29,Viktor NEVERS,,
+4,748636,1.34,2-0,KIF,Mål,1:e,18,Benjamin PEDERSEN,Assist,29,Viktor NEVERS,16,Magnus PETERSEN
+5,748636,2.18,,KIF,Udvisning,,13,Mathias HEDEGAARD,,,,,
+6,748636,2.46,,NSH,Fejlaflevering,,7,Leo MARTINÉZ,Bold erobret,28,Lauritz LEGÉR,,
+7,748636,3.16,3-0,KIF,Mål,PL,28,Lauritz LEGÉR,,,,16,Magnus PETERSEN
+8,748636,3.47,,NSH,Fejlaflevering,,7,Leo MARTINÉZ,Bold erobret,28,Lauritz LEGÉR,,
+9,748636,3.51,4-0,KIF,Mål,1:e,28,Lauritz LEGÉR,Assist,29,Viktor NEVERS,16,Magnus PETERSEN
+10,748636,4.10,,NSH,Fejlaflevering,,42,Matias CAMPBELL,,,,,
+11,748636,4.44,,KIF,Skud blokeret,PL,5,Oliver NORLYK,Blok af (ret),42,Matias CAMPBELL,,
+12,748636,5.17,5-0,KIF,Mål,VF,4,Lars SKAARUP,Assist,28,Lauritz LEGÉR,16,Magnus PETERSEN
+13,748636,5.55,,NSH,Fejlaflevering,,13,Gustav BRUUN,,,,,
+14,748636,5.59,6-0,KIF,Mål,1:e,29,Viktor NEVERS,Assist,28,Lauritz LEGÉR,16,Magnus PETERSEN
+15,748636,6.02,,NSH,Time out,,,,,,,,
+16,748636,6.27,6-1,NSH,Mål,Gbr,57,Nikolaj LARSSON,,,,1,Emil TELLERUP
+17,748636,6.38,7-1,KIF,Mål,2:e,5,Oliver NORLYK,Assist,28,Lauritz LEGÉR,16,Magnus PETERSEN
+18,748636,6.53,7-2,NSH,Mål,PL,19,Thomas BOILESEN,,,,1,Emil TELLERUP
+19,748636,7.07,,KIF,Skud på stolpe,VF,4,Lars SKAARUP,,,,16,Magnus PETERSEN
+20,748636,7.44,7-3,NSH,Mål,Gbr,57,Nikolaj LARSSON,Assist,79,Oliver KLARSKOV,1,Emil TELLERUP
+21,748636,8.23,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,,,,,
+22,748636,9.10,,NSH,Skud reddet,VB,19,Thomas BOILESEN,Retur,0,,1,Emil TELLERUP
+23,748636,9.30,7-4,NSH,Mål,ST,5,Julius MØRCH,Assist,19,Thomas BOILESEN,1,Emil TELLERUP
+24,748636,9.36,8-4,KIF,Mål,2:e,28,Lauritz LEGÉR,Assist,5,Oliver NORLYK,29,Jimmi ANDERSEN
+25,748636,10.26,8-5,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,19,Thomas BOILESEN,1,Emil TELLERUP
+26,748636,10.59,9-5,KIF,Mål,ST,18,Benjamin PEDERSEN,Assist,5,Oliver NORLYK,29,Jimmi ANDERSEN
+27,748636,11.08,,NSH,Udvisning,,5,Julius MØRCH,,,,,
+28,748636,11.27,9-6,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,19,Thomas BOILESEN,16,Josip CAVAR
+29,748636,11.50,,KIF,Regelfejl,,17,Tobias ELLEBÆK,,,,,
+30,748636,12.40,,NSH,Regelfejl,,3,Carl-Emil HAUNSTRUP,,,,,
+31,748636,12.56,,KIF,Skud reddet,ST,13,Mathias HEDEGAARD,,,,29,Jimmi ANDERSEN
+32,748636,13.33,,NSH,Skud reddet,PL,19,Thomas BOILESEN,Retur,0,,16,Josip CAVAR
+33,748636,13.58,,NSH,Regelfejl,,79,Oliver KLARSKOV,,,,,
+34,748636,14.01,10-6,KIF,Mål,1:e,18,Benjamin PEDERSEN,Assist,15,Jens SVANE,29,Jimmi ANDERSEN
+35,748636,14.33,,KIF,Udvisning,,2,Mads KRAGH THOMSEN,,,,,
+36,748636,14.57,,NSH,Skud reddet,PL,19,Thomas BOILESEN,,,,16,Josip CAVAR
+37,748636,15.33,,KIF,Fejlaflevering,,24,Diogo SILVA,,,,,
+38,748636,15.44,,NSH,Skud blokeret,VB,19,Thomas BOILESEN,Blok af (ret),13,Mathias HEDEGAARD,,
+39,748636,15.59,10-7,NSH,Mål,ST,21,Tim RANTALA,Assist,42,Matias CAMPBELL,16,Josip CAVAR
+40,748636,16.42,,KIF,Skud på stolpe,PL,17,Tobias ELLEBÆK,,,,29,Jimmi ANDERSEN
+41,748636,17.32,,NSH,Tilkendt straffe,,21,Tim RANTALA,Forårs. str.,17,Tobias ELLEBÆK,,
+42,748636,17.48,10-8,NSH,Mål på straffe,,3,Carl-Emil HAUNSTRUP,,,,16,Josip CAVAR
+43,748636,18.26,,KIF,Tabt bold,,4,Lars SKAARUP,,,,,
+44,748636,18.37,10-9,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,17,Assar KAMMENHED,16,Josip CAVAR
+45,748636,18.49,,KIF,Time out,,,,,,,,
+46,748636,19.08,,KIF,Regelfejl,,28,Lauritz LEGÉR,,,,,
+47,748636,19.17,10-10,NSH,Mål,2:e,13,Gustav BRUUN,,,,16,Josip CAVAR
+48,748636,19.42,11-10,KIF,Mål,Gbr,17,Tobias ELLEBÆK,,,,29,Jimmi ANDERSEN
+49,748636,20.30,,NSH,Fejlaflevering,,79,Oliver KLARSKOV,Bold erobret,4,Lars SKAARUP,,
+50,748636,20.32,12-10,KIF,Mål,1:e,4,Lars SKAARUP,,,,0,
+51,748636,20.53,12-11,NSH,Mål,Gbr,17,Assar KAMMENHED,,,,16,Josip CAVAR
+52,748636,21.22,,KIF,Skud reddet,VF,4,Lars SKAARUP,,,,29,Jimmi ANDERSEN
+53,748636,22.01,12-12,NSH,Mål,Gbr,17,Assar KAMMENHED,,,,16,Josip CAVAR
+54,748636,22.08,13-12,KIF,Mål,1:e,5,Oliver NORLYK,,,,0,
+55,748636,22.48,13-13,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,42,Matias CAMPBELL,16,Josip CAVAR
+56,748636,22.54,14-13,KIF,Mål,2:e,5,Oliver NORLYK,Assist,18,Benjamin PEDERSEN,,
+57,748636,23.42,,NSH,Skud på stolpe,PL,42,Matias CAMPBELL,,,,16,Josip CAVAR
+58,748636,23.46,15-13,KIF,Mål,PL,16,Josip CAVAR,,,,,
+59,748636,24.26,,NSH,Skud reddet,HF,3,Carl-Emil HAUNSTRUP,,,,16,Josip CAVAR
+60,748636,25.04,,KIF,Skud reddet,Gbr,21,Kristian STOKLUND,,,,29,Jimmi ANDERSEN
+61,748636,25.51,,NSH,Fejlaflevering,,79,Oliver KLARSKOV,,,,,
+62,748636,26.31,,KIF,Skud på stolpe,PL,28,Lauritz LEGÉR,,,,29,Jimmi ANDERSEN
+63,748636,27.18,,KIF,Udvisning,,2,Mads KRAGH THOMSEN,,,,,
+64,748636,27.55,15-14,NSH,Mål,ST,21,Tim RANTALA,Assist,42,Matias CAMPBELL,16,Josip CAVAR
+65,748636,28.28,,KIF,Fejlaflevering,,21,Kristian STOKLUND,Bold erobret,17,Assar KAMMENHED,,
+66,748636,28.34,15-15,NSH,Mål,1:e,42,Matias CAMPBELL,,,,,
+67,748636,29.20,,KIF,Fejlaflevering,,5,Oliver NORLYK,Bold erobret,14,Rasmus MADSBØLL,,
+68,748636,29.29,15-16,NSH,Mål,1:e,3,Carl-Emil HAUNSTRUP,Assist,42,Matias CAMPBELL,16,Josip CAVAR
+69,748636,29.58,,KIF,Skud reddet,HB,5,Oliver NORLYK,,,,29,Jimmi ANDERSEN
+70,748636,30.00,15-16,,Halvleg,,,,,,,,
+71,748636,30.00,,,Start 2:e halvleg,,,,,,,,
+72,748636,30.28,15-17,NSH,Mål,VB,13,Gustav BRUUN,,,,1,Emil TELLERUP
+73,748636,31.30,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,,,,,
+74,748636,31.35,15-18,NSH,Mål,1:e,14,Rasmus MADSBØLL,Assist,42,Matias CAMPBELL,1,Emil TELLERUP
+75,748636,32.07,16-18,KIF,Mål,HF,29,Viktor NEVERS,Assist,17,Tobias ELLEBÆK,29,Jimmi ANDERSEN
+76,748636,32.38,,NSH,Regelfejl,,13,Gustav BRUUN,,,,,
+77,748636,33.06,17-18,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,17,Tobias ELLEBÆK,29,Jimmi ANDERSEN
+78,748636,33.37,,KIF,Udvisning,,13,Mathias HEDEGAARD,,,,,
+79,748636,34.14,17-19,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,13,Gustav BRUUN,1,Emil TELLERUP
+80,748636,35.08,,KIF,Skud på stolpe,ST,18,Benjamin PEDERSEN,,,,29,Jimmi ANDERSEN
+81,748636,35.33,17-20,NSH,Mål,Gbr,13,Gustav BRUUN,Assist,42,Matias CAMPBELL,1,Emil TELLERUP
+82,748636,36.03,18-20,KIF,Mål,Gbr,17,Tobias ELLEBÆK,,,,29,Jimmi ANDERSEN
+83,748636,36.54,18-21,NSH,Mål,Gbr,13,Gustav BRUUN,,,,1,Emil TELLERUP
+84,748636,37.32,,KIF,Regelfejl,,17,Tobias ELLEBÆK,,,,,
+85,748636,38.16,18-22,NSH,Mål,Gbr,13,Gustav BRUUN,,,,16,Josip CAVAR
+86,748636,38.24,,KIF,Skud reddet,Gbr,21,Kristian STOKLUND,,,,29,Jimmi ANDERSEN
+87,748636,38.34,,NSH,Regelfejl,,42,Matias CAMPBELL,,,,,
+88,748636,38.42,,KIF,Fejlaflevering,,16,Josip CAVAR,,,,,
+89,748636,39.08,,NSH,Fejlaflevering,,79,Oliver KLARSKOV,,,,,
+90,748636,39.35,,KIF,Regelfejl,,29,Viktor NEVERS,,,,,
+91,748636,40.28,,NSH,Skud på stolpe,HB,57,Nikolaj LARSSON,,,,16,Josip CAVAR
+92,748636,41.05,19-22,KIF,Mål,Gbr,5,Oliver NORLYK,Assist,21,Kristian STOKLUND,29,Jimmi ANDERSEN
+93,748636,41.49,,NSH,Skud reddet,ST,79,Oliver KLARSKOV,,,,16,Josip CAVAR
+94,748636,41.56,,KIF,Tilkendt straffe,,17,Tobias ELLEBÆK,Forårs. str.,11,Jonas RAUNDAHL,,
+95,748636,41.56,,NSH,Udvisning,,11,Jonas RAUNDAHL,,,,,
+96,748636,42.00,20-22,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,29,Jimmi ANDERSEN
+97,748636,42.43,20-23,NSH,Mål,ST,21,Tim RANTALA,Assist,57,Nikolaj LARSSON,16,Josip CAVAR
+98,748636,43.09,21-23,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,5,Oliver NORLYK,29,Jimmi ANDERSEN
+99,748636,44.01,,NSH,Skud reddet,PL,13,Gustav BRUUN,Retur,0,,16,Josip CAVAR
+100,748636,44.37,,NSH,Skud reddet,PL,57,Nikolaj LARSSON,,,,16,Josip CAVAR
+101,748636,45.30,,KIF,Skud reddet,Gbr,28,Lauritz LEGÉR,,,,29,Jimmi ANDERSEN
+102,748636,46.05,,NSH,Skud reddet,PL,19,Thomas BOILESEN,,,,16,Josip CAVAR
+103,748636,46.14,,KIF,Time out,,,,,,,,
+104,748636,46.29,,,,,,,,,,,
+105,748636,47.02,21-24,NSH,Mål,,19,Thomas BOILESEN,,,,16,Josip CAVAR
+106,748636,47.43,22-24,KIF,Mål,Gbr,28,Lauritz LEGÉR,,,,29,Jimmi ANDERSEN
+107,748636,48.32,,NSH,Skud reddet,PL,19,Thomas BOILESEN,,,,16,Josip CAVAR
+108,748636,49.04,23-24,KIF,Mål,VF,4,Lars SKAARUP,Assist,28,Lauritz LEGÉR,29,Jimmi ANDERSEN
+109,748636,49.50,,NSH,Fejlaflevering,,79,Oliver KLARSKOV,Bold erobret,13,Mathias HEDEGAARD,,
+110,748636,49.50,,NSH,Udvisning,,11,Jonas RAUNDAHL,,,,,
+111,748636,50.13,24-24,KIF,Mål,PL,17,Tobias ELLEBÆK,,,,29,Jimmi ANDERSEN
+112,748636,50.51,24-25,NSH,Mål,VB,13,Gustav BRUUN,,,,16,Josip CAVAR
+113,748636,51.09,,KIF,Skud forbi,ST,13,Mathias HEDEGAARD,,,,29,Jimmi ANDERSEN
+114,748636,51.45,,NSH,Skud reddet,HF,3,Carl-Emil HAUNSTRUP,,,,16,Josip CAVAR
+115,748636,52.11,25-25,KIF,Mål,VF,4,Lars SKAARUP,Assist,21,Kristian STOKLUND,29,Jimmi ANDERSEN
+116,748636,52.46,,NSH,Skud blokeret,HB,17,Assar KAMMENHED,Blokeret af,2,Mads KRAGH THOMSEN,,
+117,748636,52.53,,NSH,Udvisning,,17,Assar KAMMENHED,,,,,
+118,748636,53.32,26-25,KIF,Mål,HF,29,Viktor NEVERS,Assist,5,Oliver NORLYK,29,Jimmi ANDERSEN
+119,748636,54.14,,NSH,Skud forbi,HF,3,Carl-Emil HAUNSTRUP,,,,16,Josip CAVAR
+120,748636,54.34,,KIF,Fejlaflevering,,17,Tobias ELLEBÆK,,,,,
+121,748636,54.54,,NSH,Time out,,,,,,,,
+122,748636,55.05,,NSH,Fejlaflevering,,79,Oliver KLARSKOV,Bold erobret,29,Viktor NEVERS,,
+123,748636,55.48,27-25,KIF,Mål,Gbr,5,Oliver NORLYK,Assist,21,Kristian STOKLUND,16,Magnus PETERSEN
+124,748636,56.37,,NSH,Skud reddet,PL,79,Oliver KLARSKOV,,,,16,Josip CAVAR
+125,748636,57.16,,KIF,Fejlaflevering,,17,Tobias ELLEBÆK,,,,,
+126,748636,57.21,27-26,NSH,Mål,1:e,42,Matias CAMPBELL,,,,0,
+127,748636,57.45,28-26,KIF,Mål,Gbr,5,Oliver NORLYK,,,,16,Magnus PETERSEN
+128,748636,58.33,28-27,NSH,Mål,PL,42,Matias CAMPBELL,,,,16,Josip CAVAR
+129,748636,59.12,29-27,KIF,Mål,ST,2,Mads KRAGH THOMSEN,Assist,5,Oliver NORLYK,16,Magnus PETERSEN
+130,748636,59.19,,NSH,Time out,,,,,,,,
+131,748636,59.33,29-28,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,42,Matias CAMPBELL,16,Josip CAVAR
+132,748636,59.50,,KIF,Time out,,,,,,,,
+133,748636,59.59,30-28,KIF,Mål,VF,4,Lars SKAARUP,Assist,21,Kristian STOKLUND,16,Magnus PETERSEN

@@ -1,0 +1,128 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748263,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748263,0.44,,HHE,Fejlaflevering,,39,Melanie BAK,Bold erobret,18,Mathilde ØSTERGAARD,,
+3,748263,0.48,0-1,AHB,Mål,1:e,18,Mathilde ØSTERGAARD,,,,16,Andrea AUSTMO
+4,748263,1.29,1-1,HHE,Mål,HB,19,Frida Haug HOEL,,,,86,Sabine ENGLERT
+5,748263,2.10,,AHB,Skud på stolpe,Gbr,14,Anna Berger WIERZBA,Retur,18,Mathilde ØSTERGAARD,16,Andrea AUSTMO
+6,748263,2.39,1-2,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,17,Line Berggren LARSEN,16,Andrea AUSTMO
+7,748263,3.21,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,,,,,
+8,748263,4.07,1-3,AHB,Mål,PL,17,Line Berggren LARSEN,,,,16,Andrea AUSTMO
+9,748263,4.54,2-3,HHE,Mål,PL,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+10,748263,5.41,2-4,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,14,Anna Berger WIERZBA,16,Andrea AUSTMO
+11,748263,6.17,,HHE,Skud reddet,HF,22,Sille Cecilie SORTH,,,,86,Sabine ENGLERT
+12,748263,6.27,,AHB,Skud reddet,2:e,18,Mathilde ØSTERGAARD,,,,16,Andrea AUSTMO
+13,748263,6.39,,AHB,Advarsel,,3,Sarah Vest KIRKELØKKE,,,,,
+14,748263,7.01,,HHE,Skud på stolpe,HB,19,Frida Haug HOEL,,,,86,Sabine ENGLERT
+15,748263,7.13,,AHB,Regelfejl,,18,Mathilde ØSTERGAARD,,,,,
+16,748263,7.23,,HHE,Skud på stolpe,2:e,19,Frida Haug HOEL,Retur,39,Melanie BAK,86,Sabine ENGLERT
+17,748263,7.29,3-4,HHE,Mål,Gbr,39,Melanie BAK,,,,86,Sabine ENGLERT
+18,748263,7.58,3-5,AHB,Mål,HB,77,Alberte EBLER,,,,16,Andrea AUSTMO
+19,748263,8.38,,HHE,Regelfejl,,39,Melanie BAK,,,,,
+20,748263,9.19,3-6,AHB,Mål,HF,25,Ida GÖTZSCHE,Assist,77,Alberte EBLER,16,Andrea AUSTMO
+21,748263,9.56,4-6,HHE,Mål,VF,33,Laura Holm ANDERSEN,Assist,7,Maria Palsdottir NÓLSOY,86,Sabine ENGLERT
+22,748263,10.05,,AHB,Regelfejl,,14,Anna Berger WIERZBA,,,,,
+23,748263,10.36,,HHE,Skud reddet,HB,19,Frida Haug HOEL,,,,86,Sabine ENGLERT
+24,748263,10.49,,AHB,Skud reddet,VF,18,Mathilde ØSTERGAARD,,,,16,Andrea AUSTMO
+25,748263,11.32,,HHE,Skud reddet,HB,19,Frida Haug HOEL,,,,86,Sabine ENGLERT
+26,748263,11.44,,AHB,Skud reddet,VF,18,Mathilde ØSTERGAARD,,,,16,Andrea AUSTMO
+27,748263,12.29,,HHE,Fejlaflevering,,19,Frida Haug HOEL,,,,,
+28,748263,12.35,,AHB,Skud på stolpe,1:e,77,Alberte EBLER,,,,16,Andrea AUSTMO
+29,748263,13.20,,HHE,Skud forbi,VF,33,Laura Holm ANDERSEN,,,,86,Sabine ENGLERT
+30,748263,13.46,,AHB,Tilkendt straffe,,18,Mathilde ØSTERGAARD,Forårs. str.,22,Sille Cecilie SORTH,,
+31,748263,13.52,4-7,AHB,Mål på straffe,,15,Sofia DEEN,,,,16,Andrea AUSTMO
+32,748263,14.24,5-7,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+33,748263,14.50,5-8,AHB,Mål,HB,77,Alberte EBLER,,,,16,Andrea AUSTMO
+34,748263,15.20,6-8,HHE,Mål,Gbr,39,Melanie BAK,,,,86,Sabine ENGLERT
+35,748263,15.30,,AHB,Tabt bold,,77,Alberte EBLER,,,,,
+36,748263,15.41,7-8,HHE,Mål,2:e,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+37,748263,16.11,,AHB,Tabt bold,,14,Anna Berger WIERZBA,,,,,
+38,748263,16.40,8-8,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,,,,86,Sabine ENGLERT
+39,748263,16.43,,AHB,Udvisning,,77,Alberte EBLER,,,,,
+40,748263,17.15,,HHE,Advarsel,,21,Romee MAARSCHALKEWEERD,,,,,
+41,748263,17.51,,AHB,Regelfejl,,14,Anna Berger WIERZBA,,,,,
+42,748263,18.00,,HHE,Tabt bold,,33,Laura Holm ANDERSEN,,,,,
+43,748263,18.42,,AHB,Skud reddet,PL,14,Anna Berger WIERZBA,,,,16,Andrea AUSTMO
+44,748263,18.48,9-8,HHE,Mål,1:e,21,Romee MAARSCHALKEWEERD,,,,0,
+45,748263,19.32,9-9,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,17,Line Berggren LARSEN,16,Andrea AUSTMO
+46,748263,20.53,,AHB,Udvisning,,25,Ida GÖTZSCHE,,,,,
+47,748263,21.06,,HHE,Tilkendt straffe,,14,Mai KRAGBALLE,Forårs. str.,77,Alberte EBLER,,
+48,748263,21.13,10-9,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+49,748263,21.46,10-10,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,16,Andrea AUSTMO
+50,748263,22.27,,HHE,Fejlaflevering,,7,Maria Palsdottir NÓLSOY,Bold erobret,18,Mathilde ØSTERGAARD,,
+51,748263,22.56,,AHB,Skud forbi,Gbr,77,Alberte EBLER,,,,16,Andrea AUSTMO
+52,748263,23.48,,HHE,Tilkendt straffe,,14,Mai KRAGBALLE,Forårs. str.,4,Katrine JACOBSEN,,
+53,748263,23.48,,AHB,Udvisning,,4,Katrine JACOBSEN,,,,,
+54,748263,23.51,11-10,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+55,748263,24.44,,AHB,Regelfejl,,17,Line Berggren LARSEN,,,,,
+56,748263,25.07,,HHE,Skud forbi,HF,22,Sille Cecilie SORTH,,,,86,Sabine ENGLERT
+57,748263,25.39,,AHB,Skud reddet,PL,77,Alberte EBLER,,,,16,Andrea AUSTMO
+58,748263,25.52,12-10,HHE,Mål,2:e,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+59,748263,26.02,,AHB,Time out,,,,,,,,
+60,748263,26.39,,AHB,Tabt bold,,14,Anna Berger WIERZBA,Bold erobret,20,Ditte TOKKESDAL,,
+61,748263,27.35,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,Bold erobret,14,Anna Berger WIERZBA,,
+62,748263,27.40,12-11,AHB,Mål,1:e,10,Frederikke WAAGE-JENSEN,Assist,14,Anna Berger WIERZBA,16,Andrea AUSTMO
+63,748263,28.19,,HHE,Tilkendt straffe,,7,Maria Palsdottir NÓLSOY,Forårs. str.,10,Frederikke WAAGE-JENSEN,,
+64,748263,28.24,13-11,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,1,Elin THORSTEINSDOTTIR
+65,748263,29.19,,AHB,Skud reddet,Gbr,14,Anna Berger WIERZBA,Retur,0,,16,Andrea AUSTMO
+66,748263,29.47,,AHB,Tilkendt straffe,,14,Anna Berger WIERZBA,Forårs. str.,9,Annika MEYER,,
+67,748263,29.47,,HHE,Udvisning,,9,Annika MEYER,,,,,
+68,748263,29.48,13-12,AHB,Mål på straffe,,15,Sofia DEEN,,,,16,Andrea AUSTMO
+69,748263,29.48,,HHE,Time out,,,,,,,,
+70,748263,29.58,,HHE,Skud reddet,VF,33,Laura Holm ANDERSEN,,,,86,Sabine ENGLERT
+71,748263,30.00,,AHB,Skud på stolpe,1:e,3,Sarah Vest KIRKELØKKE,,,,0,
+72,748263,30.00,13-12,,Halvleg,,,,,,,,
+73,748263,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748263,30.26,,AHB,Regelfejl,,3,Sarah Vest KIRKELØKKE,,,,,
+75,748263,31.34,,HHE,Skud reddet,PL,19,Frida Haug HOEL,,,,86,Sabine ENGLERT
+76,748263,31.48,13-13,AHB,Mål,2:e,15,Sofia DEEN,,,,16,Andrea AUSTMO
+77,748263,32.54,,HHE,Regelfejl,,14,Mai KRAGBALLE,,,,,
+78,748263,33.37,13-14,AHB,Mål,HF,25,Ida GÖTZSCHE,,,,16,Andrea AUSTMO
+79,748263,34.08,,HHE,Tabt bold,,14,Mai KRAGBALLE,,,,,
+80,748263,34.25,,AHB,Tilkendt straffe,,18,Mathilde ØSTERGAARD,Forårs. str.,22,Sille Cecilie SORTH,,
+81,748263,34.25,,HHE,Udvisning,,22,Sille Cecilie SORTH,,,,,
+82,748263,34.28,,AHB,Straffekast på stolpe,,15,Sofia DEEN,,,,1,Mathilde BISGAARD
+83,748263,35.16,,HHE,Tabt bold,,19,Frida Haug HOEL,,,,,
+84,748263,35.28,13-15,AHB,Mål,HF,25,Ida GÖTZSCHE,Assist,77,Alberte EBLER,16,Andrea AUSTMO
+85,748263,36.14,,HHE,Skud forbi,VF,33,Laura Holm ANDERSEN,,,,86,Sabine ENGLERT
+86,748263,36.28,,AHB,Skud forbi,VF,18,Mathilde ØSTERGAARD,,,,16,Andrea AUSTMO
+87,748263,36.37,,HHE,Time out,,,,,,,,
+88,748263,37.04,,HHE,Skud reddet,PL,14,Mai KRAGBALLE,Retur,0,,86,Sabine ENGLERT
+89,748263,37.20,14-15,HHE,Mål,PL,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+90,748263,37.55,,AHB,Skud reddet,HB,14,Anna Berger WIERZBA,,,,16,Andrea AUSTMO
+91,748263,38.54,,HHE,Skud reddet,VF,33,Laura Holm ANDERSEN,,,,86,Sabine ENGLERT
+92,748263,39.07,14-16,AHB,Mål,2:e,25,Ida GÖTZSCHE,Assist,77,Alberte EBLER,16,Andrea AUSTMO
+93,748263,39.39,15-16,HHE,Mål,Gbr,19,Frida Haug HOEL,,,,86,Sabine ENGLERT
+94,748263,39.51,15-17,AHB,Mål,2:e,25,Ida GÖTZSCHE,Assist,77,Alberte EBLER,16,Andrea AUSTMO
+95,748263,40.38,,HHE,Skud på stolpe,VB,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+96,748263,40.50,15-18,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,77,Alberte EBLER,16,Andrea AUSTMO
+97,748263,41.38,16-18,HHE,Mål,VF,33,Laura Holm ANDERSEN,Assist,27,Annette WIRÉN LARSEN,86,Sabine ENGLERT
+98,748263,42.34,16-19,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,1,Mathilde BISGAARD
+99,748263,43.20,17-19,HHE,Mål,PL,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+100,748263,44.04,,AHB,Regelfejl,,18,Mathilde ØSTERGAARD,,,,,
+101,748263,44.46,18-19,HHE,Mål,Gbr,27,Annette WIRÉN LARSEN,Assist,14,Mai KRAGBALLE,86,Sabine ENGLERT
+102,748263,45.20,18-20,AHB,Mål,ST,4,Katrine JACOBSEN,Assist,77,Alberte EBLER,1,Mathilde BISGAARD
+103,748263,45.57,19-20,HHE,Mål,PL,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+104,748263,46.14,,,,,,,,,,,
+105,748263,46.17,19-21,AHB,Mål på straffe,,15,Sofia DEEN,,,,1,Mathilde BISGAARD
+106,748263,47.19,,HHE,Tilkendt straffe,,21,Romee MAARSCHALKEWEERD,Forårs. str.,4,Katrine JACOBSEN,,
+107,748263,47.23,,HHE,Straffekast på stolpe,,14,Mai KRAGBALLE,,,,86,Sabine ENGLERT
+108,748263,48.27,,AHB,Tilkendt straffe,,15,Sofia DEEN,Forårs. str.,6,Maria HØJGAARD,,
+109,748263,48.46,19-22,AHB,Mål på straffe,,15,Sofia DEEN,,,,1,Mathilde BISGAARD
+110,748263,49.29,,HHE,Regelfejl,,14,Mai KRAGBALLE,,,,,
+111,748263,50.28,19-23,AHB,Mål,PL,15,Sofia DEEN,,,,1,Mathilde BISGAARD
+112,748263,51.41,,HHE,Regelfejl,,19,Frida Haug HOEL,,,,,
+113,748263,52.47,,AHB,Skud forbi,VB,17,Line Berggren LARSEN,,,,1,Mathilde BISGAARD
+114,748263,53.01,,HHE,Time out,,,,,,,,
+115,748263,53.29,20-23,HHE,Mål,PL,19,Frida Haug HOEL,,,,86,Sabine ENGLERT
+116,748263,54.31,20-24,AHB,Mål,PL,14,Anna Berger WIERZBA,,,,1,Mathilde BISGAARD
+117,748263,55.14,,HHE,Skud reddet,PL,19,Frida Haug HOEL,,,,86,Sabine ENGLERT
+118,748263,55.46,20-25,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,17,Line Berggren LARSEN,16,Andrea AUSTMO
+119,748263,56.50,,HHE,Regelfejl,,27,Annette WIRÉN LARSEN,,,,,
+120,748263,57.41,,AHB,Tilkendt straffe,,18,Mathilde ØSTERGAARD,Forårs. str.,9,Annika MEYER,,
+121,748263,57.42,20-26,AHB,Mål på straffe,,15,Sofia DEEN,,,,16,Andrea AUSTMO
+122,748263,58.13,21-26,HHE,Mål,Gbr,27,Annette WIRÉN LARSEN,,,,86,Sabine ENGLERT
+123,748263,58.35,,AHB,Time out,,,,,,,,
+124,748263,59.02,21-27,AHB,Mål,HB,14,Anna Berger WIERZBA,,,,16,Andrea AUSTMO
+125,748263,59.59,22-27,HHE,Mål,PL,27,Annette WIRÉN LARSEN,,,,86,Sabine ENGLERT
+126,748263,60.00,22-27,,Fuld tid,,,,,,,,
+127,748263,60.00,,,Kamp slut,,,,,,,,

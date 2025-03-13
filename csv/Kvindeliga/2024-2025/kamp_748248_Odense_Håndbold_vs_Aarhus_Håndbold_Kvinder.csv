@@ -1,0 +1,136 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748248,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748248,0.50,,ODE,Tilkendt straffe,,32,Mie HØJLUND,Forårs. str.,77,Alberte EBLER,,
+3,748248,0.50,,AHB,Udvisning,,77,Alberte EBLER,,,,,
+4,748248,0.52,1-0,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,86,Sabine ENGLERT
+5,748248,1.53,,AHB,Skud reddet,HF,25,Ida GÖTZSCHE,,,,38,Yara TEN HOLTE
+6,748248,2.10,,ODE,Skud reddet,HF,6,Malin AUNE,,,,86,Sabine ENGLERT
+7,748248,3.03,,AHB,Skud reddet,PL,14,Anna Berger WIERZBA,,,,38,Yara TEN HOLTE
+8,748248,3.39,,ODE,Skud reddet,PL,68,Helena ELVER,,,,86,Sabine ENGLERT
+9,748248,4.04,,AHB,Skud forbi,PL,15,Sofia DEEN,,,,38,Yara TEN HOLTE
+10,748248,4.37,,ODE,Fejlaflevering,,32,Mie HØJLUND,,,,,
+11,748248,5.35,,AHB,Regelfejl,,3,Sarah Vest KIRKELØKKE,,,,,
+12,748248,6.12,,AHB,Advarsel,,15,Sofia DEEN,,,,,
+13,748248,6.29,2-0,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,86,Sabine ENGLERT
+14,748248,7.12,,AHB,Fejlaflevering,,15,Sofia DEEN,Bold erobret,23,Elma HALILCEVIC,,
+15,748248,7.18,3-0,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,44,Nikita Van Der VLIET,86,Sabine ENGLERT
+16,748248,7.33,,AHB,Skud reddet,VB,15,Sofia DEEN,Retur,3,Sarah Vest KIRKELØKKE,38,Yara TEN HOLTE
+17,748248,7.40,,AHB,Skud reddet,ST,3,Sarah Vest KIRKELØKKE,,,,38,Yara TEN HOLTE
+18,748248,8.01,,ODE,Skud reddet,ST,44,Nikita Van Der VLIET,Retur,0,,86,Sabine ENGLERT
+19,748248,8.23,,ODE,Skud reddet,PL,33,Thale Rushfeldt DEILA,Retur,0,,86,Sabine ENGLERT
+20,748248,8.35,4-0,ODE,Mål,HF,6,Malin AUNE,Assist,68,Helena ELVER,86,Sabine ENGLERT
+21,748248,9.10,4-1,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,14,Anna Berger WIERZBA,38,Yara TEN HOLTE
+22,748248,9.42,,ODE,Skud reddet,PL,32,Mie HØJLUND,,,,86,Sabine ENGLERT
+23,748248,9.53,,AHB,Skud reddet,2:e,77,Alberte EBLER,,,,38,Yara TEN HOLTE
+24,748248,9.59,,ODE,Skud forbi,1:e,23,Elma HALILCEVIC,,,,86,Sabine ENGLERT
+25,748248,10.33,,AHB,Skud reddet,PL,15,Sofia DEEN,,,,38,Yara TEN HOLTE
+26,748248,10.52,,ODE,Skud reddet,ST,44,Nikita Van Der VLIET,,,,86,Sabine ENGLERT
+27,748248,11.15,,AHB,Skud forbi,PL,77,Alberte EBLER,,,,38,Yara TEN HOLTE
+28,748248,11.54,5-1,ODE,Mål,HF,6,Malin AUNE,Assist,68,Helena ELVER,86,Sabine ENGLERT
+29,748248,12.47,5-2,AHB,Mål,HB,14,Anna Berger WIERZBA,,,,38,Yara TEN HOLTE
+30,748248,12.59,,ODE,Tilkendt straffe,,68,Helena ELVER,Forårs. str.,3,Sarah Vest KIRKELØKKE,,
+31,748248,13.23,6-2,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,86,Sabine ENGLERT
+32,748248,14.43,,AHB,Tilkendt straffe,,15,Sofia DEEN,Forårs. str.,20,Lysa DEFO,,
+33,748248,15.00,6-3,AHB,Mål på straffe,,15,Sofia DEEN,,,,38,Yara TEN HOLTE
+34,748248,15.35,7-3,ODE,Mål,Gbr,27,Louise BURGAARD,Assist,68,Helena ELVER,86,Sabine ENGLERT
+35,748248,15.44,7-4,AHB,Mål,2:e,14,Anna Berger WIERZBA,,,,38,Yara TEN HOLTE
+36,748248,15.57,8-4,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,86,Sabine ENGLERT
+37,748248,16.28,,AHB,Tabt bold,,77,Alberte EBLER,Bold erobret,27,Louise BURGAARD,,
+38,748248,16.33,,ODE,Fejlaflevering,,32,Mie HØJLUND,,,,,
+39,748248,17.03,,AHB,Skud reddet,Gbr,77,Alberte EBLER,,,,38,Yara TEN HOLTE
+40,748248,17.43,,ODE,Skud reddet,HF,6,Malin AUNE,Retur,0,,86,Sabine ENGLERT
+41,748248,18.00,,ODE,Fejlaflevering,,6,Malin AUNE,Bold erobret,4,Katrine JACOBSEN,,
+42,748248,18.05,8-5,AHB,Mål,1:e,4,Katrine JACOBSEN,,,,38,Yara TEN HOLTE
+43,748248,18.25,,ODE,Skud reddet,Gbr,68,Helena ELVER,,,,86,Sabine ENGLERT
+44,748248,18.37,,AHB,Skud reddet,2:e,15,Sofia DEEN,,,,38,Yara TEN HOLTE
+45,748248,18.52,9-5,ODE,Mål,2:e,44,Nikita Van Der VLIET,Assist,22,Ragnhild DAHL,86,Sabine ENGLERT
+46,748248,19.51,,AHB,Regelfejl,,77,Alberte EBLER,,,,,
+47,748248,20.08,,ODE,Time out,,,,,,,,
+48,748248,20.28,,ODE,Fejlaflevering,,68,Helena ELVER,,,,,
+49,748248,20.33,9-6,AHB,Mål,1:e,18,Mathilde ØSTERGAARD,Assist,4,Katrine JACOBSEN,38,Yara TEN HOLTE
+50,748248,21.04,10-6,ODE,Mål,PL,22,Ragnhild DAHL,,,,86,Sabine ENGLERT
+51,748248,21.59,,AHB,Fejlaflevering,,6,Freja GANDRUP ERNST,,,,,
+52,748248,22.26,11-6,ODE,Mål,Gbr,68,Helena ELVER,Assist,6,Malin AUNE,86,Sabine ENGLERT
+53,748248,23.01,,AHB,Regelfejl,,23,Nikoline SAX,,,,,
+54,748248,23.27,,ODE,Skud forbi,VB,22,Ragnhild DAHL,,,,86,Sabine ENGLERT
+55,748248,24.23,11-7,AHB,Mål,ST,4,Katrine JACOBSEN,Assist,23,Nikoline SAX,38,Yara TEN HOLTE
+56,748248,24.32,12-7,ODE,Mål,2:e,20,Lysa DEFO,Assist,27,Louise BURGAARD,86,Sabine ENGLERT
+57,748248,25.10,12-8,AHB,Mål,Gbr,23,Nikoline SAX,Assist,4,Katrine JACOBSEN,38,Yara TEN HOLTE
+58,748248,25.41,,ODE,Skud på stolpe,ST,20,Lysa DEFO,,,,86,Sabine ENGLERT
+59,748248,26.28,12-9,AHB,Mål,PL,14,Anna Berger WIERZBA,,,,38,Yara TEN HOLTE
+60,748248,26.39,,ODE,Skud forbi,PL,27,Louise BURGAARD,,,,86,Sabine ENGLERT
+61,748248,27.12,,AHB,Skud blokeret,HB,6,Freja GANDRUP ERNST,Blokeret af,44,Nikita Van Der VLIET,,
+62,748248,27.21,13-9,ODE,Mål,Gbr,27,Louise BURGAARD,,,,86,Sabine ENGLERT
+63,748248,27.49,,AHB,Time out,,,,,,,,
+64,748248,28.12,13-10,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,6,Freja GANDRUP ERNST,38,Yara TEN HOLTE
+65,748248,28.28,,ODE,Tilkendt straffe,,20,Lysa DEFO,Forårs. str.,3,Sarah Vest KIRKELØKKE,,
+66,748248,28.36,,ODE,Straffekast reddet,,22,Ragnhild DAHL,,,,1,Elin THORSTEINSDOTTIR
+67,748248,29.12,,AHB,Regelfejl,,23,Nikoline SAX,,,,,
+68,748248,29.32,,ODE,Tilkendt straffe,,20,Lysa DEFO,Forårs. str.,14,Anna Berger WIERZBA,,
+69,748248,29.39,14-10,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,1,Elin THORSTEINSDOTTIR
+70,748248,29.58,14-11,AHB,Mål,Gbr,14,Anna Berger WIERZBA,,,,38,Yara TEN HOLTE
+71,748248,30.00,14-11,,Halvleg,,,,,,,,
+72,748248,30.00,,,Start 2:e halvleg,,,,,,,,
+73,748248,30.34,14-12,AHB,Mål,Gbr,77,Alberte EBLER,,,,38,Yara TEN HOLTE
+74,748248,30.46,15-12,ODE,Mål,2:e,34,Andrea HANSEN,Assist,32,Mie HØJLUND,86,Sabine ENGLERT
+75,748248,31.24,,ODE,Udvisning,,3,Maren AARDAHL,,,,,
+76,748248,31.51,,AHB,Tilkendt straffe,,23,Nikoline SAX,Forårs. str.,20,Lysa DEFO,,
+77,748248,32.11,,AHB,Straffekast forbi,,15,Sofia DEEN,,,,38,Yara TEN HOLTE
+78,748248,33.07,,ODE,Skud reddet,ST,20,Lysa DEFO,,,,86,Sabine ENGLERT
+79,748248,33.29,,AHB,Skud reddet,Gbr,23,Nikoline SAX,,,,38,Yara TEN HOLTE
+80,748248,34.11,16-12,ODE,Mål,HF,34,Andrea HANSEN,Assist,33,Thale Rushfeldt DEILA,86,Sabine ENGLERT
+81,748248,34.13,,AHB,Udvisning,,2,Majken Hedegaard NIELSEN,,,,,
+82,748248,34.45,,AHB,Regelfejl,,23,Nikoline SAX,,,,,
+83,748248,34.54,,ODE,Skud forbi,1:e,38,Yara TEN HOLTE,,,,,
+84,748248,35.44,,AHB,Skud forbi,VB,4,Katrine JACOBSEN,,,,38,Yara TEN HOLTE
+85,748248,35.58,17-12,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,86,Sabine ENGLERT
+86,748248,36.31,,AHB,Skud reddet,Gbr,23,Nikoline SAX,,,,38,Yara TEN HOLTE
+87,748248,36.41,,ODE,Skud reddet,1:e,10,Anna GRUNDTVIG,,,,86,Sabine ENGLERT
+88,748248,37.34,,AHB,Regelfejl,,77,Alberte EBLER,,,,,
+89,748248,38.04,,ODE,Tabt bold,,10,Anna GRUNDTVIG,,,,,
+90,748248,38.37,17-13,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,15,Sofia DEEN,38,Yara TEN HOLTE
+91,748248,38.44,,AHB,Udvisning,,3,Sarah Vest KIRKELØKKE,,,,,
+92,748248,39.00,18-13,ODE,Mål,ST,3,Maren AARDAHL,Assist,68,Helena ELVER,86,Sabine ENGLERT
+93,748248,40.06,,AHB,Skud reddet,HB,77,Alberte EBLER,,,,38,Yara TEN HOLTE
+94,748248,40.28,19-13,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,86,Sabine ENGLERT
+95,748248,40.56,19-14,AHB,Mål,Gbr,15,Sofia DEEN,,,,38,Yara TEN HOLTE
+96,748248,41.31,,ODE,Skud reddet,HF,34,Andrea HANSEN,,,,86,Sabine ENGLERT
+97,748248,42.22,,AHB,Fejlaflevering,,77,Alberte EBLER,Bold erobret,3,Maren AARDAHL,,
+98,748248,42.31,,ODE,Skud reddet,2:e,34,Andrea HANSEN,,,,86,Sabine ENGLERT
+99,748248,43.06,,AHB,Fejlaflevering,,6,Freja GANDRUP ERNST,Bold erobret,3,Maren AARDAHL,,
+100,748248,43.10,20-14,ODE,Mål,1:e,34,Andrea HANSEN,Assist,10,Anna GRUNDTVIG,86,Sabine ENGLERT
+101,748248,43.47,20-15,AHB,Mål,Gbr,14,Anna Berger WIERZBA,,,,38,Yara TEN HOLTE
+102,748248,44.48,,ODE,Skud blokeret,PL,8,Helene FAUSKE,Blok af (ret),14,Anna Berger WIERZBA,,
+103,748248,45.01,,ODE,Regelfejl,,20,Lysa DEFO,,,,,
+104,748248,45.45,20-16,AHB,Mål,,,,,,,,
+105,748248,45.53,21-16,ODE,Mål,Gbr,8,Helene FAUSKE,Assist,32,Mie HØJLUND,86,Sabine ENGLERT
+106,748248,46.24,,AHB,Skud reddet,Gbr,6,Freja GANDRUP ERNST,,,,38,Yara TEN HOLTE
+107,748248,46.31,22-16,ODE,Mål,2:e,34,Andrea HANSEN,Assist,32,Mie HØJLUND,86,Sabine ENGLERT
+108,748248,47.16,,AHB,Skud blokeret,PL,15,Sofia DEEN,Blokeret af,3,Maren AARDAHL,,
+109,748248,47.42,23-16,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,86,Sabine ENGLERT
+110,748248,48.35,,AHB,Skud reddet,Gbr,14,Anna Berger WIERZBA,,,,38,Yara TEN HOLTE
+111,748248,48.46,,ODE,Fejlaflevering,,32,Mie HØJLUND,,,,,
+112,748248,49.28,,AHB,Skud blokeret,PL,6,Freja GANDRUP ERNST,Blokeret af,44,Nikita Van Der VLIET,,
+113,748248,49.33,,ODE,Skud reddet,1:e,3,Maren AARDAHL,,,,86,Sabine ENGLERT
+114,748248,49.52,,AHB,Time out,,,,,,,,
+115,748248,51.06,,AHB,Skud blokeret,VB,14,Anna Berger WIERZBA,Blok af (ret),44,Nikita Van Der VLIET,,
+116,748248,51.14,,AHB,Skud reddet,HF,10,Frederikke WAAGE-JENSEN,,,,38,Yara TEN HOLTE
+117,748248,51.19,,ODE,Skud reddet,VB,8,Helene FAUSKE,,,,86,Sabine ENGLERT
+118,748248,51.50,,AHB,Skud reddet,VB,6,Freja GANDRUP ERNST,,,,38,Yara TEN HOLTE
+119,748248,51.56,24-16,ODE,Mål,1:e,34,Andrea HANSEN,Assist,38,Yara TEN HOLTE,86,Sabine ENGLERT
+120,748248,52.34,,AHB,Skud reddet,PL,23,Nikoline SAX,Retur,4,Katrine JACOBSEN,38,Yara TEN HOLTE
+121,748248,52.52,24-17,AHB,Mål,PL,14,Anna Berger WIERZBA,,,,38,Yara TEN HOLTE
+122,748248,53.43,,ODE,Time out,,,,,,,,
+123,748248,53.56,,ODE,Skud reddet,PL,22,Ragnhild DAHL,,,,86,Sabine ENGLERT
+124,748248,54.50,24-18,AHB,Mål,PL,14,Anna Berger WIERZBA,,,,38,Yara TEN HOLTE
+125,748248,55.12,25-18,ODE,Mål,VB,8,Helene FAUSKE,,,,86,Sabine ENGLERT
+126,748248,55.41,,AHB,Skud reddet,PL,14,Anna Berger WIERZBA,,,,38,Yara TEN HOLTE
+127,748248,55.47,26-18,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,38,Yara TEN HOLTE,86,Sabine ENGLERT
+128,748248,56.55,26-19,AHB,Mål,ST,4,Katrine JACOBSEN,Assist,14,Anna Berger WIERZBA,38,Yara TEN HOLTE
+129,748248,57.42,27-19,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,86,Sabine ENGLERT
+130,748248,57.54,,AHB,Skud reddet,2:e,23,Nikoline SAX,Retur,0,,38,Yara TEN HOLTE
+131,748248,58.21,,AHB,Skud på stolpe,VF,2,Majken Hedegaard NIELSEN,,,,38,Yara TEN HOLTE
+132,748248,58.48,,ODE,Tilkendt straffe,,44,Nikita Van Der VLIET,Forårs. str.,4,Katrine JACOBSEN,,
+133,748248,59.04,28-19,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,86,Sabine ENGLERT
+134,748248,59.29,,AHB,Time out,,,,,,,,
+135,748248,59.58,,AHB,Regelfejl,,77,Alberte EBLER,,,,,

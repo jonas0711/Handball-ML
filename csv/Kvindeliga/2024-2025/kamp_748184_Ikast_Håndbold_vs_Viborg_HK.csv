@@ -1,0 +1,149 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748184,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748184,0.34,1-0,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,16,Louise Bak JENSEN
+3,748184,1.34,1-1,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,12,Filippa IDÉHN
+4,748184,1.43,2-1,IKA,Mål,2:e,21,Ingvild BAKKERUD,,,,16,Louise Bak JENSEN
+5,748184,2.42,,VHK,Skud forbi,PL,9,Laura THESTRUP,,,,12,Filippa IDÉHN
+6,748184,2.55,,IKA,Tilkendt straffe,,11,Sarah Aaberg IVERSEN,Forårs. str.,9,Laura THESTRUP,,
+7,748184,3.14,3-1,IKA,Mål på straffe,,51,Markéta JERÁBKOVÁ,,,,16,Louise Bak JENSEN
+8,748184,3.50,,VHK,Skud reddet,PL,9,Laura THESTRUP,,,,12,Filippa IDÉHN
+9,748184,3.58,,IKA,Skud reddet,2:e,21,Ingvild BAKKERUD,,,,16,Louise Bak JENSEN
+10,748184,4.32,,VHK,Fejlaflevering,,9,Laura THESTRUP,,,,,
+11,748184,4.37,4-1,IKA,Mål,1:e,6,Cecilie BRANDT,Assist,21,Ingvild BAKKERUD,16,Louise Bak JENSEN
+12,748184,5.14,,VHK,Fejlaflevering,,26,Christina PEDERSEN,,,,,
+13,748184,5.39,5-1,IKA,Mål,PL,21,Ingvild BAKKERUD,,,,16,Louise Bak JENSEN
+14,748184,5.52,,VHK,Time out,,,,,,,,
+15,748184,6.24,,VHK,Tabt bold,,62,Louise SØNDERGAARD,,,,,
+16,748184,6.37,,IKA,Regelfejl,,11,Sarah Aaberg IVERSEN,,,,,
+17,748184,7.08,,VHK,Skud reddet,PL,5,Marielle MARTINSEN,,,,12,Filippa IDÉHN
+18,748184,8.04,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,Bold erobret,26,Christina PEDERSEN,,
+19,748184,8.08,5-2,VHK,Mål,1:e,18,Henriette HANSEN,Assist,26,Christina PEDERSEN,12,Filippa IDÉHN
+20,748184,8.21,,VHK,Advarsel,,9,Laura THESTRUP,,,,,
+21,748184,8.41,6-2,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,16,Louise Bak JENSEN
+22,748184,8.51,,VHK,Skud reddet,2:e,3,Alberte SIMONSEN,,,,12,Filippa IDÉHN
+23,748184,9.37,,IKA,Regelfejl,,11,Sarah Aaberg IVERSEN,,,,,
+24,748184,9.45,6-3,VHK,Mål,1:e,19,Sara HALD,Assist,26,Christina PEDERSEN,12,Filippa IDÉHN
+25,748184,9.52,,VHK,Udvisning,,9,Laura THESTRUP,,,,,
+26,748184,10.02,7-3,IKA,Mål,PL,7,Stine SKOGRAND,,,,16,Louise Bak JENSEN
+27,748184,10.42,,VHK,Tabt bold,,18,Henriette HANSEN,,,,,
+28,748184,10.49,8-3,IKA,Mål,1:e,14,Emma LINDQVIST,,,,0,
+29,748184,11.17,,VHK,Skud reddet,HF,18,Henriette HANSEN,,,,12,Filippa IDÉHN
+30,748184,11.24,9-3,IKA,Mål,2:e,14,Emma LINDQVIST,,,,16,Louise Bak JENSEN
+31,748184,11.59,,VHK,Tabt bold,,62,Louise SØNDERGAARD,Bold erobret,14,Emma LINDQVIST,,
+32,748184,12.04,10-3,IKA,Mål,1:e,6,Cecilie BRANDT,Assist,14,Emma LINDQVIST,16,Louise Bak JENSEN
+33,748184,12.09,,VHK,Time out,,,,,,,,
+34,748184,12.29,10-4,VHK,Mål,Gbr,62,Louise SØNDERGAARD,,,,12,Filippa IDÉHN
+35,748184,12.53,,IKA,Fejlaflevering,,14,Emma LINDQVIST,Bold erobret,62,Louise SØNDERGAARD,,
+36,748184,13.00,,VHK,Skud på stolpe,1:e,77,Jana MITTÚN,,,,12,Filippa IDÉHN
+37,748184,13.04,11-4,IKA,Mål,2:e,11,Sarah Aaberg IVERSEN,Assist,7,Stine SKOGRAND,16,Louise Bak JENSEN
+38,748184,13.27,,VHK,Fejlaflevering,,77,Jana MITTÚN,,,,,
+39,748184,13.55,,IKA,Skud på stolpe,PL,21,Ingvild BAKKERUD,,,,16,Louise Bak JENSEN
+40,748184,14.04,,VHK,Skud blokeret,PL,26,Christina PEDERSEN,Blokeret af,11,Sarah Aaberg IVERSEN,,
+41,748184,14.12,12-4,IKA,Mål,1:e,22,Lærke NOLSØE,Assist,12,Filippa IDÉHN,16,Louise Bak JENSEN
+42,748184,14.45,,VHK,Fejlaflevering,,77,Jana MITTÚN,Bold erobret,7,Stine SKOGRAND,,
+43,748184,14.51,,IKA,Fejlaflevering,,7,Stine SKOGRAND,,,,,
+44,748184,14.59,,VHK,Regelfejl,,5,Marielle MARTINSEN,,,,,
+45,748184,14.59,,VHK,Udvisning,,5,Marielle MARTINSEN,,,,,
+46,748184,15.16,13-4,IKA,Mål,HF,6,Cecilie BRANDT,Assist,7,Stine SKOGRAND,16,Louise Bak JENSEN
+47,748184,15.54,,VHK,Fejlaflevering,,62,Louise SØNDERGAARD,Bold erobret,19,Amanda Loft HANSEN,,
+48,748184,16.01,14-4,IKA,Mål,1:e,22,Lærke NOLSØE,Assist,11,Sarah Aaberg IVERSEN,16,Louise Bak JENSEN
+49,748184,16.46,,VHK,Skud reddet,HB,62,Louise SØNDERGAARD,,,,12,Filippa IDÉHN
+50,748184,17.02,,IKA,Skud reddet,2:e,22,Lærke NOLSØE,,,,16,Louise Bak JENSEN
+51,748184,17.36,,VHK,Fejlaflevering,,77,Jana MITTÚN,Bold erobret,7,Stine SKOGRAND,,
+52,748184,17.41,15-4,IKA,Mål,2:e,21,Ingvild BAKKERUD,Assist,7,Stine SKOGRAND,16,Louise Bak JENSEN
+53,748184,18.11,,VHK,Skud blokeret,PL,77,Jana MITTÚN,Blok af (ret),21,Ingvild BAKKERUD,,
+54,748184,18.29,15-5,VHK,Mål,PL,8,Elma ÖRTEMARK,,,,12,Filippa IDÉHN
+55,748184,18.40,16-5,IKA,Mål,2:e,6,Cecilie BRANDT,Assist,7,Stine SKOGRAND,12,Ida Marie KAYSEN
+56,748184,19.08,16-6,VHK,Mål,Gbr,77,Jana MITTÚN,,,,12,Filippa IDÉHN
+57,748184,19.37,,IKA,Skud reddet,VB,51,Markéta JERÁBKOVÁ,,,,12,Ida Marie KAYSEN
+58,748184,19.40,16-7,VHK,Mål,1:e,3,Alberte SIMONSEN,Assist,5,Marielle MARTINSEN,12,Filippa IDÉHN
+59,748184,19.46,,IKA,Time out,,,,,,,,
+60,748184,20.11,,IKA,Skud blokeret,PL,21,Ingvild BAKKERUD,Blokeret af,19,Sara HALD,,
+61,748184,20.21,,VHK,Skud reddet,2:e,19,Sara HALD,,,,12,Filippa IDÉHN
+62,748184,20.28,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,Bold erobret,19,Sara HALD,,
+63,748184,20.33,16-8,VHK,Mål,1:e,77,Jana MITTÚN,Assist,19,Sara HALD,12,Filippa IDÉHN
+64,748184,21.27,,IKA,Skud på stolpe,VB,21,Ingvild BAKKERUD,,,,12,Ida Marie KAYSEN
+65,748184,21.34,16-9,VHK,Mål,2:e,19,Sara HALD,Assist,77,Jana MITTÚN,12,Filippa IDÉHN
+66,748184,22.15,17-9,IKA,Mål,VF,22,Lærke NOLSØE,Assist,21,Ingvild BAKKERUD,12,Ida Marie KAYSEN
+67,748184,23.00,,VHK,Skud forbi,VB,77,Jana MITTÚN,,,,12,Filippa IDÉHN
+68,748184,23.05,,IKA,Skud reddet,1:e,6,Cecilie BRANDT,,,,12,Ida Marie KAYSEN
+69,748184,23.39,17-10,VHK,Mål,PL,62,Louise SØNDERGAARD,,,,12,Filippa IDÉHN
+70,748184,23.48,,IKA,Skud reddet,2:e,6,Cecilie BRANDT,,,,12,Ida Marie KAYSEN
+71,748184,24.43,,VHK,Skud reddet,VF,3,Alberte SIMONSEN,,,,12,Filippa IDÉHN
+72,748184,24.53,18-10,IKA,Mål,2:e,14,Emma LINDQVIST,,,,12,Ida Marie KAYSEN
+73,748184,25.46,,VHK,Regelfejl,,77,Jana MITTÚN,,,,,
+74,748184,27.03,,IKA,Skud reddet,PL,51,Markéta JERÁBKOVÁ,,,,12,Ida Marie KAYSEN
+75,748184,27.34,,VHK,Tilkendt straffe,,5,Marielle MARTINSEN,Forårs. str.,14,Emma LINDQVIST,,
+76,748184,27.57,,VHK,Straffekast reddet,,26,Christina PEDERSEN,,,,12,Filippa IDÉHN
+77,748184,28.31,19-10,IKA,Mål,Gbr,22,Lærke NOLSØE,,,,12,Ida Marie KAYSEN
+78,748184,28.48,,VHK,Regelfejl,,19,Sara HALD,,,,,
+79,748184,29.15,20-10,IKA,Mål,Gbr,14,Emma LINDQVIST,,,,12,Ida Marie KAYSEN
+80,748184,30.00,20-10,,Halvleg,,,,,,,,
+81,748184,30.00,,,Start 2:e halvleg,,,,,,,,
+82,748184,30.33,20-11,VHK,Mål,PL,62,Louise SØNDERGAARD,,,,12,Filippa IDÉHN
+83,748184,30.48,21-11,IKA,Mål,2:e,22,Lærke NOLSØE,Assist,7,Stine SKOGRAND,12,Ida Marie KAYSEN
+84,748184,31.03,,VHK,Skud reddet,HF,18,Henriette HANSEN,,,,12,Filippa IDÉHN
+85,748184,31.40,,IKA,Skud reddet,Gbr,7,Stine SKOGRAND,Retur,22,Lærke NOLSØE,12,Ida Marie KAYSEN
+86,748184,32.01,22-11,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,14,Emma LINDQVIST,12,Ida Marie KAYSEN
+87,748184,32.12,,VHK,Skud forbi,2:e,5,Marielle MARTINSEN,,,,12,Filippa IDÉHN
+88,748184,32.23,23-11,IKA,Mål,2:e,11,Sarah Aaberg IVERSEN,Assist,21,Ingvild BAKKERUD,12,Ida Marie KAYSEN
+89,748184,33.03,,VHK,Skud reddet,PL,62,Louise SØNDERGAARD,,,,12,Filippa IDÉHN
+90,748184,33.10,24-11,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,14,Emma LINDQVIST,12,Ida Marie KAYSEN
+91,748184,33.47,,VHK,Skud reddet,ST,19,Sara HALD,,,,12,Filippa IDÉHN
+92,748184,34.58,,IKA,Skud reddet,HB,7,Stine SKOGRAND,,,,12,Ida Marie KAYSEN
+93,748184,35.23,24-12,VHK,Mål,ST,19,Sara HALD,Assist,77,Jana MITTÚN,12,Filippa IDÉHN
+94,748184,35.33,,IKA,Skud på stolpe,2:e,7,Stine SKOGRAND,Retur,22,Lærke NOLSØE,12,Ida Marie KAYSEN
+95,748184,35.41,25-12,IKA,Mål,VF,22,Lærke NOLSØE,,,,12,Ida Marie KAYSEN
+96,748184,36.15,25-13,VHK,Mål,Gbr,5,Marielle MARTINSEN,Assist,62,Louise SØNDERGAARD,12,Filippa IDÉHN
+97,748184,36.50,26-13,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,12,Ida Marie KAYSEN
+98,748184,37.39,,VHK,Skud reddet,PL,62,Louise SØNDERGAARD,,,,12,Filippa IDÉHN
+99,748184,37.44,27-13,IKA,Mål,1:e,11,Sarah Aaberg IVERSEN,Assist,22,Lærke NOLSØE,12,Ida Marie KAYSEN
+100,748184,38.34,,VHK,Skud reddet,PL,26,Christina PEDERSEN,,,,12,Filippa IDÉHN
+101,748184,38.38,28-13,IKA,Mål,1:e,22,Lærke NOLSØE,Assist,11,Sarah Aaberg IVERSEN,12,Ida Marie KAYSEN
+102,748184,39.09,,VHK,Skud reddet,ST,19,Sara HALD,,,,12,Filippa IDÉHN
+103,748184,39.16,,IKA,Tabt bold,,7,Stine SKOGRAND,,,,,
+104,748184,39.54,28-14,VHK,Mål,,,,,,,,
+105,748184,40.27,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,,,,,
+106,748184,40.32,28-15,VHK,Mål,2:e,77,Jana MITTÚN,,,,12,Filippa IDÉHN
+107,748184,41.14,,IKA,Skud på stolpe,ST,11,Sarah Aaberg IVERSEN,,,,12,Ida Marie KAYSEN
+108,748184,41.24,28-16,VHK,Mål,2:e,5,Marielle MARTINSEN,,,,12,Filippa IDÉHN
+109,748184,41.32,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,,,,,
+110,748184,42.04,,VHK,Skud blokeret,PL,62,Louise SØNDERGAARD,Blok af (ret),11,Sarah Aaberg IVERSEN,,
+111,748184,42.31,28-17,VHK,Mål,ST,21,Anne HYKKELBJERG,Assist,5,Marielle MARTINSEN,12,Filippa IDÉHN
+112,748184,42.36,,IKA,Time out,,,,,,,,
+113,748184,43.10,29-17,IKA,Mål,VF,22,Lærke NOLSØE,Assist,14,Emma LINDQVIST,12,Ida Marie KAYSEN
+114,748184,44.00,,VHK,Skud forbi,VB,8,Elma ÖRTEMARK,,,,12,Filippa IDÉHN
+115,748184,44.43,,IKA,Fejlaflevering,,7,Stine SKOGRAND,,,,,
+116,748184,44.51,,VHK,Skud reddet,2:e,62,Louise SØNDERGAARD,,,,12,Filippa IDÉHN
+117,748184,45.01,,IKA,Skud reddet,1:e,22,Lærke NOLSØE,,,,16,Louise Bak JENSEN
+118,748184,45.29,,VHK,Skud reddet,PL,8,Elma ÖRTEMARK,,,,12,Filippa IDÉHN
+119,748184,45.40,30-17,IKA,Mål,2:e,22,Lærke NOLSØE,Assist,7,Stine SKOGRAND,16,Louise Bak JENSEN
+120,748184,46.09,,VHK,Skud reddet,Gbr,8,Elma ÖRTEMARK,,,,12,Filippa IDÉHN
+121,748184,46.19,31-17,IKA,Mål,2:e,77,Line Mai HOUGAARD,Assist,14,Emma LINDQVIST,16,Louise Bak JENSEN
+122,748184,46.58,,VHK,Tabt bold,,26,Christina PEDERSEN,,,,,
+123,748184,47.34,32-17,IKA,Mål,VF,22,Lærke NOLSØE,Assist,51,Markéta JERÁBKOVÁ,16,Louise Bak JENSEN
+124,748184,47.39,,VHK,Time out,,,,,,,,
+125,748184,48.36,,VHK,Skud reddet,HB,5,Marielle MARTINSEN,,,,12,Filippa IDÉHN
+126,748184,49.11,,IKA,Fejlaflevering,,7,Stine SKOGRAND,Bold erobret,26,Christina PEDERSEN,,
+127,748184,49.19,32-18,VHK,Mål,2:e,8,Elma ÖRTEMARK,,,,12,Filippa IDÉHN
+128,748184,50.01,33-18,IKA,Mål,PL,14,Emma LINDQVIST,,,,16,Louise Bak JENSEN
+129,748184,50.31,,VHK,Skud reddet,PL,5,Marielle MARTINSEN,Retur,49,Clara Bro VEILGAARD,12,Filippa IDÉHN
+130,748184,51.17,,VHK,Skud blokeret,PL,26,Christina PEDERSEN,Blok af (ret),18,Maria LYKKEGAARD,,
+131,748184,51.43,,VHK,Skud reddet,PL,5,Marielle MARTINSEN,,,,12,Filippa IDÉHN
+132,748184,51.48,34-18,IKA,Mål,1:e,77,Line Mai HOUGAARD,Assist,12,Filippa IDÉHN,16,Louise Bak JENSEN
+133,748184,52.18,,VHK,Tilkendt straffe,,8,Elma ÖRTEMARK,Forårs. str.,7,Stine SKOGRAND,,
+134,748184,52.42,34-19,VHK,Mål på straffe,,62,Louise SØNDERGAARD,,,,12,Filippa IDÉHN
+135,748184,54.00,,IKA,Tabt bold,,7,Stine SKOGRAND,,,,,
+136,748184,54.04,34-20,VHK,Mål,1:e,77,Jana MITTÚN,Assist,21,Anne HYKKELBJERG,1,Irma SCHJÖTT
+137,748184,55.04,35-20,IKA,Mål,PL,51,Markéta JERÁBKOVÁ,,,,16,Louise Bak JENSEN
+138,748184,55.48,,VHK,Fejlaflevering,,49,Clara Bro VEILGAARD,,,,,
+139,748184,55.58,36-20,IKA,Mål,Gbr,51,Markéta JERÁBKOVÁ,,,,16,Louise Bak JENSEN
+140,748184,56.32,36-21,VHK,Mål,VF,19,Sara HALD,Assist,77,Jana MITTÚN,1,Irma SCHJÖTT
+141,748184,57.03,,IKA,Fejlaflevering,,51,Markéta JERÁBKOVÁ,Bold erobret,49,Clara Bro VEILGAARD,,
+142,748184,57.14,36-22,VHK,Mål,2:e,21,Anne HYKKELBJERG,Assist,77,Jana MITTÚN,1,Irma SCHJÖTT
+143,748184,58.04,37-22,IKA,Mål,ST,19,Amanda Loft HANSEN,Assist,28,Sofie MØLLER,16,Louise Bak JENSEN
+144,748184,58.42,,VHK,Tilkendt straffe,,5,Marielle MARTINSEN,Forårs. str.,19,Amanda Loft HANSEN,,
+145,748184,59.03,37-23,VHK,Mål på straffe,,62,Louise SØNDERGAARD,,,,1,Irma SCHJÖTT
+146,748184,59.43,,IKA,Fejlaflevering,,28,Sofie MØLLER,,,,,
+147,748184,59.49,,VHK,Tabt bold,,5,Marielle MARTINSEN,Bold erobret,51,Markéta JERÁBKOVÁ,,
+148,748184,59.53,38-23,IKA,Mål,1:e,22,Lærke NOLSØE,Assist,51,Markéta JERÁBKOVÁ,16,Louise Bak JENSEN

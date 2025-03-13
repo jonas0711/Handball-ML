@@ -1,0 +1,131 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748311,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748311,0.53,0-1,RIN,Mål,PL,15,Jane MEJLVANG,,,,24,Josephine NORDSTRØM
+3,748311,1.52,,BFH,Skud blokeret,PL,7,Line GYLDENLØVE,Blokeret af,23,Nanna HINNERFELDT,,
+4,748311,3.06,0-2,RIN,Mål,PL,15,Jane MEJLVANG,,,,24,Josephine NORDSTRØM
+5,748311,4.07,,BFH,Tilkendt straffe,,11,Arlinda HAJDARI,Forårs. str.,18,Emilie ROSBORG,,
+6,748311,4.20,1-2,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Stephanie ANDERSEN
+7,748311,4.54,,RIN,Tilkendt straffe,,23,Nanna HINNERFELDT,Forårs. str.,44,Louise HALD,,
+8,748311,5.07,1-3,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,24,Josephine NORDSTRØM
+9,748311,5.54,2-3,BFH,Mål,PL,72,Line FRANDSEN,,,,16,Stephanie ANDERSEN
+10,748311,6.24,,RIN,Fejlaflevering,,20,Stine Opstrup KRISTENSEN,Bold erobret,11,Arlinda HAJDARI,,
+11,748311,6.52,3-3,BFH,Mål,ST,4,Emilie BANGSHØI,Assist,72,Line FRANDSEN,16,Stephanie ANDERSEN
+12,748311,7.17,3-4,RIN,Mål,VB,3,Maria Berger WIERZBA,,,,24,Josephine NORDSTRØM
+13,748311,8.06,4-4,BFH,Mål,ST,18,Sidsel POULSEN,Assist,72,Line FRANDSEN,16,Stephanie ANDERSEN
+14,748311,8.19,,RIN,Skud reddet,2:e,18,Emilie ROSBORG,,,,24,Josephine NORDSTRØM
+15,748311,9.07,5-4,BFH,Mål,PL,72,Line FRANDSEN,,,,16,Stephanie ANDERSEN
+16,748311,9.23,5-5,RIN,Mål,2:e,23,Nanna HINNERFELDT,Assist,3,Maria Berger WIERZBA,24,Josephine NORDSTRØM
+17,748311,9.57,,BFH,Skud blokeret,PL,7,Line GYLDENLØVE,Blok af (ret),23,Nanna HINNERFELDT,,
+18,748311,10.19,,BFH,Skud blokeret,PL,11,Arlinda HAJDARI,Blok af (ret),23,Nanna HINNERFELDT,,
+19,748311,10.28,6-5,BFH,Mål,Gbr,72,Line FRANDSEN,,,,16,Stephanie ANDERSEN
+20,748311,10.42,,RIN,Skud forbi,2:e,22,Sofie ØSTERGAARD,,,,24,Josephine NORDSTRØM
+21,748311,11.11,7-5,BFH,Mål,Gbr,11,Arlinda HAJDARI,Assist,18,Sidsel POULSEN,16,Stephanie ANDERSEN
+22,748311,11.46,,RIN,Skud forbi,VB,3,Maria Berger WIERZBA,,,,24,Josephine NORDSTRØM
+23,748311,12.35,8-5,BFH,Mål,PL,7,Line GYLDENLØVE,,,,88,Rakul WARDUM
+24,748311,12.52,,RIN,Skud reddet,2:e,23,Nanna HINNERFELDT,Retur,0,Josephine NORDSTRØM,,
+25,748311,13.16,8-6,RIN,Mål,VF,18,Emilie ROSBORG,Assist,15,Jane MEJLVANG,24,Josephine NORDSTRØM
+26,748311,14.18,9-6,BFH,Mål,Gbr,11,Arlinda HAJDARI,,,,88,Rakul WARDUM
+27,748311,14.59,,RIN,Tilkendt straffe,,23,Nanna HINNERFELDT,Forårs. str.,19,Rikke Dahl NIELSEN,,
+28,748311,15.04,9-7,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,20,Clara BAK
+29,748311,15.37,,BFH,Skud reddet,HF,44,Louise HALD,,,,88,Rakul WARDUM
+30,748311,16.22,9-8,RIN,Mål,PL,3,Maria Berger WIERZBA,,,,24,Josephine NORDSTRØM
+31,748311,16.57,10-8,BFH,Mål,PL,11,Arlinda HAJDARI,,,,88,Rakul WARDUM
+32,748311,17.35,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,,,,,
+33,748311,18.11,,BFH,Regelfejl,,7,Line GYLDENLØVE,,,,,
+34,748311,18.18,10-9,RIN,Mål,2:e,10,Frida Høgaard NIELSEN,,,,24,Josephine NORDSTRØM
+35,748311,18.58,,BFH,Regelfejl,,72,Line FRANDSEN,,,,,
+36,748311,19.03,10-10,RIN,Mål,1:e,18,Emilie ROSBORG,Assist,10,Frida Høgaard NIELSEN,20,Clara BAK
+37,748311,19.38,,BFH,Tilkendt straffe,,10,Melina KRISTENSEN,Forårs. str.,18,Emilie ROSBORG,,
+38,748311,20.00,11-10,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,88,Rakul WARDUM
+39,748311,20.44,,BFH,Advarsel,,5,Sofie LUND,,,,,
+40,748311,21.21,,RIN,Skud på stolpe,HF,33,Emma LAURSEN,,,,20,Clara BAK
+41,748311,21.56,,BFH,Skud reddet,VF,4,Emilie BANGSHØI,,,,88,Rakul WARDUM
+42,748311,22.22,11-11,RIN,Mål,PL,10,Frida Høgaard NIELSEN,,,,20,Clara BAK
+43,748311,23.01,,RIN,Advarsel,,3,Maria Berger WIERZBA,,,,,
+44,748311,23.21,,BFH,Regelfejl,,72,Line FRANDSEN,,,,,
+45,748311,23.58,11-12,RIN,Mål,Gbr,15,Jane MEJLVANG,,,,20,Clara BAK
+46,748311,24.26,,BFH,Regelfejl,,25,Laura JENSEN,,,,,
+47,748311,25.02,11-13,RIN,Mål,HF,33,Emma LAURSEN,Assist,10,Frida Høgaard NIELSEN,20,Clara BAK
+48,748311,25.03,,BFH,Time out,,,,,,,,
+49,748311,25.33,12-13,BFH,Mål,PL,7,Line GYLDENLØVE,,,,88,Rakul WARDUM
+50,748311,26.17,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,,,,,
+51,748311,26.23,,BFH,Skud reddet,1:e,10,Melina KRISTENSEN,Retur,0,Rakul WARDUM,,
+52,748311,26.59,,BFH,Skud reddet,VB,25,Laura JENSEN,Retur,0,Rakul WARDUM,,
+53,748311,27.23,,BFH,Fejlaflevering,,25,Laura JENSEN,,,,,
+54,748311,27.34,12-14,RIN,Mål,2:e,3,Maria Berger WIERZBA,,,,20,Clara BAK
+55,748311,28.09,13-14,BFH,Mål,PL,7,Line GYLDENLØVE,,,,88,Rakul WARDUM
+56,748311,28.20,,RIN,Time out,,,,,,,,
+57,748311,29.00,,RIN,Regelfejl,,10,Frida Høgaard NIELSEN,,,,,
+58,748311,29.40,14-14,BFH,Mål,Gbr,7,Line GYLDENLØVE,Assist,29,Sara LILHOLT,88,Rakul WARDUM
+59,748311,30.00,,RIN,Skud blokeret,PL,15,Jane MEJLVANG,Blokeret af,29,Sara LILHOLT,,
+60,748311,30.00,14-14,,Halvleg,,,,,,,,
+61,748311,30.00,,,Start 2:e halvleg,,,,,,,,
+62,748311,30.26,,BFH,Fejlaflevering,,31,Marianne HAUGSTED,,,,,
+63,748311,30.50,,RIN,Regelfejl,,23,Nanna HINNERFELDT,,,,,
+64,748311,31.28,,BFH,Tilkendt straffe,,21,Emma ERNST,Forårs. str.,3,Maria Berger WIERZBA,,
+65,748311,31.51,15-14,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,88,Rakul WARDUM
+66,748311,32.27,,RIN,Tilkendt straffe,,3,Maria Berger WIERZBA,Forårs. str.,11,Arlinda HAJDARI,,
+67,748311,32.48,15-15,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,24,Josephine NORDSTRØM
+68,748311,33.21,,RIN,Udvisning,,23,Nanna HINNERFELDT,,,,,
+69,748311,33.39,,BFH,Tilkendt straffe,,9,Mathilde PIIL,Forårs. str.,33,Emma LAURSEN,,
+70,748311,33.39,,RIN,Udvisning,,33,Emma LAURSEN,,,,,
+71,748311,33.44,16-15,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Stephanie ANDERSEN
+72,748311,34.44,,RIN,Skud forbi,HB,10,Frida Høgaard NIELSEN,,,,24,Josephine NORDSTRØM
+73,748311,35.04,17-15,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,72,Line FRANDSEN,88,Rakul WARDUM
+74,748311,35.31,,RIN,Skud reddet,Gbr,20,Stine Opstrup KRISTENSEN,,,,24,Josephine NORDSTRØM
+75,748311,36.30,,BFH,Skud blokeret,VB,31,Marianne HAUGSTED,Blokeret af,23,Nanna HINNERFELDT,,
+76,748311,37.03,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,Bold erobret,9,Mathilde PIIL,,
+77,748311,37.10,18-15,BFH,Mål,1:e,11,Arlinda HAJDARI,Assist,9,Mathilde PIIL,88,Rakul WARDUM
+78,748311,37.21,,RIN,Tilkendt straffe,,18,Emilie ROSBORG,Forårs. str.,72,Line FRANDSEN,,
+79,748311,37.28,18-16,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,20,Clara BAK
+80,748311,38.01,,BFH,Fejlaflevering,,21,Emma ERNST,,,,,
+81,748311,38.09,18-17,RIN,Mål,2:e,18,Emilie ROSBORG,Assist,15,Jane MEJLVANG,24,Josephine NORDSTRØM
+82,748311,38.12,,BFH,Udvisning,,21,Emma ERNST,,,,,
+83,748311,38.46,19-17,BFH,Mål,Gbr,72,Line FRANDSEN,,,,88,Rakul WARDUM
+84,748311,39.17,,RIN,Regelfejl,,3,Maria Berger WIERZBA,,,,,
+85,748311,40.05,,BFH,Skud reddet,PL,72,Line FRANDSEN,,,,88,Rakul WARDUM
+86,748311,40.21,19-18,RIN,Mål,ST,23,Nanna HINNERFELDT,Assist,10,Frida Høgaard NIELSEN,24,Josephine NORDSTRØM
+87,748311,40.21,,BFH,Udvisning,,5,Sofie LUND,,,,,
+88,748311,40.49,,BFH,Fejlaflevering,,31,Marianne HAUGSTED,,,,,
+89,748311,40.55,19-19,RIN,Mål,1:e,33,Emma LAURSEN,Assist,10,Frida Høgaard NIELSEN,20,Clara BAK
+90,748311,41.51,,BFH,Skud reddet,HB,11,Arlinda HAJDARI,,,,88,Rakul WARDUM
+91,748311,42.16,,RIN,Regelfejl,,33,Emma LAURSEN,,,,,
+92,748311,42.47,20-19,BFH,Mål,VF,9,Mathilde PIIL,Assist,31,Marianne HAUGSTED,88,Rakul WARDUM
+93,748311,42.59,20-20,RIN,Mål,2:e,15,Jane MEJLVANG,,,,24,Josephine NORDSTRØM
+94,748311,43.28,,BFH,Skud reddet,PL,72,Line FRANDSEN,,,,88,Rakul WARDUM
+95,748311,44.01,20-21,RIN,Mål,ST,23,Nanna HINNERFELDT,Assist,15,Jane MEJLVANG,24,Josephine NORDSTRØM
+96,748311,44.44,21-21,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,21,Emma ERNST,88,Rakul WARDUM
+97,748311,45.13,,RIN,Regelfejl,,15,Jane MEJLVANG,,,,,
+98,748311,45.47,22-21,BFH,Mål,Gbr,21,Emma ERNST,,,,88,Rakul WARDUM
+99,748311,46.05,,RIN,Tilkendt straffe,,10,Frida Høgaard NIELSEN,Forårs. str.,19,Rikke Dahl NIELSEN,,
+100,748311,46.09,22-22,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,20,Clara BAK
+101,748311,46.40,,BFH,Tilkendt straffe,,72,Line FRANDSEN,Forårs. str.,23,Nanna HINNERFELDT,,
+102,748311,47.02,23-22,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,88,Rakul WARDUM
+103,748311,47.31,23-23,RIN,Mål,ST,23,Nanna HINNERFELDT,Assist,15,Jane MEJLVANG,20,Clara BAK
+104,748311,48.12,,,,,,,,,,,
+105,748311,48.57,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,,,,,
+106,748311,49.30,24-23,BFH,Mål,Gbr,25,Laura JENSEN,,,,88,Rakul WARDUM
+107,748311,49.45,,RIN,Skud reddet,2:e,10,Frida Høgaard NIELSEN,,,,20,Clara BAK
+108,748311,50.20,,BFH,Skud reddet,Gbr,25,Laura JENSEN,,,,88,Rakul WARDUM
+109,748311,50.32,,RIN,Skud forbi,2:e,33,Emma LAURSEN,,,,20,Clara BAK
+110,748311,51.00,,RIN,Udvisning,,23,Nanna HINNERFELDT,,,,,
+111,748311,51.18,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+112,748311,51.21,,RIN,Time out,,,,,,,,
+113,748311,52.06,,RIN,Skud blokeret,PL,3,Maria Berger WIERZBA,Blok af (ret),19,Rikke Dahl NIELSEN,,
+114,748311,52.33,24-24,RIN,Mål,PL,15,Jane MEJLVANG,,,,20,Clara BAK
+115,748311,52.43,,BFH,Skud forbi,HF,10,Melina KRISTENSEN,,,,88,Rakul WARDUM
+116,748311,53.21,,RIN,Skud på stolpe,HF,33,Emma LAURSEN,,,,20,Clara BAK
+117,748311,54.12,,BFH,Time out,,,,,,,,
+118,748311,54.22,,BFH,Skud reddet,HF,44,Louise HALD,,,,88,Rakul WARDUM
+119,748311,54.47,,RIN,Regelfejl,,23,Nanna HINNERFELDT,,,,,
+120,748311,55.07,25-24,BFH,Mål,Gbr,25,Laura JENSEN,,,,88,Rakul WARDUM
+121,748311,55.47,25-25,RIN,Mål,PL,3,Maria Berger WIERZBA,,,,20,Clara BAK
+122,748311,56.23,,BFH,Skud reddet,Gbr,25,Laura JENSEN,,,,88,Rakul WARDUM
+123,748311,56.30,25-26,RIN,Mål,1:e,3,Maria Berger WIERZBA,,,,,
+124,748311,56.57,,BFH,Skud på stolpe,Gbr,7,Line GYLDENLØVE,,,,88,Rakul WARDUM
+125,748311,57.39,,RIN,Skud reddet,HF,33,Emma LAURSEN,,,,20,Clara BAK
+126,748311,58.29,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+127,748311,58.58,,RIN,Skud reddet,HF,33,Emma LAURSEN,,,,20,Clara BAK
+128,748311,59.32,26-26,BFH,Mål,HF,44,Louise HALD,Assist,7,Line GYLDENLØVE,88,Rakul WARDUM
+129,748311,59.40,,RIN,Time out,,,,,,,,
+130,748311,60.00,,RIN,Skud blokeret,PL,15,Jane MEJLVANG,Blokeret af,11,Arlinda HAJDARI,,

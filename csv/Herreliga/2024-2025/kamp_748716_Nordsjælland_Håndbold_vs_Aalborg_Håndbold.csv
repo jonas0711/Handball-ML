@@ -1,0 +1,140 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748716,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748716,0.37,,AAH,Skud reddet,Gbr,7,Thomas ARNOLDSEN,Retur,0,,29,Jimmi ANDERSEN
+3,748716,1.22,,AAH,Skud på stolpe,HB,15,Jack THURIN,,,,29,Jimmi ANDERSEN
+4,748716,2.05,,NSH,Fejlaflevering,,19,Thomas BOILESEN,,,,,
+5,748716,2.10,,NSH,Udvisning,,7,Léo MARTINEZ,,,,,
+6,748716,2.10,,AAH,Tilkendt straffe,,20,Felix MÖLLER,Forårs. str.,7,Léo MARTINEZ,,
+7,748716,2.10,0-1,AAH,Mål på straffe,,15,Jack THURIN,,,,29,Jimmi ANDERSEN
+8,748716,2.52,,AAH,Advarsel,,15,Jack THURIN,,,,,
+9,748716,3.00,1-1,NSH,Mål,PL,57,Nikolaj LARSSON,,,,12,Fabian NORSTEN
+10,748716,3.05,1-2,AAH,Mål,1:e,7,Thomas ARNOLDSEN,,,,0,
+11,748716,4.17,,NSH,Skud reddet,VB,19,Thomas BOILESEN,,,,12,Fabian NORSTEN
+12,748716,4.48,,AAH,Skud reddet,Gbr,18,Aleks VLAH,,,,29,Jimmi ANDERSEN
+13,748716,4.59,,NSH,Tilkendt straffe,,57,Nikolaj LARSSON,Forårs. str.,20,Felix MÖLLER,,
+14,748716,5.16,2-2,NSH,Mål på straffe,,3,Carl-Emil HAUNSTRUP,,,,12,Fabian NORSTEN
+15,748716,5.51,,AAH,Skud reddet,HF,19,Kristian BJØRNSEN,,,,29,Jimmi ANDERSEN
+16,748716,5.58,,NSH,Skud reddet,2:e,19,Thomas BOILESEN,,,,12,Fabian NORSTEN
+17,748716,6.24,,AAH,Skud reddet,ST,20,Felix MÖLLER,,,,29,Jimmi ANDERSEN
+18,748716,6.31,3-2,NSH,Mål,2:e,5,Julius MØRCH,Assist,19,Thomas BOILESEN,12,Fabian NORSTEN
+19,748716,6.48,,NSH,Advarsel,,11,Jonas RAUNDAHL,,,,,
+20,748716,7.19,,AAH,Skud reddet,HB,15,Jack THURIN,,,,29,Jimmi ANDERSEN
+21,748716,7.52,,NSH,Skud reddet,PL,7,Léo MARTINEZ,,,,12,Fabian NORSTEN
+22,748716,8.05,3-3,AAH,Mål,2:e,7,Thomas ARNOLDSEN,,,,29,Jimmi ANDERSEN
+23,748716,8.16,,NSH,Skud reddet,2:e,57,Nikolaj LARSSON,,,,12,Fabian NORSTEN
+24,748716,8.29,3-4,AAH,Mål,2:e,18,Aleks VLAH,Assist,7,Thomas ARNOLDSEN,29,Jimmi ANDERSEN
+25,748716,9.06,,NSH,Skud reddet,Gbr,57,Nikolaj LARSSON,,,,12,Fabian NORSTEN
+26,748716,9.12,,AAH,Skud forbi,2:e,21,Henrik MØLLGAARD,,,,29,Jimmi ANDERSEN
+27,748716,9.21,,NSH,Fejlaflevering,,19,Thomas BOILESEN,Bold erobret,7,Thomas ARNOLDSEN,,
+28,748716,9.28,3-5,AAH,Mål,1:e,19,Kristian BJØRNSEN,,,,29,Jimmi ANDERSEN
+29,748716,9.58,,NSH,Skud reddet,VB,19,Thomas BOILESEN,,,,12,Fabian NORSTEN
+30,748716,10.39,,AAH,Skud blokeret,PL,18,Aleks VLAH,Blokeret af,42,Matias CAMPBELL,,
+31,748716,10.46,4-5,NSH,Mål,1:e,3,Carl-Emil HAUNSTRUP,,,,12,Fabian NORSTEN
+32,748716,11.03,4-6,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,29,Jimmi ANDERSEN
+33,748716,12.14,,NSH,Skud reddet,PL,42,Matias CAMPBELL,,,,12,Fabian NORSTEN
+34,748716,12.50,,AAH,Regelfejl,,18,Aleks VLAH,,,,,
+35,748716,13.00,,NSH,Regelfejl,,11,Jonas RAUNDAHL,,,,,
+36,748716,13.55,,AAH,Regelfejl,,6,Sebastian BARTHOLD,,,,,
+37,748716,13.59,5-6,NSH,Mål,2:e,3,Carl-Emil HAUNSTRUP,,,,12,Fabian NORSTEN
+38,748716,14.28,5-7,AAH,Mål,PL,3,Lukas NILSSON,,,,29,Jimmi ANDERSEN
+39,748716,15.05,6-7,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,13,Gustav BRUUN,12,Fabian NORSTEN
+40,748716,15.43,,AAH,Regelfejl,,9,Miguel MARTINS,,,,,
+41,748716,17.13,7-7,NSH,Mål,ST,14,Rasmus MADSBØLL,Assist,57,Nikolaj LARSSON,12,Fabian NORSTEN
+42,748716,17.49,,AAH,Skud reddet,VB,3,Lukas NILSSON,,,,29,Jimmi ANDERSEN
+43,748716,18.31,,NSH,Skud reddet,Gbr,13,Gustav BRUUN,Retur,0,,12,Fabian NORSTEN
+44,748716,18.56,,NSH,Regelfejl,,57,Nikolaj LARSSON,,,,,
+45,748716,19.33,,AAH,Skud reddet,PL,9,Miguel MARTINS,,,,29,Jimmi ANDERSEN
+46,748716,19.43,8-7,NSH,Mål,2:e,57,Nikolaj LARSSON,,,,12,Fabian NORSTEN
+47,748716,19.56,,AAH,Time out,,,,,,,,
+48,748716,20.10,8-8,AAH,Mål,VB,9,Miguel MARTINS,,,,29,Jimmi ANDERSEN
+49,748716,20.49,,NSH,Skud reddet,Gbr,57,Nikolaj LARSSON,,,,12,Fabian NORSTEN
+50,748716,21.21,,AAH,Skud reddet,PL,9,Miguel MARTINS,,,,29,Jimmi ANDERSEN
+51,748716,21.30,,NSH,Skud reddet,2:e,42,Matias CAMPBELL,,,,12,Fabian NORSTEN
+52,748716,22.13,8-9,AAH,Mål,ST,20,Felix MÖLLER,Assist,9,Miguel MARTINS,29,Jimmi ANDERSEN
+53,748716,22.21,,NSH,Tilkendt straffe,,21,Tim RANTALA,Forårs. str.,17,Martin LARSEN,,
+54,748716,22.21,,AAH,Udvisning,,17,Martin LARSEN,,,,,
+55,748716,22.25,9-9,NSH,Mål på straffe,,3,Carl-Emil HAUNSTRUP,,,,12,Fabian NORSTEN
+56,748716,23.27,9-10,AAH,Mål,Gbr,25,Marinus MUNK,,,,29,Jimmi ANDERSEN
+57,748716,24.13,10-10,NSH,Mål,ST,21,Tim RANTALA,Assist,42,Matias CAMPBELL,12,Fabian NORSTEN
+58,748716,24.43,,AAH,Skud blokeret,PL,25,Marinus MUNK,Blok af (ret),21,Tim RANTALA,,
+59,748716,24.56,,AAH,Skud forbi,Gbr,25,Marinus MUNK,,,,29,Jimmi ANDERSEN
+60,748716,25.43,11-10,NSH,Mål,Gbr,20,Jesper DAHL,,,,12,Fabian NORSTEN
+61,748716,25.52,11-11,AAH,Mål,PL,3,Lukas NILSSON,,,,29,Jimmi ANDERSEN
+62,748716,27.02,,NSH,Skud reddet,PL,7,Léo MARTINEZ,,,,12,Fabian NORSTEN
+63,748716,27.56,,AAH,Skud blokeret,PL,9,Miguel MARTINS,Blokeret af,42,Matias CAMPBELL,,
+64,748716,28.05,,NSH,Regelfejl,,17,Assar KAMMENHED,,,,,
+65,748716,28.30,11-12,AAH,Mål,PL,25,Marinus MUNK,,,,29,Jimmi ANDERSEN
+66,748716,28.38,,NSH,Time out,,,,,,,,
+67,748716,29.05,,NSH,Skud reddet,Gbr,20,Jesper DAHL,,,,12,Fabian NORSTEN
+68,748716,29.33,,AAH,Skud reddet,ST,19,Kristian BJØRNSEN,,,,29,Jimmi ANDERSEN
+69,748716,29.40,12-12,NSH,Mål,2:e,11,Jonas RAUNDAHL,,,,12,Fabian NORSTEN
+70,748716,29.48,12-13,AAH,Mål,2:e,3,Lukas NILSSON,,,,29,Jimmi ANDERSEN
+71,748716,29.59,,NSH,Skud reddet,HF,3,Carl-Emil HAUNSTRUP,,,,12,Fabian NORSTEN
+72,748716,30.00,12-13,,Halvleg,,,,,,,,
+73,748716,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748716,30.35,13-13,NSH,Mål,HB,13,Gustav BRUUN,,,,12,Fabian NORSTEN
+75,748716,30.51,,AAH,Skud reddet,Gbr,7,Thomas ARNOLDSEN,,,,29,Jimmi ANDERSEN
+76,748716,32.35,14-13,NSH,Mål,Gbr,13,Gustav BRUUN,,,,12,Fabian NORSTEN
+77,748716,33.12,14-14,AAH,Mål,ST,11,Simon HALD,,,,29,Jimmi ANDERSEN
+78,748716,33.21,15-14,NSH,Mål,Gbr,13,Gustav BRUUN,,,,12,Fabian NORSTEN
+79,748716,33.35,15-15,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,Assist,15,Jack THURIN,29,Jimmi ANDERSEN
+80,748716,34.08,,NSH,Skud reddet,Gbr,7,Léo MARTINEZ,,,,12,Fabian NORSTEN
+81,748716,34.48,,AAH,Regelfejl,,11,Simon HALD,,,,,
+82,748716,34.53,16-15,NSH,Mål,1:e,13,Gustav BRUUN,Assist,57,Nikolaj LARSSON,12,Fabian NORSTEN
+83,748716,35.35,,AAH,Fejlaflevering,,15,Jack THURIN,,,,,
+84,748716,35.52,17-15,NSH,Mål,Gbr,13,Gustav BRUUN,,,,12,Fabian NORSTEN
+85,748716,35.58,17-16,AAH,Mål,1:e,11,Simon HALD,,,,0,
+86,748716,36.34,,NSH,Regelfejl,,57,Nikolaj LARSSON,,,,,
+87,748716,36.43,,AAH,Fejlaflevering,,15,Jack THURIN,,,,,
+88,748716,36.49,18-16,NSH,Mål,1:e,57,Nikolaj LARSSON,,,,12,Fabian NORSTEN
+89,748716,37.22,18-17,AAH,Mål,PL,7,Thomas ARNOLDSEN,,,,29,Jimmi ANDERSEN
+90,748716,38.11,19-17,NSH,Mål,Gbr,57,Nikolaj LARSSON,,,,12,Fabian NORSTEN
+91,748716,38.44,19-18,AAH,Mål,Gbr,18,Aleks VLAH,,,,29,Jimmi ANDERSEN
+92,748716,39.56,,NSH,Skud forbi,PL,42,Matias CAMPBELL,,,,12,Fabian NORSTEN
+93,748716,41.00,19-19,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,29,Jimmi ANDERSEN
+94,748716,41.59,,NSH,Passivt spil,,0,,,,,,
+95,748716,42.29,,AAH,Skud blokeret,PL,17,Martin LARSEN,Blokeret af,5,Julius MØRCH,,
+96,748716,42.37,20-19,NSH,Mål,1:e,11,Jonas RAUNDAHL,,,,12,Fabian NORSTEN
+97,748716,42.42,,AAH,Regelfejl,,17,Martin LARSEN,,,,,
+98,748716,42.47,21-19,NSH,Mål,1:e,11,Jonas RAUNDAHL,,,,12,Fabian NORSTEN
+99,748716,43.20,,AAH,Fejlaflevering,,7,Thomas ARNOLDSEN,Bold erobret,13,Gustav BRUUN,,
+100,748716,43.27,,NSH,Skud forbi,2:e,42,Matias CAMPBELL,,,,12,Fabian NORSTEN
+101,748716,44.00,,AAH,Skud reddet,Gbr,3,Lukas NILSSON,,,,29,Jimmi ANDERSEN
+102,748716,44.03,,AAH,Udvisning,,3,Lukas NILSSON,,,,,
+103,748716,44.28,22-19,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,Assist,57,Nikolaj LARSSON,12,Fabian NORSTEN
+104,748716,45.28,,,,,,,,,,,
+105,748716,45.59,,AAH,Skud på stolpe,PL,7,Thomas ARNOLDSEN,,,,29,Jimmi ANDERSEN
+106,748716,45.59,,NSH,Tilkendt straffe,,14,Rasmus MADSBØLL,Forårs. str.,4,Patrick WIESMACH,,
+107,748716,45.59,,AAH,Udvisning,,4,Patrick WIESMACH,,,,,
+108,748716,46.03,23-19,NSH,Mål på straffe,,3,Carl-Emil HAUNSTRUP,,,,1,Niklas LANDIN
+109,748716,47.00,23-20,AAH,Mål,ST,20,Felix MÖLLER,Assist,7,Thomas ARNOLDSEN,29,Jimmi ANDERSEN
+110,748716,47.54,,NSH,Skud reddet,Gbr,42,Matias CAMPBELL,,,,12,Fabian NORSTEN
+111,748716,48.25,,AAH,Skud reddet,HF,4,Patrick WIESMACH,,,,29,Jimmi ANDERSEN
+112,748716,49.10,,NSH,Fejlaflevering,,20,Jesper DAHL,Bold erobret,6,Sebastian BARTHOLD,,
+113,748716,49.53,23-21,AAH,Mål,PL,7,Thomas ARNOLDSEN,,,,29,Jimmi ANDERSEN
+114,748716,50.35,,NSH,Regelfejl,,79,Oliver KLARSKOV,,,,,
+115,748716,50.41,,AAH,Skud forbi,1:e,3,Lukas NILSSON,,,,0,
+116,748716,51.14,,NSH,Skud reddet,VF,14,Rasmus MADSBØLL,,,,12,Fabian NORSTEN
+117,748716,51.48,23-22,AAH,Mål,HB,7,Thomas ARNOLDSEN,,,,16,Magnus PETERSEN
+118,748716,51.59,24-22,NSH,Mål,2:e,13,Gustav BRUUN,,,,12,Fabian NORSTEN
+119,748716,52.16,24-23,AAH,Mål,PL,7,Thomas ARNOLDSEN,,,,16,Magnus PETERSEN
+120,748716,52.35,,NSH,Time out,,,,,,,,
+121,748716,52.57,25-23,NSH,Mål,PL,42,Matias CAMPBELL,,,,12,Fabian NORSTEN
+122,748716,53.40,25-24,AAH,Mål,ST,20,Felix MÖLLER,Assist,7,Thomas ARNOLDSEN,16,Magnus PETERSEN
+123,748716,53.45,,NSH,Udvisning,,21,Tim RANTALA,,,,,
+124,748716,54.55,,NSH,Passivt spil,,0,,,,,,
+125,748716,54.55,,NSH,Udvisning,,57,Nikolaj LARSSON,,,,,
+126,748716,54.55,,AAH,Time out,,,,,,,,
+127,748716,55.06,25-25,AAH,Mål,VF,6,Sebastian BARTHOLD,,,,16,Magnus PETERSEN
+128,748716,55.57,,NSH,Fejlaflevering,,79,Oliver KLARSKOV,Bold erobret,3,Lukas NILSSON,,
+129,748716,56.01,25-26,AAH,Mål,1:e,3,Lukas NILSSON,,,,0,
+130,748716,56.51,,NSH,Skud reddet,PL,13,Gustav BRUUN,,,,12,Fabian NORSTEN
+131,748716,57.24,,AAH,Tilkendt straffe,,3,Lukas NILSSON,Forårs. str.,11,Jonas RAUNDAHL,,
+132,748716,57.29,25-27,AAH,Mål på straffe,,15,Jack THURIN,,,,29,Jimmi ANDERSEN
+133,748716,57.35,,NSH,Time out,,,,,,,,
+134,748716,57.57,,NSH,Skud på stolpe,Gbr,17,Assar KAMMENHED,,,,12,Fabian NORSTEN
+135,748716,58.37,25-28,AAH,Mål,VB,25,Marinus MUNK,,,,29,Jimmi ANDERSEN
+136,748716,59.08,26-28,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,42,Matias CAMPBELL,12,Fabian NORSTEN
+137,748716,59.26,,AAH,Skud reddet,Gbr,25,Marinus MUNK,Retur,0,,29,Jimmi ANDERSEN
+138,748716,59.44,26-29,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,29,Jimmi ANDERSEN
+139,748716,59.59,27-29,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,42,Matias CAMPBELL,12,Fabian NORSTEN

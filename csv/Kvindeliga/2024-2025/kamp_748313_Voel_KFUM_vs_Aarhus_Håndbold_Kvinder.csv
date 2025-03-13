@@ -1,0 +1,146 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748313,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748313,0.51,0-1,AHB,Mål,Gbr,15,Sofia DEEN,,,,22,Stine BONDE
+3,748313,1.54,,SVK,Fejlaflevering,,31,Andrea West BENDTSEN,Bold erobret,18,Mathilde ØSTERGAARD,,
+4,748313,2.30,0-2,AHB,Mål,PL,15,Sofia DEEN,,,,22,Stine BONDE
+5,748313,2.38,1-2,SVK,Mål,2:e,23,Thilde FRANDSEN,Assist,31,Andrea West BENDTSEN,86,Sabine ENGLERT
+6,748313,3.00,,AHB,Skud på stolpe,PL,17,Line Berggren LARSEN,Retur,18,Mathilde ØSTERGAARD,22,Stine BONDE
+7,748313,3.06,1-3,AHB,Mål,VF,18,Mathilde ØSTERGAARD,,,,22,Stine BONDE
+8,748313,3.25,2-3,SVK,Mål,2:e,4,Maria HOLM,,,,86,Sabine ENGLERT
+9,748313,4.01,,AHB,Fejlaflevering,,77,Alberte EBLER,Bold erobret,4,Maria HOLM,,
+10,748313,4.06,3-3,SVK,Mål,1:e,7,Maja Munch LAURSEN,Assist,23,Thilde FRANDSEN,86,Sabine ENGLERT
+11,748313,4.15,,AHB,Regelfejl,,15,Sofia DEEN,,,,,
+12,748313,4.24,4-3,SVK,Mål,2:e,4,Maria HOLM,,,,86,Sabine ENGLERT
+13,748313,5.01,,AHB,Skud på stolpe,VF,18,Mathilde ØSTERGAARD,,,,22,Stine BONDE
+14,748313,5.45,,SVK,Skud på stolpe,VB,6,Thea RASMUSSEN,,,,86,Sabine ENGLERT
+15,748313,5.54,,AHB,Skud på stolpe,2:e,77,Alberte EBLER,,,,22,Stine BONDE
+16,748313,6.04,,SVK,Fejlaflevering,,3,Isabella POULSEN,,,,,
+17,748313,7.03,,AHB,Passivt spil,,0,,,,,,
+18,748313,7.13,,SVK,Skud reddet,1:e,7,Maja Munch LAURSEN,,,,86,Sabine ENGLERT
+19,748313,7.42,,AHB,Tabt bold,,77,Alberte EBLER,,,,,
+20,748313,7.45,,AHB,Udvisning,,17,Line Berggren LARSEN,,,,,
+21,748313,7.58,5-3,SVK,Mål,VF,7,Maja Munch LAURSEN,Assist,6,Thea RASMUSSEN,86,Sabine ENGLERT
+22,748313,8.57,,AHB,Skud på stolpe,HF,10,Frederikke WAAGE-JENSEN,,,,22,Stine BONDE
+23,748313,9.20,6-3,SVK,Mål,ST,15,Karen KLOKKER,Assist,6,Thea RASMUSSEN,86,Sabine ENGLERT
+24,748313,9.53,,AHB,Fejlaflevering,,23,Nikoline SAX,Bold erobret,31,Andrea West BENDTSEN,,
+25,748313,9.58,7-3,SVK,Mål,1:e,23,Thilde FRANDSEN,Assist,31,Andrea West BENDTSEN,86,Sabine ENGLERT
+26,748313,10.03,,AHB,Time out,,,,,,,,
+27,748313,10.29,,AHB,Skud reddet,VF,18,Mathilde ØSTERGAARD,,,,22,Stine BONDE
+28,748313,11.03,8-3,SVK,Mål,ST,23,Thilde FRANDSEN,Assist,31,Andrea West BENDTSEN,86,Sabine ENGLERT
+29,748313,11.11,,AHB,Tabt bold,,17,Line Berggren LARSEN,Bold erobret,4,Maria HOLM,,
+30,748313,11.41,9-3,SVK,Mål,HB,4,Maria HOLM,,,,86,Sabine ENGLERT
+31,748313,12.28,,AHB,Tilkendt straffe,,3,Sarah Vest KIRKELØKKE,Forårs. str.,15,Karen KLOKKER,,
+32,748313,12.41,9-4,AHB,Mål på straffe,,18,Mathilde ØSTERGAARD,,,,22,Stine BONDE
+33,748313,13.08,10-4,SVK,Mål,ST,31,Andrea West BENDTSEN,Assist,4,Maria HOLM,86,Sabine ENGLERT
+34,748313,13.44,,AHB,Fejlaflevering,,23,Nikoline SAX,,,,,
+35,748313,13.48,11-4,SVK,Mål,1:e,7,Maja Munch LAURSEN,Assist,31,Andrea West BENDTSEN,86,Sabine ENGLERT
+36,748313,13.52,,AHB,Time out,,,,,,,,
+37,748313,14.23,11-5,AHB,Mål,Gbr,15,Sofia DEEN,,,,22,Stine BONDE
+38,748313,15.04,12-5,SVK,Mål,Gbr,6,Thea RASMUSSEN,,,,1,Elin THORSTEINSDOTTIR
+39,748313,15.21,,AHB,Skud reddet,HF,10,Frederikke WAAGE-JENSEN,Retur,0,,22,Stine BONDE
+40,748313,15.54,,AHB,Tilkendt straffe,,23,Nikoline SAX,Forårs. str.,31,Andrea West BENDTSEN,,
+41,748313,15.58,12-6,AHB,Mål på straffe,,18,Mathilde ØSTERGAARD,,,,16,Anna VENG
+42,748313,16.44,,SVK,Skud blokeret,PL,4,Maria HOLM,Blok af (ret),7,Emma MOGENSEN,,
+43,748313,16.58,13-6,SVK,Mål,PL,31,Andrea West BENDTSEN,,,,1,Elin THORSTEINSDOTTIR
+44,748313,17.05,,SVK,Udvisning,,13,Mathilde KRISTENSEN,,,,,
+45,748313,17.19,13-7,AHB,Mål,PL,17,Line Berggren LARSEN,,,,22,Stine BONDE
+46,748313,17.58,,SVK,Skud reddet,HB,4,Maria HOLM,,,,1,Elin THORSTEINSDOTTIR
+47,748313,18.06,,AHB,Fejlaflevering,,1,Elin THORSTEINSDOTTIR,Bold erobret,23,Thilde FRANDSEN,,
+48,748313,18.48,,SVK,Skud reddet,VB,6,Thea RASMUSSEN,,,,1,Elin THORSTEINSDOTTIR
+49,748313,18.54,13-8,AHB,Mål,1:e,17,Line Berggren LARSEN,,,,0,
+50,748313,19.24,14-8,SVK,Mål,HB,4,Maria HOLM,,,,1,Elin THORSTEINSDOTTIR
+51,748313,19.59,,AHB,Tilkendt straffe,,23,Nikoline SAX,Forårs. str.,31,Andrea West BENDTSEN,,
+52,748313,20.14,14-9,AHB,Mål på straffe,,18,Mathilde ØSTERGAARD,,,,22,Stine BONDE
+53,748313,20.51,15-9,SVK,Mål,ST,15,Karen KLOKKER,Assist,6,Thea RASMUSSEN,1,Elin THORSTEINSDOTTIR
+54,748313,21.28,,AHB,Skud reddet,Gbr,23,Nikoline SAX,,,,22,Stine BONDE
+55,748313,21.37,,SVK,Tilkendt straffe,,15,Karen KLOKKER,Forårs. str.,15,Sofia DEEN,,
+56,748313,22.04,16-9,SVK,Mål på straffe,,21,Maja EDLING,,,,1,Elin THORSTEINSDOTTIR
+57,748313,22.44,16-10,AHB,Mål,PL,17,Line Berggren LARSEN,,,,22,Stine BONDE
+58,748313,23.43,17-10,SVK,Mål,VF,21,Maja EDLING,Assist,6,Thea RASMUSSEN,1,Elin THORSTEINSDOTTIR
+59,748313,24.17,17-11,AHB,Mål,HB,17,Line Berggren LARSEN,,,,22,Stine BONDE
+60,748313,24.23,,SVK,Fejlaflevering,,11,Sara MADSEN,,,,,
+61,748313,24.26,17-12,AHB,Mål,1:e,17,Line Berggren LARSEN,Assist,18,Mathilde ØSTERGAARD,22,Stine BONDE
+62,748313,24.26,,SVK,Udvisning,,31,Andrea West BENDTSEN,,,,,
+63,748313,24.55,,SVK,Skud forbi,PL,11,Sara MADSEN,,,,1,Elin THORSTEINSDOTTIR
+64,748313,25.06,,AHB,Skud reddet,2:e,10,Frederikke WAAGE-JENSEN,,,,22,Stine BONDE
+65,748313,26.00,,SVK,Skud forbi,Gbr,6,Thea RASMUSSEN,,,,1,Elin THORSTEINSDOTTIR
+66,748313,26.26,,AHB,Skud reddet,HF,10,Frederikke WAAGE-JENSEN,,,,22,Stine BONDE
+67,748313,26.32,,SVK,Time out,,,,,,,,
+68,748313,27.13,,SVK,Skud reddet,Gbr,27,Marigona HAJDARI,,,,1,Elin THORSTEINSDOTTIR
+69,748313,27.24,,AHB,Fejlaflevering,,17,Line Berggren LARSEN,Bold erobret,23,Thilde FRANDSEN,,
+70,748313,27.29,18-12,SVK,Mål,1:e,21,Maja EDLING,Assist,6,Thea RASMUSSEN,1,Elin THORSTEINSDOTTIR
+71,748313,28.14,,AHB,Regelfejl,,4,Katrine JACOBSEN,,,,,
+72,748313,28.44,,SVK,Regelfejl,,6,Thea RASMUSSEN,,,,,
+73,748313,29.22,,AHB,Fejlaflevering,,15,Sofia DEEN,,,,,
+74,748313,29.53,19-12,SVK,Mål,HB,11,Sara MADSEN,,,,1,Elin THORSTEINSDOTTIR
+75,748313,30.00,19-12,,Halvleg,,,,,,,,
+76,748313,30.00,,,Start 2:e halvleg,,,,,,,,
+77,748313,30.31,20-12,SVK,Mål,VF,21,Maja EDLING,Assist,6,Thea RASMUSSEN,86,Sabine ENGLERT
+78,748313,31.22,,AHB,Skud reddet,PL,17,Line Berggren LARSEN,,,,22,Stine BONDE
+79,748313,31.26,21-12,SVK,Mål,1:e,23,Thilde FRANDSEN,Assist,22,Stine BONDE,86,Sabine ENGLERT
+80,748313,31.41,,AHB,Fejlaflevering,,17,Line Berggren LARSEN,Bold erobret,23,Thilde FRANDSEN,,
+81,748313,32.28,22-12,SVK,Mål,VB,31,Andrea West BENDTSEN,,,,86,Sabine ENGLERT
+82,748313,32.43,,AHB,Skud på stolpe,2:e,18,Mathilde ØSTERGAARD,,,,22,Stine BONDE
+83,748313,33.16,23-12,SVK,Mål,VF,21,Maja EDLING,Assist,4,Maria HOLM,86,Sabine ENGLERT
+84,748313,34.03,,AHB,Regelfejl,,8,Freja GANDRUP ERNST,,,,,
+85,748313,34.33,,SVK,Skud reddet,HB,6,Thea RASMUSSEN,,,,86,Sabine ENGLERT
+86,748313,34.48,,AHB,Skud reddet,PL,15,Sofia DEEN,,,,22,Stine BONDE
+87,748313,35.27,24-12,SVK,Mål,PL,31,Andrea West BENDTSEN,,,,86,Sabine ENGLERT
+88,748313,35.38,24-13,AHB,Mål,2:e,8,Freja GANDRUP ERNST,,,,22,Stine BONDE
+89,748313,35.50,25-13,SVK,Mål,2:e,21,Maja EDLING,Assist,6,Thea RASMUSSEN,86,Sabine ENGLERT
+90,748313,36.33,,AHB,Skud reddet,HB,8,Freja GANDRUP ERNST,,,,22,Stine BONDE
+91,748313,36.42,26-13,SVK,Mål,2:e,6,Thea RASMUSSEN,Assist,4,Maria HOLM,86,Sabine ENGLERT
+92,748313,36.47,,AHB,Time out,,,,,,,,
+93,748313,37.45,,AHB,Tilkendt straffe,,15,Sofia DEEN,Forårs. str.,4,Maria HOLM,,
+94,748313,38.04,26-14,AHB,Mål på straffe,,18,Mathilde ØSTERGAARD,,,,22,Stine BONDE
+95,748313,38.50,27-14,SVK,Mål,PL,4,Maria HOLM,,,,86,Sabine ENGLERT
+96,748313,39.22,,AHB,Fejlaflevering,,17,Line Berggren LARSEN,,,,,
+97,748313,39.27,28-14,SVK,Mål,1:e,3,Isabella POULSEN,Assist,22,Stine BONDE,,
+98,748313,40.04,,AHB,Fejlaflevering,,23,Nikoline SAX,,,,,
+99,748313,40.09,29-14,SVK,Mål,1:e,23,Thilde FRANDSEN,,,,,
+100,748313,40.50,,AHB,Skud på stolpe,PL,17,Line Berggren LARSEN,,,,22,Stine BONDE
+101,748313,41.23,,SVK,Fejlaflevering,,4,Maria HOLM,,,,,
+102,748313,41.33,29-15,AHB,Mål,2:e,77,Alberte EBLER,Assist,23,Nikoline SAX,22,Stine BONDE
+103,748313,42.13,,SVK,Skud reddet,HF,19,Laura Galle HANSEN,,,,86,Sabine ENGLERT
+104,748313,42.28,,,,,,,,,,,
+105,748313,44.21,,SVK,Skud forbi,PL,4,Maria HOLM,,,,86,Sabine ENGLERT
+106,748313,44.31,,AHB,Skud reddet,2:e,15,Sofia DEEN,,,,16,Anna VENG
+107,748313,44.41,,SVK,Skud reddet,2:e,19,Laura Galle HANSEN,,,,86,Sabine ENGLERT
+108,748313,45.30,,AHB,Fejlaflevering,,23,Nikoline SAX,,,,,
+109,748313,45.34,,SVK,Tabt bold,,13,Mathilde KRISTENSEN,,,,,
+110,748313,45.47,30-16,AHB,Mål,Gbr,77,Alberte EBLER,Assist,23,Nikoline SAX,16,Anna VENG
+111,748313,46.45,31-16,SVK,Mål,HB,11,Sara MADSEN,,,,86,Sabine ENGLERT
+112,748313,47.11,,AHB,Skud reddet,HF,10,Frederikke WAAGE-JENSEN,,,,16,Anna VENG
+113,748313,47.23,,SVK,Time out,,,,,,,,
+114,748313,47.43,,SVK,Fejlaflevering,,3,Isabella POULSEN,Bold erobret,11,Sophia SNOGDAL,,
+115,748313,48.34,,AHB,Skud reddet,VF,11,Sophia SNOGDAL,,,,16,Anna VENG
+116,748313,48.42,,SVK,Regelfejl,,3,Isabella POULSEN,,,,,
+117,748313,48.55,,AHB,Skud reddet,2:e,11,Sophia SNOGDAL,,,,16,Anna VENG
+118,748313,49.19,32-16,SVK,Mål,Gbr,27,Marigona HAJDARI,,,,86,Sabine ENGLERT
+119,748313,49.29,32-17,AHB,Mål,2:e,4,Katrine JACOBSEN,Assist,23,Nikoline SAX,16,Anna VENG
+120,748313,50.11,,SVK,Skud forbi,HF,19,Laura Galle HANSEN,,,,86,Sabine ENGLERT
+121,748313,50.23,,AHB,Skud forbi,2:e,77,Alberte EBLER,,,,16,Anna VENG
+122,748313,50.31,,SVK,Skud reddet,2:e,11,Sara MADSEN,Retur,0,,86,Sabine ENGLERT
+123,748313,51.03,,SVK,Skud blokeret,PL,11,Sara MADSEN,Blokeret af,4,Katrine JACOBSEN,,
+124,748313,51.09,32-18,AHB,Mål,1:e,11,Sophia SNOGDAL,,,,16,Anna VENG
+125,748313,51.48,,SVK,Skud reddet,Gbr,11,Sara MADSEN,,,,86,Sabine ENGLERT
+126,748313,52.03,,AHB,Regelfejl,,3,Sarah Vest KIRKELØKKE,,,,,
+127,748313,52.25,,SVK,Fejlaflevering,,11,Sara MADSEN,,,,,
+128,748313,52.40,32-19,AHB,Mål,2:e,23,Nikoline SAX,,,,16,Anna VENG
+129,748313,52.51,,SVK,Regelfejl,,27,Marigona HAJDARI,,,,,
+130,748313,53.07,32-20,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,23,Nikoline SAX,16,Anna VENG
+131,748313,53.09,,SVK,Time out,,,,,,,,
+132,748313,53.34,,SVK,Skud forbi,PL,11,Sara MADSEN,,,,86,Sabine ENGLERT
+133,748313,54.02,32-21,AHB,Mål,VF,11,Sophia SNOGDAL,Assist,10,Frederikke WAAGE-JENSEN,16,Anna VENG
+134,748313,54.29,33-21,SVK,Mål,Gbr,11,Sara MADSEN,,,,86,Sabine ENGLERT
+135,748313,55.00,33-22,AHB,Mål,VB,15,Sofia DEEN,,,,16,Anna VENG
+136,748313,56.03,34-22,SVK,Mål,Gbr,11,Sara MADSEN,Assist,3,Isabella POULSEN,86,Sabine ENGLERT
+137,748313,57.03,,AHB,Skud på stolpe,ST,3,Sarah Vest KIRKELØKKE,,,,16,Anna VENG
+138,748313,57.33,35-22,SVK,Mål,HB,11,Sara MADSEN,,,,86,Sabine ENGLERT
+139,748313,57.41,35-23,AHB,Mål,2:e,15,Sofia DEEN,,,,16,Anna VENG
+140,748313,57.49,,SVK,Skud blokeret,2:e,11,Sara MADSEN,Blok af (ret),7,Emma MOGENSEN,,
+141,748313,58.21,,SVK,Skud reddet,PL,18,Anne Dolberg PLOUGSTRUP,,,,86,Sabine ENGLERT
+142,748313,58.48,,AHB,Skud reddet,HB,77,Alberte EBLER,,,,16,Anna VENG
+143,748313,59.15,,SVK,Tabt bold,,11,Sara MADSEN,,,,,
+144,748313,59.22,,AHB,Skud reddet,1:e,10,Frederikke WAAGE-JENSEN,,,,16,Anna VENG
+145,748313,59.59,36-23,SVK,Mål,ST,8,Maria JACOBSEN,Assist,3,Isabella POULSEN,86,Sabine ENGLERT

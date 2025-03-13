@@ -1,0 +1,141 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748220,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748220,0.44,,VHK,Fejlaflevering,,5,Marielle MARTINSEN,,,,,
+3,748220,1.34,1-0,KBH,Mål,Gbr,4,Catharina MOLENAAR,,,,16,Louise Bak JENSEN
+4,748220,1.45,1-1,VHK,Mål,2:e,77,Jana MITTÚN,Assist,26,Christina PEDERSEN,20,Anne Christine BOSSEN
+5,748220,2.16,2-1,KBH,Mål,PL,15,Emma NAVNE,,,,16,Louise Bak JENSEN
+6,748220,3.16,2-2,VHK,Mål,PL,26,Christina PEDERSEN,,,,20,Anne Christine BOSSEN
+7,748220,3.47,,KBH,Skud reddet,ST,17,Tabea SCHMID,,,,16,Louise Bak JENSEN
+8,748220,4.23,,VHK,Skud reddet,Gbr,77,Jana MITTÚN,,,,20,Anne Christine BOSSEN
+9,748220,4.30,,KBH,Tilkendt straffe,,4,Catharina MOLENAAR,Forårs. str.,5,Marielle MARTINSEN,,
+10,748220,4.30,,VHK,Udvisning,,5,Marielle MARTINSEN,,,,,
+11,748220,4.34,3-2,KBH,Mål på straffe,,17,Tabea SCHMID,,,,16,Louise Bak JENSEN
+12,748220,5.14,3-3,VHK,Mål,Gbr,77,Jana MITTÚN,,,,20,Anne Christine BOSSEN
+13,748220,5.21,4-3,KBH,Mål,1:e,17,Tabea SCHMID,,,,0,
+14,748220,5.43,,VHK,Fejlaflevering,,26,Christina PEDERSEN,,,,,
+15,748220,5.47,5-3,KBH,Mål,1:e,17,Tabea SCHMID,,,,0,
+16,748220,6.26,,VHK,Skud reddet,PL,26,Christina PEDERSEN,,,,20,Anne Christine BOSSEN
+17,748220,6.33,6-3,KBH,Mål,2:e,21,Helene KINDBERG,Assist,4,Catharina MOLENAAR,16,Louise Bak JENSEN
+18,748220,6.39,,VHK,Time out,,,,,,,,
+19,748220,7.15,,VHK,Skud på stolpe,HF,18,Henriette HANSEN,,,,20,Anne Christine BOSSEN
+20,748220,7.43,,KBH,Tilkendt straffe,,21,Helene KINDBERG,Forårs. str.,9,Laura THESTRUP,,
+21,748220,7.51,7-3,KBH,Mål på straffe,,17,Tabea SCHMID,,,,12,Ida Marie KAYSEN
+22,748220,8.25,,VHK,Skud forbi,HF,18,Henriette HANSEN,,,,20,Anne Christine BOSSEN
+23,748220,9.00,8-3,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Louise Bak JENSEN
+24,748220,9.23,,VHK,Skud reddet,Gbr,26,Christina PEDERSEN,,,,20,Anne Christine BOSSEN
+25,748220,10.00,,KBH,Skud reddet,PL,15,Emma NAVNE,,,,16,Louise Bak JENSEN
+26,748220,10.09,8-4,VHK,Mål,VF,14,Camilla DEGN,Assist,77,Jana MITTÚN,20,Anne Christine BOSSEN
+27,748220,10.35,9-4,KBH,Mål,ST,17,Tabea SCHMID,Assist,4,Catharina MOLENAAR,16,Louise Bak JENSEN
+28,748220,11.20,9-5,VHK,Mål,VF,14,Camilla DEGN,Assist,77,Jana MITTÚN,20,Anne Christine BOSSEN
+29,748220,11.47,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+30,748220,11.51,9-6,VHK,Mål,2:e,19,Sara HALD,Assist,77,Jana MITTÚN,20,Anne Christine BOSSEN
+31,748220,12.01,,KBH,Skud reddet,2:e,5,Clara SKØTT,,,,16,Louise Bak JENSEN
+32,748220,12.30,9-7,VHK,Mål,ST,19,Sara HALD,Assist,5,Marielle MARTINSEN,20,Anne Christine BOSSEN
+33,748220,13.43,10-7,KBH,Mål,HB,21,Helene KINDBERG,,,,16,Louise Bak JENSEN
+34,748220,14.11,10-8,VHK,Mål,PL,5,Marielle MARTINSEN,,,,20,Anne Christine BOSSEN
+35,748220,14.45,11-8,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Louise Bak JENSEN
+36,748220,14.57,11-9,VHK,Mål,2:e,14,Camilla DEGN,Assist,77,Jana MITTÚN,20,Anne Christine BOSSEN
+37,748220,15.28,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+38,748220,16.17,,VHK,Skud forbi,PL,77,Jana MITTÚN,,,,20,Anne Christine BOSSEN
+39,748220,16.28,,KBH,Regelfejl,,11,Martha NICKELSEN,,,,,
+40,748220,16.33,11-10,VHK,Mål,1:e,77,Jana MITTÚN,,,,20,Anne Christine BOSSEN
+41,748220,17.21,12-10,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Louise Bak JENSEN
+42,748220,18.25,,VHK,Skud forbi,Gbr,5,Marielle MARTINSEN,,,,20,Anne Christine BOSSEN
+43,748220,18.33,13-10,KBH,Mål,2:e,7,Emilie Ytting PEDERSEN,Assist,4,Catharina MOLENAAR,16,Louise Bak JENSEN
+44,748220,19.18,,VHK,Fejlaflevering,,5,Marielle MARTINSEN,,,,,
+45,748220,19.20,14-10,KBH,Mål,1:e,7,Emilie Ytting PEDERSEN,Assist,20,Anne Christine BOSSEN,16,Louise Bak JENSEN
+46,748220,20.00,,VHK,Fejlaflevering,,77,Jana MITTÚN,,,,,
+47,748220,20.04,15-10,KBH,Mål,1:e,7,Emilie Ytting PEDERSEN,,,,16,Louise Bak JENSEN
+48,748220,21.13,,VHK,Skud blokeret,PL,62,Louise SØNDERGAARD,Blok af (ret),10,Pernille BRANDENBORG,,
+49,748220,21.21,15-11,VHK,Mål,ST,3,Alberte SIMONSEN,,,,20,Anne Christine BOSSEN
+50,748220,22.30,16-11,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,25,Tonje LØSETH,16,Louise Bak JENSEN
+51,748220,23.40,,VHK,Fejlaflevering,,26,Christina PEDERSEN,,,,,
+52,748220,24.39,,KBH,Skud reddet,HB,21,Helene KINDBERG,,,,16,Louise Bak JENSEN
+53,748220,24.51,16-12,VHK,Mål,HB,8,Elma ÖRTEMARK,Assist,26,Christina PEDERSEN,20,Anne Christine BOSSEN
+54,748220,25.27,17-12,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,11,Martha NICKELSEN,16,Louise Bak JENSEN
+55,748220,25.39,17-13,VHK,Mål,VF,14,Camilla DEGN,Assist,9,Laura THESTRUP,20,Anne Christine BOSSEN
+56,748220,26.10,,KBH,Skud reddet,ST,10,Pernille BRANDENBORG,,,,16,Louise Bak JENSEN
+57,748220,26.25,17-14,VHK,Mål,HF,49,Clara Bro VEILGAARD,Assist,8,Elma ÖRTEMARK,20,Anne Christine BOSSEN
+58,748220,26.37,,KBH,Time out,,,,,,,,
+59,748220,26.54,18-14,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,16,Louise Bak JENSEN
+60,748220,27.14,,VHK,Skud på stolpe,Gbr,8,Elma ÖRTEMARK,,,,20,Anne Christine BOSSEN
+61,748220,27.37,,KBH,Tilkendt straffe,,4,Catharina MOLENAAR,Forårs. str.,49,Clara Bro VEILGAARD,,
+62,748220,27.53,19-14,KBH,Mål på straffe,,17,Tabea SCHMID,,,,16,Louise Bak JENSEN
+63,748220,28.34,19-15,VHK,Mål,Gbr,5,Marielle MARTINSEN,Assist,26,Christina PEDERSEN,20,Anne Christine BOSSEN
+64,748220,29.25,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+65,748220,29.56,,VHK,Skud på stolpe,VF,14,Camilla DEGN,,,,20,Anne Christine BOSSEN
+66,748220,30.00,19-15,,Halvleg,,,,,,,,
+67,748220,30.00,,,Start 2:e halvleg,,,,,,,,
+68,748220,30.28,20-15,KBH,Mål,ST,17,Tabea SCHMID,Assist,4,Catharina MOLENAAR,16,Louise Bak JENSEN
+69,748220,30.44,,VHK,Regelfejl,,5,Marielle MARTINSEN,,,,,
+70,748220,31.39,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,16,Louise Bak JENSEN
+71,748220,31.49,,VHK,Skud reddet,1:e,49,Clara Bro VEILGAARD,,,,20,Anne Christine BOSSEN
+72,748220,31.55,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,Bold erobret,3,Alberte SIMONSEN,,
+73,748220,32.15,,KBH,Udvisning,,21,Helene KINDBERG,,,,,
+74,748220,32.41,20-16,VHK,Mål,Gbr,5,Marielle MARTINSEN,,,,20,Anne Christine BOSSEN
+75,748220,33.19,21-16,KBH,Mål,Gbr,4,Catharina MOLENAAR,,,,16,Louise Bak JENSEN
+76,748220,33.32,21-17,VHK,Mål,VF,14,Camilla DEGN,Assist,26,Christina PEDERSEN,20,Anne Christine BOSSEN
+77,748220,34.15,22-17,KBH,Mål,ST,17,Tabea SCHMID,Assist,4,Catharina MOLENAAR,16,Louise Bak JENSEN
+78,748220,34.26,22-18,VHK,Mål,HB,62,Louise SØNDERGAARD,,,,20,Anne Christine BOSSEN
+79,748220,34.45,23-18,KBH,Mål,1:e,7,Emilie Ytting PEDERSEN,,,,,
+80,748220,35.27,,VHK,Skud reddet,VB,5,Marielle MARTINSEN,,,,20,Anne Christine BOSSEN
+81,748220,36.17,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,19,Sara HALD,,
+82,748220,36.26,24-18,KBH,Mål på straffe,,17,Tabea SCHMID,,,,12,Ida Marie KAYSEN
+83,748220,36.57,24-19,VHK,Mål,ST,26,Christina PEDERSEN,Assist,62,Louise SØNDERGAARD,20,Anne Christine BOSSEN
+84,748220,37.39,,KBH,Skud reddet,VB,4,Catharina MOLENAAR,,,,16,Louise Bak JENSEN
+85,748220,37.46,24-20,VHK,Mål,2:e,14,Camilla DEGN,Assist,26,Christina PEDERSEN,20,Anne Christine BOSSEN
+86,748220,38.37,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,3,Alberte SIMONSEN,,
+87,748220,38.44,25-20,KBH,Mål på straffe,,17,Tabea SCHMID,,,,12,Ida Marie KAYSEN
+88,748220,39.15,,KBH,Udvisning,,10,Pernille BRANDENBORG,,,,,
+89,748220,39.52,,VHK,Regelfejl,,5,Marielle MARTINSEN,,,,,
+90,748220,40.43,,KBH,Fejlaflevering,,25,Tonje LØSETH,,,,,
+91,748220,40.49,25-21,VHK,Mål,2:e,3,Alberte SIMONSEN,Assist,26,Christina PEDERSEN,20,Anne Christine BOSSEN
+92,748220,41.21,,KBH,Tilkendt straffe,,4,Catharina MOLENAAR,Forårs. str.,49,Clara Bro VEILGAARD,,
+93,748220,41.33,26-21,KBH,Mål på straffe,,17,Tabea SCHMID,,,,16,Louise Bak JENSEN
+94,748220,42.02,26-22,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,20,Anne Christine BOSSEN
+95,748220,42.34,,KBH,Regelfejl,,25,Tonje LØSETH,,,,,
+96,748220,42.47,,VHK,Skud reddet,Gbr,49,Clara Bro VEILGAARD,Retur,5,Marielle MARTINSEN,20,Anne Christine BOSSEN
+97,748220,42.47,,VHK,Tilkendt straffe,,5,Marielle MARTINSEN,Forårs. str.,4,Catharina MOLENAAR,,
+98,748220,42.47,,KBH,Udvisning,,4,Catharina MOLENAAR,,,,,
+99,748220,42.47,26-23,VHK,Mål på straffe,,19,Sara HALD,,,,2,Bianca SCHANSSEMA
+100,748220,43.34,,KBH,Skud forbi,HF,21,Helene KINDBERG,,,,16,Louise Bak JENSEN
+101,748220,43.56,,VHK,Tilkendt straffe,,77,Jana MITTÚN,Forårs. str.,11,Martha NICKELSEN,,
+102,748220,43.58,26-24,VHK,Mål på straffe,,19,Sara HALD,,,,2,Bianca SCHANSSEMA
+103,748220,45.05,27-24,KBH,Mål,Gbr,25,Tonje LØSETH,,,,16,Louise Bak JENSEN
+104,748220,45.40,27-25,VHK,Mål,,,,,,,,
+105,748220,45.57,,KBH,Skud reddet,Gbr,11,Martha NICKELSEN,,,,16,Louise Bak JENSEN
+106,748220,46.27,,VHK,Skud reddet,VB,9,Laura THESTRUP,,,,20,Anne Christine BOSSEN
+107,748220,46.31,,KBH,Time out,,,,,,,,
+108,748220,47.02,28-25,KBH,Mål,Gbr,11,Martha NICKELSEN,Assist,4,Catharina MOLENAAR,16,Louise Bak JENSEN
+109,748220,47.07,,VHK,Udvisning,,14,Camilla DEGN,,,,,
+110,748220,47.25,,VHK,Skud forbi,PL,62,Louise SØNDERGAARD,,,,20,Anne Christine BOSSEN
+111,748220,47.49,29-25,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,16,Louise Bak JENSEN
+112,748220,48.40,29-26,VHK,Mål,ST,19,Sara HALD,Assist,26,Christina PEDERSEN,20,Anne Christine BOSSEN
+113,748220,49.01,30-26,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,4,Catharina MOLENAAR,16,Louise Bak JENSEN
+114,748220,49.54,,VHK,Fejlaflevering,,62,Louise SØNDERGAARD,,,,,
+115,748220,50.16,31-26,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,4,Catharina MOLENAAR,12,Ida Marie KAYSEN
+116,748220,50.24,,VHK,Time out,,,,,,,,
+117,748220,50.35,31-27,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,20,Anne Christine BOSSEN
+118,748220,51.01,,KBH,Regelfejl,,7,Emilie Ytting PEDERSEN,,,,,
+119,748220,51.26,,VHK,Skud forbi,VF,14,Camilla DEGN,,,,20,Anne Christine BOSSEN
+120,748220,51.55,,KBH,Skud reddet,VF,7,Emilie Ytting PEDERSEN,Retur,0,,12,Ida Marie KAYSEN
+121,748220,52.07,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+122,748220,52.12,31-28,VHK,Mål,1:e,26,Christina PEDERSEN,,,,0,
+123,748220,52.30,32-28,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,4,Catharina MOLENAAR,12,Ida Marie KAYSEN
+124,748220,53.10,,VHK,Skud reddet,PL,62,Louise SØNDERGAARD,,,,20,Anne Christine BOSSEN
+125,748220,53.38,33-28,KBH,Mål,ST,17,Tabea SCHMID,,,,12,Ida Marie KAYSEN
+126,748220,53.49,33-29,VHK,Mål,HF,49,Clara Bro VEILGAARD,Assist,62,Louise SØNDERGAARD,20,Anne Christine BOSSEN
+127,748220,54.11,34-29,KBH,Mål,VB,4,Catharina MOLENAAR,,,,12,Ida Marie KAYSEN
+128,748220,54.35,,VHK,Skud reddet,HF,49,Clara Bro VEILGAARD,,,,20,Anne Christine BOSSEN
+129,748220,55.00,,KBH,Fejlaflevering,,21,Helene KINDBERG,,,,,
+130,748220,55.13,,VHK,Fejlaflevering,,62,Louise SØNDERGAARD,,,,,
+131,748220,55.39,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+132,748220,56.15,,VHK,Time out,,,,,,,,
+133,748220,56.32,,VHK,Fejlaflevering,,77,Jana MITTÚN,,,,,
+134,748220,57.01,,KBH,Skud reddet,Gbr,4,Catharina MOLENAAR,,,,12,Ida Marie KAYSEN
+135,748220,57.28,34-30,VHK,Mål,Gbr,77,Jana MITTÚN,,,,20,Anne Christine BOSSEN
+136,748220,57.39,35-30,KBH,Mål,1:e,7,Emilie Ytting PEDERSEN,,,,0,
+137,748220,58.23,35-31,VHK,Mål,HF,49,Clara Bro VEILGAARD,Assist,62,Louise SØNDERGAARD,20,Anne Christine BOSSEN
+138,748220,58.45,36-31,KBH,Mål,HF,5,Clara SKØTT,Assist,21,Helene KINDBERG,12,Ida Marie KAYSEN
+139,748220,59.33,36-32,VHK,Mål,VF,14,Camilla DEGN,Assist,26,Christina PEDERSEN,20,Anne Christine BOSSEN
+140,748220,59.46,,KBH,Time out,,,,,,,,

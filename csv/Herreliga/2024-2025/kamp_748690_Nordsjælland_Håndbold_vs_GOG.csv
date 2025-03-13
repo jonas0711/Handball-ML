@@ -1,0 +1,155 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748690,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748690,0.48,1-0,NSH,Mål,PL,7,Léo MARTINEZ,,,,64,Salah BOUTAF
+3,748690,1.02,,GOG,Skud reddet,Gbr,37,Linus PERSSON,,,,29,Jimmi ANDERSEN
+4,748690,1.11,2-0,NSH,Mål,1:e,14,Rasmus MADSBØLL,Assist,57,Nikolaj LARSSON,64,Salah BOUTAF
+5,748690,1.24,,GOG,Tilkendt straffe,,37,Linus PERSSON,Forårs. str.,11,Jonas RAUNDAHL,,
+6,748690,1.27,,NSH,Advarsel,,11,Jonas RAUNDAHL,,,,,
+7,748690,1.45,2-1,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,29,Jimmi ANDERSEN
+8,748690,2.15,3-1,NSH,Mål,HB,57,Nikolaj LARSSON,,,,64,Salah BOUTAF
+9,748690,2.36,,GOG,Tilkendt straffe,,9,Henrik JAKOBSEN,Forårs. str.,42,Matias CAMPBELL,,
+10,748690,2.42,3-2,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,29,Jimmi ANDERSEN
+11,748690,3.31,,NSH,Skud reddet,Gbr,57,Nikolaj LARSSON,,,,64,Salah BOUTAF
+12,748690,4.23,3-3,GOG,Mål,ST,9,Henrik JAKOBSEN,Assist,15,Tobias GRØNDAHL,29,Jimmi ANDERSEN
+13,748690,4.33,,NSH,Tilkendt straffe,,57,Nikolaj LARSSON,Forårs. str.,8,Frederik TILSTED,,
+14,748690,4.53,,NSH,Straffekast reddet,,42,Matias CAMPBELL,,,,64,Salah BOUTAF
+15,748690,5.27,,GOG,Skud reddet,VB,8,Frederik TILSTED,,,,29,Jimmi ANDERSEN
+16,748690,6.00,4-3,NSH,Mål,Gbr,57,Nikolaj LARSSON,,,,64,Salah BOUTAF
+17,748690,6.13,4-4,GOG,Mål,VB,37,Linus PERSSON,,,,29,Jimmi ANDERSEN
+18,748690,6.48,,NSH,Regelfejl,,7,Léo MARTINEZ,,,,,
+19,748690,7.26,,GOG,Skud forbi,HB,37,Linus PERSSON,,,,29,Jimmi ANDERSEN
+20,748690,7.41,,NSH,Regelfejl,,5,Julius MØRCH,,,,,
+21,748690,8.11,4-5,GOG,Mål,ST,9,Henrik JAKOBSEN,Assist,15,Tobias GRØNDAHL,29,Jimmi ANDERSEN
+22,748690,8.47,,NSH,Skud reddet,Gbr,13,Gustav BRUUN,Retur,0,,64,Salah BOUTAF
+23,748690,9.11,,NSH,Skud blokeret,PL,13,Gustav BRUUN,Blok af (ret),9,Henrik JAKOBSEN,,
+24,748690,9.22,,NSH,Skud forbi,VB,13,Gustav BRUUN,,,,64,Salah BOUTAF
+25,748690,10.02,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+26,748690,10.42,,NSH,Tabt bold,,13,Gustav BRUUN,,,,,
+27,748690,10.48,4-6,GOG,Mål,2:e,37,Linus PERSSON,,,,29,Jimmi ANDERSEN
+28,748690,11.47,5-6,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,13,Gustav BRUUN,64,Salah BOUTAF
+29,748690,12.05,,GOG,Skud reddet,ST,9,Henrik JAKOBSEN,,,,29,Jimmi ANDERSEN
+30,748690,12.15,6-6,NSH,Mål,2:e,7,Léo MARTINEZ,Assist,42,Matias CAMPBELL,64,Salah BOUTAF
+31,748690,12.28,,NSH,Udvisning,,13,Gustav BRUUN,,,,,
+32,748690,12.43,,GOG,Skud reddet,Gbr,29,Hjalte LYKKE,,,,29,Jimmi ANDERSEN
+33,748690,13.56,,NSH,Skud forbi,PL,7,Léo MARTINEZ,,,,64,Salah BOUTAF
+34,748690,14.05,,GOG,Fejlaflevering,,64,Salah BOUTAF,,,,,
+35,748690,14.37,7-6,NSH,Mål,PL,19,Thomas BOILESEN,,,,64,Salah BOUTAF
+36,748690,14.51,7-7,GOG,Mål,HF,21,Kasper KILDELUND,Assist,15,Tobias GRØNDAHL,29,Jimmi ANDERSEN
+37,748690,15.37,8-7,NSH,Mål,HB,57,Nikolaj LARSSON,,,,64,Salah BOUTAF
+38,748690,16.17,8-8,GOG,Mål,Gbr,3,Nicolai PEDERSEN,,,,29,Jimmi ANDERSEN
+39,748690,16.24,,NSH,Skud reddet,2:e,19,Thomas BOILESEN,,,,64,Salah BOUTAF
+40,748690,16.31,8-9,GOG,Mål,1:e,71,Alexander BLONZ,Assist,,,64,Salah BOUTAF
+41,748690,17.02,9-9,NSH,Mål,VB,19,Thomas BOILESEN,,,,64,Salah BOUTAF
+42,748690,17.13,9-10,GOG,Mål,ST,66,Anton LINDSKOG,Assist,15,Tobias GRØNDAHL,29,Jimmi ANDERSEN
+43,748690,17.26,,GOG,Advarsel,,3,Nicolai PEDERSEN,,,,,
+44,748690,17.55,,NSH,Skud reddet,ST,21,Tim RANTALA,,,,64,Salah BOUTAF
+45,748690,18.46,9-11,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,29,Jimmi ANDERSEN
+46,748690,19.27,,NSH,Tilkendt straffe,,17,Assar KAMMENHED,Forårs. str.,3,Nicolai PEDERSEN,,
+47,748690,19.58,,NSH,Straffekast reddet,,3,Carl-Emil HAUNSTRUP,,,,64,Salah BOUTAF
+48,748690,20.34,9-12,GOG,Mål,Gbr,29,Hjalte LYKKE,Assist,15,Tobias GRØNDAHL,29,Jimmi ANDERSEN
+49,748690,20.51,,NSH,Skud på stolpe,Gbr,42,Matias CAMPBELL,,,,64,Salah BOUTAF
+50,748690,21.24,9-13,GOG,Mål,Gbr,15,Tobias GRØNDAHL,Assist,3,Nicolai PEDERSEN,29,Jimmi ANDERSEN
+51,748690,21.34,,NSH,Time out,,,,,,,,
+52,748690,21.59,10-13,NSH,Mål,Gbr,17,Assar KAMMENHED,,,,64,Salah BOUTAF
+53,748690,22.50,,GOG,Skud reddet,PL,29,Hjalte LYKKE,,,,16,Magnus PETERSEN
+54,748690,22.56,,NSH,Skud reddet,1:e,11,Jonas RAUNDAHL,,,,64,Salah BOUTAF
+55,748690,23.08,,GOG,Skud reddet,2:e,21,Kasper KILDELUND,Retur,0,,16,Magnus PETERSEN
+56,748690,23.50,10-14,GOG,Mål,VF,3,Nicolai PEDERSEN,,,,16,Magnus PETERSEN
+57,748690,24.21,,NSH,Skud forbi,Gbr,17,Assar KAMMENHED,,,,64,Salah BOUTAF
+58,748690,24.52,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+59,748690,25.20,11-14,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,42,Matias CAMPBELL,64,Salah BOUTAF
+60,748690,26.01,,GOG,Skud forbi,PL,29,Hjalte LYKKE,,,,16,Magnus PETERSEN
+61,748690,26.11,12-14,NSH,Mål,2:e,11,Jonas RAUNDAHL,Assist,42,Matias CAMPBELL,64,Salah BOUTAF
+62,748690,26.16,,GOG,Time out,,,,,,,,
+63,748690,26.47,12-15,GOG,Mål,Gbr,15,Tobias GRØNDAHL,,,,16,Magnus PETERSEN
+64,748690,27.26,,NSH,Skud på stolpe,ST,11,Jonas RAUNDAHL,,,,64,Salah BOUTAF
+65,748690,27.33,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,Bold erobret,3,Carl-Emil HAUNSTRUP,,
+66,748690,27.40,13-15,NSH,Mål,1:e,11,Jonas RAUNDAHL,Assist,3,Carl-Emil HAUNSTRUP,64,Salah BOUTAF
+67,748690,27.51,,GOG,Skud på stolpe,Gbr,3,Nicolai PEDERSEN,,,,16,Magnus PETERSEN
+68,748690,28.32,,NSH,Fejlaflevering,,17,Assar KAMMENHED,,,,,
+69,748690,28.36,13-16,GOG,Mål,1:e,21,Kasper KILDELUND,,,,0,
+70,748690,29.27,14-16,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,,,,64,Salah BOUTAF
+71,748690,29.53,14-17,GOG,Mål,Gbr,15,Tobias GRØNDAHL,,,,16,Magnus PETERSEN
+72,748690,30.00,14-17,,Halvleg,,,,,,,,
+73,748690,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748690,30.46,,GOG,Fejlaflevering,,0,,,,,,
+75,748690,30.53,,NSH,Fejlaflevering,,7,Léo MARTINEZ,,,,,
+76,748690,31.41,,GOG,Skud reddet,1:e,21,Kasper KILDELUND,,,,16,Magnus PETERSEN
+77,748690,31.54,,NSH,Skud blokeret,PL,57,Nikolaj LARSSON,Blokeret af,0,,,
+78,748690,32.10,,GOG,Fejlaflevering,,37,Linus PERSSON,,,,,
+79,748690,32.15,15-17,NSH,Mål,1:e,14,Rasmus MADSBØLL,,,,64,Salah BOUTAF
+80,748690,32.22,,GOG,Skud reddet,PL,8,Frederik TILSTED,,,,16,Magnus PETERSEN
+81,748690,33.12,16-17,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,Assist,57,Nikolaj LARSSON,64,Salah BOUTAF
+82,748690,34.25,,GOG,Skud reddet,Gbr,8,Frederik TILSTED,,,,16,Magnus PETERSEN
+83,748690,34.36,,NSH,Fejlaflevering,,13,Gustav BRUUN,,,,,
+84,748690,34.44,,GOG,Skud reddet,1:e,21,Kasper KILDELUND,,,,16,Magnus PETERSEN
+85,748690,34.55,,NSH,Tilkendt straffe,,17,Assar KAMMENHED,Forårs. str.,3,Nicolai PEDERSEN,64,Salah BOUTAF
+86,748690,35.18,,NSH,Straffekast reddet,,79,Oliver KLARSKOV,,,,64,Salah BOUTAF
+87,748690,36.07,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+88,748690,36.15,,NSH,Tilkendt straffe,,17,Assar KAMMENHED,Forårs. str.,37,Linus PERSSON,64,Salah BOUTAF
+89,748690,36.40,17-17,NSH,Mål på straffe,,42,Matias CAMPBELL,,,,64,Salah BOUTAF
+90,748690,37.13,,GOG,Skud reddet,PL,29,Hjalte LYKKE,,,,16,Magnus PETERSEN
+91,748690,38.13,18-17,NSH,Mål,ST,11,Jonas RAUNDAHL,,,,64,Salah BOUTAF
+92,748690,38.27,18-18,GOG,Mål,ST,9,Henrik JAKOBSEN,,,,16,Magnus PETERSEN
+93,748690,38.29,,NSH,Udvisning,,5,Julius MØRCH,,,,,
+94,748690,38.45,19-18,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,7,Léo MARTINEZ,64,Salah BOUTAF
+95,748690,39.29,,GOG,Regelfejl,,15,Tobias GRØNDAHL,,,,,
+96,748690,40.06,,NSH,Tabt bold,,57,Nikolaj LARSSON,,,,,
+97,748690,40.09,,GOG,Fejlaflevering,,3,Nicolai PEDERSEN,,,,,
+98,748690,40.13,20-18,NSH,Mål,2:e,11,Jonas RAUNDAHL,,,,64,Salah BOUTAF
+99,748690,40.17,,GOG,Time out,,,,,,,,
+100,748690,40.58,20-19,GOG,Mål,Gbr,37,Linus PERSSON,,,,16,Magnus PETERSEN
+101,748690,41.07,21-19,NSH,Mål,2:e,14,Rasmus MADSBØLL,Assist,13,Gustav BRUUN,64,Salah BOUTAF
+102,748690,41.50,,GOG,Regelfejl,,15,Tobias GRØNDAHL,,,,,
+103,748690,41.56,22-19,NSH,Mål,1:e,42,Matias CAMPBELL,,,,0,
+104,748690,42.52,,,,,,,,,,,
+105,748690,43.54,,GOG,Skud reddet,ST,66,Anton LINDSKOG,Retur,0,Magnus PETERSEN,,
+106,748690,43.59,,GOG,Passivt spil,,0,,,,,,
+107,748690,43.59,,NSH,Skud reddet,1:e,13,Gustav BRUUN,,,,64,Salah BOUTAF
+108,748690,44.35,22-20,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,29,Hjalte LYKKE,16,Magnus PETERSEN
+109,748690,45.16,23-20,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,13,Gustav BRUUN,64,Salah BOUTAF
+110,748690,45.26,,GOG,Tilkendt straffe,,10,Frederik PEDERSEN,Forårs. str.,5,Julius MØRCH,,
+111,748690,45.48,23-21,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,16,Magnus PETERSEN
+112,748690,46.22,,NSH,Skud reddet,Gbr,57,Nikolaj LARSSON,,,,64,Salah BOUTAF
+113,748690,47.03,,GOG,Skud reddet,Gbr,3,Nicolai PEDERSEN,,,,16,Magnus PETERSEN
+114,748690,47.36,,NSH,Skud reddet,VB,13,Gustav BRUUN,,,,64,Salah BOUTAF
+115,748690,47.50,23-22,GOG,Mål,Gbr,10,Frederik PEDERSEN,,,,16,Magnus PETERSEN
+116,748690,47.58,,NSH,Time out,,,,,,,,
+117,748690,48.57,24-22,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,7,Léo MARTINEZ,64,Salah BOUTAF
+118,748690,49.04,24-23,GOG,Mål,2:e,3,Nicolai PEDERSEN,,,,16,Magnus PETERSEN
+119,748690,50.07,,NSH,Fejlaflevering,,57,Nikolaj LARSSON,,,,,
+120,748690,50.19,,GOG,Skud reddet,Gbr,29,Hjalte LYKKE,,,,16,Magnus PETERSEN
+121,748690,50.24,,NSH,Skud reddet,1:e,11,Jonas RAUNDAHL,,,,64,Salah BOUTAF
+122,748690,50.31,,GOG,Regelfejl,,29,Hjalte LYKKE,,,,,
+123,748690,50.54,,NSH,Skud på stolpe,PL,57,Nikolaj LARSSON,Retur,3,Carl-Emil HAUNSTRUP,64,Salah BOUTAF
+124,748690,51.00,,NSH,Skud reddet,HF,3,Carl-Emil HAUNSTRUP,Retur,0,,64,Salah BOUTAF
+125,748690,51.07,25-23,NSH,Mål,ST,11,Jonas RAUNDAHL,,,,64,Salah BOUTAF
+126,748690,51.07,,GOG,Udvisning,,71,Alexander BLONZ,,,,,
+127,748690,51.30,,GOG,Tilkendt straffe,,3,Nicolai PEDERSEN,Forårs. str.,42,Matias CAMPBELL,,
+128,748690,51.35,25-24,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,16,Magnus PETERSEN
+129,748690,52.08,,NSH,Fejlaflevering,,42,Matias CAMPBELL,Bold erobret,37,Linus PERSSON,,
+130,748690,52.15,25-25,GOG,Mål,1:e,3,Nicolai PEDERSEN,,,,16,Magnus PETERSEN
+131,748690,52.37,,NSH,Tilkendt straffe,,79,Oliver KLARSKOV,Forårs. str.,21,Kasper KILDELUND,,
+132,748690,52.44,26-25,NSH,Mål på straffe,,42,Matias CAMPBELL,,,,64,Salah BOUTAF
+133,748690,52.49,,GOG,Advarsel,A,,Kasper CHRISTENSEN,,,,,
+134,748690,53.13,26-26,GOG,Mål,Gbr,3,Nicolai PEDERSEN,Assist,10,Frederik PEDERSEN,16,Magnus PETERSEN
+135,748690,53.45,,GOG,Udvisning,,66,Anton LINDSKOG,,,,,
+136,748690,54.08,,NSH,Skud reddet,PL,57,Nikolaj LARSSON,Retur,0,,64,Salah BOUTAF
+137,748690,54.15,27-26,NSH,Mål,ST,11,Jonas RAUNDAHL,,,,64,Salah BOUTAF
+138,748690,55.02,27-27,GOG,Mål,PL,10,Frederik PEDERSEN,,,,16,Magnus PETERSEN
+139,748690,55.09,28-27,NSH,Mål,1:e,5,Julius MØRCH,,0,,,
+140,748690,55.56,,GOG,Fejlaflevering,,3,Nicolai PEDERSEN,,,,,
+141,748690,56.41,29-27,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,79,Oliver KLARSKOV,64,Salah BOUTAF
+142,748690,57.25,,GOG,Fejlaflevering,,10,Frederik PEDERSEN,,,,,
+143,748690,57.28,,NSH,Fejlaflevering,,13,Gustav BRUUN,Bold erobret,9,Henrik JAKOBSEN,,
+144,748690,57.35,29-28,GOG,Mål,ST,10,Frederik PEDERSEN,,,,16,Magnus PETERSEN
+145,748690,58.04,,NSH,Fejlaflevering,,13,Gustav BRUUN,,,,,
+146,748690,58.10,29-29,GOG,Mål,1:e,3,Nicolai PEDERSEN,Assist,37,Linus PERSSON,16,Magnus PETERSEN
+147,748690,58.18,,NSH,Time out,,,,,,,,
+148,748690,58.49,30-29,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,Assist,57,Nikolaj LARSSON,64,Salah BOUTAF
+149,748690,58.56,,GOG,Time out,,,,,,,,
+150,748690,59.23,,GOG,Tilkendt straffe,,15,Tobias GRØNDAHL,Forårs. str.,42,Matias CAMPBELL,,
+151,748690,59.27,30-30,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,29,Jimmi ANDERSEN
+152,748690,60.00,,NSH,Skud blokeret,PL,42,Matias CAMPBELL,Blokeret af,66,Anton LINDSKOG,,
+153,748690,60.00,30-30,,Fuld tid,,,,,,,,
+154,748690,60.00,,,Kamp slut,,,,,,,,

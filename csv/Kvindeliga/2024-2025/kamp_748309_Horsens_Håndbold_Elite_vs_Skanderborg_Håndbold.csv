@@ -1,0 +1,123 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748309,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748309,0.31,,HHE,Skud på stolpe,VF,3,Alma SKRETTING,,,,1,Isabella MATHORNE
+3,748309,1.15,,SKB,Fejlaflevering,,7,Annika Solberg DALSAGER,Bold erobret,21,Romee MAARSCHALKEWEERD,,
+4,748309,1.18,1-0,HHE,Mål,1:e,21,Romee MAARSCHALKEWEERD,,,,1,Isabella MATHORNE
+5,748309,1.56,1-1,SKB,Mål,PL,11,Mia LAGUMDZIJA,,,,16,Andrea AUSTMO
+6,748309,2.32,2-1,HHE,Mål,ST,33,Laura Holm ANDERSEN,Assist,14,Mai KRAGBALLE,1,Isabella MATHORNE
+7,748309,3.20,,SKB,Skud reddet,Gbr,7,Annika Solberg DALSAGER,,,,16,Andrea AUSTMO
+8,748309,4.08,3-1,HHE,Mål,VF,33,Laura Holm ANDERSEN,Assist,7,Maria Palsdottir NÓLSOY,1,Isabella MATHORNE
+9,748309,4.20,3-2,SKB,Mål,2:e,3,Clara BANG,,,,16,Andrea AUSTMO
+10,748309,4.32,4-2,HHE,Mål,2:e,14,Mai KRAGBALLE,,,,1,Isabella MATHORNE
+11,748309,5.21,4-3,SKB,Mål,ST,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,16,Andrea AUSTMO
+12,748309,6.03,,HHE,Skud reddet,Gbr,19,Frida Haug HOEL,,,,1,Isabella MATHORNE
+13,748309,6.57,,SKB,Skud blokeret,PL,11,Mia LAGUMDZIJA,Blok af (ret),21,Romee MAARSCHALKEWEERD,,
+14,748309,7.04,,SKB,Skud forbi,PL,22,Anne-Sofie FILTENBORG,,,,16,Andrea AUSTMO
+15,748309,7.29,,HHE,Skud reddet,HB,19,Frida Haug HOEL,,,,1,Isabella MATHORNE
+16,748309,8.12,4-4,SKB,Mål,PL,7,Annika Solberg DALSAGER,,,,16,Andrea AUSTMO
+17,748309,8.43,5-4,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,,,,1,Isabella MATHORNE
+18,748309,8.52,5-5,SKB,Mål,2:e,11,Mia LAGUMDZIJA,,,,16,Andrea AUSTMO
+19,748309,9.00,,HHE,Tilkendt straffe,,7,Maria Palsdottir NÓLSOY,Forårs. str.,7,Annika Solberg DALSAGER,,
+20,748309,9.00,,SKB,Udvisning,,7,Annika Solberg DALSAGER,,,,,
+21,748309,9.02,6-5,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,1,Isabella MATHORNE
+22,748309,10.04,6-6,SKB,Mål,PL,3,Clara BANG,,,,16,Andrea AUSTMO
+23,748309,10.32,7-6,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,,,,1,Isabella MATHORNE
+24,748309,11.11,,SKB,Tilkendt straffe,,44,Nicoline LAURITSEN,Forårs. str.,3,Alma SKRETTING,,
+25,748309,11.14,,HHE,Advarsel,,3,Alma SKRETTING,,,,,
+26,748309,11.26,7-7,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,16,Andrea AUSTMO
+27,748309,12.10,,HHE,Skud reddet,VF,33,Laura Holm ANDERSEN,,,,1,Isabella MATHORNE
+28,748309,12.19,,SKB,Skud reddet,2:e,3,Clara BANG,,,,16,Andrea AUSTMO
+29,748309,12.35,,HHE,Tilkendt straffe,,7,Maria Palsdottir NÓLSOY,Forårs. str.,11,Mia LAGUMDZIJA,,
+30,748309,12.49,8-7,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,1,Isabella MATHORNE
+31,748309,13.18,,SKB,Skud reddet,PL,44,Nicoline LAURITSEN,,,,16,Andrea AUSTMO
+32,748309,13.27,9-7,HHE,Mål,2:e,14,Mai KRAGBALLE,,,,1,Isabella MATHORNE
+33,748309,14.13,9-8,SKB,Mål,PL,11,Mia LAGUMDZIJA,,,,16,Andrea AUSTMO
+34,748309,14.25,10-8,HHE,Mål,2:e,19,Frida Haug HOEL,,,,1,Isabella MATHORNE
+35,748309,15.06,,SKB,Fejlaflevering,,3,Clara BANG,,,,,
+36,748309,15.12,,HHE,Fejlaflevering,,16,Andrea AUSTMO,,,,,
+37,748309,15.16,,SKB,Time out,,,,,,,,
+38,748309,15.41,,SKB,Tilkendt straffe,,3,Clara BANG,Forårs. str.,20,Ditte TOKKESDAL,,
+39,748309,15.56,,SKB,Straffekast forbi,,11,Mia LAGUMDZIJA,,,,16,Andrea AUSTMO
+40,748309,16.31,11-8,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,1,Isabella MATHORNE
+41,748309,17.52,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,,,,,
+42,748309,18.06,,HHE,Regelfejl,,21,Romee MAARSCHALKEWEERD,,,,,
+43,748309,18.54,,SKB,Fejlaflevering,,3,Clara BANG,,,,,
+44,748309,20.06,12-8,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,39,Melanie BAK,1,Isabella MATHORNE
+45,748309,20.16,12-9,SKB,Mål,2:e,11,Mia LAGUMDZIJA,,,,16,Andrea AUSTMO
+46,748309,20.48,13-9,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,1,Isabella MATHORNE
+47,748309,21.32,,HHE,Udvisning,,20,Ditte TOKKESDAL,,,,,
+48,748309,22.03,13-10,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,11,Mia LAGUMDZIJA,16,Andrea AUSTMO
+49,748309,22.39,14-10,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,7,Maria Palsdottir NÓLSOY,23,Stine ALMIND
+50,748309,23.05,,SKB,Skud reddet,Gbr,7,Annika Solberg DALSAGER,,,,16,Andrea AUSTMO
+51,748309,23.37,,HHE,Skud reddet,Gbr,39,Melanie BAK,,,,23,Stine ALMIND
+52,748309,23.43,,HHE,Udvisning,,20,Ditte TOKKESDAL,,,,,
+53,748309,24.08,,SKB,Skud reddet,Gbr,7,Annika Solberg DALSAGER,,,,16,Andrea AUSTMO
+54,748309,24.45,,HHE,Regelfejl,,7,Maria Palsdottir NÓLSOY,,,,,
+55,748309,25.17,,SKB,Regelfejl,,44,Nicoline LAURITSEN,,,,,
+56,748309,26.00,,HHE,Regelfejl,,14,Mai KRAGBALLE,,,,,
+57,748309,26.37,14-11,SKB,Mål,HF,22,Anne-Sofie FILTENBORG,Assist,7,Annika Solberg DALSAGER,16,Andrea AUSTMO
+58,748309,26.53,,HHE,Time out,,,,,,,,
+59,748309,27.26,15-11,HHE,Mål,PL,14,Mai KRAGBALLE,,,,23,Stine ALMIND
+60,748309,27.58,,SKB,Fejlaflevering,,7,Annika Solberg DALSAGER,,,,,
+61,748309,28.51,16-11,HHE,Mål,PL,14,Mai KRAGBALLE,,,,23,Stine ALMIND
+62,748309,29.29,,SKB,Skud reddet,Gbr,11,Mia LAGUMDZIJA,,,,16,Andrea AUSTMO
+63,748309,29.59,17-11,HHE,Mål,HB,19,Frida Haug HOEL,,,,23,Stine ALMIND
+64,748309,30.00,17-11,,Halvleg,,,,,,,,
+65,748309,30.00,,,Start 2:e halvleg,,,,,,,,
+66,748309,30.44,17-12,SKB,Mål,PL,3,Clara BANG,,,,16,Andrea AUSTMO
+67,748309,31.25,,HHE,Skud reddet,Gbr,7,Maria Palsdottir NÓLSOY,,,,12,Sarah ERNEBJERG
+68,748309,31.59,,SKB,Skud reddet,VF,25,Astrid LYNNERUP,,,,16,Andrea AUSTMO
+69,748309,32.29,,HHE,Skud på stolpe,HF,22,Sille Cecilie SORTH,,,,12,Sarah ERNEBJERG
+70,748309,33.16,,SKB,Skud reddet,VF,25,Astrid LYNNERUP,,,,16,Andrea AUSTMO
+71,748309,33.25,,HHE,Skud reddet,1:e,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+72,748309,33.50,,SKB,Tilkendt straffe,,3,Clara BANG,Forårs. str.,3,Alma SKRETTING,,
+73,748309,33.54,17-13,SKB,Mål på straffe,,3,Clara BANG,,,,16,Andrea AUSTMO
+74,748309,34.23,18-13,HHE,Mål,VB,19,Frida Haug HOEL,,,,12,Sarah ERNEBJERG
+75,748309,35.30,,SKB,Skud på stolpe,HF,4,Emilie BECH,,,,16,Andrea AUSTMO
+76,748309,36.05,,HHE,Skud reddet,HF,22,Sille Cecilie SORTH,,,,12,Sarah ERNEBJERG
+77,748309,36.51,,SKB,Regelfejl,,11,Mia LAGUMDZIJA,,,,,
+78,748309,37.05,19-13,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,Assist,19,Frida Haug HOEL,12,Sarah ERNEBJERG
+79,748309,37.40,19-14,SKB,Mål,HF,4,Emilie BECH,Assist,11,Mia LAGUMDZIJA,16,Andrea AUSTMO
+80,748309,37.51,,HHE,Skud reddet,2:e,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+81,748309,37.55,19-15,SKB,Mål,1:e,4,Emilie BECH,Assist,12,Sarah ERNEBJERG,16,Andrea AUSTMO
+82,748309,38.35,20-15,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,19,Frida Haug HOEL,12,Sarah ERNEBJERG
+83,748309,39.11,,SKB,Skud reddet,PL,11,Mia LAGUMDZIJA,,,,16,Andrea AUSTMO
+84,748309,39.38,,HHE,Regelfejl,,21,Romee MAARSCHALKEWEERD,,,,,
+85,748309,40.16,,HHE,Udvisning,,21,Romee MAARSCHALKEWEERD,,,,,
+86,748309,40.50,,SKB,Skud forbi,Gbr,44,Nicoline LAURITSEN,,,,16,Andrea AUSTMO
+87,748309,41.23,,HHE,Tilkendt straffe,,19,Frida Haug HOEL,Forårs. str.,26,Christina HANSEN,,
+88,748309,41.28,21-15,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+89,748309,41.57,21-16,SKB,Mål,Gbr,44,Nicoline LAURITSEN,Assist,3,Clara BANG,16,Andrea AUSTMO
+90,748309,42.31,,HHE,Skud reddet,Gbr,19,Frida Haug HOEL,Retur,3,Alma SKRETTING,12,Sarah ERNEBJERG
+91,748309,42.39,,HHE,Skud reddet,Gbr,19,Frida Haug HOEL,,,,12,Sarah ERNEBJERG
+92,748309,43.05,21-17,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,11,Mia LAGUMDZIJA,16,Andrea AUSTMO
+93,748309,43.29,22-17,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,12,Sarah ERNEBJERG
+94,748309,44.11,22-18,SKB,Mål,ST,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,16,Andrea AUSTMO
+95,748309,44.54,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,,,,,
+96,748309,45.34,,SKB,Skud reddet,HF,4,Emilie BECH,,,,16,Andrea AUSTMO
+97,748309,46.42,,HHE,Skud forbi,HB,19,Frida Haug HOEL,,,,12,Sarah ERNEBJERG
+98,748309,47.10,,SKB,Skud reddet,Gbr,3,Clara BANG,,,,16,Andrea AUSTMO
+99,748309,47.22,,HHE,Skud blokeret,1:e,7,Maria Palsdottir NÓLSOY,Blokeret af,2,Boline LAURSEN,,
+100,748309,47.22,,HHE,Time out,,,,,,,,
+101,748309,47.37,,SKB,Skud reddet,VF,25,Astrid LYNNERUP,Retur,0,,16,Andrea AUSTMO
+102,748309,48.01,22-19,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,11,Mia LAGUMDZIJA,16,Andrea AUSTMO
+103,748309,48.51,23-19,HHE,Mål,PL,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+104,748309,49.23,,,,,,,,,,,
+105,748309,49.29,23-20,SKB,Mål på straffe,,3,Clara BANG,,,,16,Andrea AUSTMO
+106,748309,50.01,24-20,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+107,748309,50.53,24-21,SKB,Mål,PL,11,Mia LAGUMDZIJA,,,,16,Andrea AUSTMO
+108,748309,52.24,25-22,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,11,Mia LAGUMDZIJA,16,Andrea AUSTMO
+109,748309,53.14,,HHE,Skud reddet,PL,19,Frida Haug HOEL,,,,12,Sarah ERNEBJERG
+110,748309,53.39,25-23,SKB,Mål,VF,6,Josefine Kaae LARSEN,Assist,11,Mia LAGUMDZIJA,16,Andrea AUSTMO
+111,748309,53.50,,HHE,Time out,,,,,,,,
+112,748309,54.44,,HHE,Skud reddet,PL,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+113,748309,55.29,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,,,,,
+114,748309,55.34,26-23,HHE,Mål,1:e,33,Laura Holm ANDERSEN,Assist,14,Mai KRAGBALLE,12,Sarah ERNEBJERG
+115,748309,56.14,,SKB,Skud reddet,VF,6,Josefine Kaae LARSEN,,,,16,Andrea AUSTMO
+116,748309,56.53,,HHE,Tabt bold,,39,Melanie BAK,,,,,
+117,748309,57.03,,SKB,Time out,,,,,,,,
+118,748309,57.49,,SKB,Skud forbi,ST,2,Boline LAURSEN,,,,16,Andrea AUSTMO
+119,748309,58.41,,HHE,Tilkendt straffe,,3,Alma SKRETTING,Forårs. str.,44,Nicoline LAURITSEN,,
+120,748309,58.41,,SKB,Udvisning,,44,Nicoline LAURITSEN,,,,,
+121,748309,58.44,27-23,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+122,748309,59.43,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,21,Romee MAARSCHALKEWEERD,,

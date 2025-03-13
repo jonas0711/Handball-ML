@@ -1,0 +1,136 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748264,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748264,0.40,,SVK,Skud blokeret,PL,4,Maria HOLM,Blok af (ret),2,Boline LAURSEN,,
+3,748264,0.53,0-1,SVK,Mål,PL,6,Thea RASMUSSEN,,,,12,Sarah ERNEBJERG
+4,748264,1.30,1-1,SKB,Mål,HF,4,Emilie BECH,Assist,20,Suna HANSEN,22,Stine BONDE
+5,748264,1.40,,SVK,Fejlaflevering,,6,Thea RASMUSSEN,,,,,
+6,748264,2.20,,SKB,Tabt bold,,2,Boline LAURSEN,,,,,
+7,748264,2.56,,SVK,Skud forbi,Gbr,6,Thea RASMUSSEN,,,,12,Sarah ERNEBJERG
+8,748264,3.36,2-1,SKB,Mål,Gbr,20,Suna HANSEN,,,,22,Stine BONDE
+9,748264,3.56,2-2,SVK,Mål,ST,15,Karen KLOKKER,Assist,6,Thea RASMUSSEN,12,Sarah ERNEBJERG
+10,748264,4.06,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,15,Karen KLOKKER,,
+11,748264,4.10,2-3,SVK,Mål,1:e,31,Andrea West BENDTSEN,Assist,15,Karen KLOKKER,12,Sarah ERNEBJERG
+12,748264,4.45,,SKB,Fejlaflevering,,20,Suna HANSEN,,,,,
+13,748264,4.53,,SVK,Skud reddet,2:e,3,Isabella POULSEN,,,,12,Sarah ERNEBJERG
+14,748264,5.24,,SVK,Advarsel,,15,Karen KLOKKER,,,,,
+15,748264,5.47,,SKB,Tabt bold,,14,Verona REXHEPI,Bold erobret,4,Maria HOLM,,
+16,748264,6.23,,SVK,Skud reddet,ST,15,Karen KLOKKER,Retur,0,,12,Sarah ERNEBJERG
+17,748264,6.44,,SVK,Skud forbi,VB,6,Thea RASMUSSEN,,,,12,Sarah ERNEBJERG
+18,748264,6.55,,SKB,Regelfejl,,20,Suna HANSEN,,,,,
+19,748264,7.25,2-4,SVK,Mål,HB,4,Maria HOLM,,,,12,Sarah ERNEBJERG
+20,748264,7.30,,SKB,Time out,,,,,,,,
+21,748264,7.58,,SKB,Skud reddet,Gbr,11,Mia LAGUMDZIJA,,,,22,Stine BONDE
+22,748264,8.46,,SVK,Skud reddet,HB,4,Maria HOLM,,,,12,Sarah ERNEBJERG
+23,748264,8.50,3-4,SKB,Mål,1:e,25,Astrid LYNNERUP,Assist,12,Sarah ERNEBJERG,22,Stine BONDE
+24,748264,9.02,3-5,SVK,Mål,2:e,6,Thea RASMUSSEN,,,,12,Sarah ERNEBJERG
+25,748264,9.43,,SKB,Skud reddet,HB,3,Clara BANG,,,,22,Stine BONDE
+26,748264,9.48,3-6,SVK,Mål,1:e,15,Karen KLOKKER,Assist,4,Maria HOLM,12,Sarah ERNEBJERG
+27,748264,10.23,,SKB,Skud reddet,HF,4,Emilie BECH,,,,22,Stine BONDE
+28,748264,10.50,3-7,SVK,Mål,VB,31,Andrea West BENDTSEN,,,,12,Sarah ERNEBJERG
+29,748264,11.28,,SKB,Tabt bold,,2,Boline LAURSEN,,,,,
+30,748264,11.34,,SVK,Skud forbi,1:e,23,Thilde FRANDSEN,,,,12,Sarah ERNEBJERG
+31,748264,12.01,,SKB,Skud reddet,PL,20,Suna HANSEN,,,,22,Stine BONDE
+32,748264,12.27,3-8,SVK,Mål,PL,31,Andrea West BENDTSEN,,,,12,Sarah ERNEBJERG
+33,748264,13.11,4-8,SKB,Mål,ST,2,Boline LAURSEN,Assist,20,Suna HANSEN,22,Stine BONDE
+34,748264,13.20,4-9,SVK,Mål,2:e,15,Karen KLOKKER,Assist,31,Andrea West BENDTSEN,12,Sarah ERNEBJERG
+35,748264,13.45,,SKB,Skud blokeret,VB,14,Verona REXHEPI,Blok af (ret),31,Andrea West BENDTSEN,,
+36,748264,14.04,5-9,SKB,Mål,PL,3,Clara BANG,,,,22,Stine BONDE
+37,748264,14.13,5-10,SVK,Mål,2:e,31,Andrea West BENDTSEN,,,,12,Sarah ERNEBJERG
+38,748264,14.39,6-10,SKB,Mål,HF,4,Emilie BECH,Assist,11,Mia LAGUMDZIJA,22,Stine BONDE
+39,748264,15.26,,SVK,Regelfejl,,15,Karen KLOKKER,,,,,
+40,748264,16.06,7-10,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,11,Mia LAGUMDZIJA,22,Stine BONDE
+41,748264,16.37,,SVK,Skud forbi,HB,4,Maria HOLM,,,,1,Isabella MATHORNE
+42,748264,17.20,,SVK,Advarsel,,31,Andrea West BENDTSEN,,,,,
+43,748264,17.43,8-10,SKB,Mål,PL,3,Clara BANG,,,,22,Stine BONDE
+44,748264,18.18,8-11,SVK,Mål,PL,6,Thea RASMUSSEN,,,,1,Isabella MATHORNE
+45,748264,18.46,9-11,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,14,Verona REXHEPI,22,Stine BONDE
+46,748264,19.41,,SVK,Tilkendt straffe,,6,Thea RASMUSSEN,Forårs. str.,2,Boline LAURSEN,,
+47,748264,20.07,9-12,SVK,Mål på straffe,,21,Maja EDLING,,,,1,Isabella MATHORNE
+48,748264,20.33,10-12,SKB,Mål,PL,14,Verona REXHEPI,,,,22,Stine BONDE
+49,748264,20.40,10-13,SVK,Mål,2:e,11,Sara MADSEN,,,,1,Isabella MATHORNE
+50,748264,21.36,11-13,SKB,Mål,PL,3,Clara BANG,,,,22,Stine BONDE
+51,748264,22.36,,SVK,Skud blokeret,PL,11,Sara MADSEN,Blokeret af,2,Boline LAURSEN,,
+52,748264,23.09,,SKB,Tabt bold,,10,Filippa NEDOVIC,,,,,
+53,748264,23.16,,SVK,Tabt bold,,3,Isabella POULSEN,Bold erobret,2,Boline LAURSEN,,
+54,748264,23.43,,SVK,Udvisning,,31,Andrea West BENDTSEN,,,,,
+55,748264,23.58,,SKB,Regelfejl,,11,Mia LAGUMDZIJA,,,,,
+56,748264,24.27,,SVK,Regelfejl,,11,Sara MADSEN,,,,,
+57,748264,24.53,12-13,SKB,Mål,Gbr,3,Clara BANG,Assist,2,Boline LAURSEN,22,Stine BONDE
+58,748264,24.53,,SVK,Udvisning,,13,Mathilde KRISTENSEN,,,,,
+59,748264,25.26,,SVK,Fejlaflevering,,3,Isabella POULSEN,Bold erobret,14,Verona REXHEPI,,
+60,748264,25.31,,SKB,Skud på stolpe,1:e,14,Verona REXHEPI,,,,0,
+61,748264,26.00,,SVK,Skud blokeret,PL,11,Sara MADSEN,Blok af (ret),10,Filippa NEDOVIC,,
+62,748264,26.23,12-14,SVK,Mål,PL,11,Sara MADSEN,,,,1,Isabella MATHORNE
+63,748264,26.58,13-14,SKB,Mål,HF,4,Emilie BECH,Assist,3,Clara BANG,22,Stine BONDE
+64,748264,27.49,13-15,SVK,Mål,HB,11,Sara MADSEN,,,,1,Isabella MATHORNE
+65,748264,28.18,14-15,SKB,Mål,PL,11,Mia LAGUMDZIJA,,,,22,Stine BONDE
+66,748264,28.27,14-16,SVK,Mål,2:e,31,Andrea West BENDTSEN,,,,1,Isabella MATHORNE
+67,748264,28.56,15-16,SKB,Mål,Gbr,11,Mia LAGUMDZIJA,,,,22,Stine BONDE
+68,748264,29.05,,SVK,Fejlaflevering,,11,Sara MADSEN,,,,,
+69,748264,29.53,16-16,SKB,Mål,PL,3,Clara BANG,,,,22,Stine BONDE
+70,748264,29.55,,SVK,Time out,,,,,,,,
+71,748264,29.59,,SVK,Skud reddet,PL,31,Andrea West BENDTSEN,,,,1,Isabella MATHORNE
+72,748264,30.00,16-16,,Halvleg,,,,,,,,
+73,748264,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748264,30.32,17-16,SKB,Mål,Gbr,3,Clara BANG,,,,16,Anna VENG
+75,748264,31.15,17-17,SVK,Mål,PL,6,Thea RASMUSSEN,,,,23,Stine ALMIND
+76,748264,31.29,,SKB,Skud reddet,Gbr,14,Verona REXHEPI,,,,16,Anna VENG
+77,748264,32.04,17-18,SVK,Mål,PL,6,Thea RASMUSSEN,,,,23,Stine ALMIND
+78,748264,32.42,,SKB,Skud blokeret,PL,14,Verona REXHEPI,Blok af (ret),15,Karen KLOKKER,16,Anna VENG
+79,748264,33.16,,SKB,Skud reddet,PL,3,Clara BANG,,,,16,Anna VENG
+80,748264,33.24,,SVK,Skud på stolpe,2:e,31,Andrea West BENDTSEN,,,,23,Stine ALMIND
+81,748264,34.13,,SKB,Skud på stolpe,PL,11,Mia LAGUMDZIJA,Retur,2,Boline LAURSEN,16,Anna VENG
+82,748264,34.17,,SKB,Skud reddet,ST,2,Boline LAURSEN,,,,16,Anna VENG
+83,748264,34.52,,SKB,Udvisning,,14,Verona REXHEPI,,,,,
+84,748264,35.07,17-19,SVK,Mål,VF,21,Maja EDLING,Assist,6,Thea RASMUSSEN,23,Stine ALMIND
+85,748264,35.36,,SKB,Fejlaflevering,,3,Clara BANG,Bold erobret,4,Maria HOLM,,
+86,748264,35.39,17-20,SVK,Mål,1:e,4,Maria HOLM,,,,0,
+87,748264,36.04,,SKB,Regelfejl,,20,Suna HANSEN,,,,,
+88,748264,36.40,,SVK,Fejlaflevering,,6,Thea RASMUSSEN,Bold erobret,2,Boline LAURSEN,,
+89,748264,37.19,18-20,SKB,Mål,Gbr,11,Mia LAGUMDZIJA,,,,16,Anna VENG
+90,748264,37.19,,SVK,Udvisning,,15,Karen KLOKKER,,,,,
+91,748264,38.05,,SVK,Skud reddet,HB,4,Maria HOLM,,,,23,Stine ALMIND
+92,748264,38.51,19-20,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,14,Verona REXHEPI,16,Anna VENG
+93,748264,39.21,19-21,SVK,Mål,ST,13,Mathilde KRISTENSEN,Assist,31,Andrea West BENDTSEN,23,Stine ALMIND
+94,748264,39.55,,SKB,Skud reddet,HF,22,Anne-Sofie FILTENBORG,Retur,0,,16,Anna VENG
+95,748264,40.15,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,13,Mathilde KRISTENSEN,,
+96,748264,40.21,,SVK,Skud på stolpe,1:e,4,Maria HOLM,,,,0,
+97,748264,40.45,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,21,Maja EDLING,,
+98,748264,40.55,,SVK,Skud reddet,1:e,13,Mathilde KRISTENSEN,,,,23,Stine ALMIND
+99,748264,41.38,,SKB,Fejlaflevering,,20,Suna HANSEN,,,,,
+100,748264,41.48,,SVK,Skud på stolpe,2:e,21,Maja EDLING,,,,23,Stine ALMIND
+101,748264,42.47,20-21,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Anna VENG
+102,748264,42.58,,SVK,Tilkendt straffe,,6,Thea RASMUSSEN,Forårs. str.,22,Anne-Sofie FILTENBORG,,
+103,748264,43.17,20-22,SVK,Mål på straffe,,21,Maja EDLING,,,,23,Stine ALMIND
+104,748264,44.05,,,,,,,,,,,
+105,748264,47.38,21-22,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Anna VENG
+106,748264,48.05,,SVK,Skud på stolpe,HB,4,Maria HOLM,,,,23,Stine ALMIND
+107,748264,48.31,,SKB,Skud på stolpe,ST,10,Filippa NEDOVIC,,,,16,Anna VENG
+108,748264,48.37,,SVK,Fejlaflevering,,3,Isabella POULSEN,Bold erobret,14,Verona REXHEPI,,
+109,748264,49.43,,SVK,Udvisning,,13,Mathilde KRISTENSEN,,,,,
+110,748264,49.59,22-22,SKB,Mål,Gbr,14,Verona REXHEPI,Assist,3,Clara BANG,16,Anna VENG
+111,748264,51.10,,SVK,Skud blokeret,PL,4,Maria HOLM,Blokeret af,2,Boline LAURSEN,,
+112,748264,51.39,23-22,SKB,Mål,ST,2,Boline LAURSEN,Assist,3,Clara BANG,16,Anna VENG
+113,748264,52.29,23-23,SVK,Mål,VF,21,Maja EDLING,Assist,6,Thea RASMUSSEN,23,Stine ALMIND
+114,748264,53.14,,SKB,Skud reddet,ST,10,Filippa NEDOVIC,,,,16,Anna VENG
+115,748264,53.19,23-24,SVK,Mål,1:e,15,Karen KLOKKER,Assist,6,Thea RASMUSSEN,23,Stine ALMIND
+116,748264,53.47,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,Bold erobret,15,Karen KLOKKER,,
+117,748264,54.14,23-25,SVK,Mål,ST,15,Karen KLOKKER,Assist,31,Andrea West BENDTSEN,23,Stine ALMIND
+118,748264,54.49,,SKB,Fejlaflevering,,3,Clara BANG,Bold erobret,4,Maria HOLM,,
+119,748264,54.58,,SVK,Time out,,,,,,,,
+120,748264,55.15,23-26,SVK,Mål,Gbr,7,Maja Munch LAURSEN,Assist,27,Marigona HAJDARI,23,Stine ALMIND
+121,748264,55.58,,SKB,Skud forbi,PL,3,Clara BANG,,,,16,Anna VENG
+122,748264,56.27,23-27,SVK,Mål,VF,21,Maja EDLING,Assist,27,Marigona HAJDARI,23,Stine ALMIND
+123,748264,56.37,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,Bold erobret,31,Andrea West BENDTSEN,,
+124,748264,56.44,23-28,SVK,Mål,1:e,21,Maja EDLING,Assist,6,Thea RASMUSSEN,23,Stine ALMIND
+125,748264,56.51,,SKB,Time out,,,,,,,,
+126,748264,57.03,24-28,SKB,Mål,PL,3,Clara BANG,Assist,25,Astrid LYNNERUP,16,Anna VENG
+127,748264,57.46,24-29,SVK,Mål,VF,21,Maja EDLING,Assist,6,Thea RASMUSSEN,12,Sarah ERNEBJERG
+128,748264,57.58,25-29,SKB,Mål,ST,2,Boline LAURSEN,Assist,20,Suna HANSEN,16,Anna VENG
+129,748264,58.46,25-30,SVK,Mål,PL,27,Marigona HAJDARI,,,,12,Sarah ERNEBJERG
+130,748264,58.53,26-30,SKB,Mål,2:e,25,Astrid LYNNERUP,Assist,20,Suna HANSEN,16,Anna VENG
+131,748264,59.25,,SVK,Skud på stolpe,Gbr,6,Thea RASMUSSEN,,,,12,Sarah ERNEBJERG
+132,748264,59.35,,SKB,Fejlaflevering,,20,Suna HANSEN,,,,,
+133,748264,59.49,,SVK,Time out,,,,,,,,
+134,748264,59.59,26-31,SVK,Mål,PL,4,Maria HOLM,,,,12,Sarah ERNEBJERG
+135,748264,60.00,26-31,,Fuld tid,,,,,,,,

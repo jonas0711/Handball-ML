@@ -1,0 +1,141 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748180,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748180,0.34,,AHB,Skud reddet,PL,17,Line Berggren LARSEN,,,,23,Stine ALMIND
+3,748180,1.05,0-1,SKB,Mål,Gbr,14,Verona REXHEPI,,,,86,Sabine ENGLERT
+4,748180,1.39,,AHB,Fejlaflevering,,14,Anna Berger WIERZBA,,,,,
+5,748180,1.51,0-2,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,3,Clara BANG,86,Sabine ENGLERT
+6,748180,2.20,1-2,AHB,Mål,Gbr,14,Anna Berger WIERZBA,,,,23,Stine ALMIND
+7,748180,2.57,,SKB,Skud reddet,HF,4,Emilie BECH,,,,86,Sabine ENGLERT
+8,748180,3.03,2-2,AHB,Mål,1:e,18,Mathilde ØSTERGAARD,,,,23,Stine ALMIND
+9,748180,3.31,,SKB,Skud på stolpe,HB,3,Clara BANG,,,,86,Sabine ENGLERT
+10,748180,3.38,,AHB,Fejlaflevering,,,,,,,86,Sabine ENGLERT
+11,748180,4.27,,SKB,Tilkendt straffe,,14,Verona REXHEPI,Forårs. str.,17,Line Berggren LARSEN,,
+12,748180,4.51,2-3,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,86,Sabine ENGLERT
+13,748180,5.20,,AHB,Fejlaflevering,,14,Anna Berger WIERZBA,,,,,
+14,748180,5.51,,SKB,Skud reddet,Gbr,20,Suna HANSEN,,,,86,Sabine ENGLERT
+15,748180,5.58,3-3,AHB,Mål,2:e,18,Mathilde ØSTERGAARD,Assist,86,Sabine ENGLERT,23,Stine ALMIND
+16,748180,6.25,,SKB,Fejlaflevering,,14,Verona REXHEPI,,,,,
+17,748180,6.53,4-3,AHB,Mål,PL,17,Line Berggren LARSEN,,,,23,Stine ALMIND
+18,748180,7.07,,AHB,Advarsel,,5,Katarina BERENS,,,,,
+19,748180,7.26,,AHB,Udvisning,,5,Katarina BERENS,,,,,
+20,748180,7.37,,AHB,Udvisning,,18,Mathilde ØSTERGAARD,,,,,
+21,748180,7.44,,SKB,Skud reddet,HF,4,Emilie BECH,Retur,0,,86,Sabine ENGLERT
+22,748180,8.02,,SKB,Skud på stolpe,HF,4,Emilie BECH,,,,86,Sabine ENGLERT
+23,748180,8.54,,AHB,Regelfejl,,14,Anna Berger WIERZBA,,,,,
+24,748180,9.10,4-4,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,15,Astrid LESLIE,86,Sabine ENGLERT
+25,748180,9.54,,AHB,Skud på stolpe,HF,25,Ida GÖTZSCHE,,,,23,Stine ALMIND
+26,748180,10.49,,SKB,Skud reddet,PL,3,Clara BANG,,,,86,Sabine ENGLERT
+27,748180,11.20,5-4,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,5,Katarina BERENS,23,Stine ALMIND
+28,748180,11.50,,SKB,Regelfejl,,3,Clara BANG,,,,,
+29,748180,12.05,,AHB,Fejlaflevering,,17,Line Berggren LARSEN,,,,,
+30,748180,12.59,,AHB,Udvisning,,3,Sarah Vest KIRKELØKKE,,,,,
+31,748180,13.19,,SKB,Skud på stolpe,VB,15,Astrid LESLIE,,,,86,Sabine ENGLERT
+32,748180,13.49,6-4,AHB,Mål,Gbr,77,Alberte EBLER,,,,23,Stine ALMIND
+33,748180,13.56,,SKB,Time out,,,,,,,,
+34,748180,14.10,,SKB,Skud reddet,VF,25,Astrid LYNNERUP,,,,86,Sabine ENGLERT
+35,748180,14.43,,AHB,Skud forbi,PL,77,Alberte EBLER,,,,23,Stine ALMIND
+36,748180,15.01,,SKB,Fejlaflevering,,14,Verona REXHEPI,,,,,
+37,748180,15.47,,AHB,Skud reddet,VF,2,Majken Hedegaard NIELSEN,,,,12,Sarah ERNEBJERG
+38,748180,15.58,,SKB,Skud reddet,2:e,14,Verona REXHEPI,,,,86,Sabine ENGLERT
+39,748180,16.33,,AHB,Skud forbi,VF,2,Majken Hedegaard NIELSEN,,,,12,Sarah ERNEBJERG
+40,748180,16.54,,SKB,Regelfejl,,14,Verona REXHEPI,,,,,
+41,748180,17.04,,AHB,Skud reddet,2:e,25,Ida GÖTZSCHE,,,,12,Sarah ERNEBJERG
+42,748180,17.34,6-5,SKB,Mål,PL,14,Verona REXHEPI,,,,86,Sabine ENGLERT
+43,748180,17.44,,AHB,Fejlaflevering,,14,Anna Berger WIERZBA,,,,,
+44,748180,18.13,,SKB,Tabt bold,,15,Astrid LESLIE,,,,,
+45,748180,18.20,,AHB,Skud forbi,2:e,17,Line Berggren LARSEN,,,,12,Sarah ERNEBJERG
+46,748180,18.54,,SKB,Fejlaflevering,,14,Verona REXHEPI,,,,,
+47,748180,19.02,7-5,AHB,Mål,2:e,3,Sarah Vest KIRKELØKKE,Assist,14,Anna Berger WIERZBA,12,Sarah ERNEBJERG
+48,748180,19.30,,SKB,Skud blokeret,PL,14,Verona REXHEPI,Blok af (ret),3,Sarah Vest KIRKELØKKE,,
+49,748180,19.57,,SKB,Skud reddet,ST,25,Astrid LYNNERUP,,,,86,Sabine ENGLERT
+50,748180,20.03,8-5,AHB,Mål,2:e,25,Ida GÖTZSCHE,Assist,17,Line Berggren LARSEN,12,Sarah ERNEBJERG
+51,748180,20.15,,SKB,Time out,,,,,,,,
+52,748180,20.49,,SKB,Skud på stolpe,VF,25,Astrid LYNNERUP,,,,86,Sabine ENGLERT
+53,748180,21.01,,AHB,Regelfejl,,23,Nikoline SAX,,,,,
+54,748180,21.32,8-6,SKB,Mål,ST,2,Boline LAURSEN,Assist,15,Astrid LESLIE,86,Sabine ENGLERT
+55,748180,22.21,9-6,AHB,Mål,HF,10,Frederikke WAAGE-JENSEN,Assist,14,Anna Berger WIERZBA,12,Sarah ERNEBJERG
+56,748180,22.53,,SKB,Skud blokeret,PL,15,Astrid LESLIE,Blok af (ret),3,Sarah Vest KIRKELØKKE,,
+57,748180,23.26,,SKB,Skud blokeret,HB,3,Clara BANG,Blok af (ret),5,Katarina BERENS,,
+58,748180,23.39,,SKB,Skud reddet,VB,14,Verona REXHEPI,,,,86,Sabine ENGLERT
+59,748180,24.45,10-6,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,14,Anna Berger WIERZBA,12,Sarah ERNEBJERG
+60,748180,25.29,10-7,SKB,Mål,Gbr,14,Verona REXHEPI,,,,86,Sabine ENGLERT
+61,748180,25.39,11-7,AHB,Mål,2:e,3,Sarah Vest KIRKELØKKE,Assist,14,Anna Berger WIERZBA,12,Sarah ERNEBJERG
+62,748180,26.27,,SKB,Tabt bold,,3,Clara BANG,,,,,
+63,748180,26.32,12-7,AHB,Mål,1:e,14,Anna Berger WIERZBA,Assist,3,Sarah Vest KIRKELØKKE,,
+64,748180,27.08,12-8,SKB,Mål,HF,22,Anne-Sofie FILTENBORG,Assist,3,Clara BANG,86,Sabine ENGLERT
+65,748180,27.24,,AHB,Skud forbi,PL,15,Sofia DEEN,,,,12,Sarah ERNEBJERG
+66,748180,27.35,,SKB,Skud reddet,2:e,10,Filippa NEDOVIC,,,,86,Sabine ENGLERT
+67,748180,28.21,,AHB,Time out,,,,,,,,
+68,748180,28.33,,AHB,Regelfejl,,17,Line Berggren LARSEN,,,,,
+69,748180,29.07,12-9,SKB,Mål,ST,2,Boline LAURSEN,Assist,3,Clara BANG,86,Sabine ENGLERT
+70,748180,29.34,,AHB,Regelfejl,,15,Sofia DEEN,,,,,
+71,748180,29.58,12-10,SKB,Mål,VB,7,Annika Solberg DALSAGER,,,,86,Sabine ENGLERT
+72,748180,30.00,12-10,Halvleg,Halvleg,,,,,,,,
+73,748180,30.00,,Start 2:e halvleg,Start 2:e halvleg,,,,,,,,
+74,748180,30.29,,SKB,Tilkendt straffe,,14,Verona REXHEPI,Forårs. str.,5,Katarina BERENS,,
+75,748180,30.54,12-11,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,86,Sabine ENGLERT
+76,748180,31.25,,AHB,Skud reddet,HF,10,Frederikke WAAGE-JENSEN,,,,12,Sarah ERNEBJERG
+77,748180,32.06,12-12,SKB,Mål,Gbr,7,Annika Solberg DALSAGER,,,,86,Sabine ENGLERT
+78,748180,32.46,,AHB,Skud forbi,HF,10,Frederikke WAAGE-JENSEN,,,,12,Sarah ERNEBJERG
+79,748180,33.23,12-13,SKB,Mål,ST,2,Boline LAURSEN,Assist,14,Verona REXHEPI,86,Sabine ENGLERT
+80,748180,34.02,,AHB,Skud reddet,PL,77,Alberte EBLER,,,,12,Sarah ERNEBJERG
+81,748180,34.14,,AHB,Udvisning,,77,Alberte EBLER,,,,,
+82,748180,34.27,12-14,SKB,Mål,VF,6,Josefine Kaae LARSEN,Assist,14,Verona REXHEPI,86,Sabine ENGLERT
+83,748180,35.01,13-14,AHB,Mål,HF,25,Ida GÖTZSCHE,Assist,14,Anna Berger WIERZBA,12,Sarah ERNEBJERG
+84,748180,35.38,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,25,Ida GÖTZSCHE,,
+85,748180,36.30,14-14,AHB,Mål,Gbr,15,Sofia DEEN,,,,12,Sarah ERNEBJERG
+86,748180,36.56,14-15,SKB,Mål,PL,14,Verona REXHEPI,,,,86,Sabine ENGLERT
+87,748180,37.08,15-15,AHB,Mål,2:e,18,Mathilde ØSTERGAARD,Assist,17,Line Berggren LARSEN,12,Sarah ERNEBJERG
+88,748180,37.40,,SKB,Skud på stolpe,Gbr,14,Verona REXHEPI,,,,86,Sabine ENGLERT
+89,748180,37.50,16-15,AHB,Mål,2:e,25,Ida GÖTZSCHE,Assist,77,Alberte EBLER,12,Sarah ERNEBJERG
+90,748180,38.59,,SKB,Tilkendt straffe,,2,Boline LAURSEN,Forårs. str.,5,Katarina BERENS,,
+91,748180,39.12,16-16,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,1,Elin THORSTEINSDOTTIR
+92,748180,39.41,,AHB,Skud reddet,HF,25,Ida GÖTZSCHE,,,,12,Sarah ERNEBJERG
+93,748180,40.29,,SKB,Fejlaflevering,,14,Verona REXHEPI,,,,,
+94,748180,40.37,17-16,AHB,Mål,1:e,86,Sabine ENGLERT,,,,,
+95,748180,41.05,,SKB,Skud reddet,Gbr,3,Clara BANG,Retur,2,Boline LAURSEN,86,Sabine ENGLERT
+96,748180,41.35,17-17,SKB,Mål,HF,22,Anne-Sofie FILTENBORG,Assist,3,Clara BANG,86,Sabine ENGLERT
+97,748180,42.17,,AHB,Fejlaflevering,,17,Line Berggren LARSEN,Bold erobret,6,Josefine Kaae LARSEN,,
+98,748180,43.14,,SKB,Tilkendt straffe,,10,Filippa NEDOVIC,Forårs. str.,77,Alberte EBLER,,
+99,748180,43.37,17-18,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,86,Sabine ENGLERT
+100,748180,44.10,,AHB,Skud reddet,HF,25,Ida GÖTZSCHE,,,,12,Sarah ERNEBJERG
+101,748180,44.41,,SKB,Skud reddet,HB,3,Clara BANG,,,,86,Sabine ENGLERT
+102,748180,44.48,18-18,AHB,Mål,1:e,86,Sabine ENGLERT,,,,,
+103,748180,45.16,,SKB,Tilkendt straffe,,14,Verona REXHEPI,Forårs. str.,77,Alberte EBLER,,
+104,748180,45.39,18-19,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,,
+105,748180,46.13,,AHB,Tilkendt straffe,,18,Mathilde ØSTERGAARD,Forårs. str.,7,Annika Solberg DALSAGER,,
+106,748180,46.13,,SKB,Udvisning,,7,Annika Solberg DALSAGER,,,,,
+107,748180,46.14,19-19,AHB,Mål på straffe,,15,Sofia DEEN,,,,12,Sarah ERNEBJERG
+108,748180,46.30,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,18,Mathilde ØSTERGAARD,,
+109,748180,46.42,20-19,AHB,Mål,1:e,18,Mathilde ØSTERGAARD,,,,0,
+110,748180,47.25,,SKB,Regelfejl,,3,Clara BANG,,,,,
+111,748180,48.18,21-19,AHB,Mål,HF,25,Ida GÖTZSCHE,Assist,17,Line Berggren LARSEN,12,Sarah ERNEBJERG
+112,748180,49.30,,SKB,Skud reddet,PL,20,Suna HANSEN,,,,86,Sabine ENGLERT
+113,748180,49.36,,AHB,Regelfejl,,25,Ida GÖTZSCHE,,,,,
+114,748180,49.50,,SKB,Skud reddet,ST,20,Suna HANSEN,,,,86,Sabine ENGLERT
+115,748180,50.01,,AHB,Regelfejl,,14,Anna Berger WIERZBA,,,,,
+116,748180,50.33,,SKB,Tabt bold,,7,Annika Solberg DALSAGER,,,,,
+117,748180,50.59,22-19,AHB,Mål,Gbr,14,Anna Berger WIERZBA,,,,12,Sarah ERNEBJERG
+118,748180,51.06,,SKB,Time out,,,,,,,,
+119,748180,51.21,,SKB,Skud forbi,PL,3,Clara BANG,,,,86,Sabine ENGLERT
+120,748180,51.45,,AHB,Tabt bold,,77,Alberte EBLER,,,,,
+121,748180,52.39,,SKB,Tilkendt straffe,,2,Boline LAURSEN,Forårs. str.,5,Katarina BERENS,,
+122,748180,52.43,22-20,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,1,Elin THORSTEINSDOTTIR
+123,748180,53.24,,AHB,Skud forbi,HF,25,Ida GÖTZSCHE,,,,23,Stine ALMIND
+124,748180,53.58,,SKB,Skud forbi,PL,14,Verona REXHEPI,,,,86,Sabine ENGLERT
+125,748180,54.18,,AHB,Time out,,,,,,,,
+126,748180,55.10,23-20,AHB,Mål,PL,77,Alberte EBLER,,,,23,Stine ALMIND
+127,748180,56.06,,SKB,Tilkendt straffe,,2,Boline LAURSEN,Forårs. str.,77,Alberte EBLER,,
+128,748180,56.14,,SKB,Straffekast reddet,,25,Astrid LYNNERUP,Retur,0,,86,Sabine ENGLERT
+129,748180,56.18,23-21,SKB,Mål,ST,25,Astrid LYNNERUP,,,,86,Sabine ENGLERT
+130,748180,56.43,24-21,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,23,Stine ALMIND
+131,748180,56.57,,SKB,Tilkendt straffe,,11,Mia LAGUMDZIJA,Forårs. str.,17,Line Berggren LARSEN,,
+132,748180,57.02,24-22,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,86,Sabine ENGLERT
+133,748180,57.36,25-22,AHB,Mål,HF,25,Ida GÖTZSCHE,Assist,17,Line Berggren LARSEN,23,Stine ALMIND
+134,748180,58.30,25-23,SKB,Mål,ST,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,86,Sabine ENGLERT
+135,748180,58.48,,AHB,Time out,,,,,,,,
+136,748180,59.02,,AHB,Skud på stolpe,HF,25,Ida GÖTZSCHE,,,,23,Stine ALMIND
+137,748180,59.13,,SKB,Fejlaflevering,,3,Clara BANG,Bold erobret,18,Mathilde ØSTERGAARD,,
+138,748180,59.18,,AHB,Skud reddet,1:e,18,Mathilde ØSTERGAARD,,,,23,Stine ALMIND
+139,748180,59.30,25-24,SKB,Mål,2:e,11,Mia LAGUMDZIJA,,,,86,Sabine ENGLERT
+140,748180,59.49,26-24,AHB,Mål,Gbr,15,Sofia DEEN,,,,23,Stine ALMIND

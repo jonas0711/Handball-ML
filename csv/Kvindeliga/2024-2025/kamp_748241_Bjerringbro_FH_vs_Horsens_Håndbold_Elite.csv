@@ -1,0 +1,118 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748241,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748241,0.58,,BFH,Skud blokeret,PL,72,Line FRANDSEN,Blokeret af,11,Fanny ELOVSSON,,
+3,748241,1.13,,HHE,Tabt bold,,19,Frida Haug HOEL,Bold erobret,72,Line FRANDSEN,,
+4,748241,1.28,1-0,BFH,Mål,HB,7,Line GYLDENLØVE,,,,16,Andrea AUSTMO
+5,748241,2.06,,HHE,Skud reddet,HB,19,Frida Haug HOEL,,,,24,Josephine NORDSTRØM
+6,748241,2.14,2-0,BFH,Mål,2:e,31,Marianne HAUGSTED,Assist,72,Line FRANDSEN,16,Andrea AUSTMO
+7,748241,2.25,,HHE,Tabt bold,,14,Mai KRAGBALLE,,,,,
+8,748241,3.37,,BFH,Regelfejl,,7,Line GYLDENLØVE,,,,,
+9,748241,3.48,,HHE,Skud reddet,PL,14,Mai KRAGBALLE,,,,24,Josephine NORDSTRØM
+10,748241,3.58,3-0,BFH,Mål,1:e,19,Rikke Dahl NIELSEN,Assist,72,Line FRANDSEN,16,Andrea AUSTMO
+11,748241,4.32,3-1,HHE,Mål,PL,11,Fanny ELOVSSON,,,,24,Josephine NORDSTRØM
+12,748241,5.04,4-1,BFH,Mål,ST,18,Sidsel POULSEN,Assist,72,Line FRANDSEN,16,Andrea AUSTMO
+13,748241,5.28,4-2,HHE,Mål,HB,19,Frida Haug HOEL,,,,24,Josephine NORDSTRØM
+14,748241,5.47,,BFH,Fejlaflevering,,31,Marianne HAUGSTED,,,,,
+15,748241,6.15,,HHE,Skud reddet,HF,19,Frida Haug HOEL,,,,24,Josephine NORDSTRØM
+16,748241,6.24,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+17,748241,6.38,,HHE,Tabt bold,,33,Laura Holm ANDERSEN,Bold erobret,72,Line FRANDSEN,,
+18,748241,7.54,,BFH,Skud reddet,HB,7,Line GYLDENLØVE,,,,16,Andrea AUSTMO
+19,748241,8.06,,HHE,Skud reddet,HF,22,Sille Cecilie SORTH,,,,24,Josephine NORDSTRØM
+20,748241,9.00,,BFH,Skud reddet,Gbr,7,Line GYLDENLØVE,,,,16,Andrea AUSTMO
+21,748241,9.08,,HHE,Skud forbi,Gbr,11,Fanny ELOVSSON,,,,24,Josephine NORDSTRØM
+22,748241,9.49,,BFH,Skud reddet,VB,31,Marianne HAUGSTED,,,,16,Andrea AUSTMO
+23,748241,10.08,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,Bold erobret,31,Marianne HAUGSTED,,
+24,748241,10.23,5-2,BFH,Mål,PL,31,Marianne HAUGSTED,,,,16,Andrea AUSTMO
+25,748241,10.54,5-3,HHE,Mål,HB,19,Frida Haug HOEL,,,,24,Josephine NORDSTRØM
+26,748241,11.44,6-3,BFH,Mål,PL,31,Marianne HAUGSTED,,,,16,Andrea AUSTMO
+27,748241,12.21,6-4,HHE,Mål,VF,33,Laura Holm ANDERSEN,Assist,27,Annette WIRÉN LARSEN,24,Josephine NORDSTRØM
+28,748241,12.52,7-4,BFH,Mål,ST,18,Sidsel POULSEN,Assist,31,Marianne HAUGSTED,16,Andrea AUSTMO
+29,748241,13.01,7-5,HHE,Mål,2:e,14,Mai KRAGBALLE,,,,24,Josephine NORDSTRØM
+30,748241,13.12,,BFH,Regelfejl,,18,Sidsel POULSEN,,,,,
+31,748241,13.20,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,Bold erobret,4,Emilie BANGSHØI,,
+32,748241,13.24,8-5,BFH,Mål,1:e,11,Arlinda HAJDARI,Assist,4,Emilie BANGSHØI,16,Andrea AUSTMO
+33,748241,13.54,,HHE,Skud reddet,HB,19,Frida Haug HOEL,,,,24,Josephine NORDSTRØM
+34,748241,14.24,9-5,BFH,Mål,ST,19,Rikke Dahl NIELSEN,Assist,31,Marianne HAUGSTED,16,Andrea AUSTMO
+35,748241,14.38,,HHE,Time out,,,,,,,,
+36,748241,15.21,,HHE,Skud reddet,HB,39,Melanie BAK,,,,24,Josephine NORDSTRØM
+37,748241,15.52,10-5,BFH,Mål,PL,7,Line GYLDENLØVE,,,,16,Andrea AUSTMO
+38,748241,16.50,10-6,HHE,Mål,PL,14,Mai KRAGBALLE,,,,24,Josephine NORDSTRØM
+39,748241,17.43,,BFH,Skud reddet,PL,72,Line FRANDSEN,,,,16,Andrea AUSTMO
+40,748241,18.11,10-7,HHE,Mål,Gbr,27,Annette WIRÉN LARSEN,,,,24,Josephine NORDSTRØM
+41,748241,19.09,,BFH,Skud reddet,PL,25,Laura JENSEN,,,,16,Andrea AUSTMO
+42,748241,19.16,,HHE,Skud reddet,1:e,22,Sille Cecilie SORTH,,,,24,Josephine NORDSTRØM
+43,748241,20.25,11-7,BFH,Mål,PL,72,Line FRANDSEN,,,,16,Andrea AUSTMO
+44,748241,21.22,,HHE,Skud reddet,HB,39,Melanie BAK,,,,24,Josephine NORDSTRØM
+45,748241,21.58,,BFH,Skud forbi,VB,25,Laura JENSEN,,,,16,Andrea AUSTMO
+46,748241,22.53,,HHE,Regelfejl,,27,Annette WIRÉN LARSEN,,,,,
+47,748241,23.21,,BFH,Tabt bold,,7,Line GYLDENLØVE,,,,,
+48,748241,23.30,11-8,HHE,Mål,1:e,21,Romee MAARSCHALKEWEERD,,,,0,
+49,748241,23.59,,BFH,Skud reddet,VB,7,Line GYLDENLØVE,,,,16,Andrea AUSTMO
+50,748241,24.15,11-9,HHE,Mål,1:e,21,Romee MAARSCHALKEWEERD,,,,24,Josephine NORDSTRØM
+51,748241,24.43,12-9,BFH,Mål,HB,72,Line FRANDSEN,,,,16,Andrea AUSTMO
+52,748241,24.56,12-10,HHE,Mål,ST,3,Alma SKRETTING,Assist,27,Annette WIRÉN LARSEN,24,Josephine NORDSTRØM
+53,748241,25.48,13-10,BFH,Mål,ST,18,Sidsel POULSEN,Assist,25,Laura JENSEN,16,Andrea AUSTMO
+54,748241,26.47,13-11,HHE,Mål,PL,33,Laura Holm ANDERSEN,,,,24,Josephine NORDSTRØM
+55,748241,27.54,,HHE,Advarsel,,3,Alma SKRETTING,,,,,
+56,748241,28.15,,BFH,Skud blokeret,PL,72,Line FRANDSEN,Blok af (ret),3,Alma SKRETTING,,
+57,748241,28.28,14-11,BFH,Mål,VB,25,Laura JENSEN,,,,16,Andrea AUSTMO
+58,748241,29.00,,HHE,Skud reddet,VB,14,Mai KRAGBALLE,,,,24,Josephine NORDSTRØM
+59,748241,29.22,,BFH,Time out,,,,,,,,
+60,748241,29.48,15-11,BFH,Mål,PL,72,Line FRANDSEN,,,,16,Andrea AUSTMO
+61,748241,30.00,,HHE,Skud på stolpe,Gbr,25,Smilla HEDE,,,,24,Josephine NORDSTRØM
+62,748241,30.00,15-11,,Halvleg,,,,,,,,
+63,748241,30.00,,,Start 2:e halvleg,,,,,,,,
+64,748241,30.41,,HHE,Skud blokeret,HB,19,Frida Haug HOEL,Blokeret af,31,Marianne HAUGSTED,,
+65,748241,31.22,,BFH,Skud blokeret,PL,7,Line GYLDENLØVE,Blokeret af,21,Romee MAARSCHALKEWEERD,,
+66,748241,31.36,,HHE,Skud reddet,1:e,21,Romee MAARSCHALKEWEERD,,,,24,Josephine NORDSTRØM
+67,748241,31.45,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,Bold erobret,14,Mai KRAGBALLE,,
+68,748241,31.57,15-12,HHE,Mål,1:e,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,24,Josephine NORDSTRØM
+69,748241,32.54,16-12,BFH,Mål,PL,7,Line GYLDENLØVE,,,,16,Andrea AUSTMO
+70,748241,33.57,16-13,HHE,Mål,Gbr,19,Frida Haug HOEL,Assist,14,Mai KRAGBALLE,24,Josephine NORDSTRØM
+71,748241,34.44,,BFH,Tilkendt straffe,,11,Arlinda HAJDARI,Forårs. str.,14,Mai KRAGBALLE,,
+72,748241,35.09,17-13,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Andrea AUSTMO
+73,748241,35.33,,HHE,Fejlaflevering,,11,Fanny ELOVSSON,,,,,
+74,748241,36.30,18-13,BFH,Mål,PL,11,Arlinda HAJDARI,,,,16,Andrea AUSTMO
+75,748241,36.44,18-14,HHE,Mål,2:e,21,Romee MAARSCHALKEWEERD,Assist,0,,24,Josephine NORDSTRØM
+76,748241,37.53,,BFH,Skud reddet,PL,7,Line GYLDENLØVE,,,,16,Andrea AUSTMO
+77,748241,38.16,,HHE,Skud reddet,VB,11,Fanny ELOVSSON,,,,24,Josephine NORDSTRØM
+78,748241,39.05,,BFH,Fejlaflevering,,11,Arlinda HAJDARI,,,,,
+79,748241,39.48,18-15,HHE,Mål,PL,19,Frida Haug HOEL,,,,24,Josephine NORDSTRØM
+80,748241,40.35,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,Bold erobret,11,Fanny ELOVSSON,,
+81,748241,41.20,,HHE,Skud på stolpe,PL,14,Mai KRAGBALLE,,,,24,Josephine NORDSTRØM
+82,748241,41.52,,BFH,Skud forbi,VF,9,Mathilde PIIL,,,,16,Andrea AUSTMO
+83,748241,42.00,18-16,HHE,Mål,2:e,11,Fanny ELOVSSON,,,,24,Josephine NORDSTRØM
+84,748241,42.50,,BFH,Skud reddet,HB,11,Arlinda HAJDARI,Retur,0,,16,Andrea AUSTMO
+85,748241,43.11,,BFH,Tilkendt straffe,,72,Line FRANDSEN,Forårs. str.,11,Fanny ELOVSSON,,
+86,748241,43.35,19-16,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Andrea AUSTMO
+87,748241,44.41,19-17,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,24,Josephine NORDSTRØM
+88,748241,45.29,20-17,BFH,Mål,PL,72,Line FRANDSEN,,,,16,Andrea AUSTMO
+89,748241,45.37,20-18,HHE,Mål,2:e,21,Romee MAARSCHALKEWEERD,,,,24,Josephine NORDSTRØM
+90,748241,46.32,,BFH,Skud på stolpe,VF,9,Mathilde PIIL,,,,16,Andrea AUSTMO
+91,748241,47.06,20-19,HHE,Mål,VB,9,Annika MEYER,,,,24,Josephine NORDSTRØM
+92,748241,47.15,21-19,BFH,Mål,ST,19,Rikke Dahl NIELSEN,Assist,31,Marianne HAUGSTED,16,Andrea AUSTMO
+93,748241,47.15,,HHE,Udvisning,,21,Romee MAARSCHALKEWEERD,,,,,
+94,748241,48.28,21-20,HHE,Mål,HB,22,Sille Cecilie SORTH,,,,24,Josephine NORDSTRØM
+95,748241,49.01,22-20,BFH,Mål,HF,44,Louise HALD,Assist,11,Arlinda HAJDARI,16,Andrea AUSTMO
+96,748241,49.37,,HHE,Tilkendt straffe,,9,Annika MEYER,Forårs. str.,19,Rikke Dahl NIELSEN,,
+97,748241,49.48,22-21,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,24,Josephine NORDSTRØM
+98,748241,50.26,23-21,BFH,Mål,VF,4,Emilie BANGSHØI,Assist,72,Line FRANDSEN,16,Andrea AUSTMO
+99,748241,51.09,23-22,HHE,Mål,ST,9,Annika MEYER,Assist,39,Melanie BAK,24,Josephine NORDSTRØM
+100,748241,52.09,24-22,BFH,Mål,PL,72,Line FRANDSEN,,,,16,Andrea AUSTMO
+101,748241,53.11,24-23,HHE,Mål,Gbr,39,Melanie BAK,,,,24,Josephine NORDSTRØM
+102,748241,53.58,,BFH,Skud reddet,PL,72,Line FRANDSEN,,,,16,Andrea AUSTMO
+103,748241,54.39,,HHE,Skud reddet,HF,22,Sille Cecilie SORTH,,,,20,Clara BAK
+104,748241,54.44,,,,,,,,,,,
+105,748241,55.00,,BFH,Time out,,,,,,,,
+106,748241,55.00,,BFH,Tilkendt straffe,,11,Arlinda HAJDARI,Forårs. str.,11,Fanny ELOVSSON,,
+107,748241,55.27,,BFH,Straffekast reddet,,7,Line GYLDENLØVE,Retur,0,,16,Andrea AUSTMO
+108,748241,55.53,,BFH,Fejlaflevering,,4,Emilie BANGSHØI,Bold erobret,9,Annika MEYER,,
+109,748241,56.54,24-24,HHE,Mål,PL,14,Mai KRAGBALLE,,,,20,Clara BAK
+110,748241,57.34,,BFH,Tilkendt straffe,,72,Line FRANDSEN,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+111,748241,57.52,25-24,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Andrea AUSTMO
+112,748241,58.36,,HHE,Skud på stolpe,VB,39,Melanie BAK,,,,20,Clara BAK
+113,748241,59.07,,BFH,Skud reddet,Gbr,72,Line FRANDSEN,,,,16,Andrea AUSTMO
+114,748241,59.28,,HHE,Time out,,,,,,,,
+115,748241,59.46,25-25,HHE,Mål,Gbr,19,Frida Haug HOEL,,,,20,Clara BAK
+116,748241,59.50,,BFH,Time out,,,,,,,,
+117,748241,60.00,26-25,BFH,Mål,Gbr,7,Line GYLDENLØVE,Assist,44,Louise HALD,16,Andrea AUSTMO

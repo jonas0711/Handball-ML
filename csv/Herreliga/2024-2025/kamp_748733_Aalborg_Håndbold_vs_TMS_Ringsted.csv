@@ -1,0 +1,144 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748733,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748733,0.28,1-0,AAH,Mål,PL,17,Martin LARSEN,,,,16,Andreas HAAGEN
+3,748733,1.04,1-1,TMS,Mål,HF,81,Tobias NIELSEN,Assist,19,Benjamin HALLGREN,1,Niklas LANDIN
+4,748733,1.42,,AAH,Fejlaflevering,,18,Aleks VLAH,,,,,
+5,748733,1.55,,TMS,Tabt bold,,19,Benjamin HALLGREN,,,,,
+6,748733,2.03,,AAH,Skud reddet,2:e,19,Kristian BJØRNSEN,,,,16,Andreas HAAGEN
+7,748733,2.22,1-2,TMS,Mål,ST,25,Anders AGGER,Assist,5,Mark NIKOLAJSEN,1,Niklas LANDIN
+8,748733,2.46,,TMS,Advarsel,,25,Anders AGGER,,,,,
+9,748733,3.20,,AAH,Skud blokeret,PL,17,Martin LARSEN,Blokeret af,44,Tobias TOMBAK,,
+10,748733,3.45,1-3,TMS,Mål,1:e,19,Benjamin HALLGREN,,,,1,Niklas LANDIN
+11,748733,3.55,2-3,AAH,Mål,2:e,18,Aleks VLAH,,,,16,Andreas HAAGEN
+12,748733,4.08,2-4,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,1,Niklas LANDIN
+13,748733,4.15,3-4,AAH,Mål,2:e,7,Thomas ARNOLDSEN,,,,16,Andreas HAAGEN
+14,748733,4.57,,TMS,Tabt bold,,19,Benjamin HALLGREN,,,,,
+15,748733,5.10,4-4,AAH,Mål,1:e,1,Niklas LANDIN,,,,0,
+16,748733,5.44,,TMS,Skud reddet,PL,5,Mark NIKOLAJSEN,,,,1,Niklas LANDIN
+17,748733,5.53,,AAH,Regelfejl,,7,Thomas ARNOLDSEN,,,,,
+18,748733,6.20,4-5,TMS,Mål,ST,44,Tobias TOMBAK,Assist,19,Benjamin HALLGREN,1,Niklas LANDIN
+19,748733,6.33,5-5,AAH,Mål,2:e,7,Thomas ARNOLDSEN,,,,16,Andreas HAAGEN
+20,748733,7.03,,TMS,Skud forbi,PL,5,Mark NIKOLAJSEN,,,,1,Niklas LANDIN
+21,748733,7.08,6-5,AAH,Mål,1:e,1,Niklas LANDIN,,,,0,
+22,748733,7.27,6-6,TMS,Mål,ST,44,Tobias TOMBAK,Assist,19,Benjamin HALLGREN,1,Niklas LANDIN
+23,748733,7.51,7-6,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,16,Andreas HAAGEN
+24,748733,8.18,7-7,TMS,Mål,HB,19,Benjamin HALLGREN,,,,1,Niklas LANDIN
+25,748733,8.50,8-7,AAH,Mål,HF,19,Kristian BJØRNSEN,Assist,17,Martin LARSEN,16,Andreas HAAGEN
+26,748733,9.31,,TMS,Regelfejl,,35,Mikkel PREHN,,,,,
+27,748733,9.35,9-7,AAH,Mål,2:e,7,Thomas ARNOLDSEN,,,,16,Andreas HAAGEN
+28,748733,10.26,,TMS,Tilkendt straffe,,81,Tobias NIELSEN,Forårs. str.,6,Sebastian BARTHOLD,1,Niklas LANDIN
+29,748733,10.26,,TMS,Straffekast reddet,,27,Victor WOLF,,,,1,Niklas LANDIN
+30,748733,10.59,10-7,AAH,Mål,HF,19,Kristian BJØRNSEN,Assist,7,Thomas ARNOLDSEN,16,Andreas HAAGEN
+31,748733,11.45,,TMS,Skud blokeret,PL,5,Mark NIKOLAJSEN,Blok af (ret),11,Simon HALD,,
+32,748733,11.57,10-8,TMS,Mål,Gbr,5,Mark NIKOLAJSEN,,,,1,Niklas LANDIN
+33,748733,12.44,,TMS,Udvisning,,35,Mikkel PREHN,,,,,
+34,748733,13.07,,AAH,Skud reddet,VF,6,Sebastian BARTHOLD,,,,16,Andreas HAAGEN
+35,748733,14.03,,TMS,Skud reddet,VB,7,Christoffer DREYER,,,,1,Niklas LANDIN
+36,748733,14.34,,AAH,Regelfejl,,19,Kristian BJØRNSEN,,,,,
+37,748733,14.52,,TMS,Tabt bold,,10,Frederik HORN,,,,,
+38,748733,15.00,11-8,AAH,Mål,1:e,20,Felix MÖLLER,,,,0,
+39,748733,15.25,11-9,TMS,Mål,Gbr,10,Frederik HORN,,,,1,Niklas LANDIN
+40,748733,15.56,,AAH,Fejlaflevering,,19,Kristian BJØRNSEN,Bold erobret,44,Tobias TOMBAK,,
+41,748733,16.05,11-10,TMS,Mål,1:e,44,Tobias TOMBAK,Assist,7,Christoffer DREYER,1,Niklas LANDIN
+42,748733,16.46,,AAH,Tilkendt straffe,,18,Aleks VLAH,Forårs. str.,7,Christoffer DREYER,,
+43,748733,16.46,,TMS,Udvisning,,7,Christoffer DREYER,,,,,
+44,748733,16.46,12-10,AAH,Mål på straffe,,23,Buster JUUL,,,,29,Malte EICHHORST
+45,748733,17.35,,TMS,Skud blokeret,HB,19,Benjamin HALLGREN,Blok af (ret),20,Felix MÖLLER,,
+46,748733,17.50,12-11,TMS,Mål,PL,5,Mark NIKOLAJSEN,,,,1,Niklas LANDIN
+47,748733,18.14,,AAH,Fejlaflevering,,7,Thomas ARNOLDSEN,Bold erobret,10,Frederik HORN,,
+48,748733,18.22,12-12,TMS,Mål,1:e,10,Frederik HORN,,,,1,Niklas LANDIN
+49,748733,18.36,13-12,AAH,Mål,Gbr,18,Aleks VLAH,,,,29,Malte EICHHORST
+50,748733,19.25,13-13,TMS,Mål,Gbr,10,Frederik HORN,,,,1,Niklas LANDIN
+51,748733,19.35,,AAH,Regelfejl,,15,Jack THURIN,,,,,
+52,748733,19.40,,TMS,Time out,,,,,,,,
+53,748733,20.00,13-14,TMS,Mål,Gbr,7,Christoffer DREYER,,,,1,Niklas LANDIN
+54,748733,20.26,,TMS,Udvisning,,44,Tobias TOMBAK,,,,,
+55,748733,21.02,,AAH,Skud reddet,Gbr,9,Miguel MARTINS,Retur,0,Malte EICHHORST,29,Malte EICHHORST
+56,748733,21.22,14-14,AAH,Mål,HB,15,Jack THURIN,,,,29,Malte EICHHORST
+57,748733,21.59,,TMS,Fejlaflevering,,10,Frederik HORN,,,,,
+58,748733,22.11,15-14,AAH,Mål,2:e,15,Jack THURIN,,,,29,Malte EICHHORST
+59,748733,22.43,,TMS,Skud reddet,ST,7,Christoffer DREYER,Retur,0,Niklas LANDIN,1,Niklas LANDIN
+60,748733,23.03,,TMS,Skud forbi,Gbr,19,Benjamin HALLGREN,,,,1,Niklas LANDIN
+61,748733,23.32,,AAH,Skud reddet,PL,25,Marinus MUNK,,,,29,Malte EICHHORST
+62,748733,24.08,15-15,TMS,Mål,VF,22,Axel ANDERSSON,Assist,10,Frederik HORN,1,Niklas LANDIN
+63,748733,24.15,,AAH,Tilkendt straffe,,9,Miguel MARTINS,Forårs. str.,44,Tobias TOMBAK,,
+64,748733,24.15,,TMS,Udvisning,,44,Tobias TOMBAK,,,,,
+65,748733,24.15,16-15,AAH,Mål på straffe,,23,Buster JUUL,,,,16,Andreas HAAGEN
+66,748733,24.56,16-16,TMS,Mål,Gbr,7,Christoffer DREYER,Assist,25,Anders AGGER,1,Niklas LANDIN
+67,748733,25.07,,AAH,Skud reddet,2:e,9,Miguel MARTINS,Retur,0,Malte EICHHORST,29,Malte EICHHORST
+68,748733,25.29,17-16,AAH,Mål,ST,20,Felix MÖLLER,Assist,25,Marinus MUNK,29,Malte EICHHORST
+69,748733,26.20,,TMS,Skud blokeret,PL,10,Frederik HORN,Blok af (ret),21,Henrik MØLLGAARD,,
+70,748733,26.34,,TMS,Fejlaflevering,,7,Christoffer DREYER,,,,,
+71,748733,27.10,18-16,AAH,Mål,VF,6,Sebastian BARTHOLD,Assist,9,Miguel MARTINS,29,Malte EICHHORST
+72,748733,27.56,,TMS,Skud reddet,Gbr,10,Frederik HORN,,,,1,Niklas LANDIN
+73,748733,28.09,19-16,AAH,Mål,1:e,21,Henrik MØLLGAARD,,,,,
+74,748733,28.33,,TMS,Skud reddet,HB,19,Benjamin HALLGREN,,,,1,Niklas LANDIN
+75,748733,28.40,20-16,AAH,Mål,1:e,7,Thomas ARNOLDSEN,,,,,
+76,748733,29.21,20-17,TMS,Mål,ST,25,Anders AGGER,Assist,7,Christoffer DREYER,1,Niklas LANDIN
+77,748733,29.44,,AAH,Time out,,,,,,,,
+78,748733,29.49,21-17,AAH,Mål,Gbr,15,Jack THURIN,,,,29,Malte EICHHORST
+79,748733,29.58,21-18,TMS,Mål,2:e,19,Benjamin HALLGREN,,,,1,Niklas LANDIN
+80,748733,30.00,21-18,,Halvleg,,,,,,,,
+81,748733,30.00,,,Start 2:e halvleg,,,,,,,,
+82,748733,30.40,21-19,TMS,Mål,Gbr,10,Frederik HORN,,,,1,Niklas LANDIN
+83,748733,31.20,,AAH,Regelfejl,,9,Miguel MARTINS,,,,,
+84,748733,31.40,,AAH,Udvisning,,9,Miguel MARTINS,,,,,
+85,748733,31.59,21-20,TMS,Mål,VF,22,Axel ANDERSSON,Assist,7,Christoffer DREYER,1,Niklas LANDIN
+86,748733,32.45,,AAH,Skud reddet,Gbr,7,Thomas ARNOLDSEN,,,,16,Andreas HAAGEN
+87,748733,33.06,,TMS,Skud reddet,VF,22,Axel ANDERSSON,,,,1,Niklas LANDIN
+88,748733,33.31,22-20,AAH,Mål,Gbr,18,Aleks VLAH,Assist,25,Marinus MUNK,16,Andreas HAAGEN
+89,748733,33.45,22-21,TMS,Mål,ST,25,Anders AGGER,Assist,19,Benjamin HALLGREN,1,Niklas LANDIN
+90,748733,34.17,23-21,AAH,Mål,ST,4,Patrick WIESMACH,Assist,25,Marinus MUNK,16,Andreas HAAGEN
+91,748733,35.35,23-22,TMS,Mål,ST,25,Anders AGGER,Assist,7,Christoffer DREYER,1,Niklas LANDIN
+92,748733,36.08,24-22,AAH,Mål,Gbr,25,Marinus MUNK,,,,16,Andreas HAAGEN
+93,748733,36.46,24-23,TMS,Mål,PL,10,Frederik HORN,,,,1,Niklas LANDIN
+94,748733,37.08,,AAH,Skud reddet,Gbr,25,Marinus MUNK,,,,16,Andreas HAAGEN
+95,748733,37.39,,TMS,Skud reddet,HF,81,Tobias NIELSEN,,,,1,Niklas LANDIN
+96,748733,37.50,25-23,AAH,Mål,1:e,23,Buster JUUL,Assist,9,Miguel MARTINS,16,Andreas HAAGEN
+97,748733,38.21,,TMS,Skud forbi,HB,19,Benjamin HALLGREN,,,,1,Niklas LANDIN
+98,748733,38.32,,AAH,Tabt bold,,7,Thomas ARNOLDSEN,,,,,
+99,748733,39.02,25-24,TMS,Mål,PL,10,Frederik HORN,,,,1,Niklas LANDIN
+100,748733,39.40,,AAH,Tilkendt straffe,,20,Felix MÖLLER,Forårs. str.,7,Christoffer DREYER,,
+101,748733,40.01,26-24,AAH,Mål på straffe,,23,Buster JUUL,,,,16,Andreas HAAGEN
+102,748733,40.38,,TMS,Skud reddet,ST,35,Mikkel PREHN,,,,1,Niklas LANDIN
+103,748733,41.11,,AAH,Skud reddet,HF,4,Patrick WIESMACH,,,,16,Andreas HAAGEN
+104,748733,41.30,,,,,,,,,,,
+105,748733,42.03,,AAH,Skud reddet,PL,15,Jack THURIN,Retur,,,16,Andreas HAAGEN
+106,748733,42.05,27-24,AAH,Mål,HF,4,Patrick WIESMACH,,,,16,Andreas HAAGEN
+107,748733,42.13,,TMS,Time out,,,,,,,,
+108,748733,42.45,27-25,TMS,Mål,VB,7,Christoffer DREYER,,,,1,Niklas LANDIN
+109,748733,43.28,,AAH,Skud reddet,PL,25,Marinus MUNK,,,,16,Andreas HAAGEN
+110,748733,44.03,,TMS,Regelfejl,,35,Mikkel PREHN,,,,,
+111,748733,44.32,,AAH,Skud forbi,ST,20,Felix MÖLLER,,,,16,Andreas HAAGEN
+112,748733,45.04,27-26,TMS,Mål,HB,19,Benjamin HALLGREN,,,,1,Niklas LANDIN
+113,748733,45.47,28-26,AAH,Mål,ST,11,Simon HALD,Assist,18,Aleks VLAH,16,Andreas HAAGEN
+114,748733,46.33,28-27,TMS,Mål,Gbr,44,Tobias TOMBAK,Assist,7,Christoffer DREYER,1,Niklas LANDIN
+115,748733,47.33,29-27,AAH,Mål,PL,7,Thomas ARNOLDSEN,,,,16,Andreas HAAGEN
+116,748733,48.11,29-28,TMS,Mål,HF,81,Tobias NIELSEN,Assist,19,Benjamin HALLGREN,1,Niklas LANDIN
+117,748733,49.16,,AAH,Skud reddet,ST,11,Simon HALD,,,,16,Andreas HAAGEN
+118,748733,49.31,29-29,TMS,Mål,2:e,81,Tobias NIELSEN,Assist,44,Tobias TOMBAK,1,Niklas LANDIN
+119,748733,49.37,,AAH,Time out,,,,,,,,
+120,748733,50.01,30-29,AAH,Mål,ST,11,Simon HALD,Assist,18,Aleks VLAH,16,Andreas HAAGEN
+121,748733,50.33,,TMS,Skud reddet,HF,81,Tobias NIELSEN,,,,1,Niklas LANDIN
+122,748733,50.40,,AAH,Skud forbi,1:e,4,Patrick WIESMACH,,,,,
+123,748733,51.13,,TMS,Skud forbi,PL,5,Mark NIKOLAJSEN,,,,1,Niklas LANDIN
+124,748733,51.58,31-29,AAH,Mål,PL,17,Martin LARSEN,,,,16,Andreas HAAGEN
+125,748733,52.50,,TMS,Skud reddet,VF,22,Axel ANDERSSON,,,,1,Niklas LANDIN
+126,748733,53.44,,AAH,Fejlaflevering,,18,Aleks VLAH,,,,,
+127,748733,53.49,31-30,TMS,Mål,1:e,81,Tobias NIELSEN,Assist,,,16,Andreas HAAGEN
+128,748733,54.12,32-30,AAH,Mål,Gbr,18,Aleks VLAH,Assist,7,Thomas ARNOLDSEN,16,Andreas HAAGEN
+129,748733,54.31,,TMS,Time out,,,,,,,,
+130,748733,54.47,32-31,TMS,Mål,ST,25,Anders AGGER,Assist,19,Benjamin HALLGREN,1,Niklas LANDIN
+131,748733,55.18,,AAH,Skud reddet,ST,20,Felix MÖLLER,Retur,,,16,Andreas HAAGEN
+132,748733,55.43,,AAH,Skud reddet,HB,17,Martin LARSEN,,,,16,Andreas HAAGEN
+133,748733,55.51,,TMS,Skud forbi,1:e,7,Christoffer DREYER,,,,,
+134,748733,56.42,33-31,AAH,Mål,HB,7,Thomas ARNOLDSEN,,,,16,Andreas HAAGEN
+135,748733,57.38,,TMS,Skud reddet,PL,5,Mark NIKOLAJSEN,,,,1,Niklas LANDIN
+136,748733,58.09,34-31,AAH,Mål,Gbr,18,Aleks VLAH,Assist,25,Marinus MUNK,16,Andreas HAAGEN
+137,748733,58.40,34-32,TMS,Mål,ST,25,Anders AGGER,Assist,19,Benjamin HALLGREN,1,Niklas LANDIN
+138,748733,58.56,,AAH,Skud reddet,Gbr,25,Marinus MUNK,,,,16,Andreas HAAGEN
+139,748733,59.00,,TMS,Fejlaflevering,,16,Andreas HAAGEN,Bold erobret,7,Thomas ARNOLDSEN,,
+140,748733,59.04,35-32,AAH,Mål,1:e,7,Thomas ARNOLDSEN,,,,16,Andreas HAAGEN
+141,748733,59.42,,TMS,Skud reddet,VB,44,Tobias TOMBAK,,,,1,Niklas LANDIN
+142,748733,60.00,35-32,,Fuld tid,,,,,,,,
+143,748733,60.00,,,Kamp slut,,,,,,,,

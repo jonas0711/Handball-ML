@@ -1,0 +1,128 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748739,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748739,0.37,,TMS,Skud reddet,HB,19,Benjamin HALLGREN,,,,12,Josip CAVAR
+3,748739,0.42,0-1,KIF,Mål,2:e,4,Lars SKAARUP,,,,16,Andreas HAAGEN
+4,748739,1.04,1-1,TMS,Mål,VB,7,Christoffer DREYER,,,,12,Josip CAVAR
+5,748739,2.01,1-2,KIF,Mål,Gbr,5,Oliver NORLYK,,,,16,Andreas HAAGEN
+6,748739,2.36,2-2,TMS,Mål,ST,25,Anders AGGER,Assist,19,Benjamin HALLGREN,12,Josip CAVAR
+7,748739,3.34,2-3,KIF,Mål,HB,5,Oliver NORLYK,,,,16,Andreas HAAGEN
+8,748739,4.17,3-3,TMS,Mål,Gbr,5,Mark NIKOLAJSEN,Assist,27,Victor WOLF,12,Josip CAVAR
+9,748739,5.11,,KIF,Fejlaflevering,,27,Sebastian BERTELSEN,Bold erobret,0,,,
+10,748739,5.22,,KIF,Advarsel,,6,Jonas TIDEMAND,,,,,
+11,748739,5.54,4-3,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,12,Josip CAVAR
+12,748739,6.44,4-4,KIF,Mål,ST,6,Jonas TIDEMAND,Assist,11,Magnus KRONBORG,16,Andreas HAAGEN
+13,748739,6.56,5-4,TMS,Mål,PL,7,Christoffer DREYER,,,,12,Josip CAVAR
+14,748739,7.25,5-5,KIF,Mål,Gbr,5,Oliver NORLYK,,,,16,Andreas HAAGEN
+15,748739,7.35,6-5,TMS,Mål,Gbr,5,Mark NIKOLAJSEN,Assist,7,Christoffer DREYER,12,Josip CAVAR
+16,748739,8.32,,KIF,Skud blokeret,PL,11,Magnus KRONBORG,Blokeret af,25,Anders AGGER,,
+17,748739,8.57,,TMS,Skud reddet,PL,19,Benjamin HALLGREN,,,,12,Josip CAVAR
+18,748739,9.29,,TMS,Advarsel,,5,Mark NIKOLAJSEN,,,,,
+19,748739,9.52,,KIF,Tilkendt straffe,,27,Sebastian BERTELSEN,Forårs. str.,7,Christoffer DREYER,,
+20,748739,10.00,6-6,KIF,Mål på straffe,,11,Magnus KRONBORG,,,,29,Malte EICHHORST
+21,748739,10.35,,TMS,Fejlaflevering,,19,Benjamin HALLGREN,Bold erobret,12,Josip CAVAR,,
+22,748739,11.16,,KIF,Fejlaflevering,,24,Diogo SILVA,Bold erobret,5,Mark NIKOLAJSEN,,
+23,748739,11.21,7-6,TMS,Mål,1:e,5,Mark NIKOLAJSEN,,,,12,Josip CAVAR
+24,748739,11.56,,KIF,Skud forbi,Gbr,5,Oliver NORLYK,,,,16,Andreas HAAGEN
+25,748739,12.31,8-6,TMS,Mål,Gbr,7,Christoffer DREYER,,,,12,Josip CAVAR
+26,748739,12.41,,KIF,Fejlaflevering,,5,Oliver NORLYK,Bold erobret,27,Victor WOLF,,
+27,748739,13.21,,TMS,Tilkendt straffe,,5,Mark NIKOLAJSEN,Forårs. str.,2,Mads KRAGH THOMSEN,,
+28,748739,13.33,9-6,TMS,Mål på straffe,,49,Oscar LYKKE,,,,12,Josip CAVAR
+29,748739,13.35,,KIF,Time out,,,,,,,,
+30,748739,14.10,9-7,KIF,Mål,VF,4,Lars SKAARUP,Assist,11,Magnus KRONBORG,16,Andreas HAAGEN
+31,748739,14.49,,TMS,Skud blokeret,PL,5,Mark NIKOLAJSEN,Blokeret af,13,Mathias HEDEGAARD,,
+32,748739,14.59,,KIF,Skud reddet,2:e,11,Magnus KRONBORG,,,,16,Andreas HAAGEN
+33,748739,15.26,10-7,TMS,Mål,VB,7,Christoffer DREYER,,,,12,Josip CAVAR
+34,748739,16.13,,KIF,Skud reddet,PL,21,Kristian STOKLUND,Retur,0,,29,Malte EICHHORST
+35,748739,16.38,,KIF,Fejlaflevering,,21,Kristian STOKLUND,Bold erobret,27,Victor WOLF,,
+36,748739,16.42,11-7,TMS,Mål,1:e,27,Victor WOLF,,,,0,
+37,748739,17.11,,KIF,Fejlaflevering,,21,Kristian STOKLUND,Bold erobret,0,,,
+38,748739,17.16,,TMS,Skud forbi,1:e,81,Tobias NIELSEN,,,,0,
+39,748739,17.47,11-8,KIF,Mål,Gbr,5,Oliver NORLYK,Assist,27,Sebastian BERTELSEN,29,Malte EICHHORST
+40,748739,18.48,12-8,TMS,Mål,VB,10,Frederik HORN,,,,12,Josip CAVAR
+41,748739,19.20,,KIF,Skud reddet,PL,28,Lauritz LEGÉR,Retur,27,Sebastian BERTELSEN,29,Malte EICHHORST
+42,748739,19.28,,KIF,Skud reddet,ST,27,Sebastian BERTELSEN,,,,29,Malte EICHHORST
+43,748739,19.48,13-8,TMS,Mål,ST,24,Simon OOMS,Assist,10,Frederik HORN,1,Emil TELLERUP
+44,748739,20.23,13-9,KIF,Mål,HF,27,Sebastian BERTELSEN,Assist,11,Magnus KRONBORG,29,Malte EICHHORST
+45,748739,21.00,14-9,TMS,Mål,Gbr,44,Tobias TOMBAK,,,,1,Emil TELLERUP
+46,748739,21.29,,KIF,Skud reddet,HB,5,Oliver NORLYK,,,,29,Malte EICHHORST
+47,748739,22.08,15-9,TMS,Mål,Gbr,44,Tobias TOMBAK,,,,1,Emil TELLERUP
+48,748739,22.56,,KIF,Skud forbi,PL,11,Magnus KRONBORG,,,,29,Malte EICHHORST
+49,748739,23.49,16-9,TMS,Mål,HF,81,Tobias NIELSEN,Assist,44,Tobias TOMBAK,1,Emil TELLERUP
+50,748739,24.01,,KIF,Time out,,,,,,,,
+51,748739,24.38,,KIF,Skud reddet,HF,27,Sebastian BERTELSEN,,,,29,Malte EICHHORST
+52,748739,25.08,,TMS,Regelfejl,,10,Frederik HORN,,,,,
+53,748739,25.17,,KIF,Skud reddet,HF,27,Sebastian BERTELSEN,,,,29,Malte EICHHORST
+54,748739,25.51,17-9,TMS,Mål,HF,81,Tobias NIELSEN,Assist,19,Benjamin HALLGREN,1,Emil TELLERUP
+55,748739,26.30,17-10,KIF,Mål,PL,11,Magnus KRONBORG,,,,29,Malte EICHHORST
+56,748739,27.20,18-10,TMS,Mål,PL,10,Frederik HORN,Assist,19,Benjamin HALLGREN,1,Emil TELLERUP
+57,748739,28.16,,KIF,Skud reddet,HF,27,Sebastian BERTELSEN,,,,29,Malte EICHHORST
+58,748739,28.27,,TMS,Time out,,,,,,,,
+59,748739,28.42,,TMS,Skud forbi,ST,25,Anders AGGER,,,,1,Emil TELLERUP
+60,748739,29.14,,KIF,Skud reddet,Gbr,21,Kristian STOKLUND,,,,29,Malte EICHHORST
+61,748739,29.48,19-10,TMS,Mål,PL,7,Christoffer DREYER,,,,1,Emil TELLERUP
+62,748739,30.00,,KIF,Skud reddet,HB,5,Oliver NORLYK,,,,29,Malte EICHHORST
+63,748739,30.00,19-10,,Halvleg,,,,,,,,
+64,748739,30.00,,,Start 2:e halvleg,,,,,,,,
+65,748739,30.28,19-11,KIF,Mål,HB,5,Oliver NORLYK,Assist,28,Lauritz LEGÉR,29,Malte EICHHORST
+66,748739,31.33,20-11,TMS,Mål,VF,27,Victor WOLF,Assist,7,Christoffer DREYER,12,Josip CAVAR
+67,748739,31.58,20-12,KIF,Mål,Gbr,11,Magnus KRONBORG,,,,29,Malte EICHHORST
+68,748739,32.09,21-12,TMS,Mål,PL,19,Benjamin HALLGREN,,,,12,Josip CAVAR
+69,748739,33.27,,KIF,Skud reddet,PL,11,Magnus KRONBORG,,,,29,Malte EICHHORST
+70,748739,34.01,,KIF,Udvisning,,6,Jonas TIDEMAND,,,,,
+71,748739,34.13,,TMS,Tilkendt straffe,,5,Mark NIKOLAJSEN,Forårs. str.,2,Mads KRAGH THOMSEN,,
+72,748739,34.13,,KIF,Udvisning,,2,Mads KRAGH THOMSEN,,,,,
+73,748739,34.13,22-12,TMS,Mål på straffe,,49,Oscar LYKKE,,,,12,Josip CAVAR
+74,748739,35.01,22-13,KIF,Mål,Gbr,11,Magnus KRONBORG,,,,29,Malte EICHHORST
+75,748739,35.05,23-13,TMS,Mål,1:e,7,Christoffer DREYER,,,,0,
+76,748739,35.51,,KIF,Skud på stolpe,Gbr,5,Oliver NORLYK,Retur,0,,29,Malte EICHHORST
+77,748739,36.19,23-14,KIF,Mål,PL,11,Magnus KRONBORG,,,,29,Malte EICHHORST
+78,748739,36.48,,TMS,Skud reddet,PL,7,Christoffer DREYER,,,,12,Josip CAVAR
+79,748739,36.53,23-15,KIF,Mål,2:e,5,Oliver NORLYK,,,,29,Malte EICHHORST
+80,748739,37.13,,TMS,Skud reddet,ST,25,Anders AGGER,Retur,0,,12,Josip CAVAR
+81,748739,37.36,24-15,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,12,Josip CAVAR
+82,748739,37.49,24-16,KIF,Mål,Gbr,28,Lauritz LEGÉR,,,,29,Malte EICHHORST
+83,748739,38.25,25-16,TMS,Mål,Gbr,5,Mark NIKOLAJSEN,Assist,19,Benjamin HALLGREN,12,Josip CAVAR
+84,748739,39.13,,KIF,Skud forbi,Gbr,23,Mads HOÉ JØRGENSEN,,,,16,Andreas HAAGEN
+85,748739,39.58,,TMS,Regelfejl,,25,Anders AGGER,,,,,
+86,748739,40.06,,TMS,Udvisning,,2,Joachim MØLLER,,,,,
+87,748739,40.18,25-17,KIF,Mål,PL,11,Magnus KRONBORG,,,,16,Andreas HAAGEN
+88,748739,40.58,,TMS,Tilkendt straffe,,19,Benjamin HALLGREN,Forårs. str.,4,Lars SKAARUP,,
+89,748739,41.03,26-17,TMS,Mål på straffe,,49,Oscar LYKKE,,,,12,Josip CAVAR
+90,748739,41.28,26-18,KIF,Mål,Gbr,11,Magnus KRONBORG,,,,16,Andreas HAAGEN
+91,748739,42.21,,TMS,Skud reddet,PL,5,Mark NIKOLAJSEN,,,,12,Josip CAVAR
+92,748739,42.27,26-19,KIF,Mål,1:e,12,Josip CAVAR,,,,0,
+93,748739,43.10,27-19,TMS,Mål,ST,24,Simon OOMS,Assist,19,Benjamin HALLGREN,12,Josip CAVAR
+94,748739,44.04,,KIF,Skud reddet,PL,23,Mads HOÉ JØRGENSEN,,,,16,Andreas HAAGEN
+95,748739,44.27,,TMS,Skud reddet,Gbr,10,Frederik HORN,,,,12,Josip CAVAR
+96,748739,45.21,,TMS,Udvisning,,44,Tobias TOMBAK,,,,,
+97,748739,45.35,27-20,KIF,Mål,VF,4,Lars SKAARUP,Assist,28,Lauritz LEGÉR,16,Andreas HAAGEN
+98,748739,46.43,,TMS,Skud blokeret,PL,19,Benjamin HALLGREN,Blokeret af,6,Jonas TIDEMAND,,
+99,748739,46.53,,KIF,Skud reddet,2:e,28,Lauritz LEGÉR,Retur,27,Sebastian BERTELSEN,16,Andreas HAAGEN
+100,748739,47.20,,KIF,Skud reddet,PL,11,Magnus KRONBORG,,,,16,Andreas HAAGEN
+101,748739,48.17,,TMS,Skud reddet,PL,7,Christoffer DREYER,,,,12,Josip CAVAR
+102,748739,49.20,,KIF,Skud forbi,HB,24,Diogo SILVA,,,,16,Andreas HAAGEN
+103,748739,49.49,28-20,TMS,Mål,VB,10,Frederik HORN,,,,12,Josip CAVAR
+104,748739,49.57,,,,,,,,,,,
+105,748739,50.34,,KIF,Tabt bold,,2,Mads KRAGH THOMSEN,Bold erobret,24,Simon OOMS,,
+106,748739,51.24,29-20,TMS,Mål,PL,7,Christoffer DREYER,,,,12,Josip CAVAR
+107,748739,51.44,,KIF,Fejlaflevering,,11,Magnus KRONBORG,Bold erobret,22,Axel ANDERSSON,,
+108,748739,51.52,,TMS,Skud på stolpe,1:e,7,Christoffer DREYER,,,,12,Josip CAVAR
+109,748739,52.04,,KIF,Regelfejl,,28,Lauritz LEGÉR,,,,,
+110,748739,52.35,,TMS,Skud blokeret,VB,5,Mark NIKOLAJSEN,Blok af (ret),5,Oliver NORLYK,,
+111,748739,53.06,30-20,TMS,Mål,VB,10,Frederik HORN,,,,12,Josip CAVAR
+112,748739,53.37,,KIF,Regelfejl,,28,Lauritz LEGÉR,,,,,
+113,748739,54.10,,TMS,Fejlaflevering,,10,Frederik HORN,Bold erobret,5,Oliver NORLYK,,
+114,748739,54.17,,KIF,Skud reddet,1:e,27,Sebastian BERTELSEN,,,,29,Malte EICHHORST
+115,748739,55.04,,TMS,Tabt bold,,71,Malthe QVORTRUP,,,,,
+116,748739,55.14,30-21,KIF,Mål,VF,4,Lars SKAARUP,Assist,11,Magnus KRONBORG,29,Malte EICHHORST
+117,748739,55.48,,TMS,Skud reddet,VB,49,Oscar LYKKE,,,,12,Josip CAVAR
+118,748739,56.14,30-22,KIF,Mål,HB,5,Oliver NORLYK,,,,29,Malte EICHHORST
+119,748739,56.52,31-22,TMS,Mål,ST,25,Anders AGGER,Assist,10,Frederik HORN,12,Josip CAVAR
+120,748739,57.30,31-23,KIF,Mål,ST,2,Mads KRAGH THOMSEN,Assist,28,Lauritz LEGÉR,29,Malte EICHHORST
+121,748739,58.46,,TMS,Skud reddet,VB,10,Frederik HORN,,,,12,Josip CAVAR
+122,748739,58.52,31-24,KIF,Mål,1:e,27,Sebastian BERTELSEN,Assist,,,12,Josip CAVAR
+123,748739,59.25,,TMS,Tilkendt straffe,,71,Malthe QVORTRUP,Forårs. str.,2,Mads KRAGH THOMSEN,,
+124,748739,59.25,,KIF,Udvisning,,2,Mads KRAGH THOMSEN,,,,,
+125,748739,59.27,32-24,TMS,Mål på straffe,,9,Rasmus WINTHER,,,,12,Josip CAVAR
+126,748739,59.57,,KIF,Skud reddet,Gbr,5,Oliver NORLYK,,,,29,Malte EICHHORST
+127,748739,59.59,33-24,TMS,Mål,1:e,49,Oscar LYKKE,,,,0,

@@ -1,0 +1,124 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748704,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748704,0.58,0-1,SAH,Mål,PL,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+3,748704,1.04,1-1,REH,Mål,2:e,49,Karl WALLINIUS,,,,1,Kristoffer LAURSEN
+4,748704,1.46,1-2,SAH,Mål,PL,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+5,748704,2.35,2-2,REH,Mål,PL,49,Karl WALLINIUS,,,,1,Kristoffer LAURSEN
+6,748704,2.49,2-3,SAH,Mål,VB,23,Morten Hempel JENSEN,,,,1,Niklas KRAFT
+7,748704,3.40,,REH,Skud reddet,Gbr,14,Nicolaj SPANGGAARD,,,,1,Kristoffer LAURSEN
+8,748704,4.32,,SAH,Tabt bold,,3,Kristjan ÖRN KRISTJANSSON,Bold erobret,31,Morten JØRGENSEN,,
+9,748704,4.40,3-3,REH,Mål,2:e,31,Morten JØRGENSEN,Assist,6,Jonathan WÜRTZ,1,Kristoffer LAURSEN
+10,748704,5.14,,SAH,Skud på stolpe,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+11,748704,5.26,,SAH,Advarsel,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+12,748704,6.08,,REH,Regelfejl,,81,Alfred JÖNSSON,,,,,
+13,748704,6.49,3-4,SAH,Mål,HB,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+14,748704,6.58,,REH,Fejlaflevering,,49,Karl WALLINIUS,Bold erobret,23,Morten Hempel JENSEN,,
+15,748704,7.06,,SAH,Skud reddet,1:e,19,Thor CHRISTENSEN,,,,1,Niklas KRAFT
+16,748704,8.11,,SAH,Advarsel,,19,Thor CHRISTENSEN,,,,,
+17,748704,8.49,4-4,REH,Mål,HB,14,Nicolaj SPANGGAARD,,,,1,Kristoffer LAURSEN
+18,748704,9.32,,SAH,Skud reddet,PL,32,Fredrik OLSSON,,,,1,Niklas KRAFT
+19,748704,9.41,5-4,REH,Mål,ST,17,Andreas SØGAARD,Assist,49,Karl WALLINIUS,1,Kristoffer LAURSEN
+20,748704,10.14,,SAH,Skud reddet,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+21,748704,10.21,6-4,REH,Mål,1:e,31,Morten JØRGENSEN,Assist,6,Jonathan WÜRTZ,1,Kristoffer LAURSEN
+22,748704,11.17,,SAH,Skud reddet,PL,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+23,748704,11.48,7-4,REH,Mål,Gbr,81,Alfred JÖNSSON,,,,1,Kristoffer LAURSEN
+24,748704,11.54,7-5,SAH,Mål,2:e,15,Emil LÆRKE,,,,1,Niklas KRAFT
+25,748704,12.29,,REH,Regelfejl,,17,Andreas SØGAARD,,,,,
+26,748704,13.20,,REH,Udvisning,,49,Karl WALLINIUS,,,,,
+27,748704,13.38,7-6,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,1,Niklas KRAFT
+28,748704,14.27,8-6,REH,Mål,VB,81,Alfred JÖNSSON,,,,1,Kristoffer LAURSEN
+29,748704,15.02,8-7,SAH,Mål,ST,5,Frederik ARNOLDSEN,Assist,23,Morten Hempel JENSEN,1,Niklas KRAFT
+30,748704,15.52,9-7,REH,Mål,PL,49,Karl WALLINIUS,,,,1,Kristoffer LAURSEN
+31,748704,16.19,9-8,SAH,Mål,PL,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+32,748704,16.32,,REH,Skud på stolpe,2:e,31,Morten JØRGENSEN,,,,1,Kristoffer LAURSEN
+33,748704,16.43,9-9,SAH,Mål,HF,11,Mikkel LANG,Assist,0,,1,Niklas KRAFT
+34,748704,17.16,,REH,Fejlaflevering,,27,Andre Sindre AHO,,,,,
+35,748704,17.25,,SAH,Tabt bold,,23,Morten Hempel JENSEN,Bold erobret,31,Morten JØRGENSEN,,
+36,748704,17.42,,REH,Skud på stolpe,PL,49,Karl WALLINIUS,,,,12,Magnus BRANDBYGE
+37,748704,18.27,9-10,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,3,Kristjan ÖRN KRISTJANSSON,1,Niklas KRAFT
+38,748704,19.14,10-10,REH,Mål,ST,17,Andreas SØGAARD,Assist,49,Karl WALLINIUS,12,Magnus BRANDBYGE
+39,748704,19.43,10-11,SAH,Mål,Gbr,23,Morten Hempel JENSEN,,,,1,Niklas KRAFT
+40,748704,20.19,11-11,REH,Mål,PL,49,Karl WALLINIUS,Assist,27,Andre Sindre AHO,12,Magnus BRANDBYGE
+41,748704,20.52,,SAH,Skud reddet,VB,15,Emil LÆRKE,Retur,28,Morten KAALUND,1,Niklas KRAFT
+42,748704,21.11,,SAH,Skud på stolpe,ST,28,Morten KAALUND,,,,1,Niklas KRAFT
+43,748704,21.27,,SAH,Udvisning,,7,Jonatan MOLLERUP,,,,,
+44,748704,21.41,,REH,Skud reddet,ST,17,Andreas SØGAARD,,,,12,Magnus BRANDBYGE
+45,748704,22.21,,SAH,Skud reddet,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+46,748704,22.26,12-11,REH,Mål,1:e,4,Elvar ASGEIRSSON,,,,,
+47,748704,23.04,,SAH,Fejlaflevering,,5,Frederik ARNOLDSEN,,,,,
+48,748704,23.23,13-11,REH,Mål,Gbr,14,Nicolaj SPANGGAARD,Assist,4,Elvar ASGEIRSSON,12,Magnus BRANDBYGE
+49,748704,23.33,,SAH,Time out,,,,,,,,
+50,748704,23.54,,SAH,Tilkendt straffe,,28,Morten KAALUND,Forårs. str.,14,Nicolaj SPANGGAARD,,
+51,748704,24.09,13-12,SAH,Mål på straffe,,23,Morten Hempel JENSEN,,,,16,Ágúst BJÖRGVINSSON
+52,748704,24.39,14-12,REH,Mål,Gbr,14,Nicolaj SPANGGAARD,Assist,27,Andre Sindre AHO,12,Magnus BRANDBYGE
+53,748704,25.44,,SAH,Skud reddet,PL,23,Morten Hempel JENSEN,,,,1,Niklas KRAFT
+54,748704,26.07,,REH,Skud reddet,VB,49,Karl WALLINIUS,,,,12,Magnus BRANDBYGE
+55,748704,26.39,,SAH,Skud reddet,PL,15,Emil LÆRKE,,,,1,Niklas KRAFT
+56,748704,27.49,15-12,REH,Mål,VF,31,Morten JØRGENSEN,Assist,11,Mathias JØRGENSEN,12,Magnus BRANDBYGE
+57,748704,28.27,15-13,SAH,Mål,VB,15,Emil LÆRKE,,,,1,Niklas KRAFT
+58,748704,29.01,,REH,Skud reddet,PL,27,Andre Sindre AHO,,,,12,Magnus BRANDBYGE
+59,748704,29.29,,SAH,Skud blokeret,PL,15,Emil LÆRKE,Blok af (ret),49,Karl WALLINIUS,,
+60,748704,29.57,,SAH,Tilkendt straffe,,32,Fredrik OLSSON,Forårs. str.,6,Jonathan WÜRTZ,,
+61,748704,30.00,15-14,SAH,Mål på straffe,,23,Morten Hempel JENSEN,,,,1,Niklas KRAFT
+62,748704,30.00,15-14,,Halvleg,,,,,,,,
+63,748704,30.00,,,Start 2:e halvleg,,,,,,,,
+64,748704,30.22,,REH,Skud reddet,VB,81,Alfred JÖNSSON,,,,12,Magnus BRANDBYGE
+65,748704,30.46,15-15,SAH,Mål,PL,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+66,748704,30.56,,REH,Skud reddet,2:e,49,Karl WALLINIUS,,,,12,Magnus BRANDBYGE
+67,748704,31.28,,SAH,Skud blokeret,PL,15,Emil LÆRKE,Blokeret af,49,Karl WALLINIUS,,
+68,748704,32.11,16-15,REH,Mål,Gbr,81,Alfred JÖNSSON,,,,12,Magnus BRANDBYGE
+69,748704,32.37,16-16,SAH,Mål,PL,15,Emil LÆRKE,,,,1,Niklas KRAFT
+70,748704,33.19,17-16,REH,Mål,PL,14,Nicolaj SPANGGAARD,Assist,49,Karl WALLINIUS,12,Magnus BRANDBYGE
+71,748704,34.04,17-17,SAH,Mål,ST,19,Thor CHRISTENSEN,Assist,15,Emil LÆRKE,1,Niklas KRAFT
+72,748704,34.12,,REH,Fejlaflevering,,49,Karl WALLINIUS,,,,,
+73,748704,34.44,,REH,Udvisning,,6,Jonathan WÜRTZ,,,,,
+74,748704,35.05,,SAH,Tilkendt straffe,,5,Frederik ARNOLDSEN,Forårs. str.,17,Andreas SØGAARD,,
+75,748704,35.05,,REH,Udvisning,,49,Karl WALLINIUS,,,,,
+76,748704,35.08,,SAH,Straffekast reddet,,23,Morten Hempel JENSEN,,,,1,Niklas KRAFT
+77,748704,36.06,,REH,Fejlaflevering,,81,Alfred JÖNSSON,Bold erobret,11,Mikkel LANG,,
+78,748704,36.21,17-18,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,32,Fredrik OLSSON,1,Niklas KRAFT
+79,748704,37.20,,REH,Passivt spil,,0,,,,,,
+80,748704,37.51,17-19,SAH,Mål,VB,23,Morten Hempel JENSEN,,,,1,Niklas KRAFT
+81,748704,38.18,18-19,REH,Mål,Gbr,11,Mathias JØRGENSEN,,,,12,Magnus BRANDBYGE
+82,748704,39.02,18-20,SAH,Mål,PL,15,Emil LÆRKE,,,,1,Niklas KRAFT
+83,748704,39.14,,REH,Skud forbi,ST,17,Andreas SØGAARD,,,,12,Magnus BRANDBYGE
+84,748704,39.23,,SAH,Skud reddet,2:e,25,Jeppe CIESLAK,,,,1,Niklas KRAFT
+85,748704,39.33,,REH,Fejlaflevering,,0,,,,,,
+86,748704,40.07,,SAH,Skud forbi,HB,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+87,748704,40.19,,REH,Time out,,,,,,,,
+88,748704,40.33,19-20,REH,Mål,Gbr,81,Alfred JÖNSSON,,,,12,Magnus BRANDBYGE
+89,748704,41.24,19-21,SAH,Mål,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+90,748704,41.47,20-21,REH,Mål,PL,81,Alfred JÖNSSON,,,,12,Magnus BRANDBYGE
+91,748704,42.20,20-22,SAH,Mål,PL,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+92,748704,43.19,,REH,Tilkendt straffe,,49,Karl WALLINIUS,Forårs. str.,11,Mikkel LANG,,
+93,748704,43.41,21-22,REH,Mål på straffe,,11,Mathias JØRGENSEN,,,,12,Magnus BRANDBYGE
+94,748704,44.22,,SAH,Fejlaflevering,,32,Fredrik OLSSON,,,,,
+95,748704,45.10,,REH,Skud forbi,Gbr,14,Nicolaj SPANGGAARD,,,,12,Magnus BRANDBYGE
+96,748704,45.56,21-23,SAH,Mål,PL,15,Emil LÆRKE,,,,1,Niklas KRAFT
+97,748704,46.43,22-23,REH,Mål,VB,49,Karl WALLINIUS,,,,12,Magnus BRANDBYGE
+98,748704,47.14,,SAH,Skud forbi,HB,3,Kristjan ÖRN KRISTJANSSON,,,,1,Niklas KRAFT
+99,748704,47.46,,REH,Skud blokeret,VB,49,Karl WALLINIUS,Blok af (ret),19,Thor CHRISTENSEN,,
+100,748704,48.04,,REH,Regelfejl,,14,Nicolaj SPANGGAARD,,,,,
+101,748704,48.33,22-24,SAH,Mål,PL,15,Emil LÆRKE,Assist,23,Morten Hempel JENSEN,1,Niklas KRAFT
+102,748704,49.01,,SAH,Udvisning,,6,Kristian BONEFELD,,,,,
+103,748704,49.20,23-24,REH,Mål,HF,11,Mathias JØRGENSEN,Assist,27,Andre Sindre AHO,12,Magnus BRANDBYGE
+104,748704,50.29,,SAH,Skud på stolpe,ST,28,Morten KAALUND,,,,1,Niklas KRAFT
+105,748704,50.36,,SAH,Udvisning,,19,Thor CHRISTENSEN,,,,,
+106,748704,50.53,24-24,REH,Mål,Gbr,27,Andre Sindre AHO,,,,12,Magnus BRANDBYGE
+107,748704,51.08,,SAH,Time out,,,,,,,,
+108,748704,51.22,24-25,SAH,Mål,Gbr,15,Emil LÆRKE,,,,1,Niklas KRAFT
+109,748704,51.45,25-25,REH,Mål,Gbr,81,Alfred JÖNSSON,,,,12,Magnus BRANDBYGE
+110,748704,52.27,,SAH,Skud reddet,PL,15,Emil LÆRKE,,,,1,Niklas KRAFT
+111,748704,53.08,,REH,Regelfejl,,49,Karl WALLINIUS,,,,,
+112,748704,53.44,,SAH,Regelfejl,,32,Fredrik OLSSON,,,,,
+113,748704,54.13,26-25,REH,Mål,PL,49,Karl WALLINIUS,,,,12,Magnus BRANDBYGE
+114,748704,54.25,,SAH,Time out,,,,,,,,
+115,748704,54.56,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,Bold erobret,11,Mathias JØRGENSEN,,
+116,748704,55.25,,REH,Skud reddet,PL,81,Alfred JÖNSSON,,,,12,Magnus BRANDBYGE
+117,748704,55.53,26-26,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,1,Niklas KRAFT
+118,748704,57.21,,REH,Time out,,,,,,,,
+119,748704,57.27,,REH,Skud på stolpe,PL,49,Karl WALLINIUS,,,,12,Magnus BRANDBYGE
+120,748704,58.01,26-27,SAH,Mål,Gbr,20,Morten BALLING,,,,1,Niklas KRAFT
+121,748704,58.38,,REH,Skud på stolpe,PL,81,Alfred JÖNSSON,,,,12,Magnus BRANDBYGE
+122,748704,59.23,,SAH,Skud reddet,PL,32,Fredrik OLSSON,,,,1,Niklas KRAFT
+123,748704,59.58,,REH,Skud reddet,HB,49,Karl WALLINIUS,,,,12,Magnus BRANDBYGE

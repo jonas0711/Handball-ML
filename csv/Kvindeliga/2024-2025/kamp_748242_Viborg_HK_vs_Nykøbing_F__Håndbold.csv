@@ -1,0 +1,147 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748242,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748242,1.06,,VHK,Skud reddet,PL,26,Christina PEDERSEN,,,,12,Catharina BROCH
+3,748242,2.04,,NFH,Skud reddet,Gbr,18,Alberte KIELSTRUP,,,,16,Louise Bak JENSEN
+4,748242,2.42,,VHK,Skud blokeret,PL,9,Laura THESTRUP,Blok af (ret),8,Stine EIBERG,,
+5,748242,3.20,,VHK,Regelfejl,,5,Marielle MARTINSEN,,,,,
+6,748242,4.02,0-1,NFH,Mål,ST,2,Caroline AAR,Assist,26,Mona OBAIDLI,16,Louise Bak JENSEN
+7,748242,4.54,,VHK,Skud reddet,VF,14,Camilla DEGN,,,,12,Catharina BROCH
+8,748242,4.57,,VHK,Advarsel,A,,Ole BITSCH,,,,,
+9,748242,5.35,0-2,NFH,Mål,VF,22,Zoë SPRENGERS,Assist,26,Mona OBAIDLI,16,Louise Bak JENSEN
+10,748242,6.16,1-2,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,12,Catharina BROCH
+11,748242,6.26,1-3,NFH,Mål,2:e,18,Alberte KIELSTRUP,,,,16,Louise Bak JENSEN
+12,748242,6.41,,VHK,Tilkendt straffe,,77,Jana MITTÚN,Forårs. str.,26,Mona OBAIDLI,,
+13,748242,6.55,,NFH,Udvisning,,26,Mona OBAIDLI,,,,,
+14,748242,6.58,,VHK,Straffekast reddet,,19,Sara HALD,,,,12,Catharina BROCH
+15,748242,7.49,,NFH,Fejlaflevering,,79,Kristina KRISTIANSEN,,,,,
+16,748242,8.12,,VHK,Skud reddet,VF,14,Camilla DEGN,,,,12,Catharina BROCH
+17,748242,8.57,,NFH,Skud på stolpe,VB,79,Kristina KRISTIANSEN,,,,16,Louise Bak JENSEN
+18,748242,9.07,,VHK,Skud forbi,1:e,19,Sara HALD,,,,,
+19,748242,9.18,1-4,NFH,Mål,PL,26,Mona OBAIDLI,,,,16,Louise Bak JENSEN
+20,748242,9.39,,VHK,Time out,,,,,,,,
+21,748242,10.07,,VHK,Tabt bold,,77,Jana MITTÚN,,,,,
+22,748242,10.58,1-5,NFH,Mål,HB,18,Alberte KIELSTRUP,,,,16,Louise Bak JENSEN
+23,748242,11.36,2-5,VHK,Mål,PL,5,Marielle MARTINSEN,,,,12,Catharina BROCH
+24,748242,11.47,2-6,NFH,Mål,2:e,22,Zoë SPRENGERS,Assist,18,Alberte KIELSTRUP,16,Louise Bak JENSEN
+25,748242,11.56,,VHK,Fejlaflevering,,26,Christina PEDERSEN,,,,,
+26,748242,12.01,,NFH,Skud reddet,1:e,22,Zoë SPRENGERS,,,,16,Louise Bak JENSEN
+27,748242,12.34,3-6,VHK,Mål,VF,14,Camilla DEGN,Assist,5,Marielle MARTINSEN,12,Catharina BROCH
+28,748242,13.54,,NFH,Passivt spil,,,,,,,,
+29,748242,14.01,4-6,VHK,Mål,2:e,8,Elma ÖRTEMARK,,,,12,Catharina BROCH
+30,748242,15.02,,NFH,Fejlaflevering,,79,Kristina KRISTIANSEN,,,,,
+31,748242,15.14,,VHK,Skud reddet,2:e,14,Camilla DEGN,,,,12,Catharina BROCH
+32,748242,15.17,,NFH,Time out,,,,,,,,
+33,748242,16.03,,NFH,Skud på stolpe,PL,26,Mona OBAIDLI,Retur,,,16,Louise Bak JENSEN
+34,748242,16.09,4-7,NFH,Mål,Gbr,22,Zoë SPRENGERS,,,,16,Louise Bak JENSEN
+35,748242,16.20,,VHK,Skud reddet,PL,5,Marielle MARTINSEN,,,,12,Catharina BROCH
+36,748242,16.41,,NFH,Regelfejl,,34,Sofie BARDRUM,,,,,
+37,748242,16.46,,VHK,Skud på stolpe,2:e,5,Marielle MARTINSEN,,,,12,Catharina BROCH
+38,748242,17.13,4-8,NFH,Mål,ST,22,Zoë SPRENGERS,Assist,18,Alberte KIELSTRUP,16,Louise Bak JENSEN
+39,748242,18.09,,VHK,Skud reddet,PL,77,Jana MITTÚN,,,,12,Catharina BROCH
+40,748242,18.25,,NFH,Fejlaflevering,,26,Mona OBAIDLI,Bold erobret,77,Jana MITTÚN,,
+41,748242,18.33,,VHK,Skud reddet,1:e,18,Henriette HANSEN,,,,12,Catharina BROCH
+42,748242,18.41,4-9,NFH,Mål,1:e,22,Zoë SPRENGERS,,,,16,Louise Bak JENSEN
+43,748242,19.17,5-9,VHK,Mål,Gbr,77,Jana MITTÚN,,,,12,Catharina BROCH
+44,748242,20.14,5-10,NFH,Mål,HF,20,Maja MAGNUSSEN,Assist,18,Alberte KIELSTRUP,16,Louise Bak JENSEN
+45,748242,20.41,,VHK,Skud reddet,VF,14,Camilla DEGN,,,,12,Catharina BROCH
+46,748242,20.48,,NFH,Tilkendt straffe,,26,Mona OBAIDLI,Forårs. str.,19,Sara HALD,,
+47,748242,20.48,,VHK,Udvisning,,19,Sara HALD,,,,,
+48,748242,20.51,5-11,NFH,Mål på straffe,,34,Sofie BARDRUM,,,,16,Louise Bak JENSEN
+49,748242,21.37,,VHK,Fejlaflevering,,62,Louise SØNDERGAARD,,,,,
+50,748242,21.45,,NFH,Skud forbi,1:e,26,Mona OBAIDLI,,,,,
+51,748242,22.25,6-11,VHK,Mål,ST,21,Anne HYKKELBJERG,Assist,5,Marielle MARTINSEN,12,Catharina BROCH
+52,748242,22.57,,NFH,Skud forbi,Gbr,26,Mona OBAIDLI,,,,16,Louise Bak JENSEN
+53,748242,23.43,7-11,VHK,Mål,HB,62,Louise SØNDERGAARD,,,,12,Catharina BROCH
+54,748242,24.22,7-12,NFH,Mål,HF,20,Maja MAGNUSSEN,Assist,7,Amalie WULFF,16,Louise Bak JENSEN
+55,748242,24.36,8-12,VHK,Mål,2:e,5,Marielle MARTINSEN,,,,12,Catharina BROCH
+56,748242,24.51,8-13,NFH,Mål,Gbr,6,Moa HÖGDAHL,,,,16,Louise Bak JENSEN
+57,748242,24.58,9-13,VHK,Mål,2:e,77,Jana MITTÚN,,,,12,Catharina BROCH
+58,748242,24.59,,NFH,Udvisning,,6,Moa HÖGDAHL,,,,,
+59,748242,25.32,,NFH,Skud reddet,Gbr,18,Alberte KIELSTRUP,,,,16,Louise Bak JENSEN
+60,748242,25.37,10-13,VHK,Mål,1:e,14,Camilla DEGN,Assist,77,Jana MITTÚN,12,Catharina BROCH
+61,748242,26.30,,NFH,Fejlaflevering,,7,Amalie WULFF,,,,,
+62,748242,26.39,,VHK,Skud reddet,1:e,77,Jana MITTÚN,,,,12,Catharina BROCH
+63,748242,27.13,,NFH,Tabt bold,,18,Alberte KIELSTRUP,,,,,
+64,748242,27.19,,VHK,Skud forbi,1:e,5,Marielle MARTINSEN,,,,12,Catharina BROCH
+65,748242,28.10,,NFH,Regelfejl,,22,Zoë SPRENGERS,,,,,
+66,748242,28.39,11-13,VHK,Mål,Gbr,77,Jana MITTÚN,,,,12,Catharina BROCH
+67,748242,29.12,11-14,NFH,Mål,PL,6,Moa HÖGDAHL,,,,16,Louise Bak JENSEN
+68,748242,29.47,,VHK,Fejlaflevering,,77,Jana MITTÚN,Bold erobret,20,Maja MAGNUSSEN,,
+69,748242,30.00,,NFH,Tilkendt straffe,,7,Amalie WULFF,Forårs. str.,5,Marielle MARTINSEN,,
+70,748242,30.00,11-15,NFH,Mål på straffe,,34,Sofie BARDRUM,,,,12,Ida Marie KAYSEN
+71,748242,30.00,11-15,,Halvleg,,,,,,,,
+72,748242,30.00,,,Start 2:e halvleg,,,,,,,,
+73,748242,30.58,,NFH,Passivt spil,,0,,,,,,
+74,748242,32.00,,VHK,Skud reddet,PL,77,Jana MITTÚN,,,,12,Catharina BROCH
+75,748242,32.31,11-16,NFH,Mål,Gbr,26,Mona OBAIDLI,,,,16,Louise Bak JENSEN
+76,748242,32.40,,VHK,Tilkendt straffe,,14,Camilla DEGN,Forårs. str.,20,Maja MAGNUSSEN,,
+77,748242,32.40,,NFH,Udvisning,,20,Maja MAGNUSSEN,,,,,
+78,748242,32.44,12-16,VHK,Mål på straffe,,9,Laura THESTRUP,,,,12,Catharina BROCH
+79,748242,33.29,,NFH,Skud reddet,PL,6,Moa HÖGDAHL,,,,16,Louise Bak JENSEN
+80,748242,33.36,13-16,VHK,Mål,1:e,14,Camilla DEGN,Assist,77,Jana MITTÚN,12,Catharina BROCH
+81,748242,34.06,13-17,NFH,Mål,Gbr,26,Mona OBAIDLI,,,,16,Louise Bak JENSEN
+82,748242,34.16,14-17,VHK,Mål,2:e,21,Anne HYKKELBJERG,,,,0,
+83,748242,34.55,14-18,NFH,Mål,Gbr,6,Moa HÖGDAHL,,,,16,Louise Bak JENSEN
+84,748242,36.00,,VHK,Skud blokeret,PL,62,Louise SØNDERGAARD,Blokeret af,6,Moa HÖGDAHL,,
+85,748242,36.54,,NFH,Skud reddet,VF,22,Zoë SPRENGERS,,,,16,Louise Bak JENSEN
+86,748242,37.44,,VHK,Skud forbi,PL,5,Marielle MARTINSEN,,,,12,Catharina BROCH
+87,748242,37.59,,NFH,Skud reddet,2:e,2,Caroline AAR,,,,16,Louise Bak JENSEN
+88,748242,38.06,15-18,VHK,Mål,2:e,5,Marielle MARTINSEN,,,,12,Catharina BROCH
+89,748242,38.53,,NFH,Skud reddet,VF,22,Zoë SPRENGERS,,,,16,Louise Bak JENSEN
+90,748242,39.01,,VHK,Tilkendt straffe,,5,Marielle MARTINSEN,Forårs. str.,49,Aimée VON PEREIRA,,
+91,748242,39.01,,NFH,Udvisning,,11,Rosa SCHMIDT,,,,,
+92,748242,39.01,,VHK,Straffekast reddet,,9,Laura THESTRUP,Retur,0,,1,Sofie BÖRJESSON
+93,748242,39.04,,NFH,Advarsel,A,,Jakob Birkedal LARSEN,,,,,
+94,748242,39.38,16-18,VHK,Mål,VF,14,Camilla DEGN,Assist,26,Christina PEDERSEN,1,Sofie BÖRJESSON
+95,748242,40.17,16-19,NFH,Mål,PL,26,Mona OBAIDLI,,,,16,Louise Bak JENSEN
+96,748242,40.23,17-19,VHK,Mål,2:e,19,Sara HALD,,,,0,
+97,748242,41.17,,NFH,Skud blokeret,PL,79,Kristina KRISTIANSEN,Blok af (ret),21,Anne HYKKELBJERG,,
+98,748242,41.29,,NFH,Regelfejl,,79,Kristina KRISTIANSEN,,,,,
+99,748242,42.25,,VHK,Skud reddet,PL,77,Jana MITTÚN,,,,12,Catharina BROCH
+100,748242,43.02,,NFH,Fejlaflevering,,6,Moa HÖGDAHL,,,,,
+101,748242,43.41,,VHK,Tilkendt straffe,,26,Christina PEDERSEN,Forårs. str.,6,Moa HÖGDAHL,,
+102,748242,43.49,18-19,VHK,Mål på straffe,,26,Christina PEDERSEN,,,,1,Sofie BÖRJESSON
+103,748242,44.27,18-20,NFH,Mål,Gbr,21,Matilde VESTERGAARD,,,,16,Louise Bak JENSEN
+104,748242,44.43,,,,,,,,,,,
+105,748242,44.59,18-21,NFH,Mål,1:e,20,Maja MAGNUSSEN,,,,16,Louise Bak JENSEN
+106,748242,45.15,,VHK,Tilkendt straffe,,62,Louise SØNDERGAARD,Forårs. str.,34,Sofie BARDRUM,,
+107,748242,45.39,,VHK,Straffekast forbi,,26,Christina PEDERSEN,,,,12,Catharina BROCH
+108,748242,46.30,,NFH,Fejlaflevering,,7,Amalie WULFF,Bold erobret,18,Henriette HANSEN,,
+109,748242,47.18,19-21,VHK,Mål,HB,62,Louise SØNDERGAARD,,,,12,Catharina BROCH
+110,748242,48.05,,NFH,Fejlaflevering,,26,Mona OBAIDLI,,,,,
+111,748242,48.15,20-21,VHK,Mål,2:e,9,Laura THESTRUP,,,,12,Catharina BROCH
+112,748242,48.39,20-22,NFH,Mål,PL,7,Amalie WULFF,,,,16,Louise Bak JENSEN
+113,748242,48.49,,VHK,Skud reddet,2:e,9,Laura THESTRUP,,,,12,Catharina BROCH
+114,748242,49.21,,NFH,Tilkendt straffe,,18,Alberte KIELSTRUP,Forårs. str.,5,Marielle MARTINSEN,,
+115,748242,49.43,20-23,NFH,Mål på straffe,,34,Sofie BARDRUM,,,,16,Louise Bak JENSEN
+116,748242,50.13,,VHK,Skud reddet,VF,14,Camilla DEGN,,,,12,Catharina BROCH
+117,748242,50.13,,VHK,Udvisning,,14,Camilla DEGN,,,,,
+118,748242,50.32,20-24,NFH,Mål,Gbr,79,Kristina KRISTIANSEN,,,,16,Louise Bak JENSEN
+119,748242,51.08,21-24,VHK,Mål,Gbr,5,Marielle MARTINSEN,,,,12,Catharina BROCH
+120,748242,51.23,,NFH,Skud på stolpe,Gbr,26,Mona OBAIDLI,,,,16,Louise Bak JENSEN
+121,748242,51.51,22-24,VHK,Mål,HB,62,Louise SØNDERGAARD,,,,12,Catharina BROCH
+122,748242,52.15,22-25,NFH,Mål,VF,21,Matilde VESTERGAARD,Assist,7,Amalie WULFF,16,Louise Bak JENSEN
+123,748242,52.26,23-25,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,12,Catharina BROCH
+124,748242,52.53,,NFH,Regelfejl,,34,Sofie BARDRUM,,,,,
+125,748242,52.53,,VHK,Time out,,,,,,,,
+126,748242,53.16,24-25,VHK,Mål,Gbr,18,Henriette HANSEN,Assist,5,Marielle MARTINSEN,12,Catharina BROCH
+127,748242,53.25,,NFH,Time out,,,,,,,,
+128,748242,53.48,24-26,NFH,Mål,Gbr,18,Alberte KIELSTRUP,,,,16,Louise Bak JENSEN
+129,748242,54.22,,VHK,Fejlaflevering,,62,Louise SØNDERGAARD,,,,,
+130,748242,54.54,24-27,NFH,Mål,ST,34,Sofie BARDRUM,Assist,18,Alberte KIELSTRUP,16,Louise Bak JENSEN
+131,748242,55.53,,VHK,Skud forbi,PL,26,Christina PEDERSEN,,,,12,Catharina BROCH
+132,748242,56.18,,NFH,Regelfejl,,7,Amalie WULFF,,,,,
+133,748242,56.23,25-27,VHK,Mål,1:e,14,Camilla DEGN,Assist,9,Laura THESTRUP,12,Catharina BROCH
+134,748242,57.06,,NFH,Tilkendt straffe,,7,Amalie WULFF,Forårs. str.,9,Laura THESTRUP,,
+135,748242,57.06,,VHK,Udvisning,,9,Laura THESTRUP,,,,,
+136,748242,57.09,25-28,NFH,Mål på straffe,,34,Sofie BARDRUM,,,,12,Ida Marie KAYSEN
+137,748242,57.27,,VHK,Skud blokeret,PL,5,Marielle MARTINSEN,Blokeret af,8,Stine EIBERG,,
+138,748242,57.40,25-29,NFH,Mål,1:e,18,Alberte KIELSTRUP,,,,0,
+139,748242,57.50,26-29,VHK,Mål,Gbr,5,Marielle MARTINSEN,,,,12,Catharina BROCH
+140,748242,58.20,26-30,NFH,Mål,Gbr,7,Amalie WULFF,,,,16,Louise Bak JENSEN
+141,748242,58.47,27-30,VHK,Mål,Gbr,77,Jana MITTÚN,,,,12,Catharina BROCH
+142,748242,59.09,27-31,NFH,Mål,Gbr,26,Mona OBAIDLI,,,,16,Louise Bak JENSEN
+143,748242,59.25,,VHK,Skud forbi,VF,14,Camilla DEGN,,,,12,Catharina BROCH
+144,748242,59.33,,NFH,Time out,,,,,,,,
+145,748242,59.52,,NFH,Skud reddet,Gbr,7,Amalie WULFF,,,,16,Louise Bak JENSEN
+146,748242,60.00,,VHK,Skud forbi,PL,9,Laura THESTRUP,,,,1,Sofie BÖRJESSON

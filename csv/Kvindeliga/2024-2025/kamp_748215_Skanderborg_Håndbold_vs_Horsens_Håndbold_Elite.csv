@@ -1,0 +1,121 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748215,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748215,0.48,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,10,Mathilda LUNDSTRØM,,
+3,748215,1.27,,HHE,Tilkendt straffe,,19,Frida Haug HOEL,Forårs. str.,14,Verona REXHEPI,,
+4,748215,1.37,0-1,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+5,748215,2.09,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,14,Mai KRAGBALLE,,
+6,748215,2.22,0-2,HHE,Mål,1:e,10,Mathilda LUNDSTRØM,,,,12,Sarah ERNEBJERG
+7,748215,2.41,,HHE,Advarsel,,11,Fanny ELOVSSON,,,,,
+8,748215,3.24,,HHE,Udvisning,,11,Fanny ELOVSSON,,,,,
+9,748215,4.01,,SKB,Skud forbi,PL,15,Astrid LESLIE,,,,16,Andrea AUSTMO
+10,748215,4.51,,HHE,Tabt bold,,21,Romee MAARSCHALKEWEERD,,,,,
+11,748215,4.55,1-2,SKB,Mål,1:e,14,Verona REXHEPI,,,,0,
+12,748215,5.45,,HHE,Tabt bold,,19,Frida Haug HOEL,Bold erobret,14,Verona REXHEPI,,
+13,748215,5.50,2-2,SKB,Mål,1:e,4,Emilie BECH,Assist,14,Verona REXHEPI,16,Andrea AUSTMO
+14,748215,6.58,,HHE,Skud reddet,VB,11,Fanny ELOVSSON,,,,12,Sarah ERNEBJERG
+15,748215,7.56,3-2,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,7,Annika Solberg DALSAGER,16,Andrea AUSTMO
+16,748215,8.40,3-3,HHE,Mål,VF,33,Laura Holm ANDERSEN,Assist,11,Fanny ELOVSSON,12,Sarah ERNEBJERG
+17,748215,9.16,,SKB,Fejlaflevering,,7,Annika Solberg DALSAGER,Bold erobret,10,Mathilda LUNDSTRØM,,
+18,748215,9.22,3-4,HHE,Mål,1:e,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,12,Sarah ERNEBJERG
+19,748215,9.32,4-4,SKB,Mål,2:e,14,Verona REXHEPI,,,,16,Andrea AUSTMO
+20,748215,10.25,,HHE,Skud forbi,PL,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+21,748215,11.11,5-4,SKB,Mål,Gbr,14,Verona REXHEPI,Assist,3,Clara BANG,16,Andrea AUSTMO
+22,748215,11.48,5-5,HHE,Mål,PL,11,Fanny ELOVSSON,,,,12,Sarah ERNEBJERG
+23,748215,12.12,6-5,SKB,Mål,PL,3,Clara BANG,,,,16,Andrea AUSTMO
+24,748215,12.48,6-6,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+25,748215,13.28,,SKB,Skud reddet,Gbr,7,Annika Solberg DALSAGER,Retur,0,,16,Andrea AUSTMO
+26,748215,13.54,,SKB,Skud på stolpe,HF,4,Emilie BECH,,,,16,Andrea AUSTMO
+27,748215,14.05,6-7,HHE,Mål,2:e,21,Romee MAARSCHALKEWEERD,Assist,11,Fanny ELOVSSON,12,Sarah ERNEBJERG
+28,748215,14.37,7-7,SKB,Mål,ST,2,Boline LAURSEN,Assist,3,Clara BANG,16,Andrea AUSTMO
+29,748215,14.46,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,Bold erobret,14,Verona REXHEPI,,
+30,748215,15.17,8-7,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Andrea AUSTMO
+31,748215,15.25,,HHE,Tabt bold,,66,Faye JANSON,,,,,
+32,748215,16.14,,SKB,Tilkendt straffe,,7,Annika Solberg DALSAGER,Forårs. str.,14,Mai KRAGBALLE,,
+33,748215,16.37,9-7,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,16,Andrea AUSTMO
+34,748215,17.11,,HHE,Regelfejl,,66,Faye JANSON,,,,,
+35,748215,17.17,10-7,SKB,Mål,2:e,3,Clara BANG,,,,16,Andrea AUSTMO
+36,748215,17.25,,HHE,Time out,,,,,,,,
+37,748215,18.20,,HHE,Tilkendt straffe,,27,Annette WIRÉN LARSEN,Forårs. str.,2,Boline LAURSEN,,
+38,748215,18.30,10-8,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+39,748215,19.31,,SKB,Skud forbi,PL,3,Clara BANG,,,,16,Andrea AUSTMO
+40,748215,20.16,10-9,HHE,Mål,HF,10,Mathilda LUNDSTRØM,Assist,19,Frida Haug HOEL,12,Sarah ERNEBJERG
+41,748215,20.49,11-9,SKB,Mål,Gbr,3,Clara BANG,,,,16,Andrea AUSTMO
+42,748215,21.04,,HHE,Skud reddet,2:e,11,Fanny ELOVSSON,,,,23,Stine ALMIND
+43,748215,21.55,,SKB,Tabt bold,,3,Clara BANG,,,,,
+44,748215,21.59,11-10,HHE,Mål,1:e,33,Laura Holm ANDERSEN,Assist,14,Mai KRAGBALLE,23,Stine ALMIND
+45,748215,22.28,12-10,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Andrea AUSTMO
+46,748215,23.08,,HHE,Skud blokeret,PL,14,Mai KRAGBALLE,Blokeret af,10,Filippa NEDOVIC,,
+47,748215,23.32,,SKB,Skud forbi,PL,7,Annika Solberg DALSAGER,,,,16,Andrea AUSTMO
+48,748215,23.39,12-11,HHE,Mål,1:e,10,Mathilda LUNDSTRØM,Assist,11,Fanny ELOVSSON,23,Stine ALMIND
+49,748215,24.01,13-11,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Andrea AUSTMO
+50,748215,24.40,13-12,HHE,Mål,PL,27,Annette WIRÉN LARSEN,,,,23,Stine ALMIND
+51,748215,25.33,,SKB,Tabt bold,,14,Verona REXHEPI,,,,,
+52,748215,26.29,13-13,HHE,Mål,Gbr,19,Frida Haug HOEL,Assist,39,Melanie BAK,23,Stine ALMIND
+53,748215,26.39,,SKB,Time out,,,,,,,,
+54,748215,27.27,,SKB,Tilkendt straffe,,44,Nicoline LAURITSEN,Forårs. str.,10,Mathilda LUNDSTRØM,,
+55,748215,27.37,14-13,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,16,Andrea AUSTMO
+56,748215,28.15,14-14,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,27,Annette WIRÉN LARSEN,23,Stine ALMIND
+57,748215,28.27,,SKB,Regelfejl,,7,Annika Solberg DALSAGER,,,,,
+58,748215,28.28,,HHE,Time out,,,,,,,,
+59,748215,28.43,14-15,HHE,Mål,Gbr,19,Frida Haug HOEL,,,,23,Stine ALMIND
+60,748215,29.15,,SKB,Tabt bold,,4,Emilie BECH,Bold erobret,33,Laura Holm ANDERSEN,,
+61,748215,29.44,,HHE,Fejlaflevering,,27,Annette WIRÉN LARSEN,,,,,
+62,748215,30.00,,SKB,Skud blokeret,PL,3,Clara BANG,Blokeret af,33,Laura Holm ANDERSEN,,
+63,748215,30.00,14-15,,Halvleg,,,,,,,,
+64,748215,30.00,,,Start 2:e halvleg,,,,,,,,
+65,748215,31.06,14-16,HHE,Mål,PL,27,Annette WIRÉN LARSEN,,,,23,Stine ALMIND
+66,748215,32.06,15-16,SKB,Mål,Gbr,15,Astrid LESLIE,,,,1,Mathilde BISGAARD
+67,748215,32.51,15-17,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,39,Melanie BAK,23,Stine ALMIND
+68,748215,33.27,,SKB,Fejlaflevering,,15,Astrid LESLIE,Bold erobret,10,Mathilda LUNDSTRØM,,
+69,748215,33.31,15-18,HHE,Mål,1:e,10,Mathilda LUNDSTRØM,,,,0,
+70,748215,34.15,16-18,SKB,Mål,HF,4,Emilie BECH,Assist,15,Astrid LESLIE,1,Mathilde BISGAARD
+71,748215,34.49,,HHE,Fejlaflevering,,19,Frida Haug HOEL,,,,,
+72,748215,35.49,17-18,SKB,Mål,Gbr,14,Verona REXHEPI,,,,1,Mathilde BISGAARD
+73,748215,36.23,,HHE,Skud forbi,PL,19,Frida Haug HOEL,,,,23,Stine ALMIND
+74,748215,36.34,18-18,SKB,Mål,2:e,26,Christina HANSEN,Assist,3,Clara BANG,1,Mathilde BISGAARD
+75,748215,37.01,18-19,HHE,Mål,Gbr,19,Frida Haug HOEL,,,,23,Stine ALMIND
+76,748215,37.14,19-19,SKB,Mål,Gbr,15,Astrid LESLIE,,,,1,Mathilde BISGAARD
+77,748215,38.11,,HHE,Regelfejl,,19,Frida Haug HOEL,,,,,
+78,748215,38.46,20-19,SKB,Mål,ST,26,Christina HANSEN,Assist,14,Verona REXHEPI,1,Mathilde BISGAARD
+79,748215,39.08,20-20,HHE,Mål,PL,11,Fanny ELOVSSON,,,,23,Stine ALMIND
+80,748215,39.46,,SKB,Tilkendt straffe,,14,Verona REXHEPI,Forårs. str.,11,Fanny ELOVSSON,,
+81,748215,39.46,,HHE,Udvisning,,11,Fanny ELOVSSON,,,,,
+82,748215,39.50,,SKB,Straffekast forbi,,25,Astrid LYNNERUP,,,,1,Mathilde BISGAARD
+83,748215,40.57,20-21,HHE,Mål,Gbr,27,Annette WIRÉN LARSEN,,,,23,Stine ALMIND
+84,748215,41.22,,SKB,Skud på stolpe,Gbr,44,Nicoline LAURITSEN,,,,1,Mathilde BISGAARD
+85,748215,41.51,,HHE,Skud reddet,Gbr,27,Annette WIRÉN LARSEN,,,,12,Sarah ERNEBJERG
+86,748215,42.32,21-21,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,44,Nicoline LAURITSEN,1,Mathilde BISGAARD
+87,748215,42.59,21-22,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+88,748215,43.48,,SKB,Fejlaflevering,,15,Astrid LESLIE,Bold erobret,3,Alma SKRETTING,,
+89,748215,43.51,21-23,HHE,Mål,1:e,21,Romee MAARSCHALKEWEERD,Assist,3,Alma SKRETTING,12,Sarah ERNEBJERG
+90,748215,44.25,,SKB,Tilkendt straffe,,25,Astrid LYNNERUP,Forårs. str.,10,Mathilda LUNDSTRØM,,
+91,748215,44.25,,HHE,Udvisning,,10,Mathilda LUNDSTRØM,,,,,
+92,748215,44.25,22-23,SKB,Mål på straffe,,14,Verona REXHEPI,,,,1,Mathilde BISGAARD
+93,748215,44.50,,HHE,Tabt bold,,27,Annette WIRÉN LARSEN,Bold erobret,0,,,
+94,748215,44.55,,SKB,Skud på stolpe,1:e,14,Verona REXHEPI,,,,0,
+95,748215,45.39,22-24,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+96,748215,46.03,23-24,SKB,Mål,Gbr,44,Nicoline LAURITSEN,Assist,15,Astrid LESLIE,1,Mathilde BISGAARD
+97,748215,46.50,,HHE,Tilkendt straffe,,39,Melanie BAK,Forårs. str.,25,Astrid LYNNERUP,,
+98,748215,46.56,23-25,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,12,Sarah ERNEBJERG
+99,748215,47.35,24-25,SKB,Mål,ST,2,Boline LAURSEN,,,,1,Mathilde BISGAARD
+100,748215,49.05,,HHE,Passivt spil,,0,,,,,,
+101,748215,49.05,,HHE,Udvisning,,39,Melanie BAK,,,,,
+102,748215,49.22,,SKB,Fejlaflevering,,15,Astrid LESLIE,Bold erobret,33,Laura Holm ANDERSEN,,
+103,748215,49.53,24-26,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,,,,12,Sarah ERNEBJERG
+104,748215,49.58,25-26,SKB,Mål,,,,,,,,
+105,748215,50.40,25-27,HHE,Mål,ST,9,Annika MEYER,Assist,14,Mai KRAGBALLE,12,Sarah ERNEBJERG
+106,748215,50.51,,SKB,Time out,,,,,,,,
+107,748215,51.00,,SKB,Tilkendt straffe,,44,Nicoline LAURITSEN,Forårs. str.,3,Alma SKRETTING,,
+108,748215,51.18,,SKB,Straffekast forbi,,14,Verona REXHEPI,,,,16,Andrea AUSTMO
+109,748215,51.56,,HHE,Skud forbi,VF,33,Laura Holm ANDERSEN,,,,23,Stine ALMIND
+110,748215,52.46,26-27,SKB,Mål,HF,4,Emilie BECH,Assist,3,Clara BANG,16,Andrea AUSTMO
+111,748215,53.18,,HHE,Fejlaflevering,,39,Melanie BAK,,,,,
+112,748215,54.17,,SKB,Regelfejl,,7,Annika Solberg DALSAGER,,,,,
+113,748215,54.47,,HHE,Regelfejl,,39,Melanie BAK,,,,,
+114,748215,55.38,,SKB,Skud forbi,VF,25,Astrid LYNNERUP,,,,16,Andrea AUSTMO
+115,748215,56.47,,HHE,Regelfejl,,9,Annika MEYER,,,,,
+116,748215,57.39,27-27,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Andrea AUSTMO
+117,748215,57.52,,HHE,Time out,,,,,,,,
+118,748215,58.11,27-28,HHE,Mål,Gbr,10,Mathilda LUNDSTRØM,Assist,14,Mai KRAGBALLE,23,Stine ALMIND
+119,748215,59.15,28-28,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,3,Clara BANG,16,Andrea AUSTMO
+120,748215,59.59,,HHE,Skud blokeret,VB,7,Maria Palsdottir NÓLSOY,Blokeret af,3,Clara BANG,,

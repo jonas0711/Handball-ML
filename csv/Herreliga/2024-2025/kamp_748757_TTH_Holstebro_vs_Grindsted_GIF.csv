@@ -1,0 +1,139 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748757,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748757,0.38,,GIF,Regelfejl,,22,Hjalmar ANDERSEN,,,,,
+3,748757,0.43,,TTH,Skud reddet,1:e,23,Miha ZVIZEJ,,,,16,Christian WETCHE
+4,748757,1.25,,GIF,Skud reddet,HF,3,Thomas THEILGAARD,,,,16,Sander HEIEREN
+5,748757,1.37,,TTH,Skud reddet,2:e,7,William AAR,,,,16,Christian WETCHE
+6,748757,2.34,0-1,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,8,Rolf RAVN,16,Sander HEIEREN
+7,748757,3.04,1-1,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,,,,16,Christian WETCHE
+8,748757,3.13,,TTH,Udvisning,,7,William AAR,,,,,
+9,748757,3.25,1-2,GIF,Mål,PL,21,Kristoffer VESTERGAARD,,,,16,Sander HEIEREN
+10,748757,3.58,2-2,TTH,Mål,Gbr,11,Thomas DAMGAARD,Assist,18,Edwin ASPENBÄCK,16,Christian WETCHE
+11,748757,4.52,,GIF,Skud reddet,HF,3,Thomas THEILGAARD,,,,16,Sander HEIEREN
+12,748757,5.18,,TTH,Skud blokeret,PL,18,Edwin ASPENBÄCK,Blokeret af,11,Kristoffer JESSEN,,
+13,748757,5.54,,GIF,Skud reddet,PL,21,Kristoffer VESTERGAARD,,,,16,Sander HEIEREN
+14,748757,6.12,3-2,TTH,Mål,1:e,28,Kevin GULLIKSEN,,,,16,Christian WETCHE
+15,748757,6.28,3-3,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,16,Sander HEIEREN
+16,748757,7.22,,GIF,Advarsel,,3,Thomas THEILGAARD,,,,,
+17,748757,7.40,4-3,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,16,Christian WETCHE
+18,748757,7.53,,GIF,Skud reddet,2:e,14,Nicolai SKYTTE,,,,16,Sander HEIEREN
+19,748757,8.04,,TTH,Skud forbi,2:e,18,Edwin ASPENBÄCK,,,,16,Christian WETCHE
+20,748757,8.56,,GIF,Fejlaflevering,,21,Kristoffer VESTERGAARD,Bold erobret,11,Thomas DAMGAARD,,
+21,748757,9.00,,TTH,Tilkendt straffe,,28,Kevin GULLIKSEN,Forårs. str.,4,Frederik NIELSEN,,
+22,748757,9.01,5-3,TTH,Mål på straffe,,6,Frederik BJERRE,,,,16,Christian WETCHE
+23,748757,9.24,,GIF,Udvisning,,4,Frederik NIELSEN,,,,,
+24,748757,10.07,,GIF,Skud reddet,PL,18,Martin RISOM,,,,16,Sander HEIEREN
+25,748757,10.32,,TTH,Skud reddet,VB,7,William AAR,,,,16,Christian WETCHE
+26,748757,11.23,,TTH,Udvisning,,23,Miha ZVIZEJ,,,,,
+27,748757,11.36,5-4,GIF,Mål,Gbr,14,Nicolai SKYTTE,,,,16,Sander HEIEREN
+28,748757,12.11,6-4,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,,,,16,Christian WETCHE
+29,748757,12.18,,TTH,Udvisning,,4,Christoffer CICHOSZ,,,,,
+30,748757,12.32,,GIF,Regelfejl,,18,Martin RISOM,,,,,
+31,748757,13.28,7-4,TTH,Mål,ST,28,Kevin GULLIKSEN,Assist,11,Thomas DAMGAARD,16,Christian WETCHE
+32,748757,13.55,7-5,GIF,Mål,Gbr,18,Martin RISOM,,,,16,Sander HEIEREN
+33,748757,14.48,8-5,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,Assist,11,Thomas DAMGAARD,16,Christian WETCHE
+34,748757,15.02,,GIF,Time out,,,,,,,,
+35,748757,15.39,,GIF,Skud reddet,PL,21,Kristoffer VESTERGAARD,,,,16,Sander HEIEREN
+36,748757,15.45,9-5,TTH,Mål,1:e,6,Frederik BJERRE,,,,16,Christian WETCHE
+37,748757,16.16,,GIF,Skud reddet,Gbr,4,Frederik NIELSEN,,,,16,Sander HEIEREN
+38,748757,16.22,10-5,TTH,Mål,1:e,7,William AAR,Assist,13,Sven EHRIG,16,Christian WETCHE
+39,748757,17.14,,GIF,Fejlaflevering,,17,Kristian Krag ØRSTED,Bold erobret,7,William AAR,,
+40,748757,17.24,,TTH,Skud reddet,1:e,13,Sven EHRIG,,,,16,Christian WETCHE
+41,748757,17.29,10-6,GIF,Mål,2:e,7,Jakob VILLEMOES,,,,16,Sander HEIEREN
+42,748757,18.00,11-6,TTH,Mål,Gbr,11,Thomas DAMGAARD,Assist,18,Edwin ASPENBÄCK,16,Christian WETCHE
+43,748757,18.13,,GIF,Regelfejl,,17,Kristian Krag ØRSTED,,,,,
+44,748757,18.16,12-6,TTH,Mål,1:e,7,William AAR,,,,16,Christian WETCHE
+45,748757,18.24,,GIF,Time out,,,,,,,,
+46,748757,19.02,,GIF,Tabt bold,,15,Jonas FUGLSBJERG,,,,,
+47,748757,19.10,13-6,TTH,Mål,2:e,28,Kevin GULLIKSEN,Assist,13,Sven EHRIG,16,Christian WETCHE
+48,748757,19.41,,GIF,Fejlaflevering,,15,Jonas FUGLSBJERG,Bold erobret,7,William AAR,,
+49,748757,19.51,14-6,TTH,Mål,1:e,7,William AAR,,,,,
+50,748757,20.19,,GIF,Skud reddet,VF,20,Frederik IVERSEN,,,,16,Sander HEIEREN
+51,748757,21.00,,TTH,Tilkendt straffe,,18,Edwin ASPENBÄCK,Forårs. str.,11,Kristoffer JESSEN,,
+52,748757,21.00,,GIF,Udvisning,,11,Kristoffer JESSEN,,,,,
+53,748757,21.03,,TTH,Straffekast reddet,,6,Frederik BJERRE,Retur,0,,16,Christian WETCHE
+54,748757,21.33,15-6,TTH,Mål,ST,3,Sebastian ØRUM,Assist,22,Nikolaj MARKUSSEN,16,Christian WETCHE
+55,748757,22.54,,GIF,Skud blokeret,PL,14,Nicolai SKYTTE,Blok af (ret),23,Miha ZVIZEJ,,
+56,748757,23.06,,GIF,Passivt spil,,0,,,,,,
+57,748757,23.47,16-6,TTH,Mål,Gbr,11,Thomas DAMGAARD,Assist,18,Edwin ASPENBÄCK,16,Christian WETCHE
+58,748757,24.33,16-7,GIF,Mål,HB,18,Martin RISOM,,,,16,Sander HEIEREN
+59,748757,24.40,17-7,TTH,Mål,2:e,23,Miha ZVIZEJ,,,,16,Christian WETCHE
+60,748757,25.10,,GIF,Skud reddet,HB,18,Martin RISOM,,,,16,Sander HEIEREN
+61,748757,25.17,18-7,TTH,Mål,1:e,6,Frederik BJERRE,,,,1,Frederik SKOVGAARD
+62,748757,26.16,,GIF,Skud reddet,HF,7,Jakob VILLEMOES,,,,16,Sander HEIEREN
+63,748757,26.47,19-7,TTH,Mål,Gbr,7,William AAR,Assist,6,Frederik BJERRE,1,Frederik SKOVGAARD
+64,748757,27.24,19-8,GIF,Mål,PL,21,Kristoffer VESTERGAARD,,,,16,Sander HEIEREN
+65,748757,27.54,20-8,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,Assist,7,William AAR,1,Frederik SKOVGAARD
+66,748757,28.03,20-9,GIF,Mål,2:e,4,Frederik NIELSEN,,,,16,Sander HEIEREN
+67,748757,28.10,,TTH,Time out,,,,,,,,
+68,748757,28.19,,TTH,Regelfejl,,7,William AAR,,,,,
+69,748757,28.24,,GIF,Skud reddet,1:e,9,Nicklas Bjørn VASSVIK,,,,16,Sander HEIEREN
+70,748757,28.54,21-9,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,11,Thomas DAMGAARD,1,Frederik SKOVGAARD
+71,748757,29.44,21-10,GIF,Mål,Gbr,4,Frederik NIELSEN,Assist,22,Hjalmar ANDERSEN,16,Sander HEIEREN
+72,748757,29.53,22-10,TTH,Mål,2:e,28,Kevin GULLIKSEN,,,,,
+73,748757,30.00,22-10,,Halvleg,,,,,,,,
+74,748757,30.00,,,Start 2:e halvleg,,,,,,,,
+75,748757,30.24,23-10,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,Assist,11,Thomas DAMGAARD,16,Christian WETCHE
+76,748757,31.15,23-11,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,16,Sander HEIEREN
+77,748757,31.23,24-11,TTH,Mål,2:e,7,William AAR,,,,16,Christian WETCHE
+78,748757,32.09,,GIF,Tilkendt straffe,,17,Kristian Krag ØRSTED,Forårs. str.,21,Mathias SMED,,
+79,748757,32.38,24-12,GIF,Mål på straffe,,20,Frederik IVERSEN,,,,16,Sander HEIEREN
+80,748757,33.11,25-12,TTH,Mål,PL,7,William AAR,Assist,18,Edwin ASPENBÄCK,16,Christian WETCHE
+81,748757,34.08,,GIF,Tilkendt straffe,,17,Kristian Krag ØRSTED,Forårs. str.,23,Miha ZVIZEJ,,
+82,748757,34.34,25-13,GIF,Mål på straffe,,20,Frederik IVERSEN,,,,16,Sander HEIEREN
+83,748757,35.30,26-13,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,11,Thomas DAMGAARD,16,Christian WETCHE
+84,748757,36.20,26-14,GIF,Mål,Gbr,18,Martin RISOM,,,,16,Sander HEIEREN
+85,748757,36.29,27-14,TTH,Mål,2:e,18,Edwin ASPENBÄCK,,,,16,Christian WETCHE
+86,748757,37.21,,GIF,Skud reddet,Gbr,4,Frederik NIELSEN,Retur,0,,16,Sander HEIEREN
+87,748757,37.44,,GIF,Tilkendt straffe,,22,Hjalmar ANDERSEN,Forårs. str.,21,Mathias SMED,,
+88,748757,37.45,,GIF,Straffekast på stolpe,,20,Frederik IVERSEN,,,,1,Frank MIKKELSEN
+89,748757,38.21,28-14,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,18,Edwin ASPENBÄCK,16,Christian WETCHE
+90,748757,39.17,28-15,GIF,Mål,Gbr,14,Nicolai SKYTTE,,,,16,Sander HEIEREN
+91,748757,39.56,,TTH,Skud reddet,PL,7,William AAR,,,,16,Christian WETCHE
+92,748757,40.00,,TTH,Udvisning,,7,William AAR,,,,,
+93,748757,40.15,28-16,GIF,Mål,Gbr,14,Nicolai SKYTTE,,,,16,Sander HEIEREN
+94,748757,40.35,,TTH,Tilkendt straffe,,22,Nikolaj MARKUSSEN,Forårs. str.,11,Kristoffer JESSEN,,
+95,748757,40.48,29-16,TTH,Mål på straffe,,10,Magnus BRAMMING,,,,16,Christian WETCHE
+96,748757,41.19,,GIF,Tilkendt straffe,,21,Kristoffer VESTERGAARD,Forårs. str.,21,Mathias SMED,,
+97,748757,41.23,,GIF,Straffekast reddet,,15,Jonas FUGLSBJERG,,,,1,Frank MIKKELSEN
+98,748757,41.55,30-16,TTH,Mål,PL,22,Nikolaj MARKUSSEN,,,,16,Christian WETCHE
+99,748757,42.10,30-17,GIF,Mål,Gbr,9,Nicklas Bjørn VASSVIK,,,,1,Frank MIKKELSEN
+100,748757,42.12,,TTH,Time out,,0,,,,,,
+101,748757,42.12,,TTH,Skud forbi,PL,18,Edwin ASPENBÄCK,,,,16,Christian WETCHE
+102,748757,42.20,,GIF,Tilkendt straffe,,17,Kristian Krag ØRSTED,Forårs. str.,4,Christoffer CICHOSZ,,
+103,748757,42.43,30-18,GIF,Mål på straffe,,21,Kristoffer VESTERGAARD,,,,1,Frank MIKKELSEN
+104,748757,43.13,,GIF,Fejlaflevering,,8,Rolf RAVN,Bold erobret,22,Nikolaj MARKUSSEN,,
+105,748757,43.28,,TTH,Regelfejl,,18,Edwin ASPENBÄCK,,,,,
+106,748757,44.14,,GIF,Tilkendt straffe,,18,Martin RISOM,Forårs. str.,25,Jonas PORUP,,
+107,748757,44.28,30-19,GIF,Mål på straffe,,21,Kristoffer VESTERGAARD,,,,1,Frank MIKKELSEN
+108,748757,46.04,31-19,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,22,Nikolaj MARKUSSEN,16,Christian WETCHE
+109,748757,46.46,,GIF,Skud reddet,ST,17,Kristian Krag ØRSTED,,,,1,Frank MIKKELSEN
+110,748757,46.57,,TTH,Skud på stolpe,Gbr,13,Sven EHRIG,,,,16,Christian WETCHE
+111,748757,47.41,,GIF,Tilkendt straffe,,21,Kristoffer VESTERGAARD,Forårs. str.,21,Mathias SMED,,
+112,748757,47.57,31-20,GIF,Mål på straffe,,21,Kristoffer VESTERGAARD,,,,1,Frank MIKKELSEN
+113,748757,48.58,,TTH,Skud reddet,ST,4,Christoffer CICHOSZ,,,,16,Christian WETCHE
+114,748757,49.08,31-21,GIF,Mål,VF,19,Magnus SADOVA,Assist,14,Nicolai SKYTTE,1,Frank MIKKELSEN
+115,748757,50.07,32-21,TTH,Mål,Gbr,22,Nikolaj MARKUSSEN,,,,16,Christian WETCHE
+116,748757,50.13,32-22,GIF,Mål,2:e,19,Magnus SADOVA,,,,1,Frank MIKKELSEN
+117,748757,50.20,,TTH,Time out,,,,,,,,
+118,748757,50.46,,TTH,Skud på stolpe,HF,13,Sven EHRIG,,,,16,Christian WETCHE
+119,748757,50.59,,TTH,Udvisning,,10,Magnus BRAMMING,,,,,
+120,748757,51.17,,GIF,Skud på stolpe,PL,21,Kristoffer VESTERGAARD,,,,1,Frank MIKKELSEN
+121,748757,52.06,33-22,TTH,Mål,Gbr,7,William AAR,,,,16,Christian WETCHE
+122,748757,52.47,33-23,GIF,Mål,Gbr,21,Kristoffer VESTERGAARD,,,,1,Frank MIKKELSEN
+123,748757,53.20,,TTH,Skud reddet,PL,7,William AAR,,,,16,Christian WETCHE
+124,748757,54.21,,TTH,Udvisning,,21,Mathias SMED,,,,,
+125,748757,54.38,,GIF,Fejlaflevering,,21,Kristoffer VESTERGAARD,,,,,
+126,748757,55.21,34-23,TTH,Mål,Gbr,11,Thomas DAMGAARD,Assist,18,Edwin ASPENBÄCK,16,Christian WETCHE
+127,748757,55.34,34-24,GIF,Mål,Gbr,14,Nicolai SKYTTE,,,,1,Frank MIKKELSEN
+128,748757,56.05,35-24,TTH,Mål,Gbr,7,William AAR,,,,16,Christian WETCHE
+129,748757,56.16,,GIF,Time out,,,,,,,,
+130,748757,56.22,,GIF,Tilkendt straffe,,14,Nicolai SKYTTE,Forårs. str.,13,Sven EHRIG,,
+131,748757,56.36,35-25,GIF,Mål på straffe,,21,Kristoffer VESTERGAARD,,,,1,Frank MIKKELSEN
+132,748757,57.37,,TTH,Skud reddet,HB,22,Nikolaj MARKUSSEN,,,,16,Christian WETCHE
+133,748757,58.06,,GIF,Regelfejl,,22,Hjalmar ANDERSEN,,,,,
+134,748757,58.10,36-25,TTH,Mål,1:e,17,Simon KIRKEGAARD,,,,0,
+135,748757,58.46,36-26,GIF,Mål,PL,21,Kristoffer VESTERGAARD,,,,1,Frank MIKKELSEN
+136,748757,59.27,,TTH,Fejlaflevering,,7,William AAR,,,,,
+137,748757,59.32,36-27,GIF,Mål,1:e,8,Rolf RAVN,,,,1,Frank MIKKELSEN
+138,748757,59.58,37-27,TTH,Mål,Gbr,7,William AAR,Assist,17,Simon KIRKEGAARD,16,Christian WETCHE

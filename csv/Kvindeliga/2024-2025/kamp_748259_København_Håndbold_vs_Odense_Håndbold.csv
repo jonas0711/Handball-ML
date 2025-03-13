@@ -1,0 +1,134 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748259,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748259,0.55,0-1,ODE,Mål,ST,3,Maren AARDAHL,Assist,32,Mie HØJLUND,2,Bianca SCHANSSEMA
+3,748259,1.42,1-1,KBH,Mål,Gbr,21,Helene KINDBERG,,,,38,Yara TEN HOLTE
+4,748259,1.54,,ODE,Tilkendt straffe,,32,Mie HØJLUND,Forårs. str.,17,Tabea SCHMID,,
+5,748259,2.15,1-2,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,2,Bianca SCHANSSEMA
+6,748259,2.58,,KBH,Skud reddet,PL,15,Emma NAVNE,,,,38,Yara TEN HOLTE
+7,748259,4.05,1-3,ODE,Mål,Gbr,68,Helena ELVER,,,,2,Bianca SCHANSSEMA
+8,748259,4.16,2-3,KBH,Mål,2:e,7,Emilie Ytting PEDERSEN,Assist,11,Martha NICKELSEN,38,Yara TEN HOLTE
+9,748259,4.28,,ODE,Skud forbi,2:e,33,Thale Rushfeldt DEILA,,,,2,Bianca SCHANSSEMA
+10,748259,5.12,,KBH,Regelfejl,,11,Martha NICKELSEN,,,,,
+11,748259,5.22,,ODE,Skud forbi,PL,33,Thale Rushfeldt DEILA,,,,2,Bianca SCHANSSEMA
+12,748259,5.56,3-3,KBH,Mål,ST,17,Tabea SCHMID,,,,38,Yara TEN HOLTE
+13,748259,6.43,,ODE,Skud reddet,VB,32,Mie HØJLUND,,,,2,Bianca SCHANSSEMA
+14,748259,7.19,,KBH,Skud reddet,HF,5,Clara SKØTT,,,,38,Yara TEN HOLTE
+15,748259,7.32,,ODE,Skud reddet,2:e,34,Andrea HANSEN,,,,2,Bianca SCHANSSEMA
+16,748259,7.58,,KBH,Fejlaflevering,,21,Helene KINDBERG,Bold erobret,44,Nikita Van Der VLIET,,
+17,748259,8.06,3-4,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,44,Nikita Van Der VLIET,2,Bianca SCHANSSEMA
+18,748259,8.38,,KBH,Tabt bold,,11,Martha NICKELSEN,,,,,
+19,748259,8.43,,ODE,Skud reddet,1:e,3,Maren AARDAHL,,,,2,Bianca SCHANSSEMA
+20,748259,8.43,,ODE,Udvisning,,3,Maren AARDAHL,,,,,
+21,748259,9.00,4-4,KBH,Mål,HF,5,Clara SKØTT,Assist,21,Helene KINDBERG,38,Yara TEN HOLTE
+22,748259,9.39,,ODE,Skud forbi,Gbr,32,Mie HØJLUND,,,,2,Bianca SCHANSSEMA
+23,748259,10.30,,KBH,Skud reddet,HF,5,Clara SKØTT,,,,38,Yara TEN HOLTE
+24,748259,11.19,,ODE,Tilkendt straffe,,33,Thale Rushfeldt DEILA,Forårs. str.,15,Emma NAVNE,,
+25,748259,11.25,,KBH,Advarsel,,15,Emma NAVNE,,,,,
+26,748259,11.39,4-5,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,2,Bianca SCHANSSEMA
+27,748259,12.10,,KBH,Skud reddet,PL,15,Emma NAVNE,,,,38,Yara TEN HOLTE
+28,748259,12.19,,ODE,Skud reddet,2:e,33,Thale Rushfeldt DEILA,,,,2,Bianca SCHANSSEMA
+29,748259,12.48,5-5,KBH,Mål,ST,17,Tabea SCHMID,Assist,11,Martha NICKELSEN,38,Yara TEN HOLTE
+30,748259,13.02,5-6,ODE,Mål,HF,34,Andrea HANSEN,Assist,68,Helena ELVER,2,Bianca SCHANSSEMA
+31,748259,13.50,,KBH,Fejlaflevering,,5,Clara SKØTT,,,,,
+32,748259,13.55,5-7,ODE,Mål,1:e,33,Thale Rushfeldt DEILA,Assist,3,Maren AARDAHL,2,Bianca SCHANSSEMA
+33,748259,14.23,6-7,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,4,Catharina MOLENAAR,38,Yara TEN HOLTE
+34,748259,14.34,,ODE,Skud reddet,2:e,32,Mie HØJLUND,,,,2,Bianca SCHANSSEMA
+35,748259,15.10,,KBH,Skud forbi,HF,5,Clara SKØTT,,,,38,Yara TEN HOLTE
+36,748259,15.26,,ODE,Tilkendt straffe,,3,Maren AARDAHL,Forårs. str.,10,Pernille BRANDENBORG,,
+37,748259,15.31,,KBH,Advarsel,,21,Helene KINDBERG,,,,,
+38,748259,15.48,6-8,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,2,Bianca SCHANSSEMA
+39,748259,16.20,7-8,KBH,Mål,PL,15,Emma NAVNE,,,,38,Yara TEN HOLTE
+40,748259,16.50,7-9,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,2,Bianca SCHANSSEMA
+41,748259,17.12,8-9,KBH,Mål,PL,4,Catharina MOLENAAR,,,,38,Yara TEN HOLTE
+42,748259,17.52,,ODE,Fejlaflevering,,27,Louise BURGAARD,,,,,
+43,748259,17.59,9-9,KBH,Mål,1:e,10,Pernille BRANDENBORG,Assist,15,Emma NAVNE,38,Yara TEN HOLTE
+44,748259,18.44,,ODE,Skud reddet,Gbr,27,Louise BURGAARD,,,,2,Bianca SCHANSSEMA
+45,748259,18.51,10-9,KBH,Mål,2:e,21,Helene KINDBERG,,,,38,Yara TEN HOLTE
+46,748259,19.28,10-10,ODE,Mål,PL,68,Helena ELVER,,,,2,Bianca SCHANSSEMA
+47,748259,20.05,,KBH,Skud reddet,Gbr,15,Emma NAVNE,Retur,0,,38,Yara TEN HOLTE
+48,748259,20.57,11-10,KBH,Mål,HF,9,Ditte BACH,Assist,21,Helene KINDBERG,38,Yara TEN HOLTE
+49,748259,21.12,,ODE,Tilkendt straffe,,27,Louise BURGAARD,Forårs. str.,21,Helene KINDBERG,,
+50,748259,21.12,,KBH,Udvisning,,21,Helene KINDBERG,,,,,
+51,748259,21.12,11-11,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,20,Anne Christine BOSSEN
+52,748259,21.24,,KBH,Advarsel,B,,Bo SPELLERBERG,,,,,
+53,748259,22.02,,ODE,Udvisning,,23,Elma HALILCEVIC,,,,,
+54,748259,22.10,12-11,KBH,Mål,VB,4,Catharina MOLENAAR,,,,38,Yara TEN HOLTE
+55,748259,22.38,12-12,ODE,Mål,Gbr,27,Louise BURGAARD,Assist,68,Helena ELVER,2,Bianca SCHANSSEMA
+56,748259,23.03,,KBH,Tabt bold,,7,Emilie Ytting PEDERSEN,,,,,
+57,748259,23.35,,ODE,Skud reddet,Gbr,22,Ragnhild DAHL,,,,2,Bianca SCHANSSEMA
+58,748259,23.54,13-12,KBH,Mål,HF,9,Ditte BACH,Assist,15,Emma NAVNE,38,Yara TEN HOLTE
+59,748259,24.28,13-13,ODE,Mål,Gbr,27,Louise BURGAARD,,,,2,Bianca SCHANSSEMA
+60,748259,24.28,,KBH,Udvisning,,15,Emma NAVNE,,,,,
+61,748259,25.23,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+62,748259,25.30,13-14,ODE,Mål,1:e,3,Maren AARDAHL,,,,0,
+63,748259,26.26,,KBH,Tilkendt straffe,,17,Tabea SCHMID,Forårs. str.,3,Maren AARDAHL,,
+64,748259,26.50,14-14,KBH,Mål på straffe,,17,Tabea SCHMID,,,,38,Yara TEN HOLTE
+65,748259,27.37,,ODE,Fejlaflevering,,27,Louise BURGAARD,,,,,
+66,748259,28.11,,KBH,Skud reddet,PL,9,Ditte BACH,,,,38,Yara TEN HOLTE
+67,748259,28.41,,ODE,Tilkendt straffe,,10,Anna GRUNDTVIG,Forårs. str.,9,Ditte BACH,,
+68,748259,28.41,,KBH,Udvisning,,9,Ditte BACH,,,,,
+69,748259,28.43,,ODE,Straffekast reddet,,22,Ragnhild DAHL,Retur,0,,2,Bianca SCHANSSEMA
+70,748259,29.00,,ODE,Time out,,,,,,,,
+71,748259,29.09,14-15,ODE,Mål,Gbr,68,Helena ELVER,,,,2,Bianca SCHANSSEMA
+72,748259,29.50,,KBH,Time out,,,,,,,,
+73,748259,30.00,,KBH,Skud reddet,PL,11,Martha NICKELSEN,,,,38,Yara TEN HOLTE
+74,748259,30.00,14-15,,Halvleg,,,,,,,,
+75,748259,30.00,,,Start 2:e halvleg,,,,,,,,
+76,748259,30.50,,KBH,Regelfejl,,4,Catharina MOLENAAR,,,,,
+77,748259,31.26,,ODE,Fejlaflevering,,33,Thale Rushfeldt DEILA,,,,,
+78,748259,31.33,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+79,748259,31.42,,ODE,Skud reddet,1:e,20,Lysa DEFO,,,,2,Bianca SCHANSSEMA
+80,748259,32.07,15-15,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,4,Catharina MOLENAAR,38,Yara TEN HOLTE
+81,748259,32.20,,ODE,Fejlaflevering,,33,Thale Rushfeldt DEILA,,,,,
+82,748259,32.50,,KBH,Skud reddet,PL,21,Helene KINDBERG,,,,38,Yara TEN HOLTE
+83,748259,33.06,,ODE,Fejlaflevering,,68,Helena ELVER,Bold erobret,10,Pernille BRANDENBORG,,
+84,748259,33.55,16-15,KBH,Mål,ST,17,Tabea SCHMID,Assist,4,Catharina MOLENAAR,38,Yara TEN HOLTE
+85,748259,34.04,16-16,ODE,Mål,2:e,68,Helena ELVER,,,,2,Bianca SCHANSSEMA
+86,748259,35.17,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+87,748259,35.24,,ODE,Regelfejl,,32,Mie HØJLUND,,,,,
+88,748259,35.55,,KBH,Tilkendt straffe,,21,Helene KINDBERG,Forårs. str.,23,Elma HALILCEVIC,,
+89,748259,36.10,17-16,KBH,Mål på straffe,,17,Tabea SCHMID,,,,38,Yara TEN HOLTE
+90,748259,36.45,17-17,ODE,Mål,Gbr,32,Mie HØJLUND,,,,2,Bianca SCHANSSEMA
+91,748259,37.35,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+92,748259,37.47,17-18,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,68,Helena ELVER,2,Bianca SCHANSSEMA
+93,748259,38.30,18-18,KBH,Mål,ST,17,Tabea SCHMID,Assist,4,Catharina MOLENAAR,38,Yara TEN HOLTE
+94,748259,39.27,18-19,ODE,Mål,Gbr,68,Helena ELVER,,,,2,Bianca SCHANSSEMA
+95,748259,40.28,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,Retur,0,,38,Yara TEN HOLTE
+96,748259,40.40,19-19,KBH,Mål,PL,21,Helene KINDBERG,,,,38,Yara TEN HOLTE
+97,748259,40.50,,KBH,Udvisning,,15,Emma NAVNE,,,,,
+98,748259,40.59,19-20,ODE,Mål,ST,3,Maren AARDAHL,Assist,68,Helena ELVER,2,Bianca SCHANSSEMA
+99,748259,42.09,,KBH,Skud reddet,ST,17,Tabea SCHMID,,,,38,Yara TEN HOLTE
+100,748259,42.25,19-21,ODE,Mål,Gbr,27,Louise BURGAARD,Assist,68,Helena ELVER,2,Bianca SCHANSSEMA
+101,748259,43.08,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+102,748259,43.51,19-22,ODE,Mål,Gbr,32,Mie HØJLUND,,,,2,Bianca SCHANSSEMA
+103,748259,44.30,,KBH,Fejlaflevering,,21,Helene KINDBERG,,,,,
+104,748259,45.11,,,,,,,,,,,
+105,748259,46.23,20-22,KBH,Mål,HF,9,Ditte BACH,Assist,21,Helene KINDBERG,38,Yara TEN HOLTE
+106,748259,46.49,20-23,ODE,Mål,PL,32,Mie HØJLUND,,,,2,Bianca SCHANSSEMA
+107,748259,47.31,,KBH,Fejlaflevering,,21,Helene KINDBERG,,,,,
+108,748259,47.36,20-24,ODE,Mål,1:e,23,Elma HALILCEVIC,,,,0,KAMPHÆNDELSER
+109,748259,48.26,21-24,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,4,Catharina MOLENAAR,38,Yara TEN HOLTE
+110,748259,48.59,21-25,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,32,Mie HØJLUND,2,Bianca SCHANSSEMA
+111,748259,49.39,,KBH,Tilkendt straffe,,21,Helene KINDBERG,Forårs. str.,33,Thale Rushfeldt DEILA,,
+112,748259,49.39,,ODE,Udvisning,,33,Thale Rushfeldt DEILA,,,,,
+113,748259,49.41,22-25,KBH,Mål på straffe,,17,Tabea SCHMID,,,,12,Andrea Nørklit JØRGENSEN
+114,748259,50.34,,ODE,Skud reddet,PL,32,Mie HØJLUND,,,,20,Anne Christine BOSSEN
+115,748259,50.41,,ODE,Udvisning,A,,Ole Gustav GJEKSTAD,,,,,
+116,748259,50.59,23-25,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,4,Catharina MOLENAAR,38,Yara TEN HOLTE
+117,748259,51.36,23-26,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,68,Helena ELVER,20,Anne Christine BOSSEN
+118,748259,52.24,,KBH,Regelfejl,,17,Tabea SCHMID,,,,,
+119,748259,52.51,23-27,ODE,Mål,ST,3,Maren AARDAHL,Assist,68,Helena ELVER,20,Anne Christine BOSSEN
+120,748259,53.38,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,20,Lysa DEFO,,
+121,748259,53.52,24-27,KBH,Mål på straffe,,17,Tabea SCHMID,,,,38,Yara TEN HOLTE
+122,748259,54.23,,ODE,Time out,,,,,,,,
+123,748259,54.42,,ODE,Skud reddet,VB,32,Mie HØJLUND,Retur,0,,20,Anne Christine BOSSEN
+124,748259,55.25,,ODE,Fejlaflevering,,68,Helena ELVER,,,,,
+125,748259,55.25,,ODE,Udvisning,,27,Louise BURGAARD,,,,,
+126,748259,55.57,25-27,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,4,Catharina MOLENAAR,38,Yara TEN HOLTE
+127,748259,56.54,,ODE,Regelfejl,,33,Thale Rushfeldt DEILA,,,,,
+128,748259,57.24,,KBH,Skud forbi,VB,4,Catharina MOLENAAR,,,,38,Yara TEN HOLTE
+129,748259,58.11,25-28,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,20,Anne Christine BOSSEN
+130,748259,58.39,26-28,KBH,Mål,HF,9,Ditte BACH,Assist,21,Helene KINDBERG,38,Yara TEN HOLTE
+131,748259,58.59,,ODE,Time out,,,,,,,,
+132,748259,59.41,26-29,ODE,Mål,ST,3,Maren AARDAHL,Assist,68,Helena ELVER,20,Anne Christine BOSSEN
+133,748259,60.00,,KBH,Skud forbi,HF,9,Ditte BACH,,,,38,Yara TEN HOLTE

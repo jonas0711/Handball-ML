@@ -1,0 +1,39 @@
+=== UNIKKE VÆRDIER ===
+
+--- HAENDELSE_1 ---
+Antal unikke værdier: 30
+Værdier:
+'Advarsel'  'Blåt kort'  'Fejlaflevering'  'Fuld tid'  'Halvleg'  
+'Kamp slut'  'Mål'  'Mål på straffe'  'Passivt spil'  'Protest'  
+'Regelfejl'  'Rødt kort'  'Rødt kort, direkte'  'Skud blokeret'  'Skud forbi'  
+'Skud på stolpe'  'Skud reddet'  'Start'  'Start 1:e halvleg'  'Start 2:e halvleg'  
+'Straffekast forbi'  'Straffekast på stolpe'  'Straffekast reddet'  'Tabt bold'  'Tilkendt straffe'  
+'Time out'  'Udvisning'  'Udvisning (2x)'  'Video Proof'  'Video Proof slut'  
+
+--- HOLD ---
+Antal unikke værdier: 31
+Værdier:
+'AAH'  'AHB'  'BFH'  'BSH'  'EHA'  
+'FHK'  'GIF'  'GOG'  'HHE'  'Halvleg'  
+'IKA'  'KBH'  'KIF'  'MTH'  'NFH'  
+'NSH'  'ODE'  'REH'  'RIN'  'SAH'  
+'SJE'  'SKB'  'SKH'  'SVK'  'Start 2:e halvleg'  
+'TES'  'TMS'  'TTH'  'VHK'  'Video Proof'  
+'Video Proof slut'  
+
+--- POS ---
+Antal unikke værdier: 26
+Værdier:
+'1:e'  '1:e halvleg'  '2:e'  'A'  'B'  
+'Gbr'  'Gbr 14'  'Gbr 15'  'Gbr 17'  'Gbr 18'  
+'Gbr 29'  'Gbr 44'  'Gbr 77'  'Gbr 79'  'HB'  
+'HB 11'  'HB 18'  'HB 19'  'HB 21'  'HB 29'  
+'HB 77'  'HF'  'PL'  'ST'  'VB'  
+'VF'  
+
+--- HAENDELSE_2 ---
+Antal unikke værdier: 12
+Værdier:
+'36'  '41'  '42'  '93'  '97'  
+'Assist'  'Blok af (ret)'  'Blokeret af'  'Bold erobret'  'Bold erobret 26'  
+'Forårs. str.'  'Retur'  

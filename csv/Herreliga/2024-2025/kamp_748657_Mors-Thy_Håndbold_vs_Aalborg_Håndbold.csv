@@ -1,0 +1,152 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748657,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748657,0.51,0-1,AAH,Mål,VB,18,Aleks VLAH,,,,30,Svend RUGHAVE
+3,748657,1.32,1-1,MTH,Mål,Gbr,28,Rasmus MADSEN,Assist,19,Victor NORLYK,12,Fabian NORSTEN
+4,748657,2.47,,MTH,Advarsel,,28,Rasmus MADSEN,,,,,
+5,748657,3.08,,MTH,Udvisning,,28,Rasmus MADSEN,,,,,
+6,748657,3.25,1-2,AAH,Mål,Gbr,9,Miguel MARTINS,,,,30,Svend RUGHAVE
+7,748657,4.01,,MTH,Skud forbi,PL,21,Marcus MIDTGAARD,,,,12,Fabian NORSTEN
+8,748657,4.12,1-3,AAH,Mål,1:e,6,Sebastian BARTHOLD,Assist,0,0,,
+9,748657,5.05,2-3,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,12,Fabian NORSTEN
+10,748657,5.15,2-4,AAH,Mål,2:e,14,Mads HOXER,,,,30,Svend RUGHAVE
+11,748657,5.22,3-4,MTH,Mål,2:e,21,Marcus MIDTGAARD,,,,12,Fabian NORSTEN
+12,748657,5.58,3-5,AAH,Mål,PL,14,Mads HOXER,,,,30,Svend RUGHAVE
+13,748657,6.08,,MTH,Skud reddet,2:e,19,Victor NORLYK,,,,12,Fabian NORSTEN
+14,748657,6.18,3-6,AAH,Mål,2:e,9,Miguel MARTINS,,,,30,Svend RUGHAVE
+15,748657,7.43,4-6,MTH,Mål,PL,19,Victor NORLYK,,,,12,Fabian NORSTEN
+16,748657,7.56,,AAH,Tabt bold,,18,Aleks VLAH,Bold erobret,28,Rasmus MADSEN,,
+17,748657,8.10,,MTH,Tilkendt straffe,,21,Marcus MIDTGAARD,Forårs. str.,11,Simon HALD,,
+18,748657,8.15,,AAH,Advarsel,,11,Simon HALD,,,,,
+19,748657,8.28,5-6,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,12,Fabian NORSTEN
+20,748657,9.26,,AAH,Skud forbi,PL,9,Miguel MARTINS,,,,30,Svend RUGHAVE
+21,748657,9.59,,MTH,Skud blokeret,PL,28,Rasmus MADSEN,Blok af (ret),11,Simon HALD,,
+22,748657,10.13,6-6,MTH,Mål,HB,28,Rasmus MADSEN,,,,12,Fabian NORSTEN
+23,748657,10.48,,MTH,Advarsel,,4,Kasper LINDGREN,,,,,
+24,748657,11.17,,MTH,Udvisning,,33,Kasper DIDRIKSEN,,,,,
+25,748657,11.33,,AAH,Skud reddet,VF,6,Sebastian BARTHOLD,,,,30,Svend RUGHAVE
+26,748657,12.13,7-6,MTH,Mål,ST,15,Henrik Toft HANSEN,Assist,7,Nichlas HALD,12,Fabian NORSTEN
+27,748657,12.45,7-7,AAH,Mål,PL,14,Mads HOXER,,,,30,Svend RUGHAVE
+28,748657,13.26,8-7,MTH,Mål,PL,7,Nichlas HALD,,,,12,Fabian NORSTEN
+29,748657,13.39,8-8,AAH,Mål,PL,14,Mads HOXER,,,,30,Svend RUGHAVE
+30,748657,14.43,9-8,MTH,Mål,Gbr,9,Kristoffer VESTERGAARD,Assist,7,Nichlas HALD,12,Fabian NORSTEN
+31,748657,15.27,9-9,AAH,Mål,Gbr,18,Aleks VLAH,,,,30,Svend RUGHAVE
+32,748657,15.36,10-9,MTH,Mål,2:e,7,Nichlas HALD,,,,32,Anton HELLBERG
+33,748657,15.48,10-10,AAH,Mål,1:e,6,Sebastian BARTHOLD,Assist,9,Miguel MARTINS,30,Svend RUGHAVE
+34,748657,16.28,11-10,MTH,Mål,VF,23,Henrik TILSTED,Assist,21,Marcus MIDTGAARD,32,Anton HELLBERG
+35,748657,16.39,,AAH,Skud reddet,HB,14,Mads HOXER,,,,30,Svend RUGHAVE
+36,748657,16.48,12-10,MTH,Mål,2:e,7,Nichlas HALD,,,,32,Anton HELLBERG
+37,748657,16.58,,AAH,Time out,,,,,,,,
+38,748657,17.15,,AAH,Skud reddet,Gbr,14,Mads HOXER,,,,30,Svend RUGHAVE
+39,748657,17.28,,MTH,Skud forbi,PL,7,Nichlas HALD,,,,32,Anton HELLBERG
+40,748657,17.42,,AAH,Fejlaflevering,,9,Miguel MARTINS,,,,,
+41,748657,17.46,13-10,MTH,Mål,1:e,17,Malthe BULL,Assist,21,Marcus MIDTGAARD,32,Anton HELLBERG
+42,748657,18.25,13-11,AAH,Mål,PL,9,Miguel MARTINS,,,,30,Svend RUGHAVE
+43,748657,19.24,14-11,MTH,Mål,VF,25,Magnus NORLYK,Assist,21,Marcus MIDTGAARD,32,Anton HELLBERG
+44,748657,20.03,,AAH,Fejlaflevering,,15,Jack THURIN,Bold erobret,21,Marcus MIDTGAARD,,
+45,748657,20.09,15-11,MTH,Mål,1:e,25,Magnus NORLYK,Assist,21,Marcus MIDTGAARD,32,Anton HELLBERG
+46,748657,20.36,15-12,AAH,Mål,Gbr,18,Aleks VLAH,,,,30,Svend RUGHAVE
+47,748657,21.05,,AAH,Udvisning,,22,Rene ANTONSEN,,,,,
+48,748657,21.27,16-12,MTH,Mål,Gbr,21,Marcus MIDTGAARD,Assist,7,Nichlas HALD,32,Anton HELLBERG
+49,748657,22.03,,AAH,Skud reddet,Gbr,15,Jack THURIN,,,,30,Svend RUGHAVE
+50,748657,22.12,17-12,MTH,Mål,2:e,7,Nichlas HALD,,,,0,
+51,748657,22.43,,AAH,Skud reddet,VB,9,Miguel MARTINS,,,,30,Svend RUGHAVE
+52,748657,22.50,18-12,MTH,Mål,1:e,30,Svend RUGHAVE,,,,0,
+53,748657,23.20,,AAH,Tabt bold,,11,Simon HALD,,,,,
+54,748657,23.23,19-12,MTH,Mål,1:e,25,Magnus NORLYK,Assist,,,30,Svend RUGHAVE
+55,748657,23.29,,AAH,Time out,,,,,,,,
+56,748657,23.49,,AAH,Skud reddet,ST,22,Rene ANTONSEN,,,,30,Svend RUGHAVE
+57,748657,24.22,20-12,MTH,Mål,Gbr,28,Rasmus MADSEN,,,,32,Anton HELLBERG
+58,748657,24.28,20-13,AAH,Mål,1:e,18,Aleks VLAH,,,,30,Svend RUGHAVE
+59,748657,25.26,,MTH,Fejlaflevering,,7,Nichlas HALD,,,,,
+60,748657,25.32,20-14,AAH,Mål,2:e,25,Marinus MUNK,,,,30,Svend RUGHAVE
+61,748657,26.03,,MTH,Fejlaflevering,,7,Nichlas HALD,Bold erobret,22,Rene ANTONSEN,,
+62,748657,26.07,20-15,AAH,Mål,1:e,15,Jack THURIN,Assist,6,Sebastian BARTHOLD,30,Svend RUGHAVE
+63,748657,26.22,,MTH,Fejlaflevering,,21,Marcus MIDTGAARD,Bold erobret,18,Aleks VLAH,,
+64,748657,27.10,,AAH,Fejlaflevering,,18,Aleks VLAH,Bold erobret,17,Malthe BULL,,
+65,748657,27.15,,MTH,Tabt bold,,17,Malthe BULL,,,,,
+66,748657,27.22,,MTH,Udvisning,,7,Nichlas HALD,,,,,
+67,748657,27.42,,AAH,Fejlaflevering,,9,Miguel MARTINS,,,,,
+68,748657,27.59,,MTH,Time out,,,,,,,,
+69,748657,28.22,,MTH,Tilkendt straffe,,23,Henrik TILSTED,Forårs. str.,15,Jack THURIN,,
+70,748657,28.32,21-15,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,12,Fabian NORSTEN
+71,748657,28.56,,AAH,Fejlaflevering,,25,Marinus MUNK,Bold erobret,11,Lasse PEDERSEN,,
+72,748657,29.34,,MTH,Skud blokeret,PL,9,Kristoffer VESTERGAARD,Blok af (ret),20,Felix MÖLLER,,
+73,748657,29.44,,MTH,Skud forbi,PL,19,Victor NORLYK,,,,12,Fabian NORSTEN
+74,748657,29.54,21-16,AAH,Mål,2:e,25,Marinus MUNK,,,,30,Svend RUGHAVE
+75,748657,30.00,,MTH,Fejlaflevering,,15,Henrik Toft HANSEN,,,,,
+76,748657,30.00,21-16,,Halvleg,,,,,,,,
+77,748657,30.00,,,Start 2:e halvleg,,,,,,,,
+78,748657,30.31,,MTH,Tilkendt straffe,,21,Marcus MIDTGAARD,Forårs. str.,14,Mads HOXER,,
+79,748657,30.32,22-16,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,12,Fabian NORSTEN
+80,748657,31.04,22-17,AAH,Mål,ST,20,Felix MÖLLER,,,,30,Svend RUGHAVE
+81,748657,31.21,,MTH,Tilkendt straffe,,28,Rasmus MADSEN,Forårs. str.,18,Aleks VLAH,,
+82,748657,31.31,23-17,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,12,Fabian NORSTEN
+83,748657,31.59,,AAH,Skud reddet,PL,14,Mads HOXER,,,,30,Svend RUGHAVE
+84,748657,32.39,,MTH,Skud blokeret,PL,19,Victor NORLYK,Blok af (ret),0,,,
+85,748657,33.01,,MTH,Regelfejl,,23,Henrik TILSTED,,,,,
+86,748657,33.46,,AAH,Tabt bold,,18,Aleks VLAH,,,,,
+87,748657,34.12,24-17,MTH,Mål,ST,33,Kasper DIDRIKSEN,Assist,19,Victor NORLYK,12,Fabian NORSTEN
+88,748657,34.22,24-18,AAH,Mål,2:e,14,Mads HOXER,Assist,25,Marinus MUNK,30,Svend RUGHAVE
+89,748657,34.36,,MTH,Regelfejl,,33,Kasper DIDRIKSEN,,,,,
+90,748657,34.44,24-19,AAH,Mål,1:e,14,Mads HOXER,,,,30,Svend RUGHAVE
+91,748657,35.14,,MTH,Udvisning,,28,Rasmus MADSEN,,,,,
+92,748657,35.56,,MTH,Skud blokeret,PL,9,Kristoffer VESTERGAARD,Blok af (ret),11,Simon HALD,,
+93,748657,36.13,,MTH,Skud forbi,VB,9,Kristoffer VESTERGAARD,,,,12,Fabian NORSTEN
+94,748657,36.26,24-20,AAH,Mål,VF,6,Sebastian BARTHOLD,Assist,18,Aleks VLAH,30,Svend RUGHAVE
+95,748657,37.23,,MTH,Skud blokeret,PL,19,Victor NORLYK,Blok af (ret),20,Felix MÖLLER,,
+96,748657,37.32,25-20,MTH,Mål,HB,9,Kristoffer VESTERGAARD,,,,12,Fabian NORSTEN
+97,748657,37.58,,AAH,Skud reddet,PL,18,Aleks VLAH,,,,30,Svend RUGHAVE
+98,748657,38.38,,MTH,Skud forbi,PL,9,Kristoffer VESTERGAARD,,,,12,Fabian NORSTEN
+99,748657,39.12,,MTH,Udvisning,,4,Kasper LINDGREN,,,,,
+100,748657,39.39,25-21,AAH,Mål,VF,6,Sebastian BARTHOLD,,,,30,Svend RUGHAVE
+101,748657,40.14,,MTH,Skud reddet,Gbr,7,Nichlas HALD,,,,12,Fabian NORSTEN
+102,748657,40.21,25-22,AAH,Mål,1:e,25,Marinus MUNK,,,,30,Svend RUGHAVE
+103,748657,40.55,26-22,MTH,Mål,PL,9,Kristoffer VESTERGAARD,,,,12,Fabian NORSTEN
+104,748657,41.14,26-23,AAH,Mål,,,,,,,,
+105,748657,41.22,,MTH,Udvisning,,9,Kristoffer VESTERGAARD,,,,,
+106,748657,42.01,27-23,MTH,Mål,PL,19,Victor NORLYK,,,,12,Fabian NORSTEN
+107,748657,42.14,,AAH,Fejlaflevering,,18,Aleks VLAH,Bold erobret,19,Victor NORLYK,,
+108,748657,42.19,,MTH,Skud reddet,1:e,11,Lasse PEDERSEN,,,,12,Fabian NORSTEN
+109,748657,42.43,27-24,AAH,Mål,Gbr,14,Mads HOXER,,,,30,Svend RUGHAVE
+110,748657,43.28,28-24,MTH,Mål,PL,21,Marcus MIDTGAARD,,,,12,Fabian NORSTEN
+111,748657,43.37,,AAH,Udvisning,,11,Simon HALD,,,,,
+112,748657,44.07,28-25,AAH,Mål,Gbr,18,Aleks VLAH,,,,30,Svend RUGHAVE
+113,748657,44.25,29-25,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,12,Fabian NORSTEN
+114,748657,45.12,29-26,AAH,Mål,VF,6,Sebastian BARTHOLD,Assist,25,Marinus MUNK,30,Svend RUGHAVE
+115,748657,45.30,,MTH,Regelfejl,,7,Nichlas HALD,,,,,
+116,748657,45.39,,AAH,Regelfejl,,6,Sebastian BARTHOLD,,,,,
+117,748657,46.00,30-26,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,12,Fabian NORSTEN
+118,748657,46.48,30-27,AAH,Mål,ST,11,Simon HALD,Assist,18,Aleks VLAH,20,Oliver LARSEN
+119,748657,46.55,31-27,MTH,Mål,1:e,21,Marcus MIDTGAARD,,,,12,Fabian NORSTEN
+120,748657,47.40,,AAH,Skud reddet,Gbr,14,Mads HOXER,,,,20,Oliver LARSEN
+121,748657,48.10,,MTH,Fejlaflevering,,28,Rasmus MADSEN,Bold erobret,14,Mads HOXER,,
+122,748657,48.14,31-28,AAH,Mål,1:e,14,Mads HOXER,,,,0,
+123,748657,48.50,,MTH,Tilkendt straffe,,7,Nichlas HALD,Forårs. str.,25,Marinus MUNK,,
+124,748657,48.50,,AAH,Udvisning,,25,Marinus MUNK,,,,,
+125,748657,48.51,32-28,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,32,Anton HELLBERG
+126,748657,49.28,32-29,AAH,Mål,VB,9,Miguel MARTINS,,,,20,Oliver LARSEN
+127,748657,50.05,33-29,MTH,Mål,PL,7,Nichlas HALD,,,,12,Fabian NORSTEN
+128,748657,51.02,33-30,AAH,Mål,Gbr,9,Miguel MARTINS,,,,20,Oliver LARSEN
+129,748657,51.36,34-30,MTH,Mål,VF,23,Henrik TILSTED,Assist,21,Marcus MIDTGAARD,12,Fabian NORSTEN
+130,748657,51.46,34-31,AAH,Mål,2:e,14,Mads HOXER,,,,20,Oliver LARSEN
+131,748657,52.23,,MTH,Skud reddet,PL,7,Nichlas HALD,,,,12,Fabian NORSTEN
+132,748657,53.02,,AAH,Skud reddet,HB,9,Miguel MARTINS,,,,20,Oliver LARSEN
+133,748657,53.07,,MTH,Time out,,,,,,,,
+134,748657,53.38,35-31,MTH,Mål,Gbr,21,Marcus MIDTGAARD,Assist,7,Nichlas HALD,12,Fabian NORSTEN
+135,748657,54.42,35-32,AAH,Mål,PL,14,Mads HOXER,,,,20,Oliver LARSEN
+136,748657,55.12,,MTH,Skud på stolpe,PL,7,Nichlas HALD,,,,12,Fabian NORSTEN
+137,748657,55.23,,AAH,Tilkendt straffe,,14,Mads HOXER,Forårs. str.,23,Henrik TILSTED,,
+138,748657,55.23,,MTH,Udvisning,,23,Henrik TILSTED,,,,,
+139,748657,55.28,,AAH,Straffekast reddet,,15,Jack THURIN,Retur,0,,20,Oliver LARSEN
+140,748657,55.34,35-33,AAH,Mål,ST,15,Jack THURIN,,,,20,Oliver LARSEN
+141,748657,56.18,,MTH,Tilkendt straffe,,25,Magnus NORLYK,Forårs. str.,4,Patrick WIESMACH,,
+142,748657,56.18,,AAH,Udvisning,,4,Patrick WIESMACH,,,,,
+143,748657,56.22,,MTH,Straffekast reddet,,11,Lasse PEDERSEN,Retur,0,,12,Fabian NORSTEN
+144,748657,56.50,,MTH,Skud reddet,Gbr,21,Marcus MIDTGAARD,,,,12,Fabian NORSTEN
+145,748657,57.32,,AAH,Skud reddet,Gbr,9,Miguel MARTINS,,,,20,Oliver LARSEN
+146,748657,57.38,,MTH,Skud forbi,1:e,9,Kristoffer VESTERGAARD,,,,0,
+147,748657,57.55,,AAH,Time out,,,,,,,,
+148,748657,58.19,35-34,AAH,Mål,ST,22,Rene ANTONSEN,Assist,9,Miguel MARTINS,20,Oliver LARSEN
+149,748657,59.06,,MTH,Time out,,,,,,,,
+150,748657,59.11,,MTH,Skud reddet,Gbr,21,Marcus MIDTGAARD,,,,12,Fabian NORSTEN
+151,748657,59.58,,AAH,Regelfejl,,18,Aleks VLAH,,,,,

@@ -1,0 +1,139 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748712,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748712,0.45,,NSH,Skud reddet,Gbr,7,Léo MARTINEZ,Retur,0,,1,Christoffer BONDE
+3,748712,1.11,,SKH,Udvisning,,7,Senjamin BURIC,,,,,
+4,748712,1.35,,NSH,Skud reddet,VF,14,Rasmus MADSBØLL,,,,1,Christoffer BONDE
+5,748712,2.15,,SKH,Fejlaflevering,,13,Noah GAUDIN,Bold erobret,11,Jonas RAUNDAHL,,
+6,748712,2.17,0-1,NSH,Mål,1:e,13,Gustav BRUUN,Assist,11,Jonas RAUNDAHL,0,
+7,748712,2.49,1-1,SKH,Mål,HB,13,Noah GAUDIN,,,,29,Jimmi ANDERSEN
+8,748712,3.09,,NSH,Skud reddet,HF,3,Carl-Emil HAUNSTRUP,,,,1,Christoffer BONDE
+9,748712,3.45,2-1,SKH,Mål,Gbr,13,Noah GAUDIN,,,,29,Jimmi ANDERSEN
+10,748712,3.55,,NSH,Skud reddet,2:e,42,Matias CAMPBELL,,,,1,Christoffer BONDE
+11,748712,4.05,3-1,SKH,Mål,2:e,10,Joaquim NAZARÉ,,,,29,Jimmi ANDERSEN
+12,748712,4.36,,NSH,Skud blokeret,PL,13,Gustav BRUUN,Blok af (ret),14,Emil BERGHOLT,,
+13,748712,4.52,,NSH,Skud reddet,PL,7,Léo MARTINEZ,,,,1,Christoffer BONDE
+14,748712,5.04,,SKH,Skud forbi,2:e,21,René RASMUSSEN,,,,29,Jimmi ANDERSEN
+15,748712,6.00,,NSH,Skud reddet,PL,13,Gustav BRUUN,,,,1,Christoffer BONDE
+16,748712,6.06,,SKH,Fejlaflevering,,13,Noah GAUDIN,,,,,
+17,748712,6.12,,NSH,Skud forbi,1:e,7,Léo MARTINEZ,,,,1,Christoffer BONDE
+18,748712,6.43,,NSH,Advarsel,,5,Julius MØRCH,,,,,
+19,748712,7.02,,SKH,Skud reddet,PL,10,Joaquim NAZARÉ,,,,29,Jimmi ANDERSEN
+20,748712,7.11,,NSH,Regelfejl,,13,Gustav BRUUN,,,,,
+21,748712,7.15,4-1,SKH,Mål,1:e,22,Jakob RASMUSSEN,Assist,19,Bjarke CHRISTENSEN,29,Jimmi ANDERSEN
+22,748712,7.47,,NSH,Skud reddet,PL,57,Nikolaj LARSSON,,,,1,Christoffer BONDE
+23,748712,8.00,,SKH,Skud reddet,Gbr,22,Jakob RASMUSSEN,,,,29,Jimmi ANDERSEN
+24,748712,8.07,4-2,NSH,Mål,1:e,14,Rasmus MADSBØLL,Assist,42,Matias CAMPBELL,1,Christoffer BONDE
+25,748712,8.43,,SKH,Skud reddet,ST,7,Senjamin BURIC,,,,29,Jimmi ANDERSEN
+26,748712,8.50,4-3,NSH,Mål,2:e,13,Gustav BRUUN,Assist,5,Julius MØRCH,1,Christoffer BONDE
+27,748712,9.45,5-3,SKH,Mål,Gbr,22,Jakob RASMUSSEN,Assist,13,Noah GAUDIN,29,Jimmi ANDERSEN
+28,748712,10.43,,NSH,Skud reddet,HB,57,Nikolaj LARSSON,Retur,0,,1,Christoffer BONDE
+29,748712,10.50,,NSH,Skud forbi,ST,57,Nikolaj LARSSON,,,,1,Christoffer BONDE
+30,748712,11.14,,SKH,Skud forbi,PL,22,Jakob RASMUSSEN,,,,29,Jimmi ANDERSEN
+31,748712,11.24,,NSH,Fejlaflevering,,7,Léo MARTINEZ,,,,,
+32,748712,12.15,,SKH,Skud reddet,PL,10,Joaquim NAZARÉ,,,,29,Jimmi ANDERSEN
+33,748712,12.59,,NSH,Skud forbi,VF,19,Thomas BOILESEN,,,,1,Christoffer BONDE
+34,748712,13.41,6-3,SKH,Mål,HB,13,Noah GAUDIN,,,,29,Jimmi ANDERSEN
+35,748712,14.16,6-4,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,19,Thomas BOILESEN,1,Christoffer BONDE
+36,748712,14.53,,NSH,Udvisning,,17,Assar KAMMENHED,,,,,
+37,748712,15.11,,SKH,Tilkendt straffe,,14,Emil BERGHOLT,Forårs. str.,11,Jonas RAUNDAHL,,
+38,748712,15.22,,SKH,Straffekast reddet,,15,Lasse MIKKELSEN,,,,29,Jimmi ANDERSEN
+39,748712,16.19,,NSH,Skud reddet,VB,19,Thomas BOILESEN,,,,1,Christoffer BONDE
+40,748712,16.48,7-4,SKH,Mål,ST,7,Senjamin BURIC,Assist,15,Lasse MIKKELSEN,29,Jimmi ANDERSEN
+41,748712,17.31,,NSH,Regelfejl,,11,Jonas RAUNDAHL,,,,,
+42,748712,17.37,8-4,SKH,Mål,2:e,21,René RASMUSSEN,Assist,15,Lasse MIKKELSEN,29,Jimmi ANDERSEN
+43,748712,17.51,,NSH,Time out,,,,,,,,
+44,748712,18.35,,NSH,Fejlaflevering,,79,Oliver KLARSKOV,,,,,
+45,748712,18.47,,SKH,Tilkendt straffe,,14,Emil BERGHOLT,Forårs. str.,79,Oliver KLARSKOV,,
+46,748712,19.05,9-4,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,29,Jimmi ANDERSEN
+47,748712,19.44,9-5,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,79,Oliver KLARSKOV,1,Christoffer BONDE
+48,748712,20.11,10-5,SKH,Mål,PL,13,Noah GAUDIN,,,,29,Jimmi ANDERSEN
+49,748712,20.50,,NSH,Skud reddet,ST,11,Jonas RAUNDAHL,,,,1,Christoffer BONDE
+50,748712,21.43,11-5,SKH,Mål,HF,21,René RASMUSSEN,Assist,25,Eivind TANGEN,29,Jimmi ANDERSEN
+51,748712,22.34,11-6,NSH,Mål,PL,42,Matias CAMPBELL,,,,1,Christoffer BONDE
+52,748712,23.27,,SKH,Skud reddet,ST,21,René RASMUSSEN,Retur,0,,29,Jimmi ANDERSEN
+53,748712,23.43,,SKH,Skud blokeret,HB,25,Eivind TANGEN,Blok af (ret),21,Tim RANTALA,,
+54,748712,24.00,,SKH,Tilkendt straffe,,13,Noah GAUDIN,Forårs. str.,17,Assar KAMMENHED,,
+55,748712,24.27,12-6,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,29,Jimmi ANDERSEN
+56,748712,25.13,12-7,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,Assist,17,Assar KAMMENHED,1,Christoffer BONDE
+57,748712,25.52,13-7,SKH,Mål,Gbr,25,Eivind TANGEN,Assist,13,Noah GAUDIN,29,Jimmi ANDERSEN
+58,748712,26.25,,NSH,Skud reddet,ST,11,Jonas RAUNDAHL,,,,1,Christoffer BONDE
+59,748712,26.30,,SKH,Skud på stolpe,1:e,19,Bjarke CHRISTENSEN,,,,,
+60,748712,26.41,13-8,NSH,Mål,1:e,11,Jonas RAUNDAHL,Assist,42,Matias CAMPBELL,1,Christoffer BONDE
+61,748712,27.18,,NSH,Udvisning,,5,Julius MØRCH,,,,,
+62,748712,27.37,,SKH,Skud reddet,ST,7,Senjamin BURIC,,,,29,Jimmi ANDERSEN
+63,748712,28.44,13-9,NSH,Mål,Gbr,57,Nikolaj LARSSON,,,,1,Christoffer BONDE
+64,748712,28.58,,SKH,Time out,,,,,,,,
+65,748712,29.10,,SKH,Tilkendt straffe,,22,Jakob RASMUSSEN,Forårs. str.,34,Mathias KRAGH,,
+66,748712,29.14,14-9,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,16,Magnus PETERSEN
+67,748712,29.44,14-10,NSH,Mål,Gbr,79,Oliver KLARSKOV,,,,1,Christoffer BONDE
+68,748712,29.58,,SKH,Tilkendt straffe,,14,Emil BERGHOLT,Forårs. str.,42,Matias CAMPBELL,,
+69,748712,29.58,,NSH,Udvisning,,42,Matias CAMPBELL,,,,,
+70,748712,30.00,15-10,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,16,Magnus PETERSEN
+71,748712,30.00,15-10,,Halvleg,,,,,,,,
+72,748712,30.00,,,Start 2:e halvleg,,,,,,,,
+73,748712,30.21,,SKH,Skud reddet,ST,14,Emil BERGHOLT,,,,16,Magnus PETERSEN
+74,748712,31.13,,NSH,Skud forbi,Gbr,19,Thomas BOILESEN,,,,1,Christoffer BONDE
+75,748712,31.37,16-10,SKH,Mål,ST,7,Senjamin BURIC,Assist,10,Joaquim NAZARÉ,16,Magnus PETERSEN
+76,748712,32.06,,NSH,Skud blokeret,PL,19,Thomas BOILESEN,Blok af (ret),7,Senjamin BURIC,,
+77,748712,32.24,,NSH,Skud blokeret,PL,7,Léo MARTINEZ,Blok af (ret),14,Emil BERGHOLT,,
+78,748712,32.37,16-11,NSH,Mål,PL,57,Nikolaj LARSSON,,,,1,Christoffer BONDE
+79,748712,33.45,17-11,SKH,Mål,VB,13,Noah GAUDIN,,,,16,Magnus PETERSEN
+80,748712,33.54,,NSH,Tilkendt straffe,,57,Nikolaj LARSSON,Forårs. str.,13,Noah GAUDIN,,
+81,748712,34.26,17-12,NSH,Mål på straffe,,3,Carl-Emil HAUNSTRUP,,,,1,Christoffer BONDE
+82,748712,35.01,,SKH,Regelfejl,,22,Jakob RASMUSSEN,,,,,
+83,748712,35.04,17-13,NSH,Mål,2:e,14,Rasmus MADSBØLL,Assist,19,Thomas BOILESEN,1,Christoffer BONDE
+84,748712,36.02,18-13,SKH,Mål,HB,13,Noah GAUDIN,,,,16,Magnus PETERSEN
+85,748712,36.51,,SKH,Udvisning,,18,Vetle RØNNINGEN,,,,,
+86,748712,37.14,18-14,NSH,Mål,Gbr,57,Nikolaj LARSSON,Assist,42,Matias CAMPBELL,1,Christoffer BONDE
+87,748712,37.47,19-14,SKH,Mål,ST,14,Emil BERGHOLT,Assist,13,Noah GAUDIN,16,Magnus PETERSEN
+88,748712,38.29,19-15,NSH,Mål,Gbr,79,Oliver KLARSKOV,Assist,42,Matias CAMPBELL,1,Christoffer BONDE
+89,748712,39.46,,SKH,Skud blokeret,PL,13,Noah GAUDIN,Blokeret af,42,Matias CAMPBELL,,
+90,748712,40.00,,NSH,Regelfejl,,11,Jonas RAUNDAHL,,,,,
+91,748712,40.29,,SKH,Skud forbi,PL,10,Joaquim NAZARÉ,,,,16,Magnus PETERSEN
+92,748712,40.39,19-16,NSH,Mål,2:e,13,Gustav BRUUN,,,,1,Christoffer BONDE
+93,748712,40.54,,SKH,Time out,,,,,,,,
+94,748712,41.03,,SKH,Skud reddet,ST,7,Senjamin BURIC,,,,16,Magnus PETERSEN
+95,748712,41.28,,NSH,Skud reddet,Gbr,7,Léo MARTINEZ,,,,1,Christoffer BONDE
+96,748712,41.39,20-16,SKH,Mål,2:e,13,Noah GAUDIN,,,,16,Magnus PETERSEN
+97,748712,42.11,20-17,NSH,Mål,PL,19,Thomas BOILESEN,,,,1,Christoffer BONDE
+98,748712,42.23,,SKH,Skud reddet,PL,10,Joaquim NAZARÉ,,,,16,Magnus PETERSEN
+99,748712,43.01,20-18,NSH,Mål,Gbr,7,Léo MARTINEZ,,,,1,Christoffer BONDE
+100,748712,43.14,21-18,SKH,Mål,2:e,21,René RASMUSSEN,Assist,10,Joaquim NAZARÉ,16,Magnus PETERSEN
+101,748712,43.51,21-19,NSH,Mål,Gbr,7,Léo MARTINEZ,,,,1,Christoffer BONDE
+102,748712,44.01,22-19,SKH,Mål,2:e,10,Joaquim NAZARÉ,,,,16,Magnus PETERSEN
+103,748712,45.14,,NSH,Tilkendt straffe,,7,Léo MARTINEZ,Forårs. str.,10,Joaquim NAZARÉ,,
+104,748712,45.39,22-20,NSH,Mål på straffe,,7,Léo MARTINEZ,,,,1,Christoffer BONDE
+105,748712,46.13,23-20,SKH,Mål,HB,25,Eivind TANGEN,,,,16,Magnus PETERSEN
+106,748712,46.18,23-21,NSH,Mål,2:e,14,Rasmus MADSBØLL,Assist,42,Matias CAMPBELL,1,Christoffer BONDE
+107,748712,47.08,24-21,SKH,Mål,Gbr,22,Jakob RASMUSSEN,,,,16,Magnus PETERSEN
+108,748712,47.59,,NSH,Skud forbi,VB,7,Léo MARTINEZ,,,,16,Tim WINKLER
+109,748712,48.36,25-21,SKH,Mål,ST,14,Emil BERGHOLT,Assist,22,Jakob RASMUSSEN,16,Magnus PETERSEN
+110,748712,48.51,,NSH,Time out,,,,,,,,
+111,748712,49.14,25-22,NSH,Mål,ST,21,Tim RANTALA,Assist,42,Matias CAMPBELL,16,Tim WINKLER
+112,748712,50.09,,SKH,Skud på stolpe,Gbr,13,Noah GAUDIN,,,,16,Magnus PETERSEN
+113,748712,50.17,25-23,NSH,Mål,2:e,20,Jesper DAHL,Assist,42,Matias CAMPBELL,16,Tim WINKLER
+114,748712,50.48,26-23,SKH,Mål,Gbr,13,Noah GAUDIN,,,,16,Magnus PETERSEN
+115,748712,51.23,26-24,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,Assist,20,Jesper DAHL,1,Christoffer BONDE
+116,748712,51.55,27-24,SKH,Mål,ST,14,Emil BERGHOLT,Assist,13,Noah GAUDIN,16,Magnus PETERSEN
+117,748712,52.45,,NSH,Skud forbi,PL,42,Matias CAMPBELL,,,,1,Christoffer BONDE
+118,748712,53.33,,SKH,Skud reddet,Gbr,13,Noah GAUDIN,,,,16,Magnus PETERSEN
+119,748712,53.38,,SKH,Udvisning,,13,Noah GAUDIN,,,,,
+120,748712,54.09,,NSH,Tilkendt straffe,,21,Tim RANTALA,Forårs. str.,19,Bjarke CHRISTENSEN,,
+121,748712,54.25,27-25,NSH,Mål på straffe,,3,Carl-Emil HAUNSTRUP,,,,1,Christoffer BONDE
+122,748712,55.09,28-25,SKH,Mål,Gbr,22,Jakob RASMUSSEN,Assist,25,Eivind TANGEN,16,Magnus PETERSEN
+123,748712,55.16,28-26,NSH,Mål,2:e,42,Matias CAMPBELL,,,,0,
+124,748712,56.11,29-26,SKH,Mål,PL,22,Jakob RASMUSSEN,,,,16,Magnus PETERSEN
+125,748712,56.53,29-27,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,20,Jesper DAHL,1,Christoffer BONDE
+126,748712,57.27,30-27,SKH,Mål,Gbr,13,Noah GAUDIN,Assist,25,Eivind TANGEN,16,Magnus PETERSEN
+127,748712,58.05,,NSH,Skud reddet,ST,21,Tim RANTALA,,,,1,Christoffer BONDE
+128,748712,58.30,,SKH,Regelfejl,,25,Eivind TANGEN,,,,,
+129,748712,58.37,,NSH,Skud reddet,VB,42,Matias CAMPBELL,Retur,,,1,Christoffer BONDE
+130,748712,58.46,,NSH,Time out,,0,,,,,,
+131,748712,58.56,,SKH,Udvisning,,14,Emil BERGHOLT,,,,,
+132,748712,59.03,30-28,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,42,Matias CAMPBELL,1,Christoffer BONDE
+133,748712,59.22,,SKH,Time out,,,,,,,,
+134,748712,59.28,,SKH,Skud reddet,ST,7,Senjamin BURIC,,,,16,Magnus PETERSEN
+135,748712,59.39,30-29,NSH,Mål,2:e,3,Carl-Emil HAUNSTRUP,,,,1,Christoffer BONDE
+136,748712,59.53,31-29,SKH,Mål,2:e,13,Noah GAUDIN,,,,16,Magnus PETERSEN
+137,748712,60.00,31-29,,Fuld tid,,,,,,,,
+138,748712,60.00,,,Kamp slut,,,,,,,,

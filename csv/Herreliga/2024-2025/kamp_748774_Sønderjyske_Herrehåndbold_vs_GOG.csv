@@ -1,0 +1,123 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748774,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748774,0.43,,SJE,Skud reddet,PL,48,Gabriel SETTERBLOM,,,,12,Peter JOHANNESSON
+3,748774,0.52,,GOG,Skud reddet,2:e,29,Hjalte LYKKE,,,,1,Matthias DORGELO
+4,748774,1.02,1-0,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,,,12,Peter JOHANNESSON
+5,748774,1.38,,GOG,Regelfejl,,8,Frederik TILSTED,,,,,
+6,748774,2.09,2-0,SJE,Mål,PL,29,Magnus FREDRIKSEN,,,,12,Peter JOHANNESSON
+7,748774,2.46,2-1,GOG,Mål,Gbr,15,Tobias GRØNDAHL,,,,1,Matthias DORGELO
+8,748774,3.20,3-1,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,,,,12,Peter JOHANNESSON
+9,748774,4.19,,GOG,Skud reddet,PL,15,Tobias GRØNDAHL,,,,1,Matthias DORGELO
+10,748774,4.55,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+11,748774,5.03,3-2,GOG,Mål,2:e,23,Joachim Lyng ALS,Assist,8,Frederik TILSTED,1,Matthias DORGELO
+12,748774,5.41,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,Bold erobret,7,Lasse VILHELMSEN,,
+13,748774,6.15,3-3,GOG,Mål,ST,9,Henrik JAKOBSEN,Assist,15,Tobias GRØNDAHL,1,Matthias DORGELO
+14,748774,6.53,,SJE,Skud reddet,Gbr,48,Gabriel SETTERBLOM,,,,12,Peter JOHANNESSON
+15,748774,7.06,,GOG,Skud blokeret,2:e,8,Frederik TILSTED,Blok af (ret),29,Magnus FREDRIKSEN,,
+16,748774,7.32,3-4,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,1,Matthias DORGELO
+17,748774,8.08,,SJE,Skud reddet,PL,11,Nicolaj JØRGENSEN,,,,12,Peter JOHANNESSON
+18,748774,8.13,3-5,GOG,Mål,1:e,9,Henrik JAKOBSEN,Assist,8,Frederik TILSTED,1,Matthias DORGELO
+19,748774,8.52,,SJE,Skud forbi,PL,11,Nicolaj JØRGENSEN,,,,12,Peter JOHANNESSON
+20,748774,8.56,3-6,GOG,Mål,1:e,9,Henrik JAKOBSEN,Assist,,,12,Peter JOHANNESSON
+21,748774,9.36,,SJE,Tilkendt straffe,,33,Ebbe STANKIEWICZ,Forårs. str.,23,Joachim Lyng ALS,,
+22,748774,9.36,,GOG,Udvisning,,23,Joachim Lyng ALS,,,,,
+23,748774,9.39,4-6,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,12,Peter JOHANNESSON
+24,748774,10.18,4-7,GOG,Mål,Gbr,8,Frederik TILSTED,,,,1,Matthias DORGELO
+25,748774,10.42,5-7,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,12,Peter JOHANNESSON
+26,748774,11.22,5-8,GOG,Mål,Gbr,8,Frederik TILSTED,,,,1,Matthias DORGELO
+27,748774,11.44,,SJE,Tilkendt straffe,,48,Gabriel SETTERBLOM,Forårs. str.,66,Anton LINDSKOG,,
+28,748774,11.52,6-8,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,64,Salah BOUTAF
+29,748774,12.39,6-9,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,1,Matthias DORGELO
+30,748774,13.32,7-9,SJE,Mål,ST,33,Ebbe STANKIEWICZ,Assist,20,August WIGER,12,Peter JOHANNESSON
+31,748774,14.49,,GOG,Skud forbi,PL,8,Frederik TILSTED,,,,1,Matthias DORGELO
+32,748774,15.16,8-9,SJE,Mål,ST,14,Jacob BAGERSTED,Assist,11,Nicolaj JØRGENSEN,12,Peter JOHANNESSON
+33,748774,15.54,8-10,GOG,Mål,PL,15,Tobias GRØNDAHL,,,,1,Matthias DORGELO
+34,748774,16.01,9-10,SJE,Mål,2:e,29,Magnus FREDRIKSEN,,,,12,Peter JOHANNESSON
+35,748774,17.07,,GOG,Skud reddet,VF,23,Joachim Lyng ALS,Retur,0,,1,Matthias DORGELO
+36,748774,17.15,9-11,GOG,Mål,ST,9,Henrik JAKOBSEN,,,,1,Matthias DORGELO
+37,748774,17.52,,GOG,Advarsel,,3,Nicolai PEDERSEN,,,,,
+38,748774,18.32,,SJE,Skud reddet,Gbr,11,Nicolaj JØRGENSEN,Retur,0,,12,Peter JOHANNESSON
+39,748774,18.59,,SJE,Regelfejl,,48,Gabriel SETTERBLOM,,,,,
+40,748774,19.31,9-12,GOG,Mål,VF,23,Joachim Lyng ALS,Assist,8,Frederik TILSTED,1,Matthias DORGELO
+41,748774,19.59,,SJE,Fejlaflevering,,48,Gabriel SETTERBLOM,Bold erobret,7,Lasse VILHELMSEN,,
+42,748774,20.02,9-13,GOG,Mål,1:e,7,Lasse VILHELMSEN,,,,1,Matthias DORGELO
+43,748774,20.02,,SJE,Time out,,,,,,,,
+44,748774,20.46,,SJE,Tilkendt straffe,,29,Magnus FREDRIKSEN,Forårs. str.,7,Lasse VILHELMSEN,,
+45,748774,21.03,10-13,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,12,Peter JOHANNESSON
+46,748774,21.45,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+47,748774,22.38,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+48,748774,22.41,,GOG,Regelfejl,,3,Nicolai PEDERSEN,,,,,
+49,748774,22.54,,SJE,Skud reddet,VB,29,Magnus FREDRIKSEN,,,,12,Peter JOHANNESSON
+50,748774,23.37,10-14,GOG,Mål,HB,29,Hjalte LYKKE,,,,1,Matthias DORGELO
+51,748774,24.16,11-14,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,11,Nicolaj JØRGENSEN,12,Peter JOHANNESSON
+52,748774,24.58,,GOG,Time out,,,,,,,,
+53,748774,25.26,11-15,GOG,Mål,ST,66,Anton LINDSKOG,Assist,15,Tobias GRØNDAHL,30,Julius STEN
+54,748774,25.53,,GOG,Udvisning,,66,Anton LINDSKOG,,,,,
+55,748774,26.06,12-15,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,,,,12,Peter JOHANNESSON
+56,748774,27.16,,GOG,Skud reddet,PL,15,Tobias GRØNDAHL,,,,30,Julius STEN
+57,748774,27.42,,SJE,Skud reddet,Gbr,48,Gabriel SETTERBLOM,,,,12,Peter JOHANNESSON
+58,748774,28.16,12-16,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,30,Julius STEN
+59,748774,28.50,13-16,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,12,Peter JOHANNESSON
+60,748774,29.23,13-17,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,30,Julius STEN
+61,748774,29.56,,SJE,Skud blokeret,VB,29,Magnus FREDRIKSEN,Blokeret af,7,Lasse VILHELMSEN,,
+62,748774,30.00,13-18,GOG,Mål,1:e,12,Peter JOHANNESSON,,,,0,
+63,748774,30.00,13-18,,Halvleg,,,,,,,,
+64,748774,30.00,,,Start 2:e halvleg,,,,,,,,
+65,748774,31.05,,GOG,Fejlaflevering,,8,Frederik TILSTED,,,,,
+66,748774,31.47,14-18,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,29,Magnus FREDRIKSEN,12,Peter JOHANNESSON
+67,748774,32.22,14-19,GOG,Mål,HF,19,Oskar VIND,Assist,15,Tobias GRØNDAHL,30,Julius STEN
+68,748774,33.12,,SJE,Tilkendt straffe,,18,Morten BJØRNSHAUGE,Forårs. str.,9,Henrik JAKOBSEN,,
+69,748774,33.19,15-19,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,64,Salah BOUTAF
+70,748774,33.58,,GOG,Skud blokeret,PL,15,Tobias GRØNDAHL,Blokeret af,18,Morten BJØRNSHAUGE,30,Julius STEN
+71,748774,34.07,16-19,SJE,Mål,2:e,48,Gabriel SETTERBLOM,,,,12,Peter JOHANNESSON
+72,748774,34.21,16-20,GOG,Mål,2:e,29,Hjalte LYKKE,Assist,15,Tobias GRØNDAHL,30,Julius STEN
+73,748774,34.54,,SJE,Fejlaflevering,,20,August WIGER,,,,,
+74,748774,35.02,,GOG,Skud reddet,2:e,8,Frederik TILSTED,,,,30,Julius STEN
+75,748774,35.12,,SJE,Skud reddet,2:e,6,Nikolaj SVALASTOG,,,,12,Peter JOHANNESSON
+76,748774,35.51,16-21,GOG,Mål,Gbr,8,Frederik TILSTED,Assist,29,Hjalte LYKKE,30,Julius STEN
+77,748774,36.49,,SJE,Tilkendt straffe,,29,Magnus FREDRIKSEN,Forårs. str.,66,Anton LINDSKOG,,
+78,748774,36.56,17-21,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,12,Peter JOHANNESSON
+79,748774,38.20,17-22,GOG,Mål,PL,8,Frederik TILSTED,Assist,29,Hjalte LYKKE,30,Julius STEN
+80,748774,39.08,,SJE,Fejlaflevering,,48,Gabriel SETTERBLOM,,,,,
+81,748774,39.15,,GOG,Fejlaflevering,,12,Peter JOHANNESSON,,,,,
+82,748774,40.04,,SJE,Regelfejl,,18,Morten BJØRNSHAUGE,,,,,
+83,748774,40.10,,GOG,Fejlaflevering,,3,Nicolai PEDERSEN,Bold erobret,18,Morten BJØRNSHAUGE,,
+84,748774,40.46,18-22,SJE,Mål,HB,48,Gabriel SETTERBLOM,,,,12,Peter JOHANNESSON
+85,748774,41.20,,GOG,Skud reddet,PL,10,Frederik PEDERSEN,,,,30,Julius STEN
+86,748774,41.54,19-22,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,,,,12,Peter JOHANNESSON
+87,748774,41.54,,GOG,Udvisning,,37,Linus PERSSON,,,,,
+88,748774,42.37,19-23,GOG,Mål,VF,23,Joachim Lyng ALS,Assist,10,Frederik PEDERSEN,30,Julius STEN
+89,748774,43.00,20-23,SJE,Mål,ST,14,Jacob BAGERSTED,Assist,29,Magnus FREDRIKSEN,12,Peter JOHANNESSON
+90,748774,44.02,,GOG,Skud reddet,Gbr,29,Hjalte LYKKE,,,,30,Julius STEN
+91,748774,44.17,21-23,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,12,Peter JOHANNESSON
+92,748774,45.01,,GOG,Skud reddet,HF,19,Oskar VIND,,,,30,Julius STEN
+93,748774,46.15,,SJE,Regelfejl,,0,,,,,,
+94,748774,46.39,21-24,GOG,Mål,ST,9,Henrik JAKOBSEN,Assist,15,Tobias GRØNDAHL,30,Julius STEN
+95,748774,46.51,22-24,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,,,12,Peter JOHANNESSON
+96,748774,47.22,22-25,GOG,Mål,HF,19,Oskar VIND,Assist,29,Hjalte LYKKE,30,Julius STEN
+97,748774,48.04,23-25,SJE,Mål,HF,24,Sebastian AUGUSTINUSSEN,Assist,29,Magnus FREDRIKSEN,12,Peter JOHANNESSON
+98,748774,48.58,,GOG,Skud på stolpe,VF,23,Joachim Lyng ALS,,,,30,Julius STEN
+99,748774,49.37,24-25,SJE,Mål,ST,24,Sebastian AUGUSTINUSSEN,Assist,11,Nicolaj JØRGENSEN,64,Salah BOUTAF
+100,748774,49.50,,GOG,Time out,,,,,,,,
+101,748774,50.04,,GOG,Tabt bold,,29,Hjalte LYKKE,,,,,
+102,748774,50.08,25-25,SJE,Mål,1:e,6,Nikolaj SVALASTOG,,,,0,
+103,748774,50.36,25-26,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,30,Julius STEN
+104,748774,51.05,,,,,,,,,,,
+105,748774,51.14,26-26,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,64,Salah BOUTAF
+106,748774,51.57,,GOG,Skud reddet,Gbr,29,Hjalte LYKKE,,,,30,Julius STEN
+107,748774,52.06,27-26,SJE,Mål,2:e,6,Nikolaj SVALASTOG,Assist,29,Magnus FREDRIKSEN,64,Salah BOUTAF
+108,748774,52.10,,GOG,Udvisning,,37,Linus PERSSON,,,,,
+109,748774,52.40,27-27,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,30,Julius STEN
+110,748774,53.10,28-27,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,,,,64,Salah BOUTAF
+111,748774,54.32,28-28,GOG,Mål,Gbr,29,Hjalte LYKKE,Assist,15,Tobias GRØNDAHL,30,Julius STEN
+112,748774,54.46,,SJE,Time out,,,,,,,,
+113,748774,55.48,,SJE,Skud reddet,PL,11,Nicolaj JØRGENSEN,,,,64,Salah BOUTAF
+114,748774,56.43,,GOG,Skud reddet,Gbr,29,Hjalte LYKKE,,,,30,Julius STEN
+115,748774,57.16,29-28,SJE,Mål,VB,11,Nicolaj JØRGENSEN,Assist,24,Sebastian AUGUSTINUSSEN,64,Salah BOUTAF
+116,748774,57.57,,GOG,Tilkendt straffe,,8,Frederik TILSTED,Forårs. str.,24,Sebastian AUGUSTINUSSEN,,
+117,748774,58.14,29-29,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,30,Julius STEN
+118,748774,58.47,,SJE,Skud reddet,Gbr,24,Sebastian AUGUSTINUSSEN,Retur,0,,64,Salah BOUTAF
+119,748774,59.19,,SJE,Tilkendt straffe,,29,Magnus FREDRIKSEN,Forårs. str.,66,Anton LINDSKOG,,
+120,748774,59.26,30-29,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,64,Salah BOUTAF
+121,748774,59.38,,GOG,Time out,,,,,,,,
+122,748774,59.59,30-30,GOG,Mål,PL,15,Tobias GRØNDAHL,,,,30,Julius STEN

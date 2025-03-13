@@ -1,0 +1,148 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748688,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748688,0.46,,TTH,Skud reddet,ST,23,Miha ZVIZEJ,,,,12,Josip CAVAR
+3,748688,1.10,,KIF,Tabt bold,,5,Oliver NORLYK,,,,,
+4,748688,1.16,0-1,TTH,Mål,1:e,18,Edwin ASPENBÄCK,,,,12,Josip CAVAR
+5,748688,1.25,,KIF,Tabt bold,,28,Lauritz LEGÉR,Bold erobret,28,Kevin GULLIKSEN,,
+6,748688,1.35,0-2,TTH,Mål,1:e,7,William AAR,Assist,28,Kevin GULLIKSEN,12,Josip CAVAR
+7,748688,2.01,,KIF,Skud blokeret,HB,5,Oliver NORLYK,Blok af (ret),7,William AAR,,
+8,748688,2.09,1-2,KIF,Mål,PL,21,Kristian STOKLUND,,,,16,Sander HEIEREN
+9,748688,2.13,,KIF,Udvisning,,13,Mathias HEDEGAARD,,,,,
+10,748688,2.32,,TTH,Skud reddet,VF,10,Magnus BRAMMING,,,,12,Josip CAVAR
+11,748688,3.05,2-2,KIF,Mål,Gbr,21,Kristian STOKLUND,,,,16,Sander HEIEREN
+12,748688,3.18,2-3,TTH,Mål,PL,23,Miha ZVIZEJ,,,,0,
+13,748688,3.52,,KIF,Skud reddet,Gbr,28,Lauritz LEGÉR,,,,16,Sander HEIEREN
+14,748688,3.58,2-4,TTH,Mål,PL,7,William AAR,,,,0,
+15,748688,4.53,,KIF,Tilkendt straffe,,2,Mads KRAGH THOMSEN,Forårs. str.,23,Miha ZVIZEJ,,
+16,748688,5.12,3-4,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,16,Sander HEIEREN
+17,748688,5.49,,TTH,Skud reddet,HB,11,Thomas DAMGAARD,,,,12,Josip CAVAR
+18,748688,6.00,,KIF,Skud forbi,ST,21,Kristian STOKLUND,,,,16,Sander HEIEREN
+19,748688,6.07,,TTH,Fejlaflevering,,11,Thomas DAMGAARD,,,,,
+20,748688,6.12,4-4,KIF,Mål,1:e,21,Kristian STOKLUND,Assist,,,12,Josip CAVAR
+21,748688,7.05,4-5,TTH,Mål,VF,10,Magnus BRAMMING,Assist,7,William AAR,12,Josip CAVAR
+22,748688,7.35,5-5,KIF,Mål,PL,28,Lauritz LEGÉR,,,,16,Sander HEIEREN
+23,748688,8.09,5-6,TTH,Mål,VB,11,Thomas DAMGAARD,,,,12,Josip CAVAR
+24,748688,8.23,,KIF,Skud reddet,PL,5,Oliver NORLYK,Retur,5,Oliver NORLYK,16,Sander HEIEREN
+25,748688,8.27,,KIF,Skud reddet,ST,5,Oliver NORLYK,,,,16,Sander HEIEREN
+26,748688,8.55,,TTH,Skud reddet,VB,11,Thomas DAMGAARD,Retur,10,Magnus BRAMMING,12,Josip CAVAR
+27,748688,8.55,5-7,TTH,Mål,VF,10,Magnus BRAMMING,,,,12,Josip CAVAR
+28,748688,8.55,,KIF,Udvisning,,5,Oliver NORLYK,,,,,
+29,748688,9.27,,KIF,Skud reddet,PL,28,Lauritz LEGÉR,,,,16,Sander HEIEREN
+30,748688,10.01,5-8,TTH,Mål,PL,7,William AAR,,,,12,Josip CAVAR
+31,748688,10.38,6-8,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,28,Lauritz LEGÉR,16,Sander HEIEREN
+32,748688,11.05,6-9,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,Assist,7,William AAR,12,Josip CAVAR
+33,748688,12.01,,TTH,Advarsel,,21,Mathias SMED,,,,,
+34,748688,12.19,,KIF,Tilkendt straffe,,13,Mathias HEDEGAARD,Forårs. str.,21,Mathias SMED,,
+35,748688,12.27,,KIF,Straffekast på stolpe,,21,Kristian STOKLUND,,,,16,Sander HEIEREN
+36,748688,13.16,,TTH,Skud reddet,ST,23,Miha ZVIZEJ,,,,12,Josip CAVAR
+37,748688,13.42,7-9,KIF,Mål,PL,11,Magnus KRONBORG,,,,16,Sander HEIEREN
+38,748688,14.18,7-10,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,18,Edwin ASPENBÄCK,12,Josip CAVAR
+39,748688,14.30,8-10,KIF,Mål,HB,24,Diogo SILVA,,,,16,Sander HEIEREN
+40,748688,15.18,8-11,TTH,Mål,PL,11,Thomas DAMGAARD,,,,12,Josip CAVAR
+41,748688,15.27,9-11,KIF,Mål,Gbr,21,Kristian STOKLUND,Assist,28,Lauritz LEGÉR,16,Sander HEIEREN
+42,748688,16.17,,KIF,Advarsel,,2,Mads KRAGH THOMSEN,,,,,
+43,748688,16.29,9-12,TTH,Mål,Gbr,11,Thomas DAMGAARD,Assist,7,William AAR,12,Josip CAVAR
+44,748688,17.07,,KIF,Skud reddet,Gbr,10,Mathias MAILAND,Retur,0,,16,Sander HEIEREN
+45,748688,17.07,,TTH,Udvisning,,18,Edwin ASPENBÄCK,,,,,
+46,748688,17.25,10-12,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,11,Magnus KRONBORG,16,Sander HEIEREN
+47,748688,18.03,,KIF,Udvisning,,2,Mads KRAGH THOMSEN,,,,,
+48,748688,18.19,10-13,TTH,Mål,Gbr,7,William AAR,Assist,11,Thomas DAMGAARD,12,Josip CAVAR
+49,748688,18.49,,KIF,Skud reddet,VF,26,Hans Lindeborg HOLST,,,,16,Sander HEIEREN
+50,748688,19.17,10-14,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,12,Josip CAVAR
+51,748688,19.50,,KIF,Time out,,,,,,,,
+52,748688,20.04,11-14,KIF,Mål,Gbr,24,Diogo SILVA,,,,16,Sander HEIEREN
+53,748688,20.41,,TTH,Skud reddet,HB,7,William AAR,,,,12,Josip CAVAR
+54,748688,20.46,12-14,KIF,Mål,1:e,29,Viktor NEVERS,Assist,,,12,Josip CAVAR
+55,748688,21.19,12-15,TTH,Mål,PL,7,William AAR,,,,12,Josip CAVAR
+56,748688,21.49,13-15,KIF,Mål,Gbr,10,Mathias MAILAND,,,,16,Sander HEIEREN
+57,748688,22.26,13-16,TTH,Mål,HB,11,Thomas DAMGAARD,,,,12,Josip CAVAR
+58,748688,22.40,,KIF,Tilkendt straffe,,10,Mathias MAILAND,Forårs. str.,25,Jonas PORUP,,
+59,748688,23.04,,KIF,Straffekast på stolpe,,21,Kristian STOKLUND,,,,16,Sander HEIEREN
+60,748688,23.48,,TTH,Skud forbi,PL,11,Thomas DAMGAARD,,,,12,Josip CAVAR
+61,748688,24.21,,KIF,Fejlaflevering,,5,Oliver NORLYK,,,,,
+62,748688,24.57,,TTH,Regelfejl,,7,William AAR,,,,,
+63,748688,25.00,,TTH,Udvisning,,7,William AAR,,,,,
+64,748688,25.29,14-16,KIF,Mål,ST,2,Mads KRAGH THOMSEN,Assist,11,Magnus KRONBORG,16,Sander HEIEREN
+65,748688,26.26,,TTH,Tilkendt straffe,,4,Christoffer CICHOSZ,Forårs. str.,29,Viktor NEVERS,,
+66,748688,26.31,14-17,TTH,Mål på straffe,,10,Magnus BRAMMING,,,,12,Josip CAVAR
+67,748688,27.03,,KIF,Skud reddet,PL,11,Magnus KRONBORG,,,,16,Sander HEIEREN
+68,748688,27.43,,TTH,Tilkendt straffe,,18,Edwin ASPENBÄCK,Forårs. str.,13,Mathias HEDEGAARD,,
+69,748688,27.50,14-18,TTH,Mål på straffe,,10,Magnus BRAMMING,,,,12,Josip CAVAR
+70,748688,28.40,,KIF,Tilkendt straffe,,28,Lauritz LEGÉR,Forårs. str.,28,Kevin GULLIKSEN,,
+71,748688,28.40,,TTH,Udvisning,,28,Kevin GULLIKSEN,,,,,
+72,748688,28.44,15-18,KIF,Mål på straffe,,11,Magnus KRONBORG,,,,16,Sander HEIEREN
+73,748688,29.35,,TTH,Skud reddet,ST,4,Christoffer CICHOSZ,,,,12,Josip CAVAR
+74,748688,29.43,16-18,KIF,Mål,1:e,26,Hans Lindeborg HOLST,Assist,,,12,Josip CAVAR
+75,748688,29.43,,TTH,Time out,,,,,,,,
+76,748688,30.00,,TTH,Skud blokeret,VB,10,Magnus BRAMMING,Blokeret af,2,Mads KRAGH THOMSEN,,
+77,748688,30.00,16-18,,Halvleg,,,,,,,,
+78,748688,30.00,,,Start 2:e halvleg,,,,,,,,
+79,748688,30.23,,KIF,Skud reddet,PL,5,Oliver NORLYK,,,,16,Sander HEIEREN
+80,748688,30.56,,TTH,Skud reddet,Gbr,18,Edwin ASPENBÄCK,Retur,23,Miha ZVIZEJ,12,Josip CAVAR
+81,748688,31.02,,TTH,Skud reddet,ST,23,Miha ZVIZEJ,,,,12,Josip CAVAR
+82,748688,31.07,17-18,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,29,Viktor NEVERS,16,Sander HEIEREN
+83,748688,31.34,17-19,TTH,Mål,PL,18,Edwin ASPENBÄCK,,,,12,Josip CAVAR
+84,748688,32.07,,KIF,Skud reddet,VB,21,Kristian STOKLUND,,,,16,Sander HEIEREN
+85,748688,32.30,17-20,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,18,Edwin ASPENBÄCK,12,Josip CAVAR
+86,748688,33.07,,KIF,Tilkendt straffe,,28,Lauritz LEGÉR,Forårs. str.,23,Miha ZVIZEJ,,
+87,748688,33.10,18-20,KIF,Mål på straffe,,11,Magnus KRONBORG,,,,1,Victor HOLST-HANSEN
+88,748688,33.43,,TTH,Regelfejl,,23,Miha ZVIZEJ,,,,,
+89,748688,34.01,,KIF,Tilkendt straffe,,29,Viktor NEVERS,Forårs. str.,10,Magnus BRAMMING,,
+90,748688,34.21,,KIF,Straffekast på stolpe,,11,Magnus KRONBORG,,,,16,Sander HEIEREN
+91,748688,34.49,,TTH,Fejlaflevering,,11,Thomas DAMGAARD,,,,,
+92,748688,34.54,,KIF,Fejlaflevering,,12,Josip CAVAR,Bold erobret,7,William AAR,,
+93,748688,35.40,,TTH,Tilkendt straffe,,23,Miha ZVIZEJ,Forårs. str.,13,Mathias HEDEGAARD,,
+94,748688,35.44,18-21,TTH,Mål på straffe,,10,Magnus BRAMMING,,,,1,Emil TELLERUP
+95,748688,36.26,19-21,KIF,Mål,Gbr,28,Lauritz LEGÉR,Assist,5,Oliver NORLYK,16,Sander HEIEREN
+96,748688,37.00,,TTH,Tabt bold,,7,William AAR,,,,,
+97,748688,37.08,,KIF,Fejlaflevering,,5,Oliver NORLYK,Bold erobret,10,Magnus BRAMMING,,
+98,748688,37.27,,TTH,Regelfejl,,13,Sven EHRIG,,,,,
+99,748688,38.05,,KIF,Skud reddet,PL,24,Diogo SILVA,,,,16,Sander HEIEREN
+100,748688,38.41,19-22,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,18,Edwin ASPENBÄCK,12,Josip CAVAR
+101,748688,39.11,,KIF,Skud forbi,PL,21,Kristian STOKLUND,,,,16,Sander HEIEREN
+102,748688,39.21,19-23,TTH,Mål,VF,10,Magnus BRAMMING,Assist,7,William AAR,12,Josip CAVAR
+103,748688,39.25,,KIF,Time out,,,,,,,,
+104,748688,39.46,20-23,KIF,Mål,,,,,,,,
+105,748688,40.41,20-24,TTH,Mål,VB,7,William AAR,,,,,
+106,748688,41.14,21-24,KIF,Mål,,24,Diogo SILVA,,,,,
+107,748688,41.23,21-25,TTH,Mål,2:e,18,Edwin ASPENBÄCK,,,,,
+108,748688,42.35,,KIF,Tilkendt straffe,,28,Lauritz LEGÉR,Forårs. str.,13,Sven EHRIG,,
+109,748688,42.55,22-25,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,16,Sander HEIEREN
+110,748688,43.38,22-26,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,7,William AAR,1,Emil TELLERUP
+111,748688,43.47,,TTH,Udvisning,,13,Sven EHRIG,,,,,
+112,748688,44.05,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,Bold erobret,7,William AAR,,
+113,748688,44.09,22-27,TTH,Mål,1:e,10,Magnus BRAMMING,Assist,7,William AAR,1,Emil TELLERUP
+114,748688,44.32,23-27,KIF,Mål,Gbr,24,Diogo SILVA,Assist,11,Magnus KRONBORG,16,Sander HEIEREN
+115,748688,45.11,,TTH,Skud reddet,ST,7,William AAR,,,,1,Emil TELLERUP
+116,748688,45.45,,KIF,Skud reddet,HF,29,Viktor NEVERS,,,,16,Sander HEIEREN
+117,748688,46.41,,TTH,Fejlaflevering,,18,Edwin ASPENBÄCK,Bold erobret,22,Frederik BAY,,
+118,748688,46.48,24-27,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,24,Diogo SILVA,16,Sander HEIEREN
+119,748688,47.06,,KIF,Udvisning,,28,Lauritz LEGÉR,,,,,
+120,748688,47.19,24-28,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,,,,1,Emil TELLERUP
+121,748688,47.53,25-28,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,21,Kristian STOKLUND,16,Sander HEIEREN
+122,748688,48.35,,TTH,Skud forbi,VF,10,Magnus BRAMMING,,,,1,Emil TELLERUP
+123,748688,49.10,,KIF,Tilkendt straffe,,2,Mads KRAGH THOMSEN,Forårs. str.,10,Magnus BRAMMING,,
+124,748688,49.27,26-28,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,16,Sander HEIEREN
+125,748688,50.06,,TTH,Skud reddet,Gbr,7,William AAR,,,,1,Emil TELLERUP
+126,748688,50.51,27-28,KIF,Mål,PL,10,Mathias MAILAND,,,,16,Sander HEIEREN
+127,748688,51.03,27-29,TTH,Mål,HB,18,Edwin ASPENBÄCK,,,,1,Emil TELLERUP
+128,748688,52.00,,KIF,Skud forbi,HB,24,Diogo SILVA,,,,16,Sander HEIEREN
+129,748688,52.35,27-30,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,,,,1,Emil TELLERUP
+130,748688,52.42,,KIF,Time out,,,,,,,,
+131,748688,53.27,,KIF,Regelfejl,,24,Diogo SILVA,,,,,
+132,748688,54.00,,TTH,Tabt bold,,18,Edwin ASPENBÄCK,Bold erobret,2,Mads KRAGH THOMSEN,,
+133,748688,54.07,28-30,KIF,Mål,1:e,22,Frederik BAY,Assist,28,Lauritz LEGÉR,16,Sander HEIEREN
+134,748688,54.36,,TTH,Time out,,,,,,,,
+135,748688,55.05,28-31,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,18,Edwin ASPENBÄCK,1,Emil TELLERUP
+136,748688,55.45,29-31,KIF,Mål,VF,22,Frederik BAY,Assist,11,Magnus KRONBORG,16,Sander HEIEREN
+137,748688,56.20,29-32,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,Assist,11,Thomas DAMGAARD,1,Emil TELLERUP
+138,748688,56.30,30-32,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,24,Diogo SILVA,16,Sander HEIEREN
+139,748688,56.59,,TTH,Skud reddet,Gbr,7,William AAR,,,,1,Emil TELLERUP
+140,748688,57.10,,KIF,Fejlaflevering,,24,Diogo SILVA,,,,,
+141,748688,57.54,,TTH,Skud reddet,PL,7,William AAR,,,,1,Emil TELLERUP
+142,748688,58.47,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,Bold erobret,25,Jonas PORUP,,
+143,748688,58.53,30-33,TTH,Mål,1:e,7,William AAR,Assist,25,Jonas PORUP,1,Emil TELLERUP
+144,748688,59.08,,KIF,Tabt bold,,13,Mathias HEDEGAARD,,,,,
+145,748688,59.45,30-34,TTH,Mål,PL,11,Thomas DAMGAARD,,,,1,Emil TELLERUP
+146,748688,59.50,,KIF,Udvisning,,2,Mads KRAGH THOMSEN,,,,,
+147,748688,60.00,31-34,KIF,Mål,PL,11,Magnus KRONBORG,,,,16,Sander HEIEREN

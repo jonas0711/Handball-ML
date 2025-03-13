@@ -1,0 +1,145 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748216,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748216,1.15,,NFH,Fejlaflevering,,18,Alberte KIELSTRUP,,,,,
+3,748216,1.49,,TES,Regelfejl,,18,Mette TRANBORG,,,,,
+4,748216,1.58,,NFH,Skud reddet,2:e,2,Caroline AAR,,,,16,Amalie MILLING
+5,748216,2.04,,TES,Fejlaflevering,,4,Michala MØLLER,,,,,
+6,748216,2.35,,NFH,Skud forbi,VF,22,Zoë SPRENGERS,,,,16,Amalie MILLING
+7,748216,3.16,,TES,Skud blokeret,PL,8,Live RUSHFELDT DEILA,Blokeret af,2,Caroline AAR,,
+8,748216,3.36,0-1,NFH,Mål,Gbr,26,Mona OBAIDLI,,,,16,Amalie MILLING
+9,748216,4.12,,TES,Skud forbi,HB,18,Mette TRANBORG,,,,1,Sofie BÖRJESSON
+10,748216,4.43,0-2,NFH,Mål,ST,2,Caroline AAR,Assist,26,Mona OBAIDLI,16,Amalie MILLING
+11,748216,4.55,,TES,Skud reddet,2:e,17,Elin HANSSON,,,,1,Sofie BÖRJESSON
+12,748216,5.04,,NFH,Skud forbi,2:e,18,Alberte KIELSTRUP,,,,16,Amalie MILLING
+13,748216,5.52,,TES,Skud reddet,ST,11,Rikke IVERSEN,,,,1,Sofie BÖRJESSON
+14,748216,6.02,,NFH,Skud reddet,2:e,20,Maja MAGNUSSEN,,,,16,Amalie MILLING
+15,748216,6.08,1-2,TES,Mål,2:e,18,Mette TRANBORG,,,,1,Sofie BÖRJESSON
+16,748216,6.45,,NFH,Tilkendt straffe,,18,Alberte KIELSTRUP,Forårs. str.,17,Elin HANSSON,,
+17,748216,7.02,1-3,NFH,Mål på straffe,,34,Sofie BARDRUM,,,,16,Amalie MILLING
+18,748216,7.31,,TES,Skud reddet,PL,18,Mette TRANBORG,,,,1,Sofie BÖRJESSON
+19,748216,8.09,,NFH,Skud på stolpe,ST,2,Caroline AAR,,,,16,Amalie MILLING
+20,748216,8.18,2-3,TES,Mål,2:e,8,Live RUSHFELDT DEILA,,,,1,Sofie BÖRJESSON
+21,748216,8.49,2-4,NFH,Mål,ST,2,Caroline AAR,Assist,79,Kristina KRISTIANSEN,16,Amalie MILLING
+22,748216,9.25,3-4,TES,Mål,ST,11,Rikke IVERSEN,Assist,18,Mette TRANBORG,1,Sofie BÖRJESSON
+23,748216,9.37,3-5,NFH,Mål,2:e,8,Stine EIBERG,,,,16,Amalie MILLING
+24,748216,9.47,4-5,TES,Mål,2:e,20,Marit Røsberg JACOBSEN,Assist,18,Mette TRANBORG,1,Sofie BÖRJESSON
+25,748216,10.20,4-6,NFH,Mål,PL,79,Kristina KRISTIANSEN,,,,16,Amalie MILLING
+26,748216,10.36,,TES,Skud på stolpe,Gbr,8,Live RUSHFELDT DEILA,,,,1,Sofie BÖRJESSON
+27,748216,11.32,4-7,NFH,Mål,PL,79,Kristina KRISTIANSEN,,,,16,Amalie MILLING
+28,748216,11.42,5-7,TES,Mål,2:e,4,Michala MØLLER,,,,1,Sofie BÖRJESSON
+29,748216,12.30,,NFH,Skud reddet,PL,79,Kristina KRISTIANSEN,,,,16,Amalie MILLING
+30,748216,12.36,,TES,Regelfejl,,4,Michala MØLLER,,,,,
+31,748216,13.10,,NFH,Skud forbi,PL,26,Mona OBAIDLI,,,,16,Amalie MILLING
+32,748216,13.19,6-7,TES,Mål,2:e,4,Michala MØLLER,,,,1,Sofie BÖRJESSON
+33,748216,13.56,,NFH,Skud reddet,Gbr,18,Alberte KIELSTRUP,,,,16,Amalie MILLING
+34,748216,14.02,,NFH,Udvisning,,49,Aimée VON PEREIRA,,,,,
+35,748216,14.16,7-7,TES,Mål,HF,20,Marit Røsberg JACOBSEN,Assist,4,Michala MØLLER,1,Sofie BÖRJESSON
+36,748216,14.59,7-8,NFH,Mål,PL,79,Kristina KRISTIANSEN,,,,16,Amalie MILLING
+37,748216,15.04,8-8,TES,Mål,2:e,25,Henny REISTAD,,,,,
+38,748216,15.47,,NFH,Passivt spil,,,,,,,,
+39,748216,16.06,9-8,TES,Mål,Gbr,4,Michala MØLLER,Assist,25,Henny REISTAD,12,Catharina BROCH
+40,748216,16.18,,NFH,Time out,,,,,,,,
+41,748216,16.42,9-9,NFH,Mål,Gbr,18,Alberte KIELSTRUP,Assist,26,Mona OBAIDLI,16,Amalie MILLING
+42,748216,17.47,10-9,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+43,748216,18.18,,NFH,Fejlaflevering,,22,Zoë SPRENGERS,,,,,
+44,748216,18.31,,TES,Skud reddet,2:e,18,Mette TRANBORG,,,,12,Catharina BROCH
+45,748216,19.10,,NFH,Skud på stolpe,PL,18,Alberte KIELSTRUP,Retur,0,,16,Amalie MILLING
+46,748216,19.13,10-10,NFH,Mål,Gbr,22,Zoë SPRENGERS,,,,16,Amalie MILLING
+47,748216,19.40,11-10,TES,Mål,PL,4,Michala MØLLER,,,,12,Catharina BROCH
+48,748216,19.51,,NFH,Skud reddet,2:e,26,Mona OBAIDLI,,,,16,Amalie MILLING
+49,748216,20.36,,TES,Skud reddet,PL,8,Live RUSHFELDT DEILA,Retur,0,,12,Catharina BROCH
+50,748216,20.50,,TES,Time out,,,,,,,,
+51,748216,21.01,,TES,Fejlaflevering,,25,Henny REISTAD,,,,,
+52,748216,21.30,,NFH,Regelfejl,,26,Mona OBAIDLI,,,,,
+53,748216,21.43,12-10,TES,Mål,2:e,4,Michala MØLLER,,,,12,Catharina BROCH
+54,748216,22.39,,NFH,Skud blokeret,PL,7,Amalie WULFF,Blokeret af,10,Kathrine HEINDAHL,,
+55,748216,22.49,,TES,Skud reddet,2:e,24,Sanna SOLBERG,Retur,0,Catharina BROCH,12,Catharina BROCH
+56,748216,23.13,13-10,TES,Mål,ST,3,Kaja Kamp NIELSEN,Assist,8,Live RUSHFELDT DEILA,12,Catharina BROCH
+57,748216,23.48,,NFH,Fejlaflevering,,79,Kristina KRISTIANSEN,,,,,
+58,748216,24.14,,TES,Skud forbi,Gbr,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+59,748216,24.57,,TES,Udvisning,,4,Michala MØLLER,,,,,
+60,748216,25.25,13-11,NFH,Mål,ST,34,Sofie BARDRUM,Assist,26,Mona OBAIDLI,16,Amalie MILLING
+61,748216,26.05,14-11,TES,Mål,ST,3,Kaja Kamp NIELSEN,Assist,8,Live RUSHFELDT DEILA,12,Catharina BROCH
+62,748216,26.10,14-12,NFH,Mål,2:e,2,Caroline AAR,,,,,
+63,748216,27.09,,TES,Skud på stolpe,HF,27,Anne Tolstrup PETERSEN,,,,12,Catharina BROCH
+64,748216,27.25,,NFH,Tilkendt straffe,,2,Caroline AAR,Forårs. str.,18,Mette TRANBORG,,
+65,748216,27.28,,TES,Advarsel,,18,Mette TRANBORG,,,,,
+66,748216,27.40,,NFH,Straffekast reddet,,34,Sofie BARDRUM,,,,16,Amalie MILLING
+67,748216,27.50,,TES,Regelfejl,,24,Sanna SOLBERG,,,,,
+68,748216,28.36,14-13,NFH,Mål,Gbr,26,Mona OBAIDLI,Assist,7,Amalie WULFF,16,Amalie MILLING
+69,748216,29.06,,TES,Skud reddet,Gbr,25,Henny REISTAD,,,,12,Catharina BROCH
+70,748216,29.13,,TES,Udvisning,,18,Mette TRANBORG,,,,,
+71,748216,29.32,,NFH,Skud reddet,ST,34,Sofie BARDRUM,,,,16,Amalie MILLING
+72,748216,30.00,,TES,Skud blokeret,PL,25,Henny REISTAD,Blokeret af,8,Stine EIBERG,,
+73,748216,30.00,14-13,,Halvleg,,,,,,,,
+74,748216,30.00,,,Start 2:e halvleg,,,,,,,,
+75,748216,30.36,,TES,Tilkendt straffe,,25,Henny REISTAD,Forårs. str.,49,Aimée VON PEREIRA,,
+76,748216,30.50,,TES,Straffekast reddet,,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+77,748216,31.14,,NFH,Fejlaflevering,,18,Alberte KIELSTRUP,Bold erobret,11,Rikke IVERSEN,,
+78,748216,31.41,15-13,TES,Mål,HB,18,Mette TRANBORG,,,,12,Catharina BROCH
+79,748216,31.53,,NFH,Tabt bold,,18,Alberte KIELSTRUP,,,,,
+80,748216,31.57,16-13,TES,Mål,1:e,25,Henny REISTAD,,,,12,Catharina BROCH
+81,748216,32.49,,NFH,Skud reddet,PL,26,Mona OBAIDLI,,,,12,Anna KRISTENSEN
+82,748216,33.24,,TES,Tilkendt straffe,,18,Mette TRANBORG,Forårs. str.,26,Mona OBAIDLI,,
+83,748216,33.42,17-13,TES,Mål på straffe,,25,Henny REISTAD,,,,12,Catharina BROCH
+84,748216,34.53,,NFH,Skud forbi,VB,26,Mona OBAIDLI,,,,12,Anna KRISTENSEN
+85,748216,35.21,,NFH,Udvisning,,2,Caroline AAR,,,,,
+86,748216,35.35,18-13,TES,Mål,Gbr,25,Henny REISTAD,,,,12,Catharina BROCH
+87,748216,35.46,,NFH,Time out,,,,,,,,
+88,748216,36.07,,NFH,Skud reddet,VF,22,Zoë SPRENGERS,,,,12,Anna KRISTENSEN
+89,748216,36.13,19-13,TES,Mål,1:e,18,Mette TRANBORG,Assist,25,Henny REISTAD,12,Catharina BROCH
+90,748216,36.47,,NFH,Skud blokeret,PL,18,Alberte KIELSTRUP,Blokeret af,10,Kathrine HEINDAHL,,
+91,748216,36.53,20-13,TES,Mål,1:e,20,Marit Røsberg JACOBSEN,Assist,17,Elin HANSSON,0,Catharina BROCH
+92,748216,37.46,,NFH,Tilkendt straffe,,34,Sofie BARDRUM,Forårs. str.,17,Elin HANSSON,,
+93,748216,37.54,20-14,NFH,Mål på straffe,,49,Aimée VON PEREIRA,,,,16,Amalie MILLING
+94,748216,39.06,,TES,Skud reddet,PL,25,Henny REISTAD,,,,12,Catharina BROCH
+95,748216,39.16,20-15,NFH,Mål,2:e,15,Kalidiatou NIAKATE,,,,12,Anna KRISTENSEN
+96,748216,39.25,21-15,TES,Mål,2:e,20,Marit Røsberg JACOBSEN,Assist,25,Henny REISTAD,12,Catharina BROCH
+97,748216,39.56,,NFH,Regelfejl,,18,Alberte KIELSTRUP,,,,,
+98,748216,40.03,22-15,TES,Mål,1:e,20,Marit Røsberg JACOBSEN,Assist,25,Henny REISTAD,12,Catharina BROCH
+99,748216,40.44,,NFH,Skud reddet,Gbr,18,Alberte KIELSTRUP,Retur,0,Anna KRISTENSEN,12,Anna KRISTENSEN
+100,748216,40.48,,NFH,Skud reddet,VF,22,Zoë SPRENGERS,,,,12,Anna KRISTENSEN
+101,748216,40.58,23-15,TES,Mål,2:e,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+102,748216,41.00,,NFH,Time out,,,,,,,,
+103,748216,41.23,,NFH,Fejlaflevering,,7,Amalie WULFF,,,,,
+104,748216,41.50,24-15,TES,,,,,,,,,
+105,748216,42.23,24-16,NFH,Mål,Gbr,15,Kalidiatou NIAKATE,,,,12,Anna KRISTENSEN
+106,748216,43.15,,TES,Skud blokeret,PL,8,Live RUSHFELDT DEILA,Blokeret af,49,Aimée VON PEREIRA,,
+107,748216,43.50,,NFH,Fejlaflevering,,15,Kalidiatou NIAKATE,,,,,
+108,748216,44.27,25-16,TES,Mål,Gbr,25,Henny REISTAD,,,,12,Catharina BROCH
+109,748216,45.45,,TES,Udvisning,,18,Mette TRANBORG,,,,,
+110,748216,46.03,25-17,NFH,Mål,ST,2,Caroline AAR,Assist,18,Alberte KIELSTRUP,12,Anna KRISTENSEN
+111,748216,46.56,,TES,Tilkendt straffe,,8,Live RUSHFELDT DEILA,Forårs. str.,26,Mona OBAIDLI,,
+112,748216,47.06,26-17,TES,Mål på straffe,,25,Henny REISTAD,,,,12,Catharina BROCH
+113,748216,47.29,26-18,NFH,Mål,VF,21,Matilde VESTERGAARD,Assist,79,Kristina KRISTIANSEN,12,Anna KRISTENSEN
+114,748216,48.29,27-18,TES,Mål,Gbr,24,Sanna SOLBERG,Assist,25,Henny REISTAD,12,Catharina BROCH
+115,748216,49.08,,NFH,Skud på stolpe,ST,34,Sofie BARDRUM,,,,12,Anna KRISTENSEN
+116,748216,49.21,28-18,TES,Mål,2:e,11,Rikke IVERSEN,Assist,18,Mette TRANBORG,12,Catharina BROCH
+117,748216,49.33,,NFH,Tilkendt straffe,,15,Kalidiatou NIAKATE,Forårs. str.,27,Anne Tolstrup PETERSEN,,
+118,748216,49.45,28-19,NFH,Mål på straffe,,49,Aimée VON PEREIRA,,,,12,Anna KRISTENSEN
+119,748216,50.21,,TES,Time out,,,,,,,,
+120,748216,50.33,,TES,Tilkendt straffe,,3,Kaja Kamp NIELSEN,Forårs. str.,15,Kalidiatou NIAKATE,,
+121,748216,50.53,29-19,TES,Mål på straffe,,25,Henny REISTAD,,,,12,Catharina BROCH
+122,748216,51.40,29-20,NFH,Mål,Gbr,15,Kalidiatou NIAKATE,Assist,7,Amalie WULFF,12,Anna KRISTENSEN
+123,748216,51.47,30-20,TES,Mål,2:e,25,Henny REISTAD,,,,12,Catharina BROCH
+124,748216,52.37,30-21,NFH,Mål,ST,34,Sofie BARDRUM,Assist,7,Amalie WULFF,12,Anna KRISTENSEN
+125,748216,52.49,31-21,TES,Mål,2:e,18,Mette TRANBORG,,,,12,Catharina BROCH
+126,748216,52.59,31-22,NFH,Mål,2:e,21,Matilde VESTERGAARD,Assist,15,Kalidiatou NIAKATE,12,Anna KRISTENSEN
+127,748216,54.08,,TES,Skud reddet,PL,8,Live RUSHFELDT DEILA,Retur,0,,12,Catharina BROCH
+128,748216,54.11,32-22,TES,Mål,ST,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+129,748216,54.48,32-23,NFH,Mål,Gbr,7,Amalie WULFF,,,,12,Anna KRISTENSEN
+130,748216,54.59,,TES,Regelfejl,,27,Anne Tolstrup PETERSEN,,,,,
+131,748216,55.40,,NFH,Regelfejl,,26,Mona OBAIDLI,,,,,
+132,748216,55.49,,TES,Time out,,,,,,,,
+133,748216,56.05,,TES,Fejlaflevering,,4,Michala MØLLER,,,,,
+134,748216,56.37,,NFH,Fejlaflevering,,79,Kristina KRISTIANSEN,,,,,
+135,748216,56.44,33-23,TES,Mål,1:e,27,Anne Tolstrup PETERSEN,Assist,8,Live RUSHFELDT DEILA,12,Catharina BROCH
+136,748216,56.53,,NFH,Fejlaflevering,,26,Mona OBAIDLI,,,,,
+137,748216,56.56,34-23,TES,Mål,1:e,25,Henny REISTAD,,,,12,Catharina BROCH
+138,748216,57.26,,NFH,Skud reddet,Gbr,79,Kristina KRISTIANSEN,,,,12,Anna KRISTENSEN
+139,748216,57.59,,TES,Tilkendt straffe,,3,Kaja Kamp NIELSEN,Forårs. str.,2,Caroline AAR,,
+140,748216,58.11,35-23,TES,Mål på straffe,,25,Henny REISTAD,,,,12,Catharina BROCH
+141,748216,58.45,35-24,NFH,Mål,Gbr,7,Amalie WULFF,,,,12,Anna KRISTENSEN
+142,748216,59.15,,TES,Fejlaflevering,,25,Henny REISTAD,,,,,
+143,748216,59.47,35-25,NFH,Mål,HF,11,Rosa SCHMIDT,Assist,26,Mona OBAIDLI,12,Anna KRISTENSEN
+144,748216,59.59,,TES,Skud reddet,HB,7,Luciana REBELO,,,,12,Catharina BROCH

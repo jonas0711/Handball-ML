@@ -1,0 +1,142 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748178,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748178,0.30,,SJE,Skud reddet,PL,14,Louise ELLEBÆK,,,,16,Louise Bak JENSEN
+3,748178,0.38,,VHK,Skud reddet,2:e,5,Marielle MARTINSEN,,,,12,Stine BROLØS
+4,748178,0.44,,SJE,Fejlaflevering,,11,Pernille JOHANNSEN,,,,,
+5,748178,1.14,,VHK,Skud reddet,PL,62,Louise SØNDERGAARD,,,,12,Stine BROLØS
+6,748178,1.29,,SJE,Skud på stolpe,2:e,11,Pernille JOHANNSEN,,,,16,Louise Bak JENSEN
+7,748178,1.58,,VHK,Skud reddet,HF,18,Henriette HANSEN,,,,12,Stine BROLØS
+8,748178,2.39,,SJE,Fejlaflevering,,7,Melissa PETRÉN,,,,,
+9,748178,2.48,,VHK,Skud reddet,2:e,14,Camilla DEGN,,,,12,Stine BROLØS
+10,748178,3.36,,SJE,Skud reddet,HB,10,Nicoline OLSEN,Retur,0,,16,Louise Bak JENSEN
+11,748178,3.44,,SJE,Skud forbi,VF,17,June BØTTGER,,,,16,Louise Bak JENSEN
+12,748178,4.23,,VHK,Fejlaflevering,,5,Marielle MARTINSEN,,,,,
+13,748178,5.20,,SJE,Skud reddet,PL,14,Louise ELLEBÆK,,,,16,Louise Bak JENSEN
+14,748178,5.29,,VHK,Regelfejl,,77,Jana MITTÚN,,,,,
+15,748178,5.36,,SJE,Tilkendt straffe,,31,Ida-Marie DAHL,Forårs. str.,9,Laura THESTRUP,,
+16,748178,5.40,,VHK,Advarsel,,9,Laura THESTRUP,,,,,
+17,748178,5.59,0-1,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,16,Louise Bak JENSEN
+18,748178,6.31,1-1,VHK,Mål,Gbr,62,Louise SØNDERGAARD,,,,12,Stine BROLØS
+19,748178,7.15,,SJE,Skud reddet,PL,10,Nicoline OLSEN,,,,16,Louise Bak JENSEN
+20,748178,7.21,2-1,VHK,Mål,1:e,14,Camilla DEGN,Assist,16,Louise Bak JENSEN,12,Stine BROLØS
+21,748178,7.34,,SJE,Tilkendt straffe,,11,Pernille JOHANNSEN,Forårs. str.,19,Sara HALD,,
+22,748178,7.52,2-2,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,16,Louise Bak JENSEN
+23,748178,8.42,,VHK,Skud reddet,PL,5,Marielle MARTINSEN,,,,12,Stine BROLØS
+24,748178,8.52,,SJE,Skud forbi,2:e,22,Olivia SIMONSEN,,,,16,Louise Bak JENSEN
+25,748178,9.05,,VHK,Skud på stolpe,2:e,14,Camilla DEGN,,,,12,Stine BROLØS
+26,748178,9.35,2-3,SJE,Mål,VB,14,Louise ELLEBÆK,,,,16,Louise Bak JENSEN
+27,748178,10.14,3-3,VHK,Mål,PL,62,Louise SØNDERGAARD,,,,12,Stine BROLØS
+28,748178,10.25,3-4,SJE,Mål,2:e,31,Ida-Marie DAHL,Assist,10,Nicoline OLSEN,16,Louise Bak JENSEN
+29,748178,11.02,4-4,VHK,Mål,ST,19,Sara HALD,Assist,77,Jana MITTÚN,12,Stine BROLØS
+30,748178,11.11,4-5,SJE,Mål,2:e,10,Nicoline OLSEN,,,,16,Louise Bak JENSEN
+31,748178,11.22,5-5,VHK,Mål,2:e,5,Marielle MARTINSEN,,,,12,Stine BROLØS
+32,748178,12.32,,SJE,Skud reddet,HB,7,Melissa PETRÉN,,,,16,Louise Bak JENSEN
+33,748178,13.36,6-5,VHK,Mål,ST,19,Sara HALD,Assist,62,Louise SØNDERGAARD,12,Stine BROLØS
+34,748178,14.36,,SJE,Fejlaflevering,,14,Louise ELLEBÆK,Bold erobret,77,Jana MITTÚN,,
+35,748178,14.42,,VHK,Skud reddet,1:e,77,Jana MITTÚN,,,,12,Stine BROLØS
+36,748178,14.45,,SJE,Time out,,,,,,,,
+37,748178,15.03,,SJE,Regelfejl,,7,Melissa PETRÉN,,,,,
+38,748178,15.16,,VHK,Regelfejl,,9,Laura THESTRUP,,,,,
+39,748178,15.27,6-6,SJE,Mål,2:e,17,June BØTTGER,Assist,22,Olivia SIMONSEN,16,Louise Bak JENSEN
+40,748178,15.45,,VHK,Fejlaflevering,,62,Louise SØNDERGAARD,Bold erobret,9,Filippa NYMAN,,
+41,748178,16.33,,SJE,Fejlaflevering,,28,Sarah PAULSEN,,,,,
+42,748178,17.12,,VHK,Skud reddet,Gbr,26,Christina PEDERSEN,,,,12,Stine BROLØS
+43,748178,17.44,,SJE,Skud reddet,HB,28,Sarah PAULSEN,,,,16,Louise Bak JENSEN
+44,748178,17.49,7-6,VHK,Mål,1:e,14,Camilla DEGN,Assist,16,Louise Bak JENSEN,12,Stine BROLØS
+45,748178,18.19,,SJE,Skud reddet,PL,7,Melissa PETRÉN,,,,16,Louise Bak JENSEN
+46,748178,18.25,8-6,VHK,Mål,2:e,19,Sara HALD,Assist,9,Laura THESTRUP,12,Stine BROLØS
+47,748178,18.58,8-7,SJE,Mål,ST,17,June BØTTGER,Assist,14,Louise ELLEBÆK,16,Louise Bak JENSEN
+48,748178,19.10,9-7,VHK,Mål,ST,19,Sara HALD,Assist,26,Christina PEDERSEN,12,Stine BROLØS
+49,748178,19.22,9-8,SJE,Mål,2:e,31,Ida-Marie DAHL,,,,16,Louise Bak JENSEN
+50,748178,20.16,10-8,VHK,Mål,VF,14,Camilla DEGN,Assist,8,Elma ÖRTEMARK,12,Stine BROLØS
+51,748178,21.18,,SJE,Skud forbi,Gbr,28,Sarah PAULSEN,,,,16,Louise Bak JENSEN
+52,748178,21.28,,VHK,Fejlaflevering,,9,Laura THESTRUP,Bold erobret,6,Lea HANSEN,,
+53,748178,21.31,10-9,SJE,Mål,1:e,6,Lea HANSEN,,,,16,Louise Bak JENSEN
+54,748178,21.36,,VHK,Time out,,,,,,,,
+55,748178,21.56,,VHK,Tilkendt straffe,,3,Alberte SIMONSEN,Forårs. str.,10,Nicoline OLSEN,,
+56,748178,22.17,11-9,VHK,Mål på straffe,,62,Louise SØNDERGAARD,,,,12,Stine BROLØS
+57,748178,23.48,,SJE,Tilkendt straffe,,31,Ida-Marie DAHL,Forårs. str.,5,Marielle MARTINSEN,,
+58,748178,23.57,,SJE,Straffekast på stolpe,,7,Melissa PETRÉN,,,,12,Ida Marie KAYSEN
+59,748178,24.26,,VHK,Skud reddet,Gbr,5,Marielle MARTINSEN,,,,12,Stine BROLØS
+60,748178,24.33,,SJE,Fejlaflevering,,6,Lea HANSEN,,,,,
+61,748178,25.04,,VHK,Skud på stolpe,VF,14,Camilla DEGN,,,,12,Stine BROLØS
+62,748178,25.44,11-10,SJE,Mål,HF,6,Lea HANSEN,Assist,28,Sarah PAULSEN,16,Louise Bak JENSEN
+63,748178,25.51,,VHK,Skud reddet,2:e,26,Christina PEDERSEN,,,,12,Stine BROLØS
+64,748178,26.20,,SJE,Skud reddet,HB,10,Nicoline OLSEN,,,,16,Louise Bak JENSEN
+65,748178,26.32,12-10,VHK,Mål,VF,14,Camilla DEGN,Assist,26,Christina PEDERSEN,12,Stine BROLØS
+66,748178,27.12,12-11,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,16,Louise Bak JENSEN
+67,748178,27.43,13-11,VHK,Mål,HB,62,Louise SØNDERGAARD,,,,12,Stine BROLØS
+68,748178,27.51,13-12,SJE,Mål,2:e,6,Lea HANSEN,Assist,22,Olivia SIMONSEN,16,Louise Bak JENSEN
+69,748178,28.11,,VHK,Skud reddet,PL,26,Christina PEDERSEN,,,,12,Stine BROLØS
+70,748178,29.25,,SJE,Skud forbi,VB,28,Sarah PAULSEN,,,,16,Louise Bak JENSEN
+71,748178,29.52,,VHK,Skud reddet,ST,3,Alberte SIMONSEN,,,,12,Stine BROLØS
+72,748178,30.00,,SJE,Skud forbi,1:e,6,Lea HANSEN,,,,16,Louise Bak JENSEN
+73,748178,30.00,13-12,,Halvleg,,,,,,,,
+74,748178,30.00,,,Start 2:e halvleg,,,,,,,,
+75,748178,30.29,,SJE,Udvisning,,22,Olivia SIMONSEN,,,,,
+76,748178,30.40,,VHK,Skud reddet,HB,62,Louise SØNDERGAARD,,,,12,Stine BROLØS
+77,748178,31.33,13-13,SJE,Mål,VB,14,Louise ELLEBÆK,,,,16,Louise Bak JENSEN
+78,748178,31.56,,VHK,Skud reddet,HF,18,Henriette HANSEN,,,,12,Stine BROLØS
+79,748178,32.36,13-14,SJE,Mål,VF,17,June BØTTGER,Assist,14,Louise ELLEBÆK,16,Louise Bak JENSEN
+80,748178,33.41,,VHK,Skud reddet,Gbr,26,Christina PEDERSEN,,,,12,Stine BROLØS
+81,748178,34.14,,SJE,Skud reddet,Gbr,14,Louise ELLEBÆK,,,,16,Louise Bak JENSEN
+82,748178,34.23,,VHK,Skud reddet,2:e,26,Christina PEDERSEN,,,,12,Stine BROLØS
+83,748178,34.52,13-15,SJE,Mål,VF,17,June BØTTGER,Assist,7,Melissa PETRÉN,16,Louise Bak JENSEN
+84,748178,35.05,,VHK,Tilkendt straffe,,5,Marielle MARTINSEN,Forårs. str.,14,Louise ELLEBÆK,,
+85,748178,35.29,14-15,VHK,Mål på straffe,,62,Louise SØNDERGAARD,,,,12,Stine BROLØS
+86,748178,36.03,,SJE,Skud på stolpe,VF,17,June BØTTGER,,,,16,Louise Bak JENSEN
+87,748178,36.14,,VHK,Skud reddet,PL,9,Laura THESTRUP,,,,12,Stine BROLØS
+88,748178,36.46,,SJE,Tilkendt straffe,,7,Melissa PETRÉN,Forårs. str.,5,Marielle MARTINSEN,,
+89,748178,37.01,,SJE,Straffekast reddet,,28,Sarah PAULSEN,,,,12,Ida Marie KAYSEN
+90,748178,37.38,,VHK,Skud på stolpe,VF,14,Camilla DEGN,,,,12,Stine BROLØS
+91,748178,38.12,,SJE,Skud reddet,ST,31,Ida-Marie DAHL,,,,16,Louise Bak JENSEN
+92,748178,38.48,15-15,VHK,Mål,Gbr,5,Marielle MARTINSEN,,,,12,Stine BROLØS
+93,748178,38.59,,SJE,Skud på stolpe,2:e,17,June BØTTGER,Retur,0,,16,Louise Bak JENSEN
+94,748178,39.27,,SJE,Regelfejl,,10,Nicoline OLSEN,,,,,
+95,748178,40.03,16-15,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,12,Stine BROLØS
+96,748178,40.10,16-16,SJE,Mål,2:e,31,Ida-Marie DAHL,,,,16,Louise Bak JENSEN
+97,748178,40.40,17-16,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,12,Stine BROLØS
+98,748178,40.50,,SJE,Skud blokeret,2:e,28,Sarah PAULSEN,Blokeret af,9,Laura THESTRUP,,
+99,748178,40.57,18-16,VHK,Mål,1:e,62,Louise SØNDERGAARD,,,,12,Stine BROLØS
+100,748178,41.10,,SJE,Skud reddet,2:e,14,Louise ELLEBÆK,,,,16,Louise Bak JENSEN
+101,748178,41.35,19-16,VHK,Mål,Gbr,77,Jana MITTÚN,,,,12,Stine BROLØS
+102,748178,41.55,,SJE,Time out,,,,,,,,
+103,748178,42.19,,SJE,Skud forbi,PL,7,Melissa PETRÉN,,,,16,Louise Bak JENSEN
+104,748178,42.55,20-16,VHK,Mål,,,,,,,,
+105,748178,43.20,,SJE,Skud på stolpe,VB,14,Louise ELLEBÆK,,,,16,Louise Bak JENSEN
+106,748178,43.48,21-16,VHK,Mål,ST,19,Sara HALD,Assist,26,Christina PEDERSEN,12,Stine BROLØS
+107,748178,44.22,,SJE,Skud reddet,HB,14,Louise ELLEBÆK,Retur,0,,16,Louise Bak JENSEN
+108,748178,44.48,,SJE,Skud på stolpe,Gbr,28,Sarah PAULSEN,,,,16,Louise Bak JENSEN
+109,748178,46.03,22-16,VHK,Mål,VB,26,Christina PEDERSEN,,,,12,Stine BROLØS
+110,748178,46.25,,SJE,Skud reddet,HF,6,Lea HANSEN,,,,16,Louise Bak JENSEN
+111,748178,46.53,,VHK,Skud forbi,HF,62,Louise SØNDERGAARD,,,,12,Stine BROLØS
+112,748178,47.18,,SJE,Tilkendt straffe,,14,Louise ELLEBÆK,Forårs. str.,19,Sara HALD,,
+113,748178,47.24,22-17,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,12,Ida Marie KAYSEN
+114,748178,47.58,23-17,VHK,Mål,VF,14,Camilla DEGN,Assist,77,Jana MITTÚN,12,Stine BROLØS
+115,748178,48.30,,SJE,Tabt bold,,28,Sarah PAULSEN,,,,,
+116,748178,48.37,,VHK,Skud reddet,1:e,77,Jana MITTÚN,Retur,0,,12,Stine BROLØS
+117,748178,49.33,24-17,VHK,Mål,Gbr,77,Jana MITTÚN,,,,12,Stine BROLØS
+118,748178,49.45,,SJE,Fejlaflevering,,28,Sarah PAULSEN,Bold erobret,19,Sara HALD,,
+119,748178,50.40,,VHK,Fejlaflevering,,77,Jana MITTÚN,Bold erobret,28,Sarah PAULSEN,,
+120,748178,50.49,24-18,SJE,Mål,2:e,31,Ida-Marie DAHL,,,,16,Louise Bak JENSEN
+121,748178,51.02,,VHK,Skud reddet,HF,62,Louise SØNDERGAARD,,,,12,Stine BROLØS
+122,748178,51.33,,SJE,Fejlaflevering,,22,Olivia SIMONSEN,,,,,
+123,748178,51.39,,VHK,Time out,,,,,,,,
+124,748178,52.07,,VHK,Tabt bold,,62,Louise SØNDERGAARD,,,,,
+125,748178,52.32,,SJE,Fejlaflevering,,14,Louise ELLEBÆK,,,,,
+126,748178,53.16,,VHK,Tabt bold,,19,Sara HALD,,,,,
+127,748178,53.25,24-19,SJE,Mål,1:e,17,June BØTTGER,,,,16,Louise Bak JENSEN
+128,748178,53.56,,VHK,Tabt bold,,77,Jana MITTÚN,Bold erobret,14,Louise ELLEBÆK,,
+129,748178,54.18,24-20,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,16,Louise Bak JENSEN
+130,748178,54.46,25-20,VHK,Mål,Gbr,5,Marielle MARTINSEN,,,,12,Stine BROLØS
+131,748178,55.13,25-21,SJE,Mål,Gbr,10,Nicoline OLSEN,,,,16,Louise Bak JENSEN
+132,748178,56.05,26-21,VHK,Mål,PL,26,Christina PEDERSEN,,,,12,Stine BROLØS
+133,748178,56.19,,SJE,Fejlaflevering,,22,Olivia SIMONSEN,,,,,
+134,748178,57.09,,VHK,Skud forbi,HB,5,Marielle MARTINSEN,,,,12,Stine BROLØS
+135,748178,57.35,,SJE,Fejlaflevering,,10,Nicoline OLSEN,Bold erobret,77,Jana MITTÚN,,
+136,748178,57.50,,VHK,Time out,,,,,,,,
+137,748178,58.07,,VHK,Skud reddet,VB,5,Marielle MARTINSEN,,,,12,Stine BROLØS
+138,748178,58.28,,SJE,Fejlaflevering,,14,Louise ELLEBÆK,,,,,
+139,748178,58.59,27-21,VHK,Mål,HF,18,Henriette HANSEN,Assist,5,Marielle MARTINSEN,12,Stine BROLØS
+140,748178,59.37,27-22,SJE,Mål,VF,17,June BØTTGER,Assist,7,Melissa PETRÉN,16,Louise Bak JENSEN
+141,748178,59.59,28-22,VHK,Mål,VB,26,Christina PEDERSEN,,,,12,Stine BROLØS

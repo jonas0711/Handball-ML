@@ -1,0 +1,140 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748694,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748694,0.36,,TMS,Skud blokeret,VB,17,Oliver WOSNIAK,Blokeret af,14,Alexander LYNGGAARD,,
+3,748694,1.30,,BSH,Skud reddet,PL,34,Morten OLSEN,Retur,0,,16,Andreas HAAGEN
+4,748694,1.33,,TMS,Advarsel,,44,Tobias TOMBAK,,,,,
+5,748694,1.48,,BSH,Fejlaflevering,,11,Rasmus LAUGE,,,,,
+6,748694,2.31,,TMS,Skud reddet,PL,5,Mark NIKOLAJSEN,,,,1,Mikkel LØVKVIST
+7,748694,2.39,1-0,BSH,Mål,2:e,4,Patrick BOLDSEN,Assist,26,Peter BALLING,16,Andreas HAAGEN
+8,748694,3.09,1-1,TMS,Mål,Gbr,17,Oliver WOSNIAK,,,,1,Mikkel LØVKVIST
+9,748694,4.05,,BSH,Fejlaflevering,,11,Rasmus LAUGE,,,,,
+10,748694,4.10,1-2,TMS,Mål,1:e,22,Axel ANDERSSON,Assist,44,Tobias TOMBAK,1,Mikkel LØVKVIST
+11,748694,4.48,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,16,Andreas HAAGEN
+12,748694,5.26,,TMS,Fejlaflevering,,7,Christoffer DREYER,,,,,
+13,748694,5.34,,BSH,Tilkendt straffe,,4,Patrick BOLDSEN,Forårs. str.,17,Oliver WOSNIAK,,
+14,748694,5.34,,TMS,Udvisning,,17,Oliver WOSNIAK,,,,,
+15,748694,5.39,2-2,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,16,Andreas HAAGEN
+16,748694,6.24,,TMS,Skud reddet,PL,19,Benjamin HALLGREN,,,,1,Mikkel LØVKVIST
+17,748694,7.04,3-2,BSH,Mål,PL,32,Nikolaj LÆSØ,,,,16,Andreas HAAGEN
+18,748694,7.55,,TMS,Skud reddet,ST,25,Anders AGGER,,,,1,Mikkel LØVKVIST
+19,748694,8.11,,BSH,Skud reddet,HF,13,Lasse SUNDE LID,,,,16,Andreas HAAGEN
+20,748694,8.43,3-3,TMS,Mål,HF,81,Tobias NIELSEN,Assist,19,Benjamin HALLGREN,1,Mikkel LØVKVIST
+21,748694,8.52,4-3,BSH,Mål,2:e,26,Peter BALLING,,,,16,Andreas HAAGEN
+22,748694,9.33,,TMS,Skud reddet,PL,7,Christoffer DREYER,,,,1,Mikkel LØVKVIST
+23,748694,10.27,5-3,BSH,Mål,ST,22,Anders ZACHARIASSEN,Assist,34,Morten OLSEN,16,Andreas HAAGEN
+24,748694,10.53,,TMS,Skud reddet,Gbr,19,Benjamin HALLGREN,,,,1,Mikkel LØVKVIST
+25,748694,11.02,6-3,BSH,Mål,2:e,26,Peter BALLING,Assist,11,Rasmus LAUGE,16,Andreas HAAGEN
+26,748694,11.10,,TMS,Time out,,,,,,,,
+27,748694,11.31,,TMS,Skud forbi,VF,22,Axel ANDERSSON,,,,1,Mikkel LØVKVIST
+28,748694,12.02,7-3,BSH,Mål,Gbr,11,Rasmus LAUGE,,,,16,Andreas HAAGEN
+29,748694,12.43,7-4,TMS,Mål,Gbr,7,Christoffer DREYER,,,,1,Mikkel LØVKVIST
+30,748694,12.50,,BSH,Regelfejl,,13,Lasse SUNDE LID,,,,,
+31,748694,13.23,7-5,TMS,Mål,PL,5,Mark NIKOLAJSEN,,,,1,Mikkel LØVKVIST
+32,748694,13.29,,BSH,Skud forbi,2:e,22,Anders ZACHARIASSEN,,0,,,
+33,748694,14.01,7-6,TMS,Mål,ST,24,Simon OOMS,Assist,44,Tobias TOMBAK,1,Mikkel LØVKVIST
+34,748694,14.39,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+35,748694,14.45,7-7,TMS,Mål,1:e,81,Tobias NIELSEN,Assist,44,Tobias TOMBAK,1,Mikkel LØVKVIST
+36,748694,14.47,,BSH,Time out,,,,,,,,
+37,748694,15.06,8-7,BSH,Mål,ST,34,Morten OLSEN,Assist,32,Nikolaj LÆSØ,16,Andreas HAAGEN
+38,748694,15.38,8-8,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,1,Mikkel LØVKVIST
+39,748694,16.25,,BSH,Skud reddet,PL,34,Morten OLSEN,,,,16,Andreas HAAGEN
+40,748694,16.51,,TMS,Skud blokeret,VB,44,Tobias TOMBAK,Blokeret af,19,René Toft HANSEN,,
+41,748694,17.02,,BSH,Regelfejl,,13,Lasse SUNDE LID,,,,,
+42,748694,17.35,8-9,TMS,Mål,VF,22,Axel ANDERSSON,Assist,10,Frederik HORN,1,Mikkel LØVKVIST
+43,748694,18.19,,BSH,Regelfejl,,34,Morten OLSEN,,,,,
+44,748694,18.57,,TMS,Skud på stolpe,Gbr,19,Benjamin HALLGREN,,,,1,Mikkel LØVKVIST
+45,748694,19.00,9-9,BSH,Mål,1:e,26,Peter BALLING,,0,,,
+46,748694,19.43,,TMS,Tilkendt straffe,,5,Mark NIKOLAJSEN,Forårs. str.,19,René Toft HANSEN,,
+47,748694,20.09,,TMS,Straffekast reddet,,81,Tobias NIELSEN,,,,1,Mikkel LØVKVIST
+48,748694,20.42,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,16,Andreas HAAGEN
+49,748694,21.32,,BSH,Advarsel,,32,Nikolaj LÆSØ,,,,,
+50,748694,22.29,,TMS,Skud blokeret,PL,7,Christoffer DREYER,Blok af (ret),14,Alexander LYNGGAARD,,
+51,748694,22.40,9-10,TMS,Mål,PL,10,Frederik HORN,,,,1,Mikkel LØVKVIST
+52,748694,23.22,10-10,BSH,Mål,HB,13,Lasse SUNDE LID,,,,16,Andreas HAAGEN
+53,748694,23.24,,TMS,Udvisning,,25,Anders AGGER,,,,,
+54,748694,23.53,,TMS,Tilkendt straffe,,5,Mark NIKOLAJSEN,Forårs. str.,26,Peter BALLING,,
+55,748694,24.04,,TMS,Straffekast reddet,,27,Victor WOLF,Retur,0,,1,Mikkel LØVKVIST
+56,748694,24.06,,TMS,Skud reddet,ST,27,Victor WOLF,,,,1,Mikkel LØVKVIST
+57,748694,24.35,,BSH,Skud forbi,PL,32,Nikolaj LÆSØ,,,,16,Andreas HAAGEN
+58,748694,25.25,,TMS,Skud reddet,PL,5,Mark NIKOLAJSEN,,,,1,Mikkel LØVKVIST
+59,748694,25.40,,BSH,Skud reddet,2:e,13,Lasse SUNDE LID,,,,16,Andreas HAAGEN
+60,748694,26.12,,TMS,Skud reddet,Gbr,15,Dines KJELDGAARD,,,,1,Mikkel LØVKVIST
+61,748694,26.18,11-10,BSH,Mål,2:e,13,Lasse SUNDE LID,,,,16,Andreas HAAGEN
+62,748694,26.51,11-11,TMS,Mål,Gbr,10,Frederik HORN,,,,1,Mikkel LØVKVIST
+63,748694,27.05,12-11,BSH,Mål,2:e,11,Rasmus LAUGE,,,,16,Andreas HAAGEN
+64,748694,27.17,12-12,TMS,Mål,2:e,81,Tobias NIELSEN,Assist,7,Christoffer DREYER,1,Mikkel LØVKVIST
+65,748694,27.40,,TMS,Advarsel,B,,Marc UHD,,,,,
+66,748694,27.52,,BSH,Skud forbi,PL,32,Nikolaj LÆSØ,,,,16,Andreas HAAGEN
+67,748694,28.23,,TMS,Tilkendt straffe,,15,Dines KJELDGAARD,Forårs. str.,19,René Toft HANSEN,,
+68,748694,28.23,,BSH,Blåt kort,,19,René Toft HANSEN,,,,,
+69,748694,28.23,12-13,TMS,Mål på straffe,,44,Tobias TOMBAK,,,,1,Mikkel LØVKVIST
+70,748694,29.25,,TMS,Udvisning,,25,Anders AGGER,,,,,
+71,748694,29.40,,BSH,Fejlaflevering,,11,Rasmus LAUGE,,,,,
+72,748694,29.44,12-14,TMS,Mål,1:e,7,Christoffer DREYER,,,,0,
+73,748694,29.56,13-14,BSH,Mål,2:e,11,Rasmus LAUGE,,,,16,Andreas HAAGEN
+74,748694,30.00,13-14,,Halvleg,,,,,,,,
+75,748694,30.00,,,Start 2:e halvleg,,,,,,,,
+76,748694,30.29,14-14,BSH,Mål,HF,26,Peter BALLING,Assist,32,Nikolaj LÆSØ,16,Andreas HAAGEN
+77,748694,31.08,,TMS,Regelfejl,,24,Simon OOMS,,,,,
+78,748694,31.32,,BSH,Skud reddet,HF,13,Lasse SUNDE LID,,,,16,Andreas HAAGEN
+79,748694,32.21,14-15,TMS,Mål,Gbr,7,Christoffer DREYER,,,,1,Mikkel LØVKVIST
+80,748694,33.03,15-15,BSH,Mål,Gbr,32,Nikolaj LÆSØ,Assist,11,Rasmus LAUGE,16,Andreas HAAGEN
+81,748694,33.45,15-16,TMS,Mål,Gbr,19,Benjamin HALLGREN,Assist,24,Simon OOMS,1,Mikkel LØVKVIST
+82,748694,34.05,16-16,BSH,Mål,PL,32,Nikolaj LÆSØ,,,,16,Andreas HAAGEN
+83,748694,34.44,,TMS,Tilkendt straffe,,24,Simon OOMS,Forårs. str.,23,Mads LENBROCH,,
+84,748694,35.07,16-17,TMS,Mål på straffe,,44,Tobias TOMBAK,,,,1,Mikkel LØVKVIST
+85,748694,35.41,,BSH,Tilkendt straffe,,32,Nikolaj LÆSØ,Forårs. str.,19,Benjamin HALLGREN,,
+86,748694,35.53,17-17,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,29,Malte EICHHORST
+87,748694,36.23,,TMS,Skud på stolpe,VF,22,Axel ANDERSSON,,,,1,Mikkel LØVKVIST
+88,748694,36.28,18-17,BSH,Mål,2:e,22,Anders ZACHARIASSEN,Assist,32,Nikolaj LÆSØ,16,Andreas HAAGEN
+89,748694,36.39,,TMS,Time out,,,,,,,,
+90,748694,37.12,,TMS,Skud på stolpe,PL,7,Christoffer DREYER,,,,1,Mikkel LØVKVIST
+91,748694,37.22,,BSH,Regelfejl,,32,Nikolaj LÆSØ,,,,,
+92,748694,37.44,18-18,TMS,Mål,HB,19,Benjamin HALLGREN,,,,1,Mikkel LØVKVIST
+93,748694,38.32,,BSH,Tilkendt straffe,,11,Rasmus LAUGE,Forårs. str.,19,Benjamin HALLGREN,,
+94,748694,38.58,19-18,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,16,Andreas HAAGEN
+95,748694,39.28,19-19,TMS,Mål,Gbr,7,Christoffer DREYER,,,,1,Mikkel LØVKVIST
+96,748694,40.09,20-19,BSH,Mål,Gbr,11,Rasmus LAUGE,,,,16,Andreas HAAGEN
+97,748694,40.20,20-20,TMS,Mål,2:e,27,Victor WOLF,Assist,44,Tobias TOMBAK,1,Mikkel LØVKVIST
+98,748694,41.01,21-20,BSH,Mål,PL,97,Magnus RAHBEK,,,,16,Andreas HAAGEN
+99,748694,41.45,21-21,TMS,Mål,Gbr,5,Mark NIKOLAJSEN,Assist,19,Benjamin HALLGREN,1,Mikkel LØVKVIST
+100,748694,41.54,,BSH,Skud på stolpe,2:e,32,Nikolaj LÆSØ,,,,16,Andreas HAAGEN
+101,748694,42.01,21-22,TMS,Mål,1:e,81,Tobias NIELSEN,Assist,24,Simon OOMS,1,Mikkel LØVKVIST
+102,748694,42.50,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,16,Andreas HAAGEN
+103,748694,43.34,,TMS,Fejlaflevering,,24,Simon OOMS,,,,,
+104,748694,43.42,22-22,BSH,Mål,,,,,,,,
+105,748694,44.15,22-23,TMS,Mål,VF,27,Victor WOLF,Assist,19,Benjamin HALLGREN,12,Kasper LARSEN
+106,748694,44.30,23-23,BSH,Mål,,97,Magnus RAHBEK,,,,16,Andreas HAAGEN
+107,748694,45.01,,TMS,Fejlaflevering,,19,Benjamin HALLGREN,,,,,
+108,748694,45.39,,BSH,Tilkendt straffe,,14,Alexander LYNGGAARD,Forårs. str.,0,,,
+109,748694,45.45,24-23,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,16,Andreas HAAGEN
+110,748694,46.20,,TMS,Skud reddet,PL,10,Frederik HORN,Retur,0,,12,Kasper LARSEN
+111,748694,46.46,24-24,TMS,Mål,PL,10,Frederik HORN,,,,12,Kasper LARSEN
+112,748694,47.18,25-24,BSH,Mål,Gbr,32,Nikolaj LÆSØ,,,,16,Andreas HAAGEN
+113,748694,48.22,,TMS,Skud reddet,PL,5,Mark NIKOLAJSEN,,,,12,Kasper LARSEN
+114,748694,48.35,26-24,BSH,Mål,,11,Rasmus LAUGE,,,,16,Andreas HAAGEN
+115,748694,48.48,,TMS,Time out,,,,,,,,
+116,748694,49.31,,TMS,Skud reddet,ST,24,Simon OOMS,,,,12,Kasper LARSEN
+117,748694,50.35,,BSH,Skud forbi,PL,11,Rasmus LAUGE,,,,16,Andreas HAAGEN
+118,748694,50.45,26-25,TMS,Mål,,24,Simon OOMS,Assist,7,Christoffer DREYER,12,Kasper LARSEN
+119,748694,51.04,,BSH,Time out,,,,,,,,
+120,748694,51.22,,BSH,Skud blokeret,PL,97,Magnus RAHBEK,Blokeret af,24,Simon OOMS,,
+121,748694,51.51,26-26,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,12,Kasper LARSEN
+122,748694,51.56,,BSH,Skud forbi,,14,Alexander LYNGGAARD,,,,0,
+123,748694,52.21,,TMS,Skud reddet,Gbr,7,Christoffer DREYER,,,,12,Kasper LARSEN
+124,748694,53.25,,BSH,Regelfejl,,14,Alexander LYNGGAARD,,,,,
+125,748694,54.08,,TMS,Skud reddet,VF,27,Victor WOLF,,,,12,Kasper LARSEN
+126,748694,54.45,,BSH,Skud forbi,VB,11,Rasmus LAUGE,,,,29,Malte EICHHORST
+127,748694,55.16,26-27,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,12,Kasper LARSEN
+128,748694,56.25,,BSH,Skud på stolpe,PL,34,Morten OLSEN,,,,29,Malte EICHHORST
+129,748694,56.57,,TMS,Skud reddet,ST,24,Simon OOMS,,,,12,Kasper LARSEN
+130,748694,57.04,27-27,BSH,Mål,,32,Nikolaj LÆSØ,,,,16,Andreas HAAGEN
+131,748694,57.32,,TMS,Fejlaflevering,,5,Mark NIKOLAJSEN,Bold erobret,22,Anders ZACHARIASSEN,,
+132,748694,57.37,,BSH,Tilkendt straffe,,32,Nikolaj LÆSØ,Forårs. str.,19,Benjamin HALLGREN,,
+133,748694,57.41,28-27,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,16,Andreas HAAGEN
+134,748694,58.22,28-28,TMS,Mål,Gbr,19,Benjamin HALLGREN,Assist,7,Christoffer DREYER,12,Kasper LARSEN
+135,748694,59.00,,BSH,Time out,,,,,,,,
+136,748694,59.12,,BSH,Skud reddet,PL,26,Peter BALLING,,,,16,Andreas HAAGEN
+137,748694,60.00,,TMS,Skud reddet,HB,7,Christoffer DREYER,,,,12,Kasper LARSEN
+138,748694,60.00,28-28,,Fuld tid,,,,,,,,
+139,748694,60.00,,,Kamp slut,,,,,,,,

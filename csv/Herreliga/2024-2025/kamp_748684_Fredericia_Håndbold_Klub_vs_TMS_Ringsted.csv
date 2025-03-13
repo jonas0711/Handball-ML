@@ -1,0 +1,105 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748684,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748684,0.35,1-0,FHK,Mål,Gbr,31,William ANDERSSON MOBERG,Assist,93,Anders MARTINUSEN,16,Andreas HAAGEN
+3,748684,1.16,1-1,TMS,Mål,Gbr,10,Frederik HORN,,,,1,Sebastian FRANDSEN
+4,748684,1.58,,FHK,Skud reddet,PL,93,Anders MARTINUSEN,,,,16,Andreas HAAGEN
+5,748684,2.27,,TMS,Skud reddet,PL,10,Frederik HORN,,,,1,Sebastian FRANDSEN
+6,748684,2.31,2-1,FHK,Mål,1:e,9,Martin BISGAARD,Assist,93,Anders MARTINUSEN,16,Andreas HAAGEN
+7,748684,2.45,,TMS,Skud reddet,ST,24,Simon OOMS,Retur,0,,1,Sebastian FRANDSEN
+8,748684,3.16,2-2,TMS,Mål,Gbr,7,Christoffer DREYER,Assist,19,Benjamin HALLGREN,1,Sebastian FRANDSEN
+9,748684,3.55,3-2,FHK,Mål,PL,97,Reinier TABOADA,,,,16,Andreas HAAGEN
+10,748684,4.36,,TMS,Fejlaflevering,,19,Benjamin HALLGREN,,,,,
+11,748684,5.26,,FHK,Fejlaflevering,,93,Anders MARTINUSEN,Bold erobret,24,Simon OOMS,,
+12,748684,5.36,3-3,TMS,Mål,Gbr,7,Christoffer DREYER,,,,1,Sebastian FRANDSEN
+13,748684,6.07,4-3,FHK,Mål,Gbr,31,William ANDERSSON MOBERG,,,,16,Andreas HAAGEN
+14,748684,6.22,,TMS,Tilkendt straffe,,10,Frederik HORN,Forårs. str.,31,William ANDERSSON MOBERG,,
+15,748684,6.44,4-4,TMS,Mål på straffe,,81,Tobias NIELSEN,,,,1,Sebastian FRANDSEN
+16,748684,7.22,5-4,FHK,Mål,PL,97,Reinier TABOADA,,,,16,Andreas HAAGEN
+17,748684,7.33,,TMS,Fejlaflevering,,7,Christoffer DREYER,,,,,
+18,748684,8.35,6-4,FHK,Mål,Gbr,93,Anders MARTINUSEN,,,,16,Andreas HAAGEN
+19,748684,9.25,,TMS,Tabt bold,,19,Benjamin HALLGREN,Bold erobret,9,Martin BISGAARD,,
+20,748684,9.59,,FHK,Skud reddet,HB,93,Anders MARTINUSEN,,,,16,Andreas HAAGEN
+21,748684,11.19,,TMS,Skud blokeret,PL,10,Frederik HORN,Blok af (ret),41,Evgeni PEVNOV,,
+22,748684,11.26,,TMS,Skud reddet,PL,2,Joachim MØLLER,,,,1,Sebastian FRANDSEN
+23,748684,11.55,,FHK,Fejlaflevering,,9,Martin BISGAARD,Bold erobret,44,Tobias TOMBAK,,
+24,748684,12.08,6-5,TMS,Mål,1:e,81,Tobias NIELSEN,,,,1,Sebastian FRANDSEN
+25,748684,12.13,7-5,FHK,Mål,1:e,97,Reinier TABOADA,,,,16,Andreas HAAGEN
+26,748684,12.27,,TMS,Fejlaflevering,,44,Tobias TOMBAK,Bold erobret,93,Anders MARTINUSEN,,
+27,748684,12.27,8-5,FHK,Mål,1:e,9,Martin BISGAARD,Assist,93,Anders MARTINUSEN,16,Andreas HAAGEN
+28,748684,12.52,8-6,TMS,Mål,Gbr,17,Oliver WOSNIAK,,,,1,Sebastian FRANDSEN
+29,748684,13.19,,TMS,Udvisning,,2,Joachim MØLLER,,,,,
+30,748684,13.29,9-6,FHK,Mål,ST,41,Evgeni PEVNOV,Assist,93,Anders MARTINUSEN,16,Andreas HAAGEN
+31,748684,14.20,,TMS,Tabt bold,,19,Benjamin HALLGREN,Bold erobret,15,Mads KJELDGAARD,,
+32,748684,14.26,10-6,FHK,Mål,1:e,9,Martin BISGAARD,,,,,
+33,748684,14.46,,TMS,Tabt bold,,10,Frederik HORN,,,,,
+34,748684,14.55,,FHK,Regelfejl,,9,Martin BISGAARD,,,,,
+35,748684,14.58,,TMS,Time out,,,,,,,,
+36,748684,15.32,,TMS,Tilkendt straffe,,10,Frederik HORN,Forårs. str.,93,Anders MARTINUSEN,,
+37,748684,15.37,10-7,TMS,Mål på straffe,,81,Tobias NIELSEN,,,,1,Sebastian FRANDSEN
+38,748684,16.47,11-7,FHK,Mål,PL,31,William ANDERSSON MOBERG,,,,16,Andreas HAAGEN
+39,748684,17.15,,TMS,Skud reddet,VB,17,Oliver WOSNIAK,,,,1,Sebastian FRANDSEN
+40,748684,17.19,12-7,FHK,Mål,1:e,20,Fredrik MOSSESTAD,Assist,,,1,Sebastian FRANDSEN
+41,748684,17.56,,TMS,Skud blokeret,PL,5,Mark NIKOLAJSEN,Blokeret af,13,Lasse BALSTAD,,
+42,748684,18.04,13-7,FHK,Mål,1:e,9,Martin BISGAARD,Assist,93,Anders MARTINUSEN,16,Andreas HAAGEN
+43,748684,18.39,,TMS,Tabt bold,,17,Oliver WOSNIAK,Bold erobret,23,Einar ÓLAFSSON,,
+44,748684,18.45,14-7,FHK,Mål,1:e,9,Martin BISGAARD,Assist,15,Mads KJELDGAARD,16,Andreas HAAGEN
+45,748684,18.49,,TMS,Time out,,,,,,,,
+46,748684,19.09,,TMS,Skud reddet,HF,81,Tobias NIELSEN,,,,1,Sebastian FRANDSEN
+47,748684,19.21,,FHK,Skud blokeret,1:e,23,Einar ÓLAFSSON,Blokeret af,44,Tobias TOMBAK,,
+48,748684,19.45,,TMS,Skud forbi,Gbr,7,Christoffer DREYER,,,,1,Sebastian FRANDSEN
+49,748684,20.14,15-7,FHK,Mål,Gbr,31,William ANDERSSON MOBERG,,,,29,Rasmus LARSEN
+50,748684,21.20,,FHK,Advarsel,,13,Lasse BALSTAD,,,,,
+51,748684,21.36,,TMS,Skud reddet,HF,81,Tobias NIELSEN,,,,1,Sebastian FRANDSEN
+52,748684,22.05,,FHK,Regelfejl,,4,Nikolaj NIELSEN,,,,,
+53,748684,22.09,,TMS,Tabt bold,,2,Joachim MØLLER,Bold erobret,31,William ANDERSSON MOBERG,,
+54,748684,22.37,,FHK,Fejlaflevering,,15,Mads KJELDGAARD,Bold erobret,44,Tobias TOMBAK,,
+55,748684,22.43,15-8,TMS,Mål,2:e,27,Victor WOLF,Assist,7,Christoffer DREYER,1,Sebastian FRANDSEN
+56,748684,22.53,,FHK,Time out,,,,,,,,
+57,748684,23.16,16-8,FHK,Mål,PL,3,Jonas Kruse KRISTENSEN,,,,29,Rasmus LARSEN
+58,748684,23.37,16-9,TMS,Mål,PL,44,Tobias TOMBAK,,,,1,Sebastian FRANDSEN
+59,748684,24.28,,FHK,Regelfejl,,15,Mads KJELDGAARD,,,,,
+60,748684,25.02,,TMS,Tilkendt straffe,,44,Tobias TOMBAK,Forårs. str.,93,Anders MARTINUSEN,,
+61,748684,25.07,16-10,TMS,Mål på straffe,,81,Tobias NIELSEN,,,,16,Thorsten FRIES
+62,748684,25.20,17-10,FHK,Mål,VF,9,Martin BISGAARD,Assist,3,Jonas Kruse KRISTENSEN,29,Rasmus LARSEN
+63,748684,25.30,,TMS,Fejlaflevering,,44,Tobias TOMBAK,,,,,
+64,748684,25.59,18-10,FHK,Mål,1:e,20,Fredrik MOSSESTAD,Assist,93,Anders MARTINUSEN,0,
+65,748684,27.09,,TMS,Skud reddet,Gbr,5,Mark NIKOLAJSEN,,,,1,Sebastian FRANDSEN
+66,748684,27.38,,FHK,Skud reddet,PL,3,Jonas Kruse KRISTENSEN,,,,16,Andreas HAAGEN
+67,748684,27.42,18-11,TMS,Mål,1:e,81,Tobias NIELSEN,Assist,,,16,Andreas HAAGEN
+68,748684,28.10,,FHK,Regelfejl,,93,Anders MARTINUSEN,,,,,
+69,748684,28.34,,TMS,Regelfejl,,7,Christoffer DREYER,,,,,
+70,748684,28.42,19-11,FHK,Mål,2:e,9,Martin BISGAARD,Assist,23,Einar ÓLAFSSON,16,Andreas HAAGEN
+71,748684,29.13,,TMS,Tilkendt straffe,,44,Tobias TOMBAK,Forårs. str.,23,Einar ÓLAFSSON,,
+72,748684,29.13,,FHK,Udvisning,,23,Einar ÓLAFSSON,,,,,
+73,748684,29.16,19-12,TMS,Mål på straffe,,81,Tobias NIELSEN,,,,16,Thorsten FRIES
+74,748684,29.42,20-12,FHK,Mål,Gbr,3,Jonas Kruse KRISTENSEN,,,,16,Andreas HAAGEN
+75,748684,29.49,,TMS,Skud forbi,1:e,7,Christoffer DREYER,,,,1,Sebastian FRANDSEN
+76,748684,30.00,,FHK,Skud blokeret,VB,3,Jonas Kruse KRISTENSEN,Blokeret af,81,Tobias NIELSEN,,
+77,748684,30.00,,,Halvleg,,,,,,,,
+78,748684,30.00,,,Start 2:e halvleg,,,,,,,,
+79,748684,30.12,20-13,TMS,Mål,HF,81,Tobias NIELSEN,Assist,19,Benjamin HALLGREN,1,Sebastian FRANDSEN
+80,748684,30.54,21-13,FHK,Mål,PL,93,Anders MARTINUSEN,,,,16,Andreas HAAGEN
+81,748684,31.12,21-14,TMS,Mål,PL,17,Oliver WOSNIAK,,,,1,Sebastian FRANDSEN
+82,748684,32.11,,FHK,Skud på stolpe,ST,4,Nikolaj NIELSEN,,,,16,Andreas HAAGEN
+83,748684,32.20,21-15,TMS,Mål,2:e,24,Simon OOMS,Assist,19,Benjamin HALLGREN,1,Sebastian FRANDSEN
+84,748684,32.55,,FHK,Fejlaflevering,,31,William ANDERSSON MOBERG,,,,,
+85,748684,32.58,,TMS,Fejlaflevering,,16,Andreas HAAGEN,Bold erobret,93,Anders MARTINUSEN,,
+86,748684,33.02,22-15,FHK,Mål,2:e,4,Nikolaj NIELSEN,Assist,93,Anders MARTINUSEN,16,Andreas HAAGEN
+87,748684,33.42,22-16,TMS,Mål,PL,17,Oliver WOSNIAK,,,,1,Sebastian FRANDSEN
+88,748684,34.12,23-16,FHK,Mål,Gbr,97,Reinier TABOADA,,,,16,Andreas HAAGEN
+89,748684,34.50,23-17,TMS,Mål,PL,19,Benjamin HALLGREN,,,,1,Sebastian FRANDSEN
+90,748684,34.55,24-17,FHK,Mål,1:e,93,Anders MARTINUSEN,,,,0,
+91,748684,35.27,,TMS,Fejlaflevering,,19,Benjamin HALLGREN,Bold erobret,20,Fredrik MOSSESTAD,,
+92,748684,35.31,25-17,FHK,Mål,1:e,20,Fredrik MOSSESTAD,,,,0,
+93,748684,36.35,,TMS,Regelfejl,,27,Victor WOLF,,,,,
+94,748684,36.42,,FHK,Tabt bold,,97,Reinier TABOADA,,,,,
+95,748684,37.39,,TMS,Tabt bold,,7,Christoffer DREYER,Bold erobret,13,Lasse BALSTAD,,
+96,748684,37.44,26-17,FHK,Mål,1:e,23,Einar ÓLAFSSON,Assist,93,Anders MARTINUSEN,16,Andreas HAAGEN
+97,748684,38.48,,TMS,Skud reddet,PL,10,Frederik HORN,,,,1,Sebastian FRANDSEN
+98,748684,39.24,27-17,FHK,Mål,Gbr,31,William ANDERSSON MOBERG,,,,16,Andreas HAAGEN
+99,748684,39.40,,TMS,Skud på stolpe,ST,2,Joachim MØLLER,,,,1,Sebastian FRANDSEN
+100,748684,40.18,,FHK,Skud på stolpe,HF,20,Fredrik MOSSESTAD,,,,16,Andreas HAAGEN
+101,748684,40.28,27-18,TMS,Mål,2:e,81,Tobias NIELSEN,Assist,44,Tobias TOMBAK,1,Sebastian FRANDSEN
+102,748684,40.44,,FHK,Skud forbi,PL,97,Reinier TABOADA,,,,16,Andreas HAAGEN
+103,748684,41.54,27-19,TMS,Mål,PL,7,Christoffer DREYER,,,,1,Sebastian FRANDSEN
+104,748684,42.02,,,,,,,,,,,

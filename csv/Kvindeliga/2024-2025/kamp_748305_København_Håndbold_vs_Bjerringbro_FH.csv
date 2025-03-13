@@ -1,0 +1,138 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748305,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748305,0.36,0-1,BFH,Mål,ST,19,Rikke Dahl NIELSEN,Assist,72,Line FRANDSEN,20,Anne Christine BOSSEN
+3,748305,1.30,,KBH,Regelfejl,,15,Emma NAVNE,,,,,
+4,748305,1.59,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+5,748305,2.15,,KBH,Fejlaflevering,,11,Martha NICKELSEN,,,,,
+6,748305,2.21,,BFH,Regelfejl,,31,Marianne HAUGSTED,,,,,
+7,748305,3.20,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+8,748305,3.58,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,,,,,
+9,748305,4.11,1-1,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,20,Clara BAK
+10,748305,4.46,1-2,BFH,Mål,ST,18,Sidsel POULSEN,Assist,72,Line FRANDSEN,20,Anne Christine BOSSEN
+11,748305,5.18,,KBH,Skud på stolpe,VB,11,Martha NICKELSEN,,,,20,Clara BAK
+12,748305,5.41,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+13,748305,6.13,,KBH,Skud reddet,HB,21,Helene KINDBERG,,,,20,Clara BAK
+14,748305,6.57,,BFH,Regelfejl,,72,Line FRANDSEN,,,,,
+15,748305,7.19,2-2,KBH,Mål,HF,9,Ditte BACH,Assist,21,Helene KINDBERG,20,Clara BAK
+16,748305,7.49,,BFH,Fejlaflevering,,11,Arlinda HAJDARI,Bold erobret,17,Tabea SCHMID,,
+17,748305,7.54,3-2,KBH,Mål,1:e,10,Pernille BRANDENBORG,,,,0,
+18,748305,8.29,3-3,BFH,Mål,Gbr,72,Line FRANDSEN,Assist,11,Arlinda HAJDARI,20,Anne Christine BOSSEN
+19,748305,8.36,,KBH,Fejlaflevering,,17,Tabea SCHMID,,,,,
+20,748305,9.10,,BFH,Skud reddet,Gbr,11,Arlinda HAJDARI,,,,20,Anne Christine BOSSEN
+21,748305,9.24,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+22,748305,9.53,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+23,748305,9.58,,KBH,Skud på stolpe,1:e,10,Pernille BRANDENBORG,,,,0,
+24,748305,10.22,,BFH,Skud reddet,Gbr,7,Line GYLDENLØVE,,,,20,Anne Christine BOSSEN
+25,748305,10.26,4-3,KBH,Mål,1:e,10,Pernille BRANDENBORG,,,,0,
+26,748305,10.57,4-4,BFH,Mål,HF,44,Louise HALD,Assist,11,Arlinda HAJDARI,20,Anne Christine BOSSEN
+27,748305,11.50,,KBH,Regelfejl,,22,Stine JØRGENSEN,,,,,
+28,748305,12.44,,BFH,Skud reddet,PL,72,Line FRANDSEN,,,,20,Anne Christine BOSSEN
+29,748305,13.34,5-4,KBH,Mål,VF,7,Emilie YTTING,Assist,11,Martha NICKELSEN,20,Clara BAK
+30,748305,14.08,,BFH,Skud reddet,Gbr,72,Line FRANDSEN,,,,20,Anne Christine BOSSEN
+31,748305,14.18,6-4,KBH,Mål,2:e,9,Ditte BACH,Assist,21,Helene KINDBERG,20,Clara BAK
+32,748305,14.50,6-5,BFH,Mål,Gbr,11,Arlinda HAJDARI,,,,20,Anne Christine BOSSEN
+33,748305,15.03,,KBH,Fejlaflevering,,11,Martha NICKELSEN,,,,,
+34,748305,15.55,,BFH,Regelfejl,,7,Line GYLDENLØVE,,,,,
+35,748305,16.05,7-5,KBH,Mål,2:e,7,Emilie YTTING,Assist,22,Stine JØRGENSEN,20,Clara BAK
+36,748305,16.57,,BFH,Skud reddet,ST,18,Sidsel POULSEN,,,,20,Anne Christine BOSSEN
+37,748305,17.29,,KBH,Time out,,,,,,,,
+38,748305,17.29,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,19,Rikke Dahl NIELSEN,,
+39,748305,17.30,8-5,KBH,Mål på straffe,,17,Tabea SCHMID,,,,20,Clara BAK
+40,748305,18.01,,BFH,Regelfejl,,20,Clara BAK,,,,,
+41,748305,18.04,9-5,KBH,Mål,2:e,21,Helene KINDBERG,,,,20,Clara BAK
+42,748305,18.50,,BFH,Tabt bold,,10,Melina KRISTENSEN,,,,,
+43,748305,19.15,,KBH,Fejlaflevering,,11,Martha NICKELSEN,Bold erobret,19,Rikke Dahl NIELSEN,,
+44,748305,19.39,9-6,BFH,Mål,Gbr,25,Laura JENSEN,,,,20,Anne Christine BOSSEN
+45,748305,20.01,10-6,KBH,Mål,VB,22,Stine JØRGENSEN,,,,20,Clara BAK
+46,748305,20.25,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,Bold erobret,7,Emilie YTTING,,
+47,748305,20.55,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,18,Sidsel POULSEN,,
+48,748305,21.04,11-6,KBH,Mål på straffe,,17,Tabea SCHMID,,,,24,Josephine NORDSTRØM
+49,748305,21.35,,BFH,Skud reddet,Gbr,72,Line FRANDSEN,,,,20,Anne Christine BOSSEN
+50,748305,21.47,,KBH,Skud forbi,1:e,22,Stine JØRGENSEN,,,,0,
+51,748305,22.13,,BFH,Skud reddet,VF,25,Laura JENSEN,,,,20,Anne Christine BOSSEN
+52,748305,22.38,,KBH,Regelfejl,,22,Stine JØRGENSEN,,,,,
+53,748305,22.39,,KBH,Udvisning,,22,Stine JØRGENSEN,,,,,
+54,748305,23.13,11-7,BFH,Mål,VB,7,Line GYLDENLØVE,,,,20,Anne Christine BOSSEN
+55,748305,24.01,,KBH,Skud reddet,VF,6,Freja COHRT,,,,20,Clara BAK
+56,748305,24.20,11-8,BFH,Mål,Gbr,7,Line GYLDENLØVE,,,,20,Anne Christine BOSSEN
+57,748305,25.02,,KBH,Passivt spil,,0,,,,,,
+58,748305,25.48,,BFH,Skud på stolpe,Gbr,25,Laura JENSEN,,,,20,Anne Christine BOSSEN
+59,748305,25.56,,KBH,Fejlaflevering,,21,Helene KINDBERG,,,,,
+60,748305,26.57,,BFH,Tilkendt straffe,,5,Sofie LUND,Forårs. str.,17,Tabea SCHMID,,
+61,748305,27.02,11-9,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,20,Anne Christine BOSSEN
+62,748305,27.31,,KBH,Fejlaflevering,,22,Stine JØRGENSEN,,,,,
+63,748305,27.35,11-10,BFH,Mål,1:e,10,Melina KRISTENSEN,Assist,72,Line FRANDSEN,20,Anne Christine BOSSEN
+64,748305,28.14,,KBH,Skud reddet,Gbr,22,Stine JØRGENSEN,,,,20,Clara BAK
+65,748305,28.42,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+66,748305,28.47,,KBH,Tilkendt straffe,,6,Freja COHRT,Forårs. str.,21,Emma ERNST,,
+67,748305,28.47,,BFH,Udvisning,,21,Emma ERNST,,,,,
+68,748305,28.51,12-10,KBH,Mål på straffe,,17,Tabea SCHMID,,,,20,Clara BAK
+69,748305,29.22,,BFH,Time out,,,,,,,,
+70,748305,29.35,,BFH,Skud reddet,VB,25,Laura JENSEN,,,,20,Anne Christine BOSSEN
+71,748305,29.54,,KBH,Skud reddet,HF,9,Ditte BACH,Retur,0,,20,Clara BAK
+72,748305,30.00,12-10,,Halvleg,,,,,,,,
+73,748305,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748305,30.19,13-10,KBH,Mål,HF,9,Ditte BACH,Assist,21,Helene KINDBERG,20,Clara BAK
+75,748305,31.01,,BFH,Tilkendt straffe,,4,Emilie BANGSHØI,Forårs. str.,9,Ditte BACH,,
+76,748305,31.01,,KBH,Udvisning,,9,Ditte BACH,,,,,
+77,748305,31.04,13-11,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,2,Bianca SCHANSSEMA
+78,748305,32.03,,KBH,Skud reddet,HF,7,Emilie YTTING,,,,20,Clara BAK
+79,748305,32.43,13-12,BFH,Mål,HB,11,Arlinda HAJDARI,,,,2,Bianca SCHANSSEMA
+80,748305,33.28,,KBH,Skud forbi,Gbr,21,Helene KINDBERG,,,,20,Clara BAK
+81,748305,33.59,13-13,BFH,Mål,VB,31,Marianne HAUGSTED,,,,2,Bianca SCHANSSEMA
+82,748305,34.14,,KBH,Tabt bold,,15,Emma NAVNE,,,,,
+83,748305,34.21,13-14,BFH,Mål,1:e,29,Sara LILHOLT,,,,2,Bianca SCHANSSEMA
+84,748305,34.52,14-14,KBH,Mål,ST,17,Tabea SCHMID,Assist,22,Stine JØRGENSEN,20,Clara BAK
+85,748305,35.44,,BFH,Skud reddet,PL,72,Line FRANDSEN,,,,2,Bianca SCHANSSEMA
+86,748305,35.55,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+87,748305,36.19,,BFH,Skud reddet,Gbr,31,Marianne HAUGSTED,,,,2,Bianca SCHANSSEMA
+88,748305,36.30,15-14,KBH,Mål,Gbr,22,Stine JØRGENSEN,,,,20,Clara BAK
+89,748305,37.13,,BFH,Skud reddet,VB,31,Marianne HAUGSTED,,,,2,Bianca SCHANSSEMA
+90,748305,37.22,16-14,KBH,Mål,PL,15,Emma NAVNE,,,,20,Clara BAK
+91,748305,38.27,16-15,BFH,Mål,PL,72,Line FRANDSEN,,,,2,Bianca SCHANSSEMA
+92,748305,38.47,,KBH,Skud reddet,Gbr,22,Stine JØRGENSEN,,,,20,Clara BAK
+93,748305,39.32,,BFH,Skud på stolpe,PL,25,Laura JENSEN,,,,2,Bianca SCHANSSEMA
+94,748305,40.10,,KBH,Skud reddet,HF,9,Ditte BACH,,,,20,Clara BAK
+95,748305,41.10,,BFH,Regelfejl,,25,Laura JENSEN,,,,,
+96,748305,41.34,17-15,KBH,Mål,Gbr,21,Helene KINDBERG,Assist,22,Stine JØRGENSEN,20,Clara BAK
+97,748305,42.19,17-16,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,72,Line FRANDSEN,2,Bianca SCHANSSEMA
+98,748305,42.47,18-16,KBH,Mål,ST,17,Tabea SCHMID,Assist,22,Stine JØRGENSEN,20,Clara BAK
+99,748305,43.15,18-17,BFH,Mål,Gbr,25,Laura JENSEN,,,,2,Bianca SCHANSSEMA
+100,748305,43.25,19-17,KBH,Mål,2:e,22,Stine JØRGENSEN,Assist,21,Helene KINDBERG,20,Clara BAK
+101,748305,44.00,19-18,BFH,Mål,Gbr,25,Laura JENSEN,,,,2,Bianca SCHANSSEMA
+102,748305,44.45,,KBH,Skud forbi,HB,21,Helene KINDBERG,,,,20,Clara BAK
+103,748305,45.17,,BFH,Tilkendt straffe,,25,Laura JENSEN,Forårs. str.,10,Pernille BRANDENBORG,,
+104,748305,45.38,19-19,BFH,Mål på straffe,,,,,,,,
+105,748305,46.17,,KBH,Fejlaflevering,,22,Stine JØRGENSEN,,,,,
+106,748305,46.25,19-20,BFH,Mål,1:e,4,Emilie BANGSHØI,,,,,
+107,748305,47.09,,KBH,Skud på stolpe,Gbr,4,Catharina MOLENAAR,,,,20,Clara BAK
+108,748305,47.40,,BFH,Skud reddet,Gbr,21,Emma ERNST,,,,20,Anne Christine BOSSEN
+109,748305,48.20,20-20,KBH,Mål,VF,7,Emilie YTTING,Assist,4,Catharina MOLENAAR,20,Clara BAK
+110,748305,48.48,20-21,BFH,Mål,Gbr,7,Line GYLDENLØVE,,,,20,Anne Christine BOSSEN
+111,748305,49.12,,KBH,Fejlaflevering,,15,Emma NAVNE,Bold erobret,4,Emilie BANGSHØI,,
+112,748305,49.15,20-22,BFH,Mål,1:e,4,Emilie BANGSHØI,,,,,
+113,748305,49.33,,KBH,Skud reddet,HF,9,Ditte BACH,,,,20,Clara BAK
+114,748305,50.08,20-23,BFH,Mål,VB,25,Laura JENSEN,,,,20,Anne Christine BOSSEN
+115,748305,50.15,,KBH,Time out,,,,,,,,
+116,748305,50.32,21-23,KBH,Mål,Gbr,21,Helene KINDBERG,,,,20,Clara BAK
+117,748305,51.37,,BFH,Skud forbi,PL,72,Line FRANDSEN,,,,20,Anne Christine BOSSEN
+118,748305,51.44,22-23,KBH,Mål,2:e,7,Emilie YTTING,Assist,4,Catharina MOLENAAR,20,Clara BAK
+119,748305,52.30,22-24,BFH,Mål,Gbr,72,Line FRANDSEN,,,,20,Anne Christine BOSSEN
+120,748305,52.38,23-24,KBH,Mål,1:e,10,Pernille BRANDENBORG,,,,,
+121,748305,53.09,,BFH,Skud på stolpe,HF,10,Melina KRISTENSEN,,,,20,Anne Christine BOSSEN
+122,748305,53.38,24-24,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,20,Clara BAK
+123,748305,53.49,,BFH,Time out,,,,,,,,
+124,748305,54.15,,BFH,Skud reddet,Gbr,25,Laura JENSEN,Retur,0,,20,Anne Christine BOSSEN
+125,748305,54.58,,BFH,Regelfejl,,19,Rikke Dahl NIELSEN,,,,,
+126,748305,55.32,,KBH,Tilkendt straffe,,4,Catharina MOLENAAR,Forårs. str.,11,Arlinda HAJDARI,,
+127,748305,55.37,25-24,KBH,Mål på straffe,,17,Tabea SCHMID,,,,20,Clara BAK
+128,748305,56.07,25-25,BFH,Mål,Gbr,7,Line GYLDENLØVE,,,,20,Anne Christine BOSSEN
+129,748305,56.50,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+130,748305,57.32,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+131,748305,57.37,26-25,KBH,Mål,2:e,21,Helene KINDBERG,,,,20,Clara BAK
+132,748305,58.06,26-26,BFH,Mål,Gbr,7,Line GYLDENLØVE,,,,20,Anne Christine BOSSEN
+133,748305,58.39,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+134,748305,59.07,26-27,BFH,Mål,ST,18,Sidsel POULSEN,Assist,72,Line FRANDSEN,20,Anne Christine BOSSEN
+135,748305,59.16,,KBH,Fejlaflevering,,10,Pernille BRANDENBORG,Bold erobret,25,Laura JENSEN,,
+136,748305,59.33,,BFH,Time out,,,,,,,,
+137,748305,59.52,26-28,BFH,Mål,ST,7,Line GYLDENLØVE,Assist,25,Laura JENSEN,20,Anne Christine BOSSEN

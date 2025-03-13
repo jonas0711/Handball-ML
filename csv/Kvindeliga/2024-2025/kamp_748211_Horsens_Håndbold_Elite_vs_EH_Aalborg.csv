@@ -1,0 +1,144 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748211,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748211,0.39,1-0,HHE,Mål,PL,11,Fanny ELOVSSON,,,,16,Johanne GRAUGAARD
+3,748211,0.55,,EHA,Skud reddet,Gbr,21,Frederikke GULMARK,,,,16,Andrea AUSTMO
+4,748211,1.05,2-0,HHE,Mål,2:e,21,Romee MAARSCHALKEWEERD,Assist,11,Fanny ELOVSSON,16,Johanne GRAUGAARD
+5,748211,1.56,2-1,EHA,Mål,PL,23,Silje BRØNS,,,,16,Andrea AUSTMO
+6,748211,2.51,3-1,HHE,Mål,PL,14,Mai KRAGBALLE,,,,16,Johanne GRAUGAARD
+7,748211,3.30,,EHA,Skud reddet,Gbr,5,Anna Hviid BANG,Retur,0,,16,Andrea AUSTMO
+8,748211,3.54,,EHA,Skud på stolpe,Gbr,23,Silje BRØNS,,,,16,Andrea AUSTMO
+9,748211,4.02,,HHE,Skud på stolpe,1:e,9,Annika MEYER,,,,16,Johanne GRAUGAARD
+10,748211,4.11,3-2,EHA,Mål,2:e,23,Silje BRØNS,,,,16,Andrea AUSTMO
+11,748211,4.25,,HHE,Fejlaflevering,,11,Fanny ELOVSSON,,,,,
+12,748211,5.02,,EHA,Skud reddet,HB,5,Anna Hviid BANG,,,,16,Andrea AUSTMO
+13,748211,5.36,,HHE,Tilkendt straffe,,10,Mathilda LUNDSTRØM,Forårs. str.,30,Clara LERBY,,
+14,748211,5.36,,EHA,Udvisning,,30,Clara LERBY,,,,,
+15,748211,5.38,4-2,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,16,Johanne GRAUGAARD
+16,748211,6.14,4-3,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,16,Andrea AUSTMO
+17,748211,6.40,5-3,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,16,Johanne GRAUGAARD
+18,748211,7.26,5-4,EHA,Mål,Gbr,23,Silje BRØNS,,,,16,Andrea AUSTMO
+19,748211,7.40,6-4,HHE,Mål,2:e,33,Laura Holm ANDERSEN,Assist,14,Mai KRAGBALLE,16,Johanne GRAUGAARD
+20,748211,8.08,,EHA,Skud blokeret,PL,23,Silje BRØNS,Blok af (ret),11,Fanny ELOVSSON,,
+21,748211,8.33,,EHA,Tabt bold,,21,Frederikke GULMARK,,,,,
+22,748211,8.38,,HHE,Fejlaflevering,,16,Andrea AUSTMO,,,,,
+23,748211,9.23,6-5,EHA,Mål,PL,23,Silje BRØNS,,,,16,Andrea AUSTMO
+24,748211,10.09,,HHE,Skud reddet,PL,19,Frida Haug HOEL,,,,16,Johanne GRAUGAARD
+25,748211,10.20,6-6,EHA,Mål,2:e,10,Sofie LASSEN,,,,16,Andrea AUSTMO
+26,748211,11.15,7-6,HHE,Mål,VB,11,Fanny ELOVSSON,,,,16,Johanne GRAUGAARD
+27,748211,11.28,,EHA,Tabt bold,,4,Cecilie TERMANSEN,,,,,
+28,748211,11.33,8-6,HHE,Mål,2:e,9,Annika MEYER,Assist,19,Frida Haug HOEL,16,Johanne GRAUGAARD
+29,748211,12.09,8-7,EHA,Mål,Gbr,23,Silje BRØNS,,,,16,Andrea AUSTMO
+30,748211,12.46,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,,,,,
+31,748211,12.57,8-8,EHA,Mål,2:e,30,Clara LERBY,Assist,10,Sofie LASSEN,16,Andrea AUSTMO
+32,748211,13.51,,HHE,Skud på stolpe,ST,9,Annika MEYER,,,,16,Johanne GRAUGAARD
+33,748211,14.00,8-9,EHA,Mål,1:e,7,Marlene DAHLMANN,Assist,21,Frederikke GULMARK,16,Andrea AUSTMO
+34,748211,15.01,,HHE,Skud reddet,HB,19,Frida Haug HOEL,,,,16,Johanne GRAUGAARD
+35,748211,15.38,,EHA,Tilkendt straffe,,5,Anna Hviid BANG,Forårs. str.,14,Mai KRAGBALLE,,
+36,748211,15.54,,EHA,Straffekast reddet,,30,Clara LERBY,,,,16,Andrea AUSTMO
+37,748211,16.37,9-9,HHE,Mål,HF,10,Mathilda LUNDSTRØM,Assist,19,Frida Haug HOEL,16,Johanne GRAUGAARD
+38,748211,16.48,9-10,EHA,Mål,2:e,30,Clara LERBY,Assist,10,Sofie LASSEN,16,Andrea AUSTMO
+39,748211,17.02,,HHE,Skud på stolpe,Gbr,27,Annette WIRÉN LARSEN,,,,16,Johanne GRAUGAARD
+40,748211,17.40,,HHE,Advarsel,,11,Fanny ELOVSSON,,,,,
+41,748211,17.58,,EHA,Regelfejl,,22,Mirja LYNGSØ,,,,,
+42,748211,18.41,,EHA,Udvisning,,22,Mirja LYNGSØ,,,,,
+43,748211,19.03,10-10,HHE,Mål,VF,33,Laura Holm ANDERSEN,Assist,19,Frida Haug HOEL,16,Johanne GRAUGAARD
+44,748211,19.36,,EHA,Tilkendt straffe,,23,Silje BRØNS,Forårs. str.,3,Alma SKRETTING,,
+45,748211,19.42,10-11,EHA,Mål på straffe,,30,Clara LERBY,,,,16,Andrea AUSTMO
+46,748211,20.20,,HHE,Tilkendt straffe,,19,Frida Haug HOEL,Forårs. str.,30,Clara LERBY,,
+47,748211,20.24,11-11,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,16,Johanne GRAUGAARD
+48,748211,20.59,,EHA,Tabt bold,,21,Frederikke GULMARK,Bold erobret,19,Frida Haug HOEL,,
+49,748211,21.05,,HHE,Skud reddet,1:e,10,Mathilda LUNDSTRØM,,,,16,Johanne GRAUGAARD
+50,748211,21.50,,EHA,Skud reddet,Gbr,21,Frederikke GULMARK,,,,16,Andrea AUSTMO
+51,748211,21.58,,HHE,Skud blokeret,1:e,19,Frida Haug HOEL,Blok af (ret),4,Cecilie TERMANSEN,,
+52,748211,22.36,12-11,HHE,Mål,VB,27,Annette WIRÉN LARSEN,,,,16,Johanne GRAUGAARD
+53,748211,22.45,12-12,EHA,Mål,2:e,21,Frederikke GULMARK,,,,16,Andrea AUSTMO
+54,748211,22.56,,EHA,Udvisning,,4,Cecilie TERMANSEN,,,,,
+55,748211,23.10,,HHE,Skud blokeret,PL,14,Mai KRAGBALLE,Blokeret af,10,Sofie LASSEN,,
+56,748211,23.47,12-13,EHA,Mål,VB,21,Frederikke GULMARK,,,,16,Andrea AUSTMO
+57,748211,24.16,13-13,HHE,Mål,Gbr,39,Melanie BAK,,,,16,Johanne GRAUGAARD
+58,748211,24.49,13-14,EHA,Mål,ST,22,Mirja LYNGSØ,Assist,23,Silje BRØNS,16,Andrea AUSTMO
+59,748211,25.32,,HHE,Skud blokeret,PL,27,Annette WIRÉN LARSEN,Blokeret af,10,Sofie LASSEN,,
+60,748211,25.37,13-15,EHA,Mål,1:e,30,Clara LERBY,Assist,21,Frederikke GULMARK,16,Andrea AUSTMO
+61,748211,25.39,,HHE,Time out,,,,,,,,
+62,748211,26.01,,HHE,Regelfejl,,14,Mai KRAGBALLE,,,,,
+63,748211,26.40,,EHA,Tilkendt straffe,,21,Frederikke GULMARK,Forårs. str.,19,Frida Haug HOEL,,
+64,748211,26.52,13-16,EHA,Mål på straffe,,23,Silje BRØNS,,,,1,Mathilde BISGAARD
+65,748211,27.40,,HHE,Skud reddet,PL,11,Fanny ELOVSSON,,,,16,Johanne GRAUGAARD
+66,748211,28.18,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+67,748211,28.53,14-16,HHE,Mål,HF,10,Mathilda LUNDSTRØM,Assist,19,Frida Haug HOEL,16,Johanne GRAUGAARD
+68,748211,29.10,,EHA,Time out,,,,,,,,
+69,748211,29.29,,EHA,Skud reddet,HB,5,Anna Hviid BANG,Retur,30,Clara LERBY,16,Andrea AUSTMO
+70,748211,29.49,,HHE,Udvisning,,21,Romee MAARSCHALKEWEERD,,,,,
+71,748211,29.57,,EHA,Skud reddet,HF,7,Marlene DAHLMANN,,,,16,Andrea AUSTMO
+72,748211,30.00,14-16,,Halvleg,,,,,,,,
+73,748211,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748211,30.17,14-17,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,16,Andrea AUSTMO
+75,748211,30.54,,HHE,Fejlaflevering,,11,Fanny ELOVSSON,,,,,
+76,748211,31.10,,EHA,Fejlaflevering,,16,Johanne GRAUGAARD,,,,,
+77,748211,31.34,15-17,HHE,Mål,PL,19,Frida Haug HOEL,,,,16,Johanne GRAUGAARD
+78,748211,31.43,,EHA,Skud reddet,2:e,30,Clara LERBY,,,,16,Andrea AUSTMO
+79,748211,32.09,16-17,HHE,Mål,PL,11,Fanny ELOVSSON,,,,16,Johanne GRAUGAARD
+80,748211,32.49,,EHA,Tabt bold,,5,Anna Hviid BANG,Bold erobret,21,Romee MAARSCHALKEWEERD,,
+81,748211,32.58,,HHE,Tilkendt straffe,,9,Annika MEYER,Forårs. str.,21,Frederikke GULMARK,,
+82,748211,33.17,,HHE,Straffekast reddet,,14,Mai KRAGBALLE,,,,16,Johanne GRAUGAARD
+83,748211,33.50,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+84,748211,34.02,17-17,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,11,Fanny ELOVSSON,16,Johanne GRAUGAARD
+85,748211,34.02,,EHA,Udvisning,,23,Silje BRØNS,,,,,
+86,748211,34.31,,EHA,Tilkendt straffe,,21,Frederikke GULMARK,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+87,748211,34.31,,HHE,Udvisning,,21,Romee MAARSCHALKEWEERD,,,,,
+88,748211,34.34,17-18,EHA,Mål på straffe,,30,Clara LERBY,,,,16,Andrea AUSTMO
+89,748211,35.06,18-18,HHE,Mål,HF,10,Mathilda LUNDSTRØM,Assist,7,Maria Palsdottir NÓLSOY,16,Johanne GRAUGAARD
+90,748211,35.38,,EHA,Skud forbi,ST,9,Camilla THORHAUGE,,,,16,Andrea AUSTMO
+91,748211,36.00,19-18,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,,,,16,Johanne GRAUGAARD
+92,748211,36.26,,EHA,Fejlaflevering,,5,Anna Hviid BANG,Bold erobret,27,Annette WIRÉN LARSEN,,
+93,748211,37.14,,HHE,Skud på stolpe,ST,3,Alma SKRETTING,,,,16,Johanne GRAUGAARD
+94,748211,37.26,,EHA,Time out,,,,,,,,
+95,748211,37.47,,EHA,Fejlaflevering,,23,Silje BRØNS,Bold erobret,33,Laura Holm ANDERSEN,,
+96,748211,38.28,,HHE,Skud forbi,VB,11,Fanny ELOVSSON,,,,16,Johanne GRAUGAARD
+97,748211,39.26,19-19,EHA,Mål,Gbr,23,Silje BRØNS,,,,16,Andrea AUSTMO
+98,748211,39.39,,HHE,Skud forbi,2:e,10,Mathilda LUNDSTRØM,,,,16,Johanne GRAUGAARD
+99,748211,40.55,,EHA,Skud reddet,PL,21,Frederikke GULMARK,,,,16,Andrea AUSTMO
+100,748211,41.04,,HHE,Skud blokeret,1:e,11,Fanny ELOVSSON,Blokeret af,4,Cecilie TERMANSEN,,
+101,748211,41.31,,EHA,Fejlaflevering,,23,Silje BRØNS,Bold erobret,10,Mathilda LUNDSTRØM,,
+102,748211,41.35,20-19,HHE,Mål,1:e,10,Mathilda LUNDSTRØM,,,,,
+103,748211,42.14,,EHA,Skud forbi,VB,21,Frederikke GULMARK,,,,16,Andrea AUSTMO
+104,748211,43.22,,EHA,Fejlaflevering,,21,Frederikke GULMARK,Bold erobret,33,Laura Holm ANDERSEN,,
+105,748211,43.29,,HHE,Fejlaflevering,,11,Fanny ELOVSSON,Bold erobret,30,Clara LERBY,,
+106,748211,44.04,20-20,EHA,Mål,Gbr,21,Frederikke GULMARK,,,,16,Andrea AUSTMO
+107,748211,44.36,,HHE,Regelfejl,,7,Maria Palsdottir NÓLSOY,,,,,
+108,748211,44.42,,EHA,Fejlaflevering,,16,Johanne GRAUGAARD,,,,,
+109,748211,44.52,,HHE,Skud forbi,1:e,10,Mathilda LUNDSTRØM,,,,16,Johanne GRAUGAARD
+110,748211,45.44,,EHA,Skud på stolpe,PL,23,Silje BRØNS,,,,16,Andrea AUSTMO
+111,748211,46.43,,HHE,Skud reddet,PL,14,Mai KRAGBALLE,,,,16,Johanne GRAUGAARD
+112,748211,47.18,,EHA,Skud reddet,PL,23,Silje BRØNS,,,,16,Andrea AUSTMO
+113,748211,47.22,21-20,HHE,Mål,1:e,10,Mathilda LUNDSTRØM,Assist,27,Annette WIRÉN LARSEN,,
+114,748211,47.56,21-21,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,23,Silje BRØNS,16,Andrea AUSTMO
+115,748211,48.09,,HHE,Skud reddet,PL,27,Annette WIRÉN LARSEN,,,,16,Johanne GRAUGAARD
+116,748211,48.14,21-22,EHA,Mål,1:e,7,Marlene DAHLMANN,Assist,16,Johanne GRAUGAARD,16,Andrea AUSTMO
+117,748211,48.32,,HHE,Time out,,,,,,,,
+118,748211,48.49,,HHE,Skud reddet,Gbr,7,Maria Palsdottir NÓLSOY,Retur,0,,16,Johanne GRAUGAARD
+119,748211,49.13,,HHE,Fejlaflevering,,19,Frida Haug HOEL,,,,,
+120,748211,49.54,,EHA,Skud reddet,VF,30,Clara LERBY,,,,16,Andrea AUSTMO
+121,748211,50.01,22-22,HHE,Mål,2:e,11,Fanny ELOVSSON,,,,16,Johanne GRAUGAARD
+122,748211,50.43,,EHA,Tilkendt straffe,,4,Cecilie TERMANSEN,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+123,748211,50.50,,EHA,Straffekast på stolpe,,23,Silje BRØNS,,,,16,Andrea AUSTMO
+124,748211,51.47,23-22,HHE,Mål,Gbr,19,Frida Haug HOEL,,,,16,Johanne GRAUGAARD
+125,748211,52.28,,EHA,Fejlaflevering,,23,Silje BRØNS,Bold erobret,33,Laura Holm ANDERSEN,,
+126,748211,53.12,,HHE,Fejlaflevering,,19,Frida Haug HOEL,Bold erobret,10,Sofie LASSEN,,
+127,748211,53.18,23-23,EHA,Mål,1:e,30,Clara LERBY,Assist,10,Sofie LASSEN,16,Andrea AUSTMO
+128,748211,54.15,24-23,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,19,Frida Haug HOEL,16,Johanne GRAUGAARD
+129,748211,54.25,,EHA,Skud reddet,2:e,10,Sofie LASSEN,,,,16,Andrea AUSTMO
+130,748211,55.00,,HHE,Skud forbi,PL,11,Fanny ELOVSSON,,,,16,Johanne GRAUGAARD
+131,748211,55.11,,EHA,Skud forbi,2:e,23,Silje BRØNS,,,,16,Andrea AUSTMO
+132,748211,55.23,,HHE,Skud forbi,2:e,10,Mathilda LUNDSTRØM,,,,16,Johanne GRAUGAARD
+133,748211,55.57,24-24,EHA,Mål,PL,21,Frederikke GULMARK,,,,16,Andrea AUSTMO
+134,748211,57.01,25-24,HHE,Mål,Gbr,19,Frida Haug HOEL,,,,16,Johanne GRAUGAARD
+135,748211,57.38,25-25,EHA,Mål,PL,5,Anna Hviid BANG,,,,16,Andrea AUSTMO
+136,748211,57.45,26-25,HHE,Mål,1:e,14,Mai KRAGBALLE,,,,16,Johanne GRAUGAARD
+137,748211,58.15,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+138,748211,58.20,27-25,HHE,Mål,1:e,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,16,Johanne GRAUGAARD
+139,748211,58.54,27-26,EHA,Mål,VB,21,Frederikke GULMARK,,,,16,Andrea AUSTMO
+140,748211,59.20,,HHE,Time out,,,,,,,,
+141,748211,59.40,,HHE,Skud reddet,PL,14,Mai KRAGBALLE,,,,16,Johanne GRAUGAARD
+142,748211,59.49,27-27,EHA,Mål,2:e,10,Sofie LASSEN,,,,16,Andrea AUSTMO
+143,748211,59.58,,HHE,Skud reddet,2:e,14,Mai KRAGBALLE,,,,16,Johanne GRAUGAARD

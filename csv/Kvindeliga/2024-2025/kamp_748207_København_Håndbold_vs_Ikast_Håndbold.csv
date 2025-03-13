@@ -1,0 +1,149 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748207,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748207,0.34,,KBH,Skud reddet,HF,5,Clara SKØTT,,,,12,Filippa IDÉHN
+3,748207,0.50,,IKA,Tilkendt straffe,,14,Emma LINDQVIST,Forårs. str.,15,Emma NAVNE,,
+4,748207,0.54,,IKA,Straffekast på stolpe,,51,Markéta JERÁBKOVÁ,,,,2,Bianca SCHANSSEMA
+5,748207,1.38,,IKA,Advarsel,,14,Emma LINDQVIST,,,,,
+6,748207,2.07,,IKA,Udvisning,,11,Sarah Aaberg IVERSEN,,,,,
+7,748207,2.26,,KBH,Skud reddet,HF,5,Clara SKØTT,,,,12,Filippa IDÉHN
+8,748207,2.57,,IKA,Skud reddet,Gbr,7,Stine SKOGRAND,,,,20,Anne Christine BOSSEN
+9,748207,3.04,1-0,KBH,Mål,1:e,15,Emma NAVNE,,,,,
+10,748207,3.29,1-1,IKA,Mål,VB,21,Ingvild BAKKERUD,,,,20,Anne Christine BOSSEN
+11,748207,3.49,,KBH,Skud reddet,VB,22,Stine JØRGENSEN,,,,12,Filippa IDÉHN
+12,748207,4.16,1-2,IKA,Mål,Gbr,21,Ingvild BAKKERUD,,,,20,Anne Christine BOSSEN
+13,748207,5.12,2-2,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,22,Stine JØRGENSEN,12,Filippa IDÉHN
+14,748207,5.43,,IKA,Skud reddet,VB,21,Ingvild BAKKERUD,Retur,0,,20,Anne Christine BOSSEN
+15,748207,6.01,,IKA,Skud reddet,Gbr,21,Ingvild BAKKERUD,,,,20,Anne Christine BOSSEN
+16,748207,6.09,3-2,KBH,Mål,2:e,21,Helene KINDBERG,Assist,15,Emma NAVNE,12,Filippa IDÉHN
+17,748207,6.28,,IKA,Tilkendt straffe,,7,Stine SKOGRAND,Forårs. str.,7,Emilie Ytting PEDERSEN,,
+18,748207,6.36,,IKA,Straffekast reddet,,51,Markéta JERÁBKOVÁ,,,,2,Bianca SCHANSSEMA
+19,748207,7.19,,KBH,Regelfejl,,21,Helene KINDBERG,,,,,
+20,748207,7.51,,IKA,Regelfejl,,11,Sarah Aaberg IVERSEN,,,,,
+21,748207,8.05,,KBH,Tilkendt straffe,,22,Stine JØRGENSEN,Forårs. str.,7,Stine SKOGRAND,,
+22,748207,8.28,4-2,KBH,Mål på straffe,,22,Stine JØRGENSEN,,,,12,Filippa IDÉHN
+23,748207,8.56,4-3,IKA,Mål,Gbr,21,Ingvild BAKKERUD,,,,20,Anne Christine BOSSEN
+24,748207,9.46,,KBH,Skud på stolpe,VB,15,Emma NAVNE,,,,12,Filippa IDÉHN
+25,748207,9.53,4-4,IKA,Mål,2:e,14,Emma LINDQVIST,Assist,7,Stine SKOGRAND,20,Anne Christine BOSSEN
+26,748207,10.28,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+27,748207,11.18,4-5,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,21,Ingvild BAKKERUD,20,Anne Christine BOSSEN
+28,748207,11.54,,KBH,Fejlaflevering,,22,Stine JØRGENSEN,Bold erobret,7,Stine SKOGRAND,,
+29,748207,12.25,4-6,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,21,Ingvild BAKKERUD,20,Anne Christine BOSSEN
+30,748207,13.04,5-6,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,15,Emma NAVNE,12,Filippa IDÉHN
+31,748207,13.40,,IKA,Skud reddet,Gbr,21,Ingvild BAKKERUD,Retur,11,Sarah Aaberg IVERSEN,20,Anne Christine BOSSEN
+32,748207,13.46,5-7,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,,,,20,Anne Christine BOSSEN
+33,748207,14.15,,KBH,Skud reddet,VB,22,Stine JØRGENSEN,,,,12,Filippa IDÉHN
+34,748207,14.45,5-8,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,20,Anne Christine BOSSEN
+35,748207,14.55,6-8,KBH,Mål,2:e,5,Clara SKØTT,Assist,15,Emma NAVNE,12,Filippa IDÉHN
+36,748207,15.11,,KBH,Advarsel,,22,Stine JØRGENSEN,,,,,
+37,748207,15.38,6-9,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,20,Anne Christine BOSSEN
+38,748207,15.52,,KBH,Skud reddet,2:e,22,Stine JØRGENSEN,,,,12,Filippa IDÉHN
+39,748207,16.01,6-10,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,21,Ingvild BAKKERUD,20,Anne Christine BOSSEN
+40,748207,16.08,,KBH,Time out,,,,,,,,
+41,748207,16.29,,KBH,Skud reddet,HB,21,Helene KINDBERG,,,,12,Filippa IDÉHN
+42,748207,16.40,6-11,IKA,Mål,Gbr,14,Emma LINDQVIST,,,,20,Anne Christine BOSSEN
+43,748207,17.18,7-11,KBH,Mål,HF,5,Clara SKØTT,Assist,22,Stine JØRGENSEN,12,Filippa IDÉHN
+44,748207,17.55,,IKA,Fejlaflevering,,51,Markéta JERÁBKOVÁ,Bold erobret,22,Stine JØRGENSEN,,
+45,748207,18.00,,KBH,Skud reddet,2:e,5,Clara SKØTT,,,,12,Filippa IDÉHN
+46,748207,18.47,7-12,IKA,Mål,Gbr,51,Markéta JERÁBKOVÁ,Assist,22,Lærke NOLSØE,20,Anne Christine BOSSEN
+47,748207,19.27,,KBH,Fejlaflevering,,22,Stine JØRGENSEN,,,,,
+48,748207,20.01,,KBH,Udvisning,,22,Stine JØRGENSEN,,,,,
+49,748207,20.01,,KBH,Advarsel,B,,Bo SPELLERBERG,,,,,
+50,748207,20.22,,IKA,Tilkendt straffe,,7,Stine SKOGRAND,Forårs. str.,15,Emma NAVNE,,
+51,748207,20.26,,IKA,Straffekast forbi,,7,Stine SKOGRAND,,,,2,Bianca SCHANSSEMA
+52,748207,21.54,,KBH,Passivt spil,,0,,,,,,
+53,748207,22.06,,IKA,Skud reddet,PL,51,Markéta JERÁBKOVÁ,Retur,18,Maria LYKKEGAARD,20,Anne Christine BOSSEN
+54,748207,22.11,7-13,IKA,Mål,ST,18,Maria LYKKEGAARD,,,,20,Anne Christine BOSSEN
+55,748207,22.43,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,12,Filippa IDÉHN
+56,748207,22.51,7-14,IKA,Mål,1:e,21,Ingvild BAKKERUD,,,,0,
+57,748207,23.16,8-14,KBH,Mål,PL,15,Emma NAVNE,,,,12,Filippa IDÉHN
+58,748207,23.22,8-15,IKA,Mål,1:e,14,Emma LINDQVIST,,,,0,
+59,748207,23.48,,KBH,Fejlaflevering,,21,Helene KINDBERG,,,,,
+60,748207,24.15,8-16,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,20,Anne Christine BOSSEN
+61,748207,24.25,9-16,KBH,Mål,2:e,21,Helene KINDBERG,,,,12,Filippa IDÉHN
+62,748207,24.32,9-17,IKA,Mål,2:e,21,Ingvild BAKKERUD,,,,20,Anne Christine BOSSEN
+63,748207,25.17,10-17,KBH,Mål,Gbr,4,Catharina MOLENAAR,,,,12,Filippa IDÉHN
+64,748207,25.22,10-18,IKA,Mål,1:e,21,Ingvild BAKKERUD,,,,0,
+65,748207,25.49,,IKA,Udvisning,,7,Stine SKOGRAND,,,,,
+66,748207,26.04,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+67,748207,26.36,10-19,IKA,Mål,PL,51,Markéta JERÁBKOVÁ,,,,20,Anne Christine BOSSEN
+68,748207,27.19,,KBH,Skud forbi,VB,4,Catharina MOLENAAR,,,,12,Filippa IDÉHN
+69,748207,28.07,,IKA,Skud reddet,PL,51,Markéta JERÁBKOVÁ,,,,20,Anne Christine BOSSEN
+70,748207,28.35,11-19,KBH,Mål,Gbr,21,Helene KINDBERG,Assist,15,Emma NAVNE,12,Filippa IDÉHN
+71,748207,28.45,,IKA,Skud reddet,1:e,21,Ingvild BAKKERUD,,,,20,Anne Christine BOSSEN
+72,748207,29.03,,KBH,Tilkendt straffe,,21,Helene KINDBERG,Forårs. str.,18,Maria LYKKEGAARD,,
+73,748207,29.24,12-19,KBH,Mål på straffe,,22,Stine JØRGENSEN,,,,12,Filippa IDÉHN
+74,748207,29.44,,IKA,Time out,,,,,,,,
+75,748207,29.56,12-20,IKA,Mål,Gbr,7,Stine SKOGRAND,Assist,21,Ingvild BAKKERUD,20,Anne Christine BOSSEN
+76,748207,30.00,12-20,,Halvleg,,,,,,,,
+77,748207,30.00,,,Start 2:e halvleg,,,,,,,,
+78,748207,30.29,12-21,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,21,Ingvild BAKKERUD,20,Anne Christine BOSSEN
+79,748207,30.53,13-21,KBH,Mål,HF,9,Ditte BACH,Assist,21,Helene KINDBERG,12,Filippa IDÉHN
+80,748207,31.28,13-22,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,21,Ingvild BAKKERUD,20,Anne Christine BOSSEN
+81,748207,32.10,,KBH,Skud reddet,HF,9,Ditte BACH,,,,12,Filippa IDÉHN
+82,748207,32.21,,IKA,Skud reddet,HF,77,Line Mai HOUGAARD,,,,20,Anne Christine BOSSEN
+83,748207,33.24,,KBH,Skud blokeret,HB,21,Helene KINDBERG,Blokeret af,14,Emma LINDQVIST,,
+84,748207,33.34,13-23,IKA,Mål,2:e,11,Sarah Aaberg IVERSEN,,,,20,Anne Christine BOSSEN
+85,748207,33.53,14-23,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,22,Stine JØRGENSEN,12,Filippa IDÉHN
+86,748207,34.31,14-24,IKA,Mål,Gbr,21,Ingvild BAKKERUD,,,,20,Anne Christine BOSSEN
+87,748207,34.54,,KBH,Skud forbi,PL,15,Emma NAVNE,,,,12,Filippa IDÉHN
+88,748207,35.05,14-25,IKA,Mål,1:e,12,Filippa IDÉHN,,,,0,
+89,748207,35.33,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,Retur,10,Pernille BRANDENBORG,12,Filippa IDÉHN
+90,748207,35.39,15-25,KBH,Mål,ST,10,Pernille BRANDENBORG,,,,12,Filippa IDÉHN
+91,748207,36.13,,IKA,Tilkendt straffe,,14,Emma LINDQVIST,Forårs. str.,10,Pernille BRANDENBORG,,
+92,748207,36.17,,IKA,Straffekast reddet,,6,Cecilie BRANDT,,,,2,Bianca SCHANSSEMA
+93,748207,36.42,16-25,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,22,Stine JØRGENSEN,12,Filippa IDÉHN
+94,748207,37.36,,IKA,Skud på stolpe,PL,21,Ingvild BAKKERUD,Retur,22,Lærke NOLSØE,2,Bianca SCHANSSEMA
+95,748207,37.42,16-26,IKA,Mål,VF,22,Lærke NOLSØE,,,,2,Bianca SCHANSSEMA
+96,748207,38.24,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,11,Sarah Aaberg IVERSEN,,
+97,748207,38.29,17-26,KBH,Mål på straffe,,22,Stine JØRGENSEN,,,,1,Irma SCHJÖTT
+98,748207,39.23,17-27,IKA,Mål,VB,21,Ingvild BAKKERUD,Assist,14,Emma LINDQVIST,2,Bianca SCHANSSEMA
+99,748207,39.35,18-27,KBH,Mål,HF,9,Ditte BACH,Assist,21,Helene KINDBERG,12,Filippa IDÉHN
+100,748207,40.06,18-28,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,14,Emma LINDQVIST,2,Bianca SCHANSSEMA
+101,748207,40.33,19-28,KBH,Mål,ST,17,Tabea SCHMID,Assist,22,Stine JØRGENSEN,12,Filippa IDÉHN
+102,748207,40.44,19-29,IKA,Mål,1:e,21,Ingvild BAKKERUD,,,,0,
+103,748207,41.01,20-29,KBH,Mål,HF,9,Ditte BACH,Assist,15,Emma NAVNE,12,Filippa IDÉHN
+104,748207,41.30,20-30,IKA,Mål,,,,,,,,
+105,748207,41.41,21-30,KBH,Mål,PL,15,Emma NAVNE,,,,12,Filippa IDÉHN
+106,748207,41.54,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,Bold erobret,9,Ditte BACH,,
+107,748207,42.01,22-30,KBH,Mål,1:e,9,Ditte BACH,,,,12,Filippa IDÉHN
+108,748207,42.26,22-31,IKA,Mål,PL,21,Ingvild BAKKERUD,,,,2,Bianca SCHANSSEMA
+109,748207,42.52,,IKA,Udvisning,,11,Sarah Aaberg IVERSEN,,,,,
+110,748207,43.32,,KBH,Fejlaflevering,,22,Stine JØRGENSEN,,,,,
+111,748207,44.03,22-32,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,2,Bianca SCHANSSEMA
+112,748207,44.28,23-32,KBH,Mål,VF,6,Freja COHRT,Assist,22,Stine JØRGENSEN,1,Irma SCHJÖTT
+113,748207,45.10,23-33,IKA,Mål,HF,77,Line Mai HOUGAARD,Assist,7,Stine SKOGRAND,2,Bianca SCHANSSEMA
+114,748207,45.23,24-33,KBH,Mål,PL,15,Emma NAVNE,,,,1,Irma SCHJÖTT
+115,748207,45.55,24-34,IKA,Mål,ST,77,Line Mai HOUGAARD,Assist,21,Ingvild BAKKERUD,2,Bianca SCHANSSEMA
+116,748207,46.27,25-34,KBH,Mål,Gbr,21,Helene KINDBERG,,,,1,Irma SCHJÖTT
+117,748207,46.42,,IKA,Regelfejl,,7,Stine SKOGRAND,,,,,
+118,748207,47.10,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+119,748207,47.42,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,,,,,
+120,748207,48.07,26-34,KBH,Mål,Gbr,21,Helene KINDBERG,Assist,15,Emma NAVNE,1,Irma SCHJÖTT
+121,748207,48.19,,IKA,Time out,,,,,,,,
+122,748207,49.40,26-35,IKA,Mål,PL,51,Markéta JERÁBKOVÁ,,,,2,Bianca SCHANSSEMA
+123,748207,49.53,,KBH,Skud forbi,HF,9,Ditte BACH,,,,1,Irma SCHJÖTT
+124,748207,50.19,26-36,IKA,Mål,PL,7,Stine SKOGRAND,,,,2,Bianca SCHANSSEMA
+125,748207,50.30,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+126,748207,51.13,,IKA,Tilkendt straffe,,18,Maria LYKKEGAARD,Forårs. str.,10,Pernille BRANDENBORG,,
+127,748207,51.28,26-37,IKA,Mål på straffe,,51,Markéta JERÁBKOVÁ,,,,2,Bianca SCHANSSEMA
+128,748207,52.11,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,1,Irma SCHJÖTT
+129,748207,52.17,26-38,IKA,Mål,1:e,18,Maria LYKKEGAARD,,,,2,Bianca SCHANSSEMA
+130,748207,52.52,27-38,KBH,Mål,Gbr,22,Stine JØRGENSEN,,,,1,Irma SCHJÖTT
+131,748207,53.28,,IKA,Skud forbi,VB,14,Emma LINDQVIST,,,,2,Bianca SCHANSSEMA
+132,748207,53.56,28-38,KBH,Mål,ST,17,Tabea SCHMID,Assist,4,Catharina MOLENAAR,1,Irma SCHJÖTT
+133,748207,54.47,,IKA,Skud forbi,PL,51,Markéta JERÁBKOVÁ,,,,2,Bianca SCHANSSEMA
+134,748207,55.15,,KBH,Skud reddet,VF,6,Freja COHRT,Retur,0,,1,Irma SCHJÖTT
+135,748207,55.39,,KBH,Skud forbi,Gbr,4,Catharina MOLENAAR,,,,1,Irma SCHJÖTT
+136,748207,56.23,28-39,IKA,Mål,Gbr,51,Markéta JERÁBKOVÁ,,,,2,Bianca SCHANSSEMA
+137,748207,57.03,,KBH,Skud reddet,Gbr,22,Stine JØRGENSEN,,,,1,Irma SCHJÖTT
+138,748207,57.26,,IKA,Fejlaflevering,,51,Markéta JERÁBKOVÁ,,,,,
+139,748207,57.31,29-39,KBH,Mål,1:e,6,Freja COHRT,,,,1,Irma SCHJÖTT
+140,748207,58.02,29-40,IKA,Mål,Gbr,10,Sofia STENHOLT,,,,2,Bianca SCHANSSEMA
+141,748207,58.12,,KBH,Skud reddet,1:e,15,Emma NAVNE,,,,1,Irma SCHJÖTT
+142,748207,58.36,,IKA,Fejlaflevering,,51,Markéta JERÁBKOVÁ,,,,,
+143,748207,58.46,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+144,748207,58.59,,IKA,Skud reddet,Gbr,51,Markéta JERÁBKOVÁ,,,,2,Bianca SCHANSSEMA
+145,748207,59.05,30-40,KBH,Mål,1:e,4,Catharina MOLENAAR,,,,0,
+146,748207,59.28,30-41,IKA,Mål,VF,2,Matilde KONDRUP NIELSEN,Assist,14,Emma LINDQVIST,2,Bianca SCHANSSEMA
+147,748207,60.00,30-41,,Fuld tid,,,,,,,,
+148,748207,60.00,,,Kamp slut,,,,,,,,

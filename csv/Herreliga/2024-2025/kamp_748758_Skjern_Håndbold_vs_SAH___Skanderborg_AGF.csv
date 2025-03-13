@@ -1,0 +1,134 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748758,0.48,,SAH,Skud reddet,HB,3,Kristjan ÖRN KRISTJANSSON,,,,1,Christoffer BONDE
+2,748758,0.57,1-0,SKH,Mål,1:e,13,Noah GAUDIN,,,,12,Magnus BRANDBYGE
+3,748758,1.18,,SAH,Skud reddet,2:e,0,,,,,1,Christoffer BONDE
+4,748758,2.22,,SKH,Skud forbi,ST,14,Emil BERGHOLT,,,,12,Magnus BRANDBYGE
+5,748758,2.23,,SAH,Udvisning,,19,Thor CHRISTENSEN,,,,,
+6,748758,3.06,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+7,748758,3.36,2-0,SKH,Mål,Gbr,13,Noah GAUDIN,,,,12,Magnus BRANDBYGE
+8,748758,4.35,,SAH,Skud reddet,HB,3,Kristjan ÖRN KRISTJANSSON,Retur,0,,1,Christoffer BONDE
+9,748758,4.45,2-1,SAH,Mål,ST,3,Kristjan ÖRN KRISTJANSSON,,,,1,Christoffer BONDE
+10,748758,5.11,,SKH,Skud blokeret,PL,13,Noah GAUDIN,Blok af (ret),28,Morten KAALUND,,
+11,748758,5.31,3-1,SKH,Mål,ST,21,René RASMUSSEN,Assist,13,Noah GAUDIN,12,Magnus BRANDBYGE
+12,748758,5.39,3-2,SAH,Mål,1:e,23,Morten Hempel JENSEN,,,,1,Christoffer BONDE
+13,748758,6.37,,SKH,Tilkendt straffe,,22,Jakob RASMUSSEN,Forårs. str.,3,Kristjan ÖRN KRISTJANSSON,,
+14,748758,6.37,,SAH,Udvisning,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+15,748758,6.40,4-2,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,12,Magnus BRANDBYGE
+16,748758,7.10,,SAH,Regelfejl,,7,Jonatan MOLLERUP,,,,,
+17,748758,7.49,,SKH,Fejlaflevering,,13,Noah GAUDIN,,,,,
+18,748758,8.39,,SAH,Skud reddet,PL,23,Morten Hempel JENSEN,,,,1,Christoffer BONDE
+19,748758,9.30,,SKH,Regelfejl,,13,Noah GAUDIN,,,,,
+20,748758,9.37,4-3,SAH,Mål,2:e,6,Kristian BONEFELD,,,,1,Christoffer BONDE
+21,748758,9.50,5-3,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,12,Magnus BRANDBYGE
+22,748758,10.41,,SAH,Skud reddet,PL,3,Kristjan ÖRN KRISTJANSSON,,,,1,Christoffer BONDE
+23,748758,10.54,,SKH,Regelfejl,,10,Joaquim NAZARÉ,,,,,
+24,748758,11.01,,SAH,Skud på stolpe,2:e,25,Jeppe CIESLAK,,,,1,Christoffer BONDE
+25,748758,11.30,,SKH,Fejlaflevering,,13,Noah GAUDIN,,,,,
+26,748758,12.03,5-4,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,32,Fredrik OLSSON,1,Christoffer BONDE
+27,748758,12.36,6-4,SKH,Mål,PL,13,Noah GAUDIN,,,,12,Magnus BRANDBYGE
+28,748758,13.06,,SAH,Skud blokeret,HB,3,Kristjan ÖRN KRISTJANSSON,Blok af (ret),7,Senjamin BURIC,,
+29,748758,13.29,6-5,SAH,Mål,ST,25,Jeppe CIESLAK,Assist,3,Kristjan ÖRN KRISTJANSSON,1,Christoffer BONDE
+30,748758,13.44,,SKH,Tilkendt straffe,,7,Senjamin BURIC,Forårs. str.,19,Thor CHRISTENSEN,,
+31,748758,13.56,,SKH,Straffekast reddet,,15,Lasse MIKKELSEN,,,,1,Kristoffer LAURSEN
+32,748758,14.39,,SKH,Udvisning,,10,Joaquim NAZARÉ,,,,,
+33,748758,14.54,6-6,SAH,Mål,HF,11,Mikkel LANG,Assist,23,Morten Hempel JENSEN,1,Christoffer BONDE
+34,748758,15.29,7-6,SKH,Mål,Gbr,2,Mads BJERGFELT,,,,1,Kristoffer LAURSEN
+35,748758,15.33,,SAH,Skud blokeret,2:e,11,Mikkel LANG,Blokeret af,7,Senjamin BURIC,,
+36,748758,16.25,,SKH,Tabt bold,,7,Senjamin BURIC,,,,,
+37,748758,16.29,7-7,SAH,Mål,1:e,3,Kristjan ÖRN KRISTJANSSON,,,,1,Christoffer BONDE
+38,748758,17.32,,SKH,Tilkendt straffe,,7,Senjamin BURIC,Forårs. str.,25,Jeppe CIESLAK,,
+39,748758,17.36,,SAH,Advarsel,,25,Jeppe CIESLAK,,,,,
+40,748758,17.55,,SKH,Straffekast reddet,,15,Lasse MIKKELSEN,,,,1,Kristoffer LAURSEN
+41,748758,18.28,,SAH,Regelfejl,,28,Morten KAALUND,,,,,
+42,748758,18.35,,SKH,Skud reddet,PL,2,Mads BJERGFELT,,,,1,Kristoffer LAURSEN
+43,748758,19.05,,SAH,Skud reddet,HB,32,Fredrik OLSSON,,,,1,Christoffer BONDE
+44,748758,19.24,,SKH,Fejlaflevering,,25,Eivind TANGEN,,,,,
+45,748758,19.51,,SAH,Regelfejl,,32,Fredrik OLSSON,,,,,
+46,748758,20.24,,SKH,Tilkendt straffe,,13,Noah GAUDIN,Forårs. str.,19,Thor CHRISTENSEN,,
+47,748758,20.50,8-7,SKH,Mål på straffe,,10,Joaquim NAZARÉ,,,,1,Kristoffer LAURSEN
+48,748758,21.19,,SAH,Tilkendt straffe,,32,Fredrik OLSSON,Forårs. str.,2,Mads BJERGFELT,,
+49,748758,21.42,,SAH,Straffekast på stolpe,,23,Morten Hempel JENSEN,,,,1,Christoffer BONDE
+50,748758,22.48,9-7,SKH,Mål,HB,25,Eivind TANGEN,,,,1,Kristoffer LAURSEN
+51,748758,23.27,9-8,SAH,Mål,PL,23,Morten Hempel JENSEN,,,,1,Christoffer BONDE
+52,748758,23.38,,SKH,Tilkendt straffe,,2,Mads BJERGFELT,Forårs. str.,19,Thor CHRISTENSEN,,
+53,748758,24.04,,SKH,Straffekast reddet,,10,Joaquim NAZARÉ,,,,1,Kristoffer LAURSEN
+54,748758,25.03,9-9,SAH,Mål,VF,25,Jeppe CIESLAK,,,,1,Christoffer BONDE
+55,748758,25.17,,SKH,Time out,,,,,,,,
+56,748758,26.30,,SKH,Skud blokeret,VB,2,Mads BJERGFELT,Blok af (ret),11,Mikkel LANG,,
+57,748758,26.49,,SKH,Passivt spil,,,,,,,,
+58,748758,27.15,,SAH,Skud reddet,VB,20,Morten BALLING,,,,1,Christoffer BONDE
+59,748758,27.46,10-9,SKH,Mål,HB,13,Noah GAUDIN,,,,1,Kristoffer LAURSEN
+60,748758,28.06,,SAH,Time out,,,,,,,,
+61,748758,28.45,10-10,SAH,Mål,HB,23,Morten Hempel JENSEN,,,,1,Christoffer BONDE
+62,748758,29.40,,SKH,Skud reddet,Gbr,22,Jakob RASMUSSEN,,,,1,Kristoffer LAURSEN
+63,748758,30.00,,SAH,Skud blokeret,HB,23,Morten Hempel JENSEN,Blokeret af,21,René RASMUSSEN,,
+64,748758,30.00,10-10,,Halvleg,,,,,,,,
+65,748758,30.00,,,Start 2:e halvleg,,,,,,,,
+66,748758,30.34,,SAH,Skud reddet,Gbr,,,,,,1,Christoffer BONDE
+67,748758,31.00,11-10,SKH,Mål,VB,13,Noah GAUDIN,,,,1,Kristoffer LAURSEN
+68,748758,31.12,,SAH,Regelfejl,,19,Thor CHRISTENSEN,,,,,
+69,748758,31.58,,SKH,Fejlaflevering,,2,Mads BJERGFELT,,,,,
+70,748758,32.03,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+71,748758,32.26,,SKH,Skud reddet,VB,13,Noah GAUDIN,,,,1,Kristoffer LAURSEN
+72,748758,33.07,,SAH,Skud reddet,VB,32,Fredrik OLSSON,,,,1,Christoffer BONDE
+73,748758,33.22,,SKH,Skud reddet,PL,13,Noah GAUDIN,Retur,,,1,Kristoffer LAURSEN
+74,748758,34.03,12-10,SKH,Mål,VF,5,Viktor BERGHOLT,Assist,13,Noah GAUDIN,1,Kristoffer LAURSEN
+75,748758,34.41,12-11,SAH,Mål,HF,11,Mikkel LANG,Assist,3,Kristjan ÖRN KRISTJANSSON,1,Christoffer BONDE
+76,748758,35.42,13-11,SKH,Mål,HB,10,Joaquim NAZARÉ,,,,1,Kristoffer LAURSEN
+77,748758,36.25,,SAH,Skud reddet,HB,3,Kristjan ÖRN KRISTJANSSON,,,,1,Christoffer BONDE
+78,748758,37.14,,SKH,Skud reddet,Gbr,22,Jakob RASMUSSEN,,,,1,Kristoffer LAURSEN
+79,748758,37.19,13-12,SAH,Mål,1:e,3,Kristjan ÖRN KRISTJANSSON,,,,1,Christoffer BONDE
+80,748758,37.57,,SAH,Udvisning,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+81,748758,38.11,14-12,SKH,Mål,HF,21,René RASMUSSEN,Assist,10,Joaquim NAZARÉ,1,Kristoffer LAURSEN
+82,748758,38.11,,,Video Proof,,,,,,,,
+83,748758,38.44,,SKH,Udvisning,,14,Emil BERGHOLT,,,,,
+84,748758,38.44,,,Video Proof slut,,,,,,,,
+85,748758,38.57,14-13,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,32,Fredrik OLSSON,1,Christoffer BONDE
+86,748758,39.26,,SKH,Skud reddet,HB,10,Joaquim NAZARÉ,Retur,,,1,Kristoffer LAURSEN
+87,748758,39.40,,SKH,Time out,,,,,,,,
+88,748758,39.48,,SKH,Skud reddet,ST,7,Senjamin BURIC,Retur,,,1,Kristoffer LAURSEN
+89,748758,40.09,15-13,SKH,Mål,Gbr,22,Jakob RASMUSSEN,,,,1,Kristoffer LAURSEN
+90,748758,40.36,15-14,SAH,Mål,VB,32,Fredrik OLSSON,,,,1,Christoffer BONDE
+91,748758,41.27,,SKH,Tilkendt straffe,,7,Senjamin BURIC,Forårs. str.,7,Jonatan MOLLERUP,,
+92,748758,42.08,16-14,SKH,Mål på straffe,,70,Simon Sejer KRISTENSEN,,,,1,Kristoffer LAURSEN
+93,748758,42.40,,SAH,Skud forbi,Gbr,7,Jonatan MOLLERUP,,,,1,Christoffer BONDE
+94,748758,43.00,,SKH,Skud reddet,PL,2,Mads BJERGFELT,,,,1,Kristoffer LAURSEN
+95,748758,43.52,,SAH,Time out,,,,,,,,
+96,748758,44.10,,SAH,Tilkendt straffe,,7,Jonatan MOLLERUP,Forårs. str.,7,Senjamin BURIC,,
+97,748758,44.10,,SKH,Udvisning,,7,Senjamin BURIC,,,,,
+98,748758,44.14,16-15,SAH,Mål på straffe,,25,Jeppe CIESLAK,,,,1,Christoffer BONDE
+99,748758,45.01,17-15,SKH,Mål,Gbr,10,Joaquim NAZARÉ,,,,1,Kristoffer LAURSEN
+100,748758,45.24,17-16,SAH,Mål,Gbr,23,Morten Hempel JENSEN,Assist,32,Fredrik OLSSON,1,Christoffer BONDE
+101,748758,46.03,,SKH,Skud reddet,HB,10,Joaquim NAZARÉ,,,,1,Kristoffer LAURSEN
+102,748758,46.21,17-17,SAH,Mål,Gbr,7,Jonatan MOLLERUP,,,,1,Christoffer BONDE
+103,748758,46.55,,SKH,Skud forbi,PL,13,Noah GAUDIN,,,,1,Kristoffer LAURSEN
+104,748758,47.31,,,,,,,,,,,
+105,748758,48.08,,SAH,Udvisning,,7,Jonatan MOLLERUP,,,,,
+106,748758,48.27,,SKH,Skud reddet,Gbr,10,Joaquim NAZARÉ,Retur,0,,1,Kristoffer LAURSEN
+107,748758,48.40,,SKH,Skud forbi,PL,13,Noah GAUDIN,,,,1,Kristoffer LAURSEN
+108,748758,49.18,,SAH,Skud på stolpe,PL,3,Kristjan ÖRN KRISTJANSSON,,,,1,Christoffer BONDE
+109,748758,49.40,,SAH,Udvisning,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+110,748758,49.40,,SAH,Rødt kort,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+111,748758,49.51,18-17,SKH,Mål,Gbr,13,Noah GAUDIN,,,,1,Kristoffer LAURSEN
+112,748758,50.36,,SAH,Time out,,,,,,,,
+113,748758,50.45,18-18,SAH,Mål,VB,23,Morten Hempel JENSEN,,,,1,Christoffer BONDE
+114,748758,51.15,19-18,SKH,Mål,Gbr,10,Joaquim NAZARÉ,,,,1,Kristoffer LAURSEN
+115,748758,51.42,,SAH,Skud reddet,VB,23,Morten Hempel JENSEN,,,,1,Christoffer BONDE
+116,748758,52.58,,SKH,Skud forbi,PL,22,Jakob RASMUSSEN,,,,1,Kristoffer LAURSEN
+117,748758,53.53,19-19,SAH,Mål,HF,11,Mikkel LANG,,,,1,Christoffer BONDE
+118,748758,54.29,,SAH,Udvisning,,19,Thor CHRISTENSEN,,,,,
+119,748758,54.45,,SKH,Tilkendt straffe,,13,Noah GAUDIN,Forårs. str.,11,Mikkel LANG,,
+120,748758,55.01,,SKH,Straffekast på stolpe,,70,Simon Sejer KRISTENSEN,,,,1,Kristoffer LAURSEN
+121,748758,55.29,19-20,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,1,Christoffer BONDE
+122,748758,55.51,20-20,SKH,Mål,Gbr,13,Noah GAUDIN,,,,1,Kristoffer LAURSEN
+123,748758,56.54,,SAH,Skud reddet,HB,7,Jonatan MOLLERUP,Retur,0,,1,Christoffer BONDE
+124,748758,57.28,20-21,SAH,Mål,VB,32,Fredrik OLSSON,,,,1,Christoffer BONDE
+125,748758,57.41,,SKH,Skud blokeret,2:e,14,Emil BERGHOLT,Blokeret af,20,Morten BALLING,,
+126,748758,58.19,20-22,SAH,Mål,ST,19,Thor CHRISTENSEN,Assist,32,Fredrik OLSSON,1,Christoffer BONDE
+127,748758,58.20,,SKH,Time out,,,,,,,,
+128,748758,58.44,,SKH,Skud reddet,ST,14,Emil BERGHOLT,,,,1,Kristoffer LAURSEN
+129,748758,59.14,20-23,SAH,Mål,VB,23,Morten Hempel JENSEN,,,,1,Christoffer BONDE
+130,748758,59.21,,SKH,Tilkendt straffe,,25,Eivind TANGEN,Forårs. str.,19,Thor CHRISTENSEN,,
+131,748758,59.23,21-23,SKH,Mål på straffe,,10,Joaquim NAZARÉ,,,,1,Kristoffer LAURSEN
+132,748758,59.50,,SAH,Skud på stolpe,VF,25,Jeppe CIESLAK,,,,1,Christoffer BONDE
+133,748758,59.59,,SKH,Skud forbi,VB,5,Viktor BERGHOLT,,,,1,Kristoffer LAURSEN

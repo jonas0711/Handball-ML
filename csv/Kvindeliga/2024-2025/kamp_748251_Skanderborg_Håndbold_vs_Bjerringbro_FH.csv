@@ -1,0 +1,135 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748251,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748251,0.32,,BFH,Skud reddet,VB,31,Marianne HAUGSTED,,,,12,Sarah ERNEBJERG
+3,748251,1.03,,SKB,Skud reddet,Gbr,14,Verona REXHEPI,Retur,0,,24,Josephine NORDSTRØM
+4,748251,1.35,1-0,SKB,Mål,ST,2,Boline LAURSEN,Assist,14,Verona REXHEPI,24,Josephine NORDSTRØM
+5,748251,2.15,,BFH,Skud reddet,ST,18,Sidsel POULSEN,,,,12,Sarah ERNEBJERG
+6,748251,2.37,,SKB,Skud blokeret,VB,14,Verona REXHEPI,Blok af (ret),11,Arlinda HAJDARI,,
+7,748251,2.59,,SKB,Skud reddet,PL,3,Clara BANG,,,,24,Josephine NORDSTRØM
+8,748251,3.08,,BFH,Fejlaflevering,,72,Line FRANDSEN,Bold erobret,2,Boline LAURSEN,,
+9,748251,3.57,,SKB,Fejlaflevering,,20,Suna HANSEN,Bold erobret,11,Arlinda HAJDARI,,
+10,748251,4.01,1-1,BFH,Mål,1:e,19,Rikke Dahl NIELSEN,Assist,11,Arlinda HAJDARI,12,Sarah ERNEBJERG
+11,748251,4.33,,SKB,Tabt bold,,4,Emilie BECH,,,,,
+12,748251,5.06,,BFH,Regelfejl,,18,Sidsel POULSEN,,,,,
+13,748251,5.13,2-1,SKB,Mål,2:e,20,Suna HANSEN,,,,24,Josephine NORDSTRØM
+14,748251,5.55,,BFH,Skud forbi,PL,31,Marianne HAUGSTED,,,,12,Sarah ERNEBJERG
+15,748251,6.00,,SKB,Tabt bold,,14,Verona REXHEPI,,,,,
+16,748251,6.37,2-2,BFH,Mål,Gbr,7,Line GYLDENLØVE,,,,12,Sarah ERNEBJERG
+17,748251,6.47,,SKB,Skud på stolpe,1:e,14,Verona REXHEPI,,,,24,Josephine NORDSTRØM
+18,748251,7.16,,BFH,Skud blokeret,PL,7,Line GYLDENLØVE,Blokeret af,10,Filippa NEDOVIC,,
+19,748251,7.49,3-2,SKB,Mål,PL,3,Clara BANG,,,,24,Josephine NORDSTRØM
+20,748251,8.27,,BFH,Skud reddet,VB,7,Line GYLDENLØVE,,,,12,Sarah ERNEBJERG
+21,748251,9.03,,SKB,Fejlaflevering,,20,Suna HANSEN,,,,,
+22,748251,9.36,,BFH,Skud forbi,PL,31,Marianne HAUGSTED,,,,12,Sarah ERNEBJERG
+23,748251,9.44,4-2,SKB,Mål,2:e,2,Boline LAURSEN,Assist,3,Clara BANG,24,Josephine NORDSTRØM
+24,748251,10.30,4-3,BFH,Mål,HF,44,Louise HALD,Assist,7,Line GYLDENLØVE,12,Sarah ERNEBJERG
+25,748251,10.30,,SKB,Udvisning,,25,Astrid LYNNERUP,,,,,
+26,748251,11.16,,SKB,Skud blokeret,PL,20,Suna HANSEN,Blokeret af,18,Sidsel POULSEN,,
+27,748251,11.49,,BFH,Fejlaflevering,,72,Line FRANDSEN,Bold erobret,14,Verona REXHEPI,,
+28,748251,11.52,5-3,SKB,Mål,1:e,14,Verona REXHEPI,,,,0,
+29,748251,12.40,5-4,BFH,Mål,HF,44,Louise HALD,Assist,72,Line FRANDSEN,12,Sarah ERNEBJERG
+30,748251,13.10,6-4,SKB,Mål,PL,14,Verona REXHEPI,,,,24,Josephine NORDSTRØM
+31,748251,13.31,,BFH,Tabt bold,,72,Line FRANDSEN,Bold erobret,20,Suna HANSEN,,
+32,748251,13.34,7-4,SKB,Mål,1:e,14,Verona REXHEPI,Assist,20,Suna HANSEN,24,Josephine NORDSTRØM
+33,748251,13.38,,BFH,Time out,,,,,,,,
+34,748251,14.17,7-5,BFH,Mål,Gbr,31,Marianne HAUGSTED,,,,12,Sarah ERNEBJERG
+35,748251,14.25,8-5,SKB,Mål,Gbr,3,Clara BANG,,,,24,Josephine NORDSTRØM
+36,748251,15.12,,BFH,Skud blokeret,VB,7,Line GYLDENLØVE,Blok af (ret),2,Boline LAURSEN,,
+37,748251,15.29,,BFH,Skud reddet,PL,7,Line GYLDENLØVE,Retur,0,,12,Sarah ERNEBJERG
+38,748251,16.13,,BFH,Skud reddet,HF,44,Louise HALD,,,,12,Sarah ERNEBJERG
+39,748251,16.20,,SKB,Tilkendt straffe,,3,Clara BANG,Forårs. str.,31,Marianne HAUGSTED,,
+40,748251,16.34,9-5,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,24,Josephine NORDSTRØM
+41,748251,17.16,,BFH,Skud blokeret,PL,21,Emma ERNST,Blok af (ret),2,Boline LAURSEN,,
+42,748251,17.19,9-6,BFH,Mål,HF,44,Louise HALD,,,,12,Sarah ERNEBJERG
+43,748251,17.44,,SKB,Skud reddet,HF,4,Emilie BECH,,,,24,Josephine NORDSTRØM
+44,748251,18.21,,BFH,Skud forbi,PL,31,Marianne HAUGSTED,,,,12,Sarah ERNEBJERG
+45,748251,18.35,,BFH,Advarsel,,19,Rikke Dahl NIELSEN,,,,,
+46,748251,19.27,10-6,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,11,Mia LAGUMDZIJA,24,Josephine NORDSTRØM
+47,748251,20.42,,BFH,Skud blokeret,PL,72,Line FRANDSEN,Blok af (ret),2,Boline LAURSEN,,
+48,748251,20.52,10-7,BFH,Mål,Gbr,72,Line FRANDSEN,,,,12,Sarah ERNEBJERG
+49,748251,21.35,,SKB,Skud reddet,VB,14,Verona REXHEPI,,,,24,Josephine NORDSTRØM
+50,748251,22.08,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+51,748251,22.37,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,,,,,
+52,748251,23.20,,BFH,Skud blokeret,PL,25,Laura JENSEN,Blokeret af,2,Boline LAURSEN,,
+53,748251,23.25,,SKB,Skud blokeret,PL,11,Mia LAGUMDZIJA,Blok af (ret),18,Sidsel POULSEN,,
+54,748251,23.56,,SKB,Skud reddet,ST,10,Filippa NEDOVIC,,,,24,Josephine NORDSTRØM
+55,748251,24.27,,BFH,Tilkendt straffe,,25,Laura JENSEN,Forårs. str.,44,Nicoline LAURITSEN,,
+56,748251,24.48,10-8,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,12,Sarah ERNEBJERG
+57,748251,25.18,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,,,,,
+58,748251,25.24,10-9,BFH,Mål,1:e,18,Sidsel POULSEN,Assist,25,Laura JENSEN,12,Sarah ERNEBJERG
+59,748251,25.27,,SKB,Time out,,,,,,,,
+60,748251,25.47,11-9,SKB,Mål,ST,2,Boline LAURSEN,Assist,44,Nicoline LAURITSEN,24,Josephine NORDSTRØM
+61,748251,26.07,,SKB,Advarsel,,2,Boline LAURSEN,,,,,
+62,748251,26.26,,BFH,Skud reddet,PL,25,Laura JENSEN,,,,12,Sarah ERNEBJERG
+63,748251,26.30,12-9,SKB,Mål,1:e,22,Anne-Sofie FILTENBORG,Assist,12,Sarah ERNEBJERG,24,Josephine NORDSTRØM
+64,748251,26.57,,SKB,Udvisning,,10,Filippa NEDOVIC,,,,,
+65,748251,27.13,12-10,BFH,Mål,HF,44,Louise HALD,Assist,7,Line GYLDENLØVE,12,Sarah ERNEBJERG
+66,748251,28.11,,SKB,Skud blokeret,PL,3,Clara BANG,Blokeret af,19,Rikke Dahl NIELSEN,,
+67,748251,28.41,,BFH,Skud forbi,VF,9,Mathilde PIIL,,,,12,Sarah ERNEBJERG
+68,748251,29.10,,SKB,Tilkendt straffe,,2,Boline LAURSEN,Forårs. str.,11,Arlinda HAJDARI,,
+69,748251,29.20,13-10,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,20,Clara BAK
+70,748251,29.56,,BFH,Skud forbi,PL,7,Line GYLDENLØVE,,,,12,Sarah ERNEBJERG
+71,748251,30.00,13-10,,Halvleg,,,,,,,,
+72,748251,30.00,,,Start 2:e halvleg,,,,,,,,
+73,748251,30.29,14-10,SKB,Mål,HF,22,Anne-Sofie FILTENBORG,Assist,3,Clara BANG,24,Josephine NORDSTRØM
+74,748251,31.24,,BFH,Skud reddet,VF,9,Mathilde PIIL,,,,12,Sarah ERNEBJERG
+75,748251,31.34,15-10,SKB,Mål,2:e,2,Boline LAURSEN,Assist,20,Suna HANSEN,24,Josephine NORDSTRØM
+76,748251,32.04,,BFH,Regelfejl,,9,Mathilde PIIL,,,,,
+77,748251,32.23,,SKB,Regelfejl,,2,Boline LAURSEN,,,,,
+78,748251,33.20,,BFH,Skud på stolpe,Gbr,7,Line GYLDENLØVE,,,,12,Sarah ERNEBJERG
+79,748251,34.09,,SKB,Regelfejl,,44,Nicoline LAURITSEN,,,,,
+80,748251,34.25,,BFH,Tilkendt straffe,,11,Arlinda HAJDARI,Forårs. str.,25,Astrid LYNNERUP,,
+81,748251,34.32,15-11,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,1,Isabella MATHORNE
+82,748251,35.23,,SKB,Tilkendt straffe,,25,Astrid LYNNERUP,Forårs. str.,44,Louise HALD,,
+83,748251,35.31,16-11,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,24,Josephine NORDSTRØM
+84,748251,35.53,,BFH,Tabt bold,,11,Arlinda HAJDARI,Bold erobret,22,Anne-Sofie FILTENBORG,,
+85,748251,36.22,17-11,SKB,Mål,PL,3,Clara BANG,,,,24,Josephine NORDSTRØM
+86,748251,37.21,17-12,BFH,Mål,Gbr,11,Arlinda HAJDARI,,,,12,Sarah ERNEBJERG
+87,748251,37.46,18-12,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,3,Clara BANG,24,Josephine NORDSTRØM
+88,748251,38.22,18-13,BFH,Mål,VF,9,Mathilde PIIL,Assist,7,Line GYLDENLØVE,12,Sarah ERNEBJERG
+89,748251,39.18,19-13,SKB,Mål,Gbr,20,Suna HANSEN,,,,20,Clara BAK
+90,748251,40.22,,BFH,Skud reddet,PL,7,Line GYLDENLØVE,,,,12,Sarah ERNEBJERG
+91,748251,41.02,,SKB,Regelfejl,,14,Verona REXHEPI,,,,,
+92,748251,41.30,19-14,BFH,Mål,Gbr,25,Laura JENSEN,,,,12,Sarah ERNEBJERG
+93,748251,42.00,20-14,SKB,Mål,PL,20,Suna HANSEN,,,,20,Clara BAK
+94,748251,43.07,20-15,BFH,Mål,VB,7,Line GYLDENLØVE,,,,12,Sarah ERNEBJERG
+95,748251,43.54,21-15,SKB,Mål,Gbr,3,Clara BANG,,,,20,Clara BAK
+96,748251,44.42,,BFH,Time out,,,,,,,,
+97,748251,45.20,,BFH,Skud på stolpe,ST,14,Sara LILHOLT,,,,12,Sarah ERNEBJERG
+98,748251,45.28,,SKB,Tilkendt straffe,,3,Clara BANG,Forårs. str.,31,Marianne HAUGSTED,,
+99,748251,45.51,,SKB,Straffekast reddet,,11,Mia LAGUMDZIJA,,,,20,Clara BAK
+100,748251,46.21,21-16,BFH,Mål,VF,4,Emilie BANGSHØI,Assist,7,Line GYLDENLØVE,12,Sarah ERNEBJERG
+101,748251,46.39,22-16,SKB,Mål,Gbr,3,Clara BANG,,,,20,Clara BAK
+102,748251,46.48,,BFH,Skud reddet,2:e,31,Marianne HAUGSTED,,,,12,Sarah ERNEBJERG
+103,748251,47.45,,SKB,Fejlaflevering,,14,Verona REXHEPI,,,,,
+104,748251,47.51,22-17,BFH,Mål,,,,,,,,
+105,748251,48.32,23-17,SKB,Mål,Gbr,3,Clara BANG,,,,20,Clara BAK
+106,748251,49.29,23-18,BFH,Mål,Gbr,7,Line GYLDENLØVE,Assist,72,Line FRANDSEN,12,Sarah ERNEBJERG
+107,748251,50.12,,SKB,Skud forbi,VF,25,Astrid LYNNERUP,,,,20,Clara BAK
+108,748251,50.31,23-19,BFH,Mål,HF,44,Louise HALD,Assist,11,Arlinda HAJDARI,12,Sarah ERNEBJERG
+109,748251,50.44,,SKB,Skud reddet,PL,20,Suna HANSEN,,,,20,Clara BAK
+110,748251,51.35,23-20,BFH,Mål,HF,44,Louise HALD,Assist,11,Arlinda HAJDARI,12,Sarah ERNEBJERG
+111,748251,51.37,,SKB,Time out,,,,,,,,
+112,748251,52.31,,SKB,Skud forbi,HF,22,Anne-Sofie FILTENBORG,,,,20,Clara BAK
+113,748251,53.07,,BFH,Regelfejl,,11,Arlinda HAJDARI,,,,,
+114,748251,53.36,24-20,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,14,Verona REXHEPI,20,Clara BAK
+115,748251,53.46,,BFH,Skud på stolpe,VB,7,Line GYLDENLØVE,,,,1,Isabella MATHORNE
+116,748251,53.51,25-20,SKB,Mål,1:e,14,Verona REXHEPI,,,,0,
+117,748251,54.23,25-21,BFH,Mål,Gbr,72,Line FRANDSEN,,,,1,Isabella MATHORNE
+118,748251,54.26,26-21,SKB,Mål,1:e,14,Verona REXHEPI,,,,0,
+119,748251,55.01,26-22,BFH,Mål,HF,44,Louise HALD,Assist,11,Arlinda HAJDARI,1,Isabella MATHORNE
+120,748251,55.43,27-22,SKB,Mål,Gbr,44,Nicoline LAURITSEN,,,,20,Clara BAK
+121,748251,55.59,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,Bold erobret,2,Boline LAURSEN,,
+122,748251,56.04,28-22,SKB,Mål,1:e,14,Verona REXHEPI,,,,0,
+123,748251,56.38,,BFH,Skud reddet,VF,4,Emilie BANGSHØI,,,,1,Isabella MATHORNE
+124,748251,56.43,,BFH,Udvisning,,25,Laura JENSEN,,,,,
+125,748251,57.01,29-22,SKB,Mål,HF,22,Anne-Sofie FILTENBORG,Assist,11,Mia LAGUMDZIJA,20,Clara BAK
+126,748251,57.31,,BFH,Skud forbi,Gbr,72,Line FRANDSEN,,,,1,Isabella MATHORNE
+127,748251,57.58,,SKB,Skud forbi,PL,3,Clara BANG,,,,20,Clara BAK
+128,748251,58.27,29-23,BFH,Mål,Gbr,31,Marianne HAUGSTED,,,,1,Isabella MATHORNE
+129,748251,58.34,,SKB,Time out,,,,,,,,
+130,748251,58.55,,SKB,Skud reddet,Gbr,14,Verona REXHEPI,,,,20,Clara BAK
+131,748251,59.37,29-24,BFH,Mål,Gbr,11,Arlinda HAJDARI,,,,1,Isabella MATHORNE
+132,748251,59.59,30-24,SKB,Mål,ST,2,Boline LAURSEN,Assist,44,Nicoline LAURITSEN,20,Clara BAK
+133,748251,60.00,30-24,,Fuld tid,,,,,,,,
+134,748251,60.00,,,Kamp slut,,,,,,,,

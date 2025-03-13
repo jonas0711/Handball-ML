@@ -1,0 +1,133 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748748,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748748,0.31,,TMS,Fejlaflevering,,7,Christoffer DREYER,,,,,
+3,748748,1.09,1-0,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,16,Andreas HAAGEN
+4,748748,1.19,,TMS,Fejlaflevering,,19,Benjamin HALLGREN,,,,,
+5,748748,2.34,2-0,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,16,Andreas HAAGEN
+6,748748,2.51,,TMS,Time out,,,,,,,,
+7,748748,3.19,,TMS,Skud reddet,PL,7,Christoffer DREYER,,,,30,Julius STEN
+8,748748,3.32,,SJE,Skud reddet,PL,48,Gabriel SETTERBLOM,,,,16,Andreas HAAGEN
+9,748748,3.35,,TMS,Udvisning,,2,Joachim MØLLER,,,,,
+10,748748,4.05,,TMS,Tabt bold,,5,Mark NIKOLAJSEN,,,,,
+11,748748,4.44,3-0,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,29,Magnus FREDRIKSEN,16,Andreas HAAGEN
+12,748748,5.06,3-1,TMS,Mål,HB,19,Benjamin HALLGREN,,,,30,Julius STEN
+13,748748,5.30,,SJE,Skud forbi,HF,33,Ebbe STANKIEWICZ,,,,16,Andreas HAAGEN
+14,748748,6.10,,TMS,Fejlaflevering,,5,Mark NIKOLAJSEN,Bold erobret,33,Ebbe STANKIEWICZ,,
+15,748748,6.20,4-1,SJE,Mål,1:e,33,Ebbe STANKIEWICZ,,,,16,Andreas HAAGEN
+16,748748,6.27,,TMS,Skud reddet,2:e,19,Benjamin HALLGREN,,,,30,Julius STEN
+17,748748,7.04,,SJE,Tabt bold,,48,Gabriel SETTERBLOM,,,,,
+18,748748,7.11,4-2,TMS,Mål,1:e,19,Benjamin HALLGREN,Assist,7,Christoffer DREYER,30,Julius STEN
+19,748748,8.17,,SJE,Tilkendt straffe,,29,Magnus FREDRIKSEN,Forårs. str.,2,Joachim MØLLER,,
+20,748748,8.32,,SJE,Straffekast reddet,,11,Nicolaj JØRGENSEN,,,,16,Andreas HAAGEN
+21,748748,8.37,,TMS,Advarsel,B,,Marc UHD,,,,,
+22,748748,9.44,4-3,TMS,Mål,PL,7,Christoffer DREYER,,,,30,Julius STEN
+23,748748,10.21,,TMS,Udvisning,,2,Joachim MØLLER,,,,,
+24,748748,10.35,5-3,SJE,Mål,VF,28,Patrick VOLZ,Assist,29,Magnus FREDRIKSEN,16,Andreas HAAGEN
+25,748748,11.20,,TMS,Tabt bold,,22,Axel ANDERSSON,,,,,
+26,748748,11.28,,SJE,Skud forbi,1:e,24,Sebastian AUGUSTINUSSEN,,,,0,
+27,748748,11.56,5-4,TMS,Mål,Gbr,7,Christoffer DREYER,Assist,10,Frederik HORN,30,Julius STEN
+28,748748,12.14,6-4,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,16,Andreas HAAGEN
+29,748748,13.03,6-5,TMS,Mål,ST,24,Simon OOMS,Assist,7,Christoffer DREYER,30,Julius STEN
+30,748748,14.09,,SJE,Skud reddet,Gbr,23,Tobias OLSEN,,,,16,Andreas HAAGEN
+31,748748,14.40,6-6,TMS,Mål,PL,19,Benjamin HALLGREN,,,,30,Julius STEN
+32,748748,15.38,,SJE,Regelfejl,,14,Jacob BAGERSTED,,,,,
+33,748748,16.08,,TMS,Skud på stolpe,Gbr,19,Benjamin HALLGREN,,,,1,Matthias DORGELO
+34,748748,17.01,7-6,SJE,Mål,PL,29,Magnus FREDRIKSEN,,,,16,Andreas HAAGEN
+35,748748,17.48,7-7,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,1,Matthias DORGELO
+36,748748,18.21,8-7,SJE,Mål,Gbr,23,Tobias OLSEN,Assist,29,Magnus FREDRIKSEN,16,Andreas HAAGEN
+37,748748,18.33,,TMS,Regelfejl,,19,Benjamin HALLGREN,,,,,
+38,748748,18.40,9-7,SJE,Mål,1:e,28,Patrick VOLZ,,,,16,Andreas HAAGEN
+39,748748,19.13,,TMS,Fejlaflevering,,5,Mark NIKOLAJSEN,Bold erobret,33,Ebbe STANKIEWICZ,,
+40,748748,20.13,,TMS,Udvisning,,25,Anders AGGER,,,,,
+41,748748,20.26,10-7,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,,,,16,Andreas HAAGEN
+42,748748,21.18,,TMS,Skud reddet,PL,5,Mark NIKOLAJSEN,,,,1,Matthias DORGELO
+43,748748,21.25,,SJE,Skud forbi,1:e,1,Matthias DORGELO,,,,0,
+44,748748,22.00,,TMS,Skud reddet,PL,19,Benjamin HALLGREN,,,,1,Matthias DORGELO
+45,748748,22.17,11-7,SJE,Mål,Gbr,11,Nicolaj JØRGENSEN,,,,16,Andreas HAAGEN
+46,748748,22.54,,TMS,Skud forbi,PL,19,Benjamin HALLGREN,,,,1,Matthias DORGELO
+47,748748,23.22,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+48,748748,23.29,11-8,TMS,Mål,1:e,81,Tobias NIELSEN,Assist,19,Benjamin HALLGREN,1,Matthias DORGELO
+49,748748,23.57,12-8,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,29,Malte EICHHORST
+50,748748,24.35,12-9,TMS,Mål,VB,7,Christoffer DREYER,,,,1,Matthias DORGELO
+51,748748,24.41,13-9,SJE,Mål,1:e,28,Patrick VOLZ,,,,0,
+52,748748,25.11,,TMS,Fejlaflevering,,19,Benjamin HALLGREN,,,,,
+53,748748,25.48,,SJE,Skud på stolpe,PL,11,Nicolaj JØRGENSEN,,,,29,Malte EICHHORST
+54,748748,25.56,13-10,TMS,Mål,1:e,81,Tobias NIELSEN,Assist,0,,1,Matthias DORGELO
+55,748748,26.28,,SJE,Regelfejl,,18,Morten BJØRNSHAUGE,,,,,
+56,748748,27.04,,TMS,Skud reddet,VB,10,Frederik HORN,,,,1,Matthias DORGELO
+57,748748,27.32,,SJE,Skud blokeret,PL,48,Gabriel SETTERBLOM,Blokeret af,0,,,
+58,748748,27.43,,TMS,Skud reddet,1:e,81,Tobias NIELSEN,,,,1,Matthias DORGELO
+59,748748,27.50,,SJE,Time out,,,,,,,,
+60,748748,28.27,,SJE,Skud reddet,Gbr,24,Sebastian AUGUSTINUSSEN,,,,29,Malte EICHHORST
+61,748748,28.56,,SJE,Udvisning,,18,Morten BJØRNSHAUGE,,,,,
+62,748748,29.12,13-11,TMS,Mål,HF,81,Tobias NIELSEN,Assist,5,Mark NIKOLAJSEN,1,Matthias DORGELO
+63,748748,29.50,,SJE,Skud forbi,VF,28,Patrick VOLZ,,,,29,Malte EICHHORST
+64,748748,30.00,13-12,TMS,Mål,ST,24,Simon OOMS,Assist,7,Christoffer DREYER,1,Matthias DORGELO
+65,748748,30.00,13-12,,Halvleg,,,,,,,,
+66,748748,30.00,,,Start 2:e halvleg,,,,,,,,
+67,748748,30.38,,SJE,Skud reddet,PL,29,Magnus FREDRIKSEN,,,,29,Malte EICHHORST
+68,748748,30.56,,TMS,Tilkendt straffe,,25,Anders AGGER,Forårs. str.,48,Gabriel SETTERBLOM,,
+69,748748,31.05,13-13,TMS,Mål på straffe,,49,Oscar LYKKE,,,,1,Matthias DORGELO
+70,748748,31.39,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+71,748748,31.52,,TMS,Skud reddet,2:e,27,Victor WOLF,Retur,0,,1,Matthias DORGELO
+72,748748,32.28,13-14,TMS,Mål,PL,7,Christoffer DREYER,,,,1,Matthias DORGELO
+73,748748,33.07,14-14,SJE,Mål,Gbr,20,August WIGER,,,,29,Malte EICHHORST
+74,748748,33.42,,TMS,Skud forbi,PL,10,Frederik HORN,,,,1,Matthias DORGELO
+75,748748,33.53,,SJE,Skud reddet,2:e,6,Nikolaj SVALASTOG,,,,29,Malte EICHHORST
+76,748748,34.22,,TMS,Skud reddet,PL,7,Christoffer DREYER,,,,1,Matthias DORGELO
+77,748748,34.29,15-14,SJE,Mål,1:e,33,Ebbe STANKIEWICZ,Assist,6,Nikolaj SVALASTOG,29,Malte EICHHORST
+78,748748,34.53,,TMS,Skud reddet,VF,27,Victor WOLF,,,,1,Matthias DORGELO
+79,748748,35.03,16-14,SJE,Mål,2:e,33,Ebbe STANKIEWICZ,Assist,48,Gabriel SETTERBLOM,29,Malte EICHHORST
+80,748748,35.36,16-15,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,1,Matthias DORGELO
+81,748748,35.46,,SJE,Tilkendt straffe,,11,Nicolaj JØRGENSEN,Forårs. str.,19,Benjamin HALLGREN,,
+82,748748,35.57,17-15,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,16,Andreas HAAGEN
+83,748748,36.42,,TMS,Skud reddet,ST,25,Anders AGGER,,,,1,Matthias DORGELO
+84,748748,37.21,18-15,SJE,Mål,HB,20,August WIGER,,,,29,Malte EICHHORST
+85,748748,37.33,18-16,TMS,Mål,ST,24,Simon OOMS,Assist,10,Frederik HORN,1,Matthias DORGELO
+86,748748,38.04,,SJE,Skud reddet,HB,11,Nicolaj JØRGENSEN,,,,29,Malte EICHHORST
+87,748748,38.46,18-17,TMS,Mål,Gbr,19,Benjamin HALLGREN,,,,1,Matthias DORGELO
+88,748748,39.22,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+89,748748,40.12,18-18,TMS,Mål,PL,7,Christoffer DREYER,,,,1,Matthias DORGELO
+90,748748,40.30,19-18,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,,,,29,Malte EICHHORST
+91,748748,40.44,,TMS,Regelfejl,,22,Axel ANDERSSON,,,,,
+92,748748,41.18,,SJE,Skud reddet,ST,18,Morten BJØRNSHAUGE,Retur,0,,29,Malte EICHHORST
+93,748748,41.39,20-18,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,29,Malte EICHHORST
+94,748748,42.14,,TMS,Skud reddet,VB,19,Benjamin HALLGREN,,,,1,Matthias DORGELO
+95,748748,42.22,,SJE,Regelfejl,,6,Nikolaj SVALASTOG,,,,,
+96,748748,42.48,,TMS,Time out,,,,,,,,
+97,748748,43.20,20-19,TMS,Mål,Gbr,5,Mark NIKOLAJSEN,,,,1,Matthias DORGELO
+98,748748,44.04,,SJE,Regelfejl,,6,Nikolaj SVALASTOG,,,,,
+99,748748,44.31,,SJE,Udvisning,,18,Morten BJØRNSHAUGE,,,,,
+100,748748,44.38,20-20,TMS,Mål,PL,5,Mark NIKOLAJSEN,,,,1,Matthias DORGELO
+101,748748,45.36,,SJE,Skud forbi,HB,11,Nicolaj JØRGENSEN,,,,29,Malte EICHHORST
+102,748748,46.03,,TMS,Skud reddet,HF,81,Tobias NIELSEN,,,,1,Matthias DORGELO
+103,748748,47.03,,SJE,Tilkendt straffe,,48,Gabriel SETTERBLOM,Forårs. str.,2,Joachim MØLLER,,
+104,748748,47.12,21-20,SJE,Mål på straffe,,48,Gabriel SETTERBLOM,,,,16,Andreas HAAGEN
+105,748748,47.41,21-21,TMS,Mål,ST,24,Simon OOMS,Assist,44,Tobias TOMBAK,1,Matthias DORGELO
+106,748748,48.15,22-21,SJE,Mål,HF,24,Sebastian AUGUSTINUSSEN,Assist,48,Gabriel SETTERBLOM,29,Malte EICHHORST
+107,748748,48.51,,TMS,Regelfejl,,19,Benjamin HALLGREN,,,,,
+108,748748,49.35,,SJE,Skud reddet,PL,20,August WIGER,,,,29,Malte EICHHORST
+109,748748,50.04,22-22,TMS,Mål,ST,24,Simon OOMS,Assist,19,Benjamin HALLGREN,1,Matthias DORGELO
+110,748748,50.11,,SJE,Time out,,,,,,,,
+111,748748,50.47,,SJE,Skud reddet,VF,28,Patrick VOLZ,Retur,0,,29,Malte EICHHORST
+112,748748,51.09,23-22,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,29,Malte EICHHORST
+113,748748,51.56,23-23,TMS,Mål,PL,5,Mark NIKOLAJSEN,,,,1,Matthias DORGELO
+114,748748,52.23,,SJE,Regelfejl,,24,Sebastian AUGUSTINUSSEN,,,,,
+115,748748,53.07,23-24,TMS,Mål,ST,25,Anders AGGER,Assist,19,Benjamin HALLGREN,1,Matthias DORGELO
+116,748748,53.31,24-24,SJE,Mål,Gbr,24,Sebastian AUGUSTINUSSEN,,,,29,Malte EICHHORST
+117,748748,54.13,24-25,TMS,Mål,PL,5,Mark NIKOLAJSEN,,,,1,Matthias DORGELO
+118,748748,54.53,25-25,SJE,Mål,Gbr,24,Sebastian AUGUSTINUSSEN,,,,29,Malte EICHHORST
+119,748748,55.29,,TMS,Fejlaflevering,,5,Mark NIKOLAJSEN,Bold erobret,28,Patrick VOLZ,,
+120,748748,55.36,26-25,SJE,Mål,1:e,28,Patrick VOLZ,,,,0,
+121,748748,55.59,,TMS,Skud reddet,PL,5,Mark NIKOLAJSEN,,,,30,Julius STEN
+122,748748,56.40,27-25,SJE,Mål,Gbr,20,August WIGER,,,,16,Andreas HAAGEN
+123,748748,56.41,,SJE,Udvisning,,33,Ebbe STANKIEWICZ,,,,,
+124,748748,57.15,27-26,TMS,Mål,VF,27,Victor WOLF,Assist,5,Mark NIKOLAJSEN,30,Julius STEN
+125,748748,57.54,28-26,SJE,Mål,Gbr,11,Nicolaj JØRGENSEN,,,,16,Andreas HAAGEN
+126,748748,58.12,,TMS,Fejlaflevering,,5,Mark NIKOLAJSEN,,,,,
+127,748748,58.48,,SJE,Skud reddet,Gbr,20,August WIGER,,,,16,Andreas HAAGEN
+128,748748,58.59,28-27,TMS,Mål,ST,25,Anders AGGER,Assist,7,Christoffer DREYER,30,Julius STEN
+129,748748,59.21,,SJE,Time out,,,,,,,,
+130,748748,59.44,,SJE,Skud reddet,VF,28,Patrick VOLZ,,,,16,Andreas HAAGEN
+131,748748,59.47,,TMS,Time out,,,,,,,,
+132,748748,60.00,,TMS,Skud på stolpe,PL,7,Christoffer DREYER,,,,30,Julius STEN

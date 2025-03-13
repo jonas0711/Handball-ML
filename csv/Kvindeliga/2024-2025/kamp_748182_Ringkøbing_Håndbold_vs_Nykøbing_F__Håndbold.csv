@@ -1,0 +1,130 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748182,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748182,0.39,1-0,RIN,Mål,ST,23,Nanna HINNERFELDT,Assist,3,Maria Berger WIERZBA,1,Sofie BÖRJESSON
+3,748182,1.34,,NFH,Regelfejl,,18,Alberte KIELSTRUP,,,,,
+4,748182,2.00,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,,,,,
+5,748182,2.08,1-1,NFH,Mål,2:e,26,Mona OBAIDLI,,,,88,Rakul WARDUM
+6,748182,3.03,2-1,RIN,Mål,PL,2,Cecilie BJERRE,,,,1,Sofie BÖRJESSON
+7,748182,3.19,2-2,NFH,Mål,ST,34,Sofie BARDRUM,Assist,7,Amalie WULFF,88,Rakul WARDUM
+8,748182,4.18,3-2,RIN,Mål,PL,2,Cecilie BJERRE,,,,1,Sofie BÖRJESSON
+9,748182,4.54,,NFH,Skud på stolpe,ST,34,Sofie BARDRUM,,,,88,Rakul WARDUM
+10,748182,5.25,,RIN,Fejlaflevering,,2,Cecilie BJERRE,,,,,
+11,748182,5.52,,NFH,Skud forbi,HF,11,Rosa SCHMIDT,,,,88,Rakul WARDUM
+12,748182,6.08,,RIN,Tilkendt straffe,,5,Caroline SVARRE,Forårs. str.,18,Alberte KIELSTRUP,,
+13,748182,6.18,4-2,RIN,Mål på straffe,,2,Cecilie BJERRE,,,,1,Sofie BÖRJESSON
+14,748182,6.55,,NFH,Fejlaflevering,,7,Amalie WULFF,Bold erobret,5,Caroline SVARRE,,
+15,748182,7.01,5-2,RIN,Mål,1:e,18,Emilie ROSBORG,Assist,3,Maria Berger WIERZBA,1,Sofie BÖRJESSON
+16,748182,7.29,5-3,NFH,Mål,Gbr,18,Alberte KIELSTRUP,,,,88,Rakul WARDUM
+17,748182,8.10,6-3,RIN,Mål,ST,23,Nanna HINNERFELDT,Assist,2,Cecilie BJERRE,1,Sofie BÖRJESSON
+18,748182,8.42,6-4,NFH,Mål,PL,7,Amalie WULFF,,,,88,Rakul WARDUM
+19,748182,9.24,7-4,RIN,Mål,Gbr,3,Maria Berger WIERZBA,,,,1,Sofie BÖRJESSON
+20,748182,10.11,,NFH,Skud forbi,ST,34,Sofie BARDRUM,,,,88,Rakul WARDUM
+21,748182,10.44,8-4,RIN,Mål,HF,22,Sofie ØSTERGAARD,Assist,10,Frida Høgaard NIELSEN,1,Sofie BÖRJESSON
+22,748182,10.48,,NFH,Time out,,,,,,,,
+23,748182,11.15,8-5,NFH,Mål,VF,21,Matilde VESTERGAARD,Assist,26,Mona OBAIDLI,88,Rakul WARDUM
+24,748182,12.03,,RIN,Skud blokeret,PL,2,Cecilie BJERRE,Blokeret af,8,Stine EIBERG,,
+25,748182,12.36,,NFH,Fejlaflevering,,7,Amalie WULFF,Bold erobret,3,Maria Berger WIERZBA,,
+26,748182,13.05,,RIN,Fejlaflevering,,2,Cecilie BJERRE,,,,,
+27,748182,13.09,8-6,NFH,Mål,1:e,49,Aimée VON PEREIRA,,,,,
+28,748182,13.41,,RIN,Tilkendt straffe,,23,Nanna HINNERFELDT,Forårs. str.,49,Aimée VON PEREIRA,,
+29,748182,13.51,9-6,RIN,Mål på straffe,,2,Cecilie BJERRE,,,,12,Catharina BROCH
+30,748182,14.38,,RIN,Advarsel,,5,Caroline SVARRE,,,,,
+31,748182,15.03,,NFH,Tilkendt straffe,,18,Alberte KIELSTRUP,Forårs. str.,18,Emilie ROSBORG,,
+32,748182,15.27,9-7,NFH,Mål på straffe,,49,Aimée VON PEREIRA,,,,88,Rakul WARDUM
+33,748182,16.13,10-7,RIN,Mål,ST,5,Caroline SVARRE,Assist,2,Cecilie BJERRE,1,Sofie BÖRJESSON
+34,748182,16.20,,NFH,Regelfejl,,26,Mona OBAIDLI,,,,,
+35,748182,17.04,11-7,RIN,Mål,VF,18,Emilie ROSBORG,Assist,3,Maria Berger WIERZBA,1,Sofie BÖRJESSON
+36,748182,17.17,11-8,NFH,Mål,VF,21,Matilde VESTERGAARD,Assist,15,Kalidiatou NIAKATE,88,Rakul WARDUM
+37,748182,17.57,,RIN,Tilkendt straffe,,22,Sofie ØSTERGAARD,Forårs. str.,21,Matilde VESTERGAARD,,
+38,748182,18.00,12-8,RIN,Mål på straffe,,2,Cecilie BJERRE,,,,12,Catharina BROCH
+39,748182,19.11,12-9,NFH,Mål,HF,11,Rosa SCHMIDT,Assist,18,Alberte KIELSTRUP,88,Rakul WARDUM
+40,748182,19.48,13-9,RIN,Mål,HB,2,Cecilie BJERRE,,,,12,Catharina BROCH
+41,748182,20.30,13-10,NFH,Mål,Gbr,7,Amalie WULFF,,,,16,Stephanie ANDERSEN
+42,748182,20.30,,RIN,Udvisning,,10,Frida Høgaard NIELSEN,,,,,
+43,748182,20.40,,RIN,Time out,,,,,,,,
+44,748182,21.12,,RIN,Skud forbi,PL,33,Emma LAURSEN,,,,12,Catharina BROCH
+45,748182,21.19,13-11,NFH,Mål,1:e,15,Kalidiatou NIAKATE,,,,16,Stephanie ANDERSEN
+46,748182,21.51,,RIN,Tabt bold,,23,Nanna HINNERFELDT,,,,,
+47,748182,22.03,,NFH,Skud forbi,1:e,12,Catharina BROCH,,,,,
+48,748182,22.38,,RIN,Fejlaflevering,,33,Emma LAURSEN,Bold erobret,8,Stine EIBERG,,
+49,748182,22.46,13-12,NFH,Mål,2:e,15,Kalidiatou NIAKATE,,,,16,Stephanie ANDERSEN
+50,748182,23.16,14-12,RIN,Mål,Gbr,10,Frida Høgaard NIELSEN,,,,12,Catharina BROCH
+51,748182,23.58,,NFH,Skud reddet,ST,2,Caroline AAR,,,,16,Stephanie ANDERSEN
+52,748182,24.06,,RIN,Skud forbi,1:e,10,Frida Høgaard NIELSEN,,,,12,Catharina BROCH
+53,748182,24.26,14-13,NFH,Mål,Gbr,79,Kristina KRISTIANSEN,,,,16,Stephanie ANDERSEN
+54,748182,25.53,,RIN,Tilkendt straffe,,23,Nanna HINNERFELDT,Forårs. str.,21,Matilde VESTERGAARD,,
+55,748182,26.00,15-13,RIN,Mål på straffe,,2,Cecilie BJERRE,,,,1,Sofie BÖRJESSON
+56,748182,26.36,,NFH,Regelfejl,,26,Mona OBAIDLI,,,,,
+57,748182,27.17,,RIN,Skud forbi,PL,2,Cecilie BJERRE,,,,12,Catharina BROCH
+58,748182,27.43,15-14,NFH,Mål,Gbr,79,Kristina KRISTIANSEN,,,,16,Stephanie ANDERSEN
+59,748182,28.12,16-14,RIN,Mål,PL,2,Cecilie BJERRE,,,,12,Catharina BROCH
+60,748182,28.25,16-15,NFH,Mål,2:e,18,Alberte KIELSTRUP,,,,16,Stephanie ANDERSEN
+61,748182,29.06,17-15,RIN,Mål,Gbr,10,Frida Høgaard NIELSEN,,,,12,Catharina BROCH
+62,748182,29.45,17-16,NFH,Mål,ST,34,Sofie BARDRUM,Assist,79,Kristina KRISTIANSEN,16,Stephanie ANDERSEN
+63,748182,30.00,,NFH,Udvisning,,34,Sofie BARDRUM,,,,,
+64,748182,30.00,,RIN,Skud reddet,HB,2,Cecilie BJERRE,,,,12,Catharina BROCH
+65,748182,30.00,17-16,,Halvleg,,,,,,,,
+66,748182,30.00,,,Start 2:e halvleg,,,,,,,,
+67,748182,30.49,,NFH,Regelfejl,,15,Kalidiatou NIAKATE,,,,,
+68,748182,31.03,,RIN,Regelfejl,,18,Emilie ROSBORG,,,,,
+69,748182,31.41,,NFH,Skud på stolpe,HF,11,Rosa SCHMIDT,,,,88,Rakul WARDUM
+70,748182,31.53,18-16,RIN,Mål,PL,2,Cecilie BJERRE,,,,1,Sofie BÖRJESSON
+71,748182,32.31,18-17,NFH,Mål,Gbr,26,Mona OBAIDLI,,,,88,Rakul WARDUM
+72,748182,32.43,19-17,RIN,Mål,2:e,2,Cecilie BJERRE,,,,1,Sofie BÖRJESSON
+73,748182,33.12,19-18,NFH,Mål,HF,11,Rosa SCHMIDT,Assist,18,Alberte KIELSTRUP,88,Rakul WARDUM
+74,748182,33.53,,RIN,Skud reddet,PL,10,Frida Høgaard NIELSEN,,,,1,Sofie BÖRJESSON
+75,748182,34.02,19-19,NFH,Mål,2:e,26,Mona OBAIDLI,,,,88,Rakul WARDUM
+76,748182,34.57,,NFH,Udvisning,,49,Aimée VON PEREIRA,,,,,
+77,748182,35.12,,RIN,Fejlaflevering,,2,Cecilie BJERRE,,,,,
+78,748182,35.15,,NFH,Fejlaflevering,,1,Sofie BÖRJESSON,,,,,
+79,748182,35.57,,RIN,Skud forbi,VF,19,Rikke JOCHUMSEN,,,,1,Sofie BÖRJESSON
+80,748182,36.35,,NFH,Skud reddet,Gbr,15,Kalidiatou NIAKATE,,,,88,Rakul WARDUM
+81,748182,36.44,,RIN,Regelfejl,,23,Nanna HINNERFELDT,,,,,
+82,748182,37.06,19-20,NFH,Mål,Gbr,18,Alberte KIELSTRUP,,,,88,Rakul WARDUM
+83,748182,38.12,,RIN,Skud reddet,Gbr,3,Maria Berger WIERZBA,Retur,0,,1,Sofie BÖRJESSON
+84,748182,38.48,20-20,RIN,Mål,ST,23,Nanna HINNERFELDT,Assist,3,Maria Berger WIERZBA,1,Sofie BÖRJESSON
+85,748182,38.56,,NFH,Tilkendt straffe,,15,Kalidiatou NIAKATE,Forårs. str.,3,Maria Berger WIERZBA,,
+86,748182,38.56,,RIN,Udvisning,,3,Maria Berger WIERZBA,,,,,
+87,748182,38.56,20-21,NFH,Mål på straffe,,49,Aimée VON PEREIRA,,,,88,Rakul WARDUM
+88,748182,39.36,,RIN,Tabt bold,,2,Cecilie BJERRE,Bold erobret,8,Stine EIBERG,,
+89,748182,39.46,20-22,NFH,Mål,1:e,26,Mona OBAIDLI,,,,88,Rakul WARDUM
+90,748182,40.09,,RIN,Skud på stolpe,PL,2,Cecilie BJERRE,,,,1,Sofie BÖRJESSON
+91,748182,40.18,,NFH,Skud reddet,1:e,22,Zoë SPRENGERS,,,,88,Rakul WARDUM
+92,748182,40.49,21-22,RIN,Mål,Gbr,10,Frida Høgaard NIELSEN,,,,1,Sofie BÖRJESSON
+93,748182,41.43,21-23,NFH,Mål,HF,11,Rosa SCHMIDT,Assist,26,Mona OBAIDLI,88,Rakul WARDUM
+94,748182,42.13,22-23,RIN,Mål,PL,2,Cecilie BJERRE,,,,1,Sofie BÖRJESSON
+95,748182,42.25,22-24,NFH,Mål,2:e,26,Mona OBAIDLI,,16,Stephanie ANDERSEN,,
+96,748182,43.12,23-24,RIN,Mål,HB,10,Frida Høgaard NIELSEN,,,,1,Sofie BÖRJESSON
+97,748182,43.58,,NFH,Fejlaflevering,,26,Mona OBAIDLI,Bold erobret,19,Rikke JOCHUMSEN,,
+98,748182,44.31,24-24,RIN,Mål,HB,10,Frida Høgaard NIELSEN,,,,1,Sofie BÖRJESSON
+99,748182,44.37,,NFH,Time out,,,,,,,,
+100,748182,45.04,,NFH,Skud forbi,ST,34,Sofie BARDRUM,,16,Stephanie ANDERSEN,,
+101,748182,45.50,,RIN,Fejlaflevering,,2,Cecilie BJERRE,,,,,
+102,748182,46.26,24-25,NFH,Mål,ST,2,Caroline AAR,Assist,18,Alberte KIELSTRUP,16,Stephanie ANDERSEN
+103,748182,47.25,25-25,RIN,Mål,Gbr,3,Maria Berger WIERZBA,Assist,10,Frida Høgaard NIELSEN,1,Sofie BÖRJESSON
+104,748182,48.11,25-26,NFH,Mål,,,,,,,,
+105,748182,48.41,26-26,RIN,Mål,Gbr,3,Maria Berger WIERZBA,Assist,10,Frida Høgaard NIELSEN,1,Sofie BÖRJESSON
+106,748182,49.41,,NFH,Skud blokeret,PL,15,Kalidiatou NIAKATE,Blok af (ret),5,Caroline SVARRE,,
+107,748182,50.02,,NFH,Skud på stolpe,VF,21,Matilde VESTERGAARD,,,,16,Stephanie ANDERSEN
+108,748182,50.44,27-26,RIN,Mål,Gbr,10,Frida Høgaard NIELSEN,,,,1,Sofie BÖRJESSON
+109,748182,51.40,,NFH,Skud forbi,PL,18,Alberte KIELSTRUP,,,,16,Stephanie ANDERSEN
+110,748182,52.16,,RIN,Fejlaflevering,,10,Frida Høgaard NIELSEN,,,,,
+111,748182,52.20,27-27,NFH,Mål,1:e,21,Matilde VESTERGAARD,Assist,2,Caroline AAR,16,Stephanie ANDERSEN
+112,748182,52.33,,RIN,Time out,,,,,,,,
+113,748182,52.57,,RIN,Skud forbi,Gbr,2,Cecilie BJERRE,,,,1,Sofie BÖRJESSON
+114,748182,53.02,27-28,NFH,Mål,1:e,2,Caroline AAR,Assist,49,Aimée VON PEREIRA,16,Stephanie ANDERSEN
+115,748182,53.53,28-28,RIN,Mål,ST,5,Caroline SVARRE,Assist,10,Frida Høgaard NIELSEN,1,Sofie BÖRJESSON
+116,748182,54.43,28-29,NFH,Mål,HF,11,Rosa SCHMIDT,Assist,18,Alberte KIELSTRUP,16,Stephanie ANDERSEN
+117,748182,55.25,,RIN,Skud reddet,ST,23,Nanna HINNERFELDT,,,,1,Sofie BÖRJESSON
+118,748182,55.38,,NFH,Skud på stolpe,2:e,11,Rosa SCHMIDT,,,,16,Stephanie ANDERSEN
+119,748182,56.06,29-29,RIN,Mål,PL,2,Cecilie BJERRE,,,,1,Sofie BÖRJESSON
+120,748182,56.46,29-30,NFH,Mål,Gbr,18,Alberte KIELSTRUP,Assist,79,Kristina KRISTIANSEN,16,Stephanie ANDERSEN
+121,748182,56.52,30-30,RIN,Mål,2:e,23,Nanna HINNERFELDT,,,,0,
+122,748182,57.34,,NFH,Skud reddet,ST,2,Caroline AAR,Retur,0,,16,Stephanie ANDERSEN
+123,748182,57.54,30-31,NFH,Mål,Gbr,79,Kristina KRISTIANSEN,,,,16,Stephanie ANDERSEN
+124,748182,58.06,,RIN,Time out,,,,,,,,
+125,748182,58.47,,RIN,Skud forbi,HB,10,Frida Høgaard NIELSEN,,,,1,Sofie BÖRJESSON
+126,748182,59.16,30-32,NFH,Mål,Gbr,79,Kristina KRISTIANSEN,,,,16,Stephanie ANDERSEN
+127,748182,59.35,,RIN,Skud reddet,VB,3,Maria Berger WIERZBA,,,,1,Sofie BÖRJESSON
+128,748182,59.45,,NFH,Time out,,,,,,,,
+129,748182,59.59,,NFH,Regelfejl,,15,Kalidiatou NIAKATE,,,,,

@@ -1,0 +1,134 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748745,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748745,0.39,0-1,BSH,Mål,Gbr,26,Peter BALLING,Assist,34,Morten OLSEN,1,Christoffer BONDE
+3,748745,0.52,,SKH,Skud reddet,2:e,13,Noah GAUDIN,,,,12,Kasper LARSEN
+4,748745,1.23,,BSH,Skud reddet,VB,34,Morten OLSEN,Retur,0,,1,Christoffer BONDE
+5,748745,1.44,0-2,BSH,Mål,PL,97,Magnus RAHBEK,,,,1,Christoffer BONDE
+6,748745,2.31,1-2,SKH,Mål,ST,7,Senjamin BURIC,Assist,13,Noah GAUDIN,12,Kasper LARSEN
+7,748745,3.36,1-3,BSH,Mål,HB,26,Peter BALLING,,,,1,Christoffer BONDE
+8,748745,4.16,2-3,SKH,Mål,ST,7,Senjamin BURIC,Assist,22,Jakob RASMUSSEN,12,Kasper LARSEN
+9,748745,5.03,,BSH,Skud reddet,HB,26,Peter BALLING,,,,1,Christoffer BONDE
+10,748745,5.10,3-3,SKH,Mål,2:e,10,Joaquim NAZARÉ,,,,12,Kasper LARSEN
+11,748745,5.44,3-4,BSH,Mål,PL,34,Morten OLSEN,,,,1,Christoffer BONDE
+12,748745,5.52,4-4,SKH,Mål,2:e,13,Noah GAUDIN,,,,12,Kasper LARSEN
+13,748745,6.08,4-5,BSH,Mål,PL,97,Magnus RAHBEK,,,,1,Christoffer BONDE
+14,748745,6.45,5-5,SKH,Mål,HF,21,René RASMUSSEN,Assist,10,Joaquim NAZARÉ,12,Kasper LARSEN
+15,748745,7.06,,SKH,Advarsel,,14,Emil BERGHOLT,,,,,
+16,748745,7.48,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+17,748745,7.51,6-5,SKH,Mål,1:e,5,Viktor BERGHOLT,Assist,21,René RASMUSSEN,12,Kasper LARSEN
+18,748745,8.32,,BSH,Skud på stolpe,Gbr,26,Peter BALLING,,,,1,Christoffer BONDE
+19,748745,9.11,7-5,SKH,Mål,ST,7,Senjamin BURIC,Assist,13,Noah GAUDIN,12,Kasper LARSEN
+20,748745,10.27,7-6,BSH,Mål,ST,22,Anders ZACHARIASSEN,Assist,34,Morten OLSEN,1,Christoffer BONDE
+21,748745,11.03,,SKH,Skud reddet,Gbr,13,Noah GAUDIN,,,,12,Kasper LARSEN
+22,748745,11.48,,BSH,Fejlaflevering,,11,Rasmus LAUGE,,,,,
+23,748745,11.56,8-6,SKH,Mål,2:e,13,Noah GAUDIN,Assist,10,Joaquim NAZARÉ,12,Kasper LARSEN
+24,748745,12.18,,SKH,Udvisning,,14,Emil BERGHOLT,,,,,
+25,748745,12.35,,BSH,Fejlaflevering,,34,Morten OLSEN,Bold erobret,5,Viktor BERGHOLT,,
+26,748745,12.37,9-6,SKH,Mål,1:e,5,Viktor BERGHOLT,,,,,
+27,748745,13.01,9-7,BSH,Mål,Gbr,34,Morten OLSEN,,,,1,Christoffer BONDE
+28,748745,13.49,,SKH,Skud blokeret,PL,13,Noah GAUDIN,Blok af (ret),19,René Toft HANSEN,,
+29,748745,14.02,,SKH,Skud reddet,ST,7,Senjamin BURIC,,,,12,Kasper LARSEN
+30,748745,14.54,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,1,Christoffer BONDE
+31,748745,15.28,10-7,SKH,Mål,Gbr,13,Noah GAUDIN,,,,12,Kasper LARSEN
+32,748745,15.37,,BSH,Skud reddet,2:e,14,Alexander LYNGGAARD,,,,1,Christoffer BONDE
+33,748745,15.45,,SKH,Skud reddet,2:e,10,Joaquim NAZARÉ,,,,12,Kasper LARSEN
+34,748745,15.54,10-8,BSH,Mål,2:e,11,Rasmus LAUGE,,,,1,Christoffer BONDE
+35,748745,16.27,,SKH,Fejlaflevering,,13,Noah GAUDIN,,,,,
+36,748745,17.07,10-9,BSH,Mål,VB,11,Rasmus LAUGE,,,,1,Christoffer BONDE
+37,748745,17.35,,SKH,Skud reddet,PL,2,Mads BJERGFELT,,,,12,Kasper LARSEN
+38,748745,17.44,10-10,BSH,Mål,2:e,17,August FRIDÉN,Assist,11,Rasmus LAUGE,1,Christoffer BONDE
+39,748745,18.40,,SKH,Skud reddet,PL,22,Jakob RASMUSSEN,,,,12,Kasper LARSEN
+40,748745,19.15,,BSH,Skud reddet,HB,11,Rasmus LAUGE,,,,1,Christoffer BONDE
+41,748745,19.48,11-10,SKH,Mål,VB,2,Mads BJERGFELT,,,,12,Kasper LARSEN
+42,748745,20.18,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,1,Christoffer BONDE
+43,748745,20.52,12-10,SKH,Mål,ST,14,Emil BERGHOLT,Assist,10,Joaquim NAZARÉ,12,Kasper LARSEN
+44,748745,21.28,,BSH,Skud blokeret,VB,32,Nikolaj LÆSØ,Blokeret af,10,Joaquim NAZARÉ,,
+45,748745,22.00,13-10,SKH,Mål,Gbr,10,Joaquim NAZARÉ,,,,12,Kasper LARSEN
+46,748745,22.31,13-11,BSH,Mål,HF,4,Patrick BOLDSEN,,,,1,Christoffer BONDE
+47,748745,23.34,,BSH,Advarsel,,14,Alexander LYNGGAARD,,,,,
+48,748745,23.46,,SKH,Time out,,,,,,,,
+49,748745,24.04,,SKH,Skud reddet,PL,22,Jakob RASMUSSEN,,,,12,Kasper LARSEN
+50,748745,25.04,,BSH,Skud reddet,VF,17,August FRIDÉN,,,,1,Christoffer BONDE
+51,748745,25.26,,SKH,Skud reddet,Gbr,22,Jakob RASMUSSEN,,,,12,Kasper LARSEN
+52,748745,25.57,,SKH,Udvisning,,18,Vetle RØNNINGEN,,,,,
+53,748745,26.29,,BSH,Skud reddet,Gbr,32,Nikolaj LÆSØ,Retur,0,,1,Christoffer BONDE
+54,748745,26.45,13-12,BSH,Mål,Gbr,32,Nikolaj LÆSØ,,,,1,Christoffer BONDE
+55,748745,27.34,,SKH,Skud forbi,PL,13,Noah GAUDIN,,,,12,Kasper LARSEN
+56,748745,27.52,13-13,BSH,Mål,Gbr,32,Nikolaj LÆSØ,Assist,4,Patrick BOLDSEN,1,Christoffer BONDE
+57,748745,28.26,,SKH,Fejlaflevering,,10,Joaquim NAZARÉ,,,,,
+58,748745,28.31,,BSH,Skud reddet,1:e,22,Anders ZACHARIASSEN,,,,1,Christoffer BONDE
+59,748745,28.43,,SKH,Fejlaflevering,,10,Joaquim NAZARÉ,Bold erobret,14,Alexander LYNGGAARD,,
+60,748745,28.48,,BSH,Skud reddet,1:e,4,Patrick BOLDSEN,,,,1,Christoffer BONDE
+61,748745,29.37,,SKH,Fejlaflevering,,22,Jakob RASMUSSEN,Bold erobret,22,Anders ZACHARIASSEN,,
+62,748745,29.43,13-14,BSH,Mål,1:e,4,Patrick BOLDSEN,Assist,22,Anders ZACHARIASSEN,1,Christoffer BONDE
+63,748745,29.53,,SKH,Skud forbi,2:e,10,Joaquim NAZARÉ,,,,12,Kasper LARSEN
+64,748745,29.53,,BSH,Time out,,,,,,,,
+65,748745,30.00,,BSH,Skud blokeret,PL,26,Peter BALLING,Blokeret af,18,Vetle RØNNINGEN,,
+66,748745,30.00,13-14,,Halvleg,,,,,,,,
+67,748745,30.00,,,Start 2:e halvleg,,,,,,,,
+68,748745,30.40,14-14,SKH,Mål,ST,14,Emil BERGHOLT,Assist,22,Jakob RASMUSSEN,12,Kasper LARSEN
+69,748745,31.18,14-15,BSH,Mål,Gbr,32,Nikolaj LÆSØ,,,,1,Christoffer BONDE
+70,748745,31.28,15-15,SKH,Mål,2:e,13,Noah GAUDIN,,,,12,Kasper LARSEN
+71,748745,31.51,15-16,BSH,Mål,ST,22,Anders ZACHARIASSEN,Assist,11,Rasmus LAUGE,1,Christoffer BONDE
+72,748745,32.29,16-16,SKH,Mål,PL,13,Noah GAUDIN,,,,12,Kasper LARSEN
+73,748745,33.10,16-17,BSH,Mål,Gbr,11,Rasmus LAUGE,,,,1,Christoffer BONDE
+74,748745,33.17,17-17,SKH,Mål,2:e,13,Noah GAUDIN,,,,12,Kasper LARSEN
+75,748745,33.50,,BSH,Skud blokeret,PL,97,Magnus RAHBEK,Blok af (ret),14,Emil BERGHOLT,,
+76,748745,34.22,17-18,BSH,Mål,PL,97,Magnus RAHBEK,,,,1,Christoffer BONDE
+77,748745,34.32,18-18,SKH,Mål,2:e,13,Noah GAUDIN,,,,12,Kasper LARSEN
+78,748745,34.40,,BSH,Time out,,,,,,,,
+79,748745,35.09,18-19,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,97,Magnus RAHBEK,1,Christoffer BONDE
+80,748745,35.20,19-19,SKH,Mål,2:e,22,Jakob RASMUSSEN,,,,12,Kasper LARSEN
+81,748745,35.55,,BSH,Skud reddet,VB,97,Magnus RAHBEK,,,,1,Christoffer BONDE
+82,748745,36.03,,SKH,Fejlaflevering,,13,Noah GAUDIN,,,,,
+83,748745,36.29,,BSH,Skud reddet,PL,97,Magnus RAHBEK,,,,1,Christoffer BONDE
+84,748745,37.07,,SKH,Fejlaflevering,,13,Noah GAUDIN,,,,,
+85,748745,37.08,19-20,BSH,Mål,1:e,23,Mads LENBROCH,Assist,11,Rasmus LAUGE,1,Christoffer BONDE
+86,748745,37.50,,SKH,Skud reddet,VB,22,Jakob RASMUSSEN,,,,12,Kasper LARSEN
+87,748745,37.59,19-21,BSH,Mål,2:e,11,Rasmus LAUGE,,,,1,Christoffer BONDE
+88,748745,38.08,,SKH,Skud forbi,2:e,5,Viktor BERGHOLT,,,,12,Kasper LARSEN
+89,748745,38.44,,BSH,Skud reddet,VB,11,Rasmus LAUGE,,,,1,Christoffer BONDE
+90,748745,38.56,,BSH,Udvisning,,19,René Toft HANSEN,,,,,
+91,748745,39.25,20-21,SKH,Mål,HB,10,Joaquim NAZARÉ,,,,12,Kasper LARSEN
+92,748745,40.06,20-22,BSH,Mål,PL,97,Magnus RAHBEK,,,,1,Christoffer BONDE
+93,748745,40.26,21-22,SKH,Mål,HB,10,Joaquim NAZARÉ,,,,12,Kasper LARSEN
+94,748745,41.13,21-23,BSH,Mål,Gbr,97,Magnus RAHBEK,,,,1,Christoffer BONDE
+95,748745,41.16,,SKH,Udvisning,,14,Emil BERGHOLT,,,,,
+96,748745,42.05,,SKH,Regelfejl,,7,Senjamin BURIC,,,,,
+97,748745,42.34,21-24,BSH,Mål,HB,32,Nikolaj LÆSØ,,,,1,Christoffer BONDE
+98,748745,42.47,,SKH,Time out,,,,,,,,
+99,748745,43.32,,SKH,Skud blokeret,HB,13,Noah GAUDIN,Blok af (ret),23,Mads LENBROCH,,
+100,748745,43.41,22-24,SKH,Mål,PL,13,Noah GAUDIN,,,,12,Kasper LARSEN
+101,748745,44.11,22-25,BSH,Mål,PL,97,Magnus RAHBEK,,,,1,Christoffer BONDE
+102,748745,44.55,,SKH,Tilkendt straffe,,7,Senjamin BURIC,Forårs. str.,19,René Toft HANSEN,,
+103,748745,45.01,23-25,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,12,Kasper LARSEN
+104,748745,46.00,23-26,BSH,Mål,,,,,,,,
+105,748745,46.32,24-26,SKH,Mål,ST,14,Emil BERGHOLT,Assist,22,Jakob RASMUSSEN,12,Kasper LARSEN
+106,748745,46.51,24-27,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,11,Rasmus LAUGE,1,Christoffer BONDE
+107,748745,47.02,25-27,SKH,Mål,2:e,13,Noah GAUDIN,,,,12,Kasper LARSEN
+108,748745,47.43,,BSH,Fejlaflevering,,97,Magnus RAHBEK,,,,,
+109,748745,48.04,26-27,SKH,Mål,PL,22,Jakob RASMUSSEN,,,,12,Kasper LARSEN
+110,748745,48.49,26-28,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,32,Nikolaj LÆSØ,16,Tim WINKLER
+111,748745,49.24,27-28,SKH,Mål,PL,22,Jakob RASMUSSEN,,,,16,Anton HELLBERG
+112,748745,50.00,27-29,BSH,Mål,ST,22,Anders ZACHARIASSEN,Assist,11,Rasmus LAUGE,16,Tim WINKLER
+113,748745,50.11,,SKH,Fejlaflevering,,13,Noah GAUDIN,Bold erobret,22,Anders ZACHARIASSEN,,
+114,748745,50.14,27-30,BSH,Mål,1:e,4,Patrick BOLDSEN,Assist,23,Mads LENBROCH,16,Tim WINKLER
+115,748745,50.20,,SKH,Time out,,,,,,,,
+116,748745,50.40,,SKH,Regelfejl,,14,Emil BERGHOLT,,,,,
+117,748745,51.18,,BSH,Tilkendt straffe,,11,Rasmus LAUGE,Forårs. str.,21,René RASMUSSEN,,
+118,748745,51.35,27-31,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,1,Christoffer BONDE
+119,748745,52.26,,SKH,Skud reddet,PL,15,Lasse MIKKELSEN,,,,16,Anton HELLBERG
+120,748745,53.06,,BSH,Skud forbi,PL,26,Peter BALLING,,,,1,Christoffer BONDE
+121,748745,54.18,,SKH,Skud forbi,VB,22,Jakob RASMUSSEN,,,,16,Anton HELLBERG
+122,748745,55.18,,BSH,Fejlaflevering,,11,Rasmus LAUGE,,,,,
+123,748745,55.25,,SKH,Skud reddet,HB,13,Noah GAUDIN,,,,16,Anton HELLBERG
+124,748745,55.58,27-32,BSH,Mål,HB,34,Morten OLSEN,,,,1,Christoffer BONDE
+125,748745,56.27,,SKH,Skud blokeret,PL,22,Jakob RASMUSSEN,Blok af (ret),19,René Toft HANSEN,,
+126,748745,56.44,,SKH,Skud reddet,HB,2,Mads BJERGFELT,Retur,0,,16,Anton HELLBERG
+127,748745,57.01,,SKH,Fejlaflevering,,22,Jakob RASMUSSEN,Bold erobret,23,Mads LENBROCH,,
+128,748745,57.34,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,1,Christoffer BONDE
+129,748745,57.44,,SKH,Skud på stolpe,2:e,2,Mads BJERGFELT,,,,16,Anton HELLBERG
+130,748745,58.27,27-33,BSH,Mål,PL,34,Morten OLSEN,,,,1,Christoffer BONDE
+131,748745,58.56,28-33,SKH,Mål,ST,14,Emil BERGHOLT,Assist,22,Jakob RASMUSSEN,16,Anton HELLBERG
+132,748745,59.35,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+133,748745,59.39,29-33,SKH,Mål,2:e,14,Emil BERGHOLT,Assist,22,Jakob RASMUSSEN,16,Anton HELLBERG

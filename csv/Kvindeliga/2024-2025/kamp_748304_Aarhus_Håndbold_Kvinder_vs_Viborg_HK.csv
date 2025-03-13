@@ -1,0 +1,144 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748304,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748304,1.03,0-1,VHK,Mål,PL,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+3,748304,1.46,1-1,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,15,Sofia DEEN,16,Louise Bak JENSEN
+4,748304,2.24,,VHK,Tabt bold,,5,Marielle MARTINSEN,,,,,
+5,748304,2.59,,AHB,Skud reddet,Gbr,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+6,748304,3.33,1-2,VHK,Mål,HF,18,Henriette HANSEN,Assist,5,Marielle MARTINSEN,86,Sabine ENGLERT
+7,748304,3.41,2-2,AHB,Mål,2:e,15,Sofia DEEN,,,,16,Louise Bak JENSEN
+8,748304,4.14,,VHK,Skud reddet,Gbr,5,Marielle MARTINSEN,,,,86,Sabine ENGLERT
+9,748304,4.55,,AHB,Tabt bold,,14,Anna Berger WIERZBA,Bold erobret,19,Sara HALD,,
+10,748304,5.00,,VHK,Fejlaflevering,,5,Marielle MARTINSEN,,,,,
+11,748304,5.09,,AHB,Skud reddet,2:e,10,Frederikke WAAGE-JENSEN,,,,16,Louise Bak JENSEN
+12,748304,5.48,2-3,VHK,Mål,HF,18,Henriette HANSEN,Assist,9,Laura THESTRUP,86,Sabine ENGLERT
+13,748304,6.22,3-3,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+14,748304,6.49,3-4,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+15,748304,7.03,,AHB,Skud på stolpe,Gbr,14,Anna Berger WIERZBA,,,,16,Louise Bak JENSEN
+16,748304,7.10,,VHK,Tilkendt straffe,,5,Marielle MARTINSEN,Forårs. str.,3,Sarah Vest KIRKELØKKE,,
+17,748304,7.11,,AHB,Udvisning,,3,Sarah Vest KIRKELØKKE,,,,,
+18,748304,7.14,,VHK,Straffekast reddet,,19,Sara HALD,,,,86,Sabine ENGLERT
+19,748304,7.59,,VHK,Advarsel,,26,Christina PEDERSEN,,,,,
+20,748304,8.23,,AHB,Skud reddet,ST,4,Katrine JACOBSEN,,,,16,Louise Bak JENSEN
+21,748304,8.55,,AHB,Udvisning,,4,Katrine JACOBSEN,,,,,
+22,748304,9.05,3-5,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+23,748304,10.14,4-5,AHB,Mål,PL,15,Sofia DEEN,,,,16,Louise Bak JENSEN
+24,748304,10.42,4-6,VHK,Mål,VF,3,Alberte SIMONSEN,,,,86,Sabine ENGLERT
+25,748304,10.42,,AHB,Udvisning,,14,Anna Berger WIERZBA,,,,,
+26,748304,11.33,,AHB,Skud på stolpe,Gbr,15,Sofia DEEN,,,,16,Louise Bak JENSEN
+27,748304,11.41,,VHK,Skud reddet,2:e,18,Henriette HANSEN,,,,86,Sabine ENGLERT
+28,748304,12.24,,AHB,Skud på stolpe,VF,18,Mathilde ØSTERGAARD,,,,16,Louise Bak JENSEN
+29,748304,12.38,4-7,VHK,Mål,Gbr,77,Jana MITTÚN,,,,86,Sabine ENGLERT
+30,748304,12.48,,AHB,Time out,,,,,,,,
+31,748304,13.43,5-7,AHB,Mål,PL,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+32,748304,13.56,,VHK,Skud reddet,Gbr,77,Jana MITTÚN,Retur,0,,86,Sabine ENGLERT
+33,748304,14.25,,VHK,Tilkendt straffe,,19,Sara HALD,Forårs. str.,10,Frederikke WAAGE-JENSEN,,
+34,748304,14.25,,AHB,Udvisning,,10,Frederikke WAAGE-JENSEN,,,,,
+35,748304,14.28,5-8,VHK,Mål på straffe,,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+36,748304,15.23,,AHB,Skud reddet,PL,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+37,748304,15.51,,VHK,Skud forbi,PL,77,Jana MITTÚN,,,,86,Sabine ENGLERT
+38,748304,16.41,,AHB,Tilkendt straffe,,15,Sofia DEEN,Forårs. str.,5,Marielle MARTINSEN,,
+39,748304,16.57,,AHB,Straffekast reddet,,15,Sofia DEEN,,,,16,Louise Bak JENSEN
+40,748304,17.47,5-9,VHK,Mål,ST,19,Sara HALD,Assist,77,Jana MITTÚN,86,Sabine ENGLERT
+41,748304,17.56,,AHB,Regelfejl,,15,Sofia DEEN,,,,,
+42,748304,18.56,,VHK,Skud reddet,VB,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+43,748304,19.11,6-9,AHB,Mål,Gbr,77,Alberte EBLER,Assist,15,Sofia DEEN,16,Louise Bak JENSEN
+44,748304,19.25,,VHK,Skud reddet,HF,18,Henriette HANSEN,,,,86,Sabine ENGLERT
+45,748304,19.31,,AHB,Regelfejl,,17,Line Berggren LARSEN,,,,,
+46,748304,20.11,6-10,VHK,Mål,ST,19,Sara HALD,Assist,77,Jana MITTÚN,86,Sabine ENGLERT
+47,748304,20.43,,AHB,Regelfejl,,3,Sarah Vest KIRKELØKKE,,,,,
+48,748304,21.15,6-11,VHK,Mål,ST,19,Sara HALD,Assist,77,Jana MITTÚN,86,Sabine ENGLERT
+49,748304,21.27,,VHK,Udvisning,,77,Jana MITTÚN,,,,,
+50,748304,21.43,7-11,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+51,748304,21.43,,VHK,Udvisning,,9,Laura THESTRUP,,,,,
+52,748304,22.23,,VHK,Skud reddet,PL,5,Marielle MARTINSEN,,,,86,Sabine ENGLERT
+53,748304,22.33,8-11,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+54,748304,22.35,,VHK,Udvisning,,21,Anne HYKKELBJERG,,,,,
+55,748304,23.08,,VHK,Skud reddet,Gbr,8,Elma ÖRTEMARK,,,,86,Sabine ENGLERT
+56,748304,23.18,,AHB,Skud reddet,2:e,4,Katrine JACOBSEN,,,,16,Louise Bak JENSEN
+57,748304,23.42,,VHK,Regelfejl,,77,Jana MITTÚN,,,,,
+58,748304,23.46,9-11,AHB,Mål,1:e,3,Sarah Vest KIRKELØKKE,,,,0,
+59,748304,24.17,9-12,VHK,Mål,Gbr,5,Marielle MARTINSEN,,,,86,Sabine ENGLERT
+60,748304,24.24,10-12,AHB,Mål,2:e,17,Line Berggren LARSEN,,,,0,
+61,748304,25.04,10-13,VHK,Mål,HF,18,Henriette HANSEN,Assist,77,Jana MITTÚN,86,Sabine ENGLERT
+62,748304,25.43,11-13,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+63,748304,25.58,,VHK,Time out,,,,,,,,
+64,748304,26.15,,VHK,Skud forbi,Gbr,5,Marielle MARTINSEN,,,,86,Sabine ENGLERT
+65,748304,26.37,12-13,AHB,Mål,PL,14,Anna Berger WIERZBA,,,,16,Louise Bak JENSEN
+66,748304,27.23,,VHK,Skud reddet,Gbr,77,Jana MITTÚN,Retur,0,,86,Sabine ENGLERT
+67,748304,28.03,,VHK,Skud reddet,VB,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+68,748304,28.13,,AHB,Skud reddet,2:e,15,Sofia DEEN,,,,16,Louise Bak JENSEN
+69,748304,28.48,,VHK,Tabt bold,,77,Jana MITTÚN,Bold erobret,14,Anna Berger WIERZBA,,
+70,748304,28.53,13-13,AHB,Mål,1:e,18,Mathilde ØSTERGAARD,Assist,14,Anna Berger WIERZBA,16,Louise Bak JENSEN
+71,748304,29.39,,VHK,Fejlaflevering,,19,Sara HALD,,,,,
+72,748304,29.53,14-13,AHB,Mål,Gbr,15,Sofia DEEN,,,,16,Louise Bak JENSEN
+73,748304,29.59,,VHK,Skud reddet,PL,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+74,748304,30.00,14-13,,Halvleg,,,,,,,,
+75,748304,30.00,,,Start 2:e halvleg,,,,,,,,
+76,748304,30.43,,AHB,Skud reddet,PL,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+77,748304,31.51,,VHK,Regelfejl,,19,Sara HALD,,,,,
+78,748304,32.21,,AHB,Skud reddet,VB,15,Sofia DEEN,Retur,0,,16,Louise Bak JENSEN
+79,748304,32.42,15-13,AHB,Mål,Gbr,15,Sofia DEEN,,,,16,Louise Bak JENSEN
+80,748304,32.53,,VHK,Skud reddet,2:e,77,Jana MITTÚN,,,,86,Sabine ENGLERT
+81,748304,33.04,,AHB,Regelfejl,,15,Sofia DEEN,,,,,
+82,748304,33.34,15-14,VHK,Mål,HF,18,Henriette HANSEN,Assist,62,Louise SØNDERGAARD,86,Sabine ENGLERT
+83,748304,33.48,,AHB,Regelfejl,,14,Anna Berger WIERZBA,,,,,
+84,748304,34.15,15-15,VHK,Mål,Gbr,62,Louise SØNDERGAARD,Assist,77,Jana MITTÚN,86,Sabine ENGLERT
+85,748304,35.02,,AHB,Skud på stolpe,VF,18,Mathilde ØSTERGAARD,,,,16,Louise Bak JENSEN
+86,748304,35.09,,VHK,Regelfejl,,5,Marielle MARTINSEN,,,,,
+87,748304,35.46,16-15,AHB,Mål,HF,22,Tania Bilde KNUDSEN,Assist,14,Anna Berger WIERZBA,16,Louise Bak JENSEN
+88,748304,35.57,16-16,VHK,Mål,ST,19,Sara HALD,Assist,5,Marielle MARTINSEN,86,Sabine ENGLERT
+89,748304,36.05,,AHB,Fejlaflevering,,17,Line Berggren LARSEN,,,,,
+90,748304,36.13,,VHK,Fejlaflevering,,5,Marielle MARTINSEN,,,,,
+91,748304,37.02,17-16,AHB,Mål,HB,14,Anna Berger WIERZBA,,,,16,Louise Bak JENSEN
+92,748304,37.49,17-17,VHK,Mål,PL,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+93,748304,38.23,,AHB,Skud reddet,HF,22,Tania Bilde KNUDSEN,,,,16,Louise Bak JENSEN
+94,748304,38.31,,VHK,Skud reddet,2:e,3,Alberte SIMONSEN,,,,86,Sabine ENGLERT
+95,748304,38.40,18-17,AHB,Mål,2:e,8,Freja GANDRUP ERNST,,,,16,Louise Bak JENSEN
+96,748304,39.21,,VHK,Skud reddet,Gbr,62,Louise SØNDERGAARD,Retur,0,,86,Sabine ENGLERT
+97,748304,39.40,,VHK,Skud reddet,Gbr,62,Louise SØNDERGAARD,,,,86,Sabine ENGLERT
+98,748304,39.55,,AHB,Tilkendt straffe,,14,Anna Berger WIERZBA,Forårs. str.,77,Jana MITTÚN,,
+99,748304,40.12,,AHB,Straffekast reddet,,15,Sofia DEEN,,,,16,Louise Bak JENSEN
+100,748304,40.46,,VHK,Fejlaflevering,,26,Christina PEDERSEN,,,,,
+101,748304,40.53,19-17,AHB,Mål,2:e,4,Katrine JACOBSEN,Assist,17,Line Berggren LARSEN,16,Louise Bak JENSEN
+102,748304,41.02,,VHK,Time out,,,,,,,,
+103,748304,41.23,,VHK,Skud reddet,Gbr,8,Elma ÖRTEMARK,,,,86,Sabine ENGLERT
+104,748304,42.23,19-18,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+105,748304,42.49,20-18,AHB,Mål,ST,4,Katrine JACOBSEN,Assist,14,Anna Berger WIERZBA,16,Louise Bak JENSEN
+106,748304,43.35,,VHK,Skud reddet,VB,26,Christina PEDERSEN,Retur,0,,86,Sabine ENGLERT
+107,748304,43.43,,VHK,Skud på stolpe,HF,18,Henriette HANSEN,,,,86,Sabine ENGLERT
+108,748304,44.03,21-18,AHB,Mål,VB,8,Freja GANDRUP ERNST,,,,16,Louise Bak JENSEN
+109,748304,44.14,21-19,VHK,Mål,VB,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+110,748304,44.49,,AHB,Skud på stolpe,Gbr,14,Anna Berger WIERZBA,,,,16,Louise Bak JENSEN
+111,748304,45.26,,VHK,Skud reddet,VF,3,Alberte SIMONSEN,Retur,77,Jana MITTÚN,86,Sabine ENGLERT
+112,748304,45.39,,VHK,Skud reddet,PL,77,Jana MITTÚN,,,,86,Sabine ENGLERT
+113,748304,46.06,,AHB,Skud reddet,HF,22,Tania Bilde KNUDSEN,,,,16,Louise Bak JENSEN
+114,748304,46.52,,VHK,Skud reddet,PL,77,Jana MITTÚN,,,,86,Sabine ENGLERT
+115,748304,46.59,,AHB,Fejlaflevering,,,,,,,86,Sabine ENGLERT
+116,748304,47.36,21-20,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+117,748304,48.05,,AHB,Skud reddet,PL,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+118,748304,48.13,,VHK,Regelfejl,,26,Christina PEDERSEN,,,,,
+119,748304,48.44,,AHB,Skud på stolpe,Gbr,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+120,748304,49.24,,VHK,Fejlaflevering,,5,Marielle MARTINSEN,Bold erobret,7,Emma MOGENSEN,,
+121,748304,49.32,22-20,AHB,Mål,1:e,18,Mathilde ØSTERGAARD,Assist,17,Line Berggren LARSEN,16,Louise Bak JENSEN
+122,748304,49.49,,VHK,Time out,,,,,,,,
+123,748304,50.10,,VHK,Tabt bold,,19,Sara HALD,,,,,
+124,748304,50.18,,AHB,Regelfejl,,8,Freja GANDRUP ERNST,,,,,
+125,748304,50.44,,VHK,Skud reddet,PL,62,Louise SØNDERGAARD,,,,86,Sabine ENGLERT
+126,748304,52.03,,AHB,Skud blokeret,PL,8,Freja GANDRUP ERNST,Blokeret af,26,Christina PEDERSEN,,
+127,748304,52.50,,VHK,Regelfejl,,77,Jana MITTÚN,,,,,
+128,748304,53.27,23-20,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+129,748304,54.06,,VHK,Regelfejl,,19,Sara HALD,,,,,
+130,748304,54.57,,AHB,Tabt bold,,3,Sarah Vest KIRKELØKKE,,,,,
+131,748304,55.03,,VHK,Skud reddet,2:e,77,Jana MITTÚN,Retur,0,,86,Sabine ENGLERT
+132,748304,55.37,23-21,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+133,748304,55.51,24-21,AHB,Mål,HF,22,Tania Bilde KNUDSEN,Assist,17,Line Berggren LARSEN,16,Louise Bak JENSEN
+134,748304,56.23,24-22,VHK,Mål,PL,77,Jana MITTÚN,,,,86,Sabine ENGLERT
+135,748304,57.15,,AHB,Passivt spil,,0,,,,,,
+136,748304,57.49,,VHK,Skud reddet,PL,77,Jana MITTÚN,,,,86,Sabine ENGLERT
+137,748304,58.20,,AHB,Tilkendt straffe,,17,Line Berggren LARSEN,Forårs. str.,77,Jana MITTÚN,,
+138,748304,58.25,25-22,AHB,Mål på straffe,,18,Mathilde ØSTERGAARD,,,,16,Louise Bak JENSEN
+139,748304,58.33,,VHK,Skud reddet,PL,26,Christina PEDERSEN,,,,86,Sabine ENGLERT
+140,748304,58.52,,AHB,Time out,,,,,,,,
+141,748304,59.06,,AHB,Skud reddet,Gbr,17,Line Berggren LARSEN,,,,16,Louise Bak JENSEN
+142,748304,59.15,25-23,VHK,Mål,2:e,18,Henriette HANSEN,Assist,77,Jana MITTÚN,86,Sabine ENGLERT
+143,748304,59.52,26-23,AHB,Mål,HF,22,Tania Bilde KNUDSEN,Assist,14,Anna Berger WIERZBA,16,Louise Bak JENSEN

@@ -1,0 +1,148 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748193,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748193,0.31,,AHB,Skud reddet,Gbr,17,Line Berggren LARSEN,,,,12,Stine BROLØS
+3,748193,0.44,0-1,SJE,Mål,2:e,6,Lea HANSEN,Assist,22,Olivia SIMONSEN,86,Sabine ENGLERT
+4,748193,0.53,,AHB,Regelfejl,,17,Line Berggren LARSEN,,,,,
+5,748193,1.28,0-2,SJE,Mål,HF,6,Lea HANSEN,Assist,28,Sarah PAULSEN,86,Sabine ENGLERT
+6,748193,1.40,1-2,AHB,Mål,2:e,77,Alberte EBLER,,,,12,Stine BROLØS
+7,748193,2.12,,SJE,Skud på stolpe,VB,14,Louise ELLEBÆK,,,,86,Sabine ENGLERT
+8,748193,2.20,,AHB,Skud på stolpe,2:e,17,Line Berggren LARSEN,,,,12,Stine BROLØS
+9,748193,2.32,1-3,SJE,Mål,2:e,6,Lea HANSEN,Assist,22,Olivia SIMONSEN,86,Sabine ENGLERT
+10,748193,3.02,,AHB,Skud reddet,HB,77,Alberte EBLER,,,,12,Stine BROLØS
+11,748193,3.36,,SJE,Skud reddet,Gbr,28,Sarah PAULSEN,,,,86,Sabine ENGLERT
+12,748193,3.44,2-3,AHB,Mål,2:e,17,Line Berggren LARSEN,,,,12,Stine BROLØS
+13,748193,4.32,2-4,SJE,Mål,HF,6,Lea HANSEN,Assist,14,Louise ELLEBÆK,86,Sabine ENGLERT
+14,748193,5.09,,SJE,Advarsel,,14,Louise ELLEBÆK,,,,,
+15,748193,5.53,3-4,AHB,Mål,Gbr,77,Alberte EBLER,,,,12,Stine BROLØS
+16,748193,6.00,3-5,SJE,Mål,2:e,31,Ida-Marie DAHL,Assist,22,Olivia SIMONSEN,86,Sabine ENGLERT
+17,748193,6.48,,AHB,Skud på stolpe,VF,18,Mathilde ØSTERGAARD,,,,12,Stine BROLØS
+18,748193,7.37,,SJE,Skud reddet,VB,14,Louise ELLEBÆK,,,,86,Sabine ENGLERT
+19,748193,7.46,,AHB,Skud forbi,2:e,14,Anna Berger WIERZBA,,,,12,Stine BROLØS
+20,748193,8.19,,SJE,Skud på stolpe,PL,7,Melissa PETRÉN,,,,86,Sabine ENGLERT
+21,748193,8.30,,AHB,Tabt bold,,3,Sarah Vest KIRKELØKKE,,,,,
+22,748193,8.35,3-6,SJE,Mål,1:e,6,Lea HANSEN,Assist,14,Louise ELLEBÆK,86,Sabine ENGLERT
+23,748193,8.44,4-6,AHB,Mål,2:e,14,Anna Berger WIERZBA,,,,12,Stine BROLØS
+24,748193,9.20,,SJE,Tilkendt straffe,,28,Sarah PAULSEN,Forårs. str.,3,Sarah Vest KIRKELØKKE,,
+25,748193,9.36,4-7,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,86,Sabine ENGLERT
+26,748193,10.25,,AHB,Tilkendt straffe,,17,Line Berggren LARSEN,Forårs. str.,31,Ida-Marie DAHL,,
+27,748193,10.52,5-7,AHB,Mål på straffe,,15,Sofia DEEN,,,,12,Stine BROLØS
+28,748193,11.17,,SJE,Skud reddet,PL,28,Sarah PAULSEN,,,,86,Sabine ENGLERT
+29,748193,11.23,6-7,AHB,Mål,1:e,18,Mathilde ØSTERGAARD,Assist,86,Sabine ENGLERT,12,Stine BROLØS
+30,748193,11.51,6-8,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,86,Sabine ENGLERT
+31,748193,12.25,,AHB,Skud reddet,HF,25,Ida GÖTZSCHE,,,,12,Stine BROLØS
+32,748193,12.58,6-9,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,14,Louise ELLEBÆK,86,Sabine ENGLERT
+33,748193,13.07,7-9,AHB,Mål,2:e,14,Anna Berger WIERZBA,,,,12,Stine BROLØS
+34,748193,13.43,7-10,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,86,Sabine ENGLERT
+35,748193,13.54,8-10,AHB,Mål,2:e,14,Anna Berger WIERZBA,,,,12,Stine BROLØS
+36,748193,14.23,8-11,SJE,Mål,PL,14,Louise ELLEBÆK,,,,86,Sabine ENGLERT
+37,748193,14.39,,AHB,Fejlaflevering,,14,Anna Berger WIERZBA,Bold erobret,6,Lea HANSEN,,
+38,748193,15.07,,SJE,Regelfejl,,7,Melissa PETRÉN,,,,,
+39,748193,15.17,,AHB,Skud reddet,2:e,17,Line Berggren LARSEN,,,,12,Stine BROLØS
+40,748193,15.29,8-12,SJE,Mål,2:e,31,Ida-Marie DAHL,Assist,14,Louise ELLEBÆK,86,Sabine ENGLERT
+41,748193,15.36,,AHB,Time out,,,,,,,,
+42,748193,15.58,,AHB,Skud forbi,PL,77,Alberte EBLER,,,,12,Stine BROLØS
+43,748193,16.42,,SJE,Fejlaflevering,,28,Sarah PAULSEN,,,,,
+44,748193,16.55,,AHB,Skud forbi,2:e,17,Line Berggren LARSEN,,,,12,Stine BROLØS
+45,748193,17.07,,SJE,Tabt bold,,11,Pernille JOHANNSEN,Bold erobret,15,Sofia DEEN,,
+46,748193,17.17,,AHB,Skud reddet,2:e,25,Ida GÖTZSCHE,,,,12,Stine BROLØS
+47,748193,17.49,8-13,SJE,Mål,Gbr,11,Pernille JOHANNSEN,Assist,7,Melissa PETRÉN,1,Elin THORSTEINSDOTTIR
+48,748193,17.58,,AHB,Skud på stolpe,2:e,15,Sofia DEEN,Retur,25,Ida GÖTZSCHE,12,Stine BROLØS
+49,748193,18.37,,AHB,Skud forbi,PL,77,Alberte EBLER,,,,12,Stine BROLØS
+50,748193,18.48,,SJE,Time out,,,,,,,,
+51,748193,19.08,8-14,SJE,Mål,VF,17,June BØTTGER,Assist,7,Melissa PETRÉN,1,Elin THORSTEINSDOTTIR
+52,748193,19.46,,AHB,Tabt bold,,15,Sofia DEEN,,,,,
+53,748193,19.52,8-15,SJE,Mål,1:e,17,June BØTTGER,Assist,31,Ida-Marie DAHL,1,Elin THORSTEINSDOTTIR
+54,748193,20.01,9-15,AHB,Mål,2:e,14,Anna Berger WIERZBA,,,,12,Stine BROLØS
+55,748193,20.36,9-16,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,28,Sarah PAULSEN,1,Elin THORSTEINSDOTTIR
+56,748193,21.28,,AHB,Skud på stolpe,PL,77,Alberte EBLER,,,,12,Stine BROLØS
+57,748193,21.57,,SJE,Regelfejl,,31,Ida-Marie DAHL,,,,,
+58,748193,22.25,,AHB,Skud blokeret,PL,14,Anna Berger WIERZBA,Blokeret af,22,Olivia SIMONSEN,,
+59,748193,22.35,9-17,SJE,Mål,2:e,31,Ida-Marie DAHL,Assist,10,Nicoline OLSEN,1,Elin THORSTEINSDOTTIR
+60,748193,22.37,,AHB,Time out,,,,,,,,
+61,748193,23.00,,SJE,Udvisning,,10,Nicoline OLSEN,,,,,
+62,748193,23.12,10-17,AHB,Mål,Gbr,15,Sofia DEEN,,,,12,Stine BROLØS
+63,748193,23.59,,SJE,Regelfejl,,14,Louise ELLEBÆK,,,,,
+64,748193,24.09,11-17,AHB,Mål,2:e,17,Line Berggren LARSEN,,,,12,Stine BROLØS
+65,748193,24.44,,SJE,Fejlaflevering,,7,Melissa PETRÉN,Bold erobret,25,Ida GÖTZSCHE,,
+66,748193,24.50,12-17,AHB,Mål,1:e,17,Line Berggren LARSEN,,,,0,
+67,748193,25.25,,SJE,Skud reddet,Gbr,28,Sarah PAULSEN,,,,1,Elin THORSTEINSDOTTIR
+68,748193,25.36,,AHB,Regelfejl,,77,Alberte EBLER,,,,,
+69,748193,26.11,,SJE,Fejlaflevering,,14,Louise ELLEBÆK,,,,,
+70,748193,26.17,13-17,AHB,Mål,1:e,17,Line Berggren LARSEN,,,,0,
+71,748193,27.02,13-18,SJE,Mål,VF,17,June BØTTGER,Assist,28,Sarah PAULSEN,1,Elin THORSTEINSDOTTIR
+72,748193,27.40,,AHB,Fejlaflevering,,17,Line Berggren LARSEN,,,,,
+73,748193,27.50,13-19,SJE,Mål,2:e,11,Pernille JOHANNSEN,Assist,10,Nicoline OLSEN,1,Elin THORSTEINSDOTTIR
+74,748193,28.25,,AHB,Skud reddet,PL,15,Sofia DEEN,,,,12,Stine BROLØS
+75,748193,28.58,13-20,SJE,Mål,VF,17,June BØTTGER,Assist,7,Melissa PETRÉN,1,Elin THORSTEINSDOTTIR
+76,748193,29.08,,AHB,Tilkendt straffe,,77,Alberte EBLER,Forårs. str.,17,June BØTTGER,,
+77,748193,29.13,14-20,AHB,Mål på straffe,,15,Sofia DEEN,,,,12,Stine BROLØS
+78,748193,29.46,,SJE,Fejlaflevering,,10,Nicoline OLSEN,,,,,
+79,748193,29.56,15-20,AHB,Mål,2:e,17,Line Berggren LARSEN,,,,12,Stine BROLØS
+80,748193,30.00,15-20,,Halvleg,,,,,,,,
+81,748193,30.00,,,Start 2:e halvleg,,,,,,,,
+82,748193,30.31,15-21,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,28,Sarah PAULSEN,1,Elin THORSTEINSDOTTIR
+83,748193,31.02,,AHB,Tilkendt straffe,,17,Line Berggren LARSEN,Forårs. str.,6,Lea HANSEN,,
+84,748193,31.10,16-21,AHB,Mål på straffe,,15,Sofia DEEN,,,,26,Nora PERSSON
+85,748193,32.10,16-22,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,1,Elin THORSTEINSDOTTIR
+86,748193,32.25,17-22,AHB,Mål,2:e,18,Mathilde ØSTERGAARD,Assist,23,Nikoline SAX,12,Stine BROLØS
+87,748193,32.51,17-23,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,1,Elin THORSTEINSDOTTIR
+88,748193,34.04,18-23,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,23,Nikoline SAX,12,Stine BROLØS
+89,748193,34.35,18-24,SJE,Mål,ST,17,June BØTTGER,Assist,7,Melissa PETRÉN,1,Elin THORSTEINSDOTTIR
+90,748193,35.08,,AHB,Regelfejl,,14,Anna Berger WIERZBA,,,,,
+91,748193,35.55,18-25,SJE,Mål,PL,7,Melissa PETRÉN,,,,1,Elin THORSTEINSDOTTIR
+92,748193,36.26,19-25,AHB,Mål,HF,25,Ida GÖTZSCHE,Assist,14,Anna Berger WIERZBA,12,Stine BROLØS
+93,748193,36.58,,SJE,Tilkendt straffe,,31,Ida-Marie DAHL,Forårs. str.,23,Nikoline SAX,,
+94,748193,37.16,19-26,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,1,Elin THORSTEINSDOTTIR
+95,748193,37.41,,AHB,Skud reddet,PL,17,Line Berggren LARSEN,,,,12,Stine BROLØS
+96,748193,38.19,,SJE,Tilkendt straffe,,31,Ida-Marie DAHL,Forårs. str.,23,Nikoline SAX,,
+97,748193,38.30,19-27,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,1,Elin THORSTEINSDOTTIR
+98,748193,38.58,20-27,AHB,Mål,Gbr,23,Nikoline SAX,,,,12,Stine BROLØS
+99,748193,39.24,,SJE,Fejlaflevering,,7,Melissa PETRÉN,Bold erobret,17,Line Berggren LARSEN,,
+100,748193,40.49,21-27,AHB,Mål,PL,17,Line Berggren LARSEN,,,,12,Stine BROLØS
+101,748193,41.15,21-28,SJE,Mål,HF,6,Lea HANSEN,Assist,31,Ida-Marie DAHL,1,Elin THORSTEINSDOTTIR
+102,748193,41.26,22-28,AHB,Mål,2:e,17,Line Berggren LARSEN,,,,12,Stine BROLØS
+103,748193,41.56,22-29,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,7,Melissa PETRÉN,1,Elin THORSTEINSDOTTIR
+104,748193,42.10,23-29,AHB,Mål,,,,,,,,
+105,748193,42.46,,SJE,Regelfejl,,31,Ida-Marie DAHL,,,,,
+106,748193,43.12,,AHB,Fejlaflevering,,23,Nikoline SAX,Bold erobret,14,Louise ELLEBÆK,,
+107,748193,43.18,,SJE,Skud reddet,1:e,9,Filippa NYMAN,,,,86,Sabine ENGLERT
+108,748193,43.29,,AHB,Tilkendt straffe,,14,Anna Berger WIERZBA,Forårs. str.,14,Louise ELLEBÆK,,
+109,748193,43.29,,SJE,Udvisning,,14,Louise ELLEBÆK,,,,,
+110,748193,43.31,24-29,AHB,Mål på straffe,,15,Sofia DEEN,,,,26,Nora PERSSON
+111,748193,44.03,24-30,SJE,Mål,,6,Lea HANSEN,Assist,7,Melissa PETRÉN,86,Sabine ENGLERT
+112,748193,44.29,,AHB,Tabt bold,,14,Anna Berger WIERZBA,,,,,
+113,748193,44.57,,SJE,Skud reddet,PL,7,Melissa PETRÉN,,,,86,Sabine ENGLERT
+114,748193,45.23,,AHB,Tilkendt straffe,,3,Sarah Vest KIRKELØKKE,Forårs. str.,9,Filippa NYMAN,,
+115,748193,45.25,,SJE,Advarsel,A,,Peter NIELSEN,,,,,
+116,748193,45.28,25-30,AHB,Mål på straffe,,15,Sofia DEEN,,,,12,Stine BROLØS
+117,748193,46.22,,SJE,Skud reddet,PL,7,Melissa PETRÉN,,,,86,Sabine ENGLERT
+118,748193,46.57,,AHB,Fejlaflevering,,14,Anna Berger WIERZBA,Bold erobret,6,Lea HANSEN,,
+119,748193,47.20,,SJE,Fejlaflevering,,7,Melissa PETRÉN,,,,,
+120,748193,47.26,,AHB,Fejlaflevering,,86,Sabine ENGLERT,,,,,
+121,748193,47.33,25-31,SJE,Mål,1:e,14,Louise ELLEBÆK,Assist,31,Ida-Marie DAHL,86,Sabine ENGLERT
+122,748193,47.42,26-31,AHB,Mål,2:e,17,Line Berggren LARSEN,,,,26,Nora PERSSON
+123,748193,48.18,,SJE,Skud reddet,Gbr,7,Melissa PETRÉN,,,,86,Sabine ENGLERT
+124,748193,48.25,27-31,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,26,Nora PERSSON
+125,748193,48.43,,SJE,Time out,,,,,,,,
+126,748193,49.15,,SJE,Skud reddet,HF,6,Lea HANSEN,,,,86,Sabine ENGLERT
+127,748193,50.05,,AHB,Skud reddet,PL,23,Nikoline SAX,,,,26,Nora PERSSON
+128,748193,50.36,,SJE,Regelfejl,,31,Ida-Marie DAHL,,,,,
+129,748193,50.45,28-31,AHB,Mål,2:e,14,Anna Berger WIERZBA,,,,26,Nora PERSSON
+130,748193,51.15,28-32,SJE,Mål,Gbr,14,Louise ELLEBÆK,,,,86,Sabine ENGLERT
+131,748193,52.16,29-32,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,14,Anna Berger WIERZBA,26,Nora PERSSON
+132,748193,52.59,,SJE,Skud på stolpe,Gbr,14,Louise ELLEBÆK,,,,86,Sabine ENGLERT
+133,748193,53.23,,AHB,Skud reddet,Gbr,17,Line Berggren LARSEN,,,,26,Nora PERSSON
+134,748193,53.54,,SJE,Skud reddet,PL,7,Melissa PETRÉN,,,,86,Sabine ENGLERT
+135,748193,54.47,,AHB,Time out,,,,,,,,
+136,748193,55.03,,AHB,Tilkendt straffe,,14,Anna Berger WIERZBA,Forårs. str.,17,June BØTTGER,,
+137,748193,55.25,30-32,AHB,Mål på straffe,,15,Sofia DEEN,,,,26,Nora PERSSON
+138,748193,56.02,30-33,SJE,Mål,VF,17,June BØTTGER,Assist,31,Ida-Marie DAHL,86,Sabine ENGLERT
+139,748193,56.35,31-33,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,15,Sofia DEEN,26,Nora PERSSON
+140,748193,57.06,31-34,SJE,Mål,PL,14,Louise ELLEBÆK,,,,86,Sabine ENGLERT
+141,748193,57.33,,AHB,Regelfejl,,3,Sarah Vest KIRKELØKKE,,,,,
+142,748193,58.21,,SJE,Fejlaflevering,,7,Melissa PETRÉN,Bold erobret,15,Sofia DEEN,,
+143,748193,58.28,32-34,AHB,Mål,1:e,14,Anna Berger WIERZBA,Assist,15,Sofia DEEN,,
+144,748193,58.52,32-35,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,6,Lea HANSEN,86,Sabine ENGLERT
+145,748193,59.02,,AHB,Skud reddet,2:e,15,Sofia DEEN,,,,12,Stine BROLØS
+146,748193,59.42,,SJE,Time out,,,,,,,,
+147,748193,59.52,,SJE,Skud reddet,PL,7,Melissa PETRÉN,,,,86,Sabine ENGLERT

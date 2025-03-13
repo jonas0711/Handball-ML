@@ -1,0 +1,121 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748642,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748642,0.54,,SKH,Skud forbi,VB,13,Noah GAUDIN,,,,1,Sebastian FRANDSEN
+3,748642,1.45,1-0,FHK,Mål,PL,77,Sebastian HENNEBERG,,,,1,Christoffer BONDE
+4,748642,3.02,1-1,SKH,Mål,HB,25,Eivind TANGEN,,,,1,Sebastian FRANDSEN
+5,748642,3.54,,FHK,Fejlaflevering,,77,Sebastian HENNEBERG,,,,,
+6,748642,3.58,,SKH,Fejlaflevering,,,,,,,1,Christoffer BONDE
+7,748642,4.25,2-1,FHK,Mål,Gbr,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+8,748642,5.41,,FHK,Advarsel,,9,Martin BISGAARD,,,,,
+9,748642,6.00,2-2,SKH,Mål,VF,19,Bjarke CHRISTENSEN,Assist,13,Noah GAUDIN,1,Sebastian FRANDSEN
+10,748642,6.33,,FHK,Skud reddet,Gbr,31,William ANDERSSON MOBERG,,,,1,Christoffer BONDE
+11,748642,6.42,2-3,SKH,Mål,2:e,19,Bjarke CHRISTENSEN,Assist,13,Noah GAUDIN,1,Sebastian FRANDSEN
+12,748642,7.06,3-3,FHK,Mål,PL,77,Sebastian HENNEBERG,,,,1,Christoffer BONDE
+13,748642,8.28,,SKH,Tilkendt straffe,,14,Emil BERGHOLT,Forårs. str.,77,Sebastian HENNEBERG,,
+14,748642,8.28,,FHK,Udvisning,,77,Sebastian HENNEBERG,,,,,
+15,748642,8.30,3-4,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,1,Sebastian FRANDSEN
+16,748642,9.14,4-4,FHK,Mål,ST,41,Evgeni PEVNOV,,,,1,Christoffer BONDE
+17,748642,9.50,4-5,SKH,Mål,ST,14,Emil BERGHOLT,Assist,15,Lasse MIKKELSEN,1,Sebastian FRANDSEN
+18,748642,10.19,,FHK,Skud reddet,PL,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+19,748642,11.07,4-6,SKH,Mål,PL,25,Eivind TANGEN,Assist,13,Noah GAUDIN,1,Sebastian FRANDSEN
+20,748642,11.42,,FHK,Skud reddet,Gbr,31,William ANDERSSON MOBERG,,,,1,Christoffer BONDE
+21,748642,12.20,4-7,SKH,Mål,PL,13,Noah GAUDIN,,,,1,Sebastian FRANDSEN
+22,748642,13.03,,FHK,Skud reddet,PL,97,Reinier TABOADA,,,,1,Christoffer BONDE
+23,748642,13.13,,SKH,Regelfejl,,25,Eivind TANGEN,,,,,
+24,748642,13.47,,FHK,Regelfejl,,97,Reinier TABOADA,,,,,
+25,748642,14.22,,SKH,Skud reddet,HB,13,Noah GAUDIN,,,,1,Sebastian FRANDSEN
+26,748642,14.37,,FHK,Skud på stolpe,2:e,97,Reinier TABOADA,,,,1,Christoffer BONDE
+27,748642,15.09,4-8,SKH,Mål,PL,13,Noah GAUDIN,,,,1,Sebastian FRANDSEN
+28,748642,15.13,,FHK,Time out,,,,,,,,
+29,748642,16.08,,FHK,Fejlaflevering,,31,William ANDERSSON MOBERG,Bold erobret,21,René RASMUSSEN,,
+30,748642,16.41,,SKH,Skud reddet,ST,7,Senjamin BURIC,,,,1,Sebastian FRANDSEN
+31,748642,16.47,5-8,FHK,Mål,2:e,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+32,748642,17.31,,SKH,Skud på stolpe,VF,19,Bjarke CHRISTENSEN,,,,1,Sebastian FRANDSEN
+33,748642,17.38,,FHK,Skud reddet,2:e,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+34,748642,18.08,,SKH,Fejlaflevering,,15,Lasse MIKKELSEN,,,,,
+35,748642,18.12,6-8,FHK,Mål,1:e,93,Anders MARTINUSEN,,,,,
+36,748642,19.11,,SKH,Skud reddet,HB,25,Eivind TANGEN,,,,1,Sebastian FRANDSEN
+37,748642,19.20,7-8,FHK,Mål,2:e,3,Jonas Kruse KRISTENSEN,,,,1,Christoffer BONDE
+38,748642,19.28,,SKH,Time out,,,,,,,,
+39,748642,19.51,,SKH,Skud blokeret,PL,25,Eivind TANGEN,Blokeret af,41,Evgeni PEVNOV,,
+40,748642,20.17,,FHK,Skud reddet,PL,77,Sebastian HENNEBERG,,,,1,Christoffer BONDE
+41,748642,20.47,,SKH,Regelfejl,,2,Mads BJERGFELT,,,,,
+42,748642,20.56,,FHK,Skud reddet,2:e,3,Jonas Kruse KRISTENSEN,,,,1,Christoffer BONDE
+43,748642,21.56,,SKH,Skud forbi,PL,22,Jakob RASMUSSEN,,,,1,Sebastian FRANDSEN
+44,748642,22.48,,FHK,Skud på stolpe,PL,77,Sebastian HENNEBERG,,,,1,Christoffer BONDE
+45,748642,23.24,7-9,SKH,Mål,ST,7,Senjamin BURIC,Assist,10,Joaquim NAZARÉ,1,Sebastian FRANDSEN
+46,748642,24.22,,FHK,Skud reddet,PL,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+47,748642,25.13,7-10,SKH,Mål,HB,10,Joaquim NAZARÉ,,,,1,Sebastian FRANDSEN
+48,748642,25.43,8-10,FHK,Mål,PL,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+49,748642,26.12,,SKH,Regelfejl,,21,René RASMUSSEN,,,,,
+50,748642,26.20,,FHK,Skud reddet,2:e,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+51,748642,26.56,8-11,SKH,Mål,VF,19,Bjarke CHRISTENSEN,Assist,22,Jakob RASMUSSEN,1,Sebastian FRANDSEN
+52,748642,27.11,,SKH,Advarsel,,18,Vetle RØNNINGEN,,,,,
+53,748642,28.11,9-11,FHK,Mål,PL,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+54,748642,29.01,9-12,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,16,Thorsten FRIES
+55,748642,29.08,10-12,FHK,Mål,2:e,97,Reinier TABOADA,,,,1,Christoffer BONDE
+56,748642,29.44,,SKH,Skud reddet,PL,13,Noah GAUDIN,,,,16,Thorsten FRIES
+57,748642,29.56,11-12,FHK,Mål,PL,97,Reinier TABOADA,,,,1,Christoffer BONDE
+58,748642,30.00,11-12,,Halvleg,,,,,,,,
+59,748642,30.00,,,Start 2:e halvleg,,,,,,,,
+60,748642,30.25,12-12,FHK,Mål,Gbr,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+61,748642,30.32,12-13,SKH,Mål,2:e,19,Bjarke CHRISTENSEN,Assist,15,Lasse MIKKELSEN,16,Thorsten FRIES
+62,748642,30.57,,FHK,Skud reddet,PL,3,Jonas Kruse KRISTENSEN,,,,1,Christoffer BONDE
+63,748642,31.55,,SKH,Skud reddet,PL,13,Noah GAUDIN,,,,16,Thorsten FRIES
+64,748642,32.31,,FHK,Regelfejl,,7,Kasper YOUNG,,,,,
+65,748642,33.08,,SKH,Regelfejl,,7,Senjamin BURIC,,,,,
+66,748642,33.12,13-13,FHK,Mål,1:e,9,Martin BISGAARD,Assist,41,Evgeni PEVNOV,1,Christoffer BONDE
+67,748642,33.48,,SKH,Skud reddet,VF,19,Bjarke CHRISTENSEN,,,,16,Thorsten FRIES
+68,748642,34.30,14-13,FHK,Mål,PL,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+69,748642,35.09,14-14,SKH,Mål,HB,25,Eivind TANGEN,,,,16,Thorsten FRIES
+70,748642,35.44,,FHK,Fejlaflevering,,3,Jonas Kruse KRISTENSEN,Bold erobret,25,Eivind TANGEN,,
+71,748642,35.54,,SKH,Skud reddet,2:e,13,Noah GAUDIN,,,,16,Thorsten FRIES
+72,748642,36.03,15-14,FHK,Mål,2:e,97,Reinier TABOADA,,,,1,Christoffer BONDE
+73,748642,36.36,15-15,SKH,Mål,PL,15,Lasse MIKKELSEN,,,,16,Thorsten FRIES
+74,748642,36.40,16-15,FHK,Mål,1:e,93,Anders MARTINUSEN,,,,0,
+75,748642,37.21,16-16,SKH,Mål,VF,19,Bjarke CHRISTENSEN,Assist,15,Lasse MIKKELSEN,16,Thorsten FRIES
+76,748642,37.52,,FHK,Fejlaflevering,,97,Reinier TABOADA,,,,,
+77,748642,37.59,16-17,SKH,Mål,2:e,25,Eivind TANGEN,,,,16,Thorsten FRIES
+78,748642,38.26,17-17,FHK,Mål,Gbr,97,Reinier TABOADA,,,,1,Christoffer BONDE
+79,748642,39.06,17-18,SKH,Mål,ST,14,Emil BERGHOLT,Assist,25,Eivind TANGEN,16,Thorsten FRIES
+80,748642,39.15,,FHK,Skud reddet,2:e,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+81,748642,39.46,,SKH,Skud reddet,Gbr,13,Noah GAUDIN,,,,16,Thorsten FRIES
+82,748642,39.55,18-18,FHK,Mål,2:e,97,Reinier TABOADA,,,,1,Christoffer BONDE
+83,748642,40.21,,SKH,Skud reddet,ST,7,Senjamin BURIC,,,,16,Thorsten FRIES
+84,748642,41.16,19-18,FHK,Mål,Gbr,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+85,748642,42.02,,SKH,Tilkendt straffe,,18,Vetle RØNNINGEN,Forårs. str.,93,Anders MARTINUSEN,,
+86,748642,42.19,,SKH,Straffekast reddet,,15,Lasse MIKKELSEN,,,,16,Thorsten FRIES
+87,748642,42.55,,FHK,Regelfejl,,97,Reinier TABOADA,,,,,
+88,748642,43.02,19-19,SKH,Mål,2:e,14,Emil BERGHOLT,Assist,25,Eivind TANGEN,16,Thorsten FRIES
+89,748642,43.15,,FHK,Regelfejl,,93,Anders MARTINUSEN,,,,,
+90,748642,43.29,19-20,SKH,Mål,ST,18,Vetle RØNNINGEN,Assist,15,Lasse MIKKELSEN,16,Thorsten FRIES
+91,748642,43.56,,FHK,Fejlaflevering,,93,Anders MARTINUSEN,,,,,
+92,748642,44.41,19-21,SKH,Mål,ST,14,Emil BERGHOLT,Assist,15,Lasse MIKKELSEN,16,Thorsten FRIES
+93,748642,44.51,,FHK,Time out,,,,,,,,
+94,748642,45.28,20-21,FHK,Mål,Gbr,31,William ANDERSSON MOBERGAssist,41,41,Evgeni PEVNOV,1,Christoffer BONDE
+95,748642,45.40,20-22,SKH,Mål,Gbr,25,Eivind TANGEN,,,,16,Thorsten FRIES
+96,748642,46.19,21-22,FHK,Mål,Gbr,31,William ANDERSSON MOBERGAssist,41,41,Evgeni PEVNOV,1,Christoffer BONDE
+97,748642,47.02,21-23,SKH,Mål,VB,13,Noah GAUDIN,,,,16,Thorsten FRIES
+98,748642,47.32,22-23,FHK,Mål,ST,41,Evgeni PEVNOV,Assist,31,William ANDERSSON MOBERG1,1,Christoffer BONDE
+99,748642,47.37,22-24,SKH,Mål,1:e,14,Emil BERGHOLT,,,,0,
+100,748642,47.42,,FHK,Advarsel,A,,Jesper HOUMARK,,,,,
+101,748642,48.06,,FHK,Skud forbi,Gbr,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+102,748642,48.55,,SKH,Fejlaflevering,,15,Lasse MIKKELSEN,Bold erobret,93,Anders MARTINUSEN,,
+103,748642,48.59,23-24,FHK,Mål,1:e,23,Einar ÓLAFSSON,,,,0,
+104,748642,49.27,,,,,,,,,,,
+105,748642,52.09,,SKH,Skud reddet,HB,13,Noah GAUDIN,,,,16,Thorsten FRIES
+106,748642,53.17,25-25,FHK,Mål,PL,7,Kasper YOUNG,,,,1,Christoffer BONDE
+107,748642,54.14,,SKH,Fejlaflevering,,13,Noah GAUDIN,Bold erobret,41,Evgeni PEVNOV,,
+108,748642,54.51,26-25,FHK,Mål,ST,41,Evgeni PEVNOV,Assist,77,Sebastian HENNEBERG,1,Christoffer BONDE
+109,748642,54.58,,SKH,Time out,,,,,,,,
+110,748642,55.42,,SKH,Skud forbi,PL,15,Lasse MIKKELSEN,,,,16,Thorsten FRIES
+111,748642,56.10,27-25,FHK,Mål,HB,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+112,748642,56.15,27-26,SKH,Mål,1:e,14,Emil BERGHOLT,,,,0,
+113,748642,57.19,28-26,FHK,Mål,Gbr,31,William ANDERSSON MOBERG,,,,1,Christoffer BONDE
+114,748642,57.20,,SKH,Udvisning,,7,Senjamin BURIC,,,,,
+115,748642,57.41,28-27,SKH,Mål,Gbr,13,Noah GAUDIN,,,,16,Thorsten FRIES
+116,748642,58.27,29-27,FHK,Mål,VF,9,Martin BISGAARD,Assist,77,Sebastian HENNEBERG,1,Christoffer BONDE
+117,748642,59.01,,SKH,Skud reddet,VB,13,Noah GAUDIN,,,,16,Thorsten FRIES
+118,748642,59.33,,FHK,Time out,,,,,,,,
+119,748642,59.44,,FHK,Skud reddet,Gbr,93,Anders MARTINUSEN,,,,1,Christoffer BONDE
+120,748642,59.59,29-28,SKH,Mål,VF,19,Bjarke CHRISTENSEN,Assist,13,Noah GAUDIN,16,Thorsten FRIES

@@ -1,0 +1,126 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748231,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748231,0.31,,SJE,Fejlaflevering,,14,Louise ELLEBÆK,,,,,
+3,748231,1.34,,HHE,Regelfejl,,19,Frida Haug HOEL,,,,,
+4,748231,1.44,1-0,SJE,Mål,2:e,22,Olivia SIMONSEN,,,,16,Andrea AUSTMO
+5,748231,2.36,,HHE,Fejlaflevering,,39,Melanie BAK,,,,,
+6,748231,3.12,,SJE,Skud på stolpe,ST,31,Ida-Marie DAHL,,,,16,Andrea AUSTMO
+7,748231,3.39,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,Bold erobret,14,Louise ELLEBÆK,,
+8,748231,3.51,2-0,SJE,Mål,1:e,14,Louise ELLEBÆK,,,,16,Andrea AUSTMO
+9,748231,4.16,,HHE,Regelfejl,,14,Mai KRAGBALLE,,,,,
+10,748231,4.28,,SJE,Skud reddet,VF,17,June BØTTGER,,,,16,Andrea AUSTMO
+11,748231,4.39,2-1,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,12,Stine BROLØS
+12,748231,5.17,,SJE,Skud på stolpe,HF,6,Lea HANSEN,,,,16,Andrea AUSTMO
+13,748231,6.08,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,,,,,
+14,748231,6.33,3-1,SJE,Mål,PL,14,Louise ELLEBÆK,,,,16,Andrea AUSTMO
+15,748231,6.45,,HHE,Skud forbi,PL,11,Fanny ELOVSSON,,,,12,Stine BROLØS
+16,748231,7.31,4-1,SJE,Mål,HF,6,Lea HANSEN,Assist,22,Olivia SIMONSEN,16,Andrea AUSTMO
+17,748231,8.31,,HHE,Skud reddet,ST,9,Annika MEYER,,,,12,Stine BROLØS
+18,748231,9.07,,SJE,Fejlaflevering,,14,Louise ELLEBÆK,,,,,
+19,748231,9.48,,HHE,Regelfejl,,14,Mai KRAGBALLE,,,,,
+20,748231,10.33,,SJE,Fejlaflevering,,28,Sarah PAULSEN,,,,,
+21,748231,10.44,,HHE,Fejlaflevering,,11,Fanny ELOVSSON,,,,,
+22,748231,11.05,,SJE,Tilkendt straffe,,31,Ida-Marie DAHL,Forårs. str.,39,Melanie BAK,,
+23,748231,11.30,5-1,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,16,Andrea AUSTMO
+24,748231,12.07,,HHE,Regelfejl,,66,Faye JANSON,,,,,
+25,748231,12.39,,SJE,Fejlaflevering,,7,Melissa PETRÉN,,,,,
+26,748231,13.10,,HHE,Skud reddet,HF,22,Sille Cecilie SORTH,,,,12,Stine BROLØS
+27,748231,14.05,,SJE,Skud reddet,Gbr,28,Sarah PAULSEN,,,,16,Andrea AUSTMO
+28,748231,14.15,5-2,HHE,Mål,2:e,14,Mai KRAGBALLE,,,,12,Stine BROLØS
+29,748231,14.48,,SJE,Skud reddet,Gbr,7,Melissa PETRÉN,,,,16,Andrea AUSTMO
+30,748231,15.20,5-3,HHE,Mål,ST,3,Alma SKRETTING,Assist,14,Mai KRAGBALLE,12,Stine BROLØS
+31,748231,16.13,,HHE,Udvisning,,39,Melanie BAK,,,,,
+32,748231,16.26,6-3,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,16,Andrea AUSTMO
+33,748231,17.21,6-4,HHE,Mål,PL,27,Annette WIRÉN LARSEN,,,,12,Stine BROLØS
+34,748231,17.40,7-4,SJE,Mål,Gbr,7,Melissa PETRÉN,Assist,10,Nicoline OLSEN,16,Andrea AUSTMO
+35,748231,18.15,,SJE,Udvisning,,22,Olivia SIMONSEN,,,,,
+36,748231,18.28,7-5,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,7,Maria Palsdottir NÓLSOY,12,Stine BROLØS
+37,748231,18.57,,SJE,Regelfejl,,28,Sarah PAULSEN,,,,,
+38,748231,19.02,,HHE,Fejlaflevering,,9,Annika MEYER,,,,,
+39,748231,19.54,,SJE,Skud forbi,HB,7,Melissa PETRÉN,,,,16,Andrea AUSTMO
+40,748231,20.12,7-6,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,7,Maria Palsdottir NÓLSOY,12,Stine BROLØS
+41,748231,20.42,,SJE,Tilkendt straffe,,31,Ida-Marie DAHL,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+42,748231,20.45,,HHE,Udvisning,,21,Romee MAARSCHALKEWEERD,,,,,
+43,748231,20.49,8-6,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,16,Andrea AUSTMO
+44,748231,21.27,,HHE,Skud på stolpe,VF,33,Laura Holm ANDERSEN,,,,12,Stine BROLØS
+45,748231,21.55,9-6,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,7,Melissa PETRÉN,16,Andrea AUSTMO
+46,748231,22.35,,HHE,Skud reddet,Gbr,19,Frida Haug HOEL,,,,12,Stine BROLØS
+47,748231,22.44,10-6,SJE,Mål,1:e,10,Nicoline OLSEN,,,,,
+48,748231,23.37,10-7,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,27,Annette WIRÉN LARSEN,12,Stine BROLØS
+49,748231,23.48,11-7,SJE,Mål,2:e,10,Nicoline OLSEN,,,,1,Mathilde BISGAARD
+50,748231,24.18,,HHE,Tilkendt straffe,,27,Annette WIRÉN LARSEN,Forårs. str.,22,Olivia SIMONSEN,,
+51,748231,24.27,11-8,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,26,Nora PERSSON
+52,748231,25.03,,SJE,Skud forbi,VF,17,June BØTTGER,,,,1,Mathilde BISGAARD
+53,748231,25.14,11-9,HHE,Mål,2:e,27,Annette WIRÉN LARSEN,,,,12,Stine BROLØS
+54,748231,25.49,,SJE,Tilkendt straffe,,7,Melissa PETRÉN,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+55,748231,26.05,12-9,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,1,Mathilde BISGAARD
+56,748231,26.31,,HHE,Skud reddet,PL,27,Annette WIRÉN LARSEN,,,,12,Stine BROLØS
+57,748231,26.36,13-9,SJE,Mål,1:e,6,Lea HANSEN,,,,1,Mathilde BISGAARD
+58,748231,27.19,13-10,HHE,Mål,VB,39,Melanie BAK,,,,12,Stine BROLØS
+59,748231,27.30,,SJE,Regelfejl,,22,Olivia SIMONSEN,,,,,
+60,748231,28.26,,HHE,Skud reddet,VB,39,Melanie BAK,,,,12,Stine BROLØS
+61,748231,28.47,,SJE,Time out,,,,,,,,
+62,748231,28.59,,SJE,Tilkendt straffe,,6,Lea HANSEN,Forårs. str.,33,Laura Holm ANDERSEN,,
+63,748231,28.59,,HHE,Udvisning,,33,Laura Holm ANDERSEN,,,,,
+64,748231,28.59,,SJE,Straffekast reddet,,7,Melissa PETRÉN,,,,16,Andrea AUSTMO
+65,748231,29.37,13-11,HHE,Mål,VB,27,Annette WIRÉN LARSEN,,,,12,Stine BROLØS
+66,748231,29.59,14-11,SJE,Mål,VF,15,Sara IBRANOVIC,Assist,14,Louise ELLEBÆK,1,Mathilde BISGAARD
+67,748231,30.00,14-11,,Halvleg,,,,,,,,
+68,748231,30.00,,,Start 2:e halvleg,,,,,,,,
+69,748231,30.33,14-12,HHE,Mål,Gbr,27,Annette WIRÉN LARSEN,,,,12,Stine BROLØS
+70,748231,30.46,,HHE,Udvisning,,9,Annika MEYER,,,,,
+71,748231,30.56,15-12,SJE,Mål,Gbr,10,Nicoline OLSEN,,,,1,Mathilde BISGAARD
+72,748231,32.04,15-13,HHE,Mål,VB,27,Annette WIRÉN LARSEN,,,,12,Stine BROLØS
+73,748231,32.37,16-13,SJE,Mål,PL,7,Melissa PETRÉN,,,,1,Mathilde BISGAARD
+74,748231,33.05,16-14,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,,,,12,Stine BROLØS
+75,748231,33.40,17-14,SJE,Mål,HB,28,Sarah PAULSEN,,,,1,Mathilde BISGAARD
+76,748231,33.52,,HHE,Regelfejl,,27,Annette WIRÉN LARSEN,,,,,
+77,748231,34.47,,SJE,Skud på stolpe,PL,7,Melissa PETRÉN,,,,1,Mathilde BISGAARD
+78,748231,35.14,,HHE,Regelfejl,,39,Melanie BAK,,,,,
+79,748231,35.22,,SJE,Fejlaflevering,,22,Olivia SIMONSEN,,,,,
+80,748231,36.19,,HHE,Tabt bold,,39,Melanie BAK,,,,,
+81,748231,36.26,,SJE,Skud på stolpe,2:e,15,Sara IBRANOVIC,,,,1,Mathilde BISGAARD
+82,748231,37.24,17-15,HHE,Mål,VB,14,Mai KRAGBALLE,,,,26,Nora PERSSON
+83,748231,38.13,,SJE,Skud blokeret,VB,14,Louise ELLEBÆK,Blok af (ret),14,Mai KRAGBALLE,,
+84,748231,38.36,,SJE,Skud reddet,PL,14,Louise ELLEBÆK,,,,1,Mathilde BISGAARD
+85,748231,39.05,17-16,HHE,Mål,VB,33,Laura Holm ANDERSEN,Assist,27,Annette WIRÉN LARSEN,26,Nora PERSSON
+86,748231,39.55,18-16,SJE,Mål,PL,7,Melissa PETRÉN,,,,1,Mathilde BISGAARD
+87,748231,40.10,18-17,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,27,Annette WIRÉN LARSEN,26,Nora PERSSON
+88,748231,40.45,19-17,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,7,Melissa PETRÉN,1,Mathilde BISGAARD
+89,748231,41.22,,HHE,Skud reddet,PL,14,Mai KRAGBALLE,,,,26,Nora PERSSON
+90,748231,41.30,20-17,SJE,Mål,1:e,6,Lea HANSEN,Assist,31,Ida-Marie DAHL,1,Mathilde BISGAARD
+91,748231,42.00,,SJE,Udvisning,,15,Sara IBRANOVIC,,,,,
+92,748231,42.12,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,,,,,
+93,748231,42.46,,SJE,Regelfejl,,7,Melissa PETRÉN,,,,,
+94,748231,43.10,,HHE,Regelfejl,,21,Romee MAARSCHALKEWEERD,,,,,
+95,748231,43.47,21-17,SJE,Mål,HF,6,Lea HANSEN,Assist,28,Sarah PAULSEN,16,Andrea AUSTMO
+96,748231,44.07,,HHE,Time out,,,,,,,,
+97,748231,44.41,21-18,HHE,Mål,VB,27,Annette WIRÉN LARSEN,,,,26,Nora PERSSON
+98,748231,45.14,22-18,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,28,Sarah PAULSEN,16,Andrea AUSTMO
+99,748231,45.47,22-19,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,,,,26,Nora PERSSON
+100,748231,45.58,23-19,SJE,Mål,1:e,31,Ida-Marie DAHL,,,,0,
+101,748231,46.30,23-20,HHE,Mål,ST,9,Annika MEYER,Assist,7,Maria Palsdottir NÓLSOY,26,Nora PERSSON
+102,748231,47.25,24-20,SJE,Mål,VF,17,June BØTTGER,Assist,7,Melissa PETRÉN,16,Andrea AUSTMO
+103,748231,48.00,,HHE,Skud forbi,VF,33,Laura Holm ANDERSEN,,,,26,Nora PERSSON
+104,748231,48.29,,,,,,,,,,,
+105,748231,49.26,24-21,HHE,Mål,PL,27,Annette WIRÉN LARSEN,,,,26,Nora PERSSON
+106,748231,50.28,25-21,SJE,Mål,PL,7,Melissa PETRÉN,,,,16,Andrea AUSTMO
+107,748231,51.00,,HHE,Skud på stolpe,HF,27,Annette WIRÉN LARSEN,,,,26,Nora PERSSON
+108,748231,51.37,26-21,SJE,Mål,VF,17,June BØTTGER,Assist,28,Sarah PAULSEN,16,Andrea AUSTMO
+109,748231,52.18,26-22,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,,,,26,Nora PERSSON
+110,748231,53.15,,SJE,Fejlaflevering,,7,Melissa PETRÉN,,,,,
+111,748231,54.13,26-23,HHE,Mål,PL,27,Annette WIRÉN LARSEN,,,,26,Nora PERSSON
+112,748231,54.33,,SJE,Time out,,,,,,,,
+113,748231,54.56,27-23,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,14,Louise ELLEBÆK,1,Mathilde BISGAARD
+114,748231,55.24,,HHE,Fejlaflevering,,27,Annette WIRÉN LARSEN,,,,,
+115,748231,56.17,,SJE,Skud på stolpe,HB,28,Sarah PAULSEN,,,,1,Mathilde BISGAARD
+116,748231,56.24,27-24,HHE,Mål,2:e,7,Maria Palsdottir NÓLSOY,Assist,14,Mai KRAGBALLE,12,Stine BROLØS
+117,748231,56.56,28-24,SJE,Mål,VB,14,Louise ELLEBÆK,,,,1,Mathilde BISGAARD
+118,748231,57.29,,HHE,Fejlaflevering,,7,Maria Palsdottir NÓLSOY,,,,,
+119,748231,57.45,29-24,SJE,Mål,1:e,10,Nicoline OLSEN,,,,0,
+120,748231,58.36,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,,,,,
+121,748231,59.14,30-24,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,1,Mathilde BISGAARD
+122,748231,59.49,,HHE,Tilkendt straffe,,9,Annika MEYER,Forårs. str.,7,Melissa PETRÉN,,
+123,748231,60.00,30-25,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,12,Stine BROLØS
+124,748231,60.00,30-25,,Fuld tid,,,,,,,,
+125,748231,60.00,,,Kamp slut,,,,,,,,

@@ -1,0 +1,135 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748250,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748250,0.56,0-1,VHK,Mål,HF,18,Henriette HANSEN,Assist,62,Louise SØNDERGAARD,16,Andrea AUSTMO
+3,748250,1.40,1-1,HHE,Mål,HB,19,Frida Haug HOEL,,,,16,Louise Bak JENSEN
+4,748250,2.19,,VHK,Tilkendt straffe,,77,Jana MITTÚN,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+5,748250,2.27,,HHE,Advarsel,,21,Romee MAARSCHALKEWEERD,,,,,
+6,748250,2.38,1-2,VHK,Mål på straffe,,19,Sara HALD,,,,16,Andrea AUSTMO
+7,748250,3.34,,HHE,Skud på stolpe,Gbr,39,Melanie BAK,,,,16,Louise Bak JENSEN
+8,748250,4.20,1-3,VHK,Mål,HB,62,Louise SØNDERGAARD,,,,16,Andrea AUSTMO
+9,748250,4.32,,HHE,Skud reddet,2:e,14,Mai KRAGBALLE,,,,16,Louise Bak JENSEN
+10,748250,4.47,,VHK,Tilkendt straffe,,77,Jana MITTÚN,Forårs. str.,11,Fanny ELOVSSON,,
+11,748250,5.03,1-4,VHK,Mål på straffe,,19,Sara HALD,,,,16,Andrea AUSTMO
+12,748250,5.38,,HHE,Tilkendt straffe,,39,Melanie BAK,Forårs. str.,26,Christina PEDERSEN,,
+13,748250,5.38,,VHK,Udvisning,,26,Christina PEDERSEN,,,,,
+14,748250,5.40,2-4,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,16,Louise Bak JENSEN
+15,748250,6.18,2-5,VHK,Mål,Gbr,77,Jana MITTÚN,,,,16,Andrea AUSTMO
+16,748250,6.28,,HHE,Skud forbi,2:e,21,Romee MAARSCHALKEWEERD,,,,,
+17,748250,6.56,,VHK,Skud reddet,VF,14,Camilla DEGN,,,,16,Andrea AUSTMO
+18,748250,7.38,,VHK,Advarsel,,19,Sara HALD,,,,,
+19,748250,8.00,,HHE,Skud reddet,PL,14,Mai KRAGBALLE,Retur,,,16,Louise Bak JENSEN
+20,748250,8.10,,HHE,Tilkendt straffe,,9,Annika MEYER,Forårs. str.,19,Sara HALD,,
+21,748250,8.12,3-5,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,12,Ida Marie KAYSEN
+22,748250,9.00,3-6,VHK,Mål,Gbr,62,Louise SØNDERGAARD,,,,16,Andrea AUSTMO
+23,748250,9.53,,HHE,Skud forbi,HB,19,Frida Haug HOEL,,,,16,Louise Bak JENSEN
+24,748250,10.04,3-7,VHK,Mål,2:e,14,Camilla DEGN,Assist,5,Marielle MARTINSEN,16,Andrea AUSTMO
+25,748250,10.48,,HHE,Regelfejl,,19,Frida Haug HOEL,,,,,
+26,748250,10.59,,VHK,Tilkendt straffe,,19,Sara HALD,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+27,748250,11.19,,VHK,Straffekast reddet,,62,Louise SØNDERGAARD,,,,16,Andrea AUSTMO
+28,748250,12.02,,HHE,Skud reddet,ST,21,Romee MAARSCHALKEWEERD,,,,16,Louise Bak JENSEN
+29,748250,12.13,,VHK,Skud forbi,2:e,18,Henriette HANSEN,,,,16,Andrea AUSTMO
+30,748250,12.18,,HHE,Time out,,,,,,,,
+31,748250,12.50,,HHE,Skud reddet,HB,19,Frida Haug HOEL,Retur,,,16,Louise Bak JENSEN
+32,748250,13.32,4-7,HHE,Mål,HB,19,Frida Haug HOEL,,,,16,Louise Bak JENSEN
+33,748250,13.44,,VHK,Skud blokeret,2:e,5,Marielle MARTINSEN,Blokeret af,9,Annika MEYER,,
+34,748250,13.51,5-7,HHE,Mål,2:e,11,Fanny ELOVSSON,,,,16,Louise Bak JENSEN
+35,748250,14.44,5-8,VHK,Mål,VF,14,Camilla DEGN,Assist,26,Christina PEDERSEN,16,Andrea AUSTMO
+36,748250,15.15,6-8,HHE,Mål,ST,9,Annika MEYER,Assist,11,Fanny ELOVSSON,16,Louise Bak JENSEN
+37,748250,16.02,,VHK,Fejlaflevering,,62,Louise SØNDERGAARD,,,,,
+38,748250,16.43,,HHE,Skud reddet,PL,11,Fanny ELOVSSON,,,,16,Louise Bak JENSEN
+39,748250,16.50,,VHK,Skud reddet,1:e,26,Christina PEDERSEN,Retur,,,16,Andrea AUSTMO
+40,748250,17.31,,VHK,Tilkendt straffe,,77,Jana MITTÚN,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+41,748250,17.46,6-9,VHK,Mål på straffe,,19,Sara HALD,,,,16,Andrea AUSTMO
+42,748250,18.24,7-9,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,16,Louise Bak JENSEN
+43,748250,18.32,7-10,VHK,Mål,2:e,5,Marielle MARTINSEN,,,,16,Andrea AUSTMO
+44,748250,19.20,,HHE,Skud reddet,Gbr,39,Melanie BAK,Retur,,,16,Louise Bak JENSEN
+45,748250,19.57,,HHE,Skud reddet,HB,19,Frida Haug HOEL,,,,16,Louise Bak JENSEN
+46,748250,20.33,,VHK,Skud reddet,HB,62,Louise SØNDERGAARD,,,,16,Andrea AUSTMO
+47,748250,20.48,,HHE,Regelfejl,,33,Laura Holm ANDERSEN,,,,,
+48,748250,21.12,,VHK,Skud reddet,Gbr,26,Christina PEDERSEN,,,,16,Andrea AUSTMO
+49,748250,22.02,,HHE,Skud reddet,HF,6,Maria HØJGAARD,,,,16,Louise Bak JENSEN
+50,748250,22.41,7-11,VHK,Mål,Gbr,8,Elma ÖRTEMARK,,,,16,Andrea AUSTMO
+51,748250,23.00,8-11,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,16,Louise Bak JENSEN
+52,748250,23.39,8-12,VHK,Mål,HF,18,Henriette HANSEN,Assist,62,Louise SØNDERGAARD,16,Andrea AUSTMO
+53,748250,24.29,9-12,HHE,Mål,HB,19,Frida Haug HOEL,,,,16,Louise Bak JENSEN
+54,748250,25.13,,HHE,Udvisning,,21,Romee MAARSCHALKEWEERD,,,,,
+55,748250,25.26,,VHK,Regelfejl,,21,Anne HYKKELBJERG,,,,,
+56,748250,26.32,,HHE,Skud reddet,Gbr,6,Maria HØJGAARD,,,,16,Louise Bak JENSEN
+57,748250,27.02,,VHK,Fejlaflevering,,77,Jana MITTÚN,,,,,
+58,748250,27.36,,HHE,Fejlaflevering,,27,Annette WIRÉN LARSEN,,,,,
+59,748250,27.41,,VHK,Tilkendt straffe,,14,Camilla DEGN,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+60,748250,27.41,,HHE,Udvisning,,21,Romee MAARSCHALKEWEERD,,,,,
+61,748250,27.43,9-13,VHK,Mål på straffe,,19,Sara HALD,,,,16,Andrea AUSTMO
+62,748250,28.14,,HHE,Skud reddet,HB,14,Mai KRAGBALLE,,,,16,Louise Bak JENSEN
+63,748250,28.21,9-14,VHK,Mål,1:e,5,Marielle MARTINSEN,Assist,16,Louise Bak JENSEN,,
+64,748250,29.00,,HHE,Skud reddet,HF,22,Sille Cecilie SORTH,,,,16,Louise Bak JENSEN
+65,748250,29.07,9-15,VHK,Mål,1:e,19,Sara HALD,,,,,
+66,748250,29.49,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,,,,,
+67,748250,29.59,9-16,VHK,Mål,Gbr,5,Marielle MARTINSEN,Assist,62,Louise SØNDERGAARD,16,Andrea AUSTMO
+68,748250,30.00,9-16,HHE,Halvleg,,,,,,,,
+69,748250,30.00,,,Start 2:e halvleg,,,,,,,,
+70,748250,30.39,,HHE,Skud reddet,Gbr,14,Mai KRAGBALLE,,,,16,Louise Bak JENSEN
+71,748250,30.50,9-17,VHK,Mål,1:e,26,Christina PEDERSEN,Assist,19,Sara HALD,16,Andrea AUSTMO
+72,748250,31.17,10-17,HHE,Mål,HB,19,Frida Haug HOEL,,,,16,Louise Bak JENSEN
+73,748250,31.27,10-18,VHK,Mål,2:e,14,Camilla DEGN,Assist,77,Jana MITTÚN,16,Andrea AUSTMO
+74,748250,32.01,,HHE,Regelfejl,,14,Mai KRAGBALLE,,,,,
+75,748250,32.34,,VHK,Fejlaflevering,,77,Jana MITTÚN,,,,,
+76,748250,32.45,11-18,HHE,Mål,2:e,14,Mai KRAGBALLE,Assist,19,Frida Haug HOEL,16,Louise Bak JENSEN
+77,748250,33.15,11-19,VHK,Mål,HF,18,Henriette HANSEN,Assist,77,Jana MITTÚN,16,Andrea AUSTMO
+78,748250,34.03,,HHE,Skud forbi,PL,14,Mai KRAGBALLE,,,,16,Louise Bak JENSEN
+79,748250,34.58,,VHK,Skud blokeret,PL,26,Christina PEDERSEN,Blok af (ret),21,Romee MAARSCHALKEWEERD,,
+80,748250,35.06,,VHK,Regelfejl,,62,Louise SØNDERGAARD,,,,,
+81,748250,35.10,,HHE,Fejlaflevering,,16,Andrea AUSTMO,Bold erobret,77,Jana MITTÚN,,
+82,748250,35.18,11-20,VHK,Mål,1:e,77,Jana MITTÚN,,,,16,Andrea AUSTMO
+83,748250,35.38,,HHE,Tilkendt straffe,,14,Mai KRAGBALLE,Forårs. str.,26,Christina PEDERSEN,,
+84,748250,35.42,12-20,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,16,Louise Bak JENSEN
+85,748250,36.13,,VHK,Skud blokeret,PL,62,Louise SØNDERGAARD,Blokeret af,21,Romee MAARSCHALKEWEERD,,
+86,748250,36.22,13-20,HHE,Mål,2:e,14,Mai KRAGBALLE,Assist,3,Alma SKRETTING,16,Louise Bak JENSEN
+87,748250,36.57,,VHK,Fejlaflevering,,26,Christina PEDERSEN,,,,,
+88,748250,37.44,14-20,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,7,Maria Palsdottir NÓLSOY,16,Louise Bak JENSEN
+89,748250,37.57,14-21,VHK,Mål,2:e,18,Henriette HANSEN,Assist,77,Jana MITTÚN,16,Andrea AUSTMO
+90,748250,38.49,,HHE,Skud blokeret,PL,19,Frida Haug HOEL,Blok af (ret),5,Marielle MARTINSEN,,
+91,748250,39.04,,HHE,Skud forbi,HF,22,Sille Cecilie SORTH,,,,16,Louise Bak JENSEN
+92,748250,39.28,14-22,VHK,Mål,ST,19,Sara HALD,Assist,77,Jana MITTÚN,16,Andrea AUSTMO
+93,748250,40.04,,HHE,Tilkendt straffe,,7,Maria Palsdottir NÓLSOY,Forårs. str.,19,Sara HALD,,
+94,748250,40.08,15-22,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,12,Ida Marie KAYSEN
+95,748250,41.14,,VHK,Skud reddet,HB,62,Louise SØNDERGAARD,,,,16,Andrea AUSTMO
+96,748250,41.30,,HHE,Regelfejl,,14,Mai KRAGBALLE,,,,,
+97,748250,41.59,,VHK,Skud reddet,VF,14,Camilla DEGN,,,,16,Andrea AUSTMO
+98,748250,42.05,,HHE,Fejlaflevering,,3,Alma SKRETTING,,,,,
+99,748250,42.31,15-23,VHK,Mål,VF,14,Camilla DEGN,Assist,77,Jana MITTÚN,16,Andrea AUSTMO
+100,748250,42.45,,HHE,Time out,,,,,,,,
+101,748250,43.21,16-23,HHE,Mål,VF,33,Laura Holm ANDERSEN,Assist,14,Mai KRAGBALLE,16,Louise Bak JENSEN
+102,748250,43.52,16-24,VHK,Mål,Gbr,62,Louise SØNDERGAARD,Assist,77,Jana MITTÚN,12,Zenia Hald MADSEN
+103,748250,44.34,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,,,,,
+104,748250,44.48,,,,,,,,,,,
+105,748250,46.34,18-24,HHE,Mål,Gbr,14,Mai KRAGBALLE,Assist,9,Annika MEYER,16,Louise Bak JENSEN
+106,748250,47.12,18-25,VHK,Mål,Gbr,5,Marielle MARTINSEN,,,,12,Zenia Hald MADSEN
+107,748250,47.37,19-25,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,7,Maria Palsdottir NÓLSOY,16,Louise Bak JENSEN
+108,748250,48.19,19-26,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,12,Zenia Hald MADSEN
+109,748250,49.23,,HHE,Skud reddet,PL,19,Frida Haug HOEL,,,,16,Louise Bak JENSEN
+110,748250,49.58,19-27,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,12,Zenia Hald MADSEN
+111,748250,50.32,20-27,HHE,Mål,Gbr,19,Frida Haug HOEL,,,,16,Louise Bak JENSEN
+112,748250,50.46,,VHK,Tilkendt straffe,,26,Christina PEDERSEN,Forårs. str.,22,Sille Cecilie SORTH,,
+113,748250,51.04,20-28,VHK,Mål på straffe,,19,Sara HALD,,,,12,Zenia Hald MADSEN
+114,748250,51.59,21-28,HHE,Mål,Gbr,7,Maria Palsdottir NÓLSOY,,,,16,Louise Bak JENSEN
+115,748250,52.37,,VHK,Tilkendt straffe,,18,Henriette HANSEN,Forårs. str.,20,Ditte TOKKESDAL,,
+116,748250,52.37,,HHE,Udvisning,,20,Ditte TOKKESDAL,,,,,
+117,748250,52.40,21-29,VHK,Mål på straffe,,19,Sara HALD,,,,12,Zenia Hald MADSEN
+118,748250,53.24,22-29,HHE,Mål,PL,14,Mai KRAGBALLE,,,,16,Louise Bak JENSEN
+119,748250,53.52,,VHK,Skud reddet,Gbr,77,Jana MITTÚN,,,,16,Andrea AUSTMO
+120,748250,54.28,23-29,HHE,Mål,VF,33,Laura Holm ANDERSEN,Assist,7,Maria Palsdottir NÓLSOY,16,Louise Bak JENSEN
+121,748250,54.29,,VHK,Time out,,,,,,,,
+122,748250,54.41,,VHK,Skud reddet,VF,14,Camilla DEGN,,,,16,Andrea AUSTMO
+123,748250,55.13,24-29,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,7,Maria Palsdottir NÓLSOY,12,Ida Marie KAYSEN
+124,748250,55.52,,VHK,Skud reddet,Gbr,26,Christina PEDERSEN,,,,16,Andrea AUSTMO
+125,748250,56.02,,HHE,Skud blokeret,2:e,11,Fanny ELOVSSON,Blokeret af,19,Sara HALD,,
+126,748250,56.10,24-30,VHK,Mål,1:e,77,Jana MITTÚN,Assist,62,Louise SØNDERGAARD,16,Andrea AUSTMO
+127,748250,56.36,,HHE,Skud reddet,VF,33,Laura Holm ANDERSEN,,,,12,Ida Marie KAYSEN
+128,748250,57.05,,VHK,Fejlaflevering,,5,Marielle MARTINSEN,Bold erobret,33,Laura Holm ANDERSEN,,
+129,748250,57.10,25-30,HHE,Mål,1:e,11,Fanny ELOVSSON,Assist,3,Alma SKRETTING,12,Ida Marie KAYSEN
+130,748250,57.44,25-31,VHK,Mål,Gbr,77,Jana MITTÚN,,,,16,Andrea AUSTMO
+131,748250,58.34,26-31,HHE,Mål,PL,14,Mai KRAGBALLE,,,,12,Ida Marie KAYSEN
+132,748250,58.55,,VHK,Skud på stolpe,VF,14,Camilla DEGN,,,,16,Andrea AUSTMO
+133,748250,59.25,,HHE,Skud forbi,HB,19,Frida Haug HOEL,,,,12,Ida Marie KAYSEN
+134,748250,59.49,26-32,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,16,Andrea AUSTMO

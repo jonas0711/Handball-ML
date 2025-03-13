@@ -1,0 +1,144 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748210,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748210,0.22,0-1,SKB,Mål,PL,3,Clara BANG,,,,1,Sofie BÖRJESSON
+3,748210,0.35,1-1,NFH,Mål,2:e,18,Alberte KIELSTRUP,,,,23,Stine ALMIND
+4,748210,1.03,1-2,SKB,Mål,Gbr,3,Clara BANG,,,,1,Sofie BÖRJESSON
+5,748210,1.45,2-2,NFH,Mål,Gbr,7,Amalie WULFF,,,,23,Stine ALMIND
+6,748210,2.22,,SKB,Tilkendt straffe,,3,Clara BANG,Forårs. str.,2,Caroline AAR,,
+7,748210,2.38,,SKB,Straffekast reddet,,25,Astrid LYNNERUP,,,,1,Sofie BÖRJESSON
+8,748210,3.05,,NFH,Regelfejl,,26,Mona OBAIDLI,,,,,
+9,748210,3.14,2-3,SKB,Mål,2:e,11,Mia LAGUMDZIJA,,,,1,Sofie BÖRJESSON
+10,748210,3.56,,NFH,Skud forbi,PL,18,Alberte KIELSTRUP,,,,23,Stine ALMIND
+11,748210,4.01,,SKB,Tabt bold,,4,Emilie BECH,,,,,
+12,748210,4.28,,NFH,Fejlaflevering,,26,Mona OBAIDLI,Bold erobret,4,Emilie BECH,,
+13,748210,4.32,2-4,SKB,Mål,1:e,4,Emilie BECH,Assist,2,Boline LAURSEN,1,Sofie BÖRJESSON
+14,748210,5.01,3-4,NFH,Mål,ST,2,Caroline AAR,Assist,26,Mona OBAIDLI,23,Stine ALMIND
+15,748210,5.14,,SKB,Fejlaflevering,,14,Verona REXHEPI,,,,,
+16,748210,5.17,4-4,NFH,Mål,1:e,20,Maja MAGNUSSEN,Assist,1,Sofie BÖRJESSON,23,Stine ALMIND
+17,748210,5.30,4-5,SKB,Mål,ST,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,1,Sofie BÖRJESSON
+18,748210,5.54,5-5,NFH,Mål,ST,21,Matilde VESTERGAARD,Assist,18,Alberte KIELSTRUP,23,Stine ALMIND
+19,748210,6.39,,SKB,Skud på stolpe,VF,25,Astrid LYNNERUP,,,,1,Sofie BÖRJESSON
+20,748210,6.49,6-5,NFH,Mål,HF,20,Maja MAGNUSSEN,Assist,18,Alberte KIELSTRUP,23,Stine ALMIND
+21,748210,7.54,6-6,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,11,Mia LAGUMDZIJA,1,Sofie BÖRJESSON
+22,748210,8.33,,NFH,Regelfejl,,21,Matilde VESTERGAARD,,,,,
+23,748210,9.03,,SKB,Fejlaflevering,,3,Clara BANG,,,,,
+24,748210,9.16,,NFH,Regelfejl,,49,Aimée VON PEREIRA,,,,,
+25,748210,9.53,,NFH,Advarsel,,49,Aimée VON PEREIRA,,,,,
+26,748210,10.15,,SKB,Fejlaflevering,,14,Verona REXHEPI,,,,,
+27,748210,10.18,7-6,NFH,Mål,1:e,21,Matilde VESTERGAARD,Assist,26,Mona OBAIDLI,23,Stine ALMIND
+28,748210,10.45,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,8,Stine EIBERG,,
+29,748210,10.50,8-6,NFH,Mål,1:e,2,Caroline AAR,Assist,26,Mona OBAIDLI,23,Stine ALMIND
+30,748210,11.44,,SKB,Skud blokeret,PL,14,Verona REXHEPI,Blokeret af,49,Aimée VON PEREIRA,,
+31,748210,12.18,9-6,NFH,Mål,Gbr 18,18,Alberte KIELSTRUP,Assist,26,Mona OBAIDLI,23,Stine ALMIND
+32,748210,12.28,,SKB,Time out,,,,,,,,
+33,748210,12.44,9-7,SKB,Mål,Gbr,7,Annika Solberg DALSAGER,,,,1,Sofie BÖRJESSON
+34,748210,12.53,10-7,NFH,Mål,2:e,7,Amalie WULFF,,,,23,Stine ALMIND
+35,748210,14.01,,SKB,Fejlaflevering,,14,Verona REXHEPI,,,,,
+36,748210,14.29,11-7,NFH,Mål,PL,26,Mona OBAIDLI,Assist,7,Amalie WULFF,23,Stine ALMIND
+37,748210,14.39,11-8,SKB,Mål,2:e,14,Verona REXHEPI,,,,1,Sofie BÖRJESSON
+38,748210,15.24,12-8,NFH,Mål,Gbr 18,18,Alberte KIELSTRUP,,,,23,Stine ALMIND
+39,748210,16.01,,SKB,Skud blokeret,PL,14,Verona REXHEPI,Blokeret af,49,Aimée VON PEREIRA,,
+40,748210,16.06,13-8,NFH,Mål,1:e,2,Caroline AAR,,,,23,Stine ALMIND
+41,748210,16.34,13-9,SKB,Mål,VF,25,Astrid LYNNERUP,,,,1,Sofie BÖRJESSON
+42,748210,17.16,14-9,NFH,Mål,ST,34,Sofie BARDRUM,Assist,26,Mona OBAIDLI,23,Stine ALMIND
+43,748210,17.50,14-10,SKB,Mål,Gbr,7,Annika Solberg DALSAGER,,,,16,Line CHRISTIANSEN
+44,748210,18.02,,NFH,Regelfejl,,34,Sofie BARDRUM,,,,,
+45,748210,18.44,,NFH,Udvisning,,26,Mona OBAIDLI,,,,,
+46,748210,18.56,14-11,SKB,Mål,Gbr,44,Nicoline LAURITSEN,Assist,15,Astrid LESLIE,16,Line CHRISTIANSEN
+47,748210,19.51,15-11,NFH,Mål,VB,18,Alberte KIELSTRUP,,,,23,Stine ALMIND
+48,748210,20.20,15-12,SKB,Mål,HF,4,Emilie BECH,Assist,14,Verona REXHEPI,16,Line CHRISTIANSEN
+49,748210,21.00,,NFH,Skud forbi,Gbr,79,Kristina KRISTIANSEN,,,,23,Stine ALMIND
+50,748210,21.40,15-13,SKB,Mål,PL,3,Clara BANG,,,,16,Line CHRISTIANSEN
+51,748210,22.16,16-13,NFH,Mål,Gbr,7,Amalie WULFF,,,,23,Stine ALMIND
+52,748210,22.50,,SKB,Skud reddet,Gbr,3,Clara BANG,,,,16,Line CHRISTIANSEN
+53,748210,23.30,17-13,NFH,Mål,Gbr,18,Alberte KIELSTRUP,,,,23,Stine ALMIND
+54,748210,24.23,,SKB,Skud blokeret,VB,7,Annika Solberg DALSAGER,Blok af (ret),8,Stine EIBERG,,
+55,748210,24.43,17-14,SKB,Mål,HB,3,Clara BANG,,,,16,Line CHRISTIANSEN
+56,748210,24.55,,NFH,Time out,,,,,,,,
+57,748210,25.11,,NFH,Skud reddet,HF,20,Maja MAGNUSSEN,,,,1,Isabella MATHORNE
+58,748210,25.44,17-15,SKB,Mål,Gbr,7,Annika Solberg DALSAGER,,,,16,Line CHRISTIANSEN
+59,748210,26.15,,NFH,Regelfejl,,20,Maja MAGNUSSEN,,,,,
+60,748210,26.17,,NFH,Udvisning,,20,Maja MAGNUSSEN,,,,,
+61,748210,26.33,,SKB,Skud på stolpe,PL,15,Astrid LESLIE,,,,16,Line CHRISTIANSEN
+62,748210,27.10,,NFH,Fejlaflevering,,18,Alberte KIELSTRUP,,,,,
+63,748210,27.14,,SKB,Fejlaflevering,,,,,,,1,Isabella MATHORNE
+64,748210,27.19,,NFH,Skud reddet,1:e,21,Matilde VESTERGAARD,,,,1,Isabella MATHORNE
+65,748210,27.42,,SKB,Tilkendt straffe,,44,Nicoline LAURITSEN,Forårs. str.,8,Stine EIBERG,,
+66,748210,27.47,17-16,SKB,Mål på straffe,,14,Verona REXHEPI,,,,1,Sofie BÖRJESSON
+67,748210,28.34,,NFH,Skud reddet,VF,21,Matilde VESTERGAARD,,,,1,Isabella MATHORNE
+68,748210,29.10,17-17,SKB,Mål,VB,7,Annika Solberg DALSAGER,,,,1,Sofie BÖRJESSON
+69,748210,29.23,,NFH,Skud reddet,PL,26,Mona OBAIDLI,,,,1,Isabella MATHORNE
+70,748210,29.55,17-18,SKB,Mål,PL,3,Clara BANG,,,,1,Sofie BÖRJESSON
+71,748210,30.00,17-18,,Halvleg,,,,,,,,
+72,748210,30.00,,,Start 2:e halvleg,,,,,,,,
+73,748210,30.51,18-18,NFH,Mål,HF,20,Maja MAGNUSSEN,Assist,18,Alberte KIELSTRUP,1,Isabella MATHORNE
+74,748210,31.58,,SKB,Passivt spil,,0,,,,,,
+75,748210,32.04,,NFH,Tilkendt straffe,,22,Zoë SPRENGERS,Forårs. str.,7,Annika Solberg DALSAGER,,
+76,748210,32.30,19-18,NFH,Mål på straffe,,34,Sofie BARDRUM,,,,1,Isabella MATHORNE
+77,748210,32.58,,SKB,Skud blokeret,PL,15,Astrid LESLIE,Blokeret af,8,Stine EIBERG,,
+78,748210,33.07,20-18,NFH,Mål,2:e,22,Zoë SPRENGERS,Assist,49,Aimée VON PEREIRA,1,Isabella MATHORNE
+79,748210,34.12,,SKB,Skud blokeret,PL,3,Clara BANG,Blok af (ret),49,Aimée VON PEREIRA,,
+80,748210,35.06,,SKB,Skud forbi,VB,3,Clara BANG,,,,1,Sofie BÖRJESSON
+81,748210,35.38,21-18,NFH,Mål,Gbr,18,Alberte KIELSTRUP,Assist,7,Amalie WULFF,1,Isabella MATHORNE
+82,748210,36.15,,SKB,Skud blokeret,PL,3,Clara BANG,Blok af (ret),49,Aimée VON PEREIRA,,
+83,748210,36.23,,SKB,Tilkendt straffe,,10,Filippa NEDOVIC,Forårs. str.,8,Stine EIBERG,,
+84,748210,36.23,,SKB,Straffekast reddet,,14,Verona REXHEPI,,,,1,Sofie BÖRJESSON
+85,748210,36.46,,NFH,Skud på stolpe,VF,22,Zoë SPRENGERS,,,,1,Isabella MATHORNE
+86,748210,37.46,,SKB,Skud forbi,HF,4,Emilie BECH,,,,1,Sofie BÖRJESSON
+87,748210,38.15,22-18,NFH,Mål,ST,2,Caroline AAR,Assist,26,Mona OBAIDLI,1,Isabella MATHORNE
+88,748210,38.17,,SKB,Udvisning,,2,Boline LAURSEN,,,,,
+89,748210,38.47,22-19,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,3,Clara BANG,1,Sofie BÖRJESSON
+90,748210,38.56,,NFH,Skud reddet,2:e,2,Caroline AAR,,,,1,Isabella MATHORNE
+91,748210,39.30,,SKB,Skud reddet,Gbr,14,Verona REXHEPI,,,,1,Sofie BÖRJESSON
+92,748210,39.37,,NFH,Fejlaflevering,,8,Stine EIBERG,,,,,
+93,748210,40.19,,SKB,Passivt spil,,0,,,,,,
+94,748210,40.46,,NFH,Fejlaflevering,,26,Mona OBAIDLI,,,,,
+95,748210,40.55,,SKB,Time out,,,,,,,,
+96,748210,41.21,,SKB,Fejlaflevering,,15,Astrid LESLIE,,,,,
+97,748210,41.49,23-19,NFH,Mål,HF,20,Maja MAGNUSSEN,Assist,7,Amalie WULFF,1,Isabella MATHORNE
+98,748210,42.29,,SKB,Skud på stolpe,HF,4,Emilie BECH,,,,1,Sofie BÖRJESSON
+99,748210,42.40,24-19,NFH,Mål,HF,20,Maja MAGNUSSEN,,,,1,Isabella MATHORNE
+100,748210,43.17,24-20,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,15,Astrid LESLIE,1,Sofie BÖRJESSON
+101,748210,44.01,25-20,NFH,Mål,Gbr,18,Alberte KIELSTRUP,,,,1,Isabella MATHORNE
+102,748210,44.40,,SKB,Tabt bold,,15,Astrid LESLIE,,,,,
+103,748210,44.45,26-20,NFH,Mål,1:e,2,Caroline AAR,,,,0,
+104,748210,45.16,26-21,SKB,Mål,,,,,,,,
+105,748210,45.33,27-21,NFH,Mål,,25,Astrid LYNNERUP,Assist,14,Verona REXHEPI,1,Sofie BÖRJESSON
+106,748210,46.05,,SKB,Tabt bold,,11,Mia LAGUMDZIJA,,,,,
+107,748210,46.09,28-21,NFH,Mål,1:e,8,Stine EIBERG,Assist,49,Aimée VON PEREIRA,0,
+108,748210,46.17,,SKB,Time out,,,,,,,,
+109,748210,46.39,28-22,SKB,Mål,ST,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,1,Sofie BÖRJESSON
+110,748210,47.12,,NFH,Skud reddet,Gbr,26,Mona OBAIDLI,,,,12,Sarah ERNEBJERG
+111,748210,47.24,,SKB,Fejlaflevering,,3,Clara BANG,Bold erobret,18,Alberte KIELSTRUP,,
+112,748210,47.28,29-22,NFH,Mål,1:e,18,Alberte KIELSTRUP,,,,0,
+113,748210,48.00,29-23,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,14,Verona REXHEPI,1,Sofie BÖRJESSON
+114,748210,48.47,30-23,NFH,Mål,VF,22,Zoë SPRENGERS,Assist,26,Mona OBAIDLI,12,Sarah ERNEBJERG
+115,748210,49.32,30-24,SKB,Mål,ST,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,1,Sofie BÖRJESSON
+116,748210,49.59,31-24,NFH,Mål,Gbr,7,Amalie WULFF,,,,12,Sarah ERNEBJERG
+117,748210,50.24,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,22,Zoë SPRENGERS,,
+118,748210,50.28,32-24,NFH,Mål,1:e,8,Stine EIBERG,,,,0,
+119,748210,51.18,32-25,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,11,Mia LAGUMDZIJA,1,Sofie BÖRJESSON
+120,748210,51.49,,NFH,Regelfejl,,22,Zoë SPRENGERS,,,,,
+121,748210,52.12,32-26,SKB,Mål,Gbr,11,Mia LAGUMDZIJA,,,,1,Sofie BÖRJESSON
+122,748210,52.51,,NFH,Skud på stolpe,VF,22,Zoë SPRENGERS,Retur,0,,12,Sarah ERNEBJERG
+123,748210,53.03,,NFH,Time out,,,,,,,,
+124,748210,53.10,,NFH,Fejlaflevering,,26,Mona OBAIDLI,,,,,
+125,748210,53.12,32-27,SKB,Mål,1:e,4,Emilie BECH,Assist,12,Sarah ERNEBJERG,12,Catharina BROCH
+126,748210,53.30,,NFH,Tilkendt straffe,,34,Sofie BARDRUM,Forårs. str.,10,Filippa NEDOVIC,,
+127,748210,53.30,,SKB,Udvisning,,10,Filippa NEDOVIC,,,,,
+128,748210,53.32,,NFH,Straffekast reddet,,49,Aimée VON PEREIRA,,,,12,Sarah ERNEBJERG
+129,748210,54.27,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,,,,,
+130,748210,54.31,33-27,NFH,Mål,2:e,2,Caroline AAR,Assist,20,Maja MAGNUSSEN,12,Sarah ERNEBJERG
+131,748210,55.17,,SKB,Skud blokeret,PL,3,Clara BANG,Blok af (ret),49,Aimée VON PEREIRA,,
+132,748210,55.24,,SKB,Fejlaflevering,,4,Emilie BECH,Bold erobret,26,Mona OBAIDLI,,
+133,748210,55.33,34-27,NFH,Mål,1:e,26,Mona OBAIDLI,,,,0,
+134,748210,55.58,34-28,SKB,Mål,Gbr,11,Mia LAGUMDZIJA,,,,12,Catharina BROCH
+135,748210,56.07,35-28,NFH,Mål,2:e,22,Zoë SPRENGERS,,,,12,Sarah ERNEBJERG
+136,748210,56.39,,SKB,Skud forbi,ST,2,Boline LAURSEN,,,,12,Catharina BROCH
+137,748210,57.07,,NFH,Tilkendt straffe,,7,Amalie WULFF,Forårs. str.,3,Clara BANG,,
+138,748210,57.13,,SKB,Udvisning,,3,Clara BANG,,,,,
+139,748210,57.13,36-28,NFH,Mål på straffe,,34,Sofie BARDRUM,,,,12,Sarah ERNEBJERG
+140,748210,58.09,,SKB,Skud forbi,PL,14,Verona REXHEPI,,,,12,Catharina BROCH
+141,748210,58.49,,NFH,Skud reddet,VF,22,Zoë SPRENGERS,,,,12,Sarah ERNEBJERG
+142,748210,59.10,,SKB,Tabt bold,,7,Annika Solberg DALSAGER,,,,,
+143,748210,59.54,,NFH,Skud reddet,Gbr,7,Amalie WULFF,,,,12,Sarah ERNEBJERG

@@ -1,0 +1,144 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748191,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748191,0.53,,BFH,Skud på stolpe,PL,72,Line FRANDSEN,,,,16,Louise Bak JENSEN
+3,748191,0.57,1-0,VHK,Mål,1:e,18,Henriette HANSEN,Assist,77,Jana MITTÚN,24,Josephine NORDSTRØM
+4,748191,1.33,,BFH,Skud på stolpe,Gbr,72,Line FRANDSEN,,,,16,Louise Bak JENSEN
+5,748191,1.44,,VHK,Tabt bold,,77,Jana MITTÚN,,,,,
+6,748191,2.31,1-1,BFH,Mål,ST,5,Sofie LUND,Assist,72,Line FRANDSEN,16,Louise Bak JENSEN
+7,748191,3.11,,VHK,Fejlaflevering,,62,Louise SØNDERGAARD,,,,,
+8,748191,3.17,1-2,BFH,Mål,2:e,7,Line GYLDENLØVE,,,,16,Louise Bak JENSEN
+9,748191,3.29,,VHK,Tilkendt straffe,,77,Jana MITTÚN,Forårs. str.,7,Line GYLDENLØVE,,
+10,748191,3.55,,VHK,Straffekast reddet,,62,Louise SØNDERGAARD,,,,24,Josephine NORDSTRØM
+11,748191,4.23,,BFH,Regelfejl,,11,Arlinda HAJDARI,,,,,
+12,748191,4.32,,VHK,Skud reddet,1:e,18,Henriette HANSEN,,,,24,Josephine NORDSTRØM
+13,748191,5.10,1-3,BFH,Mål,ST,5,Sofie LUND,Assist,72,Line FRANDSEN,16,Louise Bak JENSEN
+14,748191,6.18,2-3,VHK,Mål,Gbr,62,Louise SØNDERGAARD,,,,24,Josephine NORDSTRØM
+15,748191,6.48,,BFH,Skud forbi,HF,44,Louise HALD,,,,16,Louise Bak JENSEN
+16,748191,6.58,,VHK,Skud forbi,2:e,14,Camilla DEGN,,,,24,Josephine NORDSTRØM
+17,748191,7.29,,BFH,Skud på stolpe,PL,72,Line FRANDSEN,,,,16,Louise Bak JENSEN
+18,748191,8.00,,VHK,Skud reddet,Gbr,5,Marielle MARTINSEN,,,,24,Josephine NORDSTRØM
+19,748191,8.44,2-4,BFH,Mål,VB,11,Arlinda HAJDARI,,,,16,Louise Bak JENSEN
+20,748191,9.12,3-4,VHK,Mål,ST,19,Sara HALD,Assist,5,Marielle MARTINSEN,24,Josephine NORDSTRØM
+21,748191,9.40,,BFH,Skud reddet,PL,7,Line GYLDENLØVE,Retur,0,,16,Louise Bak JENSEN
+22,748191,10.01,,BFH,Skud reddet,Gbr,11,Arlinda HAJDARI,,,,16,Louise Bak JENSEN
+23,748191,10.01,,BFH,Udvisning,,11,Arlinda HAJDARI,,,,,
+24,748191,10.50,,VHK,Tilkendt straffe,,5,Marielle MARTINSEN,Forårs. str.,19,Rikke Dahl NIELSEN,,
+25,748191,11.25,,VHK,Straffekast på stolpe,,26,Christina PEDERSEN,,,,24,Josephine NORDSTRØM
+26,748191,11.43,,BFH,Regelfejl,,24,Josephine NORDSTRØM,,,,,
+27,748191,11.43,,BFH,Udvisning,,24,Josephine NORDSTRØM,,,,,
+28,748191,11.56,,VHK,Skud reddet,VF,14,Camilla DEGN,,,,20,Clara BAK
+29,748191,13.09,,BFH,Skud reddet,VB,31,Marianne HAUGSTED,,,,16,Louise Bak JENSEN
+30,748191,13.22,,VHK,Tilkendt straffe,,19,Sara HALD,Forårs. str.,5,Sofie LUND,,
+31,748191,13.22,,BFH,Udvisning,,5,Sofie LUND,,,,,
+32,748191,13.25,,VHK,Straffekast på stolpe,,62,Louise SØNDERGAARD,,,,20,Clara BAK
+33,748191,14.01,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+34,748191,14.06,4-4,VHK,Mål,2:e,77,Jana MITTÚN,,,,0,
+35,748191,14.42,4-5,BFH,Mål,HF,44,Louise HALD,Assist,7,Line GYLDENLØVE,16,Louise Bak JENSEN
+36,748191,15.00,5-5,VHK,Mål,ST,19,Sara HALD,Assist,5,Marielle MARTINSEN,20,Clara BAK
+37,748191,15.50,,BFH,Skud blokeret,PL,31,Marianne HAUGSTED,Blok af (ret),19,Sara HALD,,
+38,748191,16.09,5-6,BFH,Mål,Gbr,72,Line FRANDSEN,,,,16,Louise Bak JENSEN
+39,748191,16.23,,VHK,Regelfejl,,19,Sara HALD,,,,,
+40,748191,17.02,,BFH,Skud på stolpe,HB,7,Line GYLDENLØVE,,,,16,Louise Bak JENSEN
+41,748191,17.16,,VHK,Time out,,,,,,,,
+42,748191,17.38,6-6,VHK,Mål,ST,19,Sara HALD,Assist,5,Marielle MARTINSEN,24,Josephine NORDSTRØM
+43,748191,18.06,6-7,BFH,Mål,VB,31,Marianne HAUGSTED,,,,16,Louise Bak JENSEN
+44,748191,18.36,,VHK,Skud forbi,PL,26,Christina PEDERSEN,,,,24,Josephine NORDSTRØM
+45,748191,19.36,,BFH,Tilkendt straffe,,72,Line FRANDSEN,Forårs. str.,26,Christina PEDERSEN,,
+46,748191,19.56,6-8,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Louise Bak JENSEN
+47,748191,20.32,,VHK,Skud reddet,ST,3,Alberte SIMONSEN,,,,24,Josephine NORDSTRØM
+48,748191,21.09,,BFH,Skud reddet,HF,44,Louise HALD,,,,16,Louise Bak JENSEN
+49,748191,21.17,,VHK,Fejlaflevering,,9,Laura THESTRUP,,,,,
+50,748191,22.13,,BFH,Skud reddet,HF,10,Melina KRISTENSEN,,,,16,Louise Bak JENSEN
+51,748191,22.40,7-8,VHK,Mål,Gbr,8,Elma ÖRTEMARK,,,,24,Josephine NORDSTRØM
+52,748191,23.17,,BFH,Skud reddet,Gbr,7,Line GYLDENLØVE,,,,16,Louise Bak JENSEN
+53,748191,23.27,,VHK,Regelfejl,,8,Elma ÖRTEMARK,,,,,
+54,748191,23.30,,BFH,Time out,,,,,,,,
+55,748191,24.13,7-9,BFH,Mål,VF,4,Emilie BANGSHØI,Assist,72,Line FRANDSEN,16,Louise Bak JENSEN
+56,748191,24.57,,VHK,Tabt bold,,8,Elma ÖRTEMARK,,,,,
+57,748191,25.46,7-10,BFH,Mål,Gbr,7,Line GYLDENLØVE,,,,16,Louise Bak JENSEN
+58,748191,25.58,,VHK,Fejlaflevering,,26,Christina PEDERSEN,,,,,
+59,748191,26.28,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+60,748191,27.30,8-10,VHK,Mål,PL,62,Louise SØNDERGAARD,,,,24,Josephine NORDSTRØM
+61,748191,27.55,8-11,BFH,Mål,Gbr,21,Emma ERNST,,,,16,Louise Bak JENSEN
+62,748191,28.34,,VHK,Skud reddet,PL,62,Louise SØNDERGAARD,,,,24,Josephine NORDSTRØM
+63,748191,29.06,8-12,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,7,Line GYLDENLØVE,16,Louise Bak JENSEN
+64,748191,29.13,9-12,VHK,Mål,2:e,26,Christina PEDERSEN,,,,24,Josephine NORDSTRØM
+65,748191,29.43,,BFH,Skud på stolpe,VB,21,Emma ERNST,,,,16,Louise Bak JENSEN
+66,748191,29.59,10-12,VHK,Mål,Gbr,5,Marielle MARTINSEN,,,,24,Josephine NORDSTRØM
+67,748191,30.00,10-12,,Halvleg,,,,,,,,
+68,748191,30.00,,,Start 2:e halvleg,,,,,,,,
+69,748191,30.30,,VHK,Skud reddet,ST,19,Sara HALD,,,,24,Josephine NORDSTRØM
+70,748191,31.12,,BFH,Regelfejl,,19,Rikke Dahl NIELSEN,,,,,
+71,748191,31.37,11-12,VHK,Mål,ST,19,Sara HALD,Assist,26,Christina PEDERSEN,24,Josephine NORDSTRØM
+72,748191,32.09,11-13,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,11,Arlinda HAJDARI,16,Louise Bak JENSEN
+73,748191,32.58,,VHK,Skud på stolpe,PL,26,Christina PEDERSEN,Retur,0,,24,Josephine NORDSTRØM
+74,748191,33.05,,VHK,Regelfejl,,14,Camilla DEGN,,,,,
+75,748191,33.28,11-14,BFH,Mål,ST,19,Rikke Dahl NIELSEN,Assist,7,Line GYLDENLØVE,16,Louise Bak JENSEN
+76,748191,33.37,,VHK,Tilkendt straffe,,5,Marielle MARTINSEN,Forårs. str.,19,Rikke Dahl NIELSEN,,
+77,748191,33.57,12-14,VHK,Mål på straffe,,26,Christina PEDERSEN,,,,24,Josephine NORDSTRØM
+78,748191,34.36,,BFH,Fejlaflevering,,11,Arlinda HAJDARI,,,,,
+79,748191,34.45,13-14,VHK,Mål,2:e,5,Marielle MARTINSEN,,,,24,Josephine NORDSTRØM
+80,748191,35.23,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,,,,,
+81,748191,35.31,,VHK,Fejlaflevering,,5,Marielle MARTINSEN,Bold erobret,11,Arlinda HAJDARI,,
+82,748191,35.43,,BFH,Skud reddet,PL,72,Line FRANDSEN,,,,16,Louise Bak JENSEN
+83,748191,36.48,14-14,VHK,Mål,Gbr,77,Jana MITTÚN,,,,24,Josephine NORDSTRØM
+84,748191,37.30,,BFH,Skud reddet,VB,7,Line GYLDENLØVE,,,,16,Louise Bak JENSEN
+85,748191,38.09,15-14,VHK,Mål,VF,14,Camilla DEGN,Assist,77,Jana MITTÚN,24,Josephine NORDSTRØM
+86,748191,38.53,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,Bold erobret,5,Marielle MARTINSEN,,
+87,748191,39.03,16-14,VHK,Mål,1:e,26,Christina PEDERSEN,,,,0,Josephine NORDSTRØM
+88,748191,39.26,,BFH,Tilkendt straffe,,19,Rikke Dahl NIELSEN,Forårs. str.,26,Christina PEDERSEN,,
+89,748191,39.26,,VHK,Udvisning,,26,Christina PEDERSEN,,,,,
+90,748191,39.29,16-15,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Louise Bak JENSEN
+91,748191,40.15,17-15,VHK,Mål,VB,5,Marielle MARTINSEN,,,,24,Josephine NORDSTRØM
+92,748191,40.49,17-16,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,11,Arlinda HAJDARI,16,Louise Bak JENSEN
+93,748191,41.25,,VHK,Skud reddet,Gbr,77,Jana MITTÚN,,,,24,Josephine NORDSTRØM
+94,748191,42.38,17-17,BFH,Mål,HB,21,Emma ERNST,,,,16,Louise Bak JENSEN
+95,748191,42.53,,VHK,Skud reddet,2:e,18,Henriette HANSEN,Retur,0,,24,Josephine NORDSTRØM
+96,748191,43.23,,VHK,Skud reddet,HF,18,Henriette HANSEN,,,,24,Josephine NORDSTRØM
+97,748191,43.33,,BFH,Fejlaflevering,,31,Marianne HAUGSTED,,,,,
+98,748191,43.46,,VHK,Skud reddet,HF,73,Nanna Skovmose VINTHER,Retur,0,,24,Josephine NORDSTRØM
+99,748191,44.41,,VHK,Skud reddet,ST,19,Sara HALD,,,,24,Josephine NORDSTRØM
+100,748191,45.09,,BFH,Fejlaflevering,,21,Emma ERNST,Bold erobret,77,Jana MITTÚN,,
+101,748191,45.13,18-17,VHK,Mål,1:e,14,Camilla DEGN,Assist,77,Jana MITTÚN,24,Josephine NORDSTRØM
+102,748191,45.45,,BFH,Fejlaflevering,,11,Arlinda HAJDARI,,,,,
+103,748191,45.53,19-17,VHK,Mål,2:e,5,Marielle MARTINSEN,Assist,77,Jana MITTÚN,24,Josephine NORDSTRØM
+104,748191,46.29,19-18,BFH,Mål,,,,,,,,
+105,748191,46.36,20-18,VHK,Mål,2:e,19,Sara HALD,Assist,5,Marielle MARTINSEN,24,Josephine NORDSTRØM
+106,748191,47.14,,BFH,Regelfejl,,31,Marianne HAUGSTED,,,,,
+107,748191,47.24,21-18,VHK,Mål,2:e,5,Marielle MARTINSEN,,,,24,Josephine NORDSTRØM
+108,748191,47.27,,BFH,Time out,,,,,,,,
+109,748191,47.51,,BFH,Skud reddet,ST,19,Rikke Dahl NIELSEN,,,,16,Louise Bak JENSEN
+110,748191,48.21,,VHK,Tabt bold,,77,Jana MITTÚN,,,,,
+111,748191,48.26,21-19,BFH,Mål,1:e,19,Rikke Dahl NIELSEN,Assist,31,Marianne HAUGSTED,16,Louise Bak JENSEN
+112,748191,48.55,22-19,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,24,Josephine NORDSTRØM
+113,748191,49.25,,BFH,Tilkendt straffe,,4,Emilie BANGSHØI,Forårs. str.,73,Nanna Skovmose VINTHER,,
+114,748191,49.25,,VHK,Udvisning,,73,Nanna Skovmose VINTHER,,,,,
+115,748191,49.28,22-20,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,12,Ida Marie KAYSEN
+116,748191,50.07,,VHK,Skud reddet,VF,14,Camilla DEGN,,,,24,Josephine NORDSTRØM
+117,748191,50.31,,BFH,Skud reddet,Gbr,72,Line FRANDSEN,,,,16,Louise Bak JENSEN
+118,748191,51.16,23-20,VHK,Mål,VF,14,Camilla DEGN,Assist,77,Jana MITTÚN,24,Josephine NORDSTRØM
+119,748191,51.54,23-21,BFH,Mål,VF,4,Emilie BANGSHØI,Assist,7,Line GYLDENLØVE,16,Louise Bak JENSEN
+120,748191,52.03,,VHK,Skud forbi,2:e,77,Jana MITTÚN,,,,24,Josephine NORDSTRØM
+121,748191,52.37,,BFH,Skud forbi,VF,4,Emilie BANGSHØI,,,,16,Louise Bak JENSEN
+122,748191,52.50,,VHK,Time out,,,,,,,,
+123,748191,53.09,24-21,VHK,Mål,HB,5,Marielle MARTINSEN,,,,20,Clara BAK
+124,748191,53.22,,BFH,Fejlaflevering,,31,Marianne HAUGSTED,,,,,
+125,748191,53.59,25-21,VHK,Mål,Gbr,5,Marielle MARTINSEN,,,,24,Josephine NORDSTRØM
+126,748191,54.37,,BFH,Skud reddet,Gbr,31,Marianne HAUGSTED,,,,16,Louise Bak JENSEN
+127,748191,55.15,26-21,VHK,Mål,Gbr,77,Jana MITTÚN,,,,20,Clara BAK
+128,748191,55.31,,BFH,Time out,,,,,,,,
+129,748191,55.53,26-22,BFH,Mål,VF,4,Emilie BANGSHØI,Assist,72,Line FRANDSEN,16,Louise Bak JENSEN
+130,748191,56.38,,VHK,Fejlaflevering,,26,Christina PEDERSEN,Bold erobret,31,Marianne HAUGSTED,,
+131,748191,56.42,26-23,BFH,Mål,1:e,11,Arlinda HAJDARI,Assist,31,Marianne HAUGSTED,0,
+132,748191,56.55,,VHK,Tilkendt straffe,,77,Jana MITTÚN,Forårs. str.,21,Emma ERNST,,
+133,748191,56.55,,BFH,Udvisning,,21,Emma ERNST,,,,,
+134,748191,56.55,,BFH,Advarsel,A,,Jesper BANGSHØI,,,,,
+135,748191,56.57,27-23,VHK,Mål på straffe,,26,Christina PEDERSEN,,,,20,Clara BAK
+136,748191,57.45,,BFH,Tabt bold,,7,Line GYLDENLØVE,,,,,
+137,748191,58.16,,VHK,Skud reddet,HF,18,Henriette HANSEN,,,,24,Josephine NORDSTRØM
+138,748191,58.42,,BFH,Skud på stolpe,Gbr,7,Line GYLDENLØVE,,,,16,Louise Bak JENSEN
+139,748191,58.44,,VHK,Time out,,,,,,,,
+140,748191,58.57,28-23,VHK,Mål,ST,19,Sara HALD,Assist,26,Christina PEDERSEN,24,Josephine NORDSTRØM
+141,748191,59.33,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+142,748191,59.38,,VHK,Fejlaflevering,,16,Louise Bak JENSEN,,,,,
+143,748191,59.52,28-24,BFH,Mål,Gbr,72,Line FRANDSEN,,,,16,Louise Bak JENSEN

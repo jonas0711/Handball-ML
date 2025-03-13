@@ -1,0 +1,144 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748201,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748201,0.33,,ODE,Skud reddet,HB,33,Thale Rushfeldt DEILA,,,,23,Stine ALMIND
+3,748201,1.02,,SKB,Skud reddet,Gbr,14,Verona REXHEPI,,,,16,Althea REINHARDT
+4,748201,1.29,0-1,ODE,Mål,VB,32,Mie HØJLUND,,,,23,Stine ALMIND
+5,748201,2.01,,SKB,Tabt bold,,14,Verona REXHEPI,Bold erobret,33,Thale Rushfeldt DEILA,,
+6,748201,2.07,0-2,ODE,Mål,1:e,3,Maren AARDAHL,Assist,20,Lysa DEFO,23,Stine ALMIND
+7,748201,2.50,,SKB,Skud reddet,PL,14,Verona REXHEPI,,,,16,Althea REINHARDT
+8,748201,3.02,0-3,ODE,Mål,2:e,23,Elma HALILCEVIC,Assist,32,Mie HØJLUND,23,Stine ALMIND
+9,748201,3.31,,SKB,Fejlaflevering,,3,Clara BANG,Bold erobret,33,Thale Rushfeldt DEILA,,
+10,748201,3.37,0-4,ODE,Mål,1:e,6,Malin AUNE,Assist,33,Thale Rushfeldt DEILA,23,Stine ALMIND
+11,748201,4.22,,SKB,Skud blokeret,HB,3,Clara BANG,Blokeret af,3,Maren AARDAHL,,
+12,748201,4.29,0-5,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,16,Althea REINHARDT,23,Stine ALMIND
+13,748201,4.34,,SKB,Time out,,,,,,,,
+14,748201,4.54,,SKB,Regelfejl,,14,Verona REXHEPI,,,,,
+15,748201,5.09,0-6,ODE,Mål,Gbr,8,Helene FAUSKE,Assist,33,Thale Rushfeldt DEILA,23,Stine ALMIND
+16,748201,5.36,1-6,SKB,Mål,PL,11,Mia LAGUMDZIJA,,,,16,Althea REINHARDT
+17,748201,5.48,1-7,ODE,Mål,PL,33,Thale Rushfeldt DEILA,,,,23,Stine ALMIND
+18,748201,5.57,2-7,SKB,Mål,2:e,11,Mia LAGUMDZIJA,,,,16,Althea REINHARDT
+19,748201,6.30,,ODE,Skud reddet,Gbr,33,Thale Rushfeldt DEILA,,,,23,Stine ALMIND
+20,748201,7.04,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,3,Maren AARDAHL,,
+21,748201,7.11,,ODE,Skud på stolpe,1:e,23,Elma HALILCEVIC,,,,23,Stine ALMIND
+22,748201,8.08,,SKB,Tabt bold,,14,Verona REXHEPI,,,,,
+23,748201,8.39,2-8,ODE,Mål,HB,33,Thale Rushfeldt DEILA,,,,23,Stine ALMIND
+24,748201,9.04,,SKB,Skud reddet,PL,14,Verona REXHEPI,,,,16,Althea REINHARDT
+25,748201,9.15,2-9,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,23,Stine ALMIND
+26,748201,9.41,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,,,,,
+27,748201,9.51,2-10,ODE,Mål,2:e,33,Thale Rushfeldt DEILA,,,,23,Stine ALMIND
+28,748201,10.38,,SKB,Tabt bold,,15,Astrid LESLIE,,,,,
+29,748201,10.43,2-11,ODE,Mål,1:e,3,Maren AARDAHL,,,,,
+30,748201,10.50,,SKB,Time out,,,,,,,,
+31,748201,11.12,,SKB,Skud på stolpe,Gbr,15,Astrid LESLIE,,,,16,Althea REINHARDT
+32,748201,12.10,2-12,ODE,Mål,PL,8,Helene FAUSKE,,,,12,Sarah ERNEBJERG
+33,748201,12.46,3-12,SKB,Mål,Gbr,14,Verona REXHEPI,Assist,15,Astrid LESLIE,16,Althea REINHARDT
+34,748201,13.03,,ODE,Skud reddet,ST,3,Maren AARDAHL,,,,12,Sarah ERNEBJERG
+35,748201,13.18,4-12,SKB,Mål,2:e,3,Clara BANG,,,,16,Althea REINHARDT
+36,748201,13.23,4-13,ODE,Mål,2:e,33,Thale Rushfeldt DEILA,,,,12,Sarah ERNEBJERG
+37,748201,13.59,5-13,SKB,Mål,ST,2,Boline LAURSEN,Assist,15,Astrid LESLIE,16,Althea REINHARDT
+38,748201,14.11,,ODE,Skud reddet,Gbr,6,Malin AUNE,,,,12,Sarah ERNEBJERG
+39,748201,14.39,6-13,SKB,Mål,PL,15,Astrid LESLIE,,,,16,Althea REINHARDT
+40,748201,14.46,6-14,ODE,Mål,1:e,3,Maren AARDAHL,,,,,
+41,748201,15.52,,SKB,Skud reddet,HB,3,Clara BANG,,,,16,Althea REINHARDT
+42,748201,16.24,6-15,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,12,Sarah ERNEBJERG
+43,748201,17.02,,SKB,Tilkendt straffe,,10,Filippa NEDOVIC,Forårs. str.,20,Lysa DEFO,,
+44,748201,17.15,7-15,SKB,Mål på straffe,,25,Astrid LYNNERUP,,,,16,Althea REINHARDT
+45,748201,18.04,,ODE,Skud reddet,PL,22,Ragnhild DAHL,Retur,0,,12,Sarah ERNEBJERG
+46,748201,18.38,,ODE,Skud på stolpe,ST,3,Maren AARDAHL,,,,12,Sarah ERNEBJERG
+47,748201,19.32,,SKB,Fejlaflevering,,15,Astrid LESLIE,Bold erobret,28,Clara Skyum THOMSEN,,
+48,748201,19.48,,ODE,Time out,,,,,,,,
+49,748201,20.06,7-16,ODE,Mål,VB,22,Ragnhild DAHL,,,,12,Sarah ERNEBJERG
+50,748201,20.40,,SKB,Skud forbi,PL,15,Astrid LESLIE,,,,16,Althea REINHARDT
+51,748201,21.10,7-17,ODE,Mål,HB,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+52,748201,21.46,8-17,SKB,Mål,Gbr,3,Clara BANG,,,,16,Althea REINHARDT
+53,748201,21.55,8-18,ODE,Mål,2:e,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+54,748201,22.37,,SKB,Skud på stolpe,VF,25,Astrid LYNNERUP,Retur,4,Emilie BECH,16,Althea REINHARDT
+55,748201,23.09,9-18,SKB,Mål,ST,2,Boline LAURSEN,Assist,15,Astrid LESLIE,16,Althea REINHARDT
+56,748201,23.39,,ODE,Fejlaflevering,,22,Ragnhild DAHL,Bold erobret,2,Boline LAURSEN,,
+57,748201,24.21,,SKB,Skud reddet,Gbr,7,Annika Solberg DALSAGER,Retur,0,,16,Althea REINHARDT
+58,748201,24.54,,SKB,Skud forbi,PL,15,Astrid LESLIE,,,,16,Althea REINHARDT
+59,748201,24.57,9-19,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,16,Althea REINHARDT,12,Sarah ERNEBJERG
+60,748201,25.36,,SKB,Fejlaflevering,,7,Annika Solberg DALSAGER,,,,,
+61,748201,25.59,,ODE,Fejlaflevering,,22,Ragnhild DAHL,Bold erobret,25,Astrid LYNNERUP,,
+62,748201,26.45,,SKB,Skud reddet,Gbr,7,Annika Solberg DALSAGER,Retur,26,Christina HANSEN,16,Althea REINHARDT
+63,748201,26.49,10-19,SKB,Mål,ST,26,Christina HANSEN,,,,16,Althea REINHARDT
+64,748201,27.14,,ODE,Skud reddet,PL,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+65,748201,28.04,11-19,SKB,Mål,Gbr,11,Mia LAGUMDZIJA,,,,16,Althea REINHARDT
+66,748201,28.15,11-20,ODE,Mål,2:e,8,Helene FAUSKE,,,,12,Sarah ERNEBJERG
+67,748201,28.44,12-20,SKB,Mål,Gbr,7,Annika Solberg DALSAGER,,,,16,Althea REINHARDT
+68,748201,28.55,,ODE,Skud reddet,2:e,22,Ragnhild DAHL,,,,12,Sarah ERNEBJERG
+69,748201,29.25,,SKB,Tilkendt straffe,,25,Astrid LYNNERUP,Forårs. str.,34,Andrea HANSEN,,
+70,748201,29.25,,ODE,Udvisning,,34,Andrea HANSEN,,,,,
+71,748201,29.29,13-20,SKB,Mål på straffe,,14,Verona REXHEPI,,,,16,Althea REINHARDT
+72,748201,29.59,13-21,ODE,Mål,PL,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+73,748201,30.00,13-21,,Halvleg,,,,,,,,
+74,748201,30.00,,,Start 2:e halvleg,,,,,,,,
+75,748201,30.20,14-21,SKB,Mål,Gbr,44,Nicoline LAURITSEN,Assist,15,Astrid LESLIE,16,Althea REINHARDT
+76,748201,30.57,,ODE,Skud reddet,Gbr,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+77,748201,31.32,,SKB,Skud på stolpe,HF,22,Anne-Sofie FILTENBORG,,,,16,Althea REINHARDT
+78,748201,32.19,14-22,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,68,Helena ELVER,12,Sarah ERNEBJERG
+79,748201,32.57,,SKB,Skud på stolpe,ST,10,Filippa NEDOVIC,,,,16,Althea REINHARDT
+80,748201,33.00,14-23,ODE,Mål,1:e,32,Mie HØJLUND,,,,,
+81,748201,33.30,15-23,SKB,Mål,ST,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,16,Althea REINHARDT
+82,748201,33.56,15-24,ODE,Mål,Gbr,32,Mie HØJLUND,Assist,68,Helena ELVER,12,Sarah ERNEBJERG
+83,748201,34.28,,SKB,Tabt bold,,11,Mia LAGUMDZIJA,Bold erobret,32,Mie HØJLUND,,
+84,748201,34.33,15-25,ODE,Mål,1:e,32,Mie HØJLUND,,,,,
+85,748201,34.59,,SKB,Fejlaflevering,,3,Clara BANG,,,,,
+86,748201,35.57,,ODE,Skud forbi,PL,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+87,748201,36.53,16-25,SKB,Mål,Gbr,3,Clara BANG,,,,16,Althea REINHARDT
+88,748201,37.05,,ODE,Skud reddet,2:e,23,Elma HALILCEVIC,,,,12,Sarah ERNEBJERG
+89,748201,37.59,,SKB,Skud reddet,Gbr,14,Verona REXHEPI,,,,16,Althea REINHARDT
+90,748201,38.09,16-26,ODE,Mål,2:e,23,Elma HALILCEVIC,Assist,68,Helena ELVER,12,Sarah ERNEBJERG
+91,748201,38.49,17-26,SKB,Mål,VB,14,Verona REXHEPI,,,,16,Althea REINHARDT
+92,748201,38.59,17-27,ODE,Mål,2:e,68,Helena ELVER,,,,12,Sarah ERNEBJERG
+93,748201,39.12,,SKB,Fejlaflevering,,3,Clara BANG,Bold erobret,34,Andrea HANSEN,,
+94,748201,39.46,17-28,ODE,Mål,Gbr,32,Mie HØJLUND,Assist,68,Helena ELVER,12,Sarah ERNEBJERG
+95,748201,40.20,18-28,SKB,Mål,PL,3,Clara BANG,,,,16,Althea REINHARDT
+96,748201,40.52,,ODE,Skud reddet,Gbr,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+97,748201,41.16,19-28,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Althea REINHARDT
+98,748201,41.57,19-29,ODE,Mål,PL,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+99,748201,42.09,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,20,Lysa DEFO,,
+100,748201,42.40,19-30,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+101,748201,43.39,,SKB,Skud reddet,PL,7,Annika Solberg DALSAGER,Retur,0,,38,Yara TEN HOLTE
+102,748201,43.58,,SKB,Skud reddet,ST,10,Filippa NEDOVIC,Retur,0,,38,Yara TEN HOLTE
+103,748201,44.35,20-30,SKB,Mål,HB,3,Clara BANG,,,,38,Yara TEN HOLTE
+104,748201,44.47,,,,,,,,,,,
+105,748201,45.29,,ODE,Regelfejl,,20,Lysa DEFO,,,,,
+106,748201,46.14,21-30,SKB,Mål,PL,44,Nicoline LAURITSEN,,,,38,Yara TEN HOLTE
+107,748201,46.31,,ODE,Skud reddet,2:e,28,Clara Skyum THOMSEN,Retur,0,,1,Isabella MATHORNE
+108,748201,47.02,21-31,ODE,Mål,HB,28,Clara Skyum THOMSEN,,,,1,Isabella MATHORNE
+109,748201,47.29,,SKB,Regelfejl,,10,Filippa NEDOVIC,,,,,
+110,748201,47.41,,ODE,Skud reddet,2:e,8,Helene FAUSKE,Retur,34,Andrea HANSEN,1,Isabella MATHORNE
+111,748201,47.46,,ODE,Regelfejl,,34,Andrea HANSEN,,,,,
+112,748201,48.12,,SKB,Fejlaflevering,,3,Clara BANG,,,,,
+113,748201,48.16,21-32,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,34,Andrea HANSEN,1,Isabella MATHORNE
+114,748201,48.58,22-32,SKB,Mål,Gbr,3,Clara BANG,,,,38,Yara TEN HOLTE
+115,748201,49.35,22-33,ODE,Mål,PL,28,Clara Skyum THOMSEN,,,,1,Isabella MATHORNE
+116,748201,50.42,,SKB,Skud reddet,HF,22,Anne-Sofie FILTENBORG,,,,38,Yara TEN HOLTE
+117,748201,51.14,,ODE,Skud blokeret,PL,8,Helene FAUSKE,Blok af (ret),10,Filippa NEDOVIC,,
+118,748201,51.25,,ODE,Time out,,,,,,,,
+119,748201,51.36,,ODE,Skud på stolpe,VB,22,Ragnhild DAHL,,,,1,Isabella MATHORNE
+120,748201,52.19,,SKB,Skud reddet,VF,6,Josefine Kaae LARSEN,,,,38,Yara TEN HOLTE
+121,748201,52.27,22-34,ODE,Mål,2:e,8,Helene FAUSKE,,,,1,Isabella MATHORNE
+122,748201,52.58,23-34,SKB,Mål,Gbr,7,Annika Solberg DALSAGER,,,,38,Yara TEN HOLTE
+123,748201,53.27,,ODE,Skud blokeret,HB,28,Clara Skyum THOMSEN,Blokeret af,10,Filippa NEDOVIC,,
+124,748201,54.04,,SKB,Skud reddet,PL,3,Clara BANG,,,,38,Yara TEN HOLTE
+125,748201,54.44,,ODE,Regelfejl,,44,Nikita Van Der VLIET,,,,,
+126,748201,54.59,,SKB,Regelfejl,,44,Nicoline LAURITSEN,,,,,
+127,748201,55.28,,ODE,Skud reddet,PL,8,Helene FAUSKE,Retur,44,Nikita Van Der VLIET,1,Isabella MATHORNE
+128,748201,55.28,,ODE,Tilkendt straffe,,44,Nikita Van Der VLIET,Forårs. str.,3,Clara BANG,,
+129,748201,55.28,,SKB,Udvisning,,3,Clara BANG,,,,,
+130,748201,55.31,23-35,ODE,Mål på straffe,,10,Anna GRUNDTVIG,,,,1,Isabella MATHORNE
+131,748201,56.29,,SKB,Skud blokeret,PL,14,Verona REXHEPI,Blokeret af,22,Ragnhild DAHL,,
+132,748201,56.41,23-36,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,1,Isabella MATHORNE
+133,748201,57.17,24-36,SKB,Mål,VF,6,Josefine Kaae LARSEN,Assist,11,Mia LAGUMDZIJA,38,Yara TEN HOLTE
+134,748201,57.29,,ODE,Skud reddet,2:e,6,Malin AUNE,,,,1,Isabella MATHORNE
+135,748201,57.59,25-36,SKB,Mål,Gbr,7,Annika Solberg DALSAGER,,,,38,Yara TEN HOLTE
+136,748201,58.10,,ODE,Skud på stolpe,2:e,28,Clara Skyum THOMSEN,,,,1,Isabella MATHORNE
+137,748201,58.31,,SKB,Skud reddet,PL,14,Verona REXHEPI,,,,38,Yara TEN HOLTE
+138,748201,58.40,25-37,ODE,Mål,2:e,22,Ragnhild DAHL,,,,1,Isabella MATHORNE
+139,748201,59.03,26-37,SKB,Mål,Gbr,11,Mia LAGUMDZIJA,,,,38,Yara TEN HOLTE
+140,748201,59.13,26-38,ODE,Mål,2:e,10,Anna GRUNDTVIG,Assist,22,Ragnhild DAHL,1,Isabella MATHORNE
+141,748201,59.40,,SKB,Skud reddet,ST,10,Filippa NEDOVIC,,,,38,Yara TEN HOLTE
+142,748201,59.48,26-39,ODE,Mål,2:e,8,Helene FAUSKE,,,,1,Isabella MATHORNE
+143,748201,59.59,,SKB,Skud blokeret,2:e,11,Mia LAGUMDZIJA,Blokeret af,22,Ragnhild DAHL,,

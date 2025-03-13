@@ -1,0 +1,123 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748728,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748728,0.31,,GIF,Skud blokeret,PL,14,Nicolai SKYTTE,Blok af (ret),14,Jacob BAGERSTED,,
+3,748728,1.07,1-0,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,14,Nicolai SKYTTE,30,Julius STEN
+4,748728,1.18,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+5,748728,1.22,,GIF,Skud reddet,1:e,7,Jakob VILLEMOES,,,,30,Julius STEN
+6,748728,2.13,1-1,SJE,Mål,Gbr,24,Sebastian AUGUSTINUSSEN,,,,16,Christian WETCHE
+7,748728,2.41,,GIF,Skud reddet,PL,21,Kristoffer VESTERGAARD,Retur,0,,30,Julius STEN
+8,748728,2.52,2-1,GIF,Mål,Gbr,14,Nicolai SKYTTE,Assist,7,Jakob VILLEMOES,30,Julius STEN
+9,748728,3.26,2-2,SJE,Mål,VF,28,Patrick VOLZ,Assist,11,Nicolaj JØRGENSEN,16,Christian WETCHE
+10,748728,4.25,3-2,GIF,Mål,PL,4,Frederik NIELSEN,,,,30,Julius STEN
+11,748728,4.56,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+12,748728,5.00,4-2,GIF,Mål,1:e,14,Nicolai SKYTTE,,0,,,
+13,748728,5.39,,SJE,Skud på stolpe,VF,28,Patrick VOLZ,,,,16,Christian WETCHE
+14,748728,6.34,,GIF,Fejlaflevering,,4,Frederik NIELSEN,,,,,
+15,748728,6.39,4-3,SJE,Mål,1:e,18,Morten BJØRNSHAUGE,Assist,29,Magnus FREDRIKSEN,16,Christian WETCHE
+16,748728,7.10,,GIF,Skud reddet,VF,20,Frederik IVERSEN,,,,30,Julius STEN
+17,748728,7.38,4-4,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,16,Christian WETCHE
+18,748728,8.35,,GIF,Skud på stolpe,HF,7,Jakob VILLEMOES,,,,30,Julius STEN
+19,748728,9.20,,SJE,Tilkendt straffe,,11,Nicolaj JØRGENSEN,Forårs. str.,11,Kristoffer JESSEN,,
+20,748728,9.43,4-5,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,16,Christian WETCHE
+21,748728,10.26,5-5,GIF,Mål,Gbr,21,Kristoffer VESTERGAARD,Assist,20,Frederik IVERSEN,30,Julius STEN
+22,748728,11.12,,SJE,Regelfejl,,48,Gabriel SETTERBLOM,,,,,
+23,748728,11.53,,GIF,Tilkendt straffe,,20,Frederik IVERSEN,Forårs. str.,33,Ebbe STANKIEWICZ,,
+24,748728,12.00,,SJE,Advarsel,,33,Ebbe STANKIEWICZ,,,,,
+25,748728,12.11,6-5,GIF,Mål på straffe,,21,Kristoffer VESTERGAARD,,,,30,Julius STEN
+26,748728,12.46,6-6,SJE,Mål,VF,28,Patrick VOLZ,Assist,11,Nicolaj JØRGENSEN,16,Christian WETCHE
+27,748728,13.34,,GIF,Tabt bold,,21,Kristoffer VESTERGAARD,Bold erobret,18,Morten BJØRNSHAUGE,,
+28,748728,13.39,6-7,SJE,Mål,1:e,28,Patrick VOLZ,Assist,29,Magnus FREDRIKSEN,0,
+29,748728,14.08,7-7,GIF,Mål,PL,21,Kristoffer VESTERGAARD,,,,30,Julius STEN
+30,748728,14.14,7-8,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,0,,,
+31,748728,14.43,,GIF,Skud reddet,Gbr,21,Kristoffer VESTERGAARD,,,,30,Julius STEN
+32,748728,14.49,,SJE,Skud blokeret,2:e,11,Nicolaj JØRGENSEN,Blok af (ret),8,Rolf RAVN,,
+33,748728,15.26,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+34,748728,15.30,,SJE,Udvisning,,11,Nicolaj JØRGENSEN,,,,,
+35,748728,15.48,,GIF,Regelfejl,,17,Kristian Krag ØRSTED,,,,,
+36,748728,15.52,7-9,SJE,Mål,1:e,28,Patrick VOLZ,Assist,,,30,Julius STEN
+37,748728,16.28,8-9,GIF,Mål,ST,22,Hjalmar ANDERSEN,Assist,18,Martin RISOM,30,Julius STEN
+38,748728,17.21,,SJE,Regelfejl,,48,Gabriel SETTERBLOM,,,,,
+39,748728,17.32,,GIF,Tilkendt straffe,,18,Martin RISOM,Forårs. str.,20,August WIGER,,
+40,748728,17.49,9-9,GIF,Mål på straffe,,20,Frederik IVERSEN,,,,30,Julius STEN
+41,748728,18.33,,SJE,Skud på stolpe,PL,48,Gabriel SETTERBLOM,,,,16,Christian WETCHE
+42,748728,19.07,,GIF,Fejlaflevering,,8,Rolf RAVN,,,,,
+43,748728,19.39,9-10,SJE,Mål,Gbr,20,August WIGER,,,,16,Christian WETCHE
+44,748728,20.18,,SJE,Udvisning,,11,Nicolaj JØRGENSEN,,,,,
+45,748728,20.37,,GIF,Fejlaflevering,,18,Martin RISOM,Bold erobret,28,Patrick VOLZ,,
+46,748728,20.44,9-11,SJE,Mål,1:e,20,August WIGER,Assist,28,Patrick VOLZ,0,
+47,748728,20.49,,GIF,Time out,,,,,,,,
+48,748728,21.04,,GIF,Fejlaflevering,,4,Frederik NIELSEN,Bold erobret,28,Patrick VOLZ,,
+49,748728,21.09,9-12,SJE,Mål,1:e,28,Patrick VOLZ,,0,,,
+50,748728,21.31,,GIF,Regelfejl,,4,Frederik NIELSEN,,,,,
+51,748728,21.37,9-13,SJE,Mål,1:e,33,Ebbe STANKIEWICZ,Assist,28,Patrick VOLZ,16,Christian WETCHE
+52,748728,22.06,10-13,GIF,Mål,Gbr,18,Martin RISOM,,,,30,Julius STEN
+53,748728,22.46,10-14,SJE,Mål,VF,28,Patrick VOLZ,Assist,29,Magnus FREDRIKSEN,1,Frederik SKOVGAARD
+54,748728,23.42,,GIF,Skud reddet,PL,14,Nicolai SKYTTE,,,,30,Julius STEN
+55,748728,24.34,10-15,SJE,Mål,VF,28,Patrick VOLZ,Assist,20,August WIGER,1,Frederik SKOVGAARD
+56,748728,25.48,,GIF,Skud reddet,ST,17,Kristian Krag ØRSTED,,,,30,Julius STEN
+57,748728,26.23,10-16,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,29,Magnus FREDRIKSEN,1,Frederik SKOVGAARD
+58,748728,26.37,,GIF,Time out,,,,,,,,
+59,748728,27.03,,GIF,Regelfejl,,14,Nicolai SKYTTE,,,,,
+60,748728,27.56,,SJE,Skud reddet,PL,48,Gabriel SETTERBLOM,,,,1,Frederik SKOVGAARD
+61,748728,28.31,,GIF,Skud reddet,PL,21,Kristoffer VESTERGAARD,,,,30,Julius STEN
+62,748728,29.01,10-17,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,Assist,20,August WIGER,1,Frederik SKOVGAARD
+63,748728,29.38,11-17,GIF,Mål,HF,3,Thomas THEILGAARD,Assist,21,Kristoffer VESTERGAARD,30,Julius STEN
+64,748728,29.43,,SJE,Time out,,,,,,,,
+65,748728,30.00,,SJE,Skud forbi,PL,20,August WIGER,,,,1,Frederik SKOVGAARD
+66,748728,30.00,11-17,,Halvleg,,,,,,,,
+67,748728,30.00,,,Start 2:e halvleg,,,,,,,,
+68,748728,30.29,,SJE,Tilkendt straffe,,14,Jacob BAGERSTED,Forårs. str.,8,Rolf RAVN,,
+69,748728,30.43,11-18,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,16,Christian WETCHE
+70,748728,31.19,,GIF,Tilkendt straffe,,8,Rolf RAVN,Forårs. str.,28,Patrick VOLZ,,
+71,748728,31.29,,GIF,Straffekast reddet,,20,Frederik IVERSEN,,,,1,Matthias DORGELO
+72,748728,32.06,,SJE,Skud reddet,Gbr,11,Nicolaj JØRGENSEN,,,,16,Christian WETCHE
+73,748728,32.20,,GIF,Skud reddet,2:e,21,Kristoffer VESTERGAARD,,,,30,Julius STEN
+74,748728,33.15,,SJE,Skud reddet,Gbr,24,Sebastian AUGUSTINUSSEN,,,,16,Christian WETCHE
+75,748728,33.47,,GIF,Skud reddet,HF,3,Thomas THEILGAARD,,,,30,Julius STEN
+76,748728,34.52,11-19,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,29,Magnus FREDRIKSEN,16,Christian WETCHE
+77,748728,35.35,12-19,GIF,Mål,Gbr,21,Kristoffer VESTERGAARD,Assist,8,Rolf RAVN,30,Julius STEN
+78,748728,36.05,,SJE,Skud blokeret,PL,11,Nicolaj JØRGENSEN,Blokeret af,11,Kristoffer JESSEN,,
+79,748728,36.10,13-19,GIF,Mål,1:e,16,Christian WETCHE,,,,0,
+80,748728,36.54,13-20,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,16,Christian WETCHE
+81,748728,37.35,,GIF,Fejlaflevering,,8,Rolf RAVN,,,,,
+82,748728,38.17,13-21,SJE,Mål,PL,48,Gabriel SETTERBLOM,,,,16,Christian WETCHE
+83,748728,38.53,,GIF,Skud reddet,Gbr,4,Frederik NIELSEN,,,,30,Julius STEN
+84,748728,38.55,13-22,SJE,Mål,1:e,30,Julius STEN,,,,0,
+85,748728,39.03,,GIF,Time out,,0,,,,,,
+86,748728,39.35,,GIF,Regelfejl,,14,Nicolai SKYTTE,,,,,
+87,748728,40.04,13-23,SJE,Mål,HB,20,August WIGER,,,,16,Christian WETCHE
+88,748728,40.50,,GIF,Skud blokeret,PL,21,Kristoffer VESTERGAARD,Blokeret af,18,Morten BJØRNSHAUGE,,
+89,748728,41.25,13-24,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,,,,16,Christian WETCHE
+90,748728,42.05,14-24,GIF,Mål,Gbr,14,Nicolai SKYTTE,,,,30,Julius STEN
+91,748728,42.43,,SJE,Fejlaflevering,,48,Gabriel SETTERBLOM,,,,,
+92,748728,42.47,15-24,GIF,Mål,1:e,9,Nicklas Bjørn VASSVIK,Assist,7,Jakob VILLEMOES,30,Julius STEN
+93,748728,43.36,15-25,SJE,Mål,Gbr,20,August WIGER,,,,16,Christian WETCHE
+94,748728,44.35,,GIF,Skud reddet,Gbr,18,Martin RISOM,,,,30,Julius STEN
+95,748728,45.03,,SJE,Skud reddet,VF,6,Nikolaj SVALASTOG,,,,16,Christian WETCHE
+96,748728,45.59,16-25,GIF,Mål,VB,14,Nicolai SKYTTE,,,,30,Julius STEN
+97,748728,46.37,,SJE,Regelfejl,,2,Tobias Gregers SCHMIDT,,,,,
+98,748728,46.50,17-25,GIF,Mål,2:e,18,Martin RISOM,Assist,9,Nicklas Bjørn VASSVIK,30,Julius STEN
+99,748728,47.32,17-26,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,Assist,20,August WIGER,16,Christian WETCHE
+100,748728,47.43,18-26,GIF,Mål,2:e,18,Martin RISOM,,,,30,Julius STEN
+101,748728,48.16,18-27,SJE,Mål,HB,48,Gabriel SETTERBLOM,,,,16,Christian WETCHE
+102,748728,49.01,19-27,GIF,Mål,HB,18,Martin RISOM,,,,30,Julius STEN
+103,748728,49.50,19-28,SJE,Mål,PL,22,Magnus HOLPERT,,,,16,Christian WETCHE
+104,748728,50.23,20-28,GIF,Mål,,,,,,,,
+105,748728,50.30,20-29,SJE,Mål,2:e,20,August WIGER,,,,,
+106,748728,50.36,21-29,GIF,Mål,2:e,19,Magnus SADOVA,,,,,
+107,748728,51.27,,SJE,Time out,,,,,,,,
+108,748728,51.47,,SJE,Regelfejl,,22,Magnus HOLPERT,,,,,
+109,748728,52.30,22-29,GIF,Mål,VF,19,Magnus SADOVA,Assist,23,Bjarke NYBO,,
+110,748728,53.32,,SJE,Regelfejl,,22,Magnus HOLPERT,,,,,
+111,748728,54.04,23-29,GIF,Mål,ST,22,Hjalmar ANDERSEN,Assist,14,Nicolai SKYTTE,,
+112,748728,54.54,,SJE,Skud reddet,VF,6,Nikolaj SVALASTOG,,,,1,Frederik SKOVGAARD
+113,748728,55.21,24-29,GIF,Mål,PL,18,Martin RISOM,,,,,
+114,748728,55.55,,SJE,Tilkendt straffe,,48,Gabriel SETTERBLOM,Forårs. str.,11,Kristoffer JESSEN,,
+115,748728,55.56,,SJE,Straffekast reddet,,11,Nicolaj JØRGENSEN,,,,1,Frederik SKOVGAARD
+116,748728,56.28,,GIF,Skud blokeret,PL,14,Nicolai SKYTTE,Blokeret af,14,Jacob BAGERSTED,,
+117,748728,57.16,24-30,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,29,Magnus FREDRIKSEN,1,Frederik SKOVGAARD
+118,748728,58.22,,GIF,Skud blokeret,PL,18,Martin RISOM,Blok af (ret),18,Morten BJØRNSHAUGE,,
+119,748728,58.26,,GIF,Fejlaflevering,,18,Martin RISOM,Bold erobret,6,Nikolaj SVALASTOG,,
+120,748728,59.08,,SJE,Skud på stolpe,PL,48,Gabriel SETTERBLOM,,,,1,Frederik SKOVGAARD
+121,748728,59.24,25-30,GIF,Mål,2:e,18,Martin RISOM,,,,,
+122,748728,59.59,,SJE,Skud reddet,PL,20,August WIGER,,,,1,Frederik SKOVGAARD

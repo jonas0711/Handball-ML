@@ -1,0 +1,145 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748267,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748267,0.34,,EHA,Skud reddet,HF,7,Marlene DAHLMANN,,,,12,Filippa IDÉHN
+3,748267,1.04,0-1,IKA,Mål,Gbr,21,Ingvild BAKKERUD,,,,16,Johanne GRAUGAARD
+4,748267,1.36,1-1,EHA,Mål,PL,19,Mette BRANDT,,,,12,Filippa IDÉHN
+5,748267,1.44,1-2,IKA,Mål,2:e,14,Emma LINDQVIST,,,,0,
+6,748267,2.22,2-2,EHA,Mål,Gbr,23,Silje BRØNS,,,,12,Filippa IDÉHN
+7,748267,3.10,,IKA,Tilkendt straffe,,14,Emma LINDQVIST,Forårs. str.,4,Cecilie TERMANSEN,,
+8,748267,3.30,2-3,IKA,Mål på straffe,,17,Simone PETERSEN,,,,16,Johanne GRAUGAARD
+9,748267,3.58,3-3,EHA,Mål,Gbr,23,Silje BRØNS,,,,12,Filippa IDÉHN
+10,748267,4.06,,IKA,Skud reddet,2:e,21,Ingvild BAKKERUD,,,,16,Johanne GRAUGAARD
+11,748267,4.56,,EHA,Skud reddet,VF,30,Clara LERBY,,,,12,Filippa IDÉHN
+12,748267,5.13,,IKA,Fejlaflevering,,7,Stine SKOGRAND,,,,,
+13,748267,5.23,,EHA,Fejlaflevering,,3,Liv SVEINBJØRNSDÓTTIR,,,,,
+14,748267,5.28,3-4,IKA,Mål,2:e,18,Maria LYKKEGAARD,Assist,14,Emma LINDQVIST,16,Johanne GRAUGAARD
+15,748267,6.33,4-4,EHA,Mål,ST,9,Camilla THORHAUGE,Assist,23,Silje BRØNS,12,Filippa IDÉHN
+16,748267,6.44,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,,,,,
+17,748267,6.50,5-4,EHA,Mål,1:e,9,Camilla THORHAUGE,Assist,4,Cecilie TERMANSEN,12,Filippa IDÉHN
+18,748267,7.43,,EHA,Advarsel,,21,Frederikke GULMARK,,,,,
+19,748267,7.57,,IKA,Regelfejl,,18,Maria LYKKEGAARD,,,,,
+20,748267,8.41,6-4,EHA,Mål,PL,19,Mette BRANDT,,,,12,Filippa IDÉHN
+21,748267,9.00,6-5,IKA,Mål,2:e,14,Emma LINDQVIST,,,,0,
+22,748267,9.17,7-5,EHA,Mål,ST,9,Camilla THORHAUGE,Assist,19,Mette BRANDT,12,Filippa IDÉHN
+23,748267,9.51,7-6,IKA,Mål,VF,22,Lærke NOLSØE,Assist,21,Ingvild BAKKERUD,16,Johanne GRAUGAARD
+24,748267,10.05,8-6,EHA,Mål,ST,30,Clara LERBY,Assist,21,Frederikke GULMARK,12,Filippa IDÉHN
+25,748267,10.15,,IKA,Skud reddet,2:e,22,Lærke NOLSØE,,,,16,Johanne GRAUGAARD
+26,748267,10.55,9-6,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,19,Mette BRANDT,12,Filippa IDÉHN
+27,748267,11.04,,IKA,Time out,,,,,,,,
+28,748267,11.20,9-7,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,16,Johanne GRAUGAARD
+29,748267,11.30,,EHA,Fejlaflevering,,21,Frederikke GULMARK,,,,,
+30,748267,11.37,9-8,IKA,Mål,1:e,21,Ingvild BAKKERUD,Assist,6,Cecilie BRANDT,16,Johanne GRAUGAARD
+31,748267,12.42,,EHA,Skud blokeret,HB,19,Mette BRANDT,Blokeret af,21,Ingvild BAKKERUD,,
+32,748267,13.06,9-9,IKA,Mål,PL,14,Emma LINDQVIST,Assist,7,Stine SKOGRAND,16,Johanne GRAUGAARD
+33,748267,13.48,10-9,EHA,Mål,VB,21,Frederikke GULMARK,,,,12,Filippa IDÉHN
+34,748267,14.23,,IKA,Skud reddet,HF,6,Cecilie BRANDT,,,,16,Johanne GRAUGAARD
+35,748267,15.10,,EHA,Skud reddet,PL,19,Mette BRANDT,,,,12,Filippa IDÉHN
+36,748267,15.20,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,,,,,
+37,748267,15.51,11-9,EHA,Mål,ST,22,Mirja LYNGSØ,Assist,8,Tine GEERTSEN,12,Filippa IDÉHN
+38,748267,16.26,11-10,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,16,Johanne GRAUGAARD
+39,748267,17.15,,EHA,Fejlaflevering,,8,Tine GEERTSEN,Bold erobret,22,Lærke NOLSØE,,
+40,748267,17.19,11-11,IKA,Mål,1:e,22,Lærke NOLSØE,,,,0,
+41,748267,17.30,,EHA,Time out,,,,,,,,
+42,748267,17.48,,EHA,Tabt bold,,7,Marlene DAHLMANN,,,,,
+43,748267,17.59,11-12,IKA,Mål,2:e,20,Ane HØGSETH,Assist,21,Ingvild BAKKERUD,16,Johanne GRAUGAARD
+44,748267,19.13,,EHA,Skud blokeret,PL,19,Mette BRANDT,Blokeret af,22,Lærke NOLSØE,,
+45,748267,19.42,,EHA,Udvisning,,22,Mirja LYNGSØ,,,,,
+46,748267,20.21,,IKA,Skud på stolpe,HF,6,Cecilie BRANDT,,,,16,Johanne GRAUGAARD
+47,748267,21.21,,EHA,Skud blokeret,PL,21,Frederikke GULMARK,Blok af (ret),19,Amanda Loft HANSEN,,
+48,748267,21.32,,EHA,Skud på stolpe,PL,23,Silje BRØNS,,,,12,Filippa IDÉHN
+49,748267,21.40,11-13,IKA,Mål,2:e,22,Lærke NOLSØE,Assist,17,Simone PETERSEN,16,Johanne GRAUGAARD
+50,748267,22.13,12-13,EHA,Mål,VB,21,Frederikke GULMARK,,,,12,Filippa IDÉHN
+51,748267,22.55,,IKA,Regelfejl,,20,Ane HØGSETH,,,,,
+52,748267,22.58,,IKA,Udvisning,,17,Simone PETERSEN,,,,,
+53,748267,23.17,,EHA,Skud reddet,HF,7,Marlene DAHLMANN,,,,12,Filippa IDÉHN
+54,748267,23.48,12-14,IKA,Mål,ST,20,Ane HØGSETH,Assist,14,Emma LINDQVIST,16,Johanne GRAUGAARD
+55,748267,24.27,,EHA,Tilkendt straffe,,19,Mette BRANDT,Forårs. str.,21,Ingvild BAKKERUD,,
+56,748267,24.42,13-14,EHA,Mål på straffe,,30,Clara LERBY,,,,12,Filippa IDÉHN
+57,748267,25.13,13-15,IKA,Mål,PL,21,Ingvild BAKKERUD,,,,16,Johanne GRAUGAARD
+58,748267,26.10,14-15,EHA,Mål,VF,30,Clara LERBY,Assist,21,Frederikke GULMARK,12,Filippa IDÉHN
+59,748267,26.44,14-16,IKA,Mål,HF,6,Cecilie BRANDT,Assist,7,Stine SKOGRAND,16,Johanne GRAUGAARD
+60,748267,27.23,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+61,748267,27.28,14-17,IKA,Mål,1:e,14,Emma LINDQVIST,Assist,6,Cecilie BRANDT,1,Annika FRIDHEIM
+62,748267,27.38,15-17,EHA,Mål,2:e,5,Anna Hviid BANG,,,,12,Filippa IDÉHN
+63,748267,27.51,15-18,IKA,Mål,2:e,7,Stine SKOGRAND,,,,1,Annika FRIDHEIM
+64,748267,28.31,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+65,748267,28.36,15-19,IKA,Mål,1:e,14,Emma LINDQVIST,Assist,21,Ingvild BAKKERUD,1,Annika FRIDHEIM
+66,748267,28.56,,EHA,Skud reddet,VB,21,Frederikke GULMARK,,,,12,Filippa IDÉHN
+67,748267,29.30,15-20,IKA,Mål,Gbr,7,Stine SKOGRAND,Assist,17,Simone PETERSEN,1,Annika FRIDHEIM
+68,748267,29.52,,EHA,Fejlaflevering,,21,Frederikke GULMARK,,,,,
+69,748267,29.57,,IKA,Skud reddet,1:e,22,Lærke NOLSØE,,,,1,Annika FRIDHEIM
+70,748267,30.00,15-20,,Halvleg,,,,,,,,
+71,748267,30.00,,,Start 2:e halvleg,,,,,,,,
+72,748267,30.30,15-21,IKA,Mål,ST,20,Ane HØGSETH,Assist,21,Ingvild BAKKERUD,1,Annika FRIDHEIM
+73,748267,30.58,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+74,748267,31.06,15-22,IKA,Mål,2:e,21,Ingvild BAKKERUD,,,,1,Annika FRIDHEIM
+75,748267,31.35,16-22,EHA,Mål,HF,28,Maiken SKOV,Assist,5,Anna Hviid BANG,89,Emily Stang SANDO
+76,748267,32.12,,IKA,Tabt bold,,21,Ingvild BAKKERUD,,,,,
+77,748267,32.21,,EHA,Skud forbi,1:e,28,Maiken SKOV,,,,89,Emily Stang SANDO
+78,748267,32.31,,IKA,Skud på stolpe,2:e,7,Stine SKOGRAND,,,,1,Annika FRIDHEIM
+79,748267,32.39,,EHA,Skud på stolpe,PL,23,Silje BRØNS,Retur,0,,89,Emily Stang SANDO
+80,748267,33.09,17-22,EHA,Mål,ST,9,Camilla THORHAUGE,Assist,19,Mette BRANDT,89,Emily Stang SANDO
+81,748267,33.40,,IKA,Regelfejl,,2,Matilde KONDRUP NIELSEN,,,,,
+82,748267,34.22,18-22,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,19,Mette BRANDT,89,Emily Stang SANDO
+83,748267,34.35,,IKA,Skud reddet,2:e,17,Simone PETERSEN,,,,1,Annika FRIDHEIM
+84,748267,34.40,19-22,EHA,Mål,2:e,5,Anna Hviid BANG,,,,89,Emily Stang SANDO
+85,748267,35.10,,IKA,Regelfejl,,2,Matilde KONDRUP NIELSEN,,,,,
+86,748267,35.21,,EHA,Fejlaflevering,,10,Sofie LASSEN,,,,,
+87,748267,35.27,19-23,IKA,Mål,1:e,17,Simone PETERSEN,Assist,21,Ingvild BAKKERUD,1,Annika FRIDHEIM
+88,748267,35.56,,EHA,Skud reddet,ST,9,Camilla THORHAUGE,,,,89,Emily Stang SANDO
+89,748267,36.03,19-24,IKA,Mål,1:e,21,Ingvild BAKKERUD,,,,0,
+90,748267,36.24,20-24,EHA,Mål,ST,9,Camilla THORHAUGE,Assist,23,Silje BRØNS,89,Emily Stang SANDO
+91,748267,37.00,,IKA,Tilkendt straffe,,20,Ane HØGSETH,Forårs. str.,22,Mirja LYNGSØ,,
+92,748267,37.02,20-25,IKA,Mål på straffe,,17,Simone PETERSEN,,,,1,Annika FRIDHEIM
+93,748267,37.33,,EHA,Skud reddet,ST,9,Camilla THORHAUGE,,,,89,Emily Stang SANDO
+94,748267,38.20,,IKA,Regelfejl,,21,Ingvild BAKKERUD,,,,,
+95,748267,38.55,,EHA,Skud reddet,Gbr,23,Silje BRØNS,,,,89,Emily Stang SANDO
+96,748267,39.31,,IKA,Skud blokeret,PL,17,Simone PETERSEN,Blok af (ret),10,Sofie LASSEN,,
+97,748267,39.43,20-26,IKA,Mål,HB,7,Stine SKOGRAND,Assist,17,Simone PETERSEN,1,Annika FRIDHEIM
+98,748267,40.24,21-26,EHA,Mål,HF,28,Maiken SKOV,Assist,23,Silje BRØNS,89,Emily Stang SANDO
+99,748267,40.51,,IKA,Tilkendt straffe,,77,Line Mai HOUGAARD,Forårs. str.,22,Mirja LYNGSØ,,
+100,748267,40.51,,EHA,Udvisning,,22,Mirja LYNGSØ,,,,,
+101,748267,40.51,,EHA,Advarsel,A,,Peter Nedergaard JAGD,,,,,
+102,748267,40.51,21-27,IKA,Mål på straffe,,17,Simone PETERSEN,,,,1,Annika FRIDHEIM
+103,748267,41.47,22-27,EHA,Mål,PL,19,Mette BRANDT,,,,89,Emily Stang SANDO
+104,748267,42.12,22-28,IKA,Mål,,,,,,,,
+105,748267,42.51,,EHA,Skud reddet,HB,21,Frederikke GULMARK,,,,89,Emily Stang SANDO
+106,748267,44.01,22-29,IKA,Mål,ST,18,Maria LYKKEGAARD,Assist,21,Ingvild BAKKERUD,1,Annika FRIDHEIM
+107,748267,44.33,,EHA,Skud reddet,Gbr,21,Frederikke GULMARK,,,,89,Emily Stang SANDO
+108,748267,44.45,,IKA,Tabt bold,,2,Matilde KONDRUP NIELSEN,,,,,
+109,748267,45.17,,EHA,Skud reddet,VF,30,Clara LERBY,,,,89,Emily Stang SANDO
+110,748267,45.25,22-30,IKA,Mål,1:e,21,Ingvild BAKKERUD,,,,0,
+111,748267,45.48,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+112,748267,45.50,22-31,IKA,Mål,1:e,21,Ingvild BAKKERUD,,,,0,
+113,748267,45.52,,EHA,Time out,,,,,,,,
+114,748267,46.16,,EHA,Skud reddet,Gbr,19,Mette BRANDT,,,,89,Emily Stang SANDO
+115,748267,47.01,23-31,EHA,Mål,1:e,30,Clara LERBY,Assist,19,Mette BRANDT,89,Emily Stang SANDO
+116,748267,47.07,,IKA,Skud reddet,Gbr,10,Sofia STENHOLT,,,,16,Johanne GRAUGAARD
+117,748267,47.40,23-32,IKA,Mål,Gbr,14,Emma LINDQVIST,,,,16,Johanne GRAUGAARD
+118,748267,48.47,24-32,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,89,Emily Stang SANDO
+119,748267,49.02,24-33,IKA,Mål,2:e,77,Line Mai HOUGAARD,Assist,14,Emma LINDQVIST,16,Johanne GRAUGAARD
+120,748267,49.29,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+121,748267,49.38,24-34,IKA,Mål,2:e,14,Emma LINDQVIST,,,,16,Johanne GRAUGAARD
+122,748267,50.13,25-34,EHA,Mål,Gbr,21,Frederikke GULMARK,,,,89,Emily Stang SANDO
+123,748267,50.28,,IKA,Time out,,,,,,,,
+124,748267,50.55,25-35,IKA,Mål,VF,2,Matilde KONDRUP NIELSEN,Assist,26,Anne Katrine NOWAK,16,Johanne GRAUGAARD
+125,748267,51.41,,IKA,Udvisning,,2,Matilde KONDRUP NIELSEN,,,,,
+126,748267,51.56,26-35,EHA,Mål,HF,28,Maiken SKOV,Assist,21,Frederikke GULMARK,89,Emily Stang SANDO
+127,748267,52.33,26-36,IKA,Mål,PL,17,Simone PETERSEN,,,,16,Johanne GRAUGAARD
+128,748267,52.41,27-36,EHA,Mål,2:e,17,Lin JOHANNSEN,,,,0,
+129,748267,53.10,27-37,IKA,Mål,ST,22,Lærke NOLSØE,Assist,17,Simone PETERSEN,16,Johanne GRAUGAARD
+130,748267,53.32,,EHA,Skud på stolpe,Gbr,9,Camilla THORHAUGE,,,,89,Emily Stang SANDO
+131,748267,54.00,27-38,IKA,Mål,Gbr,10,Sofia STENHOLT,Assist,17,Simone PETERSEN,16,Johanne GRAUGAARD
+132,748267,55.27,,EHA,Skud reddet,VB,21,Frederikke GULMARK,,,,89,Emily Stang SANDO
+133,748267,55.56,,IKA,Skud reddet,ST,20,Ane HØGSETH,Retur,0,,16,Johanne GRAUGAARD
+134,748267,56.16,,IKA,Skud forbi,Gbr,26,Anne Katrine NOWAK,,,,16,Johanne GRAUGAARD
+135,748267,56.17,,EHA,Time out,,,,,,,,
+136,748267,56.37,28-38,EHA,Mål,ST,22,Mirja LYNGSØ,Assist,19,Mette BRANDT,89,Emily Stang SANDO
+137,748267,57.13,,IKA,Skud på stolpe,Gbr,10,Sofia STENHOLT,,,,16,Johanne GRAUGAARD
+138,748267,57.23,29-38,EHA,Mål,1:e,16,Johanne GRAUGAARD,,,,0,
+139,748267,57.52,29-39,IKA,Mål,ST,20,Ane HØGSETH,Assist,17,Simone PETERSEN,16,Johanne GRAUGAARD
+140,748267,58.26,,EHA,Tilkendt straffe,,21,Frederikke GULMARK,Forårs. str.,2,Matilde KONDRUP NIELSEN,,
+141,748267,58.39,,EHA,Straffekast reddet,,19,Mette BRANDT,,,,89,Emily Stang SANDO
+142,748267,59.18,,IKA,Tabt bold,,19,Amanda Loft HANSEN,,,,,
+143,748267,59.26,,EHA,Skud forbi,1:e,10,Sofie LASSEN,,,,0,
+144,748267,59.48,29-40,IKA,Mål,PL,26,Anne Katrine NOWAK,,,,16,Johanne GRAUGAARD

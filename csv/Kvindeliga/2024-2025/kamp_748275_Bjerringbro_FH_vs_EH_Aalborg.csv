@@ -1,0 +1,138 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748275,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748275,0.42,,BFH,Skud reddet,PL,0,,,,,16,Johanne GRAUGAARD
+3,748275,0.52,,EHA,Fejlaflevering,,0,,,,,,
+4,748275,0.58,,BFH,Skud reddet,HF,44,Louise HALD,,,,16,Johanne GRAUGAARD
+5,748275,1.37,0-1,EHA,Mål,HB,5,Anna Hviid BANG,,,,20,Clara BAK
+6,748275,2.37,,BFH,Skud blokeret,PL,72,Line FRANDSEN,Blokeret af,4,Cecilie TERMANSEN,,
+7,748275,2.46,,EHA,Skud reddet,2:e,21,Frederikke GULMARK,,,,20,Clara BAK
+8,748275,3.15,1-1,BFH,Mål,ST,4,Emilie BANGSHØI,Assist,7,Line GYLDENLØVE,16,Johanne GRAUGAARD
+9,748275,3.23,,EHA,Fejlaflevering,,10,Sofie LASSEN,Bold erobret,11,Arlinda HAJDARI,,
+10,748275,3.58,,BFH,Skud på stolpe,VF,4,Emilie BANGSHØI,,,,16,Johanne GRAUGAARD
+11,748275,4.08,1-2,EHA,Mål,2:e,28,Maiken SKOV,Assist,5,Anna Hviid BANG,20,Clara BAK
+12,748275,4.43,2-2,BFH,Mål,Gbr,72,Line FRANDSEN,,,,16,Johanne GRAUGAARD
+13,748275,4.53,,EHA,Skud forbi,2:e,21,Frederikke GULMARK,,,,20,Clara BAK
+14,748275,5.27,3-2,BFH,Mål,PL,31,Marianne HAUGSTED,,,,16,Johanne GRAUGAARD
+15,748275,6.00,3-3,EHA,Mål,Gbr,21,Frederikke GULMARK,,,,20,Clara BAK
+16,748275,6.38,,BFH,Skud forbi,VB,31,Marianne HAUGSTED,,,,16,Johanne GRAUGAARD
+17,748275,7.18,,BFH,Advarsel,,19,Rikke Dahl NIELSEN,,,,,
+18,748275,7.58,,EHA,Skud forbi,HB,5,Anna Hviid BANG,,,,20,Clara BAK
+19,748275,8.39,4-3,BFH,Mål,ST,18,Sidsel POULSEN,Assist,72,Line FRANDSEN,16,Johanne GRAUGAARD
+20,748275,9.11,4-4,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,5,Anna Hviid BANG,20,Clara BAK
+21,748275,9.36,,EHA,Udvisning,,5,Anna Hviid BANG,,,,,
+22,748275,10.05,,BFH,Tabt bold,,44,Louise HALD,,,,,
+23,748275,10.27,4-5,EHA,Mål,HF,28,Maiken SKOV,Assist,21,Frederikke GULMARK,20,Clara BAK
+24,748275,10.51,,BFH,Skud på stolpe,Gbr,72,Line FRANDSEN,Retur,18,Sidsel POULSEN,10,Sofie LASSEN
+25,748275,11.10,,BFH,Tilkendt straffe,,72,Line FRANDSEN,Forårs. str.,10,Sofie LASSEN,,
+26,748275,11.20,5-5,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Johanne GRAUGAARD
+27,748275,12.05,,EHA,Skud forbi,PL,23,Silje BRØNS,,,,20,Clara BAK
+28,748275,12.55,,BFH,Regelfejl,,18,Sidsel POULSEN,,,,,
+29,748275,13.03,5-6,EHA,Mål,HB,21,Frederikke GULMARK,,,,20,Clara BAK
+30,748275,13.34,6-6,BFH,Mål,HF,44,Louise HALD,Assist,7,Line GYLDENLØVE,16,Johanne GRAUGAARD
+31,748275,14.09,6-7,EHA,Mål,VB,23,Silje BRØNS,,,,20,Clara BAK
+32,748275,14.46,7-7,BFH,Mål,Gbr,72,Line FRANDSEN,,,,16,Johanne GRAUGAARD
+33,748275,16.06,,EHA,Skud reddet,HB,5,Anna Hviid BANG,,,,20,Clara BAK
+34,748275,16.39,,BFH,Skud på stolpe,HF,44,Louise HALD,,,,16,Johanne GRAUGAARD
+35,748275,16.51,7-8,EHA,Mål,PL,23,Silje BRØNS,,,,20,Clara BAK
+36,748275,17.28,,BFH,Skud reddet,PL,31,Marianne HAUGSTED,,,,16,Johanne GRAUGAARD
+37,748275,17.39,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+38,748275,18.15,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,,,,,
+39,748275,18.57,7-9,EHA,Mål,PL,5,Anna Hviid BANG,,,,20,Clara BAK
+40,748275,19.02,,BFH,Time out,,,,,,,,
+41,748275,19.41,,BFH,Skud forbi,HF,10,Melina KRISTENSEN,,,,16,Johanne GRAUGAARD
+42,748275,20.35,,BFH,Udvisning,,18,Sidsel POULSEN,,,,,
+43,748275,20.49,,EHA,Tilkendt straffe,,22,Mirja LYNGSØ,Forårs. str.,19,Rikke Dahl NIELSEN,,
+44,748275,20.53,7-10,EHA,Mål på straffe,,30,Clara LERBY,,,,24,Josephine NORDSTRØM
+45,748275,21.40,8-10,BFH,Mål,HF,10,Melina KRISTENSEN,,,,16,Johanne GRAUGAARD
+46,748275,21.51,8-11,EHA,Mål,1:e,30,Clara LERBY,,,,,
+47,748275,22.34,,BFH,Skud reddet,PL,31,Marianne HAUGSTED,,,,16,Johanne GRAUGAARD
+48,748275,23.15,,EHA,Skud forbi,1:e,0,,,,,20,Clara BAK
+49,748275,23.49,9-11,BFH,Mål,PL,72,Line FRANDSEN,,,,16,Johanne GRAUGAARD
+50,748275,23.56,9-12,EHA,Mål,1:e,30,Clara LERBY,,,,20,Clara BAK
+51,748275,24.30,,BFH,Tilkendt straffe,,25,Laura JENSEN,Forårs. str.,6,Isabella SØRENSEN,,
+52,748275,24.40,10-12,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Johanne GRAUGAARD
+53,748275,25.27,,EHA,Tabt bold,,0,,,,,,
+54,748275,25.46,,EHA,Time out,,0,,,,,,
+55,748275,25.46,11-12,BFH,Mål,1:e,4,Emilie BANGSHØI,Assist,19,Rikke Dahl NIELSEN,16,Johanne GRAUGAARD
+56,748275,25.46,,EHA,Tabt bold,,19,Mette BRANDT,,,,,
+57,748275,25.46,12-12,BFH,Mål,1:e,19,Rikke Dahl NIELSEN,,,,16,Johanne GRAUGAARD
+58,748275,26.50,12-13,EHA,Mål,PL,21,Frederikke GULMARK,,,,0,
+59,748275,27.25,,BFH,Tilkendt straffe,,18,Sidsel POULSEN,Forårs. str.,21,Frederikke GULMARK,,
+60,748275,27.29,13-13,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Johanne GRAUGAARD
+61,748275,28.11,,EHA,Skud reddet,HB,0,Retur,,,,20,Clara BAK
+62,748275,28.41,,EHA,Skud forbi,VF,30,Clara LERBY,,,,20,Clara BAK
+63,748275,28.48,,BFH,Skud reddet,VB,11,Arlinda HAJDARI,,,,16,Johanne GRAUGAARD
+64,748275,28.56,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+65,748275,29.29,14-13,BFH,Mål,Gbr,25,Laura JENSEN,,,,16,Johanne GRAUGAARD
+66,748275,29.59,14-14,EHA,Mål,HF,28,Maiken SKOV,Assist,5,Anna Hviid BANG,20,Clara BAK
+67,748275,30.00,14-14,,Halvleg,,,,,,,,
+68,748275,30.00,,,Start 2:e halvleg,,,,,,,,
+69,748275,30.37,,EHA,Tabt bold,,22,Mirja LYNGSØ,Bold erobret,31,Marianne HAUGSTED,,
+70,748275,30.47,15-14,BFH,Mål,1:e,31,Marianne HAUGSTED,,,,16,Johanne GRAUGAARD
+71,748275,31.20,15-15,EHA,Mål,HF,28,Maiken SKOV,,,,24,Josephine NORDSTRØM
+72,748275,32.14,,BFH,Skud reddet,HB,11,Arlinda HAJDARI,Retur,18,Sidsel POULSEN,16,Johanne GRAUGAARD
+73,748275,32.24,16-15,BFH,Mål,ST,18,Sidsel POULSEN,,,,16,Johanne GRAUGAARD
+74,748275,33.10,,EHA,Skud forbi,HF,28,Maiken SKOV,,,,24,Josephine NORDSTRØM
+75,748275,33.35,17-15,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,11,Arlinda HAJDARI,16,Johanne GRAUGAARD
+76,748275,34.19,,EHA,Tilkendt straffe,,21,Frederikke GULMARK,Forårs. str.,11,Arlinda HAJDARI,,
+77,748275,34.34,17-16,EHA,Mål på straffe,,30,Clara LERBY,,,,24,Josephine NORDSTRØM
+78,748275,35.12,18-16,BFH,Mål,ST,18,Sidsel POULSEN,Assist,72,Line FRANDSEN,16,Johanne GRAUGAARD
+79,748275,35.22,18-17,EHA,Mål,1:e,30,Clara LERBY,,,,0,
+80,748275,35.49,,BFH,Skud reddet,Gbr,11,Arlinda HAJDARI,,,,16,Johanne GRAUGAARD
+81,748275,36.04,18-18,EHA,Mål,1:e,30,Clara LERBY,,,,0,
+82,748275,36.33,,BFH,Skud reddet,ST,19,Rikke Dahl NIELSEN,,,,16,Johanne GRAUGAARD
+83,748275,37.10,,EHA,Skud reddet,VB,19,Mette BRANDT,,,,24,Josephine NORDSTRØM
+84,748275,37.37,19-18,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,11,Arlinda HAJDARI,16,Johanne GRAUGAARD
+85,748275,38.26,,EHA,Skud på stolpe,HF,28,Maiken SKOV,,,,24,Josephine NORDSTRØM
+86,748275,39.08,,BFH,Fejlaflevering,,72,Line FRANDSEN,Bold erobret,30,Clara LERBY,,
+87,748275,39.18,19-19,EHA,Mål,1:e,30,Clara LERBY,,,,0,
+88,748275,39.46,20-19,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,11,Arlinda HAJDARI,16,Johanne GRAUGAARD
+89,748275,40.50,20-20,EHA,Mål,PL,23,Silje BRØNS,,,,24,Josephine NORDSTRØM
+90,748275,41.26,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,,,,,
+91,748275,42.14,,EHA,Tilkendt straffe,,4,Cecilie TERMANSEN,Forårs. str.,18,Sidsel POULSEN,,
+92,748275,42.22,20-21,EHA,Mål på straffe,,30,Clara LERBY,,,,20,Clara BAK
+93,748275,42.55,,BFH,Skud reddet,Gbr,11,Arlinda HAJDARI,Retur,0,,16,Johanne GRAUGAARD
+94,748275,43.25,21-21,BFH,Mål,HF,10,Melina KRISTENSEN,Assist,11,Arlinda HAJDARI,16,Johanne GRAUGAARD
+95,748275,43.57,21-22,EHA,Mål,PL,23,Silje BRØNS,,,,20,Clara BAK
+96,748275,44.07,,BFH,Skud reddet,VB,31,Marianne HAUGSTED,,,,16,Johanne GRAUGAARD
+97,748275,44.22,21-23,EHA,Mål,1:e,16,Johanne GRAUGAARD,,,,24,Josephine NORDSTRØM
+98,748275,44.55,22-23,BFH,Mål,PL,72,Line FRANDSEN,,,,16,Johanne GRAUGAARD
+99,748275,45.07,22-24,EHA,Mål,1:e,30,Clara LERBY,,,,0,
+100,748275,45.38,23-24,BFH,Mål,HB,11,Arlinda HAJDARI,,,,16,Johanne GRAUGAARD
+101,748275,45.47,23-25,EHA,Mål,1:e,30,Clara LERBY,,,,20,Clara BAK
+102,748275,46.11,24-25,BFH,Mål,Gbr,11,Arlinda HAJDARI,,,,16,Johanne GRAUGAARD
+103,748275,47.04,24-26,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,5,Anna Hviid BANG,20,Clara BAK
+104,748275,47.34,25-26,BFH,Mål,,,,,,,16,Johanne GRAUGAARD
+105,748275,48.18,,EHA,Skud reddet,PL,21,Frederikke GULMARK,,,,20,Clara BAK
+106,748275,48.42,,BFH,Skud på stolpe,HF,10,Melina KRISTENSEN,,,,16,Johanne GRAUGAARD
+107,748275,49.16,,EHA,Skud reddet,VB,23,Silje BRØNS,,,,20,Clara BAK
+108,748275,49.47,,BFH,Tilkendt straffe,,25,Laura JENSEN,Forårs. str.,6,Isabella SØRENSEN,,
+109,748275,50.04,26-26,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,16,Johanne GRAUGAARD
+110,748275,50.20,,EHA,Time out,,,,,,,,
+111,748275,50.45,,EHA,Tilkendt straffe,,23,Silje BRØNS,Forårs. str.,11,Arlinda HAJDARI,,
+112,748275,51.05,,EHA,Straffekast reddet,,30,Clara LERBY,,,,20,Clara BAK
+113,748275,51.37,27-26,BFH,Mål,VF,4,Emilie BANGSHØI,Assist,25,Laura JENSEN,16,Johanne GRAUGAARD
+114,748275,52.15,,EHA,Tilkendt straffe,,28,Maiken SKOV,Forårs. str.,4,Emilie BANGSHØI,,
+115,748275,52.15,,BFH,Udvisning,,4,Emilie BANGSHØI,,,,,
+116,748275,52.15,27-27,EHA,Mål på straffe,,30,Clara LERBY,,,,20,Clara BAK
+117,748275,52.49,28-27,BFH,Mål,HB,11,Arlinda HAJDARI,,,,16,Johanne GRAUGAARD
+118,748275,53.21,,EHA,Skud reddet,Gbr,23,Silje BRØNS,Retur,0,,20,Clara BAK
+119,748275,53.41,28-28,EHA,Mål,HF,28,Maiken SKOV,Assist,23,Silje BRØNS,20,Clara BAK
+120,748275,54.17,,BFH,Time out,,,,,,,,
+121,748275,54.34,29-28,BFH,Mål,HB,11,Arlinda HAJDARI,,,,16,Johanne GRAUGAARD
+122,748275,55.28,,EHA,Tilkendt straffe,,28,Maiken SKOV,Forårs. str.,72,Line FRANDSEN,,
+123,748275,55.28,,BFH,Udvisning,,72,Line FRANDSEN,,,,,
+124,748275,55.31,29-29,EHA,Mål på straffe,,30,Clara LERBY,,,,20,Clara BAK
+125,748275,56.05,30-29,BFH,Mål,VB,25,Laura JENSEN,,,,16,Johanne GRAUGAARD
+126,748275,56.20,,EHA,Skud forbi,1:e,30,Clara LERBY,,,,20,Clara BAK
+127,748275,56.56,,BFH,Skud reddet,VB,25,Laura JENSEN,,,,16,Johanne GRAUGAARD
+128,748275,57.19,30-30,EHA,Mål,HF,28,Maiken SKOV,Assist,0,,20,Clara BAK
+129,748275,57.43,31-30,BFH,Mål,PL,7,Line GYLDENLØVE,,,,16,Johanne GRAUGAARD
+130,748275,58.38,31-31,EHA,Mål,Gbr,21,Frederikke GULMARK,,,,20,Clara BAK
+131,748275,59.07,,BFH,Tilkendt straffe,,4,Emilie BANGSHØI,Forårs. str.,28,Maiken SKOV,,
+132,748275,59.07,,EHA,Udvisning,,28,Maiken SKOV,,,,,
+133,748275,59.11,32-31,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,10,Sofie LASSEN
+134,748275,59.34,,EHA,Time out,,,,,,,,
+135,748275,59.49,,EHA,Skud reddet,HB,19,Mette BRANDT,,,,20,Clara BAK
+136,748275,59.59,,BFH,Time out,,,,,,,,
+137,748275,60.00,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,

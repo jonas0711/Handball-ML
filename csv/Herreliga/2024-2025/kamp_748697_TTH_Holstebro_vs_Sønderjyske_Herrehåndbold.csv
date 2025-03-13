@@ -1,0 +1,130 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748697,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748697,0.46,,SJE,Skud reddet,VB,20,August WIGER,,,,16,Sander HEIEREN
+3,748697,0.53,1-0,TTH,Mål,2:e,10,Magnus BRAMMING,,,,1,Matthias DORGELO
+4,748697,1.53,1-1,SJE,Mål,VB,11,Nicolaj JØRGENSEN,,,,16,Sander HEIEREN
+5,748697,2.36,2-1,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,18,Edwin ASPENBÄCK,1,Matthias DORGELO
+6,748697,3.26,2-2,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,,,,16,Sander HEIEREN
+7,748697,3.41,3-2,TTH,Mål,VF,10,Magnus BRAMMING,Assist,7,William AAR,1,Matthias DORGELO
+8,748697,4.19,3-3,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,,,,16,Sander HEIEREN
+9,748697,4.31,,TTH,Fejlaflevering,,18,Edwin ASPENBÄCK,Bold erobret,28,Patrick VOLZ,,
+10,748697,5.08,3-4,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,16,Sander HEIEREN
+11,748697,6.01,,TTH,Fejlaflevering,,18,Edwin ASPENBÄCK,,,,,
+12,748697,6.35,3-5,SJE,Mål,Gbr,20,August WIGER,,,,16,Sander HEIEREN
+13,748697,7.30,,TTH,Skud reddet,PL,11,Thomas DAMGAARD,,,,1,Matthias DORGELO
+14,748697,8.11,,SJE,Skud reddet,ST,18,Morten BJØRNSHAUGE,,,,16,Sander HEIEREN
+15,748697,8.43,,TTH,Fejlaflevering,,11,Thomas DAMGAARD,,,,,
+16,748697,9.17,,SJE,Regelfejl,,11,Nicolaj JØRGENSEN,,,,,
+17,748697,10.00,,SJE,Advarsel,,18,Morten BJØRNSHAUGE,,,,,
+18,748697,10.25,4-5,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,1,Matthias DORGELO
+19,748697,10.36,4-6,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,29,Magnus FREDRIKSEN,16,Sander HEIEREN
+20,748697,10.50,,TTH,Fejlaflevering,,11,Thomas DAMGAARD,,,,,
+21,748697,10.55,,TTH,Advarsel,,10,Magnus BRAMMING,,,,,
+22,748697,11.12,4-7,SJE,Mål,Gbr,20,August WIGER,,,,16,Sander HEIEREN
+23,748697,12.13,5-7,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,18,Edwin ASPENBÄCK,1,Matthias DORGELO
+24,748697,12.51,5-8,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,24,Sebastian AUGUSTINUSSEN,1,Frank MIKKELSEN
+25,748697,13.03,,TTH,Tabt bold,,18,Edwin ASPENBÄCK,,,,,
+26,748697,13.05,5-9,SJE,Mål,1:e,11,Nicolaj JØRGENSEN,,,,1,Frank MIKKELSEN
+27,748697,13.08,,TTH,Time out,,0,,,,,,
+28,748697,13.38,,TTH,Skud forbi,HB,13,Sven EHRIG,,,,1,Matthias DORGELO
+29,748697,14.28,,TTH,Advarsel,,4,Christoffer CICHOSZ,,,,,
+30,748697,14.49,,SJE,Skud reddet,PL,20,August WIGER,,,,1,Frank MIKKELSEN
+31,748697,15.41,6-9,TTH,Mål,ST,4,Christoffer CICHOSZ,Assist,11,Thomas DAMGAARD,1,Matthias DORGELO
+32,748697,16.33,,SJE,Tilkendt straffe,,29,Magnus FREDRIKSEN,Forårs. str.,21,Mathias SMED,,
+33,748697,16.55,6-10,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,1,Frank MIKKELSEN
+34,748697,17.25,7-10,TTH,Mål,ST,4,Christoffer CICHOSZ,Assist,13,Sven EHRIG,1,Matthias DORGELO
+35,748697,18.06,,TTH,Advarsel,,28,Kevin GULLIKSEN,,,,,
+36,748697,18.28,,SJE,Skud reddet,VB,11,Nicolaj JØRGENSEN,,,,1,Frank MIKKELSEN
+37,748697,18.52,,TTH,Regelfejl,,13,Sven EHRIG,,,,,
+38,748697,18.57,7-11,SJE,Mål,2:e,24,Sebastian AUGUSTINUSSEN,,,,1,Frank MIKKELSEN
+39,748697,19.41,8-11,TTH,Mål,PL,7,William AAR,,,,1,Matthias DORGELO
+40,748697,20.23,8-12,SJE,Mål,VF,28,Patrick VOLZ,Assist,11,Nicolaj JØRGENSEN,1,Frank MIKKELSEN
+41,748697,20.31,9-12,TTH,Mål,2:e,13,Sven EHRIG,,,,30,Julius STEN
+42,748697,21.03,9-13,SJE,Mål,Gbr,22,Magnus HOLPERT,,,,1,Frank MIKKELSEN
+43,748697,21.12,,SJE,Udvisning,,14,Jacob BAGERSTED,,,,,
+44,748697,21.35,,TTH,Tilkendt straffe,,18,Edwin ASPENBÄCK,Forårs. str.,18,Morten BJØRNSHAUGE,,
+45,748697,21.40,10-13,TTH,Mål på straffe,,10,Magnus BRAMMING,,,,30,Julius STEN
+46,748697,22.37,,SJE,Tilkendt straffe,,18,Morten BJØRNSHAUGE,Forårs. str.,25,Jonas PORUP,,
+47,748697,22.51,10-14,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,1,Frank MIKKELSEN
+48,748697,23.12,,TTH,Tilkendt straffe,,11,Thomas DAMGAARD,Forårs. str.,33,Ebbe STANKIEWICZ,,
+49,748697,23.17,11-14,TTH,Mål på straffe,,10,Magnus BRAMMING,,,,30,Julius STEN
+50,748697,24.18,,SJE,Skud reddet,Gbr,11,Nicolaj JØRGENSEN,,,,1,Frank MIKKELSEN
+51,748697,25.19,,TTH,Regelfejl,,18,Edwin ASPENBÄCK,,,,,
+52,748697,25.30,,SJE,Time out,,0,,,,,,
+53,748697,25.48,11-15,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,29,Magnus FREDRIKSEN,1,Frank MIKKELSEN
+54,748697,26.15,,SJE,Udvisning,,18,Morten BJØRNSHAUGE,,,,,
+55,748697,26.36,,TTH,Skud reddet,VF,10,Magnus BRAMMING,,,,30,Julius STEN
+56,748697,27.10,,SJE,Skud reddet,VF,28,Patrick VOLZ,,,,1,Frank MIKKELSEN
+57,748697,27.52,12-15,TTH,Mål,VF,10,Magnus BRAMMING,Assist,7,William AAR,30,Julius STEN
+58,748697,28.46,,SJE,Regelfejl,,22,Magnus HOLPERT,,,,,
+59,748697,29.47,13-15,TTH,Mål,HF,13,Sven EHRIG,Assist,18,Edwin ASPENBÄCK,30,Julius STEN
+60,748697,29.59,13-16,SJE,Mål,VF,28,Patrick VOLZ,Assist,11,Nicolaj JØRGENSEN,1,Frank MIKKELSEN
+61,748697,30.00,13-16,,Halvleg,,,,,,,,
+62,748697,30.00,,,Start 2:e halvleg,,,,,,,,
+63,748697,30.33,,TTH,Skud reddet,VB,11,Thomas DAMGAARD,,,,30,Julius STEN
+64,748697,31.22,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+65,748697,31.46,14-16,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,11,Thomas DAMGAARD,30,Julius STEN
+66,748697,32.20,14-17,SJE,Mål,Gbr,24,Sebastian AUGUSTINUSSEN,Assist,29,Magnus FREDRIKSEN,16,Sander HEIEREN
+67,748697,32.32,,TTH,Skud forbi,Gbr,11,Thomas DAMGAARD,,,,30,Julius STEN
+68,748697,33.05,,SJE,Skud reddet,PL,29,Magnus FREDRIKSEN,,,,16,Sander HEIEREN
+69,748697,33.39,15-17,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,30,Julius STEN
+70,748697,34.12,,SJE,Skud forbi,HF,33,Ebbe STANKIEWICZ,,,,16,Sander HEIEREN
+71,748697,34.25,,TTH,Skud blokeret,PL,11,Thomas DAMGAARD,Blokeret af,18,Morten BJØRNSHAUGE,,
+72,748697,35.43,,SJE,Skud reddet,HF,33,Ebbe STANKIEWICZ,,,,16,Sander HEIEREN
+73,748697,35.57,,TTH,Regelfejl,,28,Kevin GULLIKSEN,,,,,
+74,748697,36.37,,TTH,Udvisning,,7,William AAR,,,,,
+75,748697,37.04,15-18,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,,,,16,Sander HEIEREN
+76,748697,37.12,16-18,TTH,Mål,2:e,23,Miha ZVIZEJ,,,,30,Julius STEN
+77,748697,37.39,16-19,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,20,August WIGER,16,Sander HEIEREN
+78,748697,38.08,17-19,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,Assist,11,Thomas DAMGAARD,30,Julius STEN
+79,748697,38.31,,SJE,Skud reddet,PL,11,Nicolaj JØRGENSEN,,,,16,Sander HEIEREN
+80,748697,39.29,,TTH,Regelfejl,,18,Edwin ASPENBÄCK,,,,,
+81,748697,39.58,,SJE,Regelfejl,,18,Morten BJØRNSHAUGE,,,,,
+82,748697,40.05,,TTH,Fejlaflevering,,18,Edwin ASPENBÄCK,Bold erobret,29,Magnus FREDRIKSEN,,
+83,748697,40.11,,SJE,Skud reddet,1:e,33,Ebbe STANKIEWICZ,,,,16,Sander HEIEREN
+84,748697,40.17,18-19,TTH,Mål,1:e,10,Magnus BRAMMING,Assist,7,William AAR,30,Julius STEN
+85,748697,40.51,18-20,SJE,Mål,HB,29,Magnus FREDRIKSEN,,,,16,Sander HEIEREN
+86,748697,40.57,19-20,TTH,Mål,2:e,18,Edwin ASPENBÄCK,,,,30,Julius STEN
+87,748697,40.57,,SJE,Udvisning,,14,Jacob BAGERSTED,,,,,
+88,748697,41.45,,SJE,Skud forbi,PL,11,Nicolaj JØRGENSEN,,,,16,Sander HEIEREN
+89,748697,42.11,20-20,TTH,Mål,ST,4,Christoffer CICHOSZ,Assist,11,Thomas DAMGAARD,30,Julius STEN
+90,748697,42.52,20-21,SJE,Mål,Gbr,20,August WIGER,,,,16,Sander HEIEREN
+91,748697,43.24,21-21,TTH,Mål,Gbr,7,William AAR,Assist,18,Edwin ASPENBÄCK,30,Julius STEN
+92,748697,44.19,21-22,SJE,Mål,Gbr,24,Sebastian AUGUSTINUSSEN,,,,16,Sander HEIEREN
+93,748697,44.49,22-22,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,11,Thomas DAMGAARD,1,Matthias DORGELO
+94,748697,45.49,,SJE,Skud reddet,ST,18,Morten BJØRNSHAUGE,,,,16,Sander HEIEREN
+95,748697,46.13,,SJE,Advarsel,A,,Rasmus Glad VANDBÆK,,,,,
+96,748697,46.26,,SJE,"Rødt kort, direkte",,14,Jacob BAGERSTED,,,,,
+97,748697,46.55,,TTH,Fejlaflevering,,18,Edwin ASPENBÄCK,,,,,
+98,748697,47.27,22-23,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,20,August WIGER,16,Sander HEIEREN
+99,748697,47.52,23-23,TTH,Mål,PL,7,William AAR,,,,1,Matthias DORGELO
+100,748697,49.03,23-24,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,16,Sander HEIEREN
+101,748697,49.28,,TTH,Fejlaflevering,,11,Thomas DAMGAARD,,,,,
+102,748697,50.10,,SJE,Tilkendt straffe,,29,Magnus FREDRIKSEN,Forårs. str.,7,William AAR,,
+103,748697,50.19,,TTH,Udvisning,,7,William AAR,,,,,
+104,748697,50.41,23-25,SJE,Mål,,,,,,,,
+105,748697,51.24,,TTH,Skud reddet,VF,6,Frederik BJERRE,,,,1,Matthias DORGELO
+106,748697,52.03,23-26,SJE,Mål,VF,33,Ebbe STANKIEWICZ,Assist,20,August WIGER,16,Sander HEIEREN
+107,748697,52.26,,TTH,Time out,,,,,,,,
+108,748697,52.46,24-26,TTH,Mål,HF,28,Kevin GULLIKSEN,Assist,7,William AAR,1,Matthias DORGELO
+109,748697,53.54,24-27,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,16,Sander HEIEREN
+110,748697,54.33,25-27,TTH,Mål,ST,4,Christoffer CICHOSZ,Assist,7,William AAR,1,Matthias DORGELO
+111,748697,54.42,25-28,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,,,0,
+112,748697,55.25,,TTH,Skud reddet,VB,18,Edwin ASPENBÄCK,,,,1,Matthias DORGELO
+113,748697,55.56,25-29,SJE,Mål,ST,2,Tobias Gregers SCHMIDT,Assist,11,Nicolaj JØRGENSEN,16,Sander HEIEREN
+114,748697,56.04,,TTH,Regelfejl,,23,Miha ZVIZEJ,,,,,
+115,748697,56.58,,SJE,Skud forbi,PL,29,Magnus FREDRIKSEN,,,,16,Sander HEIEREN
+116,748697,57.23,,TTH,Tilkendt straffe,,28,Kevin GULLIKSEN,Forårs. str.,11,Nicolaj JØRGENSEN,,
+117,748697,57.23,,SJE,Udvisning,,11,Nicolaj JØRGENSEN,,,,,
+118,748697,57.26,26-29,TTH,Mål på straffe,,10,Magnus BRAMMING,,,,1,Matthias DORGELO
+119,748697,58.11,,TTH,"Rødt kort, direkte",,23,Miha ZVIZEJ,,,,,
+120,748697,58.11,,SJE,Tilkendt straffe,,28,Patrick VOLZ,Forårs. str.,23,Miha ZVIZEJ,,
+121,748697,58.11,26-30,SJE,Mål på straffe,,28,Patrick VOLZ,,,,16,Sander HEIEREN
+122,748697,58.11,,TTH,Time out,,,,,,,,
+123,748697,58.20,27-30,TTH,Mål,ST,7,William AAR,Assist,28,Kevin GULLIKSEN,1,Matthias DORGELO
+124,748697,58.50,,SJE,Tabt bold,,18,Morten BJØRNSHAUGE,,,,,
+125,748697,58.55,28-30,TTH,Mål,1:e,18,Edwin ASPENBÄCK,,,,0,
+126,748697,59.06,,SJE,Time out,,,,,,,,
+127,748697,59.21,28-31,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,24,Sebastian AUGUSTINUSSEN,16,Sander HEIEREN
+128,748697,59.30,,TTH,Tabt bold,,18,Edwin ASPENBÄCK,,,,,
+129,748697,59.59,28-32,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,24,Sebastian AUGUSTINUSSEN,16,Sander HEIEREN

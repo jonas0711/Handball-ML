@@ -1,0 +1,135 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748729,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748729,0.44,,GIF,Skud reddet,VF,20,Frederik IVERSEN,,,,12,Peter JOHANNESSON
+3,748729,1.14,,GOG,Skud reddet,Gbr,3,Nicolai PEDERSEN,,,,16,Christian WETCHE
+4,748729,1.58,,GIF,Skud blokeret,PL,4,Frederik NIELSEN,Blokeret af,66,Anton LINDSKOG,,
+5,748729,2.05,1-0,GOG,Mål,2:e,29,Hjalte LYKKE,,,,16,Christian WETCHE
+6,748729,2.14,,GIF,Skud reddet,2:e,14,Nicolai SKYTTE,,,,12,Peter JOHANNESSON
+7,748729,2.19,2-0,GOG,Mål,1:e,7,Lasse VILHELMSEN,Assist,3,Nicolai PEDERSEN,16,Christian WETCHE
+8,748729,3.24,,GIF,Skud blokeret,PL,14,Nicolai SKYTTE,Blokeret af,66,Anton LINDSKOG,,
+9,748729,3.32,,GOG,Skud forbi,1:e,9,Henrik JAKOBSEN,,,,16,Christian WETCHE
+10,748729,4.10,2-1,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,12,Peter JOHANNESSON
+11,748729,5.18,3-1,GOG,Mål,HB 29,29,Hjalte LYKKE,,,,16,Christian WETCHE
+12,748729,6.15,,GIF,Tilkendt straffe,,4,Frederik NIELSEN,Forårs. str.,9,Henrik JAKOBSEN,,
+13,748729,6.17,3-2,GIF,Mål på straffe,,20,Frederik IVERSEN,,,,12,Peter JOHANNESSON
+14,748729,7.05,,GIF,Advarsel,,8,Rolf RAVN,,,,,
+15,748729,7.41,4-2,GOG,Mål,Gbr 15,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+16,748729,8.29,4-3,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,21,Kristoffer VESTERGAARD,12,Peter JOHANNESSON
+17,748729,8.36,,GOG,Tilkendt straffe,,29,Hjalte LYKKE,Forårs. str.,11,Kristoffer JESSEN,,
+18,748729,8.36,,GIF,Udvisning,,11,Kristoffer JESSEN,,,,,
+19,748729,8.38,5-3,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+20,748729,9.24,,GIF,Regelfejl,,17,Kristian Krag ØRSTED,,,,,
+21,748729,9.32,6-3,GOG,Mål,2:e,23,Joachim Lyng ALS,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+22,748729,10.32,6-4,GIF,Mål,VF,20,Frederik IVERSEN,Assist,14,Nicolai SKYTTE,12,Peter JOHANNESSON
+23,748729,11.21,,GOG,Skud reddet,VB,3,Nicolai PEDERSEN,Retur,15,Tobias GRØNDAHL,16,Christian WETCHE
+24,748729,11.27,7-4,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,29,Hjalte LYKKE,16,Christian WETCHE
+25,748729,11.34,,GIF,Time out,,,,,,,,
+26,748729,11.58,7-5,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,18,Martin RISOM,12,Peter JOHANNESSON
+27,748729,12.37,8-5,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+28,748729,13.07,8-6,GIF,Mål,PL,18,Martin RISOM,,,,12,Peter JOHANNESSON
+29,748729,13.52,9-6,GOG,Mål,PL,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+30,748729,13.58,9-7,GIF,Mål,2:e,14,Nicolai SKYTTE,,,,12,Peter JOHANNESSON
+31,748729,14.47,,GIF,Advarsel,,9,Nicklas Bjørn VASSVIK,,,,,
+32,748729,15.29,,GOG,Skud blokeret,VB,15,Tobias GRØNDAHL,Blok af (ret),11,Kristoffer JESSEN,,
+33,748729,15.44,10-7,GOG,Mål,PL,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+34,748729,16.22,,GIF,Skud reddet,PL,14,Nicolai SKYTTE,,,,12,Peter JOHANNESSON
+35,748729,16.27,11-7,GOG,Mål,1:e,7,Lasse VILHELMSEN,Assist,23,Joachim Lyng ALS,16,Christian WETCHE
+36,748729,17.01,,GIF,Skud reddet,PL,18,Martin RISOM,,,,12,Peter JOHANNESSON
+37,748729,17.07,,GOG,Skud reddet,2:e,3,Nicolai PEDERSEN,,,,16,Christian WETCHE
+38,748729,17.41,11-8,GIF,Mål,PL,23,Bjarke NYBO,,,,12,Peter JOHANNESSON
+39,748729,17.55,,GOG,Skud på stolpe,HB 29,29,Hjalte LYKKE,,,,16,Christian WETCHE
+40,748729,18.02,,GIF,Regelfejl,,23,Bjarke NYBO,,,,,
+41,748729,18.34,12-8,GOG,Mål,Gbr 29,29,Hjalte LYKKE,Assist,8,Frederik TILSTED,16,Christian WETCHE
+42,748729,19.19,,GIF,Skud blokeret,VB,18,Martin RISOM,Blok af (ret),66,Anton LINDSKOG,,
+43,748729,20.10,12-9,GIF,Mål,HB 18,18,Martin RISOM,,,,12,Peter JOHANNESSON
+44,748729,20.56,,GOG,Skud reddet,Gbr,8,Frederik TILSTED,,,,16,Christian WETCHE
+45,748729,21.32,,GIF,Skud reddet,Gbr 18,18,Martin RISOM,,,,12,Peter JOHANNESSON
+46,748729,22.07,13-9,GOG,Mål,Gbr,7,Lasse VILHELMSEN,Assist,8,Frederik TILSTED,16,Christian WETCHE
+47,748729,22.46,13-10,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,18,Martin RISOM,12,Peter JOHANNESSON
+48,748729,22.56,14-10,GOG,Mål,Gbr,7,Lasse VILHELMSEN,,,,16,Christian WETCHE
+49,748729,23.29,14-11,GIF,Mål,HF,3,Thomas THEILGAARD,Assist,18,Martin RISOM,12,Peter JOHANNESSON
+50,748729,24.19,,GOG,Skud blokeret,HB,7,Lasse VILHELMSEN,Blokeret af,17,Kristian Krag ØRSTED,,
+51,748729,24.30,,GIF,Tabt bold,,17,Kristian Krag ØRSTED,,,,,
+52,748729,24.49,,GOG,Time out,,,,,,,,
+53,748729,25.24,15-11,GOG,Mål,HB,7,Lasse VILHELMSEN,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+54,748729,25.55,15-12,GIF,Mål,ST,22,Hjalmar ANDERSEN,Assist,4,Frederik NIELSEN,12,Peter JOHANNESSON
+55,748729,26.05,,GOG,Regelfejl,,21,Kasper KILDELUND,,,,,
+56,748729,26.30,15-13,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,21,Kristoffer VESTERGAARD,12,Peter JOHANNESSON
+57,748729,26.56,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+58,748729,27.25,,GOG,Udvisning,,9,Henrik JAKOBSEN,,,,,
+59,748729,27.41,,GIF,Fejlaflevering,,18,Martin RISOM,,,,,
+60,748729,27.45,16-13,GOG,Mål,1:e,23,Joachim Lyng ALS,,,,0,
+61,748729,28.16,16-14,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,18,Martin RISOM,12,Peter JOHANNESSON
+62,748729,29.03,17-14,GOG,Mål,HB,7,Lasse VILHELMSEN,,,,16,Christian WETCHE
+63,748729,29.15,,GIF,Tilkendt straffe,,4,Frederik NIELSEN,Forårs. str.,8,Frederik TILSTED,,
+64,748729,29.23,,GIF,Straffekast forbi,,20,Frederik IVERSEN,,,,12,Peter JOHANNESSON
+65,748729,29.57,,GOG,Skud reddet,HB,7,Lasse VILHELMSEN,Retur,7,Lasse VILHELMSEN,16,Christian WETCHE
+66,748729,29.59,,GOG,Skud på stolpe,ST,7,Lasse VILHELMSEN,,,,16,Christian WETCHE
+67,748729,30.00,17-14,,Halvleg,,,,,,,,
+68,748729,30.00,,,Start 2:e halvleg,,,,,,,,
+69,748729,31.02,18-14,GOG,Mål,VB,3,Nicolai PEDERSEN,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+70,748729,31.30,18-15,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,12,Peter JOHANNESSON
+71,748729,31.42,,GOG,Skud på stolpe,Gbr,3,Nicolai PEDERSEN,,,,16,Christian WETCHE
+72,748729,32.20,,GIF,Tilkendt straffe,,4,Frederik NIELSEN,Forårs. str.,7,Lasse VILHELMSEN,,
+73,748729,32.35,18-16,GIF,Mål på straffe,,21,Kristoffer VESTERGAARD,,,,12,Peter JOHANNESSON
+74,748729,33.27,,GOG,Regelfejl,,29,Hjalte LYKKE,,,,,
+75,748729,33.54,18-17,GIF,Mål,HF,3,Thomas THEILGAARD,Assist,8,Rolf RAVN,12,Peter JOHANNESSON
+76,748729,34.08,19-17,GOG,Mål,HB,29,Hjalte LYKKE,,,,16,Christian WETCHE
+77,748729,34.42,19-18,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,8,Rolf RAVN,64,Salah BOUTAF
+78,748729,35.27,20-18,GOG,Mål,Gbr,3,Nicolai PEDERSEN,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+79,748729,36.03,20-19,GIF,Mål,Gbr,4,Frederik NIELSEN,Assist,22,Hjalmar ANDERSEN,64,Salah BOUTAF
+80,748729,36.21,21-19,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,16,Christian WETCHE
+81,748729,36.50,,GIF,Skud reddet,VF,20,Frederik IVERSEN,,,,64,Salah BOUTAF
+82,748729,37.31,,GOG,Skud reddet,HB,29,Hjalte LYKKE,Retur,29,Hjalte LYKKE,16,Christian WETCHE
+83,748729,37.37,22-19,GOG,Mål,ST,29,Hjalte LYKKE,,,,16,Christian WETCHE
+84,748729,38.03,22-20,GIF,Mål,VB,21,Kristoffer VESTERGAARD,Assist,4,Frederik NIELSEN,64,Salah BOUTAF
+85,748729,38.39,,GOG,Tabt bold,,29,Hjalte LYKKE,,,,,
+86,748729,38.47,,GIF,Skud reddet,1:e,19,Magnus SADOVA,,,,64,Salah BOUTAF
+87,748729,38.55,23-20,GOG,Mål,VF,23,Joachim Lyng ALS,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+88,748729,40.15,,GIF,Skud forbi,VB,21,Kristoffer VESTERGAARD,,,,64,Salah BOUTAF
+89,748729,40.48,,GIF,Udvisning,,11,Kristoffer JESSEN,,,,,
+90,748729,41.34,,GOG,Skud reddet,VF,23,Joachim Lyng ALS,,,,16,Christian WETCHE
+91,748729,42.19,,GIF,Passivt spil,,0,,,,,,
+92,748729,42.26,24-20,GOG,Mål,1:e,3,Nicolai PEDERSEN,,,,0,
+93,748729,42.52,,GIF,Time out,,,,,,,,
+94,748729,43.19,24-21,GIF,Mål,HF,3,Thomas THEILGAARD,,,,64,Salah BOUTAF
+95,748729,43.55,25-21,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,29,Hjalte LYKKE,16,Christian WETCHE
+96,748729,44.30,,GIF,Fejlaflevering,,21,Kristoffer VESTERGAARD,,,,,
+97,748729,44.34,26-21,GOG,Mål,1:e,3,Nicolai PEDERSEN,Assist,37,Linus PERSSON,0,
+98,748729,45.04,,GIF,Fejlaflevering,,4,Frederik NIELSEN,,,,,
+99,748729,45.09,27-21,GOG,Mål,1:e,3,Nicolai PEDERSEN,,,,0,
+100,748729,45.34,27-22,GIF,Mål,Gbr,21,Kristoffer VESTERGAARD,Assist,22,Hjalmar ANDERSEN,64,Salah BOUTAF
+101,748729,46.15,,GOG,Skud reddet,PL,15,Tobias GRØNDAHL,,,,16,Christian WETCHE
+102,748729,46.23,,GIF,Skud reddet,1:e,9,Nicklas Bjørn VASSVIK,,,,64,Salah BOUTAF
+103,748729,47.02,,GOG,Regelfejl,,23,Joachim Lyng ALS,,,,,
+104,748729,48.14,,GOG,Time out,,,,,,,,
+105,748729,48.31,,GOG,Skud reddet,PL,10,Frederik PEDERSEN,,,,16,Christian WETCHE
+106,748729,48.57,27-23,GIF,Mål,Gbr,21,Kristoffer VESTERGAARD,,,,64,Salah BOUTAF
+107,748729,49.28,28-23,GOG,Mål,PL,8,Frederik TILSTED,,,,16,Christian WETCHE
+108,748729,49.59,28-24,GIF,Mål,HF,7,Jakob VILLEMOES,Assist,21,Kristoffer VESTERGAARD,64,Salah BOUTAF
+109,748729,50.37,,GOG,Skud forbi,ST,66,Anton LINDSKOG,,,,16,Christian WETCHE
+110,748729,51.22,28-25,GIF,Mål,Gbr,4,Frederik NIELSEN,Assist,22,Hjalmar ANDERSEN,64,Salah BOUTAF
+111,748729,51.33,,GOG,Skud blokeret,2:e,66,Anton LINDSKOG,Blokeret af,17,Kristian Krag ØRSTED,,
+112,748729,52.10,,GIF,Skud reddet,ST,22,Hjalmar ANDERSEN,,,,64,Salah BOUTAF
+113,748729,52.52,,GOG,Regelfejl,,10,Frederik PEDERSEN,,,,,
+114,748729,53.02,,GIF,Tilkendt straffe,,4,Frederik NIELSEN,Forårs. str.,7,Lasse VILHELMSEN,,
+115,748729,53.09,28-26,GIF,Mål på straffe,,21,Kristoffer VESTERGAARD,,,,64,Salah BOUTAF
+116,748729,54.01,,GOG,Skud reddet,PL,8,Frederik TILSTED,,,,16,Christian WETCHE
+117,748729,54.33,,GIF,Tilkendt straffe,,19,Magnus SADOVA,Forårs. str.,37,Linus PERSSON,,
+118,748729,54.33,,GOG,Udvisning,,37,Linus PERSSON,,,,,
+119,748729,54.34,28-27,GIF,Mål på straffe,,21,Kristoffer VESTERGAARD,,,,64,Salah BOUTAF
+120,748729,55.25,29-27,GOG,Mål,VF,23,Joachim Lyng ALS,Assist,3,Nicolai PEDERSEN,16,Christian WETCHE
+121,748729,56.18,,GIF,Skud reddet,VF,19,Magnus SADOVA,,,,64,Salah BOUTAF
+122,748729,56.18,,GIF,Udvisning,,19,Magnus SADOVA,,,,,
+123,748729,56.48,30-27,GOG,Mål,Gbr,29,Hjalte LYKKE,Assist,15,Tobias GRØNDAHL,16,Christian WETCHE
+124,748729,57.29,,GIF,Regelfejl,,23,Bjarke NYBO,,,,,
+125,748729,57.33,31-27,GOG,Mål,1:e,3,Nicolai PEDERSEN,Assist,9,Henrik JAKOBSEN,0,
+126,748729,57.38,,GIF,Time out,,,,,,,,
+127,748729,57.46,31-28,GIF,Mål,Gbr,18,Martin RISOM,,,,64,Salah BOUTAF
+128,748729,57.55,32-28,GOG,Mål,2:e,7,Lasse VILHELMSEN,Assist,3,Nicolai PEDERSEN,16,Christian WETCHE
+129,748729,58.07,,GOG,Advarsel,B,,Rasmus BERTELSEN,,,,,
+130,748729,58.30,,GIF,Skud reddet,Gbr,18,Martin RISOM,,,,64,Salah BOUTAF
+131,748729,59.12,,GOG,Skud på stolpe,PL,3,Nicolai PEDERSEN,,,,16,Christian WETCHE
+132,748729,59.59,,GIF,Fejlaflevering,,21,Kristoffer VESTERGAARD,,,,,
+133,748729,60.00,32-28,,Fuld tid,,,,,,,,
+134,748729,60.00,,,Kamp slut,,,,,,,,

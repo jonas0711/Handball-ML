@@ -1,0 +1,151 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748233,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748233,0.50,,AHB,Fejlaflevering,,77,Alberte EBLER,,,,,
+3,748233,1.45,,KBH,Skud reddet,HB,21,Helene KINDBERG,,,,86,Sabine ENGLERT
+4,748233,2.01,,AHB,Skud reddet,2:e,17,Line Berggren LARSEN,Retur,0,Bianca SCHANSSEMA,,
+5,748233,2.22,0-1,AHB,Mål,HF,25,Ida GÖTZSCHE,Assist,77,Alberte EBLER,2,Bianca SCHANSSEMA
+6,748233,2.53,1-1,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,4,Catharina MOLENAAR,86,Sabine ENGLERT
+7,748233,3.33,,AHB,Skud reddet,Gbr,17,Line Berggren LARSEN,,,,2,Bianca SCHANSSEMA
+8,748233,4.12,2-1,KBH,Mål,Gbr,4,Catharina MOLENAAR,Assist,21,Helene KINDBERG,86,Sabine ENGLERT
+9,748233,4.21,2-2,AHB,Mål,2:e,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+10,748233,4.52,,AHB,Advarsel,,4,Katrine JACOBSEN,,,,,
+11,748233,5.01,,KBH,Skud forbi,Gbr,21,Helene KINDBERG,,,,86,Sabine ENGLERT
+12,748233,5.09,,AHB,Fejlaflevering,,17,Line Berggren LARSEN,,,,,
+13,748233,5.41,,AHB,Advarsel,,3,Sarah Vest KIRKELØKKE,,,,,
+14,748233,5.50,3-2,KBH,Mål,Gbr,4,Catharina MOLENAAR,Assist,11,Martha NICKELSEN,86,Sabine ENGLERT
+15,748233,6.18,3-3,AHB,Mål,HB,77,Alberte EBLER,,,,2,Bianca SCHANSSEMA
+16,748233,6.55,,KBH,Regelfejl,,17,Tabea SCHMID,,,,,
+17,748233,7.01,,AHB,Regelfejl,,14,Anna Berger WIERZBA,,,,,
+18,748233,7.41,,KBH,Tilkendt straffe,,11,Martha NICKELSEN,Forårs. str.,4,Katrine JACOBSEN,,
+19,748233,7.58,,KBH,Straffekast reddet,,17,Tabea SCHMID,Retur,0,,86,Sabine ENGLERT
+20,748233,8.28,4-3,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,11,Martha NICKELSEN,86,Sabine ENGLERT
+21,748233,8.39,4-4,AHB,Mål,2:e,25,Ida GÖTZSCHE,Assist,77,Alberte EBLER,2,Bianca SCHANSSEMA
+22,748233,9.22,,KBH,Regelfejl,,11,Martha NICKELSEN,,,,,
+23,748233,9.33,4-5,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,17,Line Berggren LARSEN,2,Bianca SCHANSSEMA
+24,748233,10.12,,KBH,Tilkendt straffe,,17,Tabea SCHMID,Forårs. str.,3,Sarah Vest KIRKELØKKE,,
+25,748233,10.12,,AHB,Udvisning,,3,Sarah Vest KIRKELØKKE,,,,,
+26,748233,10.14,5-5,KBH,Mål på straffe,,17,Tabea SCHMID,,,,86,Sabine ENGLERT
+27,748233,11.11,,AHB,Skud reddet,PL,17,Line Berggren LARSEN,,,,2,Bianca SCHANSSEMA
+28,748233,11.32,6-5,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,86,Sabine ENGLERT
+29,748233,12.09,6-6,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,2,Bianca SCHANSSEMA
+30,748233,12.38,7-6,KBH,Mål,Gbr,21,Helene KINDBERG,Assist,11,Martha NICKELSEN,86,Sabine ENGLERT
+31,748233,12.50,7-7,AHB,Mål,2:e,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+32,748233,13.21,8-7,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,4,Catharina MOLENAAR,86,Sabine ENGLERT
+33,748233,13.38,,AHB,Tilkendt straffe,,3,Sarah Vest KIRKELØKKE,Forårs. str.,10,Pernille BRANDENBORG,,
+34,748233,13.58,8-8,AHB,Mål på straffe,,15,Sofia DEEN,,,,2,Bianca SCHANSSEMA
+35,748233,15.01,9-8,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,21,Helene KINDBERG,86,Sabine ENGLERT
+36,748233,15.07,,AHB,Udvisning,,25,Ida GÖTZSCHE,,,,,
+37,748233,15.35,,AHB,Skud reddet,Gbr,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+38,748233,16.02,,KBH,Tabt bold,,9,Ditte BACH,,,,,
+39,748233,16.23,,AHB,Tilkendt straffe,,14,Anna Berger WIERZBA,Forårs. str.,17,Tabea SCHMID,,
+40,748233,16.23,,KBH,Udvisning,,17,Tabea SCHMID,,,,,
+41,748233,16.23,9-9,AHB,Mål på straffe,,15,Sofia DEEN,,,,2,Bianca SCHANSSEMA
+42,748233,16.44,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,86,Sabine ENGLERT
+43,748233,17.13,9-10,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,2,Bianca SCHANSSEMA
+44,748233,18.01,,KBH,Regelfejl,,7,Emilie Ytting PEDERSEN,,,,,
+45,748233,18.55,9-11,AHB,Mål,HF,10,Frederikke WAAGE-JENSEN,,,,2,Bianca SCHANSSEMA
+46,748233,19.06,,KBH,Time out,,,,,,,,
+47,748233,19.53,10-11,KBH,Mål,HB,21,Helene KINDBERG,,,,86,Sabine ENGLERT
+48,748233,20.06,,AHB,Fejlaflevering,,77,Alberte EBLER,Bold erobret,21,Helene KINDBERG,,
+49,748233,20.13,,KBH,Skud reddet,1:e,7,Emilie Ytting PEDERSEN,,,,86,Sabine ENGLERT
+50,748233,20.33,10-12,AHB,Mål,PL,77,Alberte EBLER,,,,2,Bianca SCHANSSEMA
+51,748233,20.45,,KBH,Regelfejl,,4,Catharina MOLENAAR,,,,,
+52,748233,21.13,,AHB,Skud reddet,VF,18,Mathilde ØSTERGAARD,,,,2,Bianca SCHANSSEMA
+53,748233,21.35,11-12,KBH,Mål,HB,21,Helene KINDBERG,,,,86,Sabine ENGLERT
+54,748233,22.10,,AHB,Tilkendt straffe,,77,Alberte EBLER,Forårs. str.,11,Martha NICKELSEN,,
+55,748233,22.34,,AHB,Straffekast reddet,,15,Sofia DEEN,,,,2,Bianca SCHANSSEMA
+56,748233,23.04,12-12,KBH,Mål,HF,9,Ditte BACH,Assist,21,Helene KINDBERG,86,Sabine ENGLERT
+57,748233,23.20,,AHB,Fejlaflevering,,77,Alberte EBLER,,,,,
+58,748233,23.24,13-12,KBH,Mål,2:e,9,Ditte BACH,Assist,21,Helene KINDBERG,86,Sabine ENGLERT
+59,748233,23.56,,AHB,Regelfejl,,77,Alberte EBLER,,,,,
+60,748233,24.03,14-12,KBH,Mål,2:e,21,Helene KINDBERG,,,,86,Sabine ENGLERT
+61,748233,24.16,,AHB,Skud reddet,2:e,15,Sofia DEEN,Retur,0,,2,Bianca SCHANSSEMA
+62,748233,24.24,,AHB,Time out,,,,,,,,
+63,748233,24.51,14-13,AHB,Mål,Gbr,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+64,748233,25.22,,KBH,Regelfejl,,10,Pernille BRANDENBORG,,,,,
+65,748233,25.44,,AHB,Regelfejl,,14,Anna Berger WIERZBA,,,,,
+66,748233,25.51,15-13,KBH,Mål,1:e,10,Pernille BRANDENBORG,Assist,11,Martha NICKELSEN,1,Elin THORSTEINSDOTTIR
+67,748233,26.46,15-14,AHB,Mål,Gbr,23,Nikoline SAX,,,,2,Bianca SCHANSSEMA
+68,748233,27.02,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,3,Sarah Vest KIRKELØKKE,,
+69,748233,27.07,16-14,KBH,Mål på straffe,,17,Tabea SCHMID,,,,1,Elin THORSTEINSDOTTIR
+70,748233,28.00,,AHB,Fejlaflevering,,23,Nikoline SAX,Bold erobret,17,Tabea SCHMID,,
+71,748233,28.33,17-14,KBH,Mål,ST,9,Ditte BACH,Assist,25,Tonje LØSETH,1,Elin THORSTEINSDOTTIR
+72,748233,28.50,,AHB,Tilkendt straffe,,4,Katrine JACOBSEN,Forårs. str.,10,Pernille BRANDENBORG,,
+73,748233,29.06,17-15,AHB,Mål på straffe,,17,Line Berggren LARSEN,,,,2,Bianca SCHANSSEMA
+74,748233,29.42,,KBH,Fejlaflevering,,11,Martha NICKELSEN,,,,,
+75,748233,30.00,17-16,AHB,Mål,HB,4,Katrine JACOBSEN,,,,2,Bianca SCHANSSEMA
+76,748233,30.00,17-16,,Halvleg,,,,,,,,
+77,748233,30.00,,,Start 2:e halvleg,,,,,,,,
+78,748233,30.48,18-16,KBH,Mål,ST,17,Tabea SCHMID,Assist,15,Emma NAVNE,1,Elin THORSTEINSDOTTIR
+79,748233,30.57,18-17,AHB,Mål,2:e,17,Line Berggren LARSEN,Assist,14,Anna Berger WIERZBA,2,Bianca SCHANSSEMA
+80,748233,31.09,19-17,KBH,Mål,2:e,7,Emilie Ytting PEDERSEN,Assist,15,Emma NAVNE,1,Elin THORSTEINSDOTTIR
+81,748233,31.25,19-18,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,17,Line Berggren LARSEN,2,Bianca SCHANSSEMA
+82,748233,32.00,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+83,748233,32.13,,AHB,Tilkendt straffe,,4,Katrine JACOBSEN,Forårs. str.,10,Pernille BRANDENBORG,,
+84,748233,32.22,19-19,AHB,Mål på straffe,,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+85,748233,32.58,,KBH,Fejlaflevering,,4,Catharina MOLENAAR,,,,,
+86,748233,33.04,19-20,AHB,Mål,2:e,17,Line Berggren LARSEN,,,,2,Bianca SCHANSSEMA
+87,748233,33.17,,KBH,Fejlaflevering,,15,Emma NAVNE,,,,,
+88,748233,34.03,,AHB,Skud forbi,PL,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+89,748233,34.23,20-20,KBH,Mål,Gbr,4,Catharina MOLENAAR,,,,1,Elin THORSTEINSDOTTIR
+90,748233,34.36,20-21,AHB,Mål,2:e,18,Mathilde ØSTERGAARD,Assist,17,Line Berggren LARSEN,2,Bianca SCHANSSEMA
+91,748233,35.04,,AHB,Udvisning,,4,Katrine JACOBSEN,,,,,
+92,748233,35.15,,KBH,Skud reddet,VF,7,Emilie Ytting PEDERSEN,,,,1,Elin THORSTEINSDOTTIR
+93,748233,35.48,20-22,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,23,Nikoline SAX,2,Bianca SCHANSSEMA
+94,748233,36.04,21-22,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,1,Elin THORSTEINSDOTTIR
+95,748233,36.36,21-23,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,2,Bianca SCHANSSEMA
+96,748233,36.55,22-23,KBH,Mål,HF,5,Clara SKØTT,Assist,21,Helene KINDBERG,1,Elin THORSTEINSDOTTIR
+97,748233,38.05,,AHB,Skud forbi,HF,10,Frederikke WAAGE-JENSEN,,,,2,Bianca SCHANSSEMA
+98,748233,38.09,,AHB,Advarsel,B,,Mathias Broløs KRISTENSEN,,,,,
+99,748233,38.29,23-23,KBH,Mål,ST,17,Tabea SCHMID,Assist,4,Catharina MOLENAAR,1,Elin THORSTEINSDOTTIR
+100,748233,39.07,,AHB,Tabt bold,,23,Nikoline SAX,Bold erobret,4,Catharina MOLENAAR,,
+101,748233,39.10,24-23,KBH,Mål,1:e,7,Emilie Ytting PEDERSEN,,,,1,Elin THORSTEINSDOTTIR
+102,748233,39.23,24-24,AHB,Mål,2:e,10,Frederikke WAAGE-JENSEN,Assist,14,Anna Berger WIERZBA,2,Bianca SCHANSSEMA
+103,748233,40.15,,KBH,Skud reddet,HF,5,Clara SKØTT,,,,1,Elin THORSTEINSDOTTIR
+104,748233,40.38,,,,,,,,,,,
+105,748233,40.42,24-25,AHB,Mål på straffe,,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+106,748233,40.50,,KBH,Advarsel,B,,Bo SPELLERBERG,,,,,
+107,748233,41.08,25-25,KBH,Mål,ST,17,Tabea SCHMID,Assist,4,Catharina MOLENAAR,1,Elin THORSTEINSDOTTIR
+108,748233,41.18,,AHB,Skud forbi,2:e,3,Sarah Vest KIRKELØKKE,,,,2,Bianca SCHANSSEMA
+109,748233,41.43,,KBH,Skud reddet,VB,4,Catharina MOLENAAR,Retur,0,,1,Elin THORSTEINSDOTTIR
+110,748233,41.58,26-25,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,4,Catharina MOLENAAR,1,Elin THORSTEINSDOTTIR
+111,748233,42.56,26-26,AHB,Mål,Gbr,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+112,748233,43.24,,KBH,Skud reddet,VF,7,Emilie Ytting PEDERSEN,Retur,0,,1,Elin THORSTEINSDOTTIR
+113,748233,44.08,,KBH,Passivt spil,,0,,,,,,
+114,748233,44.38,26-27,AHB,Mål,Gbr,14,Anna Berger WIERZBA,Assist,77,Alberte EBLER,2,Bianca SCHANSSEMA
+115,748233,45.03,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,3,Sarah Vest KIRKELØKKE,,
+116,748233,45.07,27-27,KBH,Mål på straffe,,17,Tabea SCHMID,,,,86,Sabine ENGLERT
+117,748233,45.57,,AHB,Skud reddet,Gbr,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+118,748233,46.26,,KBH,Skud reddet,HF,5,Clara SKØTT,,,,1,Elin THORSTEINSDOTTIR
+119,748233,46.36,,AHB,Tilkendt straffe,,77,Alberte EBLER,Forårs. str.,4,Catharina MOLENAAR,,
+120,748233,46.36,,KBH,Udvisning,,4,Catharina MOLENAAR,,,,,
+121,748233,46.38,27-28,AHB,Mål på straffe,,15,Sofia DEEN,,,,2,Bianca SCHANSSEMA
+122,748233,47.12,28-28,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,1,Elin THORSTEINSDOTTIR
+123,748233,47.48,,AHB,Skud reddet,Gbr,15,Sofia DEEN,,,,2,Bianca SCHANSSEMA
+124,748233,48.13,29-28,KBH,Mål,Gbr,21,Helene KINDBERG,,,,1,Elin THORSTEINSDOTTIR
+125,748233,48.21,29-29,AHB,Mål,1:e,17,Line Berggren LARSEN,,,,0,
+126,748233,49.21,30-29,KBH,Mål,ST,10,Pernille BRANDENBORG,Assist,4,Catharina MOLENAAR,1,Elin THORSTEINSDOTTIR
+127,748233,49.58,,AHB,Skud reddet,HB,77,Alberte EBLER,,,,2,Bianca SCHANSSEMA
+128,748233,50.23,31-29,KBH,Mål,HF,5,Clara SKØTT,Assist,21,Helene KINDBERG,1,Elin THORSTEINSDOTTIR
+129,748233,50.33,,AHB,Time out,,,,,,,,
+130,748233,50.56,,AHB,Tilkendt straffe,,14,Anna Berger WIERZBA,Forårs. str.,10,Pernille BRANDENBORG,,
+131,748233,51.12,,AHB,Straffekast reddet,,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+132,748233,52.01,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,77,Alberte EBLER,,
+133,748233,52.15,32-29,KBH,Mål på straffe,,17,Tabea SCHMID,,,,1,Elin THORSTEINSDOTTIR
+134,748233,52.54,,AHB,Fejlaflevering,,23,Nikoline SAX,,,,,
+135,748233,53.31,,KBH,Skud reddet,VF,7,Emilie Ytting PEDERSEN,,,,1,Elin THORSTEINSDOTTIR
+136,748233,54.33,,AHB,Passivt spil,,0,,,,,,
+137,748233,54.57,33-29,KBH,Mål,Gbr,25,Tonje LØSETH,,,,1,Elin THORSTEINSDOTTIR
+138,748233,55.12,33-30,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,17,Line Berggren LARSEN,2,Bianca SCHANSSEMA
+139,748233,55.39,34-30,KBH,Mål,ST,17,Tabea SCHMID,Assist,21,Helene KINDBERG,1,Elin THORSTEINSDOTTIR
+140,748233,55.54,,AHB,Time out,,,,,,,,
+141,748233,56.09,34-31,AHB,Mål,PL,77,Alberte EBLER,,,,2,Bianca SCHANSSEMA
+142,748233,56.45,35-31,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,25,Tonje LØSETH,1,Elin THORSTEINSDOTTIR
+143,748233,57.10,35-32,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,2,Bianca SCHANSSEMA
+144,748233,57.41,36-32,KBH,Mål,HF,5,Clara SKØTT,Assist,21,Helene KINDBERG,1,Elin THORSTEINSDOTTIR
+145,748233,58.41,36-33,AHB,Mål,PL,14,Anna Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+146,748233,59.01,37-33,KBH,Mål,Gbr,21,Helene KINDBERG,,,,1,Elin THORSTEINSDOTTIR
+147,748233,59.10,,KBH,Udvisning,,15,Emma NAVNE,,,,,
+148,748233,59.19,37-34,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,2,Bianca SCHANSSEMA
+149,748233,59.40,38-34,KBH,Mål,ST,25,Tonje LØSETH,Assist,7,Emilie Ytting PEDERSEN,1,Elin THORSTEINSDOTTIR
+150,748233,60.00,38-35,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,14,Anna Berger WIERZBA,2,Bianca SCHANSSEMA

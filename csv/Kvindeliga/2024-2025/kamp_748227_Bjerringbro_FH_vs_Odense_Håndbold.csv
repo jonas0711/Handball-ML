@@ -1,0 +1,145 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748227,0.00,,,Start,1:e halvleg,,,,,,,
+2,748227,0.33,,ODE,Fejlaflevering,,8,Helene FAUSKE,,,,,
+3,748227,1.28,,BFH,Passivt spil,,0,,,,,,
+4,748227,1.52,0-1,ODE,Mål,HF,6,Malin AUNE,Assist,8,Helene FAUSKE,20,Clara BAK
+5,748227,2.13,,BFH,Fejlaflevering,,11,Arlinda HAJDARI,,,,,
+6,748227,2.30,0-2,ODE,Mål,HF,10,Anna GRUNDTVIG,,,,20,Clara BAK
+7,748227,2.55,,BFH,Regelfejl,,11,Arlinda HAJDARI,,,,,
+8,748227,3.23,0-3,ODE,Mål,PL,22,Ragnhild DAHL,,,,20,Clara BAK
+9,748227,3.33,,BFH,Fejlaflevering,,11,Arlinda HAJDARI,,,,,
+10,748227,3.55,,ODE,Skud reddet,PL,8,Helene FAUSKE,Retur,8,Helene FAUSKE,20,Clara BAK
+11,748227,4.01,0-4,ODE,Mål,Gbr,8,Helene FAUSKE,,,,20,Clara BAK
+12,748227,4.17,,BFH,Skud reddet,Gbr,72,Line FRANDSEN,,,,38,Yara TEN HOLTE
+13,748227,4.27,0-5,ODE,Mål,PL,28,Clara Skyum THOMSEN,,,,20,Clara BAK
+14,748227,5.40,,BFH,Fejlaflevering,,72,Line FRANDSEN,Bold erobret,6,Malin AUNE,,
+15,748227,5.52,,ODE,Skud forbi,HB,8,Helene FAUSKE,,,,20,Clara BAK
+16,748227,6.44,1-5,BFH,Mål,ST,18,Sidsel POULSEN,Assist,7,Line GYLDENLØVE,38,Yara TEN HOLTE
+17,748227,6.54,1-6,ODE,Mål,HF,6,Malin AUNE,Assist,8,Helene FAUSKE,20,Clara BAK
+18,748227,7.39,2-6,BFH,Mål,VF,9,Mathilde PIIL,Assist,72,Line FRANDSEN,38,Yara TEN HOLTE
+19,748227,8.08,,ODE,Skud reddet,HB,28,Clara Skyum THOMSEN,,,,20,Clara BAK
+20,748227,8.15,,BFH,Fejlaflevering,,72,Line FRANDSEN,Bold erobret,0,,,
+21,748227,8.25,,ODE,Fejlaflevering,,28,Clara Skyum THOMSEN,Bold erobret,18,Sidsel POULSEN,,
+22,748227,8.30,3-6,BFH,Mål,1:e,18,Sidsel POULSEN,,,,38,Yara TEN HOLTE
+23,748227,9.01,,ODE,Regelfejl,,28,Clara Skyum THOMSEN,,,,,
+24,748227,9.38,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,Bold erobret,22,Ragnhild DAHL,,
+25,748227,9.53,3-7,ODE,Mål,PL,22,Ragnhild DAHL,,,,20,Clara BAK
+26,748227,10.27,4-7,BFH,Mål,VF,9,Mathilde PIIL,Assist,7,Line GYLDENLØVE,38,Yara TEN HOLTE
+27,748227,10.41,4-8,ODE,Mål,VF,10,Anna GRUNDTVIG,Assist,22,Ragnhild DAHL,20,Clara BAK
+28,748227,11.20,5-8,BFH,Mål,ST,19,Rikke Dahl NIELSEN,Assist,72,Line FRANDSEN,38,Yara TEN HOLTE
+29,748227,11.30,5-9,ODE,Mål,2:e,3,Maren AARDAHL,,,,20,Clara BAK
+30,748227,11.58,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,,,,,
+31,748227,12.10,5-10,ODE,Mål,HB,8,Helene FAUSKE,,,,20,Clara BAK
+32,748227,12.46,,BFH,Regelfejl,,72,Line FRANDSEN,,,,,
+33,748227,13.29,5-11,ODE,Mål,PL,28,Clara Skyum THOMSEN,,,,20,Clara BAK
+34,748227,14.21,,BFH,Regelfejl,,31,Marianne HAUGSTED,,,,,
+35,748227,14.32,,ODE,Time out,,,,,,,,
+36,748227,14.43,,ODE,Skud forbi,VB,22,Ragnhild DAHL,,,,24,Josephine NORDSTRØM
+37,748227,15.20,,BFH,Skud forbi,PL,7,Line GYLDENLØVE,,,,38,Yara TEN HOLTE
+38,748227,15.31,5-12,ODE,Mål,HB,28,Clara Skyum THOMSEN,,,,24,Josephine NORDSTRØM
+39,748227,16.13,,BFH,Skud reddet,VB,31,Marianne HAUGSTED,,,,38,Yara TEN HOLTE
+40,748227,16.42,5-13,ODE,Mål,PL,28,Clara Skyum THOMSEN,,,,24,Josephine NORDSTRØM
+41,748227,17.11,,BFH,Tilkendt straffe,,19,Rikke Dahl NIELSEN,Forårs. str.,22,Ragnhild DAHL,,
+42,748227,17.35,,BFH,Straffekast reddet,,7,Line GYLDENLØVE,,,,38,Yara TEN HOLTE
+43,748227,17.58,5-14,ODE,Mål,Gbr,10,Anna GRUNDTVIG,,,,24,Josephine NORDSTRØM
+44,748227,18.16,,BFH,Time out,,,,,,,,
+45,748227,18.36,6-14,BFH,Mål,VB,31,Marianne HAUGSTED,,,,38,Yara TEN HOLTE
+46,748227,18.45,6-15,ODE,Mål,PL,8,Helene FAUSKE,,,,24,Josephine NORDSTRØM
+47,748227,19.12,7-15,BFH,Mål,Gbr,31,Marianne HAUGSTED,,,,38,Yara TEN HOLTE
+48,748227,20.02,,BFH,Advarsel,,10,Melina KRISTENSEN,,,,,
+49,748227,20.48,7-16,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,22,Ragnhild DAHL,24,Josephine NORDSTRØM
+50,748227,21.13,,BFH,Regelfejl,,21,Emma ERNST,,,,,
+51,748227,21.17,7-17,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,38,Yara TEN HOLTE,24,Josephine NORDSTRØM
+52,748227,21.53,,BFH,Skud reddet,VB,31,Marianne HAUGSTED,,,,38,Yara TEN HOLTE
+53,748227,22.00,,ODE,Regelfejl,,22,Ragnhild DAHL,,,,,
+54,748227,22.07,,BFH,Skud reddet,2:e,10,Melina KRISTENSEN,Retur,19,Rikke Dahl NIELSEN,38,Yara TEN HOLTE
+55,748227,22.18,,ODE,Udvisning,,22,Ragnhild DAHL,,,,,
+56,748227,22.33,8-17,BFH,Mål,VF,4,Emilie BANGSHØI,Assist,72,Line FRANDSEN,38,Yara TEN HOLTE
+57,748227,23.12,8-18,ODE,Mål,PL,28,Clara Skyum THOMSEN,,,,24,Josephine NORDSTRØM
+58,748227,23.55,,BFH,Regelfejl,,7,Line GYLDENLØVE,,,,,
+59,748227,24.23,8-19,ODE,Mål,VB,33,Thale Rushfeldt DEILA,,,,24,Josephine NORDSTRØM
+60,748227,24.58,9-19,BFH,Mål,Gbr,7,Line GYLDENLØVE,Assist,21,Emma ERNST,12,Andrea Nørklit JØRGENSEN
+61,748227,26.01,9-20,ODE,Mål,ST,20,Lysa DEFO,Assist,22,Ragnhild DAHL,24,Josephine NORDSTRØM
+62,748227,26.30,,BFH,Regelfejl,,21,Emma ERNST,,,,,
+63,748227,26.41,,ODE,Skud forbi,PL,8,Helene FAUSKE,,,,24,Josephine NORDSTRØM
+64,748227,27.16,,BFH,Tilkendt straffe,,7,Line GYLDENLØVE,Forårs. str.,44,Nikita Van Der VLIET,,
+65,748227,27.31,10-20,BFH,Mål på straffe,,7,Line GYLDENLØVE,,,,12,Andrea Nørklit JØRGENSEN
+66,748227,28.00,,ODE,Tilkendt straffe,,20,Lysa DEFO,Forårs. str.,10,Melina KRISTENSEN,,
+67,748227,28.17,10-21,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,24,Josephine NORDSTRØM
+68,748227,29.23,11-21,BFH,Mål,Gbr,7,Line GYLDENLØVE,,,,12,Andrea Nørklit JØRGENSEN
+69,748227,29.43,11-22,ODE,Mål,HB,28,Clara Skyum THOMSEN,,,,24,Josephine NORDSTRØM
+70,748227,30.00,,BFH,Skud forbi,PL,21,Emma ERNST,,,,12,Andrea Nørklit JØRGENSEN
+71,748227,30.00,11-22,,Halvleg,,,,,,,,
+72,748227,30.00,,,Start 2:e halvleg,,,,,,,,
+73,748227,30.27,,BFH,Skud reddet,VB,31,Marianne HAUGSTED,,,,38,Yara TEN HOLTE
+74,748227,30.37,11-23,ODE,Mål,HB,28,Clara Skyum THOMSEN,,,,20,Clara BAK
+75,748227,31.14,12-23,BFH,Mål,PL,31,Marianne HAUGSTED,,,,38,Yara TEN HOLTE
+76,748227,31.28,,ODE,Skud reddet,VB,8,Helene FAUSKE,Retur,0,,20,Clara BAK
+77,748227,32.16,,ODE,Fejlaflevering,,28,Clara Skyum THOMSEN,Bold erobret,31,Marianne HAUGSTED,,
+78,748227,32.22,13-23,BFH,Mål,1:e,11,Arlinda HAJDARI,Assist,31,Marianne HAUGSTED,38,Yara TEN HOLTE
+79,748227,32.45,,ODE,Skud forbi,PL,8,Helene FAUSKE,,,,20,Clara BAK
+80,748227,33.14,,BFH,Skud reddet,PL,21,Emma ERNST,,,,38,Yara TEN HOLTE
+81,748227,33.28,,ODE,Tabt bold,,23,Elma HALILCEVIC,,,,,
+82,748227,33.49,,BFH,Fejlaflevering,,7,Line GYLDENLØVE,,,,,
+83,748227,33.56,13-24,ODE,Mål,2:e,20,Lysa DEFO,Assist,22,Ragnhild DAHL,20,Clara BAK
+84,748227,34.36,,BFH,Regelfejl,,7,Line GYLDENLØVE,,,,,
+85,748227,34.42,13-25,ODE,Mål,2:e,34,Andrea HANSEN,Assist,22,Ragnhild DAHL,20,Clara BAK
+86,748227,35.20,,BFH,Regelfejl,,21,Emma ERNST,,,,,
+87,748227,35.27,,ODE,Skud reddet,2:e,28,Clara Skyum THOMSEN,,,,20,Clara BAK
+88,748227,36.23,,BFH,Tabt bold,,10,Melina KRISTENSEN,,,,,
+89,748227,36.31,13-26,ODE,Mål,2:e,22,Ragnhild DAHL,,,,20,Clara BAK
+90,748227,37.24,,BFH,Skud reddet,HB,11,Arlinda HAJDARI,,,,38,Yara TEN HOLTE
+91,748227,37.35,13-27,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,8,Helene FAUSKE,20,Clara BAK
+92,748227,37.43,,BFH,Time out,,,,,,,,
+93,748227,38.09,14-27,BFH,Mål,Gbr,7,Line GYLDENLØVE,,,,38,Yara TEN HOLTE
+94,748227,38.48,,ODE,Skud forbi,HB,28,Clara Skyum THOMSEN,,,,20,Clara BAK
+95,748227,39.21,,BFH,Skud reddet,Gbr,31,Marianne HAUGSTED,,,,38,Yara TEN HOLTE
+96,748227,39.36,14-28,ODE,Mål,HB,28,Clara Skyum THOMSEN,,,,20,Clara BAK
+97,748227,39.46,15-28,BFH,Mål,2:e,18,Sidsel POULSEN,,0,,,
+98,748227,40.12,15-29,ODE,Mål,VB,22,Ragnhild DAHL,,,,20,Clara BAK
+99,748227,41.01,,BFH,Skud på stolpe,PL,7,Line GYLDENLØVE,,,,38,Yara TEN HOLTE
+100,748227,41.12,15-30,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,8,Helene FAUSKE,20,Clara BAK
+101,748227,41.58,16-30,BFH,Mål,VF,4,Emilie BANGSHØI,Assist,31,Marianne HAUGSTED,38,Yara TEN HOLTE
+102,748227,42.12,16-31,ODE,Mål,VB,8,Helene FAUSKE,,,,20,Clara BAK
+103,748227,42.37,17-31,BFH,Mål,Gbr,31,Marianne HAUGSTED,,,,38,Yara TEN HOLTE
+104,748227,42.50,17-32,ODE,Mål,,,,,,,,
+105,748227,43.26,,BFH,Skud reddet,Gbr,11,Arlinda HAJDARI,,,,38,Yara TEN HOLTE
+106,748227,43.35,17-33,ODE,Mål,1:e,44,Nikita Van Der VLIET,,,,0,
+107,748227,43.59,,BFH,Skud reddet,,31,Marianne HAUGSTED,,,,38,Yara TEN HOLTE
+108,748227,44.07,17-34,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,38,Yara TEN HOLTE,0,
+109,748227,44.39,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+110,748227,44.48,17-35,ODE,Mål,PL,22,Ragnhild DAHL,,,,24,Josephine NORDSTRØM
+111,748227,44.55,18-35,BFH,Mål,2:e,18,Sidsel POULSEN,,,,0,
+112,748227,45.52,18-36,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,24,Josephine NORDSTRØM
+113,748227,46.48,,BFH,Skud reddet,PL,72,Line FRANDSEN,Retur,4,Emilie BANGSHØI,12,Andrea Nørklit JØRGENSEN
+114,748227,47.40,,BFH,Skud reddet,PL,72,Line FRANDSEN,,,,12,Andrea Nørklit JØRGENSEN
+115,748227,48.06,18-37,ODE,Mål,ST,20,Lysa DEFO,Assist,28,Clara Skyum THOMSEN,24,Josephine NORDSTRØM
+116,748227,48.42,,BFH,Tilkendt straffe,,72,Line FRANDSEN,Forårs. str.,22,Ragnhild DAHL,,
+117,748227,48.42,,ODE,Udvisning,,22,Ragnhild DAHL,,,,,
+118,748227,48.44,,BFH,Straffekast på stolpe,,7,Line GYLDENLØVE,,,,12,Andrea Nørklit JØRGENSEN
+119,748227,49.19,18-38,ODE,Mål,ST,20,Lysa DEFO,Assist,28,Clara Skyum THOMSEN,24,Josephine NORDSTRØM
+120,748227,49.47,19-38,BFH,Mål,HF,44,Louise HALD,Assist,72,Line FRANDSEN,12,Andrea Nørklit JØRGENSEN
+121,748227,50.00,,ODE,Time out,,,,,,,,
+122,748227,50.22,,ODE,Tilkendt straffe,,20,Lysa DEFO,Forårs. str.,31,Marianne HAUGSTED,,
+123,748227,50.32,19-39,ODE,Mål på straffe,,34,Andrea HANSEN,,,,24,Josephine NORDSTRØM
+124,748227,51.27,20-39,BFH,Mål,HF,44,Louise HALD,Assist,72,Line FRANDSEN,12,Andrea Nørklit JØRGENSEN
+125,748227,51.56,,ODE,Fejlaflevering,,22,Ragnhild DAHL,,,,,
+126,748227,52.28,,BFH,Skud reddet,PL,72,Line FRANDSEN,,,,12,Andrea Nørklit JØRGENSEN
+127,748227,52.37,20-40,ODE,Mål,1:e,8,Helene FAUSKE,,,,0,
+128,748227,53.27,21-40,BFH,Mål,ST,18,Sidsel POULSEN,Assist,72,Line FRANDSEN,12,Andrea Nørklit JØRGENSEN
+129,748227,54.16,21-41,ODE,Mål,PL,8,Helene FAUSKE,,,,24,Josephine NORDSTRØM
+130,748227,54.53,,BFH,Regelfejl,,7,Line GYLDENLØVE,,,,,
+131,748227,55.03,,ODE,Time out,,,,,,,,
+132,748227,55.37,,ODE,Tilkendt straffe,,44,Nikita Van Der VLIET,Forårs. str.,18,Sidsel POULSEN,,
+133,748227,55.47,21-42,ODE,Mål på straffe,,34,Andrea HANSEN,,,,20,Clara BAK
+134,748227,56.38,,BFH,Skud forbi,ST,19,Rikke Dahl NIELSEN,,,,12,Andrea Nørklit JØRGENSEN
+135,748227,56.47,,ODE,Skud reddet,2:e,22,Ragnhild DAHL,,,,20,Clara BAK
+136,748227,57.19,,BFH,Fejlaflevering,,72,Line FRANDSEN,Bold erobret,10,Anna GRUNDTVIG,,
+137,748227,57.25,21-43,ODE,Mål,1:e,10,Anna GRUNDTVIG,,,,0,
+138,748227,57.52,,BFH,Regelfejl,,21,Emma ERNST,,,,,
+139,748227,58.01,21-44,ODE,Mål,VB,8,Helene FAUSKE,,,,20,Clara BAK
+140,748227,58.28,22-44,BFH,Mål,PL,21,Emma ERNST,,,,12,Andrea Nørklit JØRGENSEN
+141,748227,59.00,,ODE,Skud reddet,HB,28,Clara Skyum THOMSEN,,,,20,Clara BAK
+142,748227,59.10,,BFH,Regelfejl,,9,Mathilde PIIL,,,,,
+143,748227,59.13,22-45,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,0,Clara BAK,,
+144,748227,59.48,,BFH,Skud reddet,VB,21,Emma ERNST,,,,12,Andrea Nørklit JØRGENSEN

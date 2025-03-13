@@ -1,0 +1,145 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748266,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748266,1.01,,SJE,Skud på stolpe,ST,31,Ida-Marie DAHL,,,,24,Josephine NORDSTRØM
+3,748266,1.08,0-1,BFH,Mål,2:e,31,Marianne HAUGSTED,,,,12,Stine BROLØS
+4,748266,1.44,,SJE,Skud reddet,Gbr,14,Louise ELLEBÆK,,,,24,Josephine NORDSTRØM
+5,748266,1.53,,BFH,Skud reddet,2:e,18,Sidsel POULSEN,Retur,0,,12,Stine BROLØS
+6,748266,2.19,,BFH,Skud reddet,Gbr,72,Line FRANDSEN,,,,12,Stine BROLØS
+7,748266,2.24,1-1,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,14,Louise ELLEBÆK,24,Josephine NORDSTRØM
+8,748266,3.19,,BFH,Skud forbi,VF,4,Emilie BANGSHØI,,,,12,Stine BROLØS
+9,748266,3.49,,SJE,Skud forbi,PL,14,Louise ELLEBÆK,,,,24,Josephine NORDSTRØM
+10,748266,4.19,,BFH,Regelfejl,,19,Rikke Dahl NIELSEN,,,,,
+11,748266,5.09,2-1,SJE,Mål,PL,28,Sarah PAULSEN,,,,24,Josephine NORDSTRØM
+12,748266,5.53,,BFH,Skud reddet,VF,4,Emilie BANGSHØI,,,,12,Stine BROLØS
+13,748266,6.19,,SJE,Skud reddet,HB,10,Nicoline OLSEN,,,,24,Josephine NORDSTRØM
+14,748266,6.54,,BFH,Skud reddet,Gbr,7,Line GYLDENLØVE,,,,12,Stine BROLØS
+15,748266,7.22,3-1,SJE,Mål,HF,6,Lea HANSEN,Assist,28,Sarah PAULSEN,24,Josephine NORDSTRØM
+16,748266,7.50,,BFH,Skud forbi,PL,31,Marianne HAUGSTED,,,,12,Stine BROLØS
+17,748266,8.00,,SJE,Skud på stolpe,1:e,31,Ida-Marie DAHL,Retur,0,,24,Josephine NORDSTRØM
+18,748266,8.24,4-1,SJE,Mål,PL,14,Louise ELLEBÆK,,,,24,Josephine NORDSTRØM
+19,748266,8.38,4-2,BFH,Mål,HF,44,Louise HALD,Assist,7,Line GYLDENLØVE,12,Stine BROLØS
+20,748266,9.04,5-2,SJE,Mål,PL,28,Sarah PAULSEN,,,,24,Josephine NORDSTRØM
+21,748266,9.09,,BFH,Time out,,,,,,,,
+22,748266,9.32,,BFH,Skud reddet,PL,31,Marianne HAUGSTED,,,,12,Stine BROLØS
+23,748266,9.42,,SJE,Fejlaflevering,,22,Olivia SIMONSEN,Bold erobret,72,Line FRANDSEN,,
+24,748266,10.03,,BFH,Regelfejl,,7,Line GYLDENLØVE,,,,,
+25,748266,10.41,6-2,SJE,Mål,VB,14,Louise ELLEBÆK,,,,24,Josephine NORDSTRØM
+26,748266,11.06,,BFH,Skud reddet,Gbr,31,Marianne HAUGSTED,,,,12,Stine BROLØS
+27,748266,11.13,,SJE,Fejlaflevering,,10,Nicoline OLSEN,Bold erobret,72,Line FRANDSEN,,
+28,748266,11.42,6-3,BFH,Mål,VB,31,Marianne HAUGSTED,,,,12,Stine BROLØS
+29,748266,11.54,,SJE,Fejlaflevering,,10,Nicoline OLSEN,Bold erobret,31,Marianne HAUGSTED,,
+30,748266,12.00,6-4,BFH,Mål,1:e,19,Rikke Dahl NIELSEN,Assist,31,Marianne HAUGSTED,12,Stine BROLØS
+31,748266,12.28,,SJE,Skud på stolpe,HF,6,Lea HANSEN,,,,24,Josephine NORDSTRØM
+32,748266,13.17,6-5,BFH,Mål,ST,18,Sidsel POULSEN,Assist,31,Marianne HAUGSTED,12,Stine BROLØS
+33,748266,13.24,,SJE,Tabt bold,,31,Ida-Marie DAHL,Bold erobret,19,Rikke Dahl NIELSEN,,
+34,748266,14.00,6-6,BFH,Mål,Gbr,72,Line FRANDSEN,,,,12,Stine BROLØS
+35,748266,14.09,,SJE,Time out,,,,,,,,
+36,748266,14.38,,SJE,Skud forbi,PL,28,Sarah PAULSEN,,,,24,Josephine NORDSTRØM
+37,748266,15.01,,BFH,Fejlaflevering,,31,Marianne HAUGSTED,Bold erobret,22,Olivia SIMONSEN,,
+38,748266,15.08,7-6,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,14,Louise ELLEBÆK,24,Josephine NORDSTRØM
+39,748266,16.01,7-7,BFH,Mål,PL,7,Line GYLDENLØVE,,,,12,Stine BROLØS
+40,748266,16.34,8-7,SJE,Mål,PL,7,Melissa PETRÉN,Assist,28,Sarah PAULSEN,24,Josephine NORDSTRØM
+41,748266,17.10,,BFH,Fejlaflevering,,25,Laura JENSEN,Bold erobret,12,Stine BROLØS,,
+42,748266,17.16,9-7,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,22,Olivia SIMONSEN,24,Josephine NORDSTRØM
+43,748266,17.40,,BFH,Skud reddet,Gbr,7,Line GYLDENLØVE,,,,12,Stine BROLØS
+44,748266,17.41,,BFH,Udvisning,,7,Line GYLDENLØVE,,,,,
+45,748266,18.01,10-7,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,7,Melissa PETRÉN,20,Clara BAK
+46,748266,18.47,,BFH,Regelfejl,,72,Line FRANDSEN,,,,,
+47,748266,19.04,11-7,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,20,Clara BAK
+48,748266,19.41,11-8,BFH,Mål,Gbr,72,Line FRANDSEN,,,,12,Stine BROLØS
+49,748266,20.09,12-8,SJE,Mål,VF,17,June BØTTGER,Assist,28,Sarah PAULSEN,20,Clara BAK
+50,748266,20.35,,BFH,Skud reddet,ST,18,Sidsel POULSEN,Retur,0,,12,Stine BROLØS
+51,748266,21.01,,BFH,Skud forbi,Gbr,25,Laura JENSEN,,,,12,Stine BROLØS
+52,748266,21.45,,SJE,Fejlaflevering,,28,Sarah PAULSEN,Bold erobret,25,Laura JENSEN,,
+53,748266,22.41,12-9,BFH,Mål,HF,44,Louise HALD,Assist,7,Line GYLDENLØVE,12,Stine BROLØS
+54,748266,23.11,,SJE,Regelfejl,,22,Olivia SIMONSEN,,,,,
+55,748266,23.44,12-10,BFH,Mål,VB,25,Laura JENSEN,,,,12,Stine BROLØS
+56,748266,24.13,,SJE,Fejlaflevering,,8,Karine DAHLUM,Bold erobret,25,Laura JENSEN,,
+57,748266,24.38,,BFH,Regelfejl,,72,Line FRANDSEN,,,,,
+58,748266,25.16,,BFH,Advarsel,,25,Laura JENSEN,,,,,
+59,748266,25.27,,SJE,Tilkendt straffe,,7,Melissa PETRÉN,Forårs. str.,18,Sidsel POULSEN,,
+60,748266,25.27,,BFH,Udvisning,,18,Sidsel POULSEN,,,,,
+61,748266,25.31,13-10,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,20,Clara BAK
+62,748266,26.19,,BFH,Skud forbi,VB,72,Line FRANDSEN,,,,12,Stine BROLØS
+63,748266,26.39,14-10,SJE,Mål,HF,6,Lea HANSEN,Assist,8,Karine DAHLUM,20,Clara BAK
+64,748266,27.12,,BFH,Skud reddet,Gbr,21,Emma ERNST,,,,12,Stine BROLØS
+65,748266,27.24,15-10,SJE,Mål,PL,7,Melissa PETRÉN,,,,20,Clara BAK
+66,748266,27.52,,SJE,Udvisning,,24,Josefine DRAGENBERG,,,,,
+67,748266,28.15,15-11,BFH,Mål,Gbr,21,Emma ERNST,Assist,7,Line GYLDENLØVE,12,Stine BROLØS
+68,748266,28.44,16-11,SJE,Mål,HB,8,Karine DAHLUM,,,,20,Clara BAK
+69,748266,29.07,,BFH,Skud reddet,Gbr,21,Emma ERNST,,,,12,Stine BROLØS
+70,748266,29.44,,SJE,Tabt bold,,31,Ida-Marie DAHL,Bold erobret,9,Mathilde PIIL,,
+71,748266,29.59,,BFH,Fejlaflevering,,72,Line FRANDSEN,Bold erobret,17,June BØTTGER,,
+72,748266,30.00,16-11,,Halvleg,,,,,,,,
+73,748266,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748266,30.49,,BFH,Skud forbi,ST,5,Sofie LUND,,,,12,Stine BROLØS
+75,748266,30.54,17-11,SJE,Mål,2:e,31,Ida-Marie DAHL,Assist,28,Sarah PAULSEN,20,Clara BAK
+76,748266,31.20,,BFH,Regelfejl,,11,Arlinda HAJDARI,,,,,
+77,748266,32.02,,SJE,Skud blokeret,VB,14,Louise ELLEBÆK,Blok af (ret),11,Arlinda HAJDARI,,
+78,748266,32.29,,SJE,Skud blokeret,PL,28,Sarah PAULSEN,Blokeret af,18,Sidsel POULSEN,,
+79,748266,32.52,,BFH,Skud forbi,HF,10,Melina KRISTENSEN,,,,12,Stine BROLØS
+80,748266,33.23,18-11,SJE,Mål,HB,8,Karine DAHLUM,,,,20,Clara BAK
+81,748266,34.02,,BFH,Skud på stolpe,VF,7,Line GYLDENLØVE,,,,12,Stine BROLØS
+82,748266,34.09,,SJE,Skud på stolpe,2:e,6,Lea HANSEN,,,,20,Clara BAK
+83,748266,34.48,,BFH,Skud reddet,PL,11,Arlinda HAJDARI,,,,12,Stine BROLØS
+84,748266,35.51,,SJE,Skud på stolpe,HB,8,Karine DAHLUM,Retur,0,,20,Clara BAK
+85,748266,36.20,,SJE,Regelfejl,,14,Louise ELLEBÆK,,,,,
+86,748266,36.58,,BFH,Skud på stolpe,VF,9,Mathilde PIIL,,,,12,Stine BROLØS
+87,748266,38.08,,SJE,Skud reddet,HB,8,Karine DAHLUM,,,,20,Clara BAK
+88,748266,38.35,18-12,BFH,Mål,Gbr,7,Line GYLDENLØVE,,,,12,Stine BROLØS
+89,748266,39.04,19-12,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,20,Clara BAK
+90,748266,39.18,,BFH,Skud reddet,2:e,11,Arlinda HAJDARI,,,,12,Stine BROLØS
+91,748266,39.45,20-12,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,20,Clara BAK
+92,748266,40.46,,BFH,Skud reddet,HB,11,Arlinda HAJDARI,,,,12,Stine BROLØS
+93,748266,41.00,,SJE,Skud reddet,VF,17,June BØTTGER,,,,20,Clara BAK
+94,748266,41.35,,BFH,Fejlaflevering,,11,Arlinda HAJDARI,Bold erobret,6,Lea HANSEN,,
+95,748266,41.39,21-12,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,8,Karine DAHLUM,20,Clara BAK
+96,748266,41.53,,BFH,Time out,,,,,,,,
+97,748266,42.33,21-13,BFH,Mål,Gbr,7,Line GYLDENLØVE,,,,26,Nora PERSSON
+98,748266,43.01,,SJE,Skud reddet,VB,7,Melissa PETRÉN,,,,20,Clara BAK
+99,748266,43.36,21-14,BFH,Mål,PL,7,Line GYLDENLØVE,,,,26,Nora PERSSON
+100,748266,44.14,22-14,SJE,Mål,HB,8,Karine DAHLUM,,,,20,Clara BAK
+101,748266,44.53,,BFH,Skud på stolpe,Gbr,25,Laura JENSEN,,,,26,Nora PERSSON
+102,748266,45.22,,SJE,Tilkendt straffe,,31,Ida-Marie DAHL,Forårs. str.,31,Marianne HAUGSTED,,
+103,748266,45.22,,BFH,Udvisning,,31,Marianne HAUGSTED,,,,,
+104,748266,45.24,23-14,SJE,Mål på straffe,,31,Ida-Marie DAHL,,,,20,Clara BAK
+105,748266,46.23,,BFH,Skud på stolpe,PL,25,Laura JENSEN,,,,26,Nora PERSSON
+106,748266,46.49,,SJE,Fejlaflevering,,28,Sarah PAULSEN,Bold erobret,21,Emma ERNST,,
+107,748266,47.17,,BFH,Skud forbi,PL,25,Laura JENSEN,,,,26,Nora PERSSON
+108,748266,47.52,,SJE,Skud reddet,VB,7,Melissa PETRÉN,,,,20,Clara BAK
+109,748266,47.57,23-15,BFH,Mål,1:e,10,Melina KRISTENSEN,Assist,31,Marianne HAUGSTED,26,Nora PERSSON
+110,748266,48.34,24-15,SJE,Mål,PL,7,Melissa PETRÉN,,,,20,Clara BAK
+111,748266,48.42,,BFH,Udvisning,,19,Rikke Dahl NIELSEN,,,,,
+112,748266,49.15,24-16,BFH,Mål,PL,7,Line GYLDENLØVE,,,,26,Nora PERSSON
+113,748266,49.45,25-16,SJE,Mål,Gbr,10,Nicoline OLSEN,,,,20,Clara BAK
+114,748266,50.40,,BFH,Skud reddet,PL,7,Line GYLDENLØVE,,,,26,Nora PERSSON
+115,748266,50.50,,SJE,Skud reddet,Gbr,7,Melissa PETRÉN,,,,20,Clara BAK
+116,748266,51.02,,BFH,Skud reddet,2:e,7,Line GYLDENLØVE,,,,26,Nora PERSSON
+117,748266,51.14,,SJE,Fejlaflevering,,28,Sarah PAULSEN,Bold erobret,20,Clara BAK,,
+118,748266,51.32,,BFH,Skud forbi,Gbr,25,Laura JENSEN,,,,26,Nora PERSSON
+119,748266,51.41,26-16,SJE,Mål,2:e,15,Sara IBRANOVIC,Assist,22,Olivia SIMONSEN,20,Clara BAK
+120,748266,51.47,,BFH,Time out,,,,,,,,
+121,748266,52.07,,BFH,Fejlaflevering,,31,Marianne HAUGSTED,Bold erobret,28,Sarah PAULSEN,,
+122,748266,52.35,,SJE,Fejlaflevering,,28,Sarah PAULSEN,Bold erobret,31,Marianne HAUGSTED,,
+123,748266,53.10,,BFH,Tabt bold,,31,Marianne HAUGSTED,Bold erobret,0,,,
+124,748266,53.17,,SJE,Fejlaflevering,,28,Sarah PAULSEN,Bold erobret,20,Clara BAK,,
+125,748266,53.40,,SJE,Udvisning,,22,Olivia SIMONSEN,,,,,
+126,748266,53.54,,BFH,Regelfejl,,21,Emma ERNST,,,,,
+127,748266,54.28,,SJE,Skud forbi,VF,15,Sara IBRANOVIC,,,,20,Clara BAK
+128,748266,54.43,26-17,BFH,Mål,VF,4,Emilie BANGSHØI,Assist,72,Line FRANDSEN,26,Nora PERSSON
+129,748266,55.15,27-17,SJE,Mål,ST,24,Josefine DRAGENBERG,Assist,10,Nicoline OLSEN,20,Clara BAK
+130,748266,55.39,,BFH,Skud reddet,HF,10,Melina KRISTENSEN,,,,26,Nora PERSSON
+131,748266,56.19,,SJE,Skud reddet,PL,7,Melissa PETRÉN,,,,20,Clara BAK
+132,748266,56.28,,BFH,Skud reddet,2:e,10,Melina KRISTENSEN,,,,26,Nora PERSSON
+133,748266,56.59,,SJE,Skud reddet,HF,5,Sidsel Mygil MATTESEN,,,,20,Clara BAK
+134,748266,57.15,,BFH,Skud reddet,PL,31,Marianne HAUGSTED,,,,26,Nora PERSSON
+135,748266,57.43,,SJE,Regelfejl,,7,Melissa PETRÉN,,,,,
+136,748266,57.44,,BFH,Regelfejl,,0,,,,,,
+137,748266,57.44,,BFH,Advarsel,B,,Dennis PEDERSEN,,,,,
+138,748266,58.08,,SJE,Skud på stolpe,HB,10,Nicoline OLSEN,,,,20,Clara BAK
+139,748266,58.44,,BFH,Fejlaflevering,,72,Line FRANDSEN,,,,,
+140,748266,58.50,28-17,SJE,Mål,1:e,7,Melissa PETRÉN,,,,0,
+141,748266,59.22,,BFH,Skud blokeret,PL,31,Marianne HAUGSTED,Blok af (ret),24,Josefine DRAGENBERG,,
+142,748266,59.41,,BFH,Skud blokeret,PL,21,Emma ERNST,Blok af (ret),22,Olivia SIMONSEN,,
+143,748266,59.49,,BFH,Skud reddet,PL,21,Emma ERNST,,,,26,Nora PERSSON
+144,748266,59.57,29-17,SJE,Mål,1:e,15,Sara IBRANOVIC,Assist,24,Josefine DRAGENBERG,0,

@@ -1,0 +1,122 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748706,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748706,0.37,,FHK,Skud på stolpe,PL,97,Reinier TABOADA,,,,1,Mikkel LØVKVIST
+3,748706,1.18,0-1,BSH,Mål,HB,11,Rasmus LAUGE,,,,1,Sebastian FRANDSEN
+4,748706,2.04,1-1,FHK,Mål,ST,41,Evgeni PEVNOV,Assist,31,William ANDERSSON MOBERG1,1,Mikkel LØVKVIST
+5,748706,2.25,1-2,BSH,Mål,Gbr,26,Peter BALLING,,,,1,Sebastian FRANDSEN
+6,748706,2.57,,FHK,Skud blokeret,PL,31,William ANDERSSON MOBERG,Blok af (ret),19,René Toft HANSEN,,
+7,748706,3.26,,FHK,Skud reddet,HB,93,Anders MARTINUSEN,,,,1,Mikkel LØVKVIST
+8,748706,4.02,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,1,Sebastian FRANDSEN
+9,748706,4.35,,BSH,Advarsel,,11,Rasmus LAUGE,,,,,
+10,748706,4.59,2-2,FHK,Mål,PL,97,Reinier TABOADA,,,,1,Mikkel LØVKVIST
+11,748706,5.10,,BSH,Tilkendt straffe,,32,Nikolaj LÆSØ,Forårs. str.,93,Anders MARTINUSEN,,
+12,748706,5.38,2-3,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,1,Sebastian FRANDSEN
+13,748706,6.18,,FHK,Tilkendt straffe,,93,Anders MARTINUSEN,Forårs. str.,19,René Toft HANSEN,,
+14,748706,6.42,3-3,FHK,Mål på straffe,,7,Kasper YOUNG,,,,1,Mikkel LØVKVIST
+15,748706,7.21,3-4,BSH,Mål,PL,11,Rasmus LAUGE,,,,1,Sebastian FRANDSEN
+16,748706,7.59,,FHK,Fejlaflevering,,97,Reinier TABOADA,Bold erobret,23,Mads LENBROCH,,
+17,748706,8.50,,BSH,Skud reddet,VB,11,Rasmus LAUGE,Retur,4,Patrick BOLDSEN,1,Sebastian FRANDSEN
+18,748706,8.56,,BSH,Skud reddet,HF,4,Patrick BOLDSEN,,,,1,Sebastian FRANDSEN
+19,748706,10.28,,FHK,Skud blokeret,PL,7,Kasper YOUNG,Blokeret af,19,René Toft HANSEN,,
+20,748706,11.00,3-5,BSH,Mål,Gbr,26,Peter BALLING,,,,1,Sebastian FRANDSEN
+21,748706,11.58,,FHK,Regelfejl,,97,Reinier TABOADA,,,,,
+22,748706,12.06,,BSH,Skud reddet,2:e,26,Peter BALLING,,,,1,Sebastian FRANDSEN
+23,748706,13.04,,FHK,Regelfejl,,93,Anders MARTINUSEN,,,,,
+24,748706,13.34,,BSH,Fejlaflevering,,11,Rasmus LAUGE,Bold erobret,0,,,
+25,748706,13.43,,FHK,Skud reddet,2:e,93,Anders MARTINUSEN,,,,1,Mikkel LØVKVIST
+26,748706,14.35,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,1,Sebastian FRANDSEN
+27,748706,15.05,,FHK,Skud på stolpe,Gbr,97,Reinier TABOADA,,,,1,Mikkel LØVKVIST
+28,748706,16.06,,BSH,Skud reddet,PL,34,Morten OLSEN,,,,1,Sebastian FRANDSEN
+29,748706,16.19,4-5,FHK,Mål,HF,7,Kasper YOUNG,Assist,93,Anders MARTINUSEN,1,Mikkel LØVKVIST
+30,748706,17.02,4-6,BSH,Mål,Gbr,26,Peter BALLING,,,,1,Sebastian FRANDSEN
+31,748706,17.39,,FHK,Skud reddet,ST,4,Nikolaj NIELSEN,,,,1,Mikkel LØVKVIST
+32,748706,18.28,,BSH,Skud blokeret,HB,26,Peter BALLING,Blokeret af,97,Reinier TABOADA,,
+33,748706,18.36,5-6,FHK,Mål,1:e,1,Sebastian FRANDSEN,,,,0,
+34,748706,18.40,,BSH,Time out,,,,,,,,
+35,748706,19.11,,BSH,Fejlaflevering,,32,Nikolaj LÆSØ,Bold erobret,93,Anders MARTINUSEN,,
+36,748706,19.15,6-6,FHK,Mål,1:e,7,Kasper YOUNG,,,,1,Mikkel LØVKVIST
+37,748706,19.29,,BSH,Skud på stolpe,2:e,26,Peter BALLING,Retur,14,Alexander LYNGGAARD,1,Sebastian FRANDSEN
+38,748706,19.35,6-7,BSH,Mål,ST,14,Alexander LYNGGAARD,,,,1,Sebastian FRANDSEN
+39,748706,19.41,7-7,FHK,Mål,2:e,93,Anders MARTINUSEN,,,,1,Mikkel LØVKVIST
+40,748706,20.28,,BSH,Tilkendt straffe,,34,Morten OLSEN,Forårs. str.,13,Lasse BALSTAD,,
+41,748706,20.56,7-8,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,1,Sebastian FRANDSEN
+42,748706,21.31,8-8,FHK,Mål,Gbr,15,Mads KJELDGAARD,,,,1,Mikkel LØVKVIST
+43,748706,21.49,8-9,BSH,Mål,Gbr,34,Morten OLSEN,,,,1,Sebastian FRANDSEN
+44,748706,22.00,,FHK,Skud forbi,2:e,23,Einar ÓLAFSSON,,,,1,Mikkel LØVKVIST
+45,748706,22.46,,BSH,Skud forbi,HB,26,Peter BALLING,,,,1,Sebastian FRANDSEN
+46,748706,22.56,9-9,FHK,Mål,2:e,13,Lasse BALSTAD,Assist,15,Mads KJELDGAARD,1,Mikkel LØVKVIST
+47,748706,23.27,,BSH,Skud reddet,VB,34,Morten OLSEN,,,,1,Sebastian FRANDSEN
+48,748706,23.32,,FHK,Skud reddet,1:e,9,Martin BISGAARD,,,,1,Mikkel LØVKVIST
+49,748706,24.33,,BSH,Fejlaflevering,,34,Morten OLSEN,Bold erobret,23,Einar ÓLAFSSON,,
+50,748706,25.11,,FHK,Skud forbi,VF,9,Martin BISGAARD,,,,1,Mikkel LØVKVIST
+51,748706,25.44,,BSH,Skud reddet,PL,97,Magnus RAHBEK,,,,1,Sebastian FRANDSEN
+52,748706,25.52,10-9,FHK,Mål,2:e,93,Anders MARTINUSEN,Assist,15,Mads KJELDGAARD,1,Mikkel LØVKVIST
+53,748706,26.39,,BSH,Skud reddet,PL,34,Morten OLSEN,Retur,0,,1,Sebastian FRANDSEN
+54,748706,27.15,,BSH,Skud forbi,HB,26,Peter BALLING,,,,1,Sebastian FRANDSEN
+55,748706,28.02,11-9,FHK,Mål,VF,9,Martin BISGAARD,Assist,31,William ANDERSSON MOBERG,1,Mikkel LØVKVIST
+56,748706,28.33,,BSH,Skud på stolpe,HF,4,Patrick BOLDSEN,,,,1,Sebastian FRANDSEN
+57,748706,29.22,12-9,FHK,Mål,ST,4,Nikolaj NIELSEN,Assist,31,William ANDERSSON MOBERG,1,Mikkel LØVKVIST
+58,748706,29.37,,BSH,Fejlaflevering,,11,Rasmus LAUGE,,,,,
+59,748706,29.47,,FHK,Time out,,,,,,,,
+60,748706,29.58,13-9,FHK,Mål,VF,9,Martin BISGAARD,Assist,31,William ANDERSSON MOBERG,1,Mikkel LØVKVIST
+61,748706,30.00,13-9,,Halvleg,,,,,,,,
+62,748706,30.00,,,Start 2:e halvleg,,,,,,,,
+63,748706,30.26,,FHK,Udvisning,,15,Mads KJELDGAARD,,,,,
+64,748706,30.52,13-10,BSH,Mål,ST,22,Anders ZACHARIASSEN,Assist,11,Rasmus LAUGE,1,Sebastian FRANDSEN
+65,748706,32.01,14-10,FHK,Mål,VB,97,Reinier TABOADA,,,,1,Mikkel LØVKVIST
+66,748706,32.27,,BSH,Fejlaflevering,,26,Peter BALLING,,,,,
+67,748706,33.17,15-10,FHK,Mål,Gbr,97,Reinier TABOADA,,,,1,Mikkel LØVKVIST
+68,748706,34.05,,BSH,Skud reddet,PL,97,Magnus RAHBEK,Retur,0,,1,Sebastian FRANDSEN
+69,748706,34.24,15-11,BSH,Mål,Gbr,26,Peter BALLING,Assist,97,Magnus RAHBEK,1,Sebastian FRANDSEN
+70,748706,34.59,16-11,FHK,Mål,HF,7,Kasper YOUNG,Assist,93,Anders MARTINUSEN,1,Mikkel LØVKVIST
+71,748706,35.14,,FHK,Udvisning,,13,Lasse BALSTAD,,,,,
+72,748706,35.47,,BSH,Skud reddet,HF,4,Patrick BOLDSEN,,,,1,Sebastian FRANDSEN
+73,748706,36.37,,FHK,Skud på stolpe,HB,93,Anders MARTINUSEN,,,,12,Kasper LARSEN
+74,748706,37.00,,BSH,Tilkendt straffe,,26,Peter BALLING,Forårs. str.,9,Martin BISGAARD,,
+75,748706,37.05,,BSH,Straffekast reddet,,9,Gudmundur Bragi ASTPARSSON,,,,16,Thorsten FRIES
+76,748706,37.47,17-11,FHK,Mål,HF,7,Kasper YOUNG,Assist,31,William ANDERSSON MOBERG,12,Kasper LARSEN
+77,748706,38.20,,BSH,Skud reddet,Gbr,11,Rasmus LAUGE,Retur,0,,1,Sebastian FRANDSEN
+78,748706,38.56,17-12,BSH,Mål,PL,26,Peter BALLING,,,,1,Sebastian FRANDSEN
+79,748706,39.02,18-12,FHK,Mål,2:e,97,Reinier TABOADA,,,,12,Kasper LARSEN
+80,748706,39.10,,BSH,Time out,,,,,,,,
+81,748706,39.30,,BSH,Fejlaflevering,,26,Peter BALLING,,,,,
+82,748706,40.10,19-12,FHK,Mål,PL,31,William ANDERSSON MOBERG,,,,12,Kasper LARSEN
+83,748706,41.03,,BSH,Skud reddet,HF,4,Patrick BOLDSEN,,,,1,Sebastian FRANDSEN
+84,748706,41.42,20-12,FHK,Mål,Gbr,93,Anders MARTINUSEN,Assist,31,William ANDERSSON MOBERG,1,Mikkel LØVKVIST
+85,748706,41.59,20-13,BSH,Mål,ST,14,Alexander LYNGGAARD,Assist,97,Magnus RAHBEK,1,Sebastian FRANDSEN
+86,748706,42.46,21-13,FHK,Mål,ST,4,Nikolaj NIELSEN,Assist,93,Anders MARTINUSEN,1,Mikkel LØVKVIST
+87,748706,43.27,21-14,BSH,Mål,HF,26,Peter BALLING,Assist,9,Gudmundur Bragi ASTPARSSON,1,Sebastian FRANDSEN
+88,748706,44.00,,FHK,Skud reddet,Gbr,97,Reinier TABOADA,,,,1,Mikkel LØVKVIST
+89,748706,44.07,,BSH,Skud reddet,1:e,97,Magnus RAHBEK,,,,1,Sebastian FRANDSEN
+90,748706,44.57,,FHK,Skud reddet,PL,31,William ANDERSSON MOBERG,,,,1,Mikkel LØVKVIST
+91,748706,45.29,,BSH,Skud på stolpe,Gbr,97,Magnus RAHBEK,,,,1,Sebastian FRANDSEN
+92,748706,45.35,22-14,FHK,Mål,1:e,9,Martin BISGAARD,Assist,93,Anders MARTINUSEN,1,Mikkel LØVKVIST
+93,748706,45.43,,BSH,Fejlaflevering,,97,Magnus RAHBEK,Bold erobret,97,Reinier TABOADA,,
+94,748706,46.34,23-14,FHK,Mål,Gbr,97,Reinier TABOADA,Assist,93,Anders MARTINUSEN,1,Mikkel LØVKVIST
+95,748706,47.52,,BSH,Fejlaflevering,,9,Gudmundur Bragi ASTPARSSON,Bold erobret,93,Anders MARTINUSEN,,
+96,748706,48.54,,FHK,Skud på stolpe,Gbr,31,William ANDERSSON MOBERG,,,,1,Mikkel LØVKVIST
+97,748706,49.03,,BSH,Fejlaflevering,,97,Magnus RAHBEK,Bold erobret,97,Reinier TABOADA,,
+98,748706,49.41,24-14,FHK,Mål,ST,13,Lasse BALSTAD,Assist,31,William ANDERSSON MOBERG,1,Mikkel LØVKVIST
+99,748706,50.12,,BSH,Skud reddet,Gbr,11,Rasmus LAUGE,,,,1,Sebastian FRANDSEN
+100,748706,50.19,,FHK,Skud forbi,1:e,7,Kasper YOUNG,,,,0,
+101,748706,50.41,24-15,BSH,Mål,PL,11,Rasmus LAUGE,,,,1,Sebastian FRANDSEN
+102,748706,51.18,,FHK,Fejlaflevering,,97,Reinier TABOADA,Bold erobret,23,Mads LENBROCH,,
+103,748706,51.25,24-16,BSH,Mål,1:e,26,Peter BALLING,,,,0,
+104,748706,51.50,25-16,FHK,Mål,,,,,,,,
+105,748706,52.24,25-17,BSH,Mål,ST,14,Alexander LYNGGAARD,Assist,32,Nikolaj LÆSØ,1,Sebastian FRANDSEN
+106,748706,52.52,26-17,FHK,Mål,ST,4,Nikolaj NIELSEN,Assist,31,William ANDERSSON MOBERG1,1,Mikkel LØVKVIST
+107,748706,53.22,26-18,BSH,Mål,VF,23,Mads LENBROCH,Assist,11,Rasmus LAUGE,1,Sebastian FRANDSEN
+108,748706,53.49,27-18,FHK,Mål,ST,41,Evgeni PEVNOV,Assist,93,Anders MARTINUSEN,12,Kasper LARSEN
+109,748706,54.32,27-19,BSH,Mål,PL,32,Nikolaj LÆSØ,,,,1,Sebastian FRANDSEN
+110,748706,55.08,28-19,FHK,Mål,HF,7,Kasper YOUNG,Assist,93,Anders MARTINUSEN,12,Kasper LARSEN
+111,748706,55.33,,BSH,Skud reddet,PL,26,Peter BALLING,,,,1,Sebastian FRANDSEN
+112,748706,55.38,29-19,FHK,Mål,1:e,7,Kasper YOUNG,Assist,93,Anders MARTINUSEN,,
+113,748706,56.22,,BSH,Tilkendt straffe,,14,Alexander LYNGGAARD,Forårs. str.,41,Evgeni PEVNOV,,
+114,748706,56.32,29-20,BSH,Mål på straffe,,23,Mads LENBROCH,,,,16,Thorsten FRIES
+115,748706,57.17,,FHK,Skud reddet,VF,9,Martin BISGAARD,,,,12,Kasper LARSEN
+116,748706,57.32,,BSH,Skud reddet,PL,32,Nikolaj LÆSØ,,,,1,Sebastian FRANDSEN
+117,748706,58.11,,FHK,Skud på stolpe,Gbr,93,Anders MARTINUSEN,,,,12,Kasper LARSEN
+118,748706,58.37,,BSH,Skud reddet,ST,22,Anders ZACHARIASSEN,,,,1,Sebastian FRANDSEN
+119,748706,59.07,,FHK,Skud på stolpe,HB,93,Anders MARTINUSEN,Retur,,,12,Kasper LARSEN
+120,748706,59.35,30-20,FHK,Mål,HF,7,Kasper YOUNG,Assist,31,William ANDERSSON MOBERG12,12,Kasper LARSEN
+121,748706,59.58,30-21,BSH,Mål,Gbr,11,Rasmus LAUGE,,,,1,Sebastian FRANDSEN

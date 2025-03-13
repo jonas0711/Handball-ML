@@ -1,0 +1,146 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748240,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748240,0.53,,IKA,Skud reddet,ST,18,Maria LYKKEGAARD,,,,1,Isabella MATHORNE
+3,748240,1.01,0-1,SKB,Mål,1:e,4,Emilie BECH,Assist,20,Suna HANSEN,12,Filippa IDÉHN
+4,748240,1.37,,IKA,Skud reddet,VF,22,Lærke NOLSØE,,,,1,Isabella MATHORNE
+5,748240,2.15,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,Bold erobret,7,Stine SKOGRAND,,
+6,748240,2.19,1-1,IKA,Mål,1:e,14,Emma LINDQVIST,Assist,7,Stine SKOGRAND,1,Isabella MATHORNE
+7,748240,2.49,,SKB,Skud reddet,ST,2,Boline LAURSEN,,,,12,Filippa IDÉHN
+8,748240,2.57,2-1,IKA,Mål,2:e,6,Cecilie BRANDT,Assist,7,Stine SKOGRAND,1,Isabella MATHORNE
+9,748240,3.10,,SKB,Skud blokeret,PL,14,Verona REXHEPI,Blok af (ret),18,Maria LYKKEGAARD,,
+10,748240,4.10,,SKB,Skud reddet,HF,4,Emilie BECH,,,,12,Filippa IDÉHN
+11,748240,4.18,3-1,IKA,Mål,2:e,18,Maria LYKKEGAARD,Assist,21,Ingvild BAKKERUD,1,Isabella MATHORNE
+12,748240,4.50,3-2,SKB,Mål,ST,2,Boline LAURSEN,Assist,44,Nicoline LAURITSEN,12,Filippa IDÉHN
+13,748240,5.33,,IKA,Skud reddet,ST,18,Maria LYKKEGAARD,,,,1,Isabella MATHORNE
+14,748240,6.31,,SKB,Skud på stolpe,ST,2,Boline LAURSEN,,,,12,Filippa IDÉHN
+15,748240,6.40,,IKA,Skud forbi,2:e,6,Cecilie BRANDT,,,,1,Isabella MATHORNE
+16,748240,7.12,3-3,SKB,Mål,ST,2,Boline LAURSEN,Assist,14,Verona REXHEPI,12,Filippa IDÉHN
+17,748240,7.22,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,Bold erobret,14,Verona REXHEPI,,
+18,748240,7.29,,SKB,Skud reddet,1:e,14,Verona REXHEPI,,,,12,Filippa IDÉHN
+19,748240,7.35,4-3,IKA,Mål,1:e,6,Cecilie BRANDT,Assist,7,Stine SKOGRAND,1,Isabella MATHORNE
+20,748240,8.14,,SKB,Tabt bold,,25,Astrid LYNNERUP,,,,,
+21,748240,8.40,5-3,IKA,Mål,VF,22,Lærke NOLSØE,Assist,21,Ingvild BAKKERUD,1,Isabella MATHORNE
+22,748240,8.53,5-4,SKB,Mål,2:e,20,Suna HANSEN,,,,12,Filippa IDÉHN
+23,748240,8.59,6-4,IKA,Mål,2:e,14,Emma LINDQVIST,Assist,21,Ingvild BAKKERUD,1,Isabella MATHORNE
+24,748240,9.30,,SKB,Skud blokeret,PL,14,Verona REXHEPI,Blokeret af,21,Ingvild BAKKERUD,,
+25,748240,9.36,7-4,IKA,Mål,1:e,22,Lærke NOLSØE,Assist,18,Maria LYKKEGAARD,1,Isabella MATHORNE
+26,748240,10.11,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,7,Stine SKOGRAND,,
+27,748240,10.16,8-4,IKA,Mål,1:e,6,Cecilie BRANDT,Assist,14,Emma LINDQVIST,1,Isabella MATHORNE
+28,748240,10.23,,SKB,Time out,,,,,,,,
+29,748240,10.48,,SKB,Skud reddet,VB,20,Suna HANSEN,,,,12,Filippa IDÉHN
+30,748240,11.11,9-4,IKA,Mål,PL,14,Emma LINDQVIST,,,,1,Isabella MATHORNE
+31,748240,11.51,,SKB,Skud reddet,HF,4,Emilie BECH,,,,12,Filippa IDÉHN
+32,748240,11.57,10-4,IKA,Mål,2:e,21,Ingvild BAKKERUD,,,,1,Isabella MATHORNE
+33,748240,12.49,,SKB,Passivt spil,,0,,,,,,
+34,748240,13.19,,IKA,Skud på stolpe,Gbr,7,Stine SKOGRAND,,,,1,Isabella MATHORNE
+35,748240,13.48,10-5,SKB,Mål,VB,11,Mia LAGUMDZIJA,,,,12,Filippa IDÉHN
+36,748240,14.20,,IKA,Skud reddet,PL,7,Stine SKOGRAND,Retur,0,,1,Isabella MATHORNE
+37,748240,14.43,,IKA,Tabt bold,,17,Simone PETERSEN,Bold erobret,20,Suna HANSEN,,
+38,748240,14.48,,SKB,Tabt bold,,4,Emilie BECH,,,,,
+39,748240,15.37,,IKA,Regelfejl,,19,Amanda Loft HANSEN,,,,,
+40,748240,16.04,,SKB,Skud på stolpe,VB,11,Mia LAGUMDZIJA,,,,12,Filippa IDÉHN
+41,748240,16.11,,IKA,Time out,,,,,,,,
+42,748240,16.31,11-5,IKA,Mål,VB,7,Stine SKOGRAND,,,,1,Isabella MATHORNE
+43,748240,16.43,11-6,SKB,Mål,HF,4,Emilie BECH,,,,12,Filippa IDÉHN
+44,748240,16.51,12-6,IKA,Mål,2:e,14,Emma LINDQVIST,,,,1,Isabella MATHORNE
+45,748240,17.22,,SKB,Skud reddet,ST,26,Christina HANSEN,,,,12,Filippa IDÉHN
+46,748240,18.01,13-6,IKA,Mål,HF,6,Cecilie BRANDT,Assist,14,Emma LINDQVIST,1,Isabella MATHORNE
+47,748240,18.52,,SKB,Tilkendt straffe,,9,Cecilie Frydendahl NØRSKOV,Forårs. str.,19,Amanda Loft HANSEN,,
+48,748240,19.16,13-7,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,12,Filippa IDÉHN
+49,748240,19.48,,IKA,Regelfejl,,19,Amanda Loft HANSEN,,,,,
+50,748240,20.33,,IKA,Advarsel,,14,Emma LINDQVIST,,,,,
+51,748240,20.54,13-8,SKB,Mål,VB,20,Suna HANSEN,,,,12,Filippa IDÉHN
+52,748240,21.01,,IKA,Skud reddet,2:e,6,Cecilie BRANDT,,,,12,Sarah ERNEBJERG
+53,748240,21.26,,SKB,Skud reddet,PL,20,Suna HANSEN,,,,12,Filippa IDÉHN
+54,748240,21.45,,IKA,Tabt bold,,19,Amanda Loft HANSEN,Bold erobret,13,Tilde ULRICHSEN,,
+55,748240,21.52,13-9,SKB,Mål,2:e,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,12,Filippa IDÉHN
+56,748240,22.32,,IKA,Skud reddet,VF,22,Lærke NOLSØE,,,,12,Sarah ERNEBJERG
+57,748240,23.36,,IKA,Advarsel,,7,Stine SKOGRAND,,,,,
+58,748240,24.01,13-10,SKB,Mål,PL,11,Mia LAGUMDZIJA,,,,12,Filippa IDÉHN
+59,748240,24.38,14-10,IKA,Mål,ST,18,Maria LYKKEGAARD,Assist,7,Stine SKOGRAND,12,Sarah ERNEBJERG
+60,748240,25.30,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,18,Maria LYKKEGAARD,,
+61,748240,25.35,15-10,IKA,Mål,1:e,14,Emma LINDQVIST,Assist,17,Simone PETERSEN,12,Sarah ERNEBJERG
+62,748240,26.16,15-11,SKB,Mål,PL,9,Cecilie Frydendahl NØRSKOV,,,,12,Filippa IDÉHN
+63,748240,27.00,,IKA,Skud reddet,PL,17,Simone PETERSEN,,,,12,Sarah ERNEBJERG
+64,748240,27.04,15-12,SKB,Mål,1:e,25,Astrid LYNNERUP,Assist,12,Sarah ERNEBJERG,12,Filippa IDÉHN
+65,748240,27.40,,IKA,Fejlaflevering,,14,Emma LINDQVIST,Bold erobret,25,Astrid LYNNERUP,,
+66,748240,28.15,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,,,,,
+67,748240,28.43,,IKA,Skud på stolpe,PL,21,Ingvild BAKKERUD,,,,12,Sarah ERNEBJERG
+68,748240,29.42,,SKB,Skud blokeret,PL,11,Mia LAGUMDZIJA,Blok af (ret),21,Ingvild BAKKERUD,,
+69,748240,29.48,15-13,SKB,Mål,PL,11,Mia LAGUMDZIJA,,,,12,Filippa IDÉHN
+70,748240,29.59,16-13,IKA,Mål,Gbr,21,Ingvild BAKKERUD,,,,12,Sarah ERNEBJERG
+71,748240,30.00,16-13,,Halvleg,,,,,,,,
+72,748240,30.00,,,Start 2:e halvleg,,,,,,,,
+73,748240,30.37,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,Bold erobret,7,Stine SKOGRAND,,
+74,748240,30.42,,IKA,Skud på stolpe,1:e,17,Simone PETERSEN,,,,12,Sarah ERNEBJERG
+75,748240,31.12,16-14,SKB,Mål,ST,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,16,Olivia NYGAARD
+76,748240,31.31,,IKA,Skud reddet,Gbr,21,Ingvild BAKKERUD,,,,12,Sarah ERNEBJERG
+77,748240,31.39,16-15,SKB,Mål,2:e,14,Verona REXHEPI,,,,16,Olivia NYGAARD
+78,748240,32.21,,IKA,Fejlaflevering,,7,Stine SKOGRAND,Bold erobret,22,Anne-Sofie FILTENBORG,,
+79,748240,32.55,,SKB,Skud reddet,VF,25,Astrid LYNNERUP,,,,16,Olivia NYGAARD
+80,748240,33.03,17-15,IKA,Mål,2:e,21,Ingvild BAKKERUD,,,,12,Sarah ERNEBJERG
+81,748240,33.25,17-16,SKB,Mål,ST,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,16,Olivia NYGAARD
+82,748240,33.35,18-16,IKA,Mål,2:e,21,Ingvild BAKKERUD,,,,12,Sarah ERNEBJERG
+83,748240,34.09,,SKB,Regelfejl,,2,Boline LAURSEN,,,,,
+84,748240,34.14,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,,,,,
+85,748240,34.45,,SKB,Tabt bold,,11,Mia LAGUMDZIJA,Bold erobret,77,Line Mai HOUGAARD,,
+86,748240,35.17,19-16,IKA,Mål,Gbr,21,Ingvild BAKKERUD,,,,12,Sarah ERNEBJERG
+87,748240,35.30,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,,,,,
+88,748240,35.33,20-16,IKA,Mål,1:e,77,Line Mai HOUGAARD,Assist,21,Ingvild BAKKERUD,12,Sarah ERNEBJERG
+89,748240,36.18,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,,,,,
+90,748240,37.10,21-16,IKA,Mål,ST,18,Maria LYKKEGAARD,Assist,21,Ingvild BAKKERUD,12,Sarah ERNEBJERG
+91,748240,38.00,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,Bold erobret,7,Stine SKOGRAND,,
+92,748240,38.03,22-16,IKA,Mål,1:e,77,Line Mai HOUGAARD,Assist,21,Ingvild BAKKERUD,12,Sarah ERNEBJERG
+93,748240,38.07,,SKB,Time out,,0,,,,,,
+94,748240,38.48,,SKB,Regelfejl,,20,Suna HANSEN,,,,,
+95,748240,38.56,23-16,IKA,Mål,2:e,77,Line Mai HOUGAARD,Assist,7,Stine SKOGRAND,12,Sarah ERNEBJERG
+96,748240,39.23,23-17,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Olivia NYGAARD
+97,748240,40.09,,IKA,Skud reddet,PL,21,Ingvild BAKKERUD,,,,12,Sarah ERNEBJERG
+98,748240,40.55,23-18,SKB,Mål,ST,2,Boline LAURSEN,Assist,14,Verona REXHEPI,16,Olivia NYGAARD
+99,748240,41.08,24-18,IKA,Mål,2:e,2,Matilde KONDRUP NIELSEN,Assist,17,Simone PETERSEN,12,Sarah ERNEBJERG
+100,748240,41.50,,SKB,Skud reddet,PL,14,Verona REXHEPI,,,,16,Olivia NYGAARD
+101,748240,41.57,25-18,IKA,Mål,1:e,77,Line Mai HOUGAARD,Assist,21,Ingvild BAKKERUD,12,Sarah ERNEBJERG
+102,748240,42.09,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,,,,,
+103,748240,42.13,26-18,IKA,Mål,1:e,2,Matilde KONDRUP NIELSEN,Assist,0,,12,Sarah ERNEBJERG
+104,748240,42.45,26-19,SKB,Mål,,,,,,,,
+105,748240,43.02,,IKA,Time out,,,,,,,,
+106,748240,43.18,27-19,IKA,Mål,Gbr,14,Emma LINDQVIST,,,,12,Sarah ERNEBJERG
+107,748240,44.26,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,14,Emma LINDQVIST,,
+108,748240,44.29,28-19,IKA,Mål,1:e,77,Line Mai HOUGAARD,Assist,17,Simone PETERSEN,12,Sarah ERNEBJERG
+109,748240,45.15,,SKB,Skud på stolpe,Gbr,44,Nicoline LAURITSEN,,,,16,Olivia NYGAARD
+110,748240,45.57,29-19,IKA,Mål,VF,2,Matilde KONDRUP NIELSEN,Assist,14,Emma LINDQVIST,12,Sarah ERNEBJERG
+111,748240,46.35,,SKB,Skud reddet,ST,2,Boline LAURSEN,,,,16,Olivia NYGAARD
+112,748240,47.07,30-19,IKA,Mål,ST,19,Amanda Loft HANSEN,Assist,17,Simone PETERSEN,23,Stine ALMIND
+113,748240,47.19,,SKB,Time out,,,,,,,,
+114,748240,47.36,,SKB,Fejlaflevering,,20,Suna HANSEN,,,,,
+115,748240,48.12,,IKA,Tilkendt straffe,,18,Maria LYKKEGAARD,Forårs. str.,13,Tilde ULRICHSEN,,
+116,748240,48.29,31-19,IKA,Mål på straffe,,17,Simone PETERSEN,,,,23,Stine ALMIND
+117,748240,48.58,31-20,SKB,Mål,VF,6,Josefine Kaae LARSEN,Assist,20,Suna HANSEN,16,Olivia NYGAARD
+118,748240,49.33,,IKA,Skud forbi,Gbr,10,Sofia STENHOLT,,,,23,Stine ALMIND
+119,748240,50.11,,SKB,Tilkendt straffe,,4,Emilie BECH,Forårs. str.,18,Maria LYKKEGAARD,,
+120,748240,50.11,,IKA,Udvisning,,18,Maria LYKKEGAARD,,,,,
+121,748240,50.16,31-21,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,16,Olivia NYGAARD
+122,748240,51.11,,IKA,Skud reddet,PL,17,Simone PETERSEN,Retur,0,,23,Stine ALMIND
+123,748240,51.38,,IKA,Tabt bold,,10,Sofia STENHOLT,,,,,
+124,748240,51.56,,SKB,Tilkendt straffe,,26,Christina HANSEN,Forårs. str.,14,Emma LINDQVIST,,
+125,748240,52.11,31-22,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,16,Olivia NYGAARD
+126,748240,52.48,,IKA,Skud reddet,ST,23,Lina Thorstein LÜTZHØFT,,,,23,Stine ALMIND
+127,748240,53.20,,IKA,Udvisning,,19,Amanda Loft HANSEN,,,,,
+128,748240,53.49,,SKB,Skud reddet,HF,4,Emilie BECH,,,,16,Olivia NYGAARD
+129,748240,54.16,32-22,IKA,Mål,ST,2,Matilde KONDRUP NIELSEN,Assist,17,Simone PETERSEN,23,Stine ALMIND
+130,748240,54.40,,SKB,Skud på stolpe,Gbr,14,Verona REXHEPI,,,,16,Olivia NYGAARD
+131,748240,55.09,33-22,IKA,Mål,ST,23,Lina Thorstein LÜTZHØFT,Assist,17,Simone PETERSEN,23,Stine ALMIND
+132,748240,55.42,,SKB,Skud reddet,VB,14,Verona REXHEPI,,,,16,Olivia NYGAARD
+133,748240,55.59,,IKA,Tilkendt straffe,,17,Simone PETERSEN,Forårs. str.,11,Mia LAGUMDZIJA,,
+134,748240,56.14,34-22,IKA,Mål på straffe,,17,Simone PETERSEN,,,,23,Stine ALMIND
+135,748240,56.45,34-23,SKB,Mål,Gbr,14,Verona REXHEPI,,,,16,Olivia NYGAARD
+136,748240,56.57,,IKA,Fejlaflevering,,17,Simone PETERSEN,,,,,
+137,748240,57.01,34-24,SKB,Mål,1:e,4,Emilie BECH,Assist,23,Stine ALMIND,16,Olivia NYGAARD
+138,748240,57.36,35-24,IKA,Mål,Gbr,27,Clara Mendgaard SØRENSEN,,,,23,Stine ALMIND
+139,748240,58.03,,SKB,Skud reddet,PL,9,Cecilie Frydendahl NØRSKOV,,,,16,Olivia NYGAARD
+140,748240,58.10,,IKA,Skud forbi,2:e,27,Clara Mendgaard SØRENSEN,,,,23,Stine ALMIND
+141,748240,58.18,35-25,SKB,Mål,2:e,9,Cecilie Frydendahl NØRSKOV,,,,16,Olivia NYGAARD
+142,748240,58.56,,SKB,Udvisning,,13,Tilde ULRICHSEN,,,,,
+143,748240,59.10,36-25,IKA,Mål,VF,2,Matilde KONDRUP NIELSEN,Assist,17,Simone PETERSEN,23,Stine ALMIND
+144,748240,59.42,,SKB,Tilkendt straffe,,4,Emilie BECH,Forårs. str.,23,Lina Thorstein LÜTZHØFT,,
+145,748240,59.52,36-26,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,16,Olivia NYGAARD

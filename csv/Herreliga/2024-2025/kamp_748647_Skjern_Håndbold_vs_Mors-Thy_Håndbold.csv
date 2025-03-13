@@ -1,0 +1,137 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748647,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748647,0.41,,SKH,Fejlaflevering,,25,Eivind TANGEN,,,,,
+3,748647,0.43,,MTH,Skud på stolpe,1:e,15,Henrik Toft HANSEN,,,,1,Christoffer BONDE
+4,748647,1.22,,SKH,Tilkendt straffe,,14,Emil BERGHOLT,Forårs. str.,33,Kasper DIDRIKSEN,,
+5,748647,1.44,,SKH,Straffekast på stolpe,,19,Bjarke CHRISTENSEN,,,,30,Svend RUGHAVE
+6,748647,2.13,,MTH,Fejlaflevering,,21,Marcus MIDTGAARD,,,,,
+7,748647,2.25,,SKH,Skud på stolpe,2:e,13,Noah GAUDIN,,,,30,Svend RUGHAVE
+8,748647,3.09,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,,,,,
+9,748647,3.17,,SKH,Regelfejl,,13,Noah GAUDIN,,,,,
+10,748647,3.43,,MTH,Skud reddet,PL,21,Marcus MIDTGAARD,,,,1,Christoffer BONDE
+11,748647,3.52,,SKH,Skud reddet,HB,25,Eivind TANGEN,,,,30,Svend RUGHAVE
+12,748647,4.06,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,Bold erobret,13,Noah GAUDIN,,
+13,748647,4.13,1-0,SKH,Mål,1:e,25,Eivind TANGEN,Assist,13,Noah GAUDIN,30,Svend RUGHAVE
+14,748647,4.52,1-1,MTH,Mål,PL,9,Kristoffer VESTERGAARD,,,,1,Christoffer BONDE
+15,748647,5.20,,SKH,Skud reddet,Gbr,13,Noah GAUDIN,,,,30,Svend RUGHAVE
+16,748647,5.53,,MTH,Regelfejl,,9,Kristoffer VESTERGAARD,,,,,
+17,748647,5.58,,SKH,Fejlaflevering,,22,Jakob RASMUSSEN,,,,,
+18,748647,6.02,1-2,MTH,Mål,1:e,23,Henrik TILSTED,,,,1,Christoffer BONDE
+19,748647,6.50,2-2,SKH,Mål,VB,22,Jakob RASMUSSEN,,,,30,Svend RUGHAVE
+20,748647,7.00,2-3,MTH,Mål,2:e,21,Marcus MIDTGAARD,,,,1,Christoffer BONDE
+21,748647,7.31,3-3,SKH,Mål,Gbr,25,Eivind TANGEN,,,,30,Svend RUGHAVE
+22,748647,8.16,,MTH,Skud forbi,PL,9,Kristoffer VESTERGAARD,,,,1,Christoffer BONDE
+23,748647,8.44,4-3,SKH,Mål,HB,25,Eivind TANGEN,,,,30,Svend RUGHAVE
+24,748647,9.35,4-4,MTH,Mål,PL,9,Kristoffer VESTERGAARD,,,,1,Christoffer BONDE
+25,748647,10.09,,SKH,Fejlaflevering,,25,Eivind TANGEN,,,,,
+26,748647,10.45,,MTH,Fejlaflevering,,19,Victor NORLYK,,,,,
+27,748647,10.49,5-4,SKH,Mål,1:e,13,Noah GAUDIN,,,,30,Svend RUGHAVE
+28,748647,11.07,5-5,MTH,Mål,VF,23,Henrik TILSTED,Assist,21,Marcus MIDTGAARD,1,Christoffer BONDE
+29,748647,11.52,,MTH,Advarsel,,33,Kasper DIDRIKSEN,,,,,
+30,748647,12.29,,SKH,Fejlaflevering,,22,Jakob RASMUSSEN,,,,,
+31,748647,13.04,5-6,MTH,Mål,PL,7,Nichlas HALD,,,,1,Christoffer BONDE
+32,748647,13.39,,SKH,Fejlaflevering,,15,Lasse MIKKELSEN,,,,,
+33,748647,13.44,5-7,MTH,Mål,1:e,23,Henrik TILSTED,Assist,7,Nichlas HALD,1,Christoffer BONDE
+34,748647,14.32,,SKH,Skud reddet,HB,22,Jakob RASMUSSEN,,,,30,Svend RUGHAVE
+35,748647,14.37,,MTH,Fejlaflevering,,7,Nichlas HALD,Bold erobret,19,Bjarke CHRISTENSEN,,
+36,748647,15.37,,SKH,Tilkendt straffe,,7,Senjamin BURIC,Forårs. str.,4,Kasper LINDGREN,,
+37,748647,16.02,6-7,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,30,Svend RUGHAVE
+38,748647,16.29,6-8,MTH,Mål,VB,7,Nichlas HALD,,,,1,Christoffer BONDE
+39,748647,17.04,7-8,SKH,Mål,Gbr,13,Noah GAUDIN,,,,30,Svend RUGHAVE
+40,748647,17.39,,MTH,Skud blokeret,PL,7,Nichlas HALD,Blok af (ret),7,Senjamin BURIC,,
+41,748647,18.01,,MTH,Tilkendt straffe,,15,Henrik Toft HANSEN,Forårs. str.,7,Senjamin BURIC,,
+42,748647,18.30,,MTH,Straffekast reddet,,10,Mads Svane KNUDSEN,,,,1,Christoffer BONDE
+43,748647,19.30,,SKH,Skud reddet,Gbr,10,Joaquim NAZARÉ,Retur,0,,30,Svend RUGHAVE
+44,748647,19.54,,SKH,Skud blokeret,VB,13,Noah GAUDIN,Blok af (ret),15,Henrik Toft HANSEN,,
+45,748647,20.09,,SKH,Skud reddet,ST,7,Senjamin BURIC,,,,30,Svend RUGHAVE
+46,748647,20.28,,MTH,Tilkendt straffe,,28,Rasmus MADSEN,Forårs. str.,15,Lasse MIKKELSEN,,
+47,748647,20.28,,SKH,Udvisning,,15,Lasse MIKKELSEN,,,,,
+48,748647,20.33,,MTH,Straffekast på stolpe,,11,Lasse PEDERSEN,,,,1,Christoffer BONDE
+49,748647,21.08,8-8,SKH,Mål,VB,13,Noah GAUDIN,,,,30,Svend RUGHAVE
+50,748647,21.38,8-9,MTH,Mål,Gbr,10,Mads Svane KNUDSEN,,,,1,Christoffer BONDE
+51,748647,22.11,9-9,SKH,Mål,Gbr,13,Noah GAUDIN,,,,30,Svend RUGHAVE
+52,748647,22.22,9-10,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,1,Christoffer BONDE
+53,748647,22.56,10-10,SKH,Mål,HB,10,Joaquim NAZARÉ,,,,30,Svend RUGHAVE
+54,748647,23.35,,MTH,Skud forbi,Gbr,22,Gustav SUNESEN,,,,1,Christoffer BONDE
+55,748647,23.49,11-10,SKH,Mål,ST,7,Senjamin BURIC,Assist,15,Lasse MIKKELSEN,30,Svend RUGHAVE
+56,748647,24.16,,MTH,Tabt bold,,10,Mads Svane KNUDSEN,,,,,
+57,748647,25.15,,SKH,Skud reddet,VB,13,Noah GAUDIN,,,,30,Svend RUGHAVE
+58,748647,25.18,,MTH,Regelfejl,,15,Henrik Toft HANSEN,,,,,
+59,748647,25.26,12-10,SKH,Mål,1:e,7,Senjamin BURIC,Assist,13,Noah GAUDIN,30,Svend RUGHAVE
+60,748647,25.34,,MTH,Time out,,,,,,,,
+61,748647,26.01,,MTH,Skud reddet,ST,33,Kasper DIDRIKSEN,,,,1,Christoffer BONDE
+62,748647,26.10,13-10,SKH,Mål,2:e,15,Lasse MIKKELSEN,,,,30,Svend RUGHAVE
+63,748647,26.36,,MTH,Regelfejl,,10,Mads Svane KNUDSEN,,,,,
+64,748647,27.12,,SKH,Skud reddet,PL,15,Lasse MIKKELSEN,Retur,0,,30,Svend RUGHAVE
+65,748647,27.16,14-10,SKH,Mål,ST,7,Senjamin BURIC,,,,30,Svend RUGHAVE
+66,748647,27.51,14-11,MTH,Mål,VB,7,Nichlas HALD,,,,1,Christoffer BONDE
+67,748647,28.26,,SKH,Skud på stolpe,HB,13,Noah GAUDIN,Retur,0,,30,Svend RUGHAVE
+68,748647,28.42,,SKH,Skud reddet,HB,10,Joaquim NAZARÉ,Retur,0,,30,Svend RUGHAVE
+69,748647,29.16,,SKH,Time out,,,,,,,,
+70,748647,29.23,15-11,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,30,Svend RUGHAVE
+71,748647,29.55,,MTH,Tilkendt straffe,,21,Marcus MIDTGAARD,Forårs. str.,5,Viktor BERGHOLT,,
+72,748647,30.00,15-12,MTH,Mål på straffe,,17,Malthe BULL,,,,1,Christoffer BONDE
+73,748647,30.00,15-12,,Halvleg,,,,,,,,
+74,748647,30.00,,,Start 2:e halvleg,,,,,,,,
+75,748647,30.22,,MTH,Skud reddet,HB,9,Kristoffer VESTERGAARD,Retur,0,,1,Christoffer BONDE
+76,748647,30.31,15-13,MTH,Mål,ST,9,Kristoffer VESTERGAARD,,,,1,Christoffer BONDE
+77,748647,31.29,,SKH,Skud reddet,PL,13,Noah GAUDIN,,,,30,Svend RUGHAVE
+78,748647,31.42,,MTH,Regelfejl,,7,Nichlas HALD,,,,,
+79,748647,31.57,,SKH,Skud reddet,PL,13,Noah GAUDIN,,,,30,Svend RUGHAVE
+80,748647,32.06,15-14,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,1,Christoffer BONDE
+81,748647,32.58,,SKH,Regelfejl,,13,Noah GAUDIN,,,,,
+82,748647,33.23,,MTH,Skud reddet,PL,7,Nichlas HALD,,,,1,Christoffer BONDE
+83,748647,33.30,,SKH,Skud reddet,2:e,14,Emil BERGHOLT,,,,30,Svend RUGHAVE
+84,748647,34.09,,MTH,Skud reddet,Gbr,21,Marcus MIDTGAARD,,,,1,Christoffer BONDE
+85,748647,34.15,,SKH,Skud på stolpe,1:e,5,Viktor BERGHOLT,,,,30,Svend RUGHAVE
+86,748647,34.48,,MTH,Fejlaflevering,,9,Kristoffer VESTERGAARD,,,,,
+87,748647,34.57,16-14,SKH,Mål,2:e,14,Emil BERGHOLT,Assist,15,Lasse MIKKELSEN,30,Svend RUGHAVE
+88,748647,35.47,16-15,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,1,Christoffer BONDE
+89,748647,36.20,,SKH,Skud reddet,VB,2,Mads BJERGFELT,,,,30,Svend RUGHAVE
+90,748647,37.07,,MTH,Skud reddet,PL,9,Kristoffer VESTERGAARD,,,,1,Christoffer BONDE
+91,748647,38.01,,MTH,Udvisning,,33,Kasper DIDRIKSEN,,,,,
+92,748647,38.24,17-15,SKH,Mål,ST,7,Senjamin BURIC,Assist,15,Lasse MIKKELSEN,30,Svend RUGHAVE
+93,748647,38.58,,MTH,Skud forbi,Gbr,7,Nichlas HALD,,,,1,Christoffer BONDE
+94,748647,39.49,18-15,SKH,Mål,HF,21,René RASMUSSEN,Assist,15,Lasse MIKKELSEN,30,Svend RUGHAVE
+95,748647,40.46,,SKH,Udvisning,,18,Vetle RØNNINGEN,,,,,
+96,748647,41.06,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,,,,,
+97,748647,41.08,,SKH,Udvisning,,25,Eivind TANGEN,,,,,
+98,748647,41.41,19-15,SKH,Mål,PL,15,Lasse MIKKELSEN,,,,30,Svend RUGHAVE
+99,748647,42.09,19-16,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,10,Mads Svane KNUDSEN,1,Christoffer BONDE
+100,748647,42.54,,SKH,Regelfejl,,21,René RASMUSSEN,,,,,
+101,748647,43.07,19-17,MTH,Mål,ST,33,Kasper DIDRIKSEN,Assist,0,,1,Christoffer BONDE
+102,748647,43.40,20-17,SKH,Mål,Gbr,2,Mads BJERGFELT,,,,30,Svend RUGHAVE
+103,748647,44.11,20-18,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,1,Christoffer BONDE
+104,748647,45.04,20-19,MTH,Mål,2:e,19,Victor NORLYK,,,,1,Christoffer BONDE
+105,748647,45.13,,SKH,Skud på stolpe,2:e,5,Viktor BERGHOLT,,,,30,Svend RUGHAVE
+106,748647,45.44,,MTH,Skud på stolpe,HB,28,Rasmus MADSEN,,,,1,Christoffer BONDE
+107,748647,45.51,21-19,SKH,Mål,1:e,5,Viktor BERGHOLT,Assist,15,Lasse MIKKELSEN,30,Svend RUGHAVE
+108,748647,46.40,21-20,MTH,Mål,PL,19,Victor NORLYK,,,,1,Christoffer BONDE
+109,748647,47.48,,SKH,Tabt bold,,25,Eivind TANGEN,,,,,
+110,748647,48.21,,MTH,Fejlaflevering,,19,Victor NORLYK,,,,,
+111,748647,48.46,22-20,SKH,Mål,ST,7,Senjamin BURIC,Assist,0,,30,Svend RUGHAVE
+112,748647,49.19,,MTH,Tilkendt straffe,,33,Kasper DIDRIKSEN,Forårs. str.,18,Vetle RØNNINGEN,,
+113,748647,49.24,22-21,MTH,Mål på straffe,,17,Malthe BULL,,,,1,Christoffer BONDE
+114,748647,50.21,,SKH,Time out,,,,,,,,
+115,748647,50.30,,SKH,Skud reddet,ST,14,Emil BERGHOLT,,,,30,Svend RUGHAVE
+116,748647,51.15,22-22,MTH,Mål,HB,21,Marcus MIDTGAARD,,,,1,Christoffer BONDE
+117,748647,51.52,,MTH,Udvisning,,4,Kasper LINDGREN,,,,,
+118,748647,52.18,,SKH,Tilkendt straffe,,15,Lasse MIKKELSEN,Forårs. str.,33,Kasper DIDRIKSEN,,
+119,748647,52.21,,SKH,Straffekast på stolpe,,15,Lasse MIKKELSEN,,,,20,Oliver LARSEN
+120,748647,53.00,,MTH,Time out,,,,,,,,
+121,748647,53.23,,MTH,Passivt spil,,0,,,,,,
+122,748647,54.18,,SKH,Passivt spil,,0,,,,,,
+123,748647,54.31,,MTH,Regelfejl,,21,Marcus MIDTGAARD,,,,,
+124,748647,55.23,,SKH,Regelfejl,,13,Noah GAUDIN,,,,,
+125,748647,56.04,,MTH,Fejlaflevering,,7,Nichlas HALD,Bold erobret,14,Emil BERGHOLT,,
+126,748647,56.47,23-22,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,30,Svend RUGHAVE
+127,748647,56.51,23-23,MTH,Mål,2:e,21,Marcus MIDTGAARD,,,,1,Christoffer BONDE
+128,748647,57.03,,SKH,Skud forbi,PL,10,Joaquim NAZARÉ,,,,30,Svend RUGHAVE
+129,748647,57.26,,MTH,Tilkendt straffe,,19,Victor NORLYK,Forårs. str.,18,Vetle RØNNINGEN,,
+130,748647,57.36,23-24,MTH,Mål på straffe,,17,Malthe BULL,,,,16,Tim WINKLER
+131,748647,58.04,24-24,SKH,Mål,VF,19,Bjarke CHRISTENSEN,Assist,2,Mads BJERGFELT,30,Svend RUGHAVE
+132,748647,59.03,24-25,MTH,Mål,Gbr,19,Victor NORLYK,,,,1,Christoffer BONDE
+133,748647,59.36,,SKH,Time out,,,,,,,,
+134,748647,59.49,25-25,SKH,Mål,ST,7,Senjamin BURIC,Assist,13,Noah GAUDIN,30,Svend RUGHAVE
+135,748647,59.56,,MTH,Time out,,,,,,,,
+136,748647,59.59,,MTH,Skud reddet,Gbr,7,Nichlas HALD,,,,1,Christoffer BONDE

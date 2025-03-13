@@ -1,0 +1,136 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748698,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748698,0.35,0-1,KIF,Mål,Gbr,21,Kristian STOKLUND,,,,1,Christoffer BONDE
+3,748698,1.29,1-1,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,12,Josip CAVAR
+4,748698,2.35,,KIF,Skud blokeret,PL,5,Oliver NORLYK,Blok af (ret),0,,,
+5,748698,2.52,,KIF,Skud reddet,PL,21,Kristian STOKLUND,,,,1,Christoffer BONDE
+6,748698,3.30,2-1,SKH,Mål,VF,19,Bjarke CHRISTENSEN,Assist,22,Jakob RASMUSSEN,12,Josip CAVAR
+7,748698,4.04,2-2,KIF,Mål,Gbr,28,Lauritz LEGÉR,,,,1,Christoffer BONDE
+8,748698,4.12,3-2,SKH,Mål,2:e,10,Joaquim NAZARÉ,Assist,13,Noah GAUDIN,12,Josip CAVAR
+9,748698,4.46,,KIF,Skud reddet,PL,5,Oliver NORLYK,,,,1,Christoffer BONDE
+10,748698,4.59,4-2,SKH,Mål,2:e,21,René RASMUSSEN,Assist,10,Joaquim NAZARÉ,12,Josip CAVAR
+11,748698,5.40,4-3,KIF,Mål,VF,4,Lars SKAARUP,Assist,28,Lauritz LEGÉR,1,Christoffer BONDE
+12,748698,6.15,5-3,SKH,Mål,Gbr,13,Noah GAUDIN,,,,12,Josip CAVAR
+13,748698,6.24,5-4,KIF,Mål,2:e,21,Kristian STOKLUND,,,,1,Christoffer BONDE
+14,748698,6.31,6-4,SKH,Mål,2:e,19,Bjarke CHRISTENSEN,Assist,13,Noah GAUDIN,12,Josip CAVAR
+15,748698,7.04,,KIF,Regelfejl,,28,Lauritz LEGÉR,,,,,
+16,748698,7.41,,SKH,Regelfejl,,22,Jakob RASMUSSEN,,,,,
+17,748698,8.00,6-5,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,5,Oliver NORLYK,1,Christoffer BONDE
+18,748698,8.26,7-5,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,12,Josip CAVAR
+19,748698,9.38,,KIF,Skud på stolpe,VF,4,Lars SKAARUP,,,,1,Christoffer BONDE
+20,748698,9.56,,KIF,Advarsel,,2,Mads KRAGH THOMSEN,,,,,
+21,748698,10.41,,SKH,Skud forbi,HF,21,René RASMUSSEN,,,,1,Emil TELLERUP
+22,748698,11.23,,KIF,Skud reddet,HB,5,Oliver NORLYK,,,,1,Christoffer BONDE
+23,748698,12.07,,SKH,Tilkendt straffe,,10,Joaquim NAZARÉ,Forårs. str.,4,Lars SKAARUP,,
+24,748698,12.29,8-5,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,1,Emil TELLERUP
+25,748698,12.38,,KIF,Time out,,,,,,,,
+26,748698,13.05,,KIF,Skud blokeret,VB,21,Kristian STOKLUND,Blokeret af,14,Emil BERGHOLT,,
+27,748698,13.19,9-5,SKH,Mål,1:e,14,Emil BERGHOLT,Assist,2,Mads BJERGFELT,1,Emil TELLERUP
+28,748698,14.10,9-6,KIF,Mål,Gbr,28,Lauritz LEGÉR,Assist,29,Viktor NEVERS,1,Christoffer BONDE
+29,748698,15.00,,SKH,Skud på stolpe,VB,13,Noah GAUDIN,Retur,0,,1,Emil TELLERUP
+30,748698,15.25,10-6,SKH,Mål,VF,19,Bjarke CHRISTENSEN,Assist,22,Jakob RASMUSSEN,1,Emil TELLERUP
+31,748698,16.02,,KIF,Regelfejl,,24,Diogo SILVA,,,,,
+32,748698,16.06,11-6,SKH,Mål,1:e,14,Emil BERGHOLT,Assist,21,René RASMUSSEN,1,Emil TELLERUP
+33,748698,16.22,,KIF,Skud på stolpe,VF,4,Lars SKAARUP,,,,1,Christoffer BONDE
+34,748698,16.53,12-6,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,1,Emil TELLERUP
+35,748698,17.40,,KIF,Skud forbi,PL,10,Mathias MAILAND,,,,1,Christoffer BONDE
+36,748698,17.54,,SKH,Tilkendt straffe,,10,Joaquim NAZARÉ,Forårs. str.,10,Mathias MAILAND,,
+37,748698,17.58,13-6,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,1,Emil TELLERUP
+38,748698,18.13,,KIF,Time out,,,,,,,,
+39,748698,18.37,,KIF,Regelfejl,,10,Mathias MAILAND,,,,,
+40,748698,18.41,,SKH,Skud forbi,2:e,13,Noah GAUDIN,,,,0,
+41,748698,19.47,,KIF,Tilkendt straffe,,11,Magnus KRONBORG,Forårs. str.,2,Mads BJERGFELT,,
+42,748698,20.04,13-7,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,1,Christoffer BONDE
+43,748698,20.40,,SKH,Fejlaflevering,,10,Joaquim NAZARÉ,,,,,
+44,748698,21.05,,KIF,Tilkendt straffe,,11,Magnus KRONBORG,Forårs. str.,10,Joaquim NAZARÉ,,
+45,748698,21.13,13-8,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,1,Christoffer BONDE
+46,748698,21.46,14-8,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,1,Emil TELLERUP
+47,748698,22.17,14-9,KIF,Mål,HF,29,Viktor NEVERS,Assist,24,Diogo SILVA,1,Christoffer BONDE
+48,748698,22.50,,SKH,Skud reddet,Gbr,22,Jakob RASMUSSEN,,,,1,Emil TELLERUP
+49,748698,23.19,,KIF,Skud forbi,ST,13,Mathias HEDEGAARD,,,,1,Christoffer BONDE
+50,748698,23.29,15-9,SKH,Mål,2:e,10,Joaquim NAZARÉ,,,,1,Emil TELLERUP
+51,748698,24.30,,KIF,Skud blokeret,PL,21,Kristian STOKLUND,Blok af (ret),14,Emil BERGHOLT,,
+52,748698,24.47,,KIF,Regelfejl,,24,Diogo SILVA,,,,,
+53,748698,24.59,,SKH,Time out,,,,,,,,
+54,748698,25.33,,KIF,Udvisning,,2,Mads KRAGH THOMSEN,,,,,
+55,748698,25.49,,SKH,Tilkendt straffe,,7,Senjamin BURIC,Forårs. str.,24,Diogo SILVA,,
+56,748698,25.50,,SKH,Straffekast reddet,,15,Lasse MIKKELSEN,Retur,0,,12,Josip CAVAR
+57,748698,25.54,16-9,SKH,Mål,ST,15,Lasse MIKKELSEN,,,,12,Josip CAVAR
+58,748698,26.46,,KIF,Skud blokeret,PL,5,Oliver NORLYK,Blok af (ret),14,Emil BERGHOLT,,
+59,748698,26.55,,KIF,Regelfejl,,21,Kristian STOKLUND,,,,,
+60,748698,27.22,,SKH,Tabt bold,,14,Emil BERGHOLT,,,,,
+61,748698,27.43,,KIF,Tabt bold,,26,Hans Lindeborg HOLST,,,,,
+62,748698,27.49,17-9,SKH,Mål,1:e,7,Senjamin BURIC,Assist,15,Lasse MIKKELSEN,1,Emil TELLERUP
+63,748698,28.17,17-10,KIF,Mål,Gbr,21,Kristian STOKLUND,Assist,13,Mathias HEDEGAARD,1,Christoffer BONDE
+64,748698,29.01,,SKH,Regelfejl,,15,Lasse MIKKELSEN,,,,,
+65,748698,29.30,,KIF,Regelfejl,,5,Oliver NORLYK,,,,,
+66,748698,29.58,,SKH,Regelfejl,,2,Mads BJERGFELT,,,,,
+67,748698,30.00,17-10,,Halvleg,,,,,,,,
+68,748698,30.00,,,Start 2:e halvleg,,,,,,,,
+69,748698,30.33,,SKH,Fejlaflevering,,10,Joaquim NAZARÉ,,,,,
+70,748698,31.03,,KIF,Skud på stolpe,PL,11,Magnus KRONBORG,,,,1,Christoffer BONDE
+71,748698,31.28,18-10,SKH,Mål,ST,7,Senjamin BURIC,Assist,22,Jakob RASMUSSEN,12,Josip CAVAR
+72,748698,32.26,,KIF,Skud reddet,PL,11,Magnus KRONBORG,Retur,0,,1,Christoffer BONDE
+73,748698,32.40,,KIF,Skud reddet,HB,5,Oliver NORLYK,,,,1,Christoffer BONDE
+74,748698,32.40,,,Video Proof,,0,,,,,,
+75,748698,33.54,,KIF,"Rødt kort, direkte",,5,Oliver NORLYK,,,,,
+76,748698,33.54,,,Video Proof slut,,0,,,,,,
+77,748698,34.02,19-10,SKH,Mål,ST,14,Emil BERGHOLT,Assist,15,Lasse MIKKELSEN,12,Josip CAVAR
+78,748698,34.52,,KIF,Skud reddet,HB,24,Diogo SILVA,,,,1,Christoffer BONDE
+79,748698,34.58,20-10,SKH,Mål,1:e,19,Bjarke CHRISTENSEN,Assist,,,1,Christoffer BONDE
+80,748698,35.31,,KIF,Skud reddet,VF,26,Hans Lindeborg HOLST,,,,1,Christoffer BONDE
+81,748698,36.10,21-10,SKH,Mål,PL,22,Jakob RASMUSSEN,,,,12,Josip CAVAR
+82,748698,36.19,,KIF,Time out,,,,,,,,
+83,748698,36.55,,KIF,Fejlaflevering,,21,Kristian STOKLUND,Bold erobret,10,Joaquim NAZARÉ,,
+84,748698,36.58,22-10,SKH,Mål,1:e,10,Joaquim NAZARÉ,,,,0,
+85,748698,37.26,,KIF,Fejlaflevering,,21,Kristian STOKLUND,Bold erobret,14,Emil BERGHOLT,,
+86,748698,37.30,23-10,SKH,Mål,1:e,7,Senjamin BURIC,Assist,14,Emil BERGHOLT,0,
+87,748698,37.59,,KIF,Fejlaflevering,,21,Kristian STOKLUND,Bold erobret,21,René RASMUSSEN,,
+88,748698,38.04,24-10,SKH,Mål,1:e,21,René RASMUSSEN,,,,0,
+89,748698,38.33,24-11,KIF,Mål,ST,9,Victor LYNGSØ,Assist,24,Diogo SILVA,1,Christoffer BONDE
+90,748698,38.41,25-11,SKH,Mål,2:e,19,Bjarke CHRISTENSEN,Assist,13,Noah GAUDIN,12,Josip CAVAR
+91,748698,39.16,25-12,KIF,Mål,ST,9,Victor LYNGSØ,Assist,24,Diogo SILVA,1,Christoffer BONDE
+92,748698,39.25,,SKH,Tilkendt straffe,,13,Noah GAUDIN,Forårs. str.,24,Diogo SILVA,,
+93,748698,39.41,26-12,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,12,Josip CAVAR
+94,748698,40.08,26-13,KIF,Mål,PL,24,Diogo SILVA,,,,1,Christoffer BONDE
+95,748698,40.15,27-13,SKH,Mål,2:e,5,Viktor BERGHOLT,Assist,10,Joaquim NAZARÉ,12,Josip CAVAR
+96,748698,40.52,27-14,KIF,Mål,ST,9,Victor LYNGSØ,Assist,24,Diogo SILVA,1,Christoffer BONDE
+97,748698,41.03,28-14,SKH,Mål,2:e,13,Noah GAUDIN,,,,12,Josip CAVAR
+98,748698,41.45,28-15,KIF,Mål,ST,9,Victor LYNGSØ,Assist,24,Diogo SILVA,1,Christoffer BONDE
+99,748698,41.51,29-15,SKH,Mål,2:e,10,Joaquim NAZARÉ,,,,12,Josip CAVAR
+100,748698,42.16,,KIF,Skud reddet,PL,28,Lauritz LEGÉR,,,,1,Christoffer BONDE
+101,748698,42.45,30-15,SKH,Mål,PL,2,Mads BJERGFELT,,,,1,Emil TELLERUP
+102,748698,43.16,,KIF,Skud reddet,HF,27,Sebastian BERTELSEN,,,,1,Christoffer BONDE
+103,748698,43.51,,SKH,Fejlaflevering,,10,Joaquim NAZARÉ,,,,,
+104,748698,45.00,,SKH,Skud reddet,PL,2,Mads BJERGFELT,,,,1,Emil TELLERUP
+105,748698,45.29,30-16,KIF,Mål,HB,24,Diogo SILVA,,,,16,Tim WINKLER
+106,748698,45.40,,SKH,Skud reddet,2:e,14,Emil BERGHOLT,,,,1,Emil TELLERUP
+107,748698,46.18,30-17,KIF,Mål,ST,9,Victor LYNGSØ,Assist,24,Diogo SILVA,16,Tim WINKLER
+108,748698,46.53,,SKH,Regelfejl,,22,Jakob RASMUSSEN,,,,,
+109,748698,47.32,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,,,,,
+110,748698,47.39,,SKH,Time out,,,,,,,,
+111,748698,48.05,,SKH,Skud reddet,HB,4,Tobias MYGIND,,,,1,Emil TELLERUP
+112,748698,48.57,30-18,KIF,Mål,HB,24,Diogo SILVA,,,,16,Tim WINKLER
+113,748698,49.31,31-18,SKH,Mål,Gbr,22,Jakob RASMUSSEN,,,,1,Emil TELLERUP
+114,748698,50.03,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,,,,,
+115,748698,50.05,32-18,SKH,Mål,1:e,5,Viktor BERGHOLT,Assist,,,16,Tim WINKLER
+116,748698,50.42,32-19,KIF,Mål,HF,27,Sebastian BERTELSEN,,,,16,Tim WINKLER
+117,748698,51.24,,SKH,Skud reddet,HF,27,Jonathan SØRENSEN,,,,1,Emil TELLERUP
+118,748698,51.27,,SKH,Udvisning,,27,Jonathan SØRENSEN,,,,,
+119,748698,52.01,32-20,KIF,Mål,HF,27,Sebastian BERTELSEN,Assist,24,Diogo SILVA,16,Tim WINKLER
+120,748698,52.34,33-20,SKH,Mål,HB,22,Jakob RASMUSSEN,,,,1,Emil TELLERUP
+121,748698,52.57,33-21,KIF,Mål,PL,11,Magnus KRONBORG,,,,16,Tim WINKLER
+122,748698,53.48,,SKH,Skud forbi,HB,22,Jakob RASMUSSEN,,,,1,Emil TELLERUP
+123,748698,54.10,33-22,KIF,Mål,Gbr,26,Hans Lindeborg HOLST,,,,16,Tim WINKLER
+124,748698,54.46,34-22,SKH,Mål,PL,4,Tobias MYGIND,,,,1,Emil TELLERUP
+125,748698,55.14,,KIF,Fejlaflevering,,24,Diogo SILVA,Bold erobret,2,Mads BJERGFELT,,
+126,748698,55.40,,SKH,Skud reddet,Gbr,4,Tobias MYGIND,,,,1,Emil TELLERUP
+127,748698,56.18,,KIF,Fejlaflevering,,24,Diogo SILVA,,,,,
+128,748698,56.30,35-22,SKH,Mål,2:e,5,Viktor BERGHOLT,Assist,18,Vetle RØNNINGEN,1,Emil TELLERUP
+129,748698,57.19,,KIF,Regelfejl,,10,Mathias MAILAND,,,,,
+130,748698,58.11,36-22,SKH,Mål,Gbr,22,Jakob RASMUSSEN,,,,1,Emil TELLERUP
+131,748698,58.43,,KIF,Fejlaflevering,,10,Mathias MAILAND,Bold erobret,5,Viktor BERGHOLT,,
+132,748698,58.47,37-22,SKH,Mål,1:e,5,Viktor BERGHOLT,,,,1,Emil TELLERUP
+133,748698,59.35,,KIF,Regelfejl,,27,Sebastian BERTELSEN,,,,,
+134,748698,59.41,38-22,SKH,Mål,2:e,5,Viktor BERGHOLT,Assist,4,Tobias MYGIND,1,Emil TELLERUP
+135,748698,59.59,,KIF,Skud forbi,HB,28,Lauritz LEGÉR,,,,16,Tim WINKLER

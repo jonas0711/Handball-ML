@@ -1,0 +1,151 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748238,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748238,0.33,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,Bold erobret,14,Louise ELLEBÆK,,
+3,748238,1.08,0-1,SJE,Mål,HB,14,Louise ELLEBÆK,,,,23,Stine ALMIND
+4,748238,1.22,1-1,SKB,Mål,2:e,44,Nicoline LAURITSEN,,,,12,Stine BROLØS
+5,748238,1.53,1-2,SJE,Mål,VF,17,June BØTTGER,Assist,7,Melissa PETRÉN,23,Stine ALMIND
+6,748238,3.01,2-2,SKB,Mål,Gbr,11,Mia LAGUMDZIJA,,,,12,Stine BROLØS
+7,748238,3.41,2-3,SJE,Mål,PL,14,Louise ELLEBÆK,,,,23,Stine ALMIND
+8,748238,4.14,,SKB,Skud reddet,ST,2,Boline LAURSEN,,,,12,Stine BROLØS
+9,748238,4.45,,SJE,Skud forbi,Gbr,28,Sarah PAULSEN,,,,23,Stine ALMIND
+10,748238,4.51,,SKB,Skud på stolpe,2:e,25,Astrid LYNNERUP,,,,12,Stine BROLØS
+11,748238,5.04,,SJE,Skud reddet,2:e,28,Sarah PAULSEN,Retur,0,,23,Stine ALMIND
+12,748238,5.29,2-4,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,23,Stine ALMIND
+13,748238,5.39,3-4,SKB,Mål,2:e,14,Verona REXHEPI,,,,12,Stine BROLØS
+14,748238,5.50,,SJE,Fejlaflevering,,0,,,,,,
+15,748238,6.19,4-4,SKB,Mål,VB,14,Verona REXHEPI,,,,12,Stine BROLØS
+16,748238,6.32,,SJE,Skud reddet,2:e,22,Olivia SIMONSEN,,,,23,Stine ALMIND
+17,748238,6.37,5-4,SKB,Mål,PL,11,Mia LAGUMDZIJA,,,,12,Stine BROLØS
+18,748238,6.57,,SJE,Fejlaflevering,,14,Louise ELLEBÆK,Bold erobret,0,,,
+19,748238,7.06,,SKB,Skud reddet,1:e,2,Boline LAURSEN,,,,12,Stine BROLØS
+20,748238,7.19,,SJE,Time out,,,,,,,,
+21,748238,7.40,5-5,SJE,Mål,VB,14,Louise ELLEBÆK,,,,23,Stine ALMIND
+22,748238,8.10,,SKB,Skud forbi,PL,14,Verona REXHEPI,,,,12,Stine BROLØS
+23,748238,8.43,5-6,SJE,Mål,HB,7,Melissa PETRÉN,,,,23,Stine ALMIND
+24,748238,9.24,,SJE,Udvisning,,22,Olivia SIMONSEN,,,,,
+25,748238,9.35,,SKB,Skud reddet,Gbr,44,Nicoline LAURITSEN,,,,12,Stine BROLØS
+26,748238,10.08,5-7,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,23,Stine ALMIND
+27,748238,10.08,,SKB,Udvisning,,10,Filippa NEDOVIC,,,,,
+28,748238,10.33,6-7,SKB,Mål,HF,4,Emilie BECH,Assist,11,Mia LAGUMDZIJA,12,Stine BROLØS
+29,748238,10.58,6-8,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,23,Stine ALMIND
+30,748238,11.20,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,,,,,
+31,748238,11.24,6-9,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,12,Stine BROLØS,0,
+32,748238,12.03,,SKB,Skud reddet,HF,4,Emilie BECH,,,,12,Stine BROLØS
+33,748238,12.18,,SKB,Advarsel,,4,Emilie BECH,,,,,
+34,748238,12.41,,SJE,Skud reddet,VB,14,Louise ELLEBÆK,,,,23,Stine ALMIND
+35,748238,12.46,,SKB,Tabt bold,,4,Emilie BECH,,,,,
+36,748238,12.54,,SJE,Regelfejl,,22,Olivia SIMONSEN,,,,,
+37,748238,13.08,,SKB,Tabt bold,,11,Mia LAGUMDZIJA,,,,,
+38,748238,13.12,6-10,SJE,Mål,1:e,14,Louise ELLEBÆK,Assist,31,Ida-Marie DAHL,23,Stine ALMIND
+39,748238,13.21,,SKB,Time out,,,,,,,,
+40,748238,13.51,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,14,Louise ELLEBÆK,,
+41,748238,13.56,6-11,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,12,Stine BROLØS,23,Stine ALMIND
+42,748238,14.24,,SKB,Tabt bold,,11,Mia LAGUMDZIJA,Bold erobret,14,Louise ELLEBÆK,,
+43,748238,14.28,6-12,SJE,Mål,1:e,14,Louise ELLEBÆK,,,,23,Stine ALMIND
+44,748238,15.38,,SKB,Skud reddet,PL,14,Verona REXHEPI,,,,12,Stine BROLØS
+45,748238,16.23,6-13,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,7,Melissa PETRÉN,23,Stine ALMIND
+46,748238,17.02,7-13,SKB,Mål,Gbr,20,Suna HANSEN,,,,12,Stine BROLØS
+47,748238,17.39,,SJE,Skud reddet,VB,7,Melissa PETRÉN,,,,12,Sarah ERNEBJERG
+48,748238,17.43,8-13,SKB,Mål,1:e,4,Emilie BECH,Assist,12,Sarah ERNEBJERG,12,Stine BROLØS
+49,748238,18.13,8-14,SJE,Mål,VB,14,Louise ELLEBÆK,,,,12,Sarah ERNEBJERG
+50,748238,18.19,9-14,SKB,Mål,2:e,44,Nicoline LAURITSEN,,,,12,Stine BROLØS
+51,748238,18.55,9-15,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,7,Melissa PETRÉN,12,Sarah ERNEBJERG
+52,748238,19.06,10-15,SKB,Mål,2:e,25,Astrid LYNNERUP,Assist,7,Annika Solberg DALSAGER,12,Stine BROLØS
+53,748238,19.19,,SJE,Skud reddet,2:e,28,Sarah PAULSEN,,,,12,Sarah ERNEBJERG
+54,748238,19.30,,SKB,Skud reddet,2:e,44,Nicoline LAURITSEN,,,,12,Stine BROLØS
+55,748238,20.40,10-16,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,12,Sarah ERNEBJERG
+56,748238,21.15,,SKB,Tilkendt straffe,,20,Suna HANSEN,Forårs. str.,14,Louise ELLEBÆK,,
+57,748238,21.38,11-16,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,12,Stine BROLØS
+58,748238,22.19,,SJE,Tilkendt straffe,,6,Lea HANSEN,Forårs. str.,25,Astrid LYNNERUP,,
+59,748238,22.29,11-17,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,12,Sarah ERNEBJERG
+60,748238,22.57,12-17,SKB,Mål,HF,4,Emilie BECH,Assist,20,Suna HANSEN,12,Stine BROLØS
+61,748238,23.37,12-18,SJE,Mål,VF,17,June BØTTGER,Assist,7,Melissa PETRÉN,12,Sarah ERNEBJERG
+62,748238,23.47,,SJE,Udvisning,,28,Sarah PAULSEN,,,,,
+63,748238,24.13,,SKB,Skud reddet,VF,25,Astrid LYNNERUP,,,,12,Stine BROLØS
+64,748238,24.47,,SJE,Fejlaflevering,,7,Melissa PETRÉN,Bold erobret,25,Astrid LYNNERUP,,
+65,748238,24.51,13-18,SKB,Mål,1:e,20,Suna HANSEN,,,,0,
+66,748238,25.34,,SJE,Skud blokeret,PL,7,Melissa PETRÉN,Blokeret af,10,Filippa NEDOVIC,,
+67,748238,25.42,,SKB,Fejlaflevering,,20,Suna HANSEN,,,,,
+68,748238,26.21,,SJE,Fejlaflevering,,7,Melissa PETRÉN,Bold erobret,2,Boline LAURSEN,,
+69,748238,26.44,14-18,SKB,Mål,Gbr,7,Annika Solberg DALSAGER,,,,12,Stine BROLØS
+70,748238,26.56,,SJE,Tilkendt straffe,,28,Sarah PAULSEN,Forårs. str.,44,Nicoline LAURITSEN,,
+71,748238,27.05,14-19,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,12,Sarah ERNEBJERG
+72,748238,27.47,15-19,SKB,Mål,Gbr,20,Suna HANSEN,,,,12,Stine BROLØS
+73,748238,27.58,15-20,SJE,Mål,2:e,6,Lea HANSEN,Assist,10,Nicoline OLSEN,12,Sarah ERNEBJERG
+74,748238,28.34,16-20,SKB,Mål,Gbr,44,Nicoline LAURITSEN,Assist,20,Suna HANSEN,12,Stine BROLØS
+75,748238,29.13,,SJE,Tilkendt straffe,,31,Ida-Marie DAHL,Forårs. str.,10,Filippa NEDOVIC,,
+76,748238,29.28,16-21,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,12,Sarah ERNEBJERG
+77,748238,29.55,,SKB,Skud forbi,PL,20,Suna HANSEN,,,,12,Stine BROLØS
+78,748238,29.59,,SJE,Fejlaflevering,,12,Stine BROLØS,Bold erobret,44,Nicoline LAURITSEN,,
+79,748238,30.00,16-21,,Halvleg,,,,,,,,
+80,748238,30.00,,,Start 2:e halvleg,,,,,,,,
+81,748238,30.46,16-22,SJE,Mål,HF,6,Lea HANSEN,Assist,10,Nicoline OLSEN,1,Isabella MATHORNE
+82,748238,31.31,,SKB,Skud reddet,Gbr,7,Annika Solberg DALSAGER,Retur,0,,12,Stine BROLØS
+83,748238,32.02,,SJE,Udvisning,,14,Louise ELLEBÆK,,,,,
+84,748238,32.22,,SKB,Skud forbi,ST,26,Christina HANSEN,,,,12,Stine BROLØS
+85,748238,32.54,16-23,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,7,Melissa PETRÉN,1,Isabella MATHORNE
+86,748238,33.16,,SKB,Skud reddet,VB,11,Mia LAGUMDZIJA,,,,12,Stine BROLØS
+87,748238,33.58,,SJE,Skud reddet,HF,6,Lea HANSEN,,,,1,Isabella MATHORNE
+88,748238,34.27,,SKB,Skud reddet,Gbr,44,Nicoline LAURITSEN,,,,12,Stine BROLØS
+89,748238,34.34,16-24,SJE,Mål,1:e,17,June BØTTGER,Assist,31,Ida-Marie DAHL,1,Isabella MATHORNE
+90,748238,35.30,17-24,SKB,Mål,PL,20,Suna HANSEN,,,,12,Stine BROLØS
+91,748238,35.40,,SJE,Skud reddet,2:e,6,Lea HANSEN,,,,1,Isabella MATHORNE
+92,748238,36.14,,SKB,Skud reddet,PL,20,Suna HANSEN,,,,12,Stine BROLØS
+93,748238,36.17,17-25,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,10,Nicoline OLSEN,1,Isabella MATHORNE
+94,748238,36.44,18-25,SKB,Mål,HB,16,Anna Mathilde Nordvig HANSEN,,,,12,Stine BROLØS
+95,748238,37.35,18-26,SJE,Mål,VF,17,June BØTTGER,Assist,28,Sarah PAULSEN,1,Isabella MATHORNE
+96,748238,37.44,,SKB,Regelfejl,,20,Suna HANSEN,,,,,
+97,748238,38.12,18-27,SJE,Mål,HB,10,Nicoline OLSEN,,,,1,Isabella MATHORNE
+98,748238,38.48,19-27,SKB,Mål,Gbr,7,Annika Solberg DALSAGER,,,,12,Stine BROLØS
+99,748238,39.25,,SJE,Skud på stolpe,ST,22,Olivia SIMONSEN,,,,1,Isabella MATHORNE
+100,748238,39.34,,SKB,Time out,,,,,,,,
+101,748238,39.50,,SKB,Skud blokeret,HB,16,Anna Mathilde Nordvig HANSEN,Blokeret af,14,Louise ELLEBÆK,,
+102,748238,40.19,19-28,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,7,Melissa PETRÉN,1,Isabella MATHORNE
+103,748238,40.38,,SKB,Skud reddet,VF,6,Josefine Kaae LARSEN,,,,12,Stine BROLØS
+104,748238,41.22,19-29,SJE,Mål,,,,,,,,
+105,748238,42.19,,SKB,Skud reddet,ST,26,Christina HANSEN,,,,12,Stine BROLØS
+106,748238,42.54,19-30,SJE,Mål,Gbr,7,Melissa PETRÉN,Assist,10,Nicoline OLSEN,1,Isabella MATHORNE
+107,748238,43.31,,SKB,Skud reddet,Gbr,11,Mia LAGUMDZIJA,,,,12,Stine BROLØS
+108,748238,43.36,19-31,SJE,Mål,,22,Olivia SIMONSEN,,,,0,
+109,748238,44.11,,SKB,Skud på stolpe,VF,6,Josefine Kaae LARSEN,,,,12,Stine BROLØS
+110,748238,45.01,,SJE,Skud på stolpe,VB,7,Melissa PETRÉN,,,,1,Isabella MATHORNE
+111,748238,45.32,,SKB,Skud reddet,Gbr,11,Mia LAGUMDZIJA,,,,12,Stine BROLØS
+112,748238,46.14,,SJE,Skud forbi,HF,5,Sidsel Mygil MATTESEN,,,,1,Isabella MATHORNE
+113,748238,46.41,,SKB,Skud reddet,VF,25,Astrid LYNNERUP,,,,12,Stine BROLØS
+114,748238,46.51,,SJE,Time out,,,,,,,,
+115,748238,47.12,,SJE,Skud reddet,ST,15,Sara IBRANOVIC,,,,1,Isabella MATHORNE
+116,748238,47.26,,SKB,Tilkendt straffe,,14,Verona REXHEPI,Forårs. str.,5,Sidsel Mygil MATTESEN,,
+117,748238,47.35,20-31,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,26,Nora PERSSON
+118,748238,48.13,,SJE,Skud reddet,ST,31,Ida-Marie DAHL,Retur,5,Sidsel Mygil MATTESEN,1,Isabella MATHORNE
+119,748238,48.17,,SJE,Skud reddet,Gbr,5,Sidsel Mygil MATTESEN,,,,1,Isabella MATHORNE
+120,748238,48.58,,SKB,Skud på stolpe,HF,22,Anne-Sofie FILTENBORG,,,,26,Nora PERSSON
+121,748238,49.31,,SJE,Skud på stolpe,HF,5,Sidsel Mygil MATTESEN,,,,1,Isabella MATHORNE
+122,748238,49.57,,SKB,Skud reddet,VB,14,Verona REXHEPI,,,,26,Nora PERSSON
+123,748238,50.03,20-32,SJE,Mål,1:e,5,Sidsel Mygil MATTESEN,Assist,26,Nora PERSSON,0,
+124,748238,50.41,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,31,Ida-Marie DAHL,,
+125,748238,50.44,20-33,SJE,Mål,1:e,31,Ida-Marie DAHL,,,,0,
+126,748238,50.49,,SKB,Time out,,,,,,,,
+127,748238,51.15,,SJE,Udvisning,,10,Nicoline OLSEN,,,,,
+128,748238,51.30,,SKB,Skud reddet,HF,22,Anne-Sofie FILTENBORG,,,,26,Nora PERSSON
+129,748238,52.04,,SJE,Skud reddet,HB,7,Melissa PETRÉN,,,,1,Isabella MATHORNE
+130,748238,52.09,21-33,SKB,Mål,1:e,14,Verona REXHEPI,,,,0,
+131,748238,52.52,,SJE,Skud reddet,Gbr,14,Louise ELLEBÆK,,,,1,Isabella MATHORNE
+132,748238,53.11,,SKB,Skud reddet,PL,7,Annika Solberg DALSAGER,,,,26,Nora PERSSON
+133,748238,53.44,,SJE,Skud reddet,PL,14,Louise ELLEBÆK,,,,1,Isabella MATHORNE
+134,748238,53.58,22-33,SKB,Mål,2:e,22,Anne-Sofie FILTENBORG,Assist,7,Annika Solberg DALSAGER,26,Nora PERSSON
+135,748238,54.20,,SJE,Regelfejl,,15,Sara IBRANOVIC,,,,,
+136,748238,54.46,23-33,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,44,Nicoline LAURITSEN,26,Nora PERSSON
+137,748238,55.31,,SJE,Skud reddet,VB,7,Melissa PETRÉN,,,,1,Isabella MATHORNE
+138,748238,56.13,,SKB,Skud reddet,Gbr,14,Verona REXHEPI,,,,26,Nora PERSSON
+139,748238,56.23,,SJE,Tabt bold,,28,Sarah PAULSEN,,,,,
+140,748238,56.31,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,,,,,
+141,748238,57.10,23-34,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,1,Isabella MATHORNE
+142,748238,57.20,,SKB,Fejlaflevering,,7,Annika Solberg DALSAGER,Bold erobret,28,Sarah PAULSEN,,
+143,748238,57.30,,SJE,Skud på stolpe,1:e,14,Louise ELLEBÆK,,,,1,Isabella MATHORNE
+144,748238,57.58,24-34,SKB,Mål,Gbr,14,Verona REXHEPI,Assist,44,Nicoline LAURITSEN,26,Nora PERSSON
+145,748238,58.24,,SJE,Skud reddet,Gbr,28,Sarah PAULSEN,,,,1,Isabella MATHORNE
+146,748238,58.36,,SKB,Tilkendt straffe,,10,Filippa NEDOVIC,Forårs. str.,14,Louise ELLEBÆK,,
+147,748238,58.56,25-34,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,26,Nora PERSSON
+148,748238,59.28,25-35,SJE,Mål,Gbr,10,Nicoline OLSEN,Assist,28,Sarah PAULSEN,1,Isabella MATHORNE
+149,748238,59.41,26-35,SKB,Mål,Gbr,44,Nicoline LAURITSEN,Assist,7,Annika Solberg DALSAGER,26,Nora PERSSON
+150,748238,59.59,,SJE,Skud reddet,PL,28,Sarah PAULSEN,,,,1,Isabella MATHORNE

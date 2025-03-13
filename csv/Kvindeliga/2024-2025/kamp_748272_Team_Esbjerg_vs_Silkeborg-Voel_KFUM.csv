@@ -1,0 +1,158 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748272,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748272,0.40,,TES,Skud på stolpe,VB,22,Line HAUGSTED,,,,16,Anna VENG
+3,748272,1.16,,SVK,Fejlaflevering,,31,Andrea West BENDTSEN,Bold erobret,3,Kaja Kamp NIELSEN,,
+4,748272,1.50,1-0,TES,Mål,Gbr,22,Line HAUGSTED,,,,16,Anna VENG
+5,748272,2.32,,SVK,Fejlaflevering,,31,Andrea West BENDTSEN,Bold erobret,3,Kaja Kamp NIELSEN,,
+6,748272,2.35,,TES,Skud forbi,1:e,14,Judith VAN DER HELM,,,,0,
+7,748272,3.06,,SVK,Fejlaflevering,,6,Thea RASMUSSEN,Bold erobret,24,Sanna SOLBERG,,
+8,748272,3.09,2-0,TES,Mål,1:e,24,Sanna SOLBERG,,,,0,
+9,748272,3.38,,SVK,Skud forbi,Gbr,4,Maria HOLM,,,,16,Amalie MILLING
+10,748272,3.48,3-0,TES,Mål,2:e,8,Live RUSHFELDT DEILA,,,,16,Anna VENG
+11,748272,4.09,3-1,SVK,Mål,VB,31,Andrea West BENDTSEN,,,,16,Amalie MILLING
+12,748272,4.15,4-1,TES,Mål,2:e,22,Line HAUGSTED,,,,0,
+13,748272,4.41,,SVK,Fejlaflevering,,6,Thea RASMUSSEN,,,,,
+14,748272,4.44,5-1,TES,Mål,1:e,4,Michala MØLLER,,,,0,
+15,748272,5.29,,SVK,Fejlaflevering,,6,Thea RASMUSSEN,Bold erobret,24,Sanna SOLBERG,,
+16,748272,5.32,6-1,TES,Mål,1:e,24,Sanna SOLBERG,,,,0,
+17,748272,6.33,,SVK,Skud reddet,VF,7,Maja Munch LAURSEN,,,,16,Amalie MILLING
+18,748272,6.47,7-1,TES,Mål,2:e,29,Sarah DEKKER,Assist,8,Live RUSHFELDT DEILA,16,Anna VENG
+19,748272,6.56,,SVK,Skud reddet,2:e,4,Maria HOLM,,,,16,Amalie MILLING
+20,748272,7.06,8-1,TES,Mål,2:e,8,Live RUSHFELDT DEILA,,,,16,Anna VENG
+21,748272,7.17,,SVK,Time out,,,,,,,,
+22,748272,7.30,,SVK,Fejlaflevering,,27,Marigona HAJDARI,Bold erobret,24,Sanna SOLBERG,,
+23,748272,7.32,9-1,TES,Mål,1:e,24,Sanna SOLBERG,,,,0,
+24,748272,8.20,,SVK,Skud forbi,VB,31,Andrea West BENDTSEN,,,,16,Amalie MILLING
+25,748272,8.54,,TES,Skud reddet,ST,3,Kaja Kamp NIELSEN,,,,16,Anna VENG
+26,748272,9.25,,SVK,Skud på stolpe,VF,7,Maja Munch LAURSEN,,,,16,Amalie MILLING
+27,748272,9.53,10-1,TES,Mål,ST,3,Kaja Kamp NIELSEN,Assist,4,Michala MØLLER,16,Anna VENG
+28,748272,10.30,10-2,SVK,Mål,Gbr,6,Thea RASMUSSEN,Assist,4,Maria HOLM,16,Amalie MILLING
+29,748272,10.43,,TES,Fejlaflevering,,4,Michala MØLLER,,,,,
+30,748272,10.49,10-3,SVK,Mål,2:e,31,Andrea West BENDTSEN,,,,16,Amalie MILLING
+31,748272,11.28,,TES,Skud forbi,HF,29,Sarah DEKKER,,,,16,Anna VENG
+32,748272,11.57,,SVK,Skud reddet,PL,31,Andrea West BENDTSEN,,,,16,Amalie MILLING
+33,748272,12.05,,TES,Skud reddet,2:e,4,Michala MØLLER,,,,16,Anna VENG
+34,748272,12.20,,SVK,Skud reddet,PL,6,Thea RASMUSSEN,,,,16,Amalie MILLING
+35,748272,12.53,,SVK,Udvisning,,31,Andrea West BENDTSEN,,,,,
+36,748272,13.08,,TES,Skud reddet,HF,29,Sarah DEKKER,,,,16,Anna VENG
+37,748272,13.55,10-4,SVK,Mål,PL,4,Maria HOLM,,,,16,Amalie MILLING
+38,748272,14.18,,TES,Skud reddet,HF,29,Sarah DEKKER,,,,16,Anna VENG
+39,748272,15.00,,SVK,Skud forbi,PL,6,Thea RASMUSSEN,,,,16,Amalie MILLING
+40,748272,15.13,,TES,Regelfejl,,25,Henny REISTAD,,,,,
+41,748272,15.42,,SVK,Skud reddet,VB,6,Thea RASMUSSEN,,,,16,Amalie MILLING
+42,748272,15.52,11-4,TES,Mål,2:e,4,Michala MØLLER,,,,16,Anna VENG
+43,748272,16.37,,TES,Advarsel,,25,Henny REISTAD,,,,,
+44,748272,17.29,,SVK,Skud forbi,HB,4,Maria HOLM,,,,16,Amalie MILLING
+45,748272,17.32,,TES,Time out,,,,,,,,
+46,748272,17.56,12-4,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,,,,16,Anna VENG
+47,748272,18.41,,SVK,Skud blokeret,PL,11,Sara MADSEN,Blok af (ret),22,Line HAUGSTED,,
+48,748272,19.09,,SVK,Skud blokeret,PL,11,Sara MADSEN,Blok af (ret),8,Live RUSHFELDT DEILA,,
+49,748272,19.19,,SVK,Skud blokeret,HB,11,Sara MADSEN,Blokeret af,22,Line HAUGSTED,,
+50,748272,19.23,13-4,TES,Mål,2:e,22,Line HAUGSTED,,,,16,Anna VENG
+51,748272,19.34,13-5,SVK,Mål,2:e,6,Thea RASMUSSEN,,,,16,Amalie MILLING
+52,748272,20.04,14-5,TES,Mål,Gbr,4,Michala MØLLER,Assist,3,Kaja Kamp NIELSEN,16,Anna VENG
+53,748272,20.41,,SVK,Skud på stolpe,ST,15,Karen KLOKKER,,,,16,Amalie MILLING
+54,748272,20.52,,TES,Skud på stolpe,2:e,29,Sarah DEKKER,,,,16,Anna VENG
+55,748272,20.57,,SVK,Time out,,,,,,,,
+56,748272,21.18,,SVK,Skud reddet,PL,11,Sara MADSEN,,,,16,Amalie MILLING
+57,748272,21.24,15-5,TES,Mål,1:e,25,Henny REISTAD,Assist,16,Amalie MILLING,16,Anna VENG
+58,748272,22.04,,SVK,Fejlaflevering,,11,Sara MADSEN,,,,,
+59,748272,22.31,16-5,TES,Mål,Gbr,4,Michala MØLLER,Assist,25,Henny REISTAD,16,Anna VENG
+60,748272,23.15,,SVK,Fejlaflevering,,11,Sara MADSEN,,,,,
+61,748272,23.20,17-5,TES,Mål,1:e,25,Henny REISTAD,Assist,8,Live RUSHFELDT DEILA,16,Anna VENG
+62,748272,23.54,,SVK,Skud på stolpe,VF,21,Maja EDLING,,,,16,Amalie MILLING
+63,748272,24.25,18-5,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,Assist,24,Sanna SOLBERG,16,Anna VENG
+64,748272,24.58,,SVK,Skud blokeret,PL,11,Sara MADSEN,Blokeret af,22,Line HAUGSTED,,
+65,748272,25.34,19-5,TES,Mål,HF,29,Sarah DEKKER,Assist,4,Michala MØLLER,16,Anna VENG
+66,748272,26.05,19-6,SVK,Mål,VB,6,Thea RASMUSSEN,,,,16,Amalie MILLING
+67,748272,26.36,20-6,TES,Mål,ST,11,Rikke IVERSEN,Assist,8,Live RUSHFELDT DEILA,16,Anna VENG
+68,748272,27.09,,SVK,Fejlaflevering,,4,Maria HOLM,,,,,
+69,748272,27.17,,TES,Skud forbi,PL,8,Live RUSHFELDT DEILA,,,,16,Anna VENG
+70,748272,27.43,20-7,SVK,Mål,Gbr,6,Thea RASMUSSEN,,,,16,Amalie MILLING
+71,748272,28.10,21-7,TES,Mål,HF,29,Sarah DEKKER,Assist,4,Michala MØLLER,16,Anna VENG
+72,748272,28.41,,SVK,Fejlaflevering,,31,Andrea West BENDTSEN,,,,,
+73,748272,28.43,22-7,TES,Mål,1:e,25,Henny REISTAD,,,,16,Anna VENG
+74,748272,28.53,,SVK,Skud på stolpe,2:e,23,Thilde FRANDSEN,,,,16,Amalie MILLING
+75,748272,29.20,23-7,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,,,,16,Anna VENG
+76,748272,29.50,,SVK,Skud blokeret,VB,31,Andrea West BENDTSEN,Blok af (ret),22,Line HAUGSTED,,
+77,748272,30.00,23-7,TES,Halvleg,,,,,,,,
+78,748272,30.00,,,Start 2:e halvleg,,,,,,,,
+79,748272,30.27,23-8,SVK,Mål,PL,3,Isabella POULSEN,,,,12,Anna KRISTENSEN
+80,748272,30.39,24-8,TES,Mål,PL,14,Judith VAN DER HELM,,,,22,Stine BONDE
+81,748272,31.32,,SVK,Skud blokeret,PL,4,Maria HOLM,Blokeret af,14,Judith VAN DER HELM,,
+82,748272,32.05,,TES,Regelfejl,,8,Live RUSHFELDT DEILA,,,,,
+83,748272,32.15,,SVK,Tilkendt straffe,,4,Maria HOLM,Forårs. str.,14,Judith VAN DER HELM,,
+84,748272,32.15,,TES,Udvisning,,14,Judith VAN DER HELM,,,,,
+85,748272,32.22,,SVK,Straffekast reddet,,21,Maja EDLING,Retur,0,,12,Anna KRISTENSEN
+86,748272,32.24,,SVK,Skud reddet,ST,21,Maja EDLING,Retur,0,,12,Anna KRISTENSEN
+87,748272,32.59,,SVK,Skud på stolpe,HF,19,Laura Galle HANSEN,,,,12,Anna KRISTENSEN
+88,748272,33.46,,TES,Skud på stolpe,ST,11,Rikke IVERSEN,,,,22,Stine BONDE
+89,748272,34.06,24-9,SVK,Mål,Gbr,6,Thea RASMUSSEN,,,,12,Anna KRISTENSEN
+90,748272,34.35,25-9,TES,Mål,Gbr 14,Judith VAN DER HELM,,,,,22,Stine BONDE
+91,748272,34.43,,SVK,Skud reddet,2:e,4,Maria HOLM,,,,12,Anna KRISTENSEN
+92,748272,34.49,26-9,TES,Mål,1:e,29,Sarah DEKKER,Assist,8,Live RUSHFELDT DEILA,22,Stine BONDE
+93,748272,35.31,,SVK,Regelfejl,,13,Mathilde KRISTENSEN,,,,,
+94,748272,35.32,27-9,TES,Mål,2:e,11,Rikke IVERSEN,Assist,4,Michala MØLLER,22,Stine BONDE
+95,748272,35.56,,SVK,Skud reddet,PL,6,Thea RASMUSSEN,,,,12,Anna KRISTENSEN
+96,748272,36.04,28-9,TES,Mål,2:e,17,Elin HANSSON,,,,22,Stine BONDE
+97,748272,36.37,,SVK,Skud på stolpe,PL,4,Maria HOLM,,,,12,Anna KRISTENSEN
+98,748272,36.47,,TES,Regelfejl,,11,Rikke IVERSEN,,,,,
+99,748272,36.55,,SVK,Skud reddet,HF,19,Laura Galle HANSEN,,,,12,Anna KRISTENSEN
+100,748272,37.27,,TES,Skud reddet,PL,14,Judith VAN DER HELM,Retur,0,,22,Stine BONDE
+101,748272,37.35,,TES,Skud reddet,ST,3,Kaja Kamp NIELSEN,,,,22,Stine BONDE
+102,748272,37.45,,SVK,Skud reddet,VF,21,Maja EDLING,,,,12,Anna KRISTENSEN
+103,748272,37.54,,TES,Skud på stolpe,2:e,29,Sarah DEKKER,,,,22,Stine BONDE
+104,748272,38.39,,,,,,,,,,,
+105,748272,39.16,,TES,Skud forbi,PL,4,Michala MØLLER,,,,22,Stine BONDE
+106,748272,39.53,28-10,SVK,Mål,HF,19,Laura Galle HANSEN,Assist,4,Maria HOLM,12,Anna KRISTENSEN
+107,748272,40.32,,TES,Skud reddet,Gbr,14,Judith VAN DER HELM,,,,22,Stine BONDE
+108,748272,40.39,28-11,SVK,Mål,2:e,13,Mathilde KRISTENSEN,Assist,3,Isabella POULSEN,12,Anna KRISTENSEN
+109,748272,41.20,,TES,Tabt bold,,4,Michala MØLLER,,,,,
+110,748272,41.25,,SVK,Skud reddet,1:e,21,Maja EDLING,,,,12,Anna KRISTENSEN
+111,748272,41.55,,TES,Skud reddet,HB,14,Judith VAN DER HELM,,,,22,Stine BONDE
+112,748272,42.01,28-12,SVK,Mål,1:e,21,Maja EDLING,Assist,31,Andrea West BENDTSEN,12,Anna KRISTENSEN
+113,748272,42.06,,TES,Time out,,,,,,,,
+114,748272,42.28,29-12,TES,Mål,HF,29,Sarah DEKKER,Assist,14,Judith VAN DER HELM,22,Stine BONDE
+115,748272,42.39,,SVK,Skud blokeret,PL,31,Andrea West BENDTSEN,Blokeret af,22,Line HAUGSTED,,
+116,748272,42.47,,TES,Skud reddet,1:e,25,Henny REISTAD,,,,22,Stine BONDE
+117,748272,43.45,29-13,SVK,Mål,PL,3,Isabella POULSEN,,,,12,Anna KRISTENSEN
+118,748272,44.16,30-13,TES,Mål,Gbr,4,Michala MØLLER,,,,22,Stine BONDE
+119,748272,44.26,,SVK,Fejlaflevering,,31,Andrea West BENDTSEN,,,,,
+120,748272,44.30,,TES,Skud forbi,1:e,3,Kaja Kamp NIELSEN,,,,22,Stine BONDE
+121,748272,45.11,,SVK,Fejlaflevering,,27,Marigona HAJDARI,,,,,
+122,748272,45.57,31-13,TES,Mål,Gbr,25,Henny REISTAD,,,,22,Stine BONDE
+123,748272,46.56,31-14,SVK,Mål,PL,4,Maria HOLM,,,,12,Anna KRISTENSEN
+124,748272,47.31,32-14,TES,Mål,VF,17,Elin HANSSON,Assist,8,Live RUSHFELDT DEILA,22,Stine BONDE
+125,748272,47.41,32-15,SVK,Mål,2:e,4,Maria HOLM,Assist,31,Andrea West BENDTSEN,12,Anna KRISTENSEN
+126,748272,48.11,,TES,Regelfejl,,3,Kaja Kamp NIELSEN,,,,,
+127,748272,48.52,32-16,SVK,Mål,Gbr,3,Isabella POULSEN,,,,12,Anna KRISTENSEN
+128,748272,49.33,33-16,TES,Mål,Gbr,25,Henny REISTAD,,,,22,Stine BONDE
+129,748272,49.40,33-17,SVK,Mål,2:e,4,Maria HOLM,,,,12,Anna KRISTENSEN
+130,748272,50.08,34-17,TES,Mål,Gbr,25,Henny REISTAD,,,,22,Stine BONDE
+131,748272,50.51,,SVK,Tilkendt straffe,,4,Maria HOLM,Forårs. str.,17,Elin HANSSON,,
+132,748272,51.12,34-18,SVK,Mål på straffe,,21,Maja EDLING,,,,12,Anna KRISTENSEN
+133,748272,51.53,35-18,TES,Mål,ST,11,Rikke IVERSEN,Assist,25,Henny REISTAD,22,Stine BONDE
+134,748272,52.40,,SVK,Tilkendt straffe,,27,Marigona HAJDARI,Forårs. str.,4,Michala MØLLER,,
+135,748272,52.58,,SVK,Straffekast reddet,,21,Maja EDLING,,,,12,Anna KRISTENSEN
+136,748272,53.13,,TES,Time out,,,,,,,,
+137,748272,53.30,,TES,Skud reddet,ST,3,Kaja Kamp NIELSEN,,,,22,Stine BONDE
+138,748272,53.41,,SVK,Skud reddet,1:e,15,Karen KLOKKER,Retur,0,,12,Anna KRISTENSEN
+139,748272,54.10,,SVK,Skud på stolpe,VF,7,Maja Munch LAURSEN,,,,12,Anna KRISTENSEN
+140,748272,54.51,,TES,Tilkendt straffe,,8,Live RUSHFELDT DEILA,Forårs. str.,11,Sara MADSEN,,
+141,748272,55.06,,TES,Straffekast på stolpe,,25,Henny REISTAD,Retur,0,,22,Stine BONDE
+142,748272,55.09,36-18,TES,Mål,ST,25,Henny REISTAD,,,,22,Stine BONDE
+143,748272,55.11,,SVK,Time out,,,,,,,,
+144,748272,55.58,,SVK,Skud på stolpe,HB,11,Sara MADSEN,Retur,0,,12,Anna KRISTENSEN
+145,748272,56.42,36-19,SVK,Mål,ST,8,Maria JACOBSEN,Assist,27,Marigona HAJDARI,12,Anna KRISTENSEN
+146,748272,57.13,37-19,TES,Mål,Gbr,25,Henny REISTAD,,,,22,Stine BONDE
+147,748272,57.23,,SVK,Skud reddet,2:e,21,Maja EDLING,,,,12,Anna KRISTENSEN
+148,748272,57.57,38-19,TES,Mål,ST,17,Elin HANSSON,Assist,25,Henny REISTAD,22,Stine BONDE
+149,748272,58.32,38-20,SVK,Mål,VF,21,Maja EDLING,Assist,27,Marigona HAJDARI,12,Anna KRISTENSEN
+150,748272,59.05,,TES,Skud reddet,VF,17,Elin HANSSON,,,,22,Stine BONDE
+151,748272,59.14,,SVK,Fejlaflevering,,6,Thea RASMUSSEN,,,,,
+152,748272,59.39,39-20,TES,Mål,Gbr,25,Henny REISTAD,,,,22,Stine BONDE
+153,748272,59.50,,SVK,Regelfejl,,11,Sara MADSEN,,,,,
+154,748272,59.56,40-20,TES,Mål,,,,,,,,
+155,748272,60.00,40-20,,Mål,2:e,17,Elin HANSSON,Assist,22,Line HAUGSTED,22,Stine BONDE
+156,748272,60.00,,,Fuld tid,,,,,,,,
+157,748272,60.00,,,Kamp slut,,,,,,,,

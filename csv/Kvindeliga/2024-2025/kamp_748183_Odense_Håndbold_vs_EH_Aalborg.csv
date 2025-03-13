@@ -1,0 +1,140 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748183,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748183,0.31,1-0,ODE,Mål,ST,20,Lysa DEFO,Assist,32,Mie HØJLUND,16,Johanne GRAUGAARD
+3,748183,1.19,,EHA,Skud reddet,Gbr,5,Anna BANG,,,,16,Althea REINHARDT
+4,748183,1.26,2-0,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,32,Mie HØJLUND,16,Johanne GRAUGAARD
+5,748183,2.11,,EHA,Skud reddet,PL,21,Frederikke GULMARK,,,,16,Althea REINHARDT
+6,748183,2.22,,ODE,Regelfejl,,28,Clara Skyum THOMSEN,,,,,
+7,748183,2.31,,EHA,Skud reddet,2:e,30,Clara LERBY,,,,16,Althea REINHARDT
+8,748183,3.17,,ODE,Fejlaflevering,,68,Helena ELVER,,,,,
+9,748183,4.37,,EHA,Passivt spil,,0,,,,,,
+10,748183,5.04,3-0,ODE,Mål,HB,28,Clara Skyum THOMSEN,,,,16,Johanne GRAUGAARD
+11,748183,5.15,3-1,EHA,Mål,Gbr,10,Sofie LASSEN,Assist,5,Anna BANG,16,Althea REINHARDT
+12,748183,5.24,,ODE,Skud reddet,PL,33,Thale Rushfeldt DEILA,Retur,0,,16,Johanne GRAUGAARD
+13,748183,5.54,,ODE,Skud reddet,HB,28,Clara Skyum THOMSEN,,,,16,Johanne GRAUGAARD
+14,748183,5.59,,EHA,Fejlaflevering,,10,Sofie LASSEN,,,,,
+15,748183,6.39,,ODE,Skud reddet,PL,32,Mie HØJLUND,,,,16,Johanne GRAUGAARD
+16,748183,7.17,,EHA,Tabt bold,,7,Marlene DAHLMANN,,,,,
+17,748183,7.26,4-1,ODE,Mål,2:e,6,Malin AUNE,Assist,28,Clara Skyum THOMSEN,16,Johanne GRAUGAARD
+18,748183,8.05,,EHA,Skud reddet,PL,23,Silje BRØNS,Retur,0,,16,Althea REINHARDT
+19,748183,8.09,4-2,EHA,Mål,Gbr,23,Silje BRØNS,Assist,30,Clara LERBY,16,Althea REINHARDT
+20,748183,8.53,5-2,ODE,Mål,HF,6,Malin AUNE,Assist,68,Helena ELVER,16,Johanne GRAUGAARD
+21,748183,9.02,,EHA,Regelfejl,,5,Anna BANG,,,,,
+22,748183,9.58,6-2,ODE,Mål,Gbr,32,Mie HØJLUND,Assist,28,Clara Skyum THOMSEN,16,Johanne GRAUGAARD
+23,748183,10.20,,EHA,Time out,,,,,,,,
+24,748183,10.53,,EHA,Skud reddet,VB,21,Frederikke GULMARK,,,,16,Althea REINHARDT
+25,748183,11.00,7-2,ODE,Mål,2:e,33,Thale Rushfeldt DEILA,,,,16,Johanne GRAUGAARD
+26,748183,11.14,,ODE,Advarsel,,28,Clara Skyum THOMSEN,,,,,
+27,748183,11.34,,EHA,Fejlaflevering,,21,Frederikke GULMARK,,,,,
+28,748183,11.42,,ODE,Skud reddet,1:e,32,Mie HØJLUND,,,,16,Johanne GRAUGAARD
+29,748183,12.17,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+30,748183,12.52,,ODE,Skud reddet,ST,20,Lysa DEFO,,,,16,Johanne GRAUGAARD
+31,748183,14.07,7-3,EHA,Mål,PL,23,Silje BRØNS,,,,16,Althea REINHARDT
+32,748183,14.19,8-3,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,Assist,20,Lysa DEFO,16,Johanne GRAUGAARD
+33,748183,14.52,8-4,EHA,Mål,ST,9,Camilla THORHAUGE,Assist,23,Silje BRØNS,16,Althea REINHARDT
+34,748183,15.27,,ODE,Tabt bold,,28,Clara Skyum THOMSEN,Bold erobret,9,Camilla THORHAUGE,,
+35,748183,15.31,8-5,EHA,Mål,1:e,9,Camilla THORHAUGE,,,,16,Althea REINHARDT
+36,748183,16.00,,ODE,Skud reddet,VB,22,Ragnhild DAHL,Retur,0,,16,Johanne GRAUGAARD
+37,748183,16.20,9-5,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,16,Johanne GRAUGAARD
+38,748183,16.50,,EHA,Fejlaflevering,,3,Liv SVEINBJØRNSDÓTTIR,,,,,
+39,748183,17.02,10-5,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,16,Johanne GRAUGAARD
+40,748183,17.39,10-6,EHA,Mål,Gbr,8,Tine GEERTSEN,,,,16,Althea REINHARDT
+41,748183,18.09,11-6,ODE,Mål,PL,22,Ragnhild DAHL,,,,16,Johanne GRAUGAARD
+42,748183,18.22,,EHA,Skud forbi,PL,10,Sofie LASSEN,,,,16,Althea REINHARDT
+43,748183,19.28,,ODE,Skud forbi,Gbr,8,Helene FAUSKE,,,,16,Johanne GRAUGAARD
+44,748183,19.54,,EHA,Skud på stolpe,Gbr,8,Tine GEERTSEN,,,,16,Althea REINHARDT
+45,748183,20.02,12-6,ODE,Mål,2:e,33,Thale Rushfeldt DEILA,,,,16,Johanne GRAUGAARD
+46,748183,20.33,,EHA,Skud forbi,HF,7,Marlene DAHLMANN,,,,16,Althea REINHARDT
+47,748183,21.04,,ODE,Regelfejl,,10,Anna GRUNDTVIG,,,,,
+48,748183,21.58,,EHA,Regelfejl,,9,Camilla THORHAUGE,,,,,
+49,748183,22.41,13-6,ODE,Mål,HF,28,Clara Skyum THOMSEN,Assist,8,Helene FAUSKE,16,Johanne GRAUGAARD
+50,748183,22.56,,EHA,Skud reddet,VF,30,Clara LERBY,,,,16,Althea REINHARDT
+51,748183,23.09,,ODE,Time out,,,,,,,,
+52,748183,23.18,,ODE,Tilkendt straffe,,44,Nikita Van Der VLIET,Forårs. str.,22,Mirja LYNGSØ,,
+53,748183,23.18,,EHA,Advarsel,,22,Mirja LYNGSØ,,,,,
+54,748183,23.39,14-6,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,16,Johanne GRAUGAARD
+55,748183,24.12,,EHA,Skud forbi,VF,17,Lin JOHANNSEN,,,,16,Althea REINHARDT
+56,748183,24.21,15-6,ODE,Mål,2:e,8,Helene FAUSKE,,,,1,Annika FRIDHEIM
+57,748183,25.07,15-7,EHA,Mål,VF,17,Lin JOHANNSEN,Assist,21,Frederikke GULMARK,16,Althea REINHARDT
+58,748183,25.39,,ODE,Skud forbi,VB,22,Ragnhild DAHL,,,,1,Annika FRIDHEIM
+59,748183,26.08,,EHA,Regelfejl,,9,Camilla THORHAUGE,,,,,
+60,748183,26.13,16-7,ODE,Mål,1:e,8,Helene FAUSKE,,,,0,
+61,748183,26.37,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+62,748183,26.46,17-7,ODE,Mål,1:e,33,Thale Rushfeldt DEILA,,,,0,
+63,748183,27.36,,EHA,Skud blokeret,PL,5,Anna BANG,Blokeret af,33,Thale Rushfeldt DEILA,,
+64,748183,27.44,18-7,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,28,Clara Skyum THOMSEN,1,Annika FRIDHEIM
+65,748183,28.32,,EHA,Tabt bold,,21,Frederikke GULMARK,Bold erobret,44,Nikita Van Der VLIET,,
+66,748183,28.40,,ODE,Regelfejl,,33,Thale Rushfeldt DEILA,,,,,
+67,748183,29.11,,EHA,Skud reddet,HB,5,Anna BANG,,,,16,Althea REINHARDT
+68,748183,29.48,,ODE,Tilkendt straffe,,8,Helene FAUSKE,Forårs. str.,22,Mirja LYNGSØ,,
+69,748183,30.00,19-7,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,1,Annika FRIDHEIM
+70,748183,30.00,19-7,,Halvleg,,,,,,,,
+71,748183,30.00,,,Start 2:e halvleg,,,,,,,,
+72,748183,30.47,,EHA,Fejlaflevering,,21,Frederikke GULMARK,,,,,
+73,748183,30.55,20-7,ODE,Mål,2:e,20,Lysa DEFO,Assist,28,Clara Skyum THOMSEN,1,Annika FRIDHEIM
+74,748183,31.45,20-8,EHA,Mål,PL,23,Silje BRØNS,,,,38,Yara TEN HOLTE
+75,748183,32.16,21-8,ODE,Mål,ST,20,Lysa DEFO,Assist,68,Helena ELVER,1,Annika FRIDHEIM
+76,748183,32.48,21-9,EHA,Mål,Gbr,23,Silje BRØNS,,,,38,Yara TEN HOLTE
+77,748183,33.01,,ODE,Skud reddet,2:e,33,Thale Rushfeldt DEILA,,,,1,Annika FRIDHEIM
+78,748183,33.11,21-10,EHA,Mål,VF,5,Anna BANG,,,,38,Yara TEN HOLTE
+79,748183,33.15,,ODE,Udvisning,,32,Mie HØJLUND,,,,,
+80,748183,33.53,22-10,ODE,Mål,PL,33,Thale Rushfeldt DEILA,,,,1,Annika FRIDHEIM
+81,748183,34.20,,EHA,Skud reddet,Gbr,5,Anna BANG,,,,38,Yara TEN HOLTE
+82,748183,34.51,23-10,ODE,Mål,ST,20,Lysa DEFO,Assist,28,Clara Skyum THOMSEN,1,Annika FRIDHEIM
+83,748183,35.14,,EHA,Skud på stolpe,ST,9,Camilla THORHAUGE,,,,38,Yara TEN HOLTE
+84,748183,35.57,,ODE,Skud reddet,PL,68,Helena ELVER,,,,1,Annika FRIDHEIM
+85,748183,36.51,,EHA,Regelfejl,,4,Cecilie TERMANSEN,,,,,
+86,748183,37.52,24-10,ODE,Mål,Gbr,32,Mie HØJLUND,,,,1,Annika FRIDHEIM
+87,748183,38.26,24-11,EHA,Mål,HF,28,Maiken SKOV,Assist,23,Silje BRØNS,38,Yara TEN HOLTE
+88,748183,38.59,25-11,ODE,Mål,PL,28,Clara Skyum THOMSEN,,,,1,Annika FRIDHEIM
+89,748183,39.09,25-12,EHA,Mål,2:e,21,Frederikke GULMARK,,,,38,Yara TEN HOLTE
+90,748183,39.52,26-12,ODE,Mål,PL,8,Helene FAUSKE,,,,1,Annika FRIDHEIM
+91,748183,40.29,,EHA,Skud reddet,HF,28,Maiken SKOV,,,,38,Yara TEN HOLTE
+92,748183,40.35,,EHA,Udvisning,,6,Isabella SØRENSEN,,,,,
+93,748183,41.10,,ODE,Skud forbi,VB,22,Ragnhild DAHL,,,,1,Annika FRIDHEIM
+94,748183,41.41,,EHA,Tabt bold,,5,Anna BANG,,,,,
+95,748183,41.46,27-12,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,8,Helene FAUSKE,0,
+96,748183,42.17,,EHA,Fejlaflevering,,5,Anna BANG,,,,,
+97,748183,42.37,,ODE,Fejlaflevering,,8,Helene FAUSKE,,,,,
+98,748183,42.53,,EHA,Time out,,,,,,,,
+99,748183,43.19,,EHA,Regelfejl,,3,Liv SVEINBJØRNSDÓTTIR,,,,,
+100,748183,43.28,28-12,ODE,Mål,2:e,22,Ragnhild DAHL,,,,16,Johanne GRAUGAARD
+101,748183,43.54,,EHA,Fejlaflevering,,23,Silje BRØNS,Bold erobret,10,Anna GRUNDTVIG,,
+102,748183,44.02,,ODE,Skud på stolpe,1:e,8,Helene FAUSKE,,,,0,
+103,748183,44.39,,EHA,Skud reddet,HF,28,Maiken SKOV,,,,38,Yara TEN HOLTE
+104,748183,44.47,,,,,,,,,,,
+105,748183,45.04,,ODE,Skud reddet,VB,8,Helene FAUSKE,Retur,0,16,16,Johanne GRAUGAARD
+106,748183,45.20,,ODE,Fejlaflevering,,28,Clara Skyum THOMSEN,,,,,
+107,748183,45.52,28-13,EHA,Mål,Gbr,8,Tine GEERTSEN,,,,38,Yara TEN HOLTE
+108,748183,46.17,,EHA,Udvisning,,4,Cecilie TERMANSEN,,,,,
+109,748183,46.51,,ODE,Regelfejl,,28,Clara Skyum THOMSEN,,,,,
+110,748183,47.26,28-14,EHA,Mål,Gbr,23,Silje BRØNS,,,,38,Yara TEN HOLTE
+111,748183,47.47,29-14,ODE,Mål,HF,6,Malin AUNE,Assist,8,Helene FAUSKE,16,Johanne GRAUGAARD
+112,748183,48.22,,EHA,Skud reddet,Gbr,3,Liv SVEINBJØRNSDÓTTIR,,,,38,Yara TEN HOLTE
+113,748183,48.56,30-14,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,16,Johanne GRAUGAARD
+114,748183,49.28,,EHA,Skud reddet,HB,23,Silje BRØNS,Retur,0,,38,Yara TEN HOLTE
+115,748183,49.35,,EHA,Regelfejl,,22,Mirja LYNGSØ,,,,,
+116,748183,50.04,,ODE,Regelfejl,,28,Clara Skyum THOMSEN,,,,,
+117,748183,50.32,30-15,EHA,Mål,HF,28,Maiken SKOV,Assist,23,Silje BRØNS,38,Yara TEN HOLTE
+118,748183,50.40,,ODE,Time out,,,,,,,,
+119,748183,50.58,,ODE,Skud forbi,HF,44,Nikita Van Der VLIET,,,,16,Johanne GRAUGAARD
+120,748183,51.38,,EHA,Tabt bold,,4,Cecilie TERMANSEN,,,,,
+121,748183,52.28,,ODE,Tilkendt straffe,,20,Lysa DEFO,Forårs. str.,4,Cecilie TERMANSEN,,
+122,748183,52.28,,EHA,Udvisning,,4,Cecilie TERMANSEN,,,,,
+123,748183,52.31,31-15,ODE,Mål på straffe,,8,Helene FAUSKE,,,,16,Johanne GRAUGAARD
+124,748183,53.34,,EHA,Skud blokeret,PL,23,Silje BRØNS,Blok af (ret),20,Lysa DEFO,,
+125,748183,53.50,,EHA,Tilkendt straffe,,8,Tine GEERTSEN,Forårs. str.,44,Nikita Van Der VLIET,,
+126,748183,54.10,,EHA,Straffekast på stolpe,,30,Clara LERBY,,,,38,Yara TEN HOLTE
+127,748183,54.28,32-15,ODE,Mål,HF,44,Nikita Van Der VLIET,Assist,8,Helene FAUSKE,16,Johanne GRAUGAARD
+128,748183,54.38,,EHA,Time out,,,,,,,,
+129,748183,55.23,,EHA,Skud reddet,PL,23,Silje BRØNS,,,,38,Yara TEN HOLTE
+130,748183,55.28,,ODE,Tabt bold,,10,Anna GRUNDTVIG,,,,,
+131,748183,56.18,,EHA,Skud forbi,PL,5,Anna BANG,,,,38,Yara TEN HOLTE
+132,748183,56.18,,ODE,Udvisning,,20,Lysa DEFO,,,,,
+133,748183,56.48,33-15,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,68,Helena ELVER,16,Johanne GRAUGAARD
+134,748183,57.26,,EHA,Skud reddet,VF,30,Clara LERBY,,,,38,Yara TEN HOLTE
+135,748183,58.04,,ODE,Skud reddet,Gbr,8,Helene FAUSKE,,,,16,Johanne GRAUGAARD
+136,748183,58.27,,EHA,Fejlaflevering,,23,Silje BRØNS,Bold erobret,33,Thale Rushfeldt DEILA,,
+137,748183,58.31,34-15,ODE,Mål,1:e,8,Helene FAUSKE,,0,,16,Johanne GRAUGAARD
+138,748183,58.55,34-16,EHA,Mål,PL,21,Frederikke GULMARK,,,,38,Yara TEN HOLTE
+139,748183,59.27,35-16,ODE,Mål,Gbr,22,Ragnhild DAHL,,,,16,Johanne GRAUGAARD

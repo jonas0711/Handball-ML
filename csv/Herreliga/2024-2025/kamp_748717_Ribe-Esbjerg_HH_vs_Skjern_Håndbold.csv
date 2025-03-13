@@ -1,0 +1,134 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748717,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748717,0.37,1-0,REH,Mål,PL,14,Nicolaj SPANGGAARD,Assist,31,Morten JØRGENSEN,1,Christoffer BONDE
+3,748717,1.17,,SKH,Fejlaflevering,,10,Joaquim NAZARÉ,Bold erobret,49,Karl WALLINIUS,,
+4,748717,1.43,2-0,REH,Mål,PL,49,Karl WALLINIUS,Assist,14,Nicolaj SPANGGAARD,1,Christoffer BONDE
+5,748717,2.00,,REH,Advarsel,,31,Morten JØRGENSEN,,,,,
+6,748717,2.22,2-1,SKH,Mål,PL,13,Noah GAUDIN,,,,1,Niklas KRAFT
+7,748717,2.32,3-1,REH,Mål,PL,49,Karl WALLINIUS,,,,1,Christoffer BONDE
+8,748717,2.46,,SKH,Tabt bold,,22,Jakob RASMUSSEN,,,,,
+9,748717,2.50,4-1,REH,Mål,2:e,31,Morten JØRGENSEN,Assist,0,,1,Christoffer BONDE
+10,748717,3.18,4-2,SKH,Mål,HB,10,Joaquim NAZARÉ,,,,1,Niklas KRAFT
+11,748717,3.28,,REH,Skud reddet,PL,49,Karl WALLINIUS,,,,1,Christoffer BONDE
+12,748717,4.01,,SKH,Skud reddet,PL,13,Noah GAUDIN,,,,1,Niklas KRAFT
+13,748717,4.12,5-2,REH,Mål,HF,11,Mathias JØRGENSEN,Assist,14,Nicolaj SPANGGAARD,1,Christoffer BONDE
+14,748717,4.55,,SKH,Fejlaflevering,,10,Joaquim NAZARÉ,,,,,
+15,748717,5.32,,REH,Skud reddet,VB,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+16,748717,5.40,,SKH,Skud forbi,2:e,14,Emil BERGHOLT,,,,1,Niklas KRAFT
+17,748717,6.22,6-2,REH,Mål,Gbr,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+18,748717,6.31,6-3,SKH,Mål,HB,13,Noah GAUDIN,,,,1,Niklas KRAFT
+19,748717,7.46,,REH,Skud reddet,PL,49,Karl WALLINIUS,,,,1,Christoffer BONDE
+20,748717,7.56,,SKH,Skud på stolpe,PL,13,Noah GAUDIN,,,,1,Niklas KRAFT
+21,748717,8.46,,REH,Skud blokeret,HB,4,Elvar ASGEIRSSON,Blok af (ret),13,Noah GAUDIN,,
+22,748717,9.11,,REH,Skud forbi,VB,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+23,748717,9.43,,REH,Udvisning,,4,Elvar ASGEIRSSON,,,,,
+24,748717,9.43,,SKH,Tilkendt straffe,,22,Jakob RASMUSSEN,Forårs. str.,4,Elvar ASGEIRSSON,,
+25,748717,9.46,6-4,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,1,Niklas KRAFT
+26,748717,10.55,,REH,Skud reddet,HB,49,Karl WALLINIUS,,,,1,Christoffer BONDE
+27,748717,11.31,6-5,SKH,Mål,VB,15,Lasse MIKKELSEN,,,,1,Niklas KRAFT
+28,748717,12.04,,REH,Tabt bold,,81,Alfred JÖNSSON,,,,,
+29,748717,12.08,6-6,SKH,Mål,1:e,10,Joaquim NAZARÉ,,,,1,Niklas KRAFT
+30,748717,12.33,,REH,Fejlaflevering,,81,Alfred JÖNSSON,Bold erobret,13,Noah GAUDIN,,
+31,748717,12.36,6-7,SKH,Mål,1:e,13,Noah GAUDIN,,,,1,Niklas KRAFT
+32,748717,12.46,7-7,REH,Mål,Gbr,14,Nicolaj SPANGGAARD,Assist,49,Karl WALLINIUS,1,Christoffer BONDE
+33,748717,12.55,,SKH,Regelfejl,,22,Jakob RASMUSSEN,,,,,
+34,748717,13.24,8-7,REH,Mål,HB,14,Nicolaj SPANGGAARD,,,,1,Christoffer BONDE
+35,748717,13.56,,SKH,Fejlaflevering,,13,Noah GAUDIN,,,,,
+36,748717,14.02,,REH,Regelfejl,,49,Karl WALLINIUS,,,,,
+37,748717,14.39,,SKH,Tilkendt straffe,,10,Joaquim NAZARÉ,Forårs. str.,4,Elvar ASGEIRSSON,,
+38,748717,14.47,8-8,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,16,Ágúst BJÖRGVINSSON
+39,748717,15.18,,SKH,Advarsel,,14,Emil BERGHOLT,,,,,
+40,748717,15.43,,REH,Skud reddet,ST,21,Axel FRANZÉN,,,,1,Christoffer BONDE
+41,748717,16.30,8-9,SKH,Mål,VF,5,Viktor BERGHOLT,Assist,13,Noah GAUDIN,1,Niklas KRAFT
+42,748717,16.50,,REH,Regelfejl,,4,Elvar ASGEIRSSON,,,,,
+43,748717,17.26,8-10,SKH,Mål,PL,2,Mads BJERGFELT,Assist,15,Lasse MIKKELSEN,1,Niklas KRAFT
+44,748717,17.40,,REH,Time out,,,,,,,,
+45,748717,17.53,9-10,REH,Mål,HB,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+46,748717,18.17,9-11,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,16,Ágúst BJÖRGVINSSON
+47,748717,18.57,10-11,REH,Mål,Gbr,49,Karl WALLINIUS,,,,1,Christoffer BONDE
+48,748717,19.06,10-12,SKH,Mål,2:e,21,René RASMUSSEN,Assist,10,Joaquim NAZARÉ,16,Ágúst BJÖRGVINSSON
+49,748717,20.12,11-12,REH,Mål,Gbr,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+50,748717,20.21,11-13,SKH,Mål,2:e,5,Viktor BERGHOLT,Assist,15,Lasse MIKKELSEN,16,Ágúst BJÖRGVINSSON
+51,748717,21.03,,REH,Tilkendt straffe,,81,Alfred JÖNSSON,Forårs. str.,15,Lasse MIKKELSEN,,
+52,748717,21.27,12-13,REH,Mål på straffe,,11,Mathias JØRGENSEN,,,,1,Christoffer BONDE
+53,748717,22.11,,SKH,Skud reddet,PL,2,Mads BJERGFELT,,,,16,Ágúst BJÖRGVINSSON
+54,748717,22.20,,REH,Skud forbi,PL,49,Karl WALLINIUS,,,,1,Christoffer BONDE
+55,748717,22.30,12-14,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,16,Ágúst BJÖRGVINSSON
+56,748717,23.12,,REH,Skud forbi,PL,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+57,748717,24.26,,SKH,Skud blokeret,PL,25,Eivind TANGEN,Blok af (ret),0,,,
+58,748717,24.39,12-15,SKH,Mål,HB,15,Lasse MIKKELSEN,,,,16,Ágúst BJÖRGVINSSON
+59,748717,25.21,13-15,REH,Mål,HB,14,Nicolaj SPANGGAARD,,,,1,Christoffer BONDE
+60,748717,25.54,13-16,SKH,Mål,PL,25,Eivind TANGEN,,,,16,Ágúst BJÖRGVINSSON
+61,748717,26.06,14-16,REH,Mål,2:e,11,Mathias JØRGENSEN,Assist,14,Nicolaj SPANGGAARD,1,Christoffer BONDE
+62,748717,26.46,,SKH,Skud reddet,PL,15,Lasse MIKKELSEN,Retur,21,René RASMUSSEN,16,Ágúst BJÖRGVINSSON
+63,748717,26.54,14-17,SKH,Mål,ST,21,René RASMUSSEN,,,,16,Ágúst BJÖRGVINSSON
+64,748717,27.19,15-17,REH,Mål,HF,11,Mathias JØRGENSEN,Assist,4,Elvar ASGEIRSSON,1,Christoffer BONDE
+65,748717,27.41,,SKH,Time out,,,,,,,,
+66,748717,27.56,,SKH,Skud reddet,PL,15,Lasse MIKKELSEN,,,,16,Ágúst BJÖRGVINSSON
+67,748717,28.54,,REH,Skud reddet,HB,49,Karl WALLINIUS,,,,1,Christoffer BONDE
+68,748717,29.51,,SKH,Skud blokeret,VB,15,Lasse MIKKELSEN,Blok af (ret),17,Andreas SØGAARD,0,
+69,748717,29.59,,SKH,Passivt spil,,0,,,,,,
+70,748717,30.00,15-17,,Halvleg,,,,,,,,
+71,748717,30.00,,,Start 2:e halvleg,,,,,,,,
+72,748717,30.28,,SKH,Skud reddet,VF,5,Viktor BERGHOLT,,,,16,Ágúst BJÖRGVINSSON
+73,748717,30.28,,SKH,Udvisning,,5,Viktor BERGHOLT,,,,,
+74,748717,30.54,16-17,REH,Mål,Gbr,4,Elvar ASGEIRSSON,Assist,81,Alfred JÖNSSON,1,Christoffer BONDE
+75,748717,31.31,,SKH,Skud forbi,Gbr,13,Noah GAUDIN,,,,16,Ágúst BJÖRGVINSSON
+76,748717,31.53,17-17,REH,Mål,VF,31,Morten JØRGENSEN,Assist,49,Karl WALLINIUS,1,Christoffer BONDE
+77,748717,32.48,17-18,SKH,Mål,Gbr,10,Joaquim NAZARÉ,,,,1,Niklas KRAFT
+78,748717,33.46,18-18,REH,Mål,PL,49,Karl WALLINIUS,Assist,14,Nicolaj SPANGGAARD,1,Christoffer BONDE
+79,748717,34.22,18-19,SKH,Mål,Gbr,13,Noah GAUDIN,Assist,22,Jakob RASMUSSEN,1,Niklas KRAFT
+80,748717,34.34,,REH,Skud reddet,PL,49,Karl WALLINIUS,,,,1,Christoffer BONDE
+81,748717,34.43,18-20,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,1,Niklas KRAFT
+82,748717,35.10,19-20,REH,Mål,VB,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+83,748717,35.43,19-21,SKH,Mål,Gbr,22,Jakob RASMUSSEN,,,,1,Niklas KRAFT
+84,748717,36.18,20-21,REH,Mål,PL,14,Nicolaj SPANGGAARD,,,,1,Christoffer BONDE
+85,748717,36.29,,SKH,Fejlaflevering,,10,Joaquim NAZARÉ,,,,,
+86,748717,36.34,21-21,REH,Mål,2:e,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+87,748717,37.37,,SKH,Skud reddet,VB,13,Noah GAUDIN,,,,1,Niklas KRAFT
+88,748717,37.49,,REH,Tilkendt straffe,,81,Alfred JÖNSSON,Forårs. str.,10,Joaquim NAZARÉ,,
+89,748717,38.04,22-21,REH,Mål på straffe,,11,Mathias JØRGENSEN,,,,1,Christoffer BONDE
+90,748717,38.44,,SKH,Tilkendt straffe,,13,Noah GAUDIN,Forårs. str.,49,Karl WALLINIUS,,
+91,748717,39.07,22-22,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,1,Niklas KRAFT
+92,748717,39.39,,REH,Skud reddet,PL,14,Nicolaj SPANGGAARD,,,,1,Christoffer BONDE
+93,748717,40.11,22-23,SKH,Mål,PL,10,Joaquim NAZARÉ,Assist,22,Jakob RASMUSSEN,1,Niklas KRAFT
+94,748717,40.31,,REH,Skud reddet,PL,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+95,748717,41.16,,SKH,Fejlaflevering,,10,Joaquim NAZARÉ,,,,,
+96,748717,42.08,,REH,Fejlaflevering,,14,Nicolaj SPANGGAARD,,,,,
+97,748717,43.00,22-24,SKH,Mål,HB,10,Joaquim NAZARÉ,,,,1,Niklas KRAFT
+98,748717,43.30,23-24,REH,Mål,Gbr,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+99,748717,44.01,23-25,SKH,Mål,Gbr,22,Jakob RASMUSSEN,Assist,10,Joaquim NAZARÉ,1,Niklas KRAFT
+100,748717,44.34,24-25,REH,Mål,PL,14,Nicolaj SPANGGAARD,,,,1,Christoffer BONDE
+101,748717,45.06,,SKH,Skud reddet,Gbr,10,Joaquim NAZARÉ,,,,1,Niklas KRAFT
+102,748717,45.17,,REH,Skud reddet,2:e,31,Morten JØRGENSEN,Retur,0,,1,Christoffer BONDE
+103,748717,46.08,,REH,Regelfejl,,81,Alfred JÖNSSON,,,,,
+104,748717,24-26,24-26,SKH,Mål,,,,,,,,
+105,748717,47.18,,REH,Regelfejl,,4,Elvar ASGEIRSSON,,,,,
+106,748717,47.25,24-27,SKH,Mål,2:e,13,Noah GAUDIN,,,,1,Niklas KRAFT
+107,748717,47.28,,REH,Time out,,,,,,,,
+108,748717,47.50,25-27,REH,Mål,PL,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+109,748717,48.26,,SKH,Skud forbi,VB,13,Noah GAUDIN,,,,1,Niklas KRAFT
+110,748717,48.44,,REH,Regelfejl,,6,Jonathan WÜRTZ,,,,,
+111,748717,49.18,25-28,SKH,Mål,Gbr,10,Joaquim NAZARÉ,Assist,22,Jakob RASMUSSEN,1,Niklas KRAFT
+112,748717,49.46,26-28,REH,Mål,HB,81,Alfred JÖNSSON,,,,1,Christoffer BONDE
+113,748717,50.19,26-29,SKH,Mål,HF,21,René RASMUSSEN,Assist,13,Noah GAUDIN,1,Niklas KRAFT
+114,748717,51.19,27-29,REH,Mål,PL,6,Jonathan WÜRTZ,,,,1,Christoffer BONDE
+115,748717,52.32,,SKH,Skud forbi,HB,10,Joaquim NAZARÉ,,,,1,Niklas KRAFT
+116,748717,52.59,,SKH,Udvisning,,13,Noah GAUDIN,,,,,
+117,748717,53.13,,REH,Skud på stolpe,PL,49,Karl WALLINIUS,,,,1,Christoffer BONDE
+118,748717,53.59,,SKH,Skud reddet,Gbr,15,Lasse MIKKELSEN,,,,1,Niklas KRAFT
+119,748717,54.11,28-29,REH,Mål,VF,31,Morten JØRGENSEN,Assist,49,Karl WALLINIUS,1,Christoffer BONDE
+120,748717,54.40,,SKH,Time out,,,,,,,,
+121,748717,55.15,,SKH,Skud reddet,PL,22,Jakob RASMUSSEN,,,,1,Niklas KRAFT
+122,748717,56.09,,REH,Fejlaflevering,,81,Alfred JÖNSSON,,,,,
+123,748717,56.12,28-30,SKH,Mål,1:e,14,Emil BERGHOLT,,,,0,
+124,748717,56.45,29-30,REH,Mål,HF,11,Mathias JØRGENSEN,Assist,14,Nicolaj SPANGGAARD,1,Christoffer BONDE
+125,748717,57.18,,SKH,Regelfejl,,10,Joaquim NAZARÉ,,,,,
+126,748717,57.23,,REH,Skud reddet,1:e,11,Mathias JØRGENSEN,,,,1,Christoffer BONDE
+127,748717,57.52,,REH,Udvisning,,17,Andreas SØGAARD,,,,,
+128,748717,58.34,29-31,SKH,Mål,ST,14,Emil BERGHOLT,Assist,13,Noah GAUDIN,1,Niklas KRAFT
+129,748717,58.49,,REH,Time out,,,,,,,,
+130,748717,58.57,,REH,Skud reddet,VB,49,Karl WALLINIUS,,,,1,Christoffer BONDE
+131,748717,59.14,29-32,SKH,Mål,Gbr,10,Joaquim NAZARÉ,,,,1,Niklas KRAFT
+132,748717,59.38,,REH,Skud reddet,HF,11,Mathias JØRGENSEN,,,,1,Christoffer BONDE
+133,748717,59.58,,SKH,Skud på stolpe,Gbr,10,Joaquim NAZARÉ,,,,1,Niklas KRAFT

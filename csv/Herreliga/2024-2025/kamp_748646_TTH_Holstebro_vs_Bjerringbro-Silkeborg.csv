@@ -1,0 +1,136 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748646,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748646,0.41,,BSH,Fejlaflevering,,26,Peter BALLING,Bold erobret,18,Edwin ASPENBÄCK,,
+3,748646,1.18,,TTH,Skud reddet,1:e,18,Edwin ASPENBÄCK,,,,1,Mikkel LØVKVIST
+4,748646,1.24,,BSH,Skud reddet,HF,4,Patrick BOLDSEN,,,,16,Sander HEIEREN
+5,748646,1.40,1-0,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,1,Mikkel LØVKVIST
+6,748646,2.20,1-1,BSH,Mål,ST,14,Alexander LYNGGAARD,Assist,11,Rasmus LAUGE,16,Sander HEIEREN
+7,748646,3.22,,TTH,Skud reddet,PL,18,Edwin ASPENBÄCK,,,,1,Mikkel LØVKVIST
+8,748646,3.34,,BSH,Skud reddet,Gbr,11,Rasmus LAUGE,,,,16,Sander HEIEREN
+9,748646,3.41,,TTH,Fejlaflevering,,25,Jonas PORUP,,,,,
+10,748646,4.37,1-2,BSH,Mål,ST,14,Alexander LYNGGAARD,Assist,32,Nikolaj LÆSØ,16,Sander HEIEREN
+11,748646,5.20,2-2,TTH,Mål,VB,11,Thomas DAMGAARD,,,,1,Mikkel LØVKVIST
+12,748646,6.33,,TTH,Advarsel,,21,Mathias SMED,,,,,
+13,748646,6.51,,BSH,Skud reddet,PL,11,Rasmus LAUGE,Retur,0,,16,Sander HEIEREN
+14,748646,7.09,2-3,BSH,Mål,HB,26,Peter BALLING,,,,16,Sander HEIEREN
+15,748646,7.52,3-3,TTH,Mål,VF,10,Magnus BRAMMING,Assist,25,Jonas PORUP,1,Mikkel LØVKVIST
+16,748646,8.31,,BSH,Fejlaflevering,,32,Nikolaj LÆSØ,Bold erobret,25,Jonas PORUP,,
+17,748646,9.00,4-3,TTH,Mål,PL,11,Thomas DAMGAARD,,,,1,Mikkel LØVKVIST
+18,748646,10.28,,BSH,Skud forbi,PL,11,Rasmus LAUGE,,,,16,Sander HEIEREN
+19,748646,10.38,5-3,TTH,Mål,2:e,25,Jonas PORUP,,,,1,Mikkel LØVKVIST
+20,748646,10.51,,BSH,Skud reddet,ST,22,Anders ZACHARIASSEN,,,,16,Sander HEIEREN
+21,748646,10.58,,TTH,Fejlaflevering,,28,Kevin GULLIKSEN,,,,,
+22,748646,11.50,5-4,BSH,Mål,HB,26,Peter BALLING,Assist,34,Morten OLSEN,16,Sander HEIEREN
+23,748646,11.58,6-4,TTH,Mål,2:e,18,Edwin ASPENBÄCK,,,,1,Mikkel LØVKVIST
+24,748646,12.47,6-5,BSH,Mål,ST,22,Anders ZACHARIASSEN,Assist,34,Morten OLSEN,16,Sander HEIEREN
+25,748646,13.25,7-5,TTH,Mål,PL,7,William AAR,,,,1,Mikkel LØVKVIST
+26,748646,13.32,7-6,BSH,Mål,2:e,22,Anders ZACHARIASSEN,Assist,26,Peter BALLING,16,Sander HEIEREN
+27,748646,13.48,,TTH,Tabt bold,,7,William AAR,Bold erobret,19,René Toft HANSEN,,
+28,748646,14.19,7-7,BSH,Mål,Gbr,34,Morten OLSEN,,,,16,Sander HEIEREN
+29,748646,15.01,8-7,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,12,Kasper LARSEN
+30,748646,15.17,,BSH,Skud reddet,PL,34,Morten OLSEN,Retur,0,,16,Sander HEIEREN
+31,748646,15.41,,BSH,Skud reddet,Gbr,26,Peter BALLING,Retur,0,,16,Sander HEIEREN
+32,748646,16.11,,BSH,Tilkendt straffe,,22,Anders ZACHARIASSEN,Forårs. str.,21,Mathias SMED,,
+33,748646,16.44,8-8,BSH,Mål på straffe,,23,Mads LENBROCH,,,,16,Sander HEIEREN
+34,748646,17.26,,TTH,Tilkendt straffe,,18,Edwin ASPENBÄCK,Forårs. str.,32,Nikolaj LÆSØ,,
+35,748646,17.45,9-8,TTH,Mål på straffe,,6,Frederik BJERRE,,,,12,Kasper LARSEN
+36,748646,18.25,,BSH,Skud reddet,PL,34,Morten OLSEN,,,,16,Sander HEIEREN
+37,748646,18.32,10-8,TTH,Mål,1:e,18,Edwin ASPENBÄCK,,,,12,Kasper LARSEN
+38,748646,19.37,,BSH,Skud blokeret,PL,32,Nikolaj LÆSØ,Blok af (ret),21,Mathias SMED,,
+39,748646,19.52,10-9,BSH,Mål,ST,14,Alexander LYNGGAARD,Assist,34,Morten OLSEN,16,Sander HEIEREN
+40,748646,20.04,11-9,TTH,Mål,2:e,13,Sven EHRIG,Assist,18,Edwin ASPENBÄCK,12,Kasper LARSEN
+41,748646,20.20,11-10,BSH,Mål,PL,26,Peter BALLING,,,,16,Sander HEIEREN
+42,748646,21.14,12-10,TTH,Mål,Gbr,11,Thomas DAMGAARD,,,,12,Kasper LARSEN
+43,748646,21.22,12-11,BSH,Mål,2:e,34,Morten OLSEN,,,,16,Sander HEIEREN
+44,748646,22.02,,TTH,Skud på stolpe,PL,11,Thomas DAMGAARD,,,,12,Kasper LARSEN
+45,748646,22.37,,BSH,Skud blokeret,PL,34,Morten OLSEN,Blokeret af,21,Mathias SMED,,
+46,748646,23.44,,TTH,Fejlaflevering,,18,Edwin ASPENBÄCK,Bold erobret,26,Peter BALLING,,
+47,748646,23.51,12-12,BSH,Mål,2:e,4,Patrick BOLDSEN,Assist,26,Peter BALLING,16,Sander HEIEREN
+48,748646,24.24,,TTH,Skud reddet,PL,7,William AAR,,,,12,Kasper LARSEN
+49,748646,24.31,12-13,BSH,Mål,1:e,23,Mads LENBROCH,Assist,32,Nikolaj LÆSØ,16,Sander HEIEREN
+50,748646,24.37,,TTH,Time out,,,,,,,,
+51,748646,25.02,,BSH,Udvisning,,14,Alexander LYNGGAARD,,,,,
+52,748646,25.12,13-13,TTH,Mål,ST,3,Sebastian ØRUM,Assist,22,Nikolaj MARKUSSEN,12,Kasper LARSEN
+53,748646,25.50,,BSH,Skud forbi,PL,32,Nikolaj LÆSØ,,,,16,Sander HEIEREN
+54,748646,26.17,14-13,TTH,Mål,HF,13,Sven EHRIG,Assist,18,Edwin ASPENBÄCK,1,Mikkel LØVKVIST
+55,748646,26.49,14-14,BSH,Mål,Gbr,34,Morten OLSEN,,,,16,Sander HEIEREN
+56,748646,27.29,15-14,TTH,Mål,PL,11,Thomas DAMGAARD,,,,1,Mikkel LØVKVIST
+57,748646,27.38,,TTH,Udvisning,,13,Sven EHRIG,,,,,
+58,748646,27.59,15-15,BSH,Mål,PL,34,Morten OLSEN,,,,16,Sander HEIEREN
+59,748646,28.44,16-15,TTH,Mål,ST,4,Christoffer CICHOSZ,Assist,11,Thomas DAMGAARD,1,Mikkel LØVKVIST
+60,748646,29.11,16-16,BSH,Mål,Gbr,26,Peter BALLING,,,,16,Sander HEIEREN
+61,748646,29.56,,TTH,Skud blokeret,HB,18,Edwin ASPENBÄCK,Blokeret af,32,Nikolaj LÆSØ,,
+62,748646,29.58,16-17,BSH,Mål,1:e,4,Patrick BOLDSEN,Assist,32,Nikolaj LÆSØ,16,Sander HEIEREN
+63,748646,30.00,16-17,,Halvleg,,,,,,,,
+64,748646,30.00,,,Start 2:e halvleg,,,,,,,,
+65,748646,30.47,17-17,TTH,Mål,VB,7,William AAR,,,,1,Mikkel LØVKVIST
+66,748646,31.24,17-18,BSH,Mål,PL,11,Rasmus LAUGE,,,,16,Sander HEIEREN
+67,748646,31.32,18-18,TTH,Mål,2:e,4,Christoffer CICHOSZ,Assist,11,Thomas DAMGAARD,1,Mikkel LØVKVIST
+68,748646,31.43,,BSH,Skud på stolpe,VB,11,Rasmus LAUGE,,,,16,Sander HEIEREN
+69,748646,32.16,19-18,TTH,Mål,ST,6,Frederik BJERRE,Assist,7,William AAR,1,Mikkel LØVKVIST
+70,748646,32.58,,BSH,Skud forbi,PL,34,Morten OLSEN,,,,16,Sander HEIEREN
+71,748646,33.12,,TTH,Skud på stolpe,Gbr,7,William AAR,,,,1,Mikkel LØVKVIST
+72,748646,34.11,,BSH,Tilkendt straffe,,11,Rasmus LAUGE,Forårs. str.,13,Sven EHRIG,,
+73,748646,34.36,,BSH,Straffekast reddet,,23,Mads LENBROCH,,,,16,Sander HEIEREN
+74,748646,35.42,,TTH,Regelfejl,,18,Edwin ASPENBÄCK,,,,,
+75,748646,36.28,19-19,BSH,Mål,PL,11,Rasmus LAUGE,,,,16,Sander HEIEREN
+76,748646,37.12,20-19,TTH,Mål,HF,13,Sven EHRIG,Assist,7,William AAR,1,Mikkel LØVKVIST
+77,748646,37.20,20-20,BSH,Mål,2:e,32,Nikolaj LÆSØ,,,,16,Sander HEIEREN
+78,748646,37.52,,TTH,Tabt bold,,4,Christoffer CICHOSZ,,,,,
+79,748646,38.25,20-21,BSH,Mål,Gbr,11,Rasmus LAUGE,,,,16,Sander HEIEREN
+80,748646,38.41,,TTH,Skud reddet,PL,7,William AAR,,,,1,Mikkel LØVKVIST
+81,748646,38.51,,BSH,Skud reddet,VF,23,Mads LENBROCH,,,,16,Sander HEIEREN
+82,748646,39.26,,TTH,Skud reddet,PL,11,Thomas DAMGAARD,,,,1,Mikkel LØVKVIST
+83,748646,39.52,20-22,BSH,Mål,PL,11,Rasmus LAUGE,,,,16,Sander HEIEREN
+84,748646,40.03,,TTH,Regelfejl,,18,Edwin ASPENBÄCK,,,,,
+85,748646,40.42,,BSH,Skud reddet,VB,26,Peter BALLING,,,,16,Sander HEIEREN
+86,748646,40.50,,TTH,Time out,,,,,,,,
+87,748646,41.05,21-22,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,22,Nikolaj MARKUSSEN,1,Mikkel LØVKVIST
+88,748646,41.57,21-23,BSH,Mål,PL,11,Rasmus LAUGE,,,,16,Sander HEIEREN
+89,748646,42.28,22-23,TTH,Mål,PL,11,Thomas DAMGAARD,,,,1,Mikkel LØVKVIST
+90,748646,42.37,22-24,BSH,Mål,2:e,22,Anders ZACHARIASSEN,,,,0,
+91,748646,43.11,,TTH,Skud reddet,ST,23,Miha ZVIZEJ,,,,1,Mikkel LØVKVIST
+92,748646,43.23,22-25,BSH,Mål,2:e,4,Patrick BOLDSEN,Assist,34,Morten OLSEN,1,Rasmus HENRIKSEN
+93,748646,44.04,23-25,TTH,Mål,Gbr,11,Thomas DAMGAARD,Assist,22,Nikolaj MARKUSSEN,1,Mikkel LØVKVIST
+94,748646,44.53,,BSH,Fejlaflevering,,11,Rasmus LAUGE,Bold erobret,6,Frederik BJERRE,,
+95,748646,45.00,,TTH,Skud reddet,1:e,28,Kevin GULLIKSEN,,,,1,Mikkel LØVKVIST
+96,748646,45.15,23-26,BSH,Mål,VF,23,Mads LENBROCH,Assist,11,Rasmus LAUGE,1,Rasmus HENRIKSEN
+97,748646,45.28,,TTH,Skud reddet,HB,13,Sven EHRIG,,,,1,Mikkel LØVKVIST
+98,748646,46.01,,BSH,Regelfejl,,26,Peter BALLING,,,,,
+99,748646,46.45,,TTH,Tilkendt straffe,,4,Christoffer CICHOSZ,Forårs. str.,26,Peter BALLING,,
+100,748646,46.53,24-26,TTH,Mål på straffe,,6,Frederik BJERRE,,,,1,Mikkel LØVKVIST
+101,748646,47.21,,BSH,Tabt bold,,34,Morten OLSEN,,,,,
+102,748646,47.27,25-26,TTH,Mål,1:e,6,Frederik BJERRE,Assist,25,Jonas PORUP,1,Mikkel LØVKVIST
+103,748646,47.48,,BSH,Skud forbi,PL,26,Peter BALLING,,,,1,Rasmus HENRIKSEN
+104,748646,48.22,,,,,,,,,,,
+105,748646,48.29,26-26,TTH,Skud reddet,VB,22,Nikolaj MARKUSSEN,Retur,4,Christoffer CICHOSZ,1,Mikkel LØVKVIST
+106,748646,48.33,,TTH,Mål,ST,4,Christoffer CICHOSZ,,,,1,Mikkel LØVKVIST
+107,748646,48.53,,BSH,Time out,,,,,,,,
+108,748646,49.27,27-26,TTH,Mål,ST,23,Miha ZVIZEJ,Assist,18,Edwin ASPENBÄCK,1,Mikkel LØVKVIST
+109,748646,49.56,,BSH,Skud forbi,PL,32,Nikolaj LÆSØ,,,,1,Rasmus HENRIKSEN
+110,748646,50.06,,TTH,Skud reddet,PL,25,Jonas PORUP,,,,1,Mikkel LØVKVIST
+111,748646,50.47,,BSH,Fejlaflevering,,34,Morten OLSEN,Bold erobret,18,Edwin ASPENBÄCK,,
+112,748646,50.52,28-26,TTH,Mål,1:e,18,Edwin ASPENBÄCK,Assist,23,Miha ZVIZEJ,1,Mikkel LØVKVIST
+113,748646,51.04,,TTH,Udvisning,,28,Kevin GULLIKSEN,,,,,
+114,748646,51.04,,BSH,Udvisning,,14,Alexander LYNGGAARD,,,,,
+115,748646,51.44,28-27,BSH,Mål,Gbr,26,Peter BALLING,,,,1,Rasmus HENRIKSEN
+116,748646,52.13,,TTH,Regelfejl,,22,Nikolaj MARKUSSEN,,,,,
+117,748646,52.42,28-28,BSH,Mål,Gbr,11,Rasmus LAUGE,,,,1,Rasmus HENRIKSEN
+118,748646,53.02,,TTH,Fejlaflevering,,22,Nikolaj MARKUSSEN,Bold erobret,11,Rasmus LAUGE,,
+119,748646,53.10,28-29,BSH,Mål,1:e,23,Mads LENBROCH,Assist,11,Rasmus LAUGE,0,
+120,748646,53.36,,TTH,Skud reddet,HF,28,Kevin GULLIKSEN,,,,1,Mikkel LØVKVIST
+121,748646,54.05,28-30,BSH,Mål,PL,11,Rasmus LAUGE,,,,1,Rasmus HENRIKSEN
+122,748646,54.18,29-30,TTH,Mål,Gbr,18,Edwin ASPENBÄCK,,,,1,Mikkel LØVKVIST
+123,748646,55.22,,BSH,Skud forbi,VB,11,Rasmus LAUGE,,,,1,Rasmus HENRIKSEN
+124,748646,55.48,,TTH,Fejlaflevering,,11,Thomas DAMGAARD,Bold erobret,11,Rasmus LAUGE,,
+125,748646,55.53,29-31,BSH,Mål,1:e,11,Rasmus LAUGE,,,,0,
+126,748646,56.08,,TTH,Time out,,,,,,,,
+127,748646,56.14,,TTH,Fejlaflevering,,11,Thomas DAMGAARD,,,,,
+128,748646,57.01,,BSH,Skud reddet,PL,34,Morten OLSEN,,,,1,Rasmus HENRIKSEN
+129,748646,57.47,,TTH,Skud reddet,PL,7,William AAR,,,,1,Mikkel LØVKVIST
+130,748646,58.23,,BSH,Skud forbi,PL,11,Rasmus LAUGE,,,,1,Rasmus HENRIKSEN
+131,748646,58.31,30-31,TTH,Mål,HF,13,Sven EHRIG,Assist,18,Edwin ASPENBÄCK,1,Mikkel LØVKVIST
+132,748646,58.52,,BSH,Time out,,,,,,,,
+133,748646,59.05,30-32,BSH,Mål,Gbr,14,Alexander LYNGGAARD,Assist,32,Nikolaj LÆSØ,1,Rasmus HENRIKSEN
+134,748646,59.22,31-32,TTH,Mål,HF,13,Sven EHRIG,Assist,22,Nikolaj MARKUSSEN,1,Mikkel LØVKVIST
+135,748646,59.48,31-33,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,34,Morten OLSEN,1,Rasmus HENRIKSEN

@@ -1,0 +1,147 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748261,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748261,0.35,1-0,ODE,Mål,PL,22,Ragnhild DAHL,,,,88,Rakul WARDUM
+3,748261,1.44,,RIN,Fejlaflevering,,15,Jane MEJLVANG,,,,,
+4,748261,1.51,,ODE,Skud reddet,1:e,44,Nikita Van Der VLIET,,,,88,Rakul WARDUM
+5,748261,2.52,,RIN,Tilkendt straffe,,23,Nanna HINNERFELDT,Forårs. str.,28,Clara Skyum THOMSEN,,
+6,748261,3.08,1-1,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,38,Yara TEN HOLTE
+7,748261,3.30,2-1,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,88,Rakul WARDUM
+8,748261,4.15,,RIN,Tilkendt straffe,,23,Nanna HINNERFELDT,Forårs. str.,22,Ragnhild DAHL,,
+9,748261,4.26,2-2,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,38,Yara TEN HOLTE
+10,748261,4.58,,ODE,Skud forbi,PL,22,Ragnhild DAHL,,,,88,Rakul WARDUM
+11,748261,5.39,,RIN,Tilkendt straffe,,20,Stine Opstrup KRISTENSEN,Forårs. str.,22,Ragnhild DAHL,,
+12,748261,5.40,2-3,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,12,Andrea Nørklit JØRGENSEN
+13,748261,6.19,3-3,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,22,Ragnhild DAHL,88,Rakul WARDUM
+14,748261,7.05,,RIN,Tabt bold,,33,Emma LAURSEN,,,,,
+15,748261,7.15,,RIN,Advarsel,,23,Nanna HINNERFELDT,,,,,
+16,748261,7.27,4-3,ODE,Mål,Gbr,8,Helene FAUSKE,,,,88,Rakul WARDUM
+17,748261,7.40,,RIN,Skud reddet,ST,23,Nanna HINNERFELDT,,,,38,Yara TEN HOLTE
+18,748261,7.45,5-3,ODE,Mål,2:e,44,Nikita Van Der VLIET,Assist,8,Helene FAUSKE,88,Rakul WARDUM
+19,748261,8.30,,ODE,Advarsel,,44,Nikita Van Der VLIET,,,,,
+20,748261,8.43,,RIN,Regelfejl,,3,Maria Berger WIERZBA,,,,,
+21,748261,8.52,,ODE,Fejlaflevering,,20,Lysa DEFO,Bold erobret,23,Nanna HINNERFELDT,,
+22,748261,9.08,,RIN,Skud på stolpe,PL,15,Jane MEJLVANG,,,,38,Yara TEN HOLTE
+23,748261,9.16,,ODE,Skud på stolpe,2:e,6,Malin AUNE,,,,88,Rakul WARDUM
+24,748261,10.02,5-4,RIN,Mål,ST,23,Nanna HINNERFELDT,Assist,3,Maria Berger WIERZBA,38,Yara TEN HOLTE
+25,748261,10.51,,ODE,Tabt bold,,28,Clara Skyum THOMSEN,,,,,
+26,748261,11.05,,RIN,Tabt bold,,20,Stine Opstrup KRISTENSEN,,,,,
+27,748261,11.10,,ODE,Skud på stolpe,1:e,23,Elma HALILCEVIC,,,,88,Rakul WARDUM
+28,748261,11.52,,RIN,Tilkendt straffe,,33,Emma LAURSEN,Forårs. str.,23,Elma HALILCEVIC,,
+29,748261,12.11,5-5,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,38,Yara TEN HOLTE
+30,748261,12.44,6-5,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,8,Helene FAUSKE,88,Rakul WARDUM
+31,748261,13.05,,RIN,Tabt bold,,23,Nanna HINNERFELDT,,,,,
+32,748261,13.12,7-5,ODE,Mål,2:e,28,Clara Skyum THOMSEN,Assist,8,Helene FAUSKE,88,Rakul WARDUM
+33,748261,13.29,7-6,RIN,Mål,Gbr,15,Jane MEJLVANG,,,,38,Yara TEN HOLTE
+34,748261,13.48,,RIN,Advarsel,,5,Caroline SVARRE,,,,,
+35,748261,14.12,,ODE,Skud reddet,VB,22,Ragnhild DAHL,,,,88,Rakul WARDUM
+36,748261,14.46,,RIN,Skud på stolpe,PL,15,Jane MEJLVANG,,,,38,Yara TEN HOLTE
+37,748261,15.19,8-6,ODE,Mål,ST,20,Lysa DEFO,Assist,22,Ragnhild DAHL,88,Rakul WARDUM
+38,748261,16.21,,RIN,Skud reddet,PL,15,Jane MEJLVANG,,,,38,Yara TEN HOLTE
+39,748261,16.27,9-6,ODE,Mål,2:e,28,Clara Skyum THOMSEN,,,,88,Rakul WARDUM
+40,748261,17.04,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,,,,,
+41,748261,17.11,,ODE,Fejlaflevering,,22,Ragnhild DAHL,Bold erobret,3,Maria Berger WIERZBA,,
+42,748261,17.21,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,,,,,
+43,748261,17.42,10-6,ODE,Mål,ST,20,Lysa DEFO,Assist,22,Ragnhild DAHL,88,Rakul WARDUM
+44,748261,17.54,,RIN,Time out,,,,,,,,
+45,748261,18.28,10-7,RIN,Mål,HF,33,Emma LAURSEN,Assist,3,Maria Berger WIERZBA,38,Yara TEN HOLTE
+46,748261,18.54,,RIN,Udvisning,,18,Emilie ROSBORG,,,,,
+47,748261,19.05,11-7,ODE,Mål,Gbr,8,Helene FAUSKE,,,,88,Rakul WARDUM
+48,748261,19.42,,RIN,Tabt bold,,15,Jane MEJLVANG,Bold erobret,28,Clara Skyum THOMSEN,,
+49,748261,19.42,,RIN,Udvisning,,73,Karoline FAHLBERG,,,,,
+50,748261,19.53,12-7,ODE,Mål,ST,20,Lysa DEFO,Assist,8,Helene FAUSKE,88,Rakul WARDUM
+51,748261,20.50,,RIN,Passivt spil,,0,,,,,,
+52,748261,20.55,13-7,ODE,Mål,1:e,44,Nikita Van Der VLIET,,,,,
+53,748261,21.21,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,,,,,
+54,748261,21.36,14-7,ODE,Mål,HF,6,Malin AUNE,Assist,8,Helene FAUSKE,88,Rakul WARDUM
+55,748261,22.05,14-8,RIN,Mål,PL,10,Frida Høgaard NIELSEN,,,,38,Yara TEN HOLTE
+56,748261,22.11,,ODE,Regelfejl,,20,Lysa DEFO,,,,,
+57,748261,22.46,14-9,RIN,Mål,PL,3,Maria Berger WIERZBA,,,,38,Yara TEN HOLTE
+58,748261,22.56,15-9,ODE,Mål,2:e,20,Lysa DEFO,,,,88,Rakul WARDUM
+59,748261,23.31,,RIN,Skud reddet,ST,5,Caroline SVARRE,,,,38,Yara TEN HOLTE
+60,748261,24.08,16-9,ODE,Mål,Gbr,8,Helene FAUSKE,Assist,20,Lysa DEFO,88,Rakul WARDUM
+61,748261,24.37,,RIN,Fejlaflevering,,15,Jane MEJLVANG,Bold erobret,23,Elma HALILCEVIC,,
+62,748261,24.40,17-9,ODE,Mål,1:e,23,Elma HALILCEVIC,,,,,
+63,748261,25.20,,RIN,Tabt bold,,8,Camilla PEDERSEN,,,,,
+64,748261,25.29,18-9,ODE,Mål,1:e,44,Nikita Van Der VLIET,,,,,
+65,748261,25.58,,RIN,Skud reddet,VF,18,Emilie ROSBORG,,,,38,Yara TEN HOLTE
+66,748261,26.15,,ODE,Tabt bold,,8,Helene FAUSKE,Bold erobret,18,Emilie ROSBORG,,
+67,748261,26.43,,RIN,Fejlaflevering,,15,Jane MEJLVANG,,,,,
+68,748261,26.49,,ODE,Time out,,,,,,,,
+69,748261,27.06,,ODE,Tilkendt straffe,,23,Elma HALILCEVIC,Forårs. str.,10,Frida Høgaard NIELSEN,,
+70,748261,27.06,,RIN,Udvisning,,10,Frida Høgaard NIELSEN,,,,,
+71,748261,27.07,19-9,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,88,Rakul WARDUM
+72,748261,27.55,,RIN,Skud reddet,VF,18,Emilie ROSBORG,,,,38,Yara TEN HOLTE
+73,748261,28.09,,RIN,Udvisning,,15,Jane MEJLVANG,,,,,
+74,748261,28.20,20-9,ODE,Mål,Gbr,8,Helene FAUSKE,,,,88,Rakul WARDUM
+75,748261,29.10,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,,,,,
+76,748261,29.47,,ODE,Tabt bold,,28,Clara Skyum THOMSEN,,,,,
+77,748261,30.00,20-9,,Halvleg,,,,,,,,
+78,748261,30.00,,,Start 2:e halvleg,,,,,,,,
+79,748261,30.35,,RIN,Skud reddet,ST,5,Caroline SVARRE,,,,12,Andrea Nørklit JØRGENSEN
+80,748261,31.32,,ODE,Regelfejl,,44,Nikita Van Der VLIET,,,,,
+81,748261,32.11,20-10,RIN,Mål,VF,18,Emilie ROSBORG,,,,12,Andrea Nørklit JØRGENSEN
+82,748261,32.22,,ODE,Tilkendt straffe,,44,Nikita Van Der VLIET,Forårs. str.,23,Nanna HINNERFELDT,,
+83,748261,32.36,21-10,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,88,Rakul WARDUM
+84,748261,33.21,,RIN,Regelfejl,,5,Caroline SVARRE,,,,,
+85,748261,33.54,,ODE,Skud reddet,VF,10,Anna GRUNDTVIG,,,,88,Rakul WARDUM
+86,748261,34.21,21-11,RIN,Mål,PL,3,Maria Berger WIERZBA,,,,12,Andrea Nørklit JØRGENSEN
+87,748261,34.33,22-11,ODE,Mål,HF,34,Andrea HANSEN,Assist,27,Louise BURGAARD,88,Rakul WARDUM
+88,748261,35.09,,RIN,Skud reddet,Gbr,3,Maria Berger WIERZBA,,,,12,Andrea Nørklit JØRGENSEN
+89,748261,35.57,23-11,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,27,Louise BURGAARD,88,Rakul WARDUM
+90,748261,36.31,23-12,RIN,Mål,Gbr,3,Maria Berger WIERZBA,Assist,5,Caroline SVARRE,12,Andrea Nørklit JØRGENSEN
+91,748261,37.06,24-12,ODE,Mål,Gbr,8,Helene FAUSKE,,,,88,Rakul WARDUM
+92,748261,37.59,,RIN,Tilkendt straffe,,20,Stine Opstrup KRISTENSEN,Forårs. str.,22,Ragnhild DAHL,,
+93,748261,37.59,,ODE,Udvisning,,22,Ragnhild DAHL,,,,,
+94,748261,38.01,24-13,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,12,Andrea Nørklit JØRGENSEN
+95,748261,38.37,25-13,ODE,Mål,PL,8,Helene FAUSKE,,,,88,Rakul WARDUM
+96,748261,39.01,,RIN,Regelfejl,,73,Karoline FAHLBERG,,,,,
+97,748261,39.26,26-13,ODE,Mål,Gbr,27,Louise BURGAARD,,,,88,Rakul WARDUM
+98,748261,39.41,,RIN,Tilkendt straffe,,5,Caroline SVARRE,Forårs. str.,34,Andrea HANSEN,,
+99,748261,39.44,26-14,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,38,Yara TEN HOLTE
+100,748261,40.22,,ODE,Tabt bold,,8,Helene FAUSKE,,,,,
+101,748261,41.28,,RIN,Skud forbi,VB,3,Maria Berger WIERZBA,,,,12,Andrea Nørklit JØRGENSEN
+102,748261,41.37,,ODE,Skud reddet,HB,22,Ragnhild DAHL,,,,88,Rakul WARDUM
+103,748261,41.50,26-15,RIN,Mål,Gbr,20,Stine Opstrup KRISTENSEN,,,,12,Andrea Nørklit JØRGENSEN
+104,748261,41.54,,,,,,,,,,,
+105,748261,42.13,27-15,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,88,Rakul WARDUM
+106,748261,43.14,,RIN,Skud reddet,VB,73,Karoline FAHLBERG,,,,12,Andrea Nørklit JØRGENSEN
+107,748261,43.47,,ODE,Fejlaflevering,,27,Louise BURGAARD,,,,,
+108,748261,43.55,,RIN,Skud reddet,2:e,10,Frida Høgaard NIELSEN,,,,12,Andrea Nørklit JØRGENSEN
+109,748261,44.23,28-15,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,88,Rakul WARDUM
+110,748261,45.12,,RIN,Tilkendt straffe,,18,Emilie ROSBORG,Forårs. str.,34,Andrea HANSEN,,
+111,748261,45.26,28-16,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,12,Andrea Nørklit JØRGENSEN
+112,748261,45.31,,RIN,Udvisning,,20,Stine Opstrup KRISTENSEN,,,,,
+113,748261,45.46,,ODE,Skud reddet,Gbr,27,Louise BURGAARD,,,,88,Rakul WARDUM
+114,748261,46.24,28-17,RIN,Mål,PL,73,Karoline FAHLBERG,,,,12,Andrea Nørklit JØRGENSEN
+115,748261,46.37,,RIN,Udvisning,,18,Emilie ROSBORG,,,,,
+116,748261,46.47,29-17,ODE,Mål,HF,34,Andrea HANSEN,Assist,8,Helene FAUSKE,88,Rakul WARDUM
+117,748261,46.55,,RIN,Time out,,,,,,,,
+118,748261,47.17,29-18,RIN,Mål,Gbr,73,Karoline FAHLBERG,,,,12,Andrea Nørklit JØRGENSEN
+119,748261,47.36,30-18,ODE,Mål,ST,20,Lysa DEFO,Assist,8,Helene FAUSKE,88,Rakul WARDUM
+120,748261,48.18,,RIN,Skud reddet,PL,15,Jane MEJLVANG,,,,12,Andrea Nørklit JØRGENSEN
+121,748261,48.32,31-18,ODE,Mål,2:e,8,Helene FAUSKE,,,,88,Rakul WARDUM
+122,748261,49.29,31-19,RIN,Mål,PL,3,Maria Berger WIERZBA,,,,12,Andrea Nørklit JØRGENSEN
+123,748261,49.44,32-19,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,88,Rakul WARDUM
+124,748261,50.26,32-20,RIN,Mål,ST,8,Camilla PEDERSEN,Assist,33,Emma LAURSEN,12,Andrea Nørklit JØRGENSEN
+125,748261,51.08,33-20,ODE,Mål,Gbr,27,Louise BURGAARD,,,,88,Rakul WARDUM
+126,748261,52.00,,RIN,Skud reddet,HB,10,Frida Høgaard NIELSEN,,,,12,Andrea Nørklit JØRGENSEN
+127,748261,52.06,34-20,ODE,Mål,1:e,10,Anna GRUNDTVIG,,,,88,Rakul WARDUM
+128,748261,53.09,,RIN,Skud reddet,HF,33,Emma LAURSEN,,,,12,Andrea Nørklit JØRGENSEN
+129,748261,53.18,,ODE,Tabt bold,,27,Louise BURGAARD,,,,,
+130,748261,53.26,,RIN,Skud på stolpe,2:e,10,Frida Høgaard NIELSEN,,,,12,Andrea Nørklit JØRGENSEN
+131,748261,54.01,35-20,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,22,Ragnhild DAHL,88,Rakul WARDUM
+132,748261,54.06,,RIN,Time out,,,,,,,,
+133,748261,54.45,,RIN,Fejlaflevering,,10,Frida Høgaard NIELSEN,,,,,
+134,748261,54.50,,ODE,Skud på stolpe,1:e,44,Nikita Van Der VLIET,,,,88,Rakul WARDUM
+135,748261,55.18,35-21,RIN,Mål,Gbr,20,Stine Opstrup KRISTENSEN,,,,12,Andrea Nørklit JØRGENSEN
+136,748261,55.35,36-21,ODE,Mål,Gbr,8,Helene FAUSKE,,,,88,Rakul WARDUM
+137,748261,56.19,,RIN,Fejlaflevering,,10,Frida Høgaard NIELSEN,Bold erobret,10,Anna GRUNDTVIG,,
+138,748261,56.22,37-21,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,22,Ragnhild DAHL,88,Rakul WARDUM
+139,748261,57.32,37-22,RIN,Mål,PL,10,Frida Høgaard NIELSEN,,,,12,Andrea Nørklit JØRGENSEN
+140,748261,57.42,38-22,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,88,Rakul WARDUM
+141,748261,57.53,,ODE,Udvisning,,27,Louise BURGAARD,,,,,
+142,748261,58.11,38-23,RIN,Mål,VF,73,Karoline FAHLBERG,Assist,20,Stine Opstrup KRISTENSEN,12,Andrea Nørklit JØRGENSEN
+143,748261,58.54,39-23,ODE,Mål,ST,20,Lysa DEFO,Assist,8,Helene FAUSKE,88,Rakul WARDUM
+144,748261,59.08,,RIN,Skud reddet,VF,73,Karoline FAHLBERG,,,,12,Andrea Nørklit JØRGENSEN
+145,748261,59.35,40-23,ODE,Mål,Gbr,22,Ragnhild DAHL,,,,88,Rakul WARDUM
+146,748261,59.59,40-24,RIN,Mål,PL,10,Frida Høgaard NIELSEN,,,,12,Andrea Nørklit JØRGENSEN

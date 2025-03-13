@@ -1,0 +1,143 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748307,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748307,1.07,0-1,SJE,Mål,VB,28,Sarah PAULSEN,,,,38,Yara TEN HOLTE
+3,748307,1.14,,ODE,Skud reddet,PL,33,Thale Rushfeldt DEILA,,,,12,Stine BROLØS
+4,748307,1.41,,SJE,Skud forbi,PL,7,Melissa PETRÉN,,,,38,Yara TEN HOLTE
+5,748307,1.52,1-1,ODE,Mål,ST,20,Lysa DEFO,Assist,68,Helena ELVER,12,Stine BROLØS
+6,748307,2.03,1-2,SJE,Mål,PL,28,Sarah PAULSEN,,,,38,Yara TEN HOLTE
+7,748307,2.33,2-2,ODE,Mål,HF,34,Andrea HANSEN,Assist,33,Thale Rushfeldt DEILA,12,Stine BROLØS
+8,748307,3.21,2-3,SJE,Mål,PL,7,Melissa PETRÉN,,,,38,Yara TEN HOLTE
+9,748307,4.05,3-3,ODE,Mål,ST,20,Lysa DEFO,Assist,68,Helena ELVER,12,Stine BROLØS
+10,748307,4.36,,SJE,Skud reddet,PL,7,Melissa PETRÉN,,,,38,Yara TEN HOLTE
+11,748307,4.55,4-3,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,12,Stine BROLØS
+12,748307,5.09,,SJE,Tilkendt straffe,,28,Sarah PAULSEN,Forårs. str.,34,Andrea HANSEN,,
+13,748307,5.24,,SJE,Straffekast reddet,,7,Melissa PETRÉN,,,,38,Yara TEN HOLTE
+14,748307,5.54,,ODE,Skud reddet,PL,68,Helena ELVER,,,,12,Stine BROLØS
+15,748307,6.22,,SJE,Fejlaflevering,,7,Melissa PETRÉN,Bold erobret,33,Thale Rushfeldt DEILA,,
+16,748307,6.27,5-3,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,32,Mie HØJLUND,12,Stine BROLØS
+17,748307,7.05,5-4,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,8,Karine DAHLUM,38,Yara TEN HOLTE
+18,748307,7.49,,ODE,Tilkendt straffe,,32,Mie HØJLUND,Forårs. str.,8,Karine DAHLUM,,
+19,748307,7.59,6-4,ODE,Mål på straffe,,34,Andrea HANSEN,,,,12,Stine BROLØS
+20,748307,8.30,6-5,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,28,Sarah PAULSEN,38,Yara TEN HOLTE
+21,748307,8.43,7-5,ODE,Mål,HF,34,Andrea HANSEN,Assist,20,Lysa DEFO,12,Stine BROLØS
+22,748307,9.08,7-6,SJE,Mål,PL,7,Melissa PETRÉN,Assist,28,Sarah PAULSEN,38,Yara TEN HOLTE
+23,748307,9.41,,ODE,Skud forbi,HF,34,Andrea HANSEN,,,,12,Stine BROLØS
+24,748307,10.50,,SJE,Skud reddet,PL,7,Melissa PETRÉN,,,,38,Yara TEN HOLTE
+25,748307,11.01,8-6,ODE,Mål,2:e,34,Andrea HANSEN,Assist,68,Helena ELVER,12,Stine BROLØS
+26,748307,11.33,,SJE,Skud reddet,HB,8,Karine DAHLUM,,,,38,Yara TEN HOLTE
+27,748307,11.39,9-6,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,38,Yara TEN HOLTE,12,Stine BROLØS
+28,748307,12.09,,SJE,Skud reddet,HF,6,Lea HANSEN,,,,38,Yara TEN HOLTE
+29,748307,12.44,,ODE,Skud reddet,Gbr,33,Thale Rushfeldt DEILA,,,,12,Stine BROLØS
+30,748307,12.54,,SJE,Time out,,,,,,,,
+31,748307,13.12,,SJE,Fejlaflevering,,28,Sarah PAULSEN,,,,,
+32,748307,13.22,10-6,ODE,Mål,HF,34,Andrea HANSEN,Assist,33,Thale Rushfeldt DEILA,12,Stine BROLØS
+33,748307,14.18,,SJE,Skud reddet,PL,8,Karine DAHLUM,,,,38,Yara TEN HOLTE
+34,748307,14.52,,ODE,Fejlaflevering,,22,Ragnhild DAHL,,,,,
+35,748307,15.25,,SJE,Skud reddet,VF,15,Sara IBRANOVIC,,,,38,Yara TEN HOLTE
+36,748307,15.42,,ODE,Skud reddet,PL,68,Helena ELVER,Retur,34,Andrea HANSEN,12,Stine BROLØS
+37,748307,16.12,11-6,ODE,Mål,ST,3,Maren AARDAHL,Assist,68,Helena ELVER,12,Stine BROLØS
+38,748307,16.59,,SJE,Skud reddet,ST,7,Melissa PETRÉN,,,,38,Yara TEN HOLTE
+39,748307,17.37,12-6,ODE,Mål,ST,34,Andrea HANSEN,Assist,68,Helena ELVER,12,Stine BROLØS
+40,748307,17.47,,SJE,Skud forbi,VB,28,Sarah PAULSEN,,,,38,Yara TEN HOLTE
+41,748307,17.57,13-6,ODE,Mål,PL,33,Thale Rushfeldt DEILA,,,,12,Stine BROLØS
+42,748307,18.07,,SJE,Time out,,,,,,,,
+43,748307,18.39,,SJE,Regelfejl,,7,Melissa PETRÉN,,,,,
+44,748307,19.00,,ODE,Skud reddet,PL,22,Ragnhild DAHL,Retur,0,,12,Stine BROLØS
+45,748307,19.13,14-6,ODE,Mål,Gbr,8,Helene FAUSKE,,,,12,Stine BROLØS
+46,748307,19.22,,SJE,Skud reddet,2:e,31,Ida-Marie DAHL,,,,38,Yara TEN HOLTE
+47,748307,19.56,,ODE,Tilkendt straffe,,3,Maren AARDAHL,Forårs. str.,24,Josefine DRAGENBERG,,
+48,748307,19.56,,SJE,Udvisning,,24,Josefine DRAGENBERG,,,,,
+49,748307,19.59,15-6,ODE,Mål på straffe,,34,Andrea HANSEN,,,,12,Stine BROLØS
+50,748307,20.33,15-7,SJE,Mål,VB,7,Melissa PETRÉN,,,,38,Yara TEN HOLTE
+51,748307,20.58,,ODE,Tabt bold,,8,Helene FAUSKE,,,,,
+52,748307,21.54,15-8,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,10,Nicoline OLSEN,38,Yara TEN HOLTE
+53,748307,22.07,,ODE,Time out,,,,,,,,
+54,748307,22.34,,ODE,Tabt bold,,28,Clara Skyum THOMSEN,,,,,
+55,748307,22.42,,SJE,Tilkendt straffe,,24,Josefine DRAGENBERG,Forårs. str.,22,Ragnhild DAHL,,
+56,748307,23.00,15-9,SJE,Mål på straffe,,7,Melissa PETRÉN,,,,38,Yara TEN HOLTE
+57,748307,23.29,,ODE,Skud reddet,VB,8,Helene FAUSKE,,,,12,Stine BROLØS
+58,748307,23.35,,SJE,Fejlaflevering,,12,Stine BROLØS,Bold erobret,28,Clara Skyum THOMSEN,,
+59,748307,23.55,,ODE,Fejlaflevering,,8,Helene FAUSKE,Bold erobret,10,Nicoline OLSEN,,
+60,748307,24.23,15-10,SJE,Mål,ST,24,Josefine DRAGENBERG,Assist,7,Melissa PETRÉN,38,Yara TEN HOLTE
+61,748307,24.34,16-10,ODE,Mål,ST,3,Maren AARDAHL,Assist,28,Clara Skyum THOMSEN,12,Stine BROLØS
+62,748307,25.31,,ODE,Advarsel,,20,Lysa DEFO,,,,,
+63,748307,26.08,,SJE,Fejlaflevering,,7,Melissa PETRÉN,,,,,
+64,748307,26.21,,ODE,Skud reddet,PL,28,Clara Skyum THOMSEN,,,,12,Stine BROLØS
+65,748307,27.19,,SJE,Skud blokeret,PL,28,Sarah PAULSEN,Blok af (ret),3,Maren AARDAHL,,
+66,748307,27.31,,SJE,Skud forbi,HB,10,Nicoline OLSEN,,,,38,Yara TEN HOLTE
+67,748307,28.25,,ODE,Skud på stolpe,PL,22,Ragnhild DAHL,,,,12,Stine BROLØS
+68,748307,28.54,,SJE,Skud forbi,PL,22,Olivia SIMONSEN,,,,38,Yara TEN HOLTE
+69,748307,29.05,,ODE,Skud forbi,PL,28,Clara Skyum THOMSEN,,,,12,Stine BROLØS
+70,748307,29.31,,SJE,Skud på stolpe,Gbr,22,Olivia SIMONSEN,,,,38,Yara TEN HOLTE
+71,748307,29.57,,ODE,Fejlaflevering,,28,Clara Skyum THOMSEN,,,,,
+72,748307,30.00,16-10,,Halvleg,,,,,,,,
+73,748307,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748307,30.24,,ODE,Tilkendt straffe,,33,Thale Rushfeldt DEILA,Forårs. str.,31,Ida-Marie DAHL,,
+75,748307,30.32,17-10,ODE,Mål på straffe,,34,Andrea HANSEN,,,,26,Nora PERSSON
+76,748307,31.05,,SJE,Fejlaflevering,,28,Sarah PAULSEN,,,,,
+77,748307,31.16,,ODE,Skud reddet,Gbr,28,Clara Skyum THOMSEN,Retur,33,Thale Rushfeldt DEILA,12,Stine BROLØS
+78,748307,31.40,18-10,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,68,Helena ELVER,12,Stine BROLØS
+79,748307,32.11,,SJE,Fejlaflevering,,8,Karine DAHLUM,Bold erobret,20,Lysa DEFO,,
+80,748307,32.17,,ODE,Tabt bold,,6,Malin AUNE,,,,,
+81,748307,32.52,,SJE,Skud reddet,PL,8,Karine DAHLUM,,,,26,Katrine LUNDE
+82,748307,32.58,19-10,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,26,Katrine LUNDE,12,Stine BROLØS
+83,748307,33.36,19-11,SJE,Mål,PL,28,Sarah PAULSEN,,,,26,Katrine LUNDE
+84,748307,34.04,,SJE,Udvisning,,14,Louise ELLEBÆK,,,,,
+85,748307,34.12,20-11,ODE,Mål,HB,28,Clara Skyum THOMSEN,Assist,68,Helena ELVER,12,Stine BROLØS
+86,748307,34.49,20-12,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,10,Nicoline OLSEN,26,Katrine LUNDE
+87,748307,35.10,,ODE,Skud reddet,HF,6,Malin AUNE,,,,12,Stine BROLØS
+88,748307,36.03,20-13,SJE,Mål,VB,7,Melissa PETRÉN,,,,26,Katrine LUNDE
+89,748307,36.33,,ODE,Tilkendt straffe,,20,Lysa DEFO,Forårs. str.,14,Louise ELLEBÆK,,
+90,748307,36.54,21-13,ODE,Mål på straffe,,34,Andrea HANSEN,,,,12,Stine BROLØS
+91,748307,37.24,,SJE,Fejlaflevering,,7,Melissa PETRÉN,,,,,
+92,748307,37.37,22-13,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,68,Helena ELVER,12,Stine BROLØS
+93,748307,38.27,22-14,SJE,Mål,ST,24,Josefine DRAGENBERG,Assist,7,Melissa PETRÉN,26,Katrine LUNDE
+94,748307,39.04,,ODE,Fejlaflevering,,68,Helena ELVER,,,,,
+95,748307,39.10,22-15,SJE,Mål,1:e,14,Louise ELLEBÆK,Assist,31,Ida-Marie DAHL,26,Katrine LUNDE
+96,748307,39.11,,ODE,Udvisning,,68,Helena ELVER,,,,,
+97,748307,39.36,,ODE,Tilkendt straffe,,28,Clara Skyum THOMSEN,Forårs. str.,17,June BØTTGER,,
+98,748307,39.45,23-15,ODE,Mål på straffe,,34,Andrea HANSEN,,,,12,Stine BROLØS
+99,748307,40.06,,SJE,Skud på stolpe,Gbr,7,Melissa PETRÉN,,,,26,Katrine LUNDE
+100,748307,40.30,24-15,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,12,Stine BROLØS
+101,748307,40.51,24-16,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,26,Katrine LUNDE
+102,748307,41.16,25-16,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,12,Stine BROLØS
+103,748307,41.49,,SJE,Skud reddet,Gbr,10,Nicoline OLSEN,,,,26,Katrine LUNDE
+104,748307,42.22,,,,,,,,,,,
+105,748307,42.26,25-17,SJE,Mål,1:e,6,Lea HANSEN,Assist,31,Ida-Marie DAHL,26,Katrine LUNDE
+106,748307,43.02,,ODE,Fejlaflevering,,28,Clara Skyum THOMSEN,Bold erobret,31,Ida-Marie DAHL,,
+107,748307,43.08,25-18,SJE,Mål,2:e,6,Lea HANSEN,Assist,31,Ida-Marie DAHL,26,Katrine LUNDE
+108,748307,43.55,26-18,ODE,Mål,HF,6,Malin AUNE,Assist,33,Thale Rushfeldt DEILA,12,Stine BROLØS
+109,748307,44.42,26-19,SJE,Mål,Gbr,28,Sarah PAULSEN,Assist,7,Melissa PETRÉN,26,Katrine LUNDE
+110,748307,45.14,,ODE,Tilkendt straffe,,28,Clara Skyum THOMSEN,Forårs. str.,28,Sarah PAULSEN,,
+111,748307,45.35,27-19,ODE,Mål på straffe,,34,Andrea HANSEN,,,,26,Nora PERSSON
+112,748307,46.05,,SJE,Fejlaflevering,,7,Melissa PETRÉN,,,,,
+113,748307,46.11,28-19,ODE,Mål,Gbr,8,Helene FAUSKE,,,,26,Nora PERSSON
+114,748307,46.42,28-20,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,7,Melissa PETRÉN,26,Katrine LUNDE
+115,748307,47.17,29-20,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,26,Nora PERSSON
+116,748307,47.59,,SJE,Tabt bold,,28,Sarah PAULSEN,,,,,
+117,748307,49.02,,ODE,Skud reddet,PL,22,Ragnhild DAHL,,,,26,Nora PERSSON
+118,748307,49.27,,SJE,Skud reddet,ST,24,Josefine DRAGENBERG,,,,26,Katrine LUNDE
+119,748307,50.09,30-20,ODE,Mål,Gbr,8,Helene FAUSKE,,,,26,Nora PERSSON
+120,748307,50.35,30-21,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,26,Katrine LUNDE
+121,748307,51.08,,ODE,Skud reddet,PL,8,Helene FAUSKE,,,,26,Nora PERSSON
+122,748307,51.36,30-22,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,26,Katrine LUNDE
+123,748307,52.16,,ODE,Fejlaflevering,,8,Helene FAUSKE,Bold erobret,28,Sarah PAULSEN,,
+124,748307,52.18,30-23,SJE,Mål,1:e,31,Ida-Marie DAHL,Assist,28,Sarah PAULSEN,26,Katrine LUNDE
+125,748307,52.19,,ODE,Time out,,,,,,,,
+126,748307,52.52,,ODE,Fejlaflevering,,28,Clara Skyum THOMSEN,Bold erobret,31,Ida-Marie DAHL,,
+127,748307,52.58,30-24,SJE,Mål,1:e,17,June BØTTGER,Assist,31,Ida-Marie DAHL,26,Katrine LUNDE
+128,748307,53.24,,ODE,Skud reddet,HB,28,Clara Skyum THOMSEN,,,,26,Nora PERSSON
+129,748307,53.46,,SJE,Fejlaflevering,,7,Melissa PETRÉN,Bold erobret,23,Elma HALILCEVIC,,
+130,748307,53.49,31-24,ODE,Mål,1:e,23,Elma HALILCEVIC,,,,26,Nora PERSSON
+131,748307,54.17,31-25,SJE,Mål,ST,31,Ida-Marie DAHL,Assist,28,Sarah PAULSEN,26,Katrine LUNDE
+132,748307,54.47,32-25,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,Assist,8,Helene FAUSKE,26,Nora PERSSON
+133,748307,55.24,,SJE,Fejlaflevering,,28,Sarah PAULSEN,Bold erobret,22,Ragnhild DAHL,,
+134,748307,55.28,33-25,ODE,Mål,1:e,3,Maren AARDAHL,Assist,20,Lysa DEFO,26,Nora PERSSON
+135,748307,55.55,,SJE,Skud reddet,VF,17,June BØTTGER,Retur,0,,26,Katrine LUNDE
+136,748307,56.17,33-26,SJE,Mål,PL,7,Melissa PETRÉN,,,,26,Katrine LUNDE
+137,748307,56.50,,ODE,Skud forbi,PL,33,Thale Rushfeldt DEILA,,,,26,Nora PERSSON
+138,748307,57.27,,SJE,Skud forbi,PL,7,Melissa PETRÉN,,,,26,Katrine LUNDE
+139,748307,57.52,34-26,ODE,Mål,Gbr,8,Helene FAUSKE,,,,26,Nora PERSSON
+140,748307,58.48,,SJE,Skud reddet,VF,17,June BØTTGER,,,,26,Katrine LUNDE
+141,748307,59.21,35-26,ODE,Mål,HF,34,Andrea HANSEN,Assist,33,Thale Rushfeldt DEILA,26,Nora PERSSON
+142,748307,60.00,35-26,,Fuld tid,,,,,,,,

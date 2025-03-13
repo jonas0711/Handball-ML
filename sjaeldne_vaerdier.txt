@@ -1,0 +1,92 @@
+=== SJÆLDNE VÆRDIER (< 10 FOREKOMSTER) OG DERES FILER ===
+
+--- HAENDELSE_1 ---
+Antal sjældne værdier: 5
+Værdier, antal forekomster og filer:
+'Protest': 1 forekomster i 1 filer:
+  - kamp_748725_TMS_Ringsted_vs_Skjern_Håndbold.csv
+'Start': 1 forekomster i 1 filer:
+  - kamp_748227_Bjerringbro_FH_vs_Odense_Håndbold.csv
+'Udvisning (2x)': 1 forekomster i 1 filer:
+  - kamp_748258_Aarhus_Håndbold_Kvinder_vs_Nykøbing_F__Håndbold.csv
+'Blåt kort': 2 forekomster i 2 filer:
+  - kamp_748262_Nykøbing_F__Håndbold_vs_København_Håndbold.csv
+  - kamp_748694_Bjerringbro-Silkeborg_vs_TMS_Ringsted.csv
+'Rødt kort': 4 forekomster i 4 filer:
+  - kamp_748222_Odense_Håndbold_vs_Ikast_Håndbold.csv
+  - kamp_748701_KIF_Kolding_vs_Aalborg_Håndbold.csv
+  - kamp_748758_Skjern_Håndbold_vs_SAH___Skanderborg_AGF.csv
+  - kamp_748759_Aalborg_Håndbold_vs_GOG.csv
+
+--- HOLD ---
+Antal sjældne værdier: 4
+Værdier, antal forekomster og filer:
+'Video Proof': 2 forekomster i 1 filer:
+  - kamp_748631_GOG_vs_Bjerringbro-Silkeborg.csv
+'Video Proof slut': 2 forekomster i 1 filer:
+  - kamp_748631_GOG_vs_Bjerringbro-Silkeborg.csv
+'Halvleg': 4 forekomster i 4 filer:
+  - kamp_748180_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.csv
+  - kamp_748185_Nykøbing_F__Håndbold_vs_Odense_Håndbold.csv
+  - kamp_748631_GOG_vs_Bjerringbro-Silkeborg.csv
+  - kamp_748670_Fredericia_Håndbold_Klub_vs_Nordsjælland_Håndbold.csv
+'Start 2:e halvleg': 4 forekomster i 4 filer:
+  - kamp_748180_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.csv
+  - kamp_748185_Nykøbing_F__Håndbold_vs_Odense_Håndbold.csv
+  - kamp_748631_GOG_vs_Bjerringbro-Silkeborg.csv
+  - kamp_748670_Fredericia_Håndbold_Klub_vs_Nordsjælland_Håndbold.csv
+
+--- POS ---
+Antal sjældne værdier: 15
+Værdier, antal forekomster og filer:
+'Gbr 44': 1 forekomster i 1 filer:
+  - kamp_748649_KIF_Kolding_vs_TMS_Ringsted.csv
+'Gbr 15': 1 forekomster i 1 filer:
+  - kamp_748729_GOG_vs_Grindsted_GIF__Håndbold.csv
+'Gbr 29': 1 forekomster i 1 filer:
+  - kamp_748729_GOG_vs_Grindsted_GIF__Håndbold.csv
+'HB 18': 1 forekomster i 1 filer:
+  - kamp_748729_GOG_vs_Grindsted_GIF__Håndbold.csv
+'Gbr 79': 1 forekomster i 1 filer:
+  - kamp_748197_Nykøbing_F__Håndbold_vs_EH_Aalborg.csv
+'HB 21': 1 forekomster i 1 filer:
+  - kamp_748199_Bjerringbro_FH_vs_Silkeborg-Voel_KFUM.csv
+'1:e halvleg': 1 forekomster i 1 filer:
+  - kamp_748227_Bjerringbro_FH_vs_Odense_Håndbold.csv
+'HB 77': 1 forekomster i 1 filer:
+  - kamp_748271_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.csv
+'Gbr 17': 1 forekomster i 1 filer:
+  - kamp_748271_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.csv
+'HB 19': 2 forekomster i 1 filer:
+  - kamp_748649_KIF_Kolding_vs_TMS_Ringsted.csv
+'HB 29': 2 forekomster i 1 filer:
+  - kamp_748729_GOG_vs_Grindsted_GIF__Håndbold.csv
+'HB 11': 2 forekomster i 1 filer:
+  - kamp_748199_Bjerringbro_FH_vs_Silkeborg-Voel_KFUM.csv
+'Gbr 77': 2 forekomster i 1 filer:
+  - kamp_748271_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.csv
+'Gbr 14': 2 forekomster i 2 filer:
+  - kamp_748271_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.csv
+  - kamp_748272_Team_Esbjerg_vs_Silkeborg-Voel_KFUM.csv
+'Gbr 18': 4 forekomster i 3 filer:
+  - kamp_748199_Bjerringbro_FH_vs_Silkeborg-Voel_KFUM.csv
+  - kamp_748210_Nykøbing_F__Håndbold_vs_Skanderborg_Håndbold.csv
+  - kamp_748729_GOG_vs_Grindsted_GIF__Håndbold.csv
+
+--- HAENDELSE_2 ---
+Antal sjældne værdier: 6
+Værdier, antal forekomster og filer:
+'36': 1 forekomster i 1 filer:
+  - kamp_748699_Mors-Thy_Håndbold_vs_Fredericia_Håndbold_Klub.csv
+'97': 1 forekomster i 1 filer:
+  - kamp_748709_GOG_vs_Fredericia_Håndbold_Klub.csv
+'42': 1 forekomster i 1 filer:
+  - kamp_748735_Sønderjyske_Herrehåndbold_vs_Nordsjælland_Håndbold.csv
+'Bold erobret 26': 1 forekomster i 1 filer:
+  - kamp_748760_KIF_Kolding_vs_Bjerringbro-Silkeborg.csv
+'41': 2 forekomster i 1 filer:
+  - kamp_748642_Fredericia_Håndbold_Klub_vs_Skjern_Håndbold.csv
+'93': 3 forekomster i 3 filer:
+  - kamp_748678_Ribe-Esbjerg_HH_vs_Fredericia_Håndbold_Klub.csv
+  - kamp_748699_Mors-Thy_Håndbold_vs_Fredericia_Håndbold_Klub.csv
+  - kamp_748709_GOG_vs_Fredericia_Håndbold_Klub.csv

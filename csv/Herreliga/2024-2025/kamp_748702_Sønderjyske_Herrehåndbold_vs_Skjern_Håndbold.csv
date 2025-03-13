@@ -1,0 +1,120 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748702,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748702,0.37,,SJE,Skud reddet,VF,28,Patrick VOLZ,,,,1,Christoffer BONDE
+3,748702,1.10,,SJE,Udvisning,,14,Jacob BAGERSTED,,,,,
+4,748702,1.23,0-1,SKH,Mål,Gbr,22,Jakob RASMUSSEN,,,,1,Matthias DORGELO
+5,748702,2.10,,SJE,Skud reddet,Gbr,20,August WIGER,,,,1,Christoffer BONDE
+6,748702,2.45,,SKH,Regelfejl,,22,Jakob RASMUSSEN,,,,,
+7,748702,3.22,1-1,SJE,Mål,VB,11,Nicolaj JØRGENSEN,,,,1,Christoffer BONDE
+8,748702,3.33,1-2,SKH,Mål,2:e,22,Jakob RASMUSSEN,,,,1,Matthias DORGELO
+9,748702,4.14,,SKH,Advarsel,,7,Senjamin BURIC,,,,,
+10,748702,4.36,2-2,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,1,Christoffer BONDE
+11,748702,5.07,2-3,SKH,Mål,Gbr,13,Noah GAUDIN,,,,1,Matthias DORGELO
+12,748702,5.47,,SJE,Skud reddet,VB,11,Nicolaj JØRGENSEN,,,,1,Christoffer BONDE
+13,748702,5.57,2-4,SKH,Mål,2:e,13,Noah GAUDIN,,,,1,Matthias DORGELO
+14,748702,6.46,,SJE,Skud reddet,PL,20,August WIGER,,,,1,Christoffer BONDE
+15,748702,6.56,,SKH,Skud reddet,1:e,14,Emil BERGHOLT,Retur,19,Bjarke CHRISTENSEN,1,Matthias DORGELO
+16,748702,7.33,,SJE,Advarsel,,24,Sebastian AUGUSTINUSSEN,,,,,
+17,748702,7.52,2-5,SKH,Mål,VB,13,Noah GAUDIN,Assist,22,Jakob RASMUSSEN,1,Matthias DORGELO
+18,748702,9.10,3-5,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,1,Christoffer BONDE
+19,748702,9.42,,SJE,Udvisning,,18,Morten BJØRNSHAUGE,,,,,
+20,748702,9.52,3-6,SKH,Mål,Gbr,22,Jakob RASMUSSEN,Assist,15,Lasse MIKKELSEN,1,Matthias DORGELO
+21,748702,10.34,,SJE,Skud reddet,PL,48,Gabriel SETTERBLOM,,,,1,Christoffer BONDE
+22,748702,11.07,,SKH,Skud reddet,VB,15,Lasse MIKKELSEN,,,,1,Matthias DORGELO
+23,748702,11.45,,SJE,Skud reddet,HF,33,Ebbe STANKIEWICZ,,,,1,Christoffer BONDE
+24,748702,12.22,,SKH,Skud forbi,VB,13,Noah GAUDIN,,,,1,Matthias DORGELO
+25,748702,13.20,4-6,SJE,Mål,VF,28,Patrick VOLZ,Assist,11,Nicolaj JØRGENSEN,1,Christoffer BONDE
+26,748702,14.05,,SKH,Regelfejl,,14,Emil BERGHOLT,,,,,
+27,748702,14.58,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+28,748702,15.36,4-7,SKH,Mål,Gbr,13,Noah GAUDIN,,,,1,Matthias DORGELO
+29,748702,16.09,,SJE,Fejlaflevering,,48,Gabriel SETTERBLOM,,,,,
+30,748702,16.20,4-8,SKH,Mål,HF,21,René RASMUSSEN,Assist,13,Noah GAUDIN,1,Matthias DORGELO
+31,748702,16.26,,SJE,Time out,,,,,,,,
+32,748702,16.48,5-8,SJE,Mål,Gbr,24,Sebastian AUGUSTINUSSEN,Assist,11,Nicolaj JØRGENSEN,1,Christoffer BONDE
+33,748702,17.36,5-9,SKH,Mål,Gbr,10,Joaquim NAZARÉ,Assist,13,Noah GAUDIN,1,Matthias DORGELO
+34,748702,18.07,,SJE,Skud reddet,VF,28,Patrick VOLZ,,,,1,Christoffer BONDE
+35,748702,18.18,,SKH,Skud reddet,PL,13,Noah GAUDIN,,,,1,Matthias DORGELO
+36,748702,18.27,6-9,SJE,Mål,1:e,28,Patrick VOLZ,Assist,,,1,Matthias DORGELO
+37,748702,18.56,,SKH,Skud reddet,Gbr,10,Joaquim NAZARÉ,,,,1,Matthias DORGELO
+38,748702,19.05,7-9,SJE,Mål,VF,28,Patrick VOLZ,Assist,29,Magnus FREDRIKSEN,1,Christoffer BONDE
+39,748702,19.33,,SKH,Skud reddet,HB,10,Joaquim NAZARÉ,,,,1,Matthias DORGELO
+40,748702,20.25,,SKH,Udvisning,,10,Joaquim NAZARÉ,,,,,
+41,748702,20.35,8-9,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,1,Christoffer BONDE
+42,748702,21.12,8-10,SKH,Mål,Gbr,13,Noah GAUDIN,,,,1,Matthias DORGELO
+43,748702,21.38,,SJE,Tilkendt straffe,,29,Magnus FREDRIKSEN,Forårs. str.,25,Eivind TANGEN,,
+44,748702,21.52,,SJE,Straffekast reddet,,11,Nicolaj JØRGENSEN,,,,1,Christoffer BONDE
+45,748702,22.43,8-11,SKH,Mål,HB,13,Noah GAUDIN,,,,1,Matthias DORGELO
+46,748702,23.21,9-11,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,1,Christoffer BONDE
+47,748702,24.06,9-12,SKH,Mål,Gbr,13,Noah GAUDIN,Assist,25,Eivind TANGEN,1,Matthias DORGELO
+48,748702,24.47,10-12,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,,,,1,Christoffer BONDE
+49,748702,25.17,,SKH,Fejlaflevering,,25,Eivind TANGEN,,,,,
+50,748702,25.27,,SJE,Tabt bold,,24,Sebastian AUGUSTINUSSEN,,,,,
+51,748702,25.42,10-13,SKH,Mål,PL,13,Noah GAUDIN,,,,30,Julius STEN
+52,748702,26.13,11-13,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,1,Christoffer BONDE
+53,748702,26.53,,SKH,Skud reddet,VF,19,Bjarke CHRISTENSEN,Retur,0,,30,Julius STEN
+54,748702,27.11,11-14,SKH,Mål,HB,25,Eivind TANGEN,Assist,22,Jakob RASMUSSEN,30,Julius STEN
+55,748702,27.52,,SKH,Udvisning,,18,Vetle RØNNINGEN,,,,,
+56,748702,28.11,12-14,SJE,Mål,Gbr,11,Nicolaj JØRGENSEN,Assist,33,Ebbe STANKIEWICZ,1,Christoffer BONDE
+57,748702,28.49,,SKH,Time out,,,,,,,,
+58,748702,29.14,12-15,SKH,Mål,VB,13,Noah GAUDIN,,,,30,Julius STEN
+59,748702,29.56,13-15,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,20,August WIGER,1,Christoffer BONDE
+60,748702,30.00,13-15,,Halvleg,,,,,,,,
+61,748702,30.00,,,Start 2:e halvleg,,,,,,,,
+62,748702,30.52,,SKH,Skud blokeret,PL,22,Jakob RASMUSSEN,Blokeret af,18,Morten BJØRNSHAUGE,,
+63,748702,31.41,14-15,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,29,Magnus FREDRIKSEN,1,Christoffer BONDE
+64,748702,32.16,14-16,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,30,Julius STEN
+65,748702,33.19,,SJE,Skud reddet,Gbr,29,Magnus FREDRIKSEN,,,,1,Christoffer BONDE
+66,748702,33.31,14-17,SKH,Mål,1:e,13,Noah GAUDIN,,,,30,Julius STEN
+67,748702,34.17,,SJE,Skud blokeret,PL,11,Nicolaj JØRGENSEN,Blok af (ret),0,,,
+68,748702,34.31,15-17,SJE,Mål,VB,20,August WIGER,,,,1,Christoffer BONDE
+69,748702,34.58,15-18,SKH,Mål,Gbr,13,Noah GAUDIN,,,,30,Julius STEN
+70,748702,35.33,,SJE,Tilkendt straffe,,20,August WIGER,Forårs. str.,7,Senjamin BURIC,,
+71,748702,35.39,16-18,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,1,Christoffer BONDE
+72,748702,36.07,,SKH,Skud på stolpe,VB,10,Joaquim NAZARÉ,,,,30,Julius STEN
+73,748702,36.57,,SJE,Skud forbi,PL,20,August WIGER,,,,1,Christoffer BONDE
+74,748702,37.09,,SKH,Skud reddet,Gbr,13,Noah GAUDIN,,,,30,Julius STEN
+75,748702,37.18,,SJE,Skud forbi,HB,48,Gabriel SETTERBLOM,,,,1,Christoffer BONDE
+76,748702,37.48,,SKH,Tilkendt straffe,,13,Noah GAUDIN,Forårs. str.,14,Jacob BAGERSTED,,
+77,748702,37.58,16-19,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,30,Julius STEN
+78,748702,38.42,,SJE,Tabt bold,,11,Nicolaj JØRGENSEN,,,,,
+79,748702,38.52,,SKH,Skud reddet,PL,13,Noah GAUDIN,,,,30,Julius STEN
+80,748702,39.32,,SJE,Skud blokeret,HB,48,Gabriel SETTERBLOM,Blok af (ret),0,,,
+81,748702,39.47,17-19,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,0,,1,Christoffer BONDE
+82,748702,40.24,,SKH,Skud reddet,PL,10,Joaquim NAZARÉ,,,,30,Julius STEN
+83,748702,40.56,18-19,SJE,Mål,ST,18,Morten BJØRNSHAUGE,,,,1,Christoffer BONDE
+84,748702,41.31,,SKH,Tilkendt straffe,,13,Noah GAUDIN,Forårs. str.,48,Gabriel SETTERBLOM,,
+85,748702,41.33,,SJE,Udvisning,,48,Gabriel SETTERBLOM,,,,,
+86,748702,41.33,,SKH,Straffekast på stolpe,,15,Lasse MIKKELSEN,,,,30,Julius STEN
+87,748702,42.36,19-19,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,29,Magnus FREDRIKSEN,1,Christoffer BONDE
+88,748702,43.07,,SKH,Time out,,,,,,,,
+89,748702,43.19,19-20,SKH,Mål,ST,7,Senjamin BURIC,Assist,10,Joaquim NAZARÉ,30,Julius STEN
+90,748702,43.51,,SJE,Regelfejl,,18,Morten BJØRNSHAUGE,,,,,
+91,748702,44.19,19-21,SKH,Mål,ST,7,Senjamin BURIC,Assist,13,Noah GAUDIN,30,Julius STEN
+92,748702,45.27,,SJE,Skud reddet,Gbr,11,Nicolaj JØRGENSEN,,,,1,Christoffer BONDE
+93,748702,45.58,19-22,SKH,Mål,Gbr,22,Jakob RASMUSSEN,,,,30,Julius STEN
+94,748702,46.37,20-22,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,48,Gabriel SETTERBLOM,1,Christoffer BONDE
+95,748702,47.17,20-23,SKH,Mål,VF,19,Bjarke CHRISTENSEN,Assist,13,Noah GAUDIN,30,Julius STEN
+96,748702,47.24,,SJE,Time out,,,,,,,,
+97,748702,47.54,21-23,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,1,Christoffer BONDE
+98,748702,48.24,,SKH,Skud reddet,Gbr,10,Joaquim NAZARÉ,,,,30,Julius STEN
+99,748702,48.57,22-23,SJE,Mål,VF,6,Nikolaj SVALASTOG,Assist,29,Magnus FREDRIKSEN,1,Christoffer BONDE
+100,748702,49.48,22-24,SKH,Mål,VB,13,Noah GAUDIN,,,,30,Julius STEN
+101,748702,50.25,23-24,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,1,Christoffer BONDE
+102,748702,50.58,,SKH,Regelfejl,,14,Emil BERGHOLT,,,,,
+103,748702,51.40,,SJE,Regelfejl,,11,Nicolaj JØRGENSEN,,,,,
+104,748702,52.09,,,,,,,,,,,
+105,748702,53.01,,SJE,Skud reddet,PL,29,Magnus FREDRIKSEN,,,,1,Christoffer BONDE
+106,748702,53.45,23-25,SKH,Mål,Gbr,13,Noah GAUDIN,,,,30,Julius STEN
+107,748702,54.14,,SJE,Skud reddet,Gbr,24,Sebastian AUGUSTINUSSEN,,,,1,Christoffer BONDE
+108,748702,54.50,23-26,SKH,Mål,PL,13,Noah GAUDIN,,,,30,Julius STEN
+109,748702,54.56,,SJE,Time out,,,,,,,,
+110,748702,55.33,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+111,748702,56.04,23-27,SKH,Mål,Gbr,25,Eivind TANGEN,,,,1,Matthias DORGELO
+112,748702,56.11,24-27,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,,,1,Christoffer BONDE
+113,748702,57.02,,SJE,Udvisning,,24,Sebastian AUGUSTINUSSEN,,,,,
+114,748702,57.21,24-28,SKH,Mål,HF,21,René RASMUSSEN,Assist,25,Eivind TANGEN,1,Matthias DORGELO
+115,748702,57.49,25-28,SJE,Mål,HB,11,Nicolaj JØRGENSEN,,,,1,Christoffer BONDE
+116,748702,58.21,25-29,SKH,Mål,PL,10,Joaquim NAZARÉ,,,,1,Matthias DORGELO
+117,748702,58.33,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+118,748702,58.56,25-30,SKH,Mål,ST,7,Senjamin BURIC,Assist,10,Joaquim NAZARÉ,1,Matthias DORGELO
+119,748702,59.51,,SKH,Udvisning,,25,Eivind TANGEN,,,,,

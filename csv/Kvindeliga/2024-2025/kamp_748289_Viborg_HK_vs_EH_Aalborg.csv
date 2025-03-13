@@ -1,0 +1,149 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748289,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748289,0.40,1-0,VHK,Mål,VF,3,Alberte SIMONSEN,Assist,26,Christina PEDERSEN,1,Annika FRIDHEIM
+3,748289,1.41,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+4,748289,1.51,,VHK,Skud reddet,2:e,77,Jana MITTÚN,,,,1,Annika FRIDHEIM
+5,748289,2.37,,EHA,Regelfejl,,4,Cecilie TERMANSEN,,,,,
+6,748289,3.17,2-0,VHK,Mål,HB,62,Louise SØNDERGAARD,,,,1,Annika FRIDHEIM
+7,748289,3.53,,EHA,Skud på stolpe,PL,23,Silje BRØNS,,,,16,Louise Bak JENSEN
+8,748289,3.58,3-0,VHK,Mål,1:e,19,Sara HALD,Assist,77,Jana MITTÚN,1,Annika FRIDHEIM
+9,748289,4.12,3-1,EHA,Mål,2:e,21,Frederikke GULMARK,,,,16,Louise Bak JENSEN
+10,748289,4.40,4-1,VHK,Mål,Gbr,77,Jana MITTÚN,,,,1,Annika FRIDHEIM
+11,748289,5.42,4-2,EHA,Mål,PL,23,Silje BRØNS,,,,16,Louise Bak JENSEN
+12,748289,6.27,,VHK,Tabt bold,,62,Louise SØNDERGAARD,,,,,
+13,748289,6.31,4-3,EHA,Mål,1:e,21,Frederikke GULMARK,Assist,30,Clara LERBY,16,Louise Bak JENSEN
+14,748289,6.46,,EHA,Advarsel,,4,Cecilie TERMANSEN,,,,,
+15,748289,6.55,,EHA,Advarsel,A,,Peter Nedergaard JAGD,,,,,
+16,748289,7.04,5-3,VHK,Mål,VB,26,Christina PEDERSEN,,,,1,Annika FRIDHEIM
+17,748289,8.11,,EHA,Skud reddet,PL,5,Anna Hviid BANG,,,,16,Louise Bak JENSEN
+18,748289,8.42,6-3,VHK,Mål,HB,62,Louise SØNDERGAARD,,,,1,Annika FRIDHEIM
+19,748289,9.27,,EHA,Tilkendt straffe,,4,Cecilie TERMANSEN,Forårs. str.,5,Marielle MARTINSEN,,
+20,748289,9.29,,VHK,Advarsel,,5,Marielle MARTINSEN,,,,,
+21,748289,9.45,6-4,EHA,Mål på straffe,,30,Clara LERBY,,,,16,Louise Bak JENSEN
+22,748289,10.19,,VHK,Fejlaflevering,,62,Louise SØNDERGAARD,,,,,
+23,748289,10.29,,VHK,Udvisning,,19,Sara HALD,,,,,
+24,748289,10.59,6-5,EHA,Mål,HF,28,Maiken SKOV,Assist,19,Mette BRANDT,16,Louise Bak JENSEN
+25,748289,11.39,,VHK,Skud reddet,VF,3,Alberte SIMONSEN,,,,1,Annika FRIDHEIM
+26,748289,12.09,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+27,748289,12.42,,VHK,Fejlaflevering,,77,Jana MITTÚN,,,,,
+28,748289,12.53,,EHA,Skud forbi,2:e,22,Mirja LYNGSØ,,,,16,Louise Bak JENSEN
+29,748289,13.05,,VHK,Skud reddet,2:e,18,Henriette HANSEN,,,,1,Annika FRIDHEIM
+30,748289,13.22,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+31,748289,13.50,7-5,VHK,Mål,1:e,77,Jana MITTÚN,,,,1,Annika FRIDHEIM
+32,748289,14.55,7-6,EHA,Mål,Gbr,21,Frederikke GULMARK,,,,16,Louise Bak JENSEN
+33,748289,15.02,8-6,VHK,Mål,2:e,18,Henriette HANSEN,Assist,77,Jana MITTÚN,1,Annika FRIDHEIM
+34,748289,15.38,8-7,EHA,Mål,VF,30,Clara LERBY,Assist,19,Mette BRANDT,16,Louise Bak JENSEN
+35,748289,16.13,9-7,VHK,Mål,VF,3,Alberte SIMONSEN,Assist,26,Christina PEDERSEN,1,Annika FRIDHEIM
+36,748289,16.57,9-8,EHA,Mål,ST,9,Camilla THORHAUGE,Assist,19,Mette BRANDT,12,Ida Marie KAYSEN
+37,748289,17.12,,VHK,Regelfejl,,9,Laura THESTRUP,,,,,
+38,748289,17.38,9-9,EHA,Mål,PL,19,Mette BRANDT,,,,12,Ida Marie KAYSEN
+39,748289,17.48,10-9,VHK,Mål,2:e,21,Anne HYKKELBJERG,,,,0,
+40,748289,18.13,10-10,EHA,Mål,VF,30,Clara LERBY,Assist,21,Frederikke GULMARK,12,Ida Marie KAYSEN
+41,748289,18.26,,VHK,Time out,,,,,,,,
+42,748289,18.28,,VHK,Fejlaflevering,,77,Jana MITTÚN,,,,,
+43,748289,19.19,10-11,EHA,Mål,Gbr,19,Mette BRANDT,,,,12,Ida Marie KAYSEN
+44,748289,20.16,11-11,VHK,Mål,VF,3,Alberte SIMONSEN,Assist,77,Jana MITTÚN,1,Annika FRIDHEIM
+45,748289,20.33,11-12,EHA,Mål,2:e,22,Mirja LYNGSØ,,,,12,Ida Marie KAYSEN
+46,748289,20.36,,VHK,Regelfejl,,26,Christina PEDERSEN,,,,,
+47,748289,21.16,11-13,EHA,Mål,2:e,8,Tine GEERTSEN,Assist,22,Mirja LYNGSØ,12,Ida Marie KAYSEN
+48,748289,21.26,,VHK,Regelfejl,,19,Sara HALD,,,,,
+49,748289,21.56,,EHA,Skud reddet,Gbr,8,Tine GEERTSEN,,,,12,Ida Marie KAYSEN
+50,748289,22.28,12-13,VHK,Mål,Gbr,5,Marielle MARTINSEN,Assist,77,Jana MITTÚN,1,Annika FRIDHEIM
+51,748289,23.08,,EHA,Skud reddet,Gbr,5,Anna Hviid BANG,Retur,0,,12,Ida Marie KAYSEN
+52,748289,23.14,,EHA,Skud på stolpe,ST,19,Mette BRANDT,,,,12,Ida Marie KAYSEN
+53,748289,23.23,,VHK,Skud reddet,2:e,9,Laura THESTRUP,,,,1,Annika FRIDHEIM
+54,748289,23.30,,EHA,Skud reddet,HF,28,Maiken SKOV,,,,12,Ida Marie KAYSEN
+55,748289,23.53,,EHA,Udvisning,,28,Maiken SKOV,,,,,
+56,748289,24.18,13-13,VHK,Mål,HF,18,Henriette HANSEN,Assist,5,Marielle MARTINSEN,1,Annika FRIDHEIM
+57,748289,25.18,,EHA,Passivt spil,,0,,,,,,
+58,748289,25.37,14-13,VHK,Mål,Gbr,5,Marielle MARTINSEN,Assist,77,Jana MITTÚN,1,Annika FRIDHEIM
+59,748289,25.55,,EHA,Time out,,,,,,,,
+60,748289,26.14,14-14,EHA,Mål,HF,28,Maiken SKOV,Assist,19,Mette BRANDT,12,Ida Marie KAYSEN
+61,748289,26.19,,EHA,Udvisning,,4,Cecilie TERMANSEN,,,,,
+62,748289,26.32,15-14,VHK,Mål,ST,19,Sara HALD,Assist,26,Christina PEDERSEN,1,Annika FRIDHEIM
+63,748289,27.13,,EHA,Skud reddet,Gbr,23,Silje BRØNS,,,,12,Ida Marie KAYSEN
+64,748289,27.26,16-14,VHK,Mål,1:e,9,Laura THESTRUP,,,,0,
+65,748289,28.48,,EHA,Skud blokeret,HB,21,Frederikke GULMARK,Blokeret af,9,Laura THESTRUP,,
+66,748289,29.19,17-14,VHK,Mål,Gbr,77,Jana MITTÚN,,,,1,Annika FRIDHEIM
+67,748289,29.49,,EHA,Skud reddet,Gbr,21,Frederikke GULMARK,Retur,0,,12,Ida Marie KAYSEN
+68,748289,29.49,,EHA,Tilkendt straffe,,22,Mirja LYNGSØ,Forårs. str.,19,Sara HALD,,
+69,748289,29.49,,VHK,Udvisning,,19,Sara HALD,,,,,
+70,748289,29.51,17-15,EHA,Mål på straffe,,19,Mette BRANDT,,,,12,Ida Marie KAYSEN
+71,748289,30.00,,VHK,Skud reddet,2:e,26,Christina PEDERSEN,,,,1,Annika FRIDHEIM
+72,748289,30.00,17-15,,Halvleg,,,,,,,,
+73,748289,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748289,30.00,,EHA,Skud reddet,Gbr,23,Silje BRØNS,,,,12,Ida Marie KAYSEN
+75,748289,31.05,18-15,VHK,Mål,HF,18,Henriette HANSEN,Assist,77,Jana MITTÚN,1,Annika FRIDHEIM
+76,748289,31.09,,VHK,Advarsel,A,,Ole BITSCH,,,,,
+77,748289,31.34,,EHA,Tilkendt straffe,,23,Silje BRØNS,Forårs. str.,3,Alberte SIMONSEN,,
+78,748289,31.34,,VHK,Udvisning,,3,Alberte SIMONSEN,,,,,
+79,748289,31.37,18-16,EHA,Mål på straffe,,30,Clara LERBY,,,,12,Ida Marie KAYSEN
+80,748289,32.17,19-16,VHK,Mål,ST,19,Sara HALD,Assist,77,Jana MITTÚN,1,Annika FRIDHEIM
+81,748289,33.07,,EHA,Skud på stolpe,HF,28,Maiken SKOV,,,,12,Ida Marie KAYSEN
+82,748289,33.39,20-16,VHK,Mål,Gbr,18,Henriette HANSEN,Assist,5,Marielle MARTINSEN,1,Annika FRIDHEIM
+83,748289,33.53,,EHA,Regelfejl,,9,Camilla THORHAUGE,,,,,
+84,748289,33.58,21-16,VHK,Mål,VF,3,Alberte SIMONSEN,Assist,77,Jana MITTÚN,1,Annika FRIDHEIM
+85,748289,35.13,21-17,EHA,Mål,Gbr,21,Frederikke GULMARK,Assist,19,Mette BRANDT,12,Ida Marie KAYSEN
+86,748289,36.12,,VHK,Regelfejl,,62,Louise SØNDERGAARD,,,,,
+87,748289,36.46,,EHA,Skud reddet,ST,9,Camilla THORHAUGE,,,,12,Ida Marie KAYSEN
+88,748289,36.54,22-17,VHK,Mål,2:e,77,Jana MITTÚN,,,,1,Annika FRIDHEIM
+89,748289,37.32,22-18,EHA,Mål,Gbr,21,Frederikke GULMARK,,,,12,Ida Marie KAYSEN
+90,748289,38.02,23-18,VHK,Mål,Gbr,62,Louise SØNDERGAARD,,,,1,Annika FRIDHEIM
+91,748289,39.01,,EHA,Regelfejl,,28,Maiken SKOV,,,,,
+92,748289,39.11,24-18,VHK,Mål,2:e,26,Christina PEDERSEN,,,,1,Annika FRIDHEIM
+93,748289,39.17,,EHA,Time out,,,,,,,,
+94,748289,39.41,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+95,748289,39.43,,VHK,Tilkendt straffe,,26,Christina PEDERSEN,Forårs. str.,22,Mirja LYNGSØ,,
+96,748289,39.47,25-18,VHK,Mål på straffe,,19,Sara HALD,,,,1,Annika FRIDHEIM
+97,748289,40.16,25-19,EHA,Mål,HB,5,Anna Hviid BANG,,,,12,Ida Marie KAYSEN
+98,748289,40.26,26-19,VHK,Mål,2:e,19,Sara HALD,Assist,26,Christina PEDERSEN,1,Annika FRIDHEIM
+99,748289,41.24,26-20,EHA,Mål,ST,9,Camilla THORHAUGE,Assist,21,Frederikke GULMARK,12,Ida Marie KAYSEN
+100,748289,41.37,27-20,VHK,Mål,2:e,18,Henriette HANSEN,Assist,5,Marielle MARTINSEN,1,Annika FRIDHEIM
+101,748289,41.48,27-21,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,5,Anna Hviid BANG,12,Ida Marie KAYSEN
+102,748289,42.38,,VHK,Skud reddet,Gbr,62,Louise SØNDERGAARD,,,,1,Annika FRIDHEIM
+103,748289,43.13,,EHA,Tilkendt straffe,,9,Camilla THORHAUGE,Forårs. str.,5,Marielle MARTINSEN,,
+104,748289,44.01,28-21,VHK,Mål,HB,62,Louise SØNDERGAARD,Assist,26,Christina PEDERSEN,1,Annika FRIDHEIM
+105,748289,44.13,,EHA,Time out,,,,,,,,
+106,748289,44.32,28-22,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,12,Ida Marie KAYSEN
+107,748289,44.45,,VHK,Skud reddet,2:e,5,Marielle MARTINSEN,,,,1,Annika FRIDHEIM
+108,748289,44.54,,EHA,Tabt bold,,5,Anna Hviid BANG,,,,,
+109,748289,45.24,29-22,VHK,Mål,VB,26,Christina PEDERSEN,,,,1,Annika FRIDHEIM
+110,748289,46.14,,EHA,Tilkendt straffe,,30,Clara LERBY,Forårs. str.,5,Marielle MARTINSEN,,
+111,748289,46.24,29-23,EHA,Mål på straffe,,19,Mette BRANDT,,,,16,Louise Bak JENSEN
+112,748289,46.46,,VHK,Skud reddet,HB,62,Louise SØNDERGAARD,,,,1,Annika FRIDHEIM
+113,748289,47.09,29-24,EHA,Mål,2:e,5,Anna Hviid BANG,,,,12,Ida Marie KAYSEN
+114,748289,47.52,,VHK,Skud reddet,Gbr,62,Louise SØNDERGAARD,,,,1,Annika FRIDHEIM
+115,748289,47.58,29-25,EHA,Mål,1:e,30,Clara LERBY,Assist,10,Sofie LASSEN,,12
+116,748289,48.02,,VHK,Time out,,,,,,,,
+117,748289,48.04,30-25,VHK,Mål,HF,18,Henriette HANSEN,Assist,5,Marielle MARTINSEN,1,Annika FRIDHEIM
+118,748289,48.40,30-26,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,12,Ida Marie KAYSEN
+119,748289,48.49,31-26,VHK,Mål,2:e,77,Jana MITTÚN,,,,1,Annika FRIDHEIM
+120,748289,49.06,,EHA,Tabt bold,,5,Anna Hviid BANG,,,,,
+121,748289,49.15,,VHK,Skud forbi,1:e,5,Marielle MARTINSEN,,,,1,Annika FRIDHEIM
+122,748289,49.32,31-27,EHA,Mål,Gbr,21,Frederikke GULMARK,Assist,9,Camilla THORHAUGE,,12
+123,748289,50.17,32-27,VHK,Mål,ST,19,Sara HALD,Assist,26,Christina PEDERSEN,1,Annika FRIDHEIM
+124,748289,51.00,,EHA,Tabt bold,,19,Mette BRANDT,Bold erobret,9,Laura THESTRUP,,
+125,748289,51.10,33-27,VHK,Mål,1:e,26,Christina PEDERSEN,,,,0,
+126,748289,51.30,33-28,EHA,Mål,ST,9,Camilla THORHAUGE,Assist,19,Mette BRANDT,,16
+127,748289,52.04,,VHK,Tilkendt straffe,,26,Christina PEDERSEN,Forårs. str.,4,Cecilie TERMANSEN,,
+128,748289,52.20,34-28,VHK,Mål på straffe,,19,Sara HALD,,,,1,Annika FRIDHEIM
+129,748289,52.56,,EHA,Tilkendt straffe,,21,Frederikke GULMARK,Forårs. str.,5,Marielle MARTINSEN,,
+130,748289,53.13,34-29,EHA,Mål på straffe,,30,Clara LERBY,,,,16,Louise Bak JENSEN
+131,748289,53.49,,VHK,Tilkendt straffe,,19,Sara HALD,Forårs. str.,21,Frederikke GULMARK,,
+132,748289,53.50,,EHA,Udvisning,,21,Frederikke GULMARK,,,,,
+133,748289,53.51,35-29,VHK,Mål på straffe,,26,Christina PEDERSEN,,,,1,Annika FRIDHEIM
+134,748289,54.40,35-30,EHA,Mål,Gbr,19,Mette BRANDT,Assist,5,Anna Hviid BANG,,16
+135,748289,54.49,,VHK,Skud forbi,2:e,3,Alberte SIMONSEN,,,,1,Annika FRIDHEIM
+136,748289,55.20,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+137,748289,55.27,36-30,VHK,Mål,1:e,9,Laura THESTRUP,,,,0,
+138,748289,55.56,,VHK,Udvisning,,9,Laura THESTRUP,,,,,
+139,748289,56.08,,EHA,Skud på stolpe,HF,7,Marlene DAHLMANN,,,,,16
+140,748289,56.41,37-30,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,1,Annika FRIDHEIM
+141,748289,56.56,37-31,EHA,Mål,2:e,30,Clara LERBY,,,,0,
+142,748289,57.20,38-31,VHK,Mål,Gbr,77,Jana MITTÚN,,,,1,Annika FRIDHEIM
+143,748289,57.40,,EHA,Skud forbi,Gbr,19,Mette BRANDT,,,,,16
+144,748289,58.12,39-31,VHK,Mål,Gbr,77,Jana MITTÚN,,,,16,Anine NORDAHL
+145,748289,58.57,,EHA,Regelfejl,,23,Silje BRØNS,,,,,
+146,748289,59.28,,VHK,Skud reddet,HF,76,Frida JOHANNESEN,,,,16,Anine NORDAHL
+147,748289,59.54,,EHA,Fejlaflevering,,23,Silje BRØNS,Bold erobret,26,Christina PEDERSEN,,
+148,748289,59.59,,VHK,Skud på stolpe,1:e,77,Jana MITTÚN,,,,16,Anine NORDAHL

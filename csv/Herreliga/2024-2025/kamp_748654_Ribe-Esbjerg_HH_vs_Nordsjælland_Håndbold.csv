@@ -1,0 +1,145 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748654,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748654,0.36,,REH,Skud reddet,VF,92,Sune IVERSEN,Retur,0,,16,Magnus PETERSEN
+3,748654,1.03,,REH,Skud blokeret,PL,81,Alfred JÖNSSON,Blok af (ret),5,Julius MØRCH,,
+4,748654,1.18,,REH,Skud reddet,PL,4,Elvar ASGEIRSSON,,,,16,Magnus PETERSEN
+5,748654,1.54,,NSH,Skud reddet,HB,57,Nikolaj LARSSON,,,,16,Ágúst BJÖRGVINSSON
+6,748654,2.06,,REH,Fejlaflevering,,14,Nicolaj SPANGGAARD,,,,,
+7,748654,2.19,0-1,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,Assist,42,Matias CAMPBELL,16,Ágúst BJÖRGVINSSON
+8,748654,3.04,,NSH,Advarsel,,42,Matias CAMPBELL,,,,,
+9,748654,3.27,,REH,Skud reddet,PL,4,Elvar ASGEIRSSON,,,,16,Magnus PETERSEN
+10,748654,3.34,0-2,NSH,Mål,2:e,42,Matias CAMPBELL,,,,16,Ágúst BJÖRGVINSSON
+11,748654,3.49,,REH,Skud reddet,Gbr,4,Elvar ASGEIRSSON,,,,16,Magnus PETERSEN
+12,748654,4.25,0-3,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,57,Nikolaj LARSSON,16,Ágúst BJÖRGVINSSON
+13,748654,5.30,1-3,REH,Mål,VB,81,Alfred JÖNSSON,,,,16,Magnus PETERSEN
+14,748654,6.07,,REH,Advarsel,,14,Nicolaj SPANGGAARD,,,,,
+15,748654,6.26,,NSH,Fejlaflevering,,7,Leo MARTINÉZ,,,,,
+16,748654,7.09,,REH,Regelfejl,,92,Sune IVERSEN,,,,,
+17,748654,8.17,,NSH,Skud blokeret,PL,13,Gustav BRUUN,Blok af (ret),6,Jonathan WÜRTZ,,
+18,748654,8.26,,NSH,Skud reddet,HB,57,Nikolaj LARSSON,,,,16,Ágúst BJÖRGVINSSON
+19,748654,9.18,,REH,Skud blokeret,PL,81,Alfred JÖNSSON,Blok af (ret),5,Julius MØRCH,,
+20,748654,9.32,,REH,Fejlaflevering,,14,Nicolaj SPANGGAARD,Bold erobret,14,Rasmus MADSBØLL,,
+21,748654,10.04,1-4,NSH,Mål,HB,57,Nikolaj LARSSON,,,,16,Ágúst BJÖRGVINSSON
+22,748654,10.09,2-4,REH,Mål,1:e,92,Sune IVERSEN,,,,16,Magnus PETERSEN
+23,748654,10.23,2-5,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,Assist,42,Matias CAMPBELL,16,Ágúst BJÖRGVINSSON
+24,748654,11.25,,REH,Skud reddet,Gbr,14,Nicolaj SPANGGAARD,,,,16,Magnus PETERSEN
+25,748654,11.35,2-6,NSH,Mål,1:e,13,Gustav BRUUN,,,,,
+26,748654,12.01,3-6,REH,Mål,VB,81,Alfred JÖNSSON,,,,16,Magnus PETERSEN
+27,748654,12.42,,NSH,Skud reddet,Gbr,57,Nikolaj LARSSON,,,,16,Ágúst BJÖRGVINSSON
+28,748654,13.11,4-6,REH,Mål,HB,14,Nicolaj SPANGGAARD,Assist,27,Andre Sindre AHO,16,Magnus PETERSEN
+29,748654,13.33,,REH,Advarsel,,11,Mathias JØRGENSEN,,,,,
+30,748654,14.01,,NSH,Skud forbi,PL,7,Leo MARTINÉZ,,,,16,Ágúst BJÖRGVINSSON
+31,748654,14.06,,REH,Fejlaflevering,,16,Ágúst BJÖRGVINSSON,,,,,
+32,748654,14.38,4-7,NSH,Mål,Gbr,57,Nikolaj LARSSON,,,,16,Ágúst BJÖRGVINSSON
+33,748654,15.23,5-7,REH,Mål,VB,81,Alfred JÖNSSON,,,,16,Magnus PETERSEN
+34,748654,16.08,5-8,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,,,,16,Ágúst BJÖRGVINSSON
+35,748654,16.40,,REH,Skud reddet,Gbr,81,Alfred JÖNSSON,Retur,0,,16,Magnus PETERSEN
+36,748654,17.01,6-8,REH,Mål,PL,27,Andre Sindre AHO,,,,16,Magnus PETERSEN
+37,748654,17.51,,NSH,Skud reddet,Gbr,7,Leo MARTINÉZ,,,,16,Ágúst BJÖRGVINSSON
+38,748654,18.44,,REH,Regelfejl,,27,Andre Sindre AHO,,,,,
+39,748654,18.49,6-9,NSH,Mål,1:e,16,Magnus PETERSEN,,,,0,
+40,748654,19.17,7-9,REH,Mål,ST,21,Axel FRANZÉN,Assist,27,Andre Sindre AHO,16,Magnus PETERSEN
+41,748654,19.27,7-10,NSH,Mål,1:e,42,Matias CAMPBELL,,,,0,
+42,748654,19.54,,REH,Fejlaflevering,,27,Andre Sindre AHO,,,,,
+43,748654,20.03,,NSH,Skud blokeret,1:e,42,Matias CAMPBELL,Blok af (ret),14,Nicolaj SPANGGAARD,0,
+44,748654,20.27,,NSH,Skud reddet,Gbr,7,Leo MARTINÉZ,,,,16,Ágúst BJÖRGVINSSON
+45,748654,20.44,8-10,REH,Mål,HB,6,Jonathan WÜRTZ,,,,16,Magnus PETERSEN
+46,748654,21.06,,NSH,Regelfejl,,0,,,,,,
+47,748654,21.23,9-10,REH,Mål,Gbr,81,Alfred JÖNSSON,Assist,27,Andre Sindre AHO,16,Magnus PETERSEN
+48,748654,21.37,,NSH,Skud reddet,VB,19,Thomas BOILESEN,,,,16,Ágúst BJÖRGVINSSON
+49,748654,22.43,10-10,REH,Mål,ST,17,Andreas SØGAARD,Assist,27,Andre Sindre AHO,16,Magnus PETERSEN
+50,748654,23.27,10-11,NSH,Mål,VF,14,Rasmus MADSBØLL,Assist,19,Thomas BOILESEN,16,Ágúst BJÖRGVINSSON
+51,748654,23.27,,REH,Udvisning,,26,Christian TERMANSEN,,,,,
+52,748654,23.55,11-11,REH,Mål,ST,17,Andreas SØGAARD,Assist,27,Andre Sindre AHO,16,Magnus PETERSEN
+53,748654,24.32,11-12,NSH,Mål,Gbr,79,Oliver KLARSKOV,Assist,0,,16,Ágúst BJÖRGVINSSON
+54,748654,25.27,,REH,Skud reddet,VB,81,Alfred JÖNSSON,,,,16,Magnus PETERSEN
+55,748654,25.36,,NSH,Regelfejl,,42,Matias CAMPBELL,,,,,
+56,748654,25.41,,REH,Skud reddet,1:e,11,Mathias JØRGENSEN,,,,16,Magnus PETERSEN
+57,748654,26.45,,NSH,Skud reddet,PL,79,Oliver KLARSKOV,Retur,79,Oliver KLARSKOV,16,Ágúst BJÖRGVINSSON
+58,748654,27.00,11-13,NSH,Mål,ST,79,Oliver KLARSKOV,,,,16,Ágúst BJÖRGVINSSON
+59,748654,27.24,,REH,Tilkendt straffe,,27,Andre Sindre AHO,Forårs. str.,11,Jonas RAUNDAHL,,
+60,748654,27.32,12-13,REH,Mål på straffe,,11,Mathias JØRGENSEN,,,,16,Magnus PETERSEN
+61,748654,28.33,12-14,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,19,Thomas BOILESEN,16,Ágúst BJÖRGVINSSON
+62,748654,28.40,13-14,REH,Mål,2:e,6,Jonathan WÜRTZ,,,,16,Magnus PETERSEN
+63,748654,28.57,,NSH,Tilkendt straffe,,11,Jonas RAUNDAHL,Forårs. str.,92,Sune IVERSEN,,
+64,748654,29.07,13-15,NSH,Mål på straffe,,3,Carl-Emil HAUNSTRUP,,,,1,Niklas KRAFT
+65,748654,29.39,,REH,Time out,,,,,,,,
+66,748654,29.58,,REH,Skud blokeret,PL,14,Nicolaj SPANGGAARD,Blokeret af,13,Gustav BRUUN,,
+67,748654,30.00,13-15,,Halvleg,,,,,,,,
+68,748654,30.00,,,Start 2:e halvleg,,,,,,,,
+69,748654,30.26,,REH,Udvisning,,4,Elvar ASGEIRSSON,,,,,
+70,748654,31.09,,NSH,Skud reddet,HF,3,Carl-Emil HAUNSTRUP,,,,16,Ágúst BJÖRGVINSSON
+71,748654,31.44,14-15,REH,Mål,ST,17,Andreas SØGAARD,Assist,27,Andre Sindre AHO,16,Magnus PETERSEN
+72,748654,32.17,,NSH,Tilkendt straffe,,13,Gustav BRUUN,Forårs. str.,17,Andreas SØGAARD,,
+73,748654,32.35,14-16,NSH,Mål på straffe,,3,Carl-Emil HAUNSTRUP,,,,16,Ágúst BJÖRGVINSSON
+74,748654,33.06,15-16,REH,Mål,HB,81,Alfred JÖNSSON,,,,16,Magnus PETERSEN
+75,748654,33.39,,NSH,Fejlaflevering,,57,Nikolaj LARSSON,Bold erobret,81,Alfred JÖNSSON,,
+76,748654,33.44,16-16,REH,Mål,1:e,31,Morten JØRGENSEN,Assist,81,Alfred JÖNSSON,16,Magnus PETERSEN
+77,748654,33.52,,NSH,Tilkendt straffe,,57,Nikolaj LARSSON,Forårs. str.,11,Mathias JØRGENSEN,,
+78,748654,33.52,,REH,Udvisning,,11,Mathias JØRGENSEN,,,,,
+79,748654,33.55,16-17,NSH,Mål på straffe,,3,Carl-Emil HAUNSTRUP,,,,16,Ágúst BJÖRGVINSSON
+80,748654,34.26,,NSH,Udvisning,,5,Julius MØRCH,,,,,
+81,748654,34.50,17-17,REH,Mål,HF,9,Mads LAURIDSEN,Assist,27,Andre Sindre AHO,16,Magnus PETERSEN
+82,748654,35.19,,NSH,Skud forbi,Gbr,57,Nikolaj LARSSON,,,,16,Ágúst BJÖRGVINSSON
+83,748654,35.43,,REH,Fejlaflevering,,27,Andre Sindre AHO,,,,,
+84,748654,35.48,17-18,NSH,Mål,1:e,14,Rasmus MADSBØLL,,,,0,
+85,748654,36.08,,REH,Fejlaflevering,,81,Alfred JÖNSSON,,,,,
+86,748654,36.39,,REH,Udvisning,,17,Andreas SØGAARD,,,,,
+87,748654,37.13,17-19,NSH,Mål,HB,42,Matias CAMPBELL,,,,16,Ágúst BJÖRGVINSSON
+88,748654,37.50,18-19,REH,Mål,PL,26,Christian TERMANSEN,,,,16,Magnus PETERSEN
+89,748654,37.57,18-20,NSH,Mål,1:e,42,Matias CAMPBELL,,,,0,
+90,748654,38.30,,NSH,Udvisning,,11,Jonas RAUNDAHL,,,,,
+91,748654,39.02,19-20,REH,Mål,Gbr,26,Christian TERMANSEN,,,,16,Magnus PETERSEN
+92,748654,39.48,19-21,NSH,Mål,Gbr,13,Gustav BRUUN,Assist,79,Oliver KLARSKOV,16,Ágúst BJÖRGVINSSON
+93,748654,40.15,20-21,REH,Mål,ST,17,Andreas SØGAARD,Assist,27,Andre Sindre AHO,16,Magnus PETERSEN
+94,748654,40.54,20-22,NSH,Mål,Gbr,57,Nikolaj LARSSON,,,,16,Ágúst BJÖRGVINSSON
+95,748654,41.50,,REH,Skud blokeret,PL,81,Alfred JÖNSSON,Blokeret af,0,,,
+96,748654,41.57,20-23,NSH,Mål,1:e,13,Gustav BRUUN,Assist,0,,16,Ágúst BJÖRGVINSSON
+97,748654,42.06,21-23,REH,Mål,PL,81,Alfred JÖNSSON,,,,29,Jimmi ANDERSEN
+98,748654,42.06,,NSH,Udvisning,,5,Julius MØRCH,,,,,
+99,748654,42.06,,,Video Proof,,0,,,,,,
+100,748654,42.06,,,Video Proof slut,,0,,,,,,
+101,748654,42.31,,NSH,Regelfejl,,79,Oliver KLARSKOV,,,,,
+102,748654,42.36,22-23,REH,Mål,1:e,4,Elvar ASGEIRSSON,,0,,,
+103,748654,43.14,22-24,NSH,Mål,ST,11,Jonas RAUNDAHL,Assist,57,Nikolaj LARSSON,16,Ágúst BJÖRGVINSSON
+104,748654,43.23,,,,,,,,,,,
+105,748654,43.35,23-24,REH,Mål,Gbr,26,Christian TERMANSEN,Assist,27,Andre Sindre AHO,,
+106,748654,44.18,,NSH,Fejlaflevering,,13,Gustav BRUUN,,,,,
+107,748654,44.21,24-24,REH,Mål,1:e,16,Ágúst BJÖRGVINSSON,,,,,
+108,748654,45.10,24-25,NSH,Mål,Gbr,13,Gustav BRUUN,Assist,57,Nikolaj LARSSON,,
+109,748654,45.22,,REH,Skud på stolpe,2:e,11,Mathias JØRGENSEN,,,,29,Jimmi ANDERSEN
+110,748654,46.01,24-26,NSH,Mål,VB,13,Gustav BRUUN,,,,,
+111,748654,46.35,,REH,Fejlaflevering,,26,Christian TERMANSEN,,,,,
+112,748654,46.41,24-27,NSH,Mål,2:e,42,Matias CAMPBELL,Assist,11,Jonas RAUNDAHL,1,Niklas KRAFT
+113,748654,46.45,,REH,Time out,,,,,,,,
+114,748654,47.04,,REH,Skud reddet,ST,21,Axel FRANZÉN,,,,29,Jimmi ANDERSEN
+115,748654,47.37,,NSH,Regelfejl,,13,Gustav BRUUN,,,,,
+116,748654,48.26,25-27,REH,Mål,Gbr,26,Christian TERMANSEN,,,,29,Jimmi ANDERSEN
+117,748654,48.58,25-28,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,Assist,57,Nikolaj LARSSON,1,Niklas KRAFT
+118,748654,49.25,,REH,Skud reddet,ST,21,Axel FRANZÉN,,,,29,Jimmi ANDERSEN
+119,748654,49.54,,REH,Udvisning,,17,Andreas SØGAARD,,,,,
+120,748654,50.15,25-29,NSH,Mål,Gbr,79,Oliver KLARSKOV,,,,1,Niklas KRAFT
+121,748654,50.48,,REH,Skud blokeret,PL,81,Alfred JÖNSSON,Blok af (ret),,,,
+122,748654,51.00,26-29,REH,Mål,VF,31,Morten JØRGENSEN,,,,29,Jimmi ANDERSEN
+123,748654,51.27,26-30,NSH,Mål,Gbr,57,Nikolaj LARSSON,,,,1,Niklas KRAFT
+124,748654,52.19,,REH,Skud reddet,ST,21,Axel FRANZÉN,Retur,,,29,Jimmi ANDERSEN
+125,748654,52.40,27-30,REH,Mål,Gbr,26,Christian TERMANSEN,,,,29,Jimmi ANDERSEN
+126,748654,53.17,,NSH,Fejlaflevering,,19,Thomas BOILESEN,,,,,
+127,748654,53.36,,REH,Skud reddet,2:e,31,Morten JØRGENSEN,Retur,,,29,Jimmi ANDERSEN
+128,748654,53.54,28-30,REH,Mål,Gbr,27,Andre Sindre AHO,Assist,26,Christian TERMANSEN,29,Jimmi ANDERSEN
+129,748654,54.25,,NSH,Time out,,,,,,,,
+130,748654,54.47,28-31,NSH,Mål,Gbr,13,Gustav BRUUN,,,,1,Niklas KRAFT
+131,748654,54.55,29-31,REH,Mål,2:e,6,Jonathan WÜRTZ,,,,29,Jimmi ANDERSEN
+132,748654,55.44,,NSH,Tilkendt straffe,,79,Oliver KLARSKOV,Forårs. str.,4,Elvar ASGEIRSSON,,
+133,748654,55.48,29-32,NSH,Mål på straffe,,3,Carl-Emil HAUNSTRUP,,,,1,Niklas KRAFT
+134,748654,56.09,,REH,Tilkendt straffe,,26,Christian TERMANSEN,Forårs. str.,14,Rasmus MADSBØLL,,
+135,748654,56.19,30-32,REH,Mål på straffe,,81,Alfred JÖNSSON,,,,29,Jimmi ANDERSEN
+136,748654,57.16,30-33,NSH,Mål,HF,3,Carl-Emil HAUNSTRUP,Assist,57,Nikolaj LARSSON,1,Niklas KRAFT
+137,748654,57.47,,REH,Fejlaflevering,,27,Andre Sindre AHO,Bold erobret,,,,
+138,748654,57.53,30-34,NSH,Mål,1:e,13,Gustav BRUUN,,,,,
+139,748654,58.02,,REH,Time out,,,,,,,,
+140,748654,58.16,,REH,Regelfejl,,26,Christian TERMANSEN,,,,,
+141,748654,58.20,30-35,NSH,Mål,1:e,3,Carl-Emil HAUNSTRUP,Assist,42,Matias CAMPBELL,16,Ágúst BJÖRGVINSSON
+142,748654,58.48,31-35,REH,Mål,Gbr,81,Alfred JÖNSSON,Assist,27,Andre Sindre AHO,29,Jimmi ANDERSEN
+143,748654,59.32,,NSH,Regelfejl,,14,Rasmus MADSBØLL,,,,,
+144,748654,59.56,32-35,REH,Mål,Gbr,81,Alfred JÖNSSON,Assist,26,Christian TERMANSEN,29,Jimmi ANDERSEN

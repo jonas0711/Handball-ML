@@ -1,0 +1,126 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748738,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748738,1.04,,SJE,Tilkendt straffe,,29,Magnus FREDRIKSEN,Forårs. str.,17,Andreas SØGAARD,,
+3,748738,1.04,,REH,Udvisning,,17,Andreas SØGAARD,,,,,
+4,748738,1.06,0-1,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+5,748738,1.43,,SJE,Advarsel,,18,Morten BJØRNSHAUGE,,,,,
+6,748738,1.58,,SJE,Udvisning,,14,Jacob BAGERSTED,,,,,
+7,748738,2.29,,REH,Tabt bold,,11,Mathias JØRGENSEN,,,,,
+8,748738,3.17,,SJE,Skud blokeret,VB,48,Gabriel SETTERBLOM,Blokeret af,17,Andreas SØGAARD,,
+9,748738,3.22,1-1,REH,Mål,1:e,31,Morten JØRGENSEN,,,,0,
+10,748738,3.52,,SJE,Skud reddet,HB,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+11,748738,3.57,,REH,Skud forbi,1:e,16,Ágúst BJÖRGVINSSON,,,,0,
+12,748738,4.56,,SJE,Regelfejl,,33,Ebbe STANKIEWICZ,,,,,
+13,748738,5.07,,REH,Skud reddet,Gbr,8,Simon BIRKEFELDT,,,,30,Julius STEN
+14,748738,5.56,1-2,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,,,,16,Ágúst BJÖRGVINSSON
+15,748738,6.04,2-2,REH,Mål,VB,49,Karl WALLINIUS,,,,30,Julius STEN
+16,748738,6.55,,SJE,Skud reddet,PL,29,Magnus FREDRIKSEN,Retur,0,,16,Ágúst BJÖRGVINSSON
+17,748738,7.12,,SJE,Skud forbi,HF,33,Ebbe STANKIEWICZ,,,,16,Ágúst BJÖRGVINSSON
+18,748738,7.45,3-2,REH,Mål,HF,11,Mathias JØRGENSEN,Assist,81,Alfred JÖNSSON,30,Julius STEN
+19,748738,8.22,3-3,SJE,Mål,VF,28,Patrick VOLZ,Assist,29,Magnus FREDRIKSEN,16,Ágúst BJÖRGVINSSON
+20,748738,8.28,,REH,Skud forbi,2:e,81,Alfred JÖNSSON,,,,30,Julius STEN
+21,748738,8.59,,SJE,Fejlaflevering,,48,Gabriel SETTERBLOM,Bold erobret,8,Simon BIRKEFELDT,,
+22,748738,9.03,4-3,REH,Mål,1:e,17,Andreas SØGAARD,,,,30,Julius STEN
+23,748738,10.22,,SJE,Skud reddet,ST,18,Morten BJØRNSHAUGE,,,,16,Ágúst BJÖRGVINSSON
+24,748738,10.56,,REH,Skud blokeret,PL,14,Nicolaj SPANGGAARD,Blok af (ret),18,Morten BJØRNSHAUGE,,
+25,748738,11.23,,REH,Skud reddet,VB,49,Karl WALLINIUS,,,,30,Julius STEN
+26,748738,11.35,,SJE,Skud reddet,HF,33,Ebbe STANKIEWICZ,Retur,0,,16,Ágúst BJÖRGVINSSON
+27,748738,12.19,4-4,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,Assist,29,Magnus FREDRIKSEN,16,Ágúst BJÖRGVINSSON
+28,748738,13.20,5-4,REH,Mål,Gbr,81,Alfred JÖNSSON,,,,30,Julius STEN
+29,748738,13.56,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+30,748738,14.54,,REH,Skud reddet,PL,14,Nicolaj SPANGGAARD,Retur,0,,30,Julius STEN
+31,748738,15.13,6-4,REH,Mål,PL,81,Alfred JÖNSSON,,,,30,Julius STEN
+32,748738,15.44,,SJE,Skud reddet,PL,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+33,748738,16.26,,REH,Skud reddet,HF,11,Mathias JØRGENSEN,,,,30,Julius STEN
+34,748738,17.01,6-5,SJE,Mål,Gbr,20,August WIGER,,,,16,Ágúst BJÖRGVINSSON
+35,748738,17.37,7-5,REH,Mål,VF,31,Morten JØRGENSEN,Assist,81,Alfred JÖNSSON,30,Julius STEN
+36,748738,18.18,7-6,SJE,Mål,Gbr,20,August WIGER,,,,16,Ágúst BJÖRGVINSSON
+37,748738,18.31,,REH,Skud reddet,HF,11,Mathias JØRGENSEN,,,,30,Julius STEN
+38,748738,19.05,,SJE,Regelfejl,,48,Gabriel SETTERBLOM,,,,,
+39,748738,19.45,,REH,Tilkendt straffe,,81,Alfred JÖNSSON,Forårs. str.,18,Morten BJØRNSHAUGE,,
+40,748738,20.07,8-6,REH,Mål på straffe,,11,Mathias JØRGENSEN,,,,30,Julius STEN
+41,748738,20.12,,SJE,Time out,,,,,,,,
+42,748738,20.37,8-7,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+43,748738,21.34,9-7,REH,Mål,PL,49,Karl WALLINIUS,,,,30,Julius STEN
+44,748738,22.07,,SJE,Fejlaflevering,,24,Sebastian AUGUSTINUSSEN,Bold erobret,4,Elvar ASGEIRSSON,,
+45,748738,22.11,10-7,REH,Mål,1:e,31,Morten JØRGENSEN,Assist,4,Elvar ASGEIRSSON,0,
+46,748738,22.43,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+47,748738,22.47,,REH,Skud forbi,1:e,4,Elvar ASGEIRSSON,,,,0,
+48,748738,23.13,,SJE,Skud reddet,Gbr,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+49,748738,24.10,11-7,REH,Mål,VF,31,Morten JØRGENSEN,Assist,49,Karl WALLINIUS,30,Julius STEN
+50,748738,24.43,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+51,748738,25.15,,REH,Fejlaflevering,,81,Alfred JÖNSSON,Bold erobret,33,Ebbe STANKIEWICZ,,
+52,748738,25.20,11-8,SJE,Mål,1:e,33,Ebbe STANKIEWICZ,,,,16,Ágúst BJÖRGVINSSON
+53,748738,26.17,12-8,REH,Mål,ST,21,Axel FRANZÉN,Assist,81,Alfred JÖNSSON,30,Julius STEN
+54,748738,26.56,12-9,SJE,Mål,VF,28,Patrick VOLZ,Assist,20,August WIGER,16,Ágúst BJÖRGVINSSON
+55,748738,27.22,,REH,Regelfejl,,21,Axel FRANZÉN,,,,,
+56,748738,28.00,12-10,SJE,Mål,ST,14,Jacob BAGERSTED,Assist,11,Nicolaj JØRGENSEN,16,Ágúst BJÖRGVINSSON
+57,748738,28.26,,REH,Time out,,,,,,,,
+58,748738,28.42,,REH,Fejlaflevering,,49,Karl WALLINIUS,Bold erobret,48,Gabriel SETTERBLOM,,
+59,748738,29.11,,SJE,Skud reddet,PL,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+60,748738,29.45,,REH,Skud forbi,HB,49,Karl WALLINIUS,,,,30,Julius STEN
+61,748738,29.55,,SJE,Regelfejl,,48,Gabriel SETTERBLOM,,,,,
+62,748738,30.00,12-10,,Halvleg,,,,,,,,
+63,748738,30.00,,,Start 2:e halvleg,,,,,,,,
+64,748738,30.30,,REH,Skud på stolpe,ST,17,Andreas SØGAARD,,,,30,Julius STEN
+65,748738,30.35,,SJE,Skud reddet,1:e,33,Ebbe STANKIEWICZ,,,,16,Ágúst BJÖRGVINSSON
+66,748738,31.12,,REH,Skud blokeret,PL,14,Nicolaj SPANGGAARD,Blok af (ret),18,Morten BJØRNSHAUGE,,
+67,748738,31.24,,REH,Skud forbi,PL,49,Karl WALLINIUS,,,,30,Julius STEN
+68,748738,31.51,12-11,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,20,August WIGER,16,Ágúst BJÖRGVINSSON
+69,748738,32.52,,REH,Skud reddet,HB,49,Karl WALLINIUS,,,,30,Julius STEN
+70,748738,33.47,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,Bold erobret,17,Andreas SØGAARD,,
+71,748738,33.51,13-11,REH,Mål,1:e,14,Nicolaj SPANGGAARD,Assist,17,Andreas SØGAARD,30,Julius STEN
+72,748738,34.36,,SJE,Tilkendt straffe,,18,Morten BJØRNSHAUGE,Forårs. str.,6,Jonathan WÜRTZ,,
+73,748738,34.40,13-12,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,1,Niklas KRAFT
+74,748738,35.37,,REH,Skud blokeret,PL,14,Nicolaj SPANGGAARD,Blok af (ret),18,Morten BJØRNSHAUGE,,
+75,748738,35.52,,REH,Fejlaflevering,,14,Nicolaj SPANGGAARD,,,,,
+76,748738,35.58,13-13,SJE,Mål,1:e,28,Patrick VOLZ,Assist,48,Gabriel SETTERBLOM,16,Ágúst BJÖRGVINSSON
+77,748738,36.29,,REH,Skud reddet,HF,11,Mathias JØRGENSEN,,,,30,Julius STEN
+78,748738,36.57,13-14,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,48,Gabriel SETTERBLOM,16,Ágúst BJÖRGVINSSON
+79,748738,37.25,,REH,Tabt bold,,14,Nicolaj SPANGGAARD,,,,,
+80,748738,37.29,13-15,SJE,Mål,1:e,11,Nicolaj JØRGENSEN,Assist,28,Patrick VOLZ,0,
+81,748738,37.35,,REH,Time out,,,,,,,,
+82,748738,38.14,,REH,Skud reddet,HF,9,Mads LAURIDSEN,,,,30,Julius STEN
+83,748738,38.50,,SJE,Tilkendt straffe,,18,Morten BJØRNSHAUGE,Forårs. str.,9,Mads LAURIDSEN,,
+84,748738,39.15,13-16,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+85,748738,39.41,14-16,REH,Mål,PL,4,Elvar ASGEIRSSON,Assist,81,Alfred JÖNSSON,30,Julius STEN
+86,748738,39.51,,SJE,Skud reddet,2:e,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+87,748738,40.35,,SJE,Udvisning,,18,Morten BJØRNSHAUGE,,,,,
+88,748738,40.59,,REH,Skud reddet,VB,49,Karl WALLINIUS,,,,30,Julius STEN
+89,748738,41.25,14-17,SJE,Mål,Gbr,20,August WIGER,,,,16,Ágúst BJÖRGVINSSON
+90,748738,41.48,,REH,Regelfejl,,4,Elvar ASGEIRSSON,,,,,
+91,748738,42.35,,SJE,Skud forbi,HF,33,Ebbe STANKIEWICZ,,,,16,Ágúst BJÖRGVINSSON
+92,748738,43.03,15-17,REH,Mål,Gbr,4,Elvar ASGEIRSSON,,,,30,Julius STEN
+93,748738,43.35,,SJE,Skud reddet,VF,28,Patrick VOLZ,,,,16,Ágúst BJÖRGVINSSON
+94,748738,43.42,,REH,Skud reddet,2:e,81,Alfred JÖNSSON,,,,30,Julius STEN
+95,748738,44.11,15-18,SJE,Mål,VB,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+96,748738,44.50,,REH,Tilkendt straffe,,17,Andreas SØGAARD,Forårs. str.,14,Jacob BAGERSTED,,
+97,748738,44.54,16-18,REH,Mål på straffe,,11,Mathias JØRGENSEN,,,,1,Matthias DORGELO
+98,748738,45.47,16-19,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+99,748738,45.55,,REH,Skud på stolpe,HB,8,Simon BIRKEFELDT,Retur,0,,30,Julius STEN
+100,748738,46.20,,REH,Skud forbi,PL,4,Elvar ASGEIRSSON,,,,30,Julius STEN
+101,748738,46.58,,SJE,Fejlaflevering,,48,Gabriel SETTERBLOM,Bold erobret,4,Elvar ASGEIRSSON,,
+102,748738,47.28,17-19,REH,Mål,HF,9,Mads LAURIDSEN,Assist,14,Nicolaj SPANGGAARD,30,Julius STEN
+103,748738,48.06,17-20,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+104,748738,48.46,,,,,,,,,,,
+105,748738,48.54,18-20,REH,Mål på straffe,,11,Mathias JØRGENSEN,,,,30,Julius STEN
+106,748738,51.45,18-21,SJE,Mål,Gbr,20,August WIGER,,,,16,Ágúst BJÖRGVINSSON
+107,748738,51.55,19-21,REH,Mål,2:e,31,Morten JØRGENSEN,Assist,81,Alfred JÖNSSON,30,Julius STEN
+108,748738,53.04,19-22,SJE,Mål,ST,14,Jacob BAGERSTED,Assist,11,Nicolaj JØRGENSEN,16,Ágúst BJÖRGVINSSON
+109,748738,54.02,,REH,Skud forbi,PL,81,Alfred JÖNSSON,,,,30,Julius STEN
+110,748738,54.10,,SJE,Time out,,,,,,,,
+111,748738,54.51,,SJE,Skud reddet,Gbr,20,August WIGER,Retur,0,Niklas KRAFT,,
+112,748738,55.23,,SJE,Tilkendt straffe,,20,August WIGER,Forårs. str.,9,Mads LAURIDSEN,,
+113,748738,55.31,19-23,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,1,Niklas KRAFT
+114,748738,55.59,,REH,Fejlaflevering,,14,Nicolaj SPANGGAARD,,,,,
+115,748738,56.33,,SJE,Regelfejl,,28,Patrick VOLZ,,,,,
+116,748738,56.42,20-23,REH,Mål,VF,31,Morten JØRGENSEN,Assist,81,Alfred JÖNSSON,30,Julius STEN
+117,748738,57.23,,SJE,Tilkendt straffe,,11,Nicolaj JØRGENSEN,Forårs. str.,17,Andreas SØGAARD,,
+118,748738,57.26,20-24,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,16,Ágúst BJÖRGVINSSON
+119,748738,57.56,,REH,Tilkendt straffe,,4,Elvar ASGEIRSSON,Forårs. str.,29,Magnus FREDRIKSEN,,
+120,748738,58.12,21-24,REH,Mål på straffe,,11,Mathias JØRGENSEN,,,,30,Julius STEN
+121,748738,58.41,21-25,SJE,Mål,Gbr,11,Nicolaj JØRGENSEN,,,,1,Niklas KRAFT
+122,748738,58.55,22-25,REH,Mål,ST,17,Andreas SØGAARD,Assist,4,Elvar ASGEIRSSON,30,Julius STEN
+123,748738,59.20,,SJE,Regelfejl,,14,Jacob BAGERSTED,,,,,
+124,748738,59.33,,REH,Tilkendt straffe,,17,Andreas SØGAARD,Forårs. str.,20,August WIGER,,
+125,748738,59.41,,REH,Straffekast på stolpe,,4,Elvar ASGEIRSSON,,,,30,Julius STEN

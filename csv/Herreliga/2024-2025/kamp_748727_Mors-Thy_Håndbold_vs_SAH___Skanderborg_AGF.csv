@@ -1,0 +1,137 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748727,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748727,0.44,,SAH,Skud reddet,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,30,Svend RUGHAVE
+3,748727,1.14,,MTH,Skud reddet,Gbr,7,Nichlas HALD,,,,12,Magnus BRANDBYGE
+4,748727,1.47,0-1,SAH,Mål,VB,32,Fredrik OLSSON,,,,30,Svend RUGHAVE
+5,748727,2.55,,MTH,Skud blokeret,PL,7,Nichlas HALD,Blokeret af,19,Thor CHRISTENSEN,,
+6,748727,3.58,,SAH,Skud reddet,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,30,Svend RUGHAVE
+7,748727,4.04,1-1,MTH,Mål,1:e,7,Nichlas HALD,,,,12,Magnus BRANDBYGE
+8,748727,4.58,1-2,SAH,Mål,VB,23,Morten Hempel JENSEN,,,,30,Svend RUGHAVE
+9,748727,5.59,,MTH,Regelfejl,,23,Henrik TILSTED,,,,,
+10,748727,6.09,1-3,SAH,Mål,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,30,Svend RUGHAVE
+11,748727,6.56,,MTH,Skud reddet,Gbr,28,Rasmus MADSEN,,,,12,Magnus BRANDBYGE
+12,748727,7.12,,SAH,Regelfejl,,19,Thor CHRISTENSEN,,,,,
+13,748727,7.20,2-3,MTH,Mål,2:e,21,Marcus MIDTGAARD,,,,12,Magnus BRANDBYGE
+14,748727,7.56,,SAH,Skud reddet,VB,23,Morten Hempel JENSEN,,,,30,Svend RUGHAVE
+15,748727,8.06,3-3,MTH,Mål,1:e,11,Lasse PEDERSEN,Assist,21,Marcus MIDTGAARD,12,Magnus BRANDBYGE
+16,748727,8.28,3-4,SAH,Mål,PL,32,Fredrik OLSSON,,,,30,Svend RUGHAVE
+17,748727,8.44,4-4,MTH,Mål,2:e,21,Marcus MIDTGAARD,Assist,7,Nichlas HALD,12,Magnus BRANDBYGE
+18,748727,9.12,,SAH,Skud på stolpe,VB,23,Morten Hempel JENSEN,,,,30,Svend RUGHAVE
+19,748727,9.21,,MTH,Skud reddet,1:e,11,Lasse PEDERSEN,,,,12,Magnus BRANDBYGE
+20,748727,9.58,,SAH,Skud reddet,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,30,Svend RUGHAVE
+21,748727,10.05,,MTH,Regelfejl,,11,Lasse PEDERSEN,,,,,
+22,748727,10.16,,SAH,Skud forbi,1:e,25,Jeppe CIESLAK,,,,30,Svend RUGHAVE
+23,748727,11.08,5-4,MTH,Mål,Gbr,28,Rasmus MADSEN,,,,12,Magnus BRANDBYGE
+24,748727,11.45,,SAH,Fejlaflevering,,32,Fredrik OLSSON,,,,,
+25,748727,12.30,,MTH,Tabt bold,,21,Marcus MIDTGAARD,Bold erobret,25,Jeppe CIESLAK,,
+26,748727,13.08,5-5,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,15,Emil LÆRKE,30,Svend RUGHAVE
+27,748727,13.20,6-5,MTH,Mål,Gbr,7,Nichlas HALD,,,,12,Magnus BRANDBYGE
+28,748727,14.09,6-6,SAH,Mål,HB,20,Morten BALLING,,,,30,Svend RUGHAVE
+29,748727,14.20,7-6,MTH,Mål,2:e,7,Nichlas HALD,,,,12,Magnus BRANDBYGE
+30,748727,14.31,7-7,SAH,Mål,2:e,15,Emil LÆRKE,,,,30,Svend RUGHAVE
+31,748727,15.15,,MTH,Tilkendt straffe,,7,Nichlas HALD,Forårs. str.,19,Thor CHRISTENSEN,,
+32,748727,15.30,8-7,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,12,Magnus BRANDBYGE
+33,748727,16.18,,SAH,Skud reddet,PL,15,Emil LÆRKE,,,,30,Svend RUGHAVE
+34,748727,16.56,,MTH,Skud blokeret,PL,9,Kristoffer VESTERGAARD,Blokeret af,19,Thor CHRISTENSEN,,
+35,748727,17.04,8-8,SAH,Mål,1:e,15,Emil LÆRKE,,,,30,Svend RUGHAVE
+36,748727,17.20,,SAH,Advarsel,,7,Jonatan MOLLERUP,,,,,
+37,748727,18.00,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,,,,,
+38,748727,18.05,,SAH,Skud reddet,1:e,7,Jonatan MOLLERUP,,,,30,Svend RUGHAVE
+39,748727,18.10,9-8,MTH,Mål,1:e,11,Lasse PEDERSEN,Assist,21,Marcus MIDTGAARD,12,Magnus BRANDBYGE
+40,748727,18.43,9-9,SAH,Mål,Gbr,20,Morten BALLING,,,,30,Svend RUGHAVE
+41,748727,19.13,10-9,MTH,Mål,2:e,28,Rasmus MADSEN,,,,12,Magnus BRANDBYGE
+42,748727,19.48,,SAH,Skud blokeret,PL,15,Emil LÆRKE,Blok af (ret),4,Kasper LINDGREN,,
+43,748727,19.54,,SAH,Time out,,,,,,,,
+44,748727,20.11,10-10,SAH,Mål,VB,20,Morten BALLING,Assist,15,Emil LÆRKE,30,Svend RUGHAVE
+45,748727,20.47,,MTH,Fejlaflevering,,28,Rasmus MADSEN,Bold erobret,7,Jonatan MOLLERUP,,
+46,748727,21.41,,MTH,Advarsel,,15,Henrik Toft HANSEN,,,,,
+47,748727,22.07,,SAH,Skud blokeret,PL,20,Morten BALLING,Blokeret af,4,Kasper LINDGREN,,
+48,748727,22.17,,MTH,Tilkendt straffe,,28,Rasmus MADSEN,Forårs. str.,15,Emil LÆRKE,,
+49,748727,22.40,11-10,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,12,Magnus BRANDBYGE
+50,748727,23.26,,SAH,Skud på stolpe,VB,15,Emil LÆRKE,,,,30,Svend RUGHAVE
+51,748727,24.02,,MTH,Fejlaflevering,,28,Rasmus MADSEN,,,,,
+52,748727,24.29,11-11,SAH,Mål,ST,28,Morten KAALUND,Assist,3,Kristjan ÖRN KRISTJANSSON,30,Svend RUGHAVE
+53,748727,24.39,12-11,MTH,Mål,1:e,10,Mads Svane KNUDSEN,,,,12,Magnus BRANDBYGE
+54,748727,25.17,,SAH,Fejlaflevering,,20,Morten BALLING,Bold erobret,23,Henrik TILSTED,,
+55,748727,25.22,,MTH,Skud reddet,1:e,23,Henrik TILSTED,,,,1,Kristoffer LAURSEN
+56,748727,26.15,,SAH,Skud reddet,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,30,Svend RUGHAVE
+57,748727,26.25,,MTH,Fejlaflevering,,19,Victor NORLYK,,,,,
+58,748727,26.36,,SAH,Skud reddet,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,30,Svend RUGHAVE
+59,748727,26.46,,MTH,Fejlaflevering,,28,Rasmus MADSEN,Bold erobret,25,Jeppe CIESLAK,,
+60,748727,27.20,,SAH,Skud reddet,VB,15,Emil LÆRKE,,,,30,Svend RUGHAVE
+61,748727,27.34,,MTH,Time out,,,,,,,,
+62,748727,27.54,,MTH,Fejlaflevering,,28,Rasmus MADSEN,Bold erobret,3,Kristjan ÖRN KRISTJANSSON,,
+63,748727,29.07,,SAH,Fejlaflevering,,15,Emil LÆRKE,Bold erobret,10,Mads Svane KNUDSEN,,
+64,748727,29.12,,MTH,Skud reddet,1:e,10,Mads Svane KNUDSEN,,,,1,Kristoffer LAURSEN
+65,748727,29.15,,MTH,Advarsel,,30,Svend RUGHAVE,,,,,
+66,748727,29.34,12-12,SAH,Mål,ST,19,Thor CHRISTENSEN,Assist,32,Fredrik OLSSON,30,Svend RUGHAVE
+67,748727,29.56,,MTH,Fejlaflevering,,19,Victor NORLYK,Bold erobret,19,Thor CHRISTENSEN,,
+68,748727,30.00,12-12,,Halvleg,,,,,,,,
+69,748727,30.00,,,Start 2:e halvleg,,,,,,,,
+70,748727,30.33,13-12,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,1,Kristoffer LAURSEN
+71,748727,31.13,,SAH,Skud reddet,PL,32,Fredrik OLSSON,,,,30,Svend RUGHAVE
+72,748727,31.53,14-12,MTH,Mål,ST,33,Kasper DIDRIKSEN,Assist,10,Mads Svane KNUDSEN,1,Kristoffer LAURSEN
+73,748727,32.11,,SAH,Fejlaflevering,,32,Fredrik OLSSON,Bold erobret,21,Marcus MIDTGAARD,,
+74,748727,32.20,15-12,MTH,Mål,1:e,25,Magnus NORLYK,Assist,21,Marcus MIDTGAARD,0,
+75,748727,32.49,15-13,SAH,Mål,2:e,32,Fredrik OLSSON,,,,30,Svend RUGHAVE
+76,748727,33.02,16-13,MTH,Mål,2:e,28,Rasmus MADSEN,,,,1,Kristoffer LAURSEN
+77,748727,33.11,,SAH,Skud reddet,1:e,15,Emil LÆRKE,,,,30,Svend RUGHAVE
+78,748727,34.17,,MTH,Skud reddet,PL,10,Mads Svane KNUDSEN,,,,1,Kristoffer LAURSEN
+79,748727,34.28,16-14,SAH,Mål,2:e,25,Jeppe CIESLAK,Assist,32,Fredrik OLSSON,30,Svend RUGHAVE
+80,748727,34.44,,MTH,Skud reddet,2:e,28,Rasmus MADSEN,Retur,0,,1,Kristoffer LAURSEN
+81,748727,35.41,17-14,MTH,Mål,ST,33,Kasper DIDRIKSEN,Assist,10,Mads Svane KNUDSEN,1,Kristoffer LAURSEN
+82,748727,36.29,,SAH,Regelfejl,,23,Morten Hempel JENSEN,,,,,
+83,748727,36.38,18-14,MTH,Mål,1:e,10,Mads Svane KNUDSEN,Assist,28,Rasmus MADSEN,1,Kristoffer LAURSEN
+84,748727,37.02,,SAH,Regelfejl,,20,Morten BALLING,,,,,
+85,748727,37.05,19-14,MTH,Mål,1:e,25,Magnus NORLYK,Assist,21,Marcus MIDTGAARD,0,
+86,748727,37.13,,SAH,Time out,,,,,,,,
+87,748727,37.39,19-15,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,30,Svend RUGHAVE
+88,748727,38.34,20-15,MTH,Mål,VB,10,Mads Svane KNUDSEN,,,,1,Kristoffer LAURSEN
+89,748727,39.07,20-16,SAH,Mål,HB,23,Morten Hempel JENSEN,,,,30,Svend RUGHAVE
+90,748727,39.36,21-16,MTH,Mål,ST,33,Kasper DIDRIKSEN,Assist,28,Rasmus MADSEN,1,Kristoffer LAURSEN
+91,748727,40.07,,SAH,Skud på stolpe,VB,23,Morten Hempel JENSEN,,,,30,Svend RUGHAVE
+92,748727,40.51,,MTH,Tilkendt straffe,,10,Mads Svane KNUDSEN,Forårs. str.,5,Frederik ARNOLDSEN,,
+93,748727,40.51,,SAH,Udvisning,,5,Frederik ARNOLDSEN,,,,,
+94,748727,40.53,22-16,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,1,Kristoffer LAURSEN
+95,748727,41.29,22-17,SAH,Mål,Gbr,23,Morten Hempel JENSEN,,,,30,Svend RUGHAVE
+96,748727,41.49,23-17,MTH,Mål,ST,15,Henrik Toft HANSEN,Assist,10,Mads Svane KNUDSEN,1,Kristoffer LAURSEN
+97,748727,42.24,,SAH,Skud reddet,Gbr,23,Morten Hempel JENSEN,,,,30,Svend RUGHAVE
+98,748727,42.31,24-17,MTH,Mål,1:e,21,Marcus MIDTGAARD,,,,1,Kristoffer LAURSEN
+99,748727,43.09,,MTH,Udvisning,,28,Rasmus MADSEN,,,,,
+100,748727,43.27,,SAH,Fejlaflevering,,23,Morten Hempel JENSEN,,,,,
+101,748727,44.09,,MTH,Regelfejl,,21,Marcus MIDTGAARD,,,,,
+102,748727,44.28,24-18,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,28,Morten KAALUND,30,Svend RUGHAVE
+103,748727,45.22,25-18,MTH,Mål,PL,9,Kristoffer VESTERGAARD,Assist,10,Mads Svane KNUDSEN,1,Kristoffer LAURSEN
+104,748727,46.19,25-19,SAH,Mål,,,,,,,,
+105,748727,46.47,26-19,MTH,Mål,ST,23,Henrik TILSTED,Assist,10,Mads Svane KNUDSEN,12,Magnus BRANDBYGE
+106,748727,46.58,,SAH,Regelfejl,,15,Emil LÆRKE,,,,,
+107,748727,47.01,,MTH,Tilkendt straffe,,21,Marcus MIDTGAARD,Forårs. str.,11,Mikkel LANG,,
+108,748727,47.01,,SAH,Udvisning,,11,Mikkel LANG,,,,,
+109,748727,47.03,27-19,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,12,Magnus BRANDBYGE
+110,748727,47.35,,SAH,Skud reddet,Gbr,20,Morten BALLING,,,,30,Svend RUGHAVE
+111,748727,48.07,28-19,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,10,Mads Svane KNUDSEN,12,Magnus BRANDBYGE
+112,748727,48.37,,SAH,Skud reddet,Gbr,20,Morten BALLING,,,,30,Svend RUGHAVE
+113,748727,49.00,29-19,MTH,Mål,PL,10,Mads Svane KNUDSEN,,,,12,Magnus BRANDBYGE
+114,748727,49.07,,SAH,Time out,,,,,,,,
+115,748727,49.37,,SAH,Skud reddet,Gbr,32,Fredrik OLSSON,Retur,0,,30,Svend RUGHAVE
+116,748727,49.58,,SAH,Skud reddet,Gbr,7,Jonatan MOLLERUP,,,,30,Svend RUGHAVE
+117,748727,50.10,30-19,MTH,Mål,2:e,10,Mads Svane KNUDSEN,,,,12,Magnus BRANDBYGE
+118,748727,50.44,,SAH,Fejlaflevering,,7,Jonatan MOLLERUP,Bold erobret,25,Magnus NORLYK,,
+119,748727,51.32,,MTH,Skud forbi,HB,22,Gustav SUNESEN,,,,12,Magnus BRANDBYGE
+120,748727,52.22,,SAH,Tabt bold,,23,Morten Hempel JENSEN,Bold erobret,7,Nichlas HALD,,
+121,748727,52.26,31-19,MTH,Mål,1:e,25,Magnus NORLYK,,,,12,Magnus BRANDBYGE
+122,748727,53.04,,SAH,Skud reddet,HB,7,Jonatan MOLLERUP,,,,30,Svend RUGHAVE
+123,748727,53.43,,MTH,Skud reddet,Gbr,19,Victor NORLYK,,,,12,Magnus BRANDBYGE
+124,748727,54.38,,SAH,Skud reddet,PL,15,Emil LÆRKE,,,,30,Svend RUGHAVE
+125,748727,55.20,32-19,MTH,Mål,PL,22,Gustav SUNESEN,,,,12,Magnus BRANDBYGE
+126,748727,55.50,32-20,SAH,Mål,HB,15,Emil LÆRKE,,,,30,Svend RUGHAVE
+127,748727,55.57,33-20,MTH,Mål,1:e,19,Victor NORLYK,,,,12,Magnus BRANDBYGE
+128,748727,56.46,33-21,SAH,Mål,PL,15,Emil LÆRKE,,,,30,Svend RUGHAVE
+129,748727,57.38,,MTH,Skud reddet,PL,22,Gustav SUNESEN,,,,12,Magnus BRANDBYGE
+130,748727,57.47,,SAH,Fejlaflevering,,7,Jonatan MOLLERUP,,,,,
+131,748727,57.52,,MTH,Skud reddet,1:e,25,Magnus NORLYK,,,,12,Magnus BRANDBYGE
+132,748727,58.17,,SAH,Skud reddet,HB,7,Jonatan MOLLERUP,,,,30,Svend RUGHAVE
+133,748727,58.51,,SAH,Udvisning,,19,Thor CHRISTENSEN,,,,,
+134,748727,59.22,34-21,MTH,Mål,Gbr,19,Victor NORLYK,Assist,22,Gustav SUNESEN,12,Magnus BRANDBYGE
+135,748727,59.52,,SAH,Fejlaflevering,,32,Fredrik OLSSON,,,,,
+136,748727,60.00,35-21,MTH,Mål,1:e,30,Svend RUGHAVE,,,,0,

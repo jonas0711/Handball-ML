@@ -1,0 +1,145 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748235,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748235,0.52,1-0,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,12,Ida Marie KAYSEN
+3,748235,1.08,,VHK,Skud på stolpe,Gbr,9,Laura THESTRUP,,,,38,Yara TEN HOLTE
+4,748235,1.18,2-0,ODE,Mål,Gbr,68,Helena ELVER,,,,12,Ida Marie KAYSEN
+5,748235,1.55,,VHK,Skud reddet,VB,9,Laura THESTRUP,,,,38,Yara TEN HOLTE
+6,748235,2.31,3-0,ODE,Mål,VB,22,Ragnhild DAHL,Assist,68,Helena ELVER,12,Ida Marie KAYSEN
+7,748235,3.11,,VHK,Skud reddet,Gbr,62,Louise SØNDERGAARD,,,,38,Yara TEN HOLTE
+8,748235,3.53,,ODE,Tabt bold,,27,Louise BURGAARD,,,,,
+9,748235,3.57,3-1,VHK,Mål,1:e,26,Christina PEDERSEN,Assist,19,Sara HALD,38,Yara TEN HOLTE
+10,748235,4.48,,ODE,Skud på stolpe,Gbr,68,Helena ELVER,,,,12,Ida Marie KAYSEN
+11,748235,5.14,,VHK,Fejlaflevering,,77,Jana MITTÚN,,,,,
+12,748235,6.00,4-1,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,12,Ida Marie KAYSEN
+13,748235,6.00,,VHK,Udvisning,,19,Sara HALD,,,,,
+14,748235,6.30,4-2,VHK,Mål,ST,21,Anne HYKKELBJERG,Assist,26,Christina PEDERSEN,38,Yara TEN HOLTE
+15,748235,6.49,5-2,ODE,Mål,Gbr,68,Helena ELVER,Assist,20,Lysa DEFO,12,Ida Marie KAYSEN
+16,748235,7.32,,VHK,Skud forbi,VF,14,Camilla DEGN,,,,38,Yara TEN HOLTE
+17,748235,7.48,6-2,ODE,Mål,HF,6,Malin AUNE,Assist,27,Louise BURGAARD,12,Ida Marie KAYSEN
+18,748235,8.39,,VHK,Fejlaflevering,,62,Louise SØNDERGAARD,,,,,
+19,748235,8.46,,ODE,Skud reddet,1:e,10,Anna GRUNDTVIG,,,,12,Ida Marie KAYSEN
+20,748235,9.24,,VHK,Tabt bold,,77,Jana MITTÚN,,,,,
+21,748235,9.33,7-2,ODE,Mål,HF,6,Malin AUNE,Assist,27,Louise BURGAARD,12,Ida Marie KAYSEN
+22,748235,9.42,,VHK,Time out,,,,,,,,
+23,748235,10.06,,VHK,Skud reddet,HF,18,Henriette HANSEN,,,,38,Yara TEN HOLTE
+24,748235,10.15,8-2,ODE,Mål,2:e,27,Louise BURGAARD,,,,12,Ida Marie KAYSEN
+25,748235,10.27,,VHK,Skud reddet,VF,14,Camilla DEGN,,,,38,Yara TEN HOLTE
+26,748235,10.58,9-2,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,12,Ida Marie KAYSEN
+27,748235,11.09,,VHK,Skud reddet,Gbr,26,Christina PEDERSEN,,,,38,Yara TEN HOLTE
+28,748235,11.19,,VHK,Udvisning,,19,Sara HALD,,,,,
+29,748235,11.30,,ODE,Skud reddet,Gbr,68,Helena ELVER,Retur,0,,12,Ida Marie KAYSEN
+30,748235,11.45,,ODE,Tilkendt straffe,,20,Lysa DEFO,Forårs. str.,26,Christina PEDERSEN,,
+31,748235,12.02,10-2,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,12,Ida Marie KAYSEN
+32,748235,12.47,10-3,VHK,Mål,Gbr,18,Henriette HANSEN,Assist,8,Elma ÖRTEMARK,38,Yara TEN HOLTE
+33,748235,13.07,11-3,ODE,Mål,ST,20,Lysa DEFO,Assist,68,Helena ELVER,12,Ida Marie KAYSEN
+34,748235,13.39,,VHK,Skud reddet,HB,8,Elma ÖRTEMARK,,,,38,Yara TEN HOLTE
+35,748235,14.09,,ODE,Skud forbi,ST,20,Lysa DEFO,,,,12,Ida Marie KAYSEN
+36,748235,14.37,,VHK,Skud reddet,PL,26,Christina PEDERSEN,,,,38,Yara TEN HOLTE
+37,748235,14.46,12-3,ODE,Mål,2:e,68,Helena ELVER,,,,12,Ida Marie KAYSEN
+38,748235,15.30,,VHK,Skud på stolpe,HF,18,Henriette HANSEN,,,,38,Yara TEN HOLTE
+39,748235,15.43,13-3,ODE,Mål,ST,3,Maren AARDAHL,Assist,27,Louise BURGAARD,16,Louise Bak JENSEN
+40,748235,15.55,13-4,VHK,Mål,VF,14,Camilla DEGN,Assist,77,Jana MITTÚN,38,Yara TEN HOLTE
+41,748235,16.34,14-4,ODE,Mål,HF,6,Malin AUNE,Assist,27,Louise BURGAARD,16,Louise Bak JENSEN
+42,748235,16.40,,VHK,Time out,,,,,,,,
+43,748235,16.57,,VHK,Fejlaflevering,,26,Christina PEDERSEN,Bold erobret,6,Malin AUNE,,
+44,748235,17.09,15-4,ODE,Mål,1:e,44,Nikita Van Der VLIET,Assist,6,Malin AUNE,0,
+45,748235,18.00,,VHK,Skud reddet,HF,18,Henriette HANSEN,,,,38,Yara TEN HOLTE
+46,748235,18.37,,ODE,Skud reddet,PL,22,Ragnhild DAHL,,,,16,Louise Bak JENSEN
+47,748235,18.49,15-5,VHK,Mål,VF,14,Camilla DEGN,Assist,26,Christina PEDERSEN,38,Yara TEN HOLTE
+48,748235,19.29,16-5,ODE,Mål,ST,3,Maren AARDAHL,Assist,6,Malin AUNE,16,Louise Bak JENSEN
+49,748235,19.47,,VHK,Skud reddet,HB,62,Louise SØNDERGAARD,,,,38,Yara TEN HOLTE
+50,748235,19.52,17-5,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,38,Yara TEN HOLTE,0,
+51,748235,20.24,,VHK,Skud reddet,Gbr,9,Laura THESTRUP,,,,38,Yara TEN HOLTE
+52,748235,20.28,18-5,ODE,Mål,1:e,44,Nikita Van Der VLIET,,,,0,
+53,748235,21.00,,VHK,Tabt bold,,26,Christina PEDERSEN,,,,,
+54,748235,21.04,19-5,ODE,Mål,1:e,10,Anna GRUNDTVIG,,,,16,Louise Bak JENSEN
+55,748235,21.36,19-6,VHK,Mål,ST,21,Anne HYKKELBJERG,Assist,26,Christina PEDERSEN,38,Yara TEN HOLTE
+56,748235,21.52,,ODE,Time out,,,,,,,,
+57,748235,22.11,,ODE,Skud reddet,PL,22,Ragnhild DAHL,Retur,0,,16,Louise Bak JENSEN
+58,748235,22.43,20-6,ODE,Mål,VF,10,Anna GRUNDTVIG,Assist,33,Thale Rushfeldt DEILA,16,Louise Bak JENSEN
+59,748235,23.08,20-7,VHK,Mål,HF,73,Nanna Skovmose VINTHER,Assist,62,Louise SØNDERGAARD,38,Yara TEN HOLTE
+60,748235,23.36,21-7,ODE,Mål,VB,22,Ragnhild DAHL,,,,16,Louise Bak JENSEN
+61,748235,23.51,,VHK,Skud blokeret,PL,9,Laura THESTRUP,Blok af (ret),44,Nikita Van Der VLIET,,
+62,748235,24.31,,VHK,Skud reddet,PL,26,Christina PEDERSEN,,,,38,Yara TEN HOLTE
+63,748235,25.22,,ODE,Tilkendt straffe,,33,Thale Rushfeldt DEILA,Forårs. str.,26,Christina PEDERSEN,,
+64,748235,25.37,22-7,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,16,Louise Bak JENSEN
+65,748235,26.31,,VHK,Skud forbi,VF,14,Camilla DEGN,,,,38,Yara TEN HOLTE
+66,748235,26.46,,ODE,Skud blokeret,2:e,22,Ragnhild DAHL,Blok af (ret),9,Laura THESTRUP,,
+67,748235,27.07,,ODE,Skud forbi,PL,8,Helene FAUSKE,,,,16,Louise Bak JENSEN
+68,748235,27.39,22-8,VHK,Mål,ST,21,Anne HYKKELBJERG,Assist,62,Louise SØNDERGAARD,38,Yara TEN HOLTE
+69,748235,27.56,,ODE,Skud på stolpe,VF,10,Anna GRUNDTVIG,,,,16,Louise Bak JENSEN
+70,748235,28.21,22-9,VHK,Mål,Gbr,77,Jana MITTÚN,,,,38,Yara TEN HOLTE
+71,748235,29.04,,ODE,Skud reddet,VF,10,Anna GRUNDTVIG,,,,16,Louise Bak JENSEN
+72,748235,29.31,,VHK,Skud blokeret,HB,62,Louise SØNDERGAARD,Blokeret af,44,Nikita Van Der VLIET,,
+73,748235,29.37,23-9,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,38,Yara TEN HOLTE,16,Louise Bak JENSEN
+74,748235,29.58,,VHK,Skud på stolpe,HB,62,Louise SØNDERGAARD,,,,38,Yara TEN HOLTE
+75,748235,30.00,23-9,,Halvleg,,,,,,,,
+76,748235,30.00,,,Start 2:e halvleg,,,,,,,,
+77,748235,30.23,,VHK,Skud forbi,HB,8,Elma ÖRTEMARK,,,,38,Yara TEN HOLTE
+78,748235,30.34,24-9,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,38,Yara TEN HOLTE,16,Louise Bak JENSEN
+79,748235,30.58,24-10,VHK,Mål,ST,21,Anne HYKKELBJERG,Assist,77,Jana MITTÚN,38,Yara TEN HOLTE
+80,748235,31.10,25-10,ODE,Mål,Gbr,8,Helene FAUSKE,Assist,33,Thale Rushfeldt DEILA,16,Louise Bak JENSEN
+81,748235,31.48,,VHK,Skud reddet,Gbr,62,Louise SØNDERGAARD,,,,38,Yara TEN HOLTE
+82,748235,31.54,26-10,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,38,Yara TEN HOLTE,16,Louise Bak JENSEN
+83,748235,33.00,,VHK,Skud forbi,VF,3,Alberte SIMONSEN,,,,38,Yara TEN HOLTE
+84,748235,33.05,27-10,ODE,Mål,2:e,33,Thale Rushfeldt DEILA,,,,16,Louise Bak JENSEN
+85,748235,33.42,27-11,VHK,Mål,HB,62,Louise SØNDERGAARD,,,,38,Yara TEN HOLTE
+86,748235,34.11,28-11,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,8,Helene FAUSKE,16,Louise Bak JENSEN
+87,748235,34.41,28-12,VHK,Mål,PL,62,Louise SØNDERGAARD,,,,38,Yara TEN HOLTE
+88,748235,34.48,29-12,ODE,Mål,2:e,33,Thale Rushfeldt DEILA,,,,16,Louise Bak JENSEN
+89,748235,35.24,29-13,VHK,Mål,Gbr,62,Louise SØNDERGAARD,Assist,26,Christina PEDERSEN,38,Yara TEN HOLTE
+90,748235,35.35,,ODE,Fejlaflevering,,22,Ragnhild DAHL,Bold erobret,14,Camilla DEGN,,
+91,748235,36.23,29-14,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,38,Yara TEN HOLTE
+92,748235,36.34,,ODE,Time out,,,,,,,,
+93,748235,37.05,30-14,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,22,Ragnhild DAHL,16,Louise Bak JENSEN
+94,748235,37.43,,VHK,Fejlaflevering,,77,Jana MITTÚN,,,,,
+95,748235,38.27,31-14,ODE,Mål,PL,33,Thale Rushfeldt DEILA,,,,16,Louise Bak JENSEN
+96,748235,39.14,,VHK,Tabt bold,,73,Nanna Skovmose VINTHER,,,,,
+97,748235,39.25,32-14,ODE,Mål,VB,22,Ragnhild DAHL,,12,Ida Marie KAYSEN,16,Louise Bak JENSEN
+98,748235,39.50,,VHK,Skud reddet,ST,21,Anne HYKKELBJERG,,,,38,Yara TEN HOLTE
+99,748235,39.58,,ODE,Fejlaflevering,,8,Helene FAUSKE,,,,,
+100,748235,40.26,32-15,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,38,Yara TEN HOLTE
+101,748235,40.56,33-15,ODE,Mål,VB,22,Ragnhild DAHL,Assist,8,Helene FAUSKE,12,Ida Marie KAYSEN
+102,748235,41.41,33-16,VHK,Mål,ST,19,Sara HALD,Assist,62,Louise SØNDERGAARD,38,Yara TEN HOLTE
+103,748235,42.22,,ODE,Fejlaflevering,,33,Thale Rushfeldt DEILA,,,,,
+104,748235,42.30,,,,,,,,,,,
+105,748235,43.30,34-16,ODE,Mål,VF,23,Elma HALILCEVIC,Assist,22,Ragnhild DAHL,12,Ida Marie KAYSEN
+106,748235,44.05,34-17,VHK,Mål,ST,19,Sara HALD,Assist,62,Louise SØNDERGAARD,38,Yara TEN HOLTE
+107,748235,44.17,,ODE,Tabt bold,,33,Thale Rushfeldt DEILA,,,,,
+108,748235,44.24,,VHK,Skud reddet,1:e,14,Camilla DEGN,Retur,0,,38,Yara TEN HOLTE
+109,748235,44.53,34-18,VHK,Mål,Gbr,77,Jana MITTÚN,,,,38,Yara TEN HOLTE
+110,748235,45.23,35-18,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,22,Ragnhild DAHL,12,Ida Marie KAYSEN
+111,748235,45.36,,VHK,Skud reddet,2:e,14,Camilla DEGN,,,,38,Yara TEN HOLTE
+112,748235,46.06,,ODE,Skud reddet,Gbr,8,Helene FAUSKE,,,,12,Ida Marie KAYSEN
+113,748235,46.37,35-19,VHK,Mål,Gbr,62,Louise SØNDERGAARD,Assist,77,Jana MITTÚN,38,Yara TEN HOLTE
+114,748235,47.32,36-19,ODE,Mål,PL,8,Helene FAUSKE,,,,12,Ida Marie KAYSEN
+115,748235,48.23,,VHK,Skud reddet,PL,77,Jana MITTÚN,,,,38,Yara TEN HOLTE
+116,748235,48.34,,ODE,Regelfejl,,20,Lysa DEFO,,,,,
+117,748235,48.39,36-20,VHK,Mål,1:e,14,Camilla DEGN,Assist,26,Christina PEDERSEN,38,Yara TEN HOLTE
+118,748235,48.42,,ODE,Time out,,,,,,,,
+119,748235,49.05,,ODE,Skud reddet,HB,8,Helene FAUSKE,,,,12,Ida Marie KAYSEN
+120,748235,49.16,,VHK,Skud på stolpe,2:e,9,Laura THESTRUP,,,,38,Yara TEN HOLTE
+121,748235,49.24,37-20,ODE,Mål,2:e,68,Helena ELVER,,,,12,Ida Marie KAYSEN
+122,748235,50.38,,VHK,Skud forbi,HB,62,Louise SØNDERGAARD,,,,38,Yara TEN HOLTE
+123,748235,51.48,,ODE,Skud på stolpe,ST,20,Lysa DEFO,,,,12,Ida Marie KAYSEN
+124,748235,51.59,37-21,VHK,Mål,VF,14,Camilla DEGN,Assist,26,Christina PEDERSEN,38,Yara TEN HOLTE
+125,748235,52.32,,ODE,Tilkendt straffe,,8,Helene FAUSKE,Forårs. str.,73,Nanna Skovmose VINTHER,,
+126,748235,52.45,38-21,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,12,Ida Marie KAYSEN
+127,748235,53.23,,VHK,Skud reddet,Gbr,77,Jana MITTÚN,,,,38,Yara TEN HOLTE
+128,748235,53.51,,ODE,Skud forbi,PL,8,Helene FAUSKE,,,,12,Ida Marie KAYSEN
+129,748235,54.03,38-22,VHK,Mål,Gbr,26,Christina PEDERSEN,,,,38,Yara TEN HOLTE
+130,748235,54.37,,ODE,Skud reddet,VF,10,Anna GRUNDTVIG,,,,12,Ida Marie KAYSEN
+131,748235,55.12,38-23,VHK,Mål,VF,14,Camilla DEGN,Assist,26,Christina PEDERSEN,38,Yara TEN HOLTE
+132,748235,55.39,39-23,ODE,Mål,Gbr,22,Ragnhild DAHL,Assist,8,Helene FAUSKE,12,Ida Marie KAYSEN
+133,748235,56.25,,ODE,Udvisning,,20,Lysa DEFO,,,,,
+134,748235,56.39,39-24,VHK,Mål,HF,73,Nanna Skovmose VINTHER,Assist,77,Jana MITTÚN,38,Yara TEN HOLTE
+135,748235,57.29,,ODE,Regelfejl,,44,Nikita Van Der VLIET,,,,,
+136,748235,57.44,39-25,VHK,Mål,1:e,26,Christina PEDERSEN,,,,38,Yara TEN HOLTE
+137,748235,58.03,40-25,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,68,Helena ELVER,12,Ida Marie KAYSEN
+138,748235,58.25,,VHK,Tilkendt straffe,,77,Jana MITTÚN,Forårs. str.,10,Anna GRUNDTVIG,,
+139,748235,58.36,40-26,VHK,Mål på straffe,,19,Sara HALD,,,,38,Yara TEN HOLTE
+140,748235,59.08,,ODE,Fejlaflevering,,68,Helena ELVER,,,,,
+141,748235,59.14,40-27,VHK,Mål,1:e,26,Christina PEDERSEN,Assist,77,Jana MITTÚN,38,Yara TEN HOLTE
+142,748235,59.31,,VHK,Udvisning,,26,Christina PEDERSEN,,,,,
+143,748235,59.50,,ODE,Skud reddet,Gbr,22,Ragnhild DAHL,,,,12,Ida Marie KAYSEN
+144,748235,59.58,,VHK,Skud blokeret,2:e,77,Jana MITTÚN,Blok af (ret),3,Maren AARDAHL,,

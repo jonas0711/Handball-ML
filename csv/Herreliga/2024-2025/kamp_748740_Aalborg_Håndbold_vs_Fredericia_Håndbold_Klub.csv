@@ -1,0 +1,131 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748740,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748740,0.37,,AAH,Udvisning,,20,Felix MÖLLER,,,,,
+3,748740,1.05,,FHK,Tilkendt straffe,,93,Anders MARTINUSEN,Forårs. str.,7,Thomas ARNOLDSEN,,
+4,748740,1.28,0-1,FHK,Mål på straffe,,7,Kasper YOUNG,,,,12,Fabian NORSTEN
+5,748740,2.48,,FHK,Advarsel,,13,Lasse BALSTAD,,,,,
+6,748740,3.26,,AAH,Skud reddet,ST,11,Simon HALD,,,,19,Martin NAGY
+7,748740,3.34,0-2,FHK,Mål,2:e,97,Reinier TABOADA,Assist,93,Anders MARTINUSEN,12,Fabian NORSTEN
+8,748740,3.47,1-2,AAH,Mål,2:e,18,Aleks VLAH,,,,19,Martin NAGY
+9,748740,4.21,,FHK,Skud blokeret,HB,91,Kasper PALMAR,Blokeret af,21,Henrik MØLLGAARD,,
+10,748740,4.31,,AAH,Skud reddet,2:e,18,Aleks VLAH,,,,19,Martin NAGY
+11,748740,4.42,1-3,FHK,Mål,2:e,41,Evgeni PEVNOV,Assist,31,William ANDERSSON MOBERG,12,Fabian NORSTEN
+12,748740,5.14,,AAH,Skud reddet,PL,18,Aleks VLAH,,,,19,Martin NAGY
+13,748740,5.57,,FHK,Fejlaflevering,,91,Kasper PALMAR,,,,,
+14,748740,6.03,2-3,AAH,Mål,2:e,6,Sebastian BARTHOLD,Assist,18,Aleks VLAH,19,Martin NAGY
+15,748740,6.45,2-4,FHK,Mål,PL,31,William ANDERSSON MOBERG,,,,12,Fabian NORSTEN
+16,748740,6.53,,AAH,Regelfejl,,15,Jack THURIN,,,,,
+17,748740,7.33,2-5,FHK,Mål,PL,97,Reinier TABOADA,,,,12,Fabian NORSTEN
+18,748740,7.40,,AAH,Fejlaflevering,,7,Thomas ARNOLDSEN,,,,,
+19,748740,8.20,,FHK,Skud reddet,PL,97,Reinier TABOADA,,,,12,Fabian NORSTEN
+20,748740,8.26,3-5,AAH,Mål,1:e,20,Felix MÖLLER,Assist,7,Thomas ARNOLDSEN,19,Martin NAGY
+21,748740,9.03,,FHK,Skud reddet,PL,91,Kasper PALMAR,,,,12,Fabian NORSTEN
+22,748740,9.12,4-5,AAH,Mål,1:e,19,Kristian BJØRNSEN,Assist,7,Thomas ARNOLDSEN,19,Martin NAGY
+23,748740,9.51,,FHK,Skud reddet,PL,91,Kasper PALMAR,,,,12,Fabian NORSTEN
+24,748740,10.00,,AAH,Skud reddet,2:e,6,Sebastian BARTHOLD,,,,19,Martin NAGY
+25,748740,10.35,4-6,FHK,Mål,VF,9,Martin BISGAARD,Assist,31,William ANDERSSON MOBERG,12,Fabian NORSTEN
+26,748740,10.45,5-6,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,19,Martin NAGY
+27,748740,11.23,,FHK,Skud reddet,VB,91,Kasper PALMAR,,,,12,Fabian NORSTEN
+28,748740,12.00,6-6,AAH,Mål,Gbr,18,Aleks VLAH,,,,19,Martin NAGY
+29,748740,12.52,,FHK,Skud reddet,Gbr,97,Reinier TABOADA,,,,12,Fabian NORSTEN
+30,748740,12.52,,FHK,Udvisning,,97,Reinier TABOADA,,,,,
+31,748740,13.17,,AAH,Tilkendt straffe,,7,Thomas ARNOLDSEN,Forårs. str.,93,Anders MARTINUSEN,,
+32,748740,13.23,7-6,AAH,Mål på straffe,,15,Jack THURIN,,,,19,Martin NAGY
+33,748740,13.49,,FHK,Fejlaflevering,,41,Evgeni PEVNOV,Bold erobret,7,Thomas ARNOLDSEN,,
+34,748740,13.51,8-6,AAH,Mål,1:e,7,Thomas ARNOLDSEN,,,,,
+35,748740,14.44,,FHK,Skud blokeret,PL,15,Mads KJELDGAARD,Blokeret af,20,Felix MÖLLER,,
+36,748740,16.07,,AAH,Regelfejl,,6,Sebastian BARTHOLD,,,,,
+37,748740,16.36,8-7,FHK,Mål,PL,15,Mads KJELDGAARD,,,,12,Fabian NORSTEN
+38,748740,17.07,,FHK,Advarsel,,20,Fredrik MOSSESTAD,,,,,
+39,748740,17.40,9-7,AAH,Mål,ST,11,Simon HALD,Assist,17,Martin LARSEN,19,Martin NAGY
+40,748740,17.49,9-8,FHK,Mål,2:e,15,Mads KJELDGAARD,,,,12,Fabian NORSTEN
+41,748740,18.42,,AAH,Fejlaflevering,,17,Martin LARSEN,,,,,
+42,748740,18.46,9-9,FHK,Mål,1:e,9,Martin BISGAARD,Assist,93,Anders MARTINUSEN,12,Fabian NORSTEN
+43,748740,19.37,10-9,AAH,Mål,VF,6,Sebastian BARTHOLD,Assist,9,Miguel MARTINS,19,Martin NAGY
+44,748740,20.18,,FHK,Regelfejl,,31,William ANDERSSON MOBERG,,,,,
+45,748740,20.54,11-9,AAH,Mål,VF,6,Sebastian BARTHOLD,Assist,25,Marinus MUNK,19,Martin NAGY
+46,748740,21.37,,FHK,Skud på stolpe,PL,15,Mads KJELDGAARD,,,,12,Fabian NORSTEN
+47,748740,22.20,12-9,AAH,Mål,Gbr,25,Marinus MUNK,,,,19,Martin NAGY
+48,748740,22.32,,FHK,Time out,,,,,,,,
+49,748740,23.02,,FHK,Tilkendt straffe,,20,Fredrik MOSSESTAD,Forårs. str.,25,Marinus MUNK,,
+50,748740,23.05,12-10,FHK,Mål på straffe,,7,Kasper YOUNG,,,,12,Fabian NORSTEN
+51,748740,23.52,13-10,AAH,Mål,VF,6,Sebastian BARTHOLD,Assist,25,Marinus MUNK,19,Martin NAGY
+52,748740,24.23,,FHK,Skud forbi,VF,9,Martin BISGAARD,,,,12,Fabian NORSTEN
+53,748740,25.00,,AAH,Tabt bold,,17,Martin LARSEN,,,,,
+54,748740,25.06,,FHK,Skud reddet,1:e,15,Mads KJELDGAARD,,,,12,Fabian NORSTEN
+55,748740,25.15,,AAH,Skud forbi,2:e,17,Martin LARSEN,,,,19,Martin NAGY
+56,748740,25.49,13-11,FHK,Mål,Gbr,15,Mads KJELDGAARD,,,,12,Fabian NORSTEN
+57,748740,27.02,,AAH,Skud blokeret,PL,15,Jack THURIN,Blok af (ret),13,Lasse BALSTAD,,
+58,748740,27.10,,AAH,Skud reddet,PL,25,Marinus MUNK,,,,19,Martin NAGY
+59,748740,27.48,,FHK,Skud reddet,Gbr,15,Mads KJELDGAARD,,,,12,Fabian NORSTEN
+60,748740,27.52,14-11,AAH,Mål,1:e,21,Henrik MØLLGAARD,,,,0,
+61,748740,28.20,14-12,FHK,Mål,Gbr,31,William ANDERSSON MOBERG,Assist,4,Nikolaj NIELSEN,12,Fabian NORSTEN
+62,748740,28.51,,AAH,Skud reddet,VF,6,Sebastian BARTHOLD,,,,19,Martin NAGY
+63,748740,29.17,14-13,FHK,Mål,PL,31,William ANDERSSON MOBERG,,,,12,Fabian NORSTEN
+64,748740,29.46,,AAH,Time out,,,,,,,,
+65,748740,30.00,,AAH,Skud blokeret,VB,15,Jack THURIN,Blokeret af,13,Lasse BALSTAD,,
+66,748740,30.00,14-13,,Halvleg,,,,,,,,
+67,748740,30.00,,,Start 2:e halvleg,,,,,,,,
+68,748740,30.43,,AAH,Tabt bold,,7,Thomas ARNOLDSEN,,,,,
+69,748740,31.26,,FHK,Regelfejl,,9,Martin BISGAARD,,,,,
+70,748740,31.35,,AAH,Tilkendt straffe,,20,Felix MÖLLER,Forårs. str.,41,Evgeni PEVNOV,,
+71,748740,31.45,15-13,AAH,Mål på straffe,,15,Jack THURIN,,,,1,Sebastian FRANDSEN
+72,748740,32.16,,FHK,Regelfejl,,15,Mads KJELDGAARD,,,,,
+73,748740,32.50,,AAH,Skud reddet,Gbr,18,Aleks VLAH,Retur,0,,19,Martin NAGY
+74,748740,33.54,,AAH,Skud reddet,PL,18,Aleks VLAH,,,,19,Martin NAGY
+75,748740,34.35,15-14,FHK,Mål,VF,9,Martin BISGAARD,Assist,15,Mads KJELDGAARD,12,Fabian NORSTEN
+76,748740,34.55,,AAH,Skud reddet,HF,19,Kristian BJØRNSEN,,,,19,Martin NAGY
+77,748740,35.35,,FHK,Fejlaflevering,,15,Mads KJELDGAARD,,,,,
+78,748740,36.11,16-14,AAH,Mål,PL,18,Aleks VLAH,Assist,7,Thomas ARNOLDSEN,19,Martin NAGY
+79,748740,36.46,,FHK,Skud forbi,ST,4,Nikolaj NIELSEN,,,,12,Fabian NORSTEN
+80,748740,37.41,17-14,AAH,Mål,ST,20,Felix MÖLLER,Assist,15,Jack THURIN,19,Martin NAGY
+81,748740,38.19,17-15,FHK,Mål,VF,9,Martin BISGAARD,Assist,97,Reinier TABOADA,12,Fabian NORSTEN
+82,748740,38.55,,AAH,Regelfejl,,18,Aleks VLAH,,,,,
+83,748740,39.02,17-16,FHK,Mål,2:e,31,William ANDERSSON MOBERG,,,,12,Fabian NORSTEN
+84,748740,40.17,18-16,AAH,Mål,HB,15,Jack THURIN,Assist,7,Thomas ARNOLDSEN,19,Martin NAGY
+85,748740,40.28,18-17,FHK,Mål,2:e,31,William ANDERSSON MOBERG,,,,12,Fabian NORSTEN
+86,748740,41.03,19-17,AAH,Mål,ST,19,Kristian BJØRNSEN,Assist,18,Aleks VLAH,19,Martin NAGY
+87,748740,41.18,19-18,FHK,Mål,2:e,97,Reinier TABOADA,Assist,93,Anders MARTINUSEN,12,Fabian NORSTEN
+88,748740,42.03,20-18,AAH,Mål,HF,19,Kristian BJØRNSEN,Assist,7,Thomas ARNOLDSEN,19,Martin NAGY
+89,748740,42.29,,FHK,Fejlaflevering,,31,William ANDERSSON MOBERG,,,,,
+90,748740,42.33,,AAH,Fejlaflevering,,7,Thomas ARNOLDSEN,,,,,
+91,748740,42.48,20-19,FHK,Mål,Gbr,93,Anders MARTINUSEN,Assist,31,William ANDERSSON MOBERG,12,Fabian NORSTEN
+92,748740,42.59,,AAH,Fejlaflevering,,25,Marinus MUNK,,,,,
+93,748740,43.01,,FHK,Skud reddet,1:e,9,Martin BISGAARD,,,,12,Fabian NORSTEN
+94,748740,44.25,,AAH,Skud reddet,Gbr,25,Marinus MUNK,,,,19,Martin NAGY
+95,748740,44.55,20-20,FHK,Mål,VF,9,Martin BISGAARD,Assist,97,Reinier TABOADA,12,Fabian NORSTEN
+96,748740,45.50,,AAH,Skud forbi,PL,18,Aleks VLAH,,,,19,Martin NAGY
+97,748740,46.33,,FHK,Regelfejl,,97,Reinier TABOADA,,,,,
+98,748740,46.39,21-20,AAH,Mål,1:e,7,Thomas ARNOLDSEN,,,,0,
+99,748740,47.16,21-21,FHK,Mål,VF,9,Martin BISGAARD,Assist,97,Reinier TABOADA,12,Fabian NORSTEN
+100,748740,48.00,,AAH,Tabt bold,,25,Marinus MUNK,,,,,
+101,748740,48.05,21-22,FHK,Mål,1:e,97,Reinier TABOADA,,,,1,Niklas LANDIN
+102,748740,48.17,,AAH,Fejlaflevering,,15,Jack THURIN,Bold erobret,97,Reinier TABOADA,,
+103,748740,48.23,21-23,FHK,Mål,1:e,93,Anders MARTINUSEN,Assist,13,Lasse BALSTAD,1,Niklas LANDIN
+104,748740,48.27,,,,,,,,,,,
+105,748740,48.52,22-23,AAH,Mål,Gbr,9,Miguel MARTINS,,,Martin NAGY,,
+106,748740,49.23,22-24,FHK,Mål,PL,31,William ANDERSSON MOBERG,,,,1,Niklas LANDIN
+107,748740,49.28,23-24,AAH,Mål,2:e,7,Thomas ARNOLDSEN,,,,,
+108,748740,50.15,23-25,FHK,Mål,Gbr,31,William ANDERSSON MOBERG,,,,1,Niklas LANDIN
+109,748740,50.24,24-25,AAH,Mål,2:e,19,Kristian BJØRNSEN,Assist,0,Martin NAGY,,
+110,748740,50.58,24-26,FHK,Mål,Gbr,97,Reinier TABOADA,Assist,4,Nikolaj NIELSEN,1,Niklas LANDIN
+111,748740,51.25,25-26,AAH,Mål,Gbr,9,Miguel MARTINS,,,Martin NAGY,,
+112,748740,52.00,25-27,FHK,Mål,PL,31,William ANDERSSON MOBERG,,,,1,Niklas LANDIN
+113,748740,52.41,26-27,AAH,Mål,HF,19,Kristian BJØRNSEN,Assist,7,Thomas ARNOLDSEN,,Martin NAGY
+114,748740,53.24,26-28,FHK,Mål,VF,9,Martin BISGAARD,Assist,31,William ANDERSSON MOBERG1,1,Niklas LANDIN
+115,748740,53.37,,AAH,Skud reddet,2:e,20,Felix MÖLLER,Retur,0,Martin NAGY,,
+116,748740,53.55,27-28,AAH,Mål,PL,15,Jack THURIN,,,Martin NAGY,,
+117,748740,54.33,27-29,FHK,Mål,VF,9,Martin BISGAARD,Assist,31,William ANDERSSON MOBERG12,12,Fabian NORSTEN
+118,748740,54.57,28-29,AAH,Mål,VF,23,Buster JUUL,Assist,7,Thomas ARNOLDSEN,,Martin NAGY
+119,748740,55.26,28-30,FHK,Mål,PL,93,Anders MARTINUSEN,,,,12,Fabian NORSTEN
+120,748740,55.49,,AAH,Skud reddet,HF,19,Kristian BJØRNSEN,Retur,0,Martin NAGY,,
+121,748740,55.52,29-30,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,Martin NAGY,,
+122,748740,56.24,,FHK,Skud forbi,Gbr,97,Reinier TABOADA,,,,12,Fabian NORSTEN
+123,748740,57.22,30-30,AAH,Mål,Gbr,15,Jack THURIN,,,Martin NAGY,,
+124,748740,57.54,,FHK,Skud reddet,HB,93,Anders MARTINUSEN,,,,12,Fabian NORSTEN
+125,748740,58.35,31-30,AAH,Mål,ST,11,Simon HALD,Assist,9,Miguel MARTINS,,Martin NAGY
+126,748740,59.12,,FHK,Skud på stolpe,HF,7,Kasper YOUNG,,,,12,Fabian NORSTEN
+127,748740,59.45,,AAH,Time out,,,,,,,,
+128,748740,59.59,32-30,AAH,Mål,Gbr,9,Miguel MARTINS,,,Martin NAGY,,
+129,748740,60.00,32-30,,Fuld tid,,,,,,,,
+130,748740,60.00,,,Kamp slut,,,,,,,,

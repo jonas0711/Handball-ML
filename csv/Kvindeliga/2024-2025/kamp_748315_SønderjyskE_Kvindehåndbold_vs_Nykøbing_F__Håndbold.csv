@@ -1,0 +1,149 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748315,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748315,0.39,,SJE,Advarsel,,22,Olivia SIMONSEN,,,,,
+3,748315,1.27,0-1,NFH,Mål,ST,2,Caroline AAR,Assist,26,Mona OBAIDLI,12,Stine BROLØS
+4,748315,2.14,1-1,SJE,Mål,VF,17,June BØTTGER,Assist,7,Melissa PETRÉN,12,Catharina BROCH
+5,748315,2.28,1-2,NFH,Mål,Gbr,18,Alberte KIELSTRUP,Assist,2,Caroline AAR,12,Stine BROLØS
+6,748315,3.19,,SJE,Tilkendt straffe,,28,Sarah PAULSEN,Forårs. str.,20,Maja MAGNUSSEN,,
+7,748315,3.37,,SJE,Straffekast reddet,,7,Melissa PETRÉN,,,,12,Catharina BROCH
+8,748315,4.05,1-3,NFH,Mål,Gbr,7,Amalie WULFF,,,,12,Stine BROLØS
+9,748315,4.14,2-3,SJE,Mål,2:e,10,Nicoline OLSEN,,,,12,Catharina BROCH
+10,748315,4.23,2-4,NFH,Mål,2:e,26,Mona OBAIDLI,,,,12,Stine BROLØS
+11,748315,4.59,,SJE,Skud reddet,PL,28,Sarah PAULSEN,Retur,6,Lea HANSEN,12,Catharina BROCH
+12,748315,5.22,,SJE,Tabt bold,,7,Melissa PETRÉN,Bold erobret,49,Aimée VON PEREIRA,,
+13,748315,5.27,2-5,NFH,Mål,1:e,20,Maja MAGNUSSEN,Assist,2,Caroline AAR,12,Stine BROLØS
+14,748315,6.04,,SJE,Skud reddet,VB,7,Melissa PETRÉN,,,,12,Catharina BROCH
+15,748315,6.37,2-6,NFH,Mål,Gbr,7,Amalie WULFF,Assist,18,Alberte KIELSTRUP,12,Stine BROLØS
+16,748315,6.54,,SJE,Time out,,,,,,,,
+17,748315,7.33,,SJE,Fejlaflevering,,10,Nicoline OLSEN,Bold erobret,8,Stine EIBERG,,
+18,748315,7.38,,NFH,Fejlaflevering,,8,Stine EIBERG,,,,,
+19,748315,8.20,,SJE,Skud på stolpe,ST,31,Ida-Marie DAHL,,,,12,Catharina BROCH
+20,748315,8.32,,NFH,Skud reddet,HF,20,Maja MAGNUSSEN,,,,12,Stine BROLØS
+21,748315,8.40,,SJE,Tilkendt straffe,,22,Olivia SIMONSEN,Forårs. str.,2,Caroline AAR,,
+22,748315,8.44,,SJE,Straffekast på stolpe,,7,Melissa PETRÉN,,,,12,Catharina BROCH
+23,748315,10.03,,NFH,Regelfejl,,18,Alberte KIELSTRUP,,,,,
+24,748315,10.41,3-6,SJE,Mål,HF,6,Lea HANSEN,Assist,7,Melissa PETRÉN,12,Catharina BROCH
+25,748315,11.15,,SJE,Udvisning,,14,Louise ELLEBÆK,,,,,
+26,748315,11.38,3-7,NFH,Mål,VF,21,Matilde VESTERGAARD,Assist,18,Alberte KIELSTRUP,12,Stine BROLØS
+27,748315,12.10,,SJE,Fejlaflevering,,10,Nicoline OLSEN,,,,,
+28,748315,12.17,,NFH,Skud på stolpe,1:e,8,Stine EIBERG,,,,0,
+29,748315,12.48,4-7,SJE,Mål,Gbr,7,Melissa PETRÉN,,,,12,Catharina BROCH
+30,748315,12.56,4-8,NFH,Mål,2:e,8,Stine EIBERG,,,,0,
+31,748315,13.29,,SJE,Skud reddet,Gbr,10,Nicoline OLSEN,,,,12,Catharina BROCH
+32,748315,13.37,4-9,NFH,Mål,2:e,18,Alberte KIELSTRUP,,,,12,Stine BROLØS
+33,748315,14.07,,SJE,Skud på stolpe,PL,28,Sarah PAULSEN,,,,12,Catharina BROCH
+34,748315,14.12,4-10,NFH,Mål,1:e,21,Matilde VESTERGAARD,Assist,26,Mona OBAIDLI,12,Stine BROLØS
+35,748315,15.23,,SJE,Skud reddet,VB,28,Sarah PAULSEN,Retur,0,,12,Catharina BROCH
+36,748315,15.52,5-10,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,12,Catharina BROCH
+37,748315,17.14,,NFH,Skud blokeret,PL,26,Mona OBAIDLI,Blok af (ret),22,Olivia SIMONSEN,,
+38,748315,17.24,,NFH,Skud på stolpe,HB,18,Alberte KIELSTRUP,,,,12,Stine BROLØS
+39,748315,17.33,6-10,SJE,Mål,2:e,17,June BØTTGER,Assist,28,Sarah PAULSEN,12,Catharina BROCH
+40,748315,18.29,,NFH,Regelfejl,,34,Sofie BARDRUM,,,,,
+41,748315,18.38,,SJE,Skud forbi,1:e,22,Olivia SIMONSEN,,,,12,Catharina BROCH
+42,748315,18.42,,SJE,Udvisning,,31,Ida-Marie DAHL,,,,,
+43,748315,18.59,6-11,NFH,Mål,ST,2,Caroline AAR,Assist,79,Kristina KRISTIANSEN,12,Stine BROLØS
+44,748315,19.42,7-11,SJE,Mål,VB,22,Olivia SIMONSEN,,,,12,Catharina BROCH
+45,748315,20.08,,NFH,Skud reddet,Gbr,18,Alberte KIELSTRUP,,,,12,Stine BROLØS
+46,748315,20.15,8-11,SJE,Mål,1:e,28,Sarah PAULSEN,,,,0,
+47,748315,20.35,8-12,NFH,Mål,PL,26,Mona OBAIDLI,,,,12,Stine BROLØS
+48,748315,21.15,,SJE,Skud reddet,PL,22,Olivia SIMONSEN,Retur,17,June BØTTGER,12,Catharina BROCH
+49,748315,21.22,9-12,SJE,Mål,VF,17,June BØTTGER,,,,12,Catharina BROCH
+50,748315,21.24,,NFH,Time out,,,,,,,,
+51,748315,22.01,9-13,NFH,Mål,HB,6,Moa HÖGDAHL,,,,26,Nora PERSSON
+52,748315,22.51,10-13,SJE,Mål,VF,17,June BØTTGER,Assist,22,Olivia SIMONSEN,12,Catharina BROCH
+53,748315,23.01,,NFH,Fejlaflevering,,26,Mona OBAIDLI,,,,,
+54,748315,23.06,,SJE,Fejlaflevering,,7,Melissa PETRÉN,Bold erobret,26,Mona OBAIDLI,,
+55,748315,23.37,,NFH,Skud reddet,Gbr,6,Moa HÖGDAHL,,,,26,Nora PERSSON
+56,748315,23.43,,SJE,Regelfejl,,7,Melissa PETRÉN,,,,,
+57,748315,23.49,,NFH,Regelfejl,,21,Matilde VESTERGAARD,,,,,
+58,748315,24.23,,SJE,Skud reddet,HB,28,Sarah PAULSEN,,,,12,Catharina BROCH
+59,748315,24.55,10-14,NFH,Mål,Gbr,6,Moa HÖGDAHL,,,,26,Nora PERSSON
+60,748315,25.32,11-14,SJE,Mål,Gbr,28,Sarah PAULSEN,,,,12,Catharina BROCH
+61,748315,26.36,,NFH,Skud forbi,VB,6,Moa HÖGDAHL,,,,26,Nora PERSSON
+62,748315,26.46,,SJE,Skud på stolpe,1:e,17,June BØTTGER,,,,12,Catharina BROCH
+63,748315,27.49,,NFH,Tabt bold,,34,Sofie BARDRUM,,,,,
+64,748315,27.59,,SJE,Tilkendt straffe,,31,Ida-Marie DAHL,Forårs. str.,49,Aimée VON PEREIRA,,
+65,748315,28.16,12-14,SJE,Mål på straffe,,28,Sarah PAULSEN,,,,12,Catharina BROCH
+66,748315,29.14,12-15,NFH,Mål,ST,34,Sofie BARDRUM,Assist,26,Mona OBAIDLI,26,Nora PERSSON
+67,748315,29.56,13-15,SJE,Mål,HB,22,Olivia SIMONSEN,,,,12,Catharina BROCH
+68,748315,30.00,13-15,,Halvleg,,,,,,,,
+69,748315,30.00,,,Start 2:e halvleg,,,,,,,,
+70,748315,30.34,,SJE,Skud reddet,ST,31,Ida-Marie DAHL,,,,12,Catharina BROCH
+71,748315,30.45,,NFH,Skud på stolpe,ST,2,Caroline AAR,,,,26,Nora PERSSON
+72,748315,30.54,,SJE,Skud reddet,2:e,31,Ida-Marie DAHL,Retur,6,Lea HANSEN,12,Catharina BROCH
+73,748315,30.57,,NFH,Udvisning,,21,Matilde VESTERGAARD,,,,,
+74,748315,31.11,14-15,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,7,Melissa PETRÉN,12,Catharina BROCH
+75,748315,31.50,,NFH,Skud reddet,VF,26,Mona OBAIDLI,,,,26,Nora PERSSON
+76,748315,32.16,15-15,SJE,Mål,HF,6,Lea HANSEN,Assist,8,Karine DAHLUM,12,Catharina BROCH
+77,748315,32.46,,NFH,Tabt bold,,2,Caroline AAR,,,,,
+78,748315,32.54,,SJE,Skud forbi,1:e,14,Louise ELLEBÆK,,,,,
+79,748315,33.36,,NFH,Passivt spil,,0,,,,,,
+80,748315,33.44,,SJE,Skud forbi,1:e,22,Olivia SIMONSEN,,,,12,Catharina BROCH
+81,748315,34.25,,NFH,Regelfejl,,79,Kristina KRISTIANSEN,,,,,
+82,748315,35.02,,NFH,Udvisning,,49,Aimée VON PEREIRA,,,,,
+83,748315,35.15,,SJE,Tilkendt straffe,,22,Olivia SIMONSEN,Forårs. str.,6,Moa HÖGDAHL,,
+84,748315,35.25,16-15,SJE,Mål på straffe,,28,Sarah PAULSEN,,,,1,Sofie BÖRJESSON
+85,748315,36.01,,NFH,Fejlaflevering,,26,Mona OBAIDLI,Bold erobret,14,Louise ELLEBÆK,,
+86,748315,36.04,17-15,SJE,Mål,1:e,8,Karine DAHLUM,Assist,14,Louise ELLEBÆK,0,
+87,748315,36.34,,SJE,Udvisning,,8,Karine DAHLUM,,,,,
+88,748315,36.47,,NFH,Udvisning,,79,Kristina KRISTIANSEN,,,,,
+89,748315,36.49,,NFH,Regelfejl,,34,Sofie BARDRUM,,,,,
+90,748315,37.08,18-15,SJE,Mål,VB,7,Melissa PETRÉN,,,,12,Catharina BROCH
+91,748315,37.38,,NFH,Skud reddet,PL,7,Amalie WULFF,,,,26,Nora PERSSON
+92,748315,37.59,19-15,SJE,Mål,HF,6,Lea HANSEN,Assist,7,Melissa PETRÉN,12,Catharina BROCH
+93,748315,38.25,19-16,NFH,Mål,Gbr,6,Moa HÖGDAHL,,,,26,Nora PERSSON
+94,748315,38.46,,NFH,Udvisning,,8,Stine EIBERG,,,,,
+95,748315,38.57,20-16,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,28,Sarah PAULSEN,12,Catharina BROCH
+96,748315,39.44,20-17,NFH,Mål,Gbr,21,Matilde VESTERGAARD,Assist,7,Amalie WULFF,26,Nora PERSSON
+97,748315,40.12,21-17,SJE,Mål,PL,7,Melissa PETRÉN,,,,12,Catharina BROCH
+98,748315,40.45,,NFH,Skud på stolpe,Gbr,6,Moa HÖGDAHL,,,,26,Nora PERSSON
+99,748315,41.17,,SJE,Skud på stolpe,Gbr,7,Melissa PETRÉN,,,,12,Catharina BROCH
+100,748315,41.20,,NFH,Tilkendt straffe,,2,Caroline AAR,Forårs. str.,8,Karine DAHLUM,,
+101,748315,41.20,,SJE,Udvisning,,8,Karine DAHLUM,,,,,
+102,748315,41.20,,NFH,Straffekast forbi,,6,Moa HÖGDAHL,,,,26,Nora PERSSON
+103,748315,42.20,22-17,SJE,Mål,ST,17,June BØTTGER,Assist,7,Melissa PETRÉN,12,Catharina BROCH
+104,748315,42.50,22-18,NFH,Mål,,,,,,,,
+105,748315,42.58,,SJE,Skud på stolpe,2:e,31,Ida-Marie DAHL,,,,,
+106,748315,43.14,22-19,NFH,Mål,ST,34,Sofie BARDRUM,Assist,79,Kristina KRISTIANSEN,,
+107,748315,44.14,,SJE,Skud blokeret,VB,28,Sarah PAULSEN,Blok af (ret),49,Aimée VON PEREIRA,,
+108,748315,44.33,,SJE,Regelfejl,,31,Ida-Marie DAHL,,,,,
+109,748315,45.15,,NFH,Skud reddet,HF,11,Rosa SCHMIDT,,,,26,Nora PERSSON
+110,748315,45.23,23-19,SJE,Mål,1:e,28,Sarah PAULSEN,,,,,
+111,748315,45.41,,NFH,Skud reddet,Gbr,79,Kristina KRISTIANSEN,,,,26,Nora PERSSON
+112,748315,45.50,,SJE,Fejlaflevering,,14,Louise ELLEBÆK,Bold erobret,2,Caroline AAR,,
+113,748315,45.51,,NFH,Time out,,,,,,,,
+114,748315,46.19,,NFH,Advarsel,A,,Jakob Birkedal LARSEN,,,,,
+115,748315,46.38,,NFH,Skud reddet,HB,18,Alberte KIELSTRUP,,,,26,Nora PERSSON
+116,748315,47.30,,SJE,Skud blokeret,HB,7,Melissa PETRÉN,Blokeret af,18,Alberte KIELSTRUP,,
+117,748315,47.39,,NFH,Regelfejl,,18,Alberte KIELSTRUP,,,,,
+118,748315,48.11,24-19,SJE,Mål,ST,22,Olivia SIMONSEN,Assist,7,Melissa PETRÉN,12,Catharina BROCH
+119,748315,48.52,,NFH,Tilkendt straffe,,7,Amalie WULFF,Forårs. str.,10,Nicoline OLSEN,,
+120,748315,49.11,24-20,NFH,Mål på straffe,,34,Sofie BARDRUM,,,,26,Nora PERSSON
+121,748315,50.03,25-20,SJE,Mål,PL,28,Sarah PAULSEN,Assist,10,Nicoline OLSEN,12,Catharina BROCH
+122,748315,50.25,25-21,NFH,Mål,Gbr,26,Mona OBAIDLI,,,,26,Nora PERSSON
+123,748315,50.55,26-21,SJE,Mål,VF,17,June BØTTGER,Assist,28,Sarah PAULSEN,1,Sofie BÖRJESSON
+124,748315,51.13,26-22,NFH,Mål,VB,7,Amalie WULFF,,,,26,Nora PERSSON
+125,748315,52.00,,SJE,Regelfejl,,10,Nicoline OLSEN,,,,,
+126,748315,52.10,,NFH,Tilkendt straffe,,49,Aimée VON PEREIRA,Forårs. str.,22,Olivia SIMONSEN,,
+127,748315,52.35,,NFH,Straffekast forbi,,34,Sofie BARDRUM,,,,26,Nora PERSSON
+128,748315,53.11,,SJE,Skud reddet,Gbr,28,Sarah PAULSEN,,,,1,Sofie BÖRJESSON
+129,748315,53.24,26-23,NFH,Mål,PL,49,Aimée VON PEREIRA,,,,26,Nora PERSSON
+130,748315,54.09,27-23,SJE,Mål,VB,7,Melissa PETRÉN,,,,1,Sofie BÖRJESSON
+131,748315,55.00,,NFH,Skud reddet,HF,11,Rosa SCHMIDT,,,,26,Nora PERSSON
+132,748315,55.28,,SJE,Regelfejl,,28,Sarah PAULSEN,,,,,
+133,748315,55.40,,NFH,Tilkendt straffe,,26,Mona OBAIDLI,Forårs. str.,7,Melissa PETRÉN,,
+134,748315,55.40,,SJE,Udvisning,,7,Melissa PETRÉN,,,,,
+135,748315,55.43,27-24,NFH,Mål på straffe,,49,Aimée VON PEREIRA,,,,26,Nora PERSSON
+136,748315,56.27,,SJE,Fejlaflevering,,10,Nicoline OLSEN,Bold erobret,8,Stine EIBERG,,
+137,748315,56.34,,NFH,Fejlaflevering,,8,Stine EIBERG,,,,,
+138,748315,57.01,,SJE,Advarsel,A,,Peter NIELSEN,,,,,
+139,748315,57.13,,SJE,Fejlaflevering,,10,Nicoline OLSEN,Bold erobret,49,Aimée VON PEREIRA,,
+140,748315,57.20,27-25,NFH,Mål,1:e,49,Aimée VON PEREIRA,,,,,
+141,748315,58.08,,SJE,Regelfejl,,31,Ida-Marie DAHL,,,,,
+142,748315,58.18,,NFH,Tilkendt straffe,,18,Alberte KIELSTRUP,Forårs. str.,17,June BØTTGER,,
+143,748315,58.21,27-26,NFH,Mål på straffe,,49,Aimée VON PEREIRA,,,,26,Nora PERSSON
+144,748315,58.53,28-26,SJE,Mål,Gbr,10,Nicoline OLSEN,,,,1,Sofie BÖRJESSON
+145,748315,59.04,28-27,NFH,Mål,VB,7,Amalie WULFF,,,,26,Nora PERSSON
+146,748315,59.39,,SJE,Time out,,,,,,,,
+147,748315,59.48,,SJE,Skud reddet,Gbr,28,Sarah PAULSEN,,,,1,Sofie BÖRJESSON
+148,748315,59.49,,NFH,Time out,,,,,,,,

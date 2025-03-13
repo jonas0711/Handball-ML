@@ -1,0 +1,138 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748218,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748218,0.49,,SVK,Skud reddet,Gbr,27,Marigona HAJDARI,,,,1,Annika FRIDHEIM
+3,748218,0.54,1-0,EHA,Mål,2:e,3,Liv SVEINBJØRNSDÓTTIR,,,,22,Stine BONDE
+4,748218,1.28,1-1,SVK,Mål,PL,6,Thea RASMUSSEN,,,,1,Annika FRIDHEIM
+5,748218,2.05,2-1,EHA,Mål,Gbr,21,Frederikke GULMARK,Assist,5,Anna Hviid BANG,22,Stine BONDE
+6,748218,2.17,2-2,SVK,Mål,2:e,4,Maria HOLM,,,,1,Annika FRIDHEIM
+7,748218,2.44,,EHA,Skud på stolpe,ST,4,Cecilie TERMANSEN,,,,22,Stine BONDE
+8,748218,2.51,2-3,SVK,Mål,2:e,6,Thea RASMUSSEN,,,,1,Annika FRIDHEIM
+9,748218,3.24,3-3,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,22,Stine BONDE
+10,748218,3.32,,SVK,Skud blokeret,2:e,31,Andrea West BENDTSEN,Blokeret af,10,Sofie LASSEN,,
+11,748218,4.00,4-3,EHA,Mål,Gbr,21,Frederikke GULMARK,,,,22,Stine BONDE
+12,748218,4.15,,SVK,Fejlaflevering,,31,Andrea West BENDTSEN,,,,,
+13,748218,4.50,,EHA,Skud reddet,HB,5,Anna Hviid BANG,,,,22,Stine BONDE
+14,748218,5.47,,SVK,Skud reddet,ST,7,Maja Munch LAURSEN,Retur,0,,1,Annika FRIDHEIM
+15,748218,6.05,4-4,SVK,Mål,ST,15,Karen KLOKKER,Assist,4,Maria HOLM,1,Annika FRIDHEIM
+16,748218,6.18,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+17,748218,6.22,4-5,SVK,Mål,1:e,4,Maria HOLM,,,,1,Annika FRIDHEIM
+18,748218,7.18,5-5,EHA,Mål,VF,30,Clara LERBY,Assist,21,Frederikke GULMARK,22,Stine BONDE
+19,748218,7.59,5-6,SVK,Mål,Gbr,6,Thea RASMUSSEN,,,,1,Annika FRIDHEIM
+20,748218,8.56,,EHA,Fejlaflevering,,5,Anna Hviid BANG,Bold erobret,7,Maja Munch LAURSEN,,
+21,748218,9.01,5-7,SVK,Mål,2:e,4,Maria HOLM,,,,1,Annika FRIDHEIM
+22,748218,9.32,6-7,EHA,Mål,VF,30,Clara LERBY,Assist,23,Silje BRØNS,22,Stine BONDE
+23,748218,10.22,,SVK,Regelfejl,,15,Karen KLOKKER,,,,,
+24,748218,10.26,7-7,EHA,Mål,1:e,30,Clara LERBY,Assist,7,Marlene DAHLMANN,22,Stine BONDE
+25,748218,10.53,,SVK,Skud reddet,PL,6,Thea RASMUSSEN,,,,1,Annika FRIDHEIM
+26,748218,11.02,8-7,EHA,Mål,1:e,7,Marlene DAHLMANN,Assist,10,Sofie LASSEN,22,Stine BONDE
+27,748218,11.29,,SVK,Skud reddet,PL,4,Maria HOLM,,,,1,Annika FRIDHEIM
+28,748218,11.37,9-7,EHA,Mål,2:e,10,Sofie LASSEN,,,,16,Anna VENG
+29,748218,11.42,,SVK,Time out,,,,,,,,
+30,748218,11.59,9-8,SVK,Mål,Gbr,4,Maria HOLM,Assist,27,Marigona HAJDARI,1,Annika FRIDHEIM
+31,748218,12.30,10-8,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,16,Anna VENG
+32,748218,13.14,,SVK,Skud forbi,Gbr,27,Marigona HAJDARI,,,,1,Annika FRIDHEIM
+33,748218,13.48,11-8,EHA,Mål,Gbr,21,Frederikke GULMARK,,,,16,Anna VENG
+34,748218,13.59,11-9,SVK,Mål,2:e,15,Karen KLOKKER,Assist,4,Maria HOLM,1,Annika FRIDHEIM
+35,748218,14.36,,EHA,Tilkendt straffe,,22,Mirja LYNGSØ,Forårs. str.,4,Maria HOLM,,
+36,748218,14.51,12-9,EHA,Mål på straffe,,30,Clara LERBY,,,,16,Anna VENG
+37,748218,15.36,12-10,SVK,Mål,ST,15,Karen KLOKKER,Assist,11,Sara MADSEN,1,Annika FRIDHEIM
+38,748218,16.06,13-10,EHA,Mål,PL,23,Silje BRØNS,,,,16,Anna VENG
+39,748218,16.20,,SVK,Skud forbi,2:e,11,Sara MADSEN,,,,1,Annika FRIDHEIM
+40,748218,16.26,14-10,EHA,Mål,2:e,22,Mirja LYNGSØ,Assist,3,Liv SVEINBJØRNSDÓTTIR,16,Anna VENG
+41,748218,17.07,,SVK,Fejlaflevering,,11,Sara MADSEN,,,,,
+42,748218,17.39,,EHA,Fejlaflevering,,3,Liv SVEINBJØRNSDÓTTIR,,,,,
+43,748218,17.44,,SVK,Regelfejl,,11,Sara MADSEN,,,,,
+44,748218,18.17,15-10,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,23,Silje BRØNS,16,Anna VENG
+45,748218,18.57,,EHA,Advarsel,,4,Cecilie TERMANSEN,,,,,
+46,748218,19.21,15-11,SVK,Mål,PL,11,Sara MADSEN,,,,1,Annika FRIDHEIM
+47,748218,20.01,,EHA,Skud reddet,Gbr,8,Tine GEERTSEN,,,,16,Anna VENG
+48,748218,20.12,,SVK,Tilkendt straffe,,11,Sara MADSEN,Forårs. str.,8,Tine GEERTSEN,,
+49,748218,20.12,,EHA,Udvisning,,8,Tine GEERTSEN,,,,,
+50,748218,20.15,15-12,SVK,Mål på straffe,,21,Maja EDLING,,,,16,Johanne GRAUGAARD
+51,748218,21.16,,EHA,Skud forbi,HB,23,Silje BRØNS,,,,16,Anna VENG
+52,748218,21.49,,SVK,Skud forbi,HF,23,Thilde FRANDSEN,,,,1,Annika FRIDHEIM
+53,748218,22.35,,SVK,Advarsel,,6,Thea RASMUSSEN,,,,,
+54,748218,22.52,16-12,EHA,Mål,PL,21,Frederikke GULMARK,,,,16,Anna VENG
+55,748218,23.25,,SVK,Fejlaflevering,,11,Sara MADSEN,,,,,
+56,748218,23.35,,EHA,Regelfejl,,3,Liv SVEINBJØRNSDÓTTIR,,,,,
+57,748218,23.45,16-13,SVK,Mål,2:e,23,Thilde FRANDSEN,Assist,11,Sara MADSEN,1,Annika FRIDHEIM
+58,748218,24.40,,EHA,Skud reddet,ST,4,Cecilie TERMANSEN,,,,16,Anna VENG
+59,748218,24.47,16-14,SVK,Mål,2:e,13,Mathilde KRISTENSEN,Assist,11,Sara MADSEN,16,Johanne GRAUGAARD
+60,748218,25.03,,EHA,Time out,,,,,,,,
+61,748218,25.57,,EHA,Skud forbi,VB,21,Frederikke GULMARK,,,,16,Anna VENG
+62,748218,26.04,16-15,SVK,Mål,2:e,31,Andrea West BENDTSEN,,,,16,Johanne GRAUGAARD
+63,748218,26.33,,EHA,Skud reddet,PL,23,Silje BRØNS,,,,16,Anna VENG
+64,748218,26.47,16-16,SVK,Mål,2:e,31,Andrea West BENDTSEN,,,,16,Johanne GRAUGAARD
+65,748218,27.56,,EHA,Fejlaflevering,,21,Frederikke GULMARK,,,,,
+66,748218,28.02,16-17,SVK,Mål,1:e,7,Maja Munch LAURSEN,Assist,31,Andrea West BENDTSEN,16,Johanne GRAUGAARD
+67,748218,28.26,17-17,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,23,Silje BRØNS,16,Anna VENG
+68,748218,28.37,17-18,SVK,Mål,2:e,31,Andrea West BENDTSEN,,,,16,Johanne GRAUGAARD
+69,748218,29.08,,EHA,Regelfejl,,5,Anna Hviid BANG,,,,,
+70,748218,29.58,17-19,SVK,Mål,PL,11,Sara MADSEN,,,,16,Johanne GRAUGAARD
+71,748218,30.00,17-19,,Halvleg,,,,,,,,
+72,748218,30.00,,,Start 2:e halvleg,,,,,,,,
+73,748218,30.50,,EHA,Skud reddet,ST,22,Mirja LYNGSØ,,,,16,Anna VENG
+74,748218,30.59,,SVK,Skud reddet,2:e,4,Maria HOLM,,,,1,Annika FRIDHEIM
+75,748218,31.09,,EHA,Tilkendt straffe,,22,Mirja LYNGSØ,Forårs. str.,13,Mathilde KRISTENSEN,,
+76,748218,31.25,18-19,EHA,Mål på straffe,,30,Clara LERBY,,,,16,Anna VENG
+77,748218,32.00,18-20,SVK,Mål,VB,6,Thea RASMUSSEN,,,,1,Annika FRIDHEIM
+78,748218,32.36,19-20,EHA,Mål,ST,22,Mirja LYNGSØ,Assist,23,Silje BRØNS,16,Anna VENG
+79,748218,33.05,19-21,SVK,Mål,PL,31,Andrea West BENDTSEN,,,,1,Annika FRIDHEIM
+80,748218,33.56,,EHA,Skud på stolpe,VB,21,Frederikke GULMARK,,,,16,Anna VENG
+81,748218,34.53,,SVK,Skud forbi,PL,31,Andrea West BENDTSEN,,,,1,Annika FRIDHEIM
+82,748218,35.05,,EHA,Skud forbi,2:e,3,Liv SVEINBJØRNSDÓTTIR,,,,16,Anna VENG
+83,748218,35.14,,SVK,Skud reddet,2:e,6,Thea RASMUSSEN,Retur,0,,1,Annika FRIDHEIM
+84,748218,36.04,19-22,SVK,Mål,PL,31,Andrea West BENDTSEN,,,,1,Annika FRIDHEIM
+85,748218,37.02,,SVK,Udvisning,,13,Mathilde KRISTENSEN,,,,,
+86,748218,37.30,20-22,EHA,Mål,ST,22,Mirja LYNGSØ,Assist,23,Silje BRØNS,16,Anna VENG
+87,748218,38.07,,SVK,Skud reddet,PL,31,Andrea West BENDTSEN,,,,1,Annika FRIDHEIM
+88,748218,38.21,,EHA,Skud blokeret,1:e,10,Sofie LASSEN,Blok af (ret),4,Maria HOLM,,
+89,748218,38.33,21-22,EHA,Mål,2:e,4,Cecilie TERMANSEN,,,,16,Anna VENG
+90,748218,39.10,21-23,SVK,Mål,HB,4,Maria HOLM,,,,1,Annika FRIDHEIM
+91,748218,39.23,,EHA,Skud reddet,2:e,10,Sofie LASSEN,,,,16,Anna VENG
+92,748218,39.30,,SVK,Regelfejl,,23,Thilde FRANDSEN,,,,,
+93,748218,40.21,22-23,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,5,Anna Hviid BANG,16,Anna VENG
+94,748218,41.01,,SVK,Skud blokeret,PL,6,Thea RASMUSSEN,Blokeret af,21,Frederikke GULMARK,,
+95,748218,41.08,23-23,EHA,Mål,1:e,30,Clara LERBY,Assist,10,Sofie LASSEN,16,Anna VENG
+96,748218,41.19,23-24,SVK,Mål,2:e,31,Andrea West BENDTSEN,,,,1,Annika FRIDHEIM
+97,748218,42.18,24-24,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,5,Anna Hviid BANG,16,Anna VENG
+98,748218,43.01,24-25,SVK,Mål,HB,4,Maria HOLM,,,,16,Johanne GRAUGAARD
+99,748218,43.42,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+100,748218,43.51,,SVK,Skud på stolpe,2:e,23,Thilde FRANDSEN,,,,16,Johanne GRAUGAARD
+101,748218,44.20,25-25,EHA,Mål,VF,30,Clara LERBY,Assist,8,Tine GEERTSEN,16,Anna VENG
+102,748218,45.11,,SVK,Skud reddet,ST,15,Karen KLOKKER,,,,16,Johanne GRAUGAARD
+103,748218,45.46,26-25,EHA,Mål,VF,30,Clara LERBY,Assist,8,Tine GEERTSEN,22,Stine BONDE
+104,748218,45.59,,,,,,,,,,,
+105,748218,46.28,,SVK,Time out,,,,,,,,
+106,748218,46.28,,SVK,Fejlaflevering,,11,Sara MADSEN,,,,,
+107,748218,46.31,27-25,EHA,Mål,1:e,30,Clara LERBY,Assist,10,Sofie LASSEN,22,Stine BONDE
+108,748218,46.43,,SVK,Fejlaflevering,,27,Marigona HAJDARI,,,,,
+109,748218,47.46,,EHA,Skud forbi,VB,21,Frederikke GULMARK,,,,22,Stine BONDE
+110,748218,48.14,27-26,SVK,Mål,VB,6,Thea RASMUSSEN,,,,16,Johanne GRAUGAARD
+111,748218,48.28,28-26,EHA,Mål,2:e,21,Frederikke GULMARK,,,,22,Stine BONDE
+112,748218,48.38,28-27,SVK,Mål,2:e,6,Thea RASMUSSEN,,,,16,Johanne GRAUGAARD
+113,748218,49.36,,EHA,Regelfejl,,21,Frederikke GULMARK,,,,,
+114,748218,50.12,,SVK,Regelfejl,,11,Sara MADSEN,,,,,
+115,748218,50.24,29-27,EHA,Mål,2:e,21,Frederikke GULMARK,,,,22,Stine BONDE
+116,748218,50.30,29-28,SVK,Mål,2:e,11,Sara MADSEN,,,,16,Johanne GRAUGAARD
+117,748218,51.37,,EHA,Skud forbi,VB,21,Frederikke GULMARK,,,,22,Stine BONDE
+118,748218,52.02,,SVK,Regelfejl,,27,Marigona HAJDARI,,,,,
+119,748218,52.55,,EHA,Fejlaflevering,,5,Anna Hviid BANG,Bold erobret,11,Sara MADSEN,,
+120,748218,54.03,29-29,SVK,Mål,ST,15,Karen KLOKKER,Assist,11,Sara MADSEN,16,Johanne GRAUGAARD
+121,748218,54.18,,EHA,Time out,,,,,,,,
+122,748218,54.39,,EHA,Fejlaflevering,,21,Frederikke GULMARK,Bold erobret,4,Maria HOLM,,
+123,748218,55.13,29-30,SVK,Mål,Gbr,27,Marigona HAJDARI,,,,16,Johanne GRAUGAARD
+124,748218,55.13,,EHA,Udvisning,,23,Silje BRØNS,,,,,
+125,748218,56.02,,EHA,Fejlaflevering,,10,Sofie LASSEN,,,,,
+126,748218,56.25,,SVK,Fejlaflevering,,6,Thea RASMUSSEN,Bold erobret,30,Clara LERBY,,
+127,748218,56.31,,EHA,Skud forbi,1:e,30,Clara LERBY,,,,22,Stine BONDE
+128,748218,56.56,,SVK,Fejlaflevering,,6,Thea RASMUSSEN,Bold erobret,30,Clara LERBY,,
+129,748218,57.01,30-30,EHA,Mål,1:e,30,Clara LERBY,,,,22,Stine BONDE
+130,748218,57.55,30-31,SVK,Mål,PL,11,Sara MADSEN,,,,16,Johanne GRAUGAARD
+131,748218,58.47,,EHA,Skud reddet,PL,5,Anna Hviid BANG,,,,22,Stine BONDE
+132,748218,59.20,,SVK,Skud reddet,Gbr,6,Thea RASMUSSEN,,,,16,Johanne GRAUGAARD
+133,748218,59.43,,EHA,Time out,,,,,,,,
+134,748218,59.59,,EHA,Tilkendt straffe,,7,Marlene DAHLMANN,Forårs. str.,7,Maja Munch LAURSEN,,
+135,748218,60.00,31-31,EHA,Mål på straffe,,30,Clara LERBY,,,,22,Stine BONDE
+136,748218,60.00,31-31,,Fuld tid,,,,,,,,
+137,748218,60.00,,,Kamp slut,,,,,,,,

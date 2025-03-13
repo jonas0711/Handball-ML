@@ -1,0 +1,146 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748232,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748232,0.35,0-1,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,16,Johanne GRAUGAARD
+3,748232,0.45,,EHA,Skud reddet,2:e,3,Liv SVEINBJØRNSDÓTTIR,,,,1,Elin THORSTEINSDOTTIR
+4,748232,0.49,0-2,AHB,Mål,1:e,18,Mathilde ØSTERGAARD,Assist,1,Elin THORSTEINSDOTTIR,16,Johanne GRAUGAARD
+5,748232,1.44,,EHA,Regelfejl,,4,Cecilie TERMANSEN,,,,,
+6,748232,2.16,,AHB,Regelfejl,,17,Line Berggren LARSEN,,,,,
+7,748232,2.29,1-2,EHA,Mål,2:e,10,Sofie LASSEN,,,,1,Elin THORSTEINSDOTTIR
+8,748232,2.36,,AHB,Regelfejl,,77,Alberte EBLER,,,,,
+9,748232,3.06,,EHA,Tilkendt straffe,,21,Frederikke GULMARK,Forårs. str.,17,Line Berggren LARSEN,,
+10,748232,3.24,2-2,EHA,Mål på straffe,,30,Clara LERBY,,,,1,Elin THORSTEINSDOTTIR
+11,748232,3.49,,AHB,Skud reddet,ST,3,Sarah Vest KIRKELØKKE,,,,16,Johanne GRAUGAARD
+12,748232,4.26,,EHA,Skud forbi,HF,7,Marlene DAHLMANN,,,,1,Elin THORSTEINSDOTTIR
+13,748232,4.34,2-3,AHB,Mål,2:e,17,Line Berggren LARSEN,,,,16,Johanne GRAUGAARD
+14,748232,5.31,,EHA,Regelfejl,,4,Cecilie TERMANSEN,,,,,
+15,748232,5.37,,AHB,Skud reddet,1:e,10,Frederikke WAAGE-JENSEN,,,,16,Johanne GRAUGAARD
+16,748232,6.15,,AHB,Advarsel,,3,Sarah Vest KIRKELØKKE,,,,,
+17,748232,6.43,,EHA,Skud forbi,PL,21,Frederikke GULMARK,,,,1,Elin THORSTEINSDOTTIR
+18,748232,6.56,,AHB,Regelfejl,,18,Mathilde ØSTERGAARD,,,,,
+19,748232,7.24,3-3,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,5,Anna Hviid BANG,1,Elin THORSTEINSDOTTIR
+20,748232,7.55,,AHB,Fejlaflevering,,77,Alberte EBLER,,,,,
+21,748232,8.52,,EHA,Skud på stolpe,Gbr,21,Frederikke GULMARK,,,,1,Elin THORSTEINSDOTTIR
+22,748232,9.02,,AHB,Skud reddet,2:e,17,Line Berggren LARSEN,,,,16,Johanne GRAUGAARD
+23,748232,9.09,,EHA,Fejlaflevering,,10,Sofie LASSEN,,,,,
+24,748232,9.58,3-4,AHB,Mål,PL,77,Alberte EBLER,,,,16,Johanne GRAUGAARD
+25,748232,10.36,,EHA,Skud reddet,Gbr,5,Anna Hviid BANG,,,,1,Elin THORSTEINSDOTTIR
+26,748232,10.44,,AHB,Skud forbi,2:e,18,Mathilde ØSTERGAARD,,,,16,Johanne GRAUGAARD
+27,748232,11.51,,EHA,Skud reddet,Gbr,5,Anna Hviid BANG,,,,1,Elin THORSTEINSDOTTIR
+28,748232,12.04,,AHB,Skud reddet,2:e,14,Anna Berger WIERZBA,,,,16,Johanne GRAUGAARD
+29,748232,12.09,4-4,EHA,Mål,1:e,7,Marlene DAHLMANN,Assist,16,Johanne GRAUGAARD,1,Elin THORSTEINSDOTTIR
+30,748232,12.20,4-5,AHB,Mål,2:e,17,Line Berggren LARSEN,,,,16,Johanne GRAUGAARD
+31,748232,13.06,,EHA,Fejlaflevering,,3,Liv SVEINBJØRNSDÓTTIR,Bold erobret,17,Line Berggren LARSEN,,
+32,748232,13.10,4-6,AHB,Mål,1:e,17,Line Berggren LARSEN,,,,16,Johanne GRAUGAARD
+33,748232,13.18,,EHA,Regelfejl,,21,Frederikke GULMARK,,,,,
+34,748232,13.32,,AHB,Regelfejl,,10,Frederikke WAAGE-JENSEN,,,,,
+35,748232,13.58,,EHA,Skud blokeret,PL,21,Frederikke GULMARK,Blokeret af,3,Sarah Vest KIRKELØKKE,1,Elin THORSTEINSDOTTIR
+36,748232,14.36,,AHB,Skud på stolpe,VF,18,Mathilde ØSTERGAARD,,,,16,Johanne GRAUGAARD
+37,748232,14.48,,EHA,Time out,,,,,,,,
+38,748232,15.19,5-6,EHA,Mål,VF,30,Clara LERBY,Assist,23,Silje BRØNS,1,Elin THORSTEINSDOTTIR
+39,748232,15.32,5-7,AHB,Mål,2:e,10,Frederikke WAAGE-JENSEN,Assist,14,Anna Berger WIERZBA,16,Johanne GRAUGAARD
+40,748232,16.23,,EHA,Regelfejl,,19,Mette BRANDT,,,,,
+41,748232,17.06,5-8,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,17,Line Berggren LARSEN,16,Johanne GRAUGAARD
+42,748232,17.40,6-8,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,19,Mette BRANDT,1,Elin THORSTEINSDOTTIR
+43,748232,18.17,,AHB,Skud på stolpe,VF,2,Majken Hedegaard NIELSEN,,,,16,Johanne GRAUGAARD
+44,748232,18.23,7-8,EHA,Mål,2:e,3,Liv SVEINBJØRNSDÓTTIR,,,,1,Elin THORSTEINSDOTTIR
+45,748232,18.35,,AHB,Fejlaflevering,,14,Anna Berger WIERZBA,Bold erobret,30,Clara LERBY,,
+46,748232,18.42,,EHA,Skud på stolpe,1:e,3,Liv SVEINBJØRNSDÓTTIR,,,,1,Elin THORSTEINSDOTTIR
+47,748232,18.53,,AHB,Regelfejl,,10,Frederikke WAAGE-JENSEN,,,,,
+48,748232,19.29,,EHA,Skud reddet,Gbr,3,Liv SVEINBJØRNSDÓTTIR,,,,1,Elin THORSTEINSDOTTIR
+49,748232,19.37,7-9,AHB,Mål,2:e,14,Anna Berger WIERZBA,,,,16,Johanne GRAUGAARD
+50,748232,20.17,8-9,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,19,Mette BRANDT,1,Elin THORSTEINSDOTTIR
+51,748232,20.21,,AHB,Skud reddet,2:e,17,Line Berggren LARSEN,,,,16,Johanne GRAUGAARD
+52,748232,20.47,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+53,748232,20.52,8-10,AHB,Mål,1:e,2,Majken Hedegaard NIELSEN,Assist,17,Line Berggren LARSEN,0,
+54,748232,21.26,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+55,748232,21.31,8-11,AHB,Mål,1:e,17,Line Berggren LARSEN,,,,,
+56,748232,21.58,9-11,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,1,Elin THORSTEINSDOTTIR
+57,748232,22.32,9-12,AHB,Mål,Gbr,17,Line Berggren LARSEN,,,,16,Johanne GRAUGAARD
+58,748232,23.04,10-12,EHA,Mål,VF,30,Clara LERBY,Assist,23,Silje BRØNS,1,Elin THORSTEINSDOTTIR
+59,748232,23.41,,AHB,Skud reddet,VF,2,Majken Hedegaard NIELSEN,,,,16,Johanne GRAUGAARD
+60,748232,24.06,11-12,EHA,Mål,Gbr,23,Silje BRØNS,Assist,4,Cecilie TERMANSEN,1,Elin THORSTEINSDOTTIR
+61,748232,24.20,11-13,AHB,Mål,2:e,2,Majken Hedegaard NIELSEN,Assist,17,Line Berggren LARSEN,16,Johanne GRAUGAARD
+62,748232,24.35,12-13,EHA,Mål,2:e,22,Mirja LYNGSØ,Assist,10,Sofie LASSEN,1,Elin THORSTEINSDOTTIR
+63,748232,25.11,,AHB,Fejlaflevering,,77,Alberte EBLER,,,,,
+64,748232,25.44,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+65,748232,26.22,,AHB,Skud på stolpe,HF,10,Frederikke WAAGE-JENSEN,,,,16,Johanne GRAUGAARD
+66,748232,26.51,13-13,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,1,Elin THORSTEINSDOTTIR
+67,748232,27.04,,AHB,Time out,,,,,,,,
+68,748232,27.11,,AHB,Regelfejl,,3,Sarah Vest KIRKELØKKE,,,,,
+69,748232,28.36,,EHA,Skud forbi,PL,23,Silje BRØNS,,,,1,Elin THORSTEINSDOTTIR
+70,748232,28.47,,AHB,Skud reddet,2:e,15,Sofia DEEN,,,,16,Johanne GRAUGAARD
+71,748232,28.59,,EHA,Tilkendt straffe,,21,Frederikke GULMARK,Forårs. str.,77,Alberte EBLER,,
+72,748232,29.16,14-13,EHA,Mål på straffe,,30,Clara LERBY,,,,1,Elin THORSTEINSDOTTIR
+73,748232,30.00,,AHB,Skud blokeret,PL,77,Alberte EBLER,Blokeret af,10,Sofie LASSEN,16,Johanne GRAUGAARD
+74,748232,30.00,14-13,,Halvleg,,,,,,,,
+75,748232,30.00,,,Start 2:e halvleg,,,,,,,,
+76,748232,30.52,15-13,EHA,Mål,VF,30,Clara LERBY,Assist,19,Mette BRANDT,1,Elin THORSTEINSDOTTIR
+77,748232,31.46,,AHB,Fejlaflevering,,77,Alberte EBLER,,,,,
+78,748232,31.54,16-13,EHA,Mål,2:e,21,Frederikke GULMARK,,,,1,Elin THORSTEINSDOTTIR
+79,748232,32.47,16-14,AHB,Mål,PL,15,Sofia DEEN,,,,16,Johanne GRAUGAARD
+80,748232,33.01,,EHA,Fejlaflevering,,10,Sofie LASSEN,Bold erobret,77,Alberte EBLER,,
+81,748232,33.16,,AHB,Skud reddet,2:e,15,Sofia DEEN,,,,16,Johanne GRAUGAARD
+82,748232,33.53,,EHA,Skud reddet,HF,7,Marlene DAHLMANN,,,,1,Elin THORSTEINSDOTTIR
+83,748232,34.08,,AHB,Skud reddet,2:e,25,Ida GÖTZSCHE,,,,16,Johanne GRAUGAARD
+84,748232,34.39,17-14,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,23,Silje BRØNS,1,Elin THORSTEINSDOTTIR
+85,748232,35.16,17-15,AHB,Mål,ST,3,Sarah Vest KIRKELØKKE,Assist,17,Line Berggren LARSEN,16,Johanne GRAUGAARD
+86,748232,35.24,,EHA,Fejlaflevering,,10,Sofie LASSEN,Bold erobret,77,Alberte EBLER,,
+87,748232,35.29,17-16,AHB,Mål,1:e,77,Alberte EBLER,,,,16,Johanne GRAUGAARD
+88,748232,36.03,,EHA,Skud forbi,HF,7,Marlene DAHLMANN,,,,1,Elin THORSTEINSDOTTIR
+89,748232,36.34,17-17,AHB,Mål,Gbr,15,Sofia DEEN,,,,16,Johanne GRAUGAARD
+90,748232,37.25,,EHA,Tilkendt straffe,,28,Maiken SKOV,Forårs. str.,15,Sofia DEEN,,
+91,748232,37.25,,AHB,Udvisning,,15,Sofia DEEN,,,,,
+92,748232,37.26,18-17,EHA,Mål på straffe,,30,Clara LERBY,,,,1,Elin THORSTEINSDOTTIR
+93,748232,38.31,,AHB,Skud blokeret,PL,77,Alberte EBLER,Blok af (ret),10,Sofie LASSEN,16,Johanne GRAUGAARD
+94,748232,38.44,,AHB,Skud på stolpe,HB,77,Alberte EBLER,,,,16,Johanne GRAUGAARD
+95,748232,39.09,19-17,EHA,Mål,HF,28,Maiken SKOV,Assist,5,Anna Hviid BANG,1,Elin THORSTEINSDOTTIR
+96,748232,39.44,19-18,AHB,Mål,VF,18,Mathilde ØSTERGAARD,Assist,17,Line Berggren LARSEN,16,Johanne GRAUGAARD
+97,748232,40.23,20-18,EHA,Mål,ST,22,Mirja LYNGSØ,Assist,19,Mette BRANDT,1,Elin THORSTEINSDOTTIR
+98,748232,40.35,20-19,AHB,Mål,2:e,25,Ida GÖTZSCHE,Assist,17,Line Berggren LARSEN,16,Johanne GRAUGAARD
+99,748232,41.05,,EHA,Tilkendt straffe,,23,Silje BRØNS,Forårs. str.,3,Sarah Vest KIRKELØKKE,,
+100,748232,41.09,21-19,EHA,Mål på straffe,,30,Clara LERBY,,,,86,Sabine ENGLERT
+101,748232,41.35,,AHB,Tilkendt straffe,,4,Katrine JACOBSEN,Forårs. str.,28,Maiken SKOV,,
+102,748232,41.42,21-20,AHB,Mål på straffe,,15,Sofia DEEN,,,,16,Johanne GRAUGAARD
+103,748232,42.17,22-20,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,21,Frederikke GULMARK,1,Elin THORSTEINSDOTTIR
+104,748232,42.49,,,,,,,,,,,
+105,748232,43.41,23-20,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,19,Mette BRANDT,1,Elin THORSTEINSDOTTER
+106,748232,44.21,23-21,AHB,Mål,HF,25,Ida GÖTZSCHE,Assist,14,Anna Berger WIERZBA,1,Annika FRIDHEIM
+107,748232,44.50,24-21,EHA,Mål,Gbr,23,Silje BRØNS,,,,86,Sabine ENGLERT
+108,748232,45.01,,AHB,Fejlaflevering,,17,Line Berggren LARSEN,,,,,
+109,748232,45.55,25-21,EHA,Mål,HF,28,Maiken SKOV,Assist,23,Silje BRØNS,86,Sabine ENGLERT
+110,748232,46.09,,AHB,Time out,,,,,,,,
+111,748232,46.28,25-22,AHB,Mål,Gbr,14,Anna Berger WIERZBA,,,,1,Annika FRIDHEIM
+112,748232,47.08,,EHA,Skud reddet,HF,28,Maiken SKOV,,,,86,Sabine ENGLERT
+113,748232,47.54,,AHB,Fejlaflevering,,77,Alberte EBLER,,,,,
+114,748232,48.30,,EHA,Skud på stolpe,Gbr,23,Silje BRØNS,Retur,0,,86,Sabine ENGLERT
+115,748232,49.03,26-22,EHA,Mål,HF,28,Maiken SKOV,Assist,19,Mette BRANDT,86,Sabine ENGLERT
+116,748232,49.14,,EHA,Udvisning,,28,Maiken SKOV,,,,,
+117,748232,49.38,,AHB,Skud reddet,Gbr,17,Line Berggren LARSEN,,,,1,Annika FRIDHEIM
+118,748232,50.11,,EHA,Fejlaflevering,,5,Anna Hviid BANG,Bold erobret,14,Anna Berger WIERZBA,,
+119,748232,50.15,26-23,AHB,Mål,1:e,17,Line Berggren LARSEN,Assist,14,Anna Berger WIERZBA,0,
+120,748232,50.56,27-23,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,86,Sabine ENGLERT
+121,748232,51.05,,AHB,Skud reddet,2:e,17,Line Berggren LARSEN,,,,1,Annika FRIDHEIM
+122,748232,51.14,,EHA,Skud reddet,2:e,10,Sofie LASSEN,Retur,0,,86,Sabine ENGLERT
+123,748232,52.00,28-23,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,19,Mette BRANDT,86,Sabine ENGLERT
+124,748232,52.15,,AHB,Skud forbi,2:e,18,Mathilde ØSTERGAARD,,,,1,Annika FRIDHEIM
+125,748232,52.44,,EHA,Fejlaflevering,,21,Frederikke GULMARK,,,,,
+126,748232,52.46,28-24,AHB,Mål,1:e,17,Line Berggren LARSEN,,,,0,
+127,748232,53.16,29-24,EHA,Mål,ST,22,Mirja LYNGSØ,Assist,23,Silje BRØNS,86,Sabine ENGLERT
+128,748232,53.33,,AHB,Time out,,,,,,,,
+129,748232,53.52,,AHB,Skud reddet,VF,18,Mathilde ØSTERGAARD,,,,1,Annika FRIDHEIM
+130,748232,54.37,,EHA,Regelfejl,,23,Silje BRØNS,,,,,
+131,748232,54.55,,AHB,Skud reddet,HF,25,Ida GÖTZSCHE,,,,1,Annika FRIDHEIM
+132,748232,55.30,,EHA,Skud på stolpe,Gbr,21,Frederikke GULMARK,,,,86,Sabine ENGLERT
+133,748232,55.36,,AHB,Skud reddet,1:e,86,Sabine ENGLERT,,,,1,Annika FRIDHEIM
+134,748232,56.15,30-24,EHA,Mål,HF,28,Maiken SKOV,Assist,21,Frederikke GULMARK,86,Sabine ENGLERT
+135,748232,56.27,,AHB,Skud reddet,2:e,14,Anna Berger WIERZBA,,,,1,Annika FRIDHEIM
+136,748232,57.03,,EHA,Skud reddet,Gbr,23,Silje BRØNS,,,,86,Sabine ENGLERT
+137,748232,57.17,30-25,AHB,Mål,2:e,4,Katrine JACOBSEN,Assist,17,Line Berggren LARSEN,1,Annika FRIDHEIM
+138,748232,58.06,,EHA,Tabt bold,,30,Clara LERBY,,,,,
+139,748232,58.19,,AHB,Skud på stolpe,2:e,14,Anna Berger WIERZBA,,,,1,Annika FRIDHEIM
+140,748232,58.36,,EHA,Time out,,,,,,,,
+141,748232,58.51,31-25,EHA,Mål,ST,22,Mirja LYNGSØ,Assist,19,Mette BRANDT,86,Sabine ENGLERT
+142,748232,59.05,31-26,AHB,Mål,2:e,4,Katrine JACOBSEN,Assist,17,Line Berggren LARSEN,1,Annika FRIDHEIM
+143,748232,59.32,32-26,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,86,Sabine ENGLERT
+144,748232,59.38,32-27,AHB,Mål,2:e,17,Line Berggren LARSEN,,,,0,
+145,748232,59.59,33-27,EHA,Mål,PL,19,Mette BRANDT,,,,86,Sabine ENGLERT

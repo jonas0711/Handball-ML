@@ -1,0 +1,126 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748714,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748714,0.35,,KIF,Fejlaflevering,,29,Viktor NEVERS,Bold erobret,4,Frederik NIELSEN,,
+3,748714,1.24,0-1,GIF,Mål,Gbr,21,Kristoffer VESTERGAARD,,,,12,Josip CAVAR
+4,748714,1.55,,KIF,Tilkendt straffe,,2,Mads KRAGH THOMSEN,Forårs. str.,17,Kristian Krag ØRSTED,,
+5,748714,2.21,1-1,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,1,Frederik SKOVGAARD
+6,748714,3.28,,GIF,Skud på stolpe,HB,21,Kristoffer VESTERGAARD,Retur,20,Frederik IVERSEN,12,Josip CAVAR
+7,748714,3.53,1-2,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,14,Nicolai SKYTTE,12,Josip CAVAR
+8,748714,4.36,,KIF,Tabt bold,,28,Lauritz LEGÉR,Bold erobret,8,Rolf RAVN,,
+9,748714,5.15,,GIF,Skud reddet,PL,4,Frederik NIELSEN,,,,12,Josip CAVAR
+10,748714,5.31,,KIF,Tilkendt straffe,,24,Diogo SILVA,Forårs. str.,20,Frederik IVERSEN,,
+11,748714,5.53,2-2,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,1,Frederik SKOVGAARD
+12,748714,6.38,,GIF,Skud reddet,PL,14,Nicolai SKYTTE,Retur,20,Frederik IVERSEN,12,Josip CAVAR
+13,748714,6.41,,GIF,Tilkendt straffe,,20,Frederik IVERSEN,Forårs. str.,29,Viktor NEVERS,,
+14,748714,6.41,,KIF,Udvisning,,29,Viktor NEVERS,,,,,
+15,748714,6.42,2-3,GIF,Mål på straffe,,21,Kristoffer VESTERGAARD,,,,12,Josip CAVAR
+16,748714,7.18,3-3,KIF,Mål,VF,4,Lars SKAARUP,Assist,28,Lauritz LEGÉR,1,Frederik SKOVGAARD
+17,748714,7.51,,GIF,Fejlaflevering,,4,Frederik NIELSEN,,,,,
+18,748714,7.58,4-3,KIF,Mål,PL,12,Josip CAVAR,,,,0,
+19,748714,8.17,4-4,GIF,Mål,PL,21,Kristoffer VESTERGAARD,,,,12,Josip CAVAR
+20,748714,9.07,5-4,KIF,Mål,PL,11,Magnus KRONBORG,,,,1,Frederik SKOVGAARD
+21,748714,9.18,,GIF,Udvisning,,8,Rolf RAVN,,,,,
+22,748714,9.46,5-5,GIF,Mål,PL,21,Kristoffer VESTERGAARD,,,,12,Josip CAVAR
+23,748714,10.15,6-5,KIF,Mål,PL,11,Magnus KRONBORG,,,,1,Frederik SKOVGAARD
+24,748714,10.52,6-6,GIF,Mål,Gbr,4,Frederik NIELSEN,Assist,14,Nicolai SKYTTE,12,Josip CAVAR
+25,748714,10.59,7-6,KIF,Mål,1:e,4,Lars SKAARUP,Assist,28,Lauritz LEGÉR,1,Frederik SKOVGAARD
+26,748714,12.32,7-7,GIF,Mål,VB,14,Nicolai SKYTTE,,,,12,Josip CAVAR
+27,748714,13.09,8-7,KIF,Mål,Gbr,24,Diogo SILVA,Assist,11,Magnus KRONBORG,1,Frederik SKOVGAARD
+28,748714,13.55,,GIF,Skud blokeret,PL,21,Kristoffer VESTERGAARD,Blokeret af,2,Mads KRAGH THOMSEN,,
+29,748714,15.00,,KIF,Skud reddet,HF,29,Viktor NEVERS,,,,1,Frederik SKOVGAARD
+30,748714,15.39,,KIF,Advarsel,,2,Mads KRAGH THOMSEN,,,,,
+31,748714,16.05,8-8,GIF,Mål,VF,20,Frederik IVERSEN,Assist,21,Kristoffer VESTERGAARD,12,Josip CAVAR
+32,748714,16.42,,KIF,Fejlaflevering,,24,Diogo SILVA,,,,,
+33,748714,16.50,,GIF,Regelfejl,,23,Bjarke NYBO,,,,,
+34,748714,18.14,,KIF,Skud reddet,HB,5,Oliver NORLYK,Retur,0,,1,Frederik SKOVGAARD
+35,748714,18.42,9-8,KIF,Mål,PL,11,Magnus KRONBORG,,,,1,Frederik SKOVGAARD
+36,748714,19.25,,GIF,Fejlaflevering,,21,Kristoffer VESTERGAARD,Bold erobret,29,Viktor NEVERS,,
+37,748714,19.30,10-8,KIF,Mål,1:e,29,Viktor NEVERS,,,,1,Frederik SKOVGAARD
+38,748714,19.43,,GIF,Time out,,,,,,,,
+39,748714,20.07,,KIF,Udvisning,,5,Oliver NORLYK,,,,,
+40,748714,20.19,,GIF,Skud på stolpe,HF,3,Thomas THEILGAARD,,,,12,Josip CAVAR
+41,748714,21.21,11-8,KIF,Mål,PL,11,Magnus KRONBORG,,,,1,Frederik SKOVGAARD
+42,748714,21.44,11-9,GIF,Mål,Gbr,4,Frederik NIELSEN,Assist,21,Kristoffer VESTERGAARD,12,Josip CAVAR
+43,748714,22.12,,KIF,Fejlaflevering,,17,Tobias ELLEBÆK,,,,,
+44,748714,22.52,,GIF,Skud reddet,PL,21,Kristoffer VESTERGAARD,,,,12,Josip CAVAR
+45,748714,23.34,,KIF,Skud reddet,HB,5,Oliver NORLYK,Retur,0,,1,Frederik SKOVGAARD
+46,748714,24.10,12-9,KIF,Mål,VF,4,Lars SKAARUP,Assist,17,Tobias ELLEBÆK,1,Frederik SKOVGAARD
+47,748714,24.40,,GIF,Fejlaflevering,,21,Kristoffer VESTERGAARD,,,,,
+48,748714,25.07,,KIF,Fejlaflevering,,17,Tobias ELLEBÆK,,,,,
+49,748714,25.12,12-10,GIF,Mål,1:e,20,Frederik IVERSEN,Assist,4,Frederik NIELSEN,12,Josip CAVAR
+50,748714,26.05,13-10,KIF,Mål,VB,17,Tobias ELLEBÆK,,,,1,Frederik SKOVGAARD
+51,748714,26.36,13-11,GIF,Mål,ST,22,Hjalmar ANDERSEN,Assist,4,Frederik NIELSEN,12,Josip CAVAR
+52,748714,27.10,,KIF,Tabt bold,,5,Oliver NORLYK,Bold erobret,20,Frederik IVERSEN,,
+53,748714,27.17,13-12,GIF,Mål,2:e,8,Rolf RAVN,,,,12,Josip CAVAR
+54,748714,27.21,,KIF,Time out,,,,,,,,
+55,748714,28.33,14-12,KIF,Mål,PL,11,Magnus KRONBORG,,,,1,Frederik SKOVGAARD
+56,748714,29.41,,GIF,Skud blokeret,HB,23,Bjarke NYBO,Blok af (ret),6,Jonas TIDEMAND,,
+57,748714,29.54,,GIF,Passivt spil,,0,,,,,,
+58,748714,30.00,15-12,KIF,Mål,ST,2,Mads KRAGH THOMSEN,Assist,28,Lauritz LEGÉR,1,Frederik SKOVGAARD
+59,748714,30.00,,,Halvleg,,,,,,,,
+60,748714,30.00,,,Start 2:e halvleg,,,,,,,,
+61,748714,30.27,,GIF,Skud reddet,ST,22,Hjalmar ANDERSEN,Retur,0,,12,Josip CAVAR
+62,748714,30.55,,GIF,Regelfejl,,4,Frederik NIELSEN,,,,,
+63,748714,31.43,16-12,KIF,Mål,PL,24,Diogo SILVA,,,,1,Frederik SKOVGAARD
+64,748714,32.18,16-13,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,21,Kristoffer VESTERGAARD,12,Josip CAVAR
+65,748714,33.00,,KIF,Fejlaflevering,,4,Lars SKAARUP,Bold erobret,4,Frederik NIELSEN,,
+66,748714,33.05,16-14,GIF,Mål,1:e,20,Frederik IVERSEN,Assist,4,Frederik NIELSEN,12,Josip CAVAR
+67,748714,33.50,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,Bold erobret,20,Frederik IVERSEN,,
+68,748714,34.19,16-15,GIF,Mål,Gbr,4,Frederik NIELSEN,,,,12,Josip CAVAR
+69,748714,34.30,,KIF,Skud reddet,Gbr,24,Diogo SILVA,Retur,0,,1,Frederik SKOVGAARD
+70,748714,35.01,17-15,KIF,Mål,PL,11,Magnus KRONBORG,,,,1,Frederik SKOVGAARD
+71,748714,35.44,17-16,GIF,Mål,ST,17,Kristian Krag ØRSTED,Assist,21,Kristoffer VESTERGAARD,12,Josip CAVAR
+72,748714,37.03,18-16,KIF,Mål,VF,4,Lars SKAARUP,Assist,28,Lauritz LEGÉR,12,Magnus MØLLER
+73,748714,37.11,18-17,GIF,Mål,2:e,3,Thomas THEILGAARD,Assist,8,Rolf RAVN,12,Josip CAVAR
+74,748714,38.03,,KIF,Tabt bold,,4,Lars SKAARUP,,,,,
+75,748714,38.34,18-18,GIF,Mål,VF,20,Frederik IVERSEN,Assist,4,Frederik NIELSEN,1,Emil TELLERUP
+76,748714,39.14,,KIF,Skud blokeret,PL,21,Kristian STOKLUND,Blokeret af,4,Frederik NIELSEN,,
+77,748714,39.48,18-19,GIF,Mål,VF,20,Frederik IVERSEN,Assist,4,Frederik NIELSEN,1,Emil TELLERUP
+78,748714,39.52,,KIF,Time out,,,,,,,,
+79,748714,40.20,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,Bold erobret,4,Frederik NIELSEN,,
+80,748714,40.24,18-20,GIF,Mål,1:e,4,Frederik NIELSEN,,,,0,
+81,748714,40.59,19-20,KIF,Mål,Gbr,28,Lauritz LEGÉR,,,,12,Magnus MØLLER
+82,748714,41.58,,GIF,Skud reddet,ST,22,Hjalmar ANDERSEN,,,,1,Emil TELLERUP
+83,748714,42.08,,KIF,Skud reddet,2:e,5,Oliver NORLYK,Retur,0,,12,Magnus MØLLER
+84,748714,42.49,20-20,KIF,Mål,PL,21,Kristian STOKLUND,,,,12,Magnus MØLLER
+85,748714,43.42,20-21,GIF,Mål,Gbr,4,Frederik NIELSEN,Assist,21,Kristoffer VESTERGAARD,1,Emil TELLERUP
+86,748714,44.15,21-21,KIF,Mål,Gbr,21,Kristian STOKLUND,Assist,5,Oliver NORLYK,12,Magnus MØLLER
+87,748714,44.19,,GIF,Udvisning,,9,Nicklas Bjørn VASSVIK,,,,,
+88,748714,44.57,21-22,GIF,Mål,Gbr,14,Nicolai SKYTTE,,,,1,Emil TELLERUP
+89,748714,45.24,22-22,KIF,Mål,Gbr,11,Magnus KRONBORG,,,,12,Magnus MØLLER
+90,748714,46.09,,GIF,Skud reddet,PL,23,Bjarke NYBO,,,,1,Emil TELLERUP
+91,748714,46.17,23-22,KIF,Mål,1:e,29,Viktor NEVERS,Assist,6,Jonas TIDEMAND,1,Frederik SKOVGAARD
+92,748714,46.17,,GIF,Udvisning,,20,Frederik IVERSEN,,,,,
+93,748714,46.50,,GIF,Advarsel,B,,Lasse BOESEN,,,,,
+94,748714,47.17,,GIF,Skud forbi,HB,14,Nicolai SKYTTE,,,,1,Emil TELLERUP
+95,748714,48.06,24-22,KIF,Mål,ST,6,Jonas TIDEMAND,Assist,11,Magnus KRONBORG,1,Frederik SKOVGAARD
+96,748714,48.22,,GIF,Time out,,,,,,,,
+97,748714,48.47,24-23,GIF,Mål,Gbr,8,Rolf RAVN,Assist,21,Kristoffer VESTERGAARD,1,Emil TELLERUP
+98,748714,49.27,,KIF,Skud blokeret,PL,17,Tobias ELLEBÆK,Blokeret af,17,Kristian Krag ØRSTED,,
+99,748714,49.57,,GIF,Fejlaflevering,,8,Rolf RAVN,,,,,
+100,748714,50.03,25-23,KIF,Mål,1:e,5,Oliver NORLYK,,,,0,
+101,748714,50.52,,GIF,Skud reddet,HB,21,Kristoffer VESTERGAARD,Retur,22,Hjalmar ANDERSEN,1,Emil TELLERUP
+102,748714,50.58,,GIF,Tilkendt straffe,,22,Hjalmar ANDERSEN,Forårs. str.,2,Mads KRAGH THOMSEN,,
+103,748714,51.08,25-24,GIF,Mål på straffe,,21,Kristoffer VESTERGAARD,,,,1,Emil TELLERUP
+104,748714,52.04,,,,,,,,,,,
+105,748714,52.39,25-25,GIF,Mål,Gbr,4,Frederik NIELSEN,Assist,21,Kristoffer VESTERGAARD,1,Emil TELLERUP
+106,748714,53.18,26-25,KIF,Mål,Gbr,21,Kristian STOKLUND,Assist,5,Oliver NORLYK,1,Frederik SKOVGAARD
+107,748714,54.06,,GIF,Skud reddet,ST,22,Hjalmar ANDERSEN,,,,1,Emil TELLERUP
+108,748714,54.35,,KIF,Fejlaflevering,,5,Oliver NORLYK,,,,,
+109,748714,54.45,26-26,GIF,Mål,2:e,8,Rolf RAVN,,,,0,
+110,748714,55.27,,KIF,Skud reddet,Gbr,28,Lauritz LEGÉR,Retur,0,,1,Frederik SKOVGAARD
+111,748714,55.58,,KIF,Fejlaflevering,,21,Kristian STOKLUND,Bold erobret,11,Kristoffer JESSEN,,
+112,748714,56.03,26-27,GIF,Mål,1:e,3,Thomas THEILGAARD,Assist,11,Kristoffer JESSEN,0,
+113,748714,56.06,,KIF,Time out,,,,,,,,
+114,748714,56.34,27-27,KIF,Mål,Gbr,28,Lauritz LEGÉR,,,,1,Frederik SKOVGAARD
+115,748714,56.42,,GIF,Skud reddet,Gbr,4,Frederik NIELSEN,Retur,0,,1,Emil TELLERUP
+116,748714,57.04,,GIF,Tilkendt straffe,,21,Kristoffer VESTERGAARD,Forårs. str.,5,Oliver NORLYK,,
+117,748714,57.06,27-28,GIF,Mål på straffe,,20,Frederik IVERSEN,,,,12,Josip CAVAR
+118,748714,57.41,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,Bold erobret,3,Thomas THEILGAARD,,
+119,748714,58.21,,GIF,Skud blokeret,PL,21,Kristoffer VESTERGAARD,Blokeret af,2,Mads KRAGH THOMSEN,,
+120,748714,59.03,,KIF,Tilkendt straffe,,11,Magnus KRONBORG,Forårs. str.,11,Kristoffer JESSEN,,
+121,748714,59.10,28-28,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,1,Frederik SKOVGAARD
+122,748714,59.34,,GIF,Time out,,,,,,,,
+123,748714,59.58,,GIF,Regelfejl,,21,Kristoffer VESTERGAARD,,,,,
+124,748714,60.00,,GIF,Udvisning,,7,Jakob VILLEMOES,,,,,
+125,748714,60.00,,KIF,Skud forbi,HB,5,Oliver NORLYK,,,,1,Frederik SKOVGAARD

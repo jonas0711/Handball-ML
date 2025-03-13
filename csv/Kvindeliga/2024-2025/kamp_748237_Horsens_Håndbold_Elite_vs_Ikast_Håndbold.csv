@@ -1,0 +1,138 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748237,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748237,0.56,,HHE,Skud forbi,PL,14,Mai KRAGBALLE,,,,12,Filippa IDÉHN
+3,748237,1.41,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,,,,,
+4,748237,2.20,,HHE,Skud reddet,Gbr,27,Annette WIRÉN LARSEN,,,,12,Filippa IDÉHN
+5,748237,2.56,,IKA,Skud reddet,VF,22,Lærke NOLSØE,,,,16,Andrea AUSTMO
+6,748237,3.04,,HHE,Skud reddet,2:e,22,Sille Cecilie SORTH,,,,12,Filippa IDÉHN
+7,748237,3.15,,IKA,Tilkendt straffe,,11,Sarah Aaberg IVERSEN,Forårs. str.,19,Frida Haug HOEL,,
+8,748237,3.42,0-1,IKA,Mål på straffe,,17,Simone PETERSEN,,,,16,Andrea AUSTMO
+9,748237,4.10,1-1,HHE,Mål,HB,27,Annette WIRÉN LARSEN,,,,12,Filippa IDÉHN
+10,748237,4.19,,IKA,Skud reddet,1:e,7,Stine SKOGRAND,,,,16,Andrea AUSTMO
+11,748237,4.28,2-1,HHE,Mål,1:e,3,Alma SKRETTING,Assist,27,Annette WIRÉN LARSEN,12,Filippa IDÉHN
+12,748237,4.55,,IKA,Skud reddet,PL,21,Ingvild BAKKERUD,,,,16,Andrea AUSTMO
+13,748237,5.04,3-1,HHE,Mål,2:e,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,12,Filippa IDÉHN
+14,748237,5.13,,IKA,Skud reddet,2:e,21,Ingvild BAKKERUD,,,,16,Andrea AUSTMO
+15,748237,5.22,,HHE,Skud reddet,1:e,21,Romee MAARSCHALKEWEERD,Retur,19,Frida Haug HOEL,12,Filippa IDÉHN
+16,748237,6.11,,HHE,Skud reddet,Gbr,19,Frida Haug HOEL,,,,12,Filippa IDÉHN
+17,748237,6.19,3-2,IKA,Mål,1:e,22,Lærke NOLSØE,Assist,14,Emma LINDQVIST,16,Andrea AUSTMO
+18,748237,6.49,,HHE,Skud blokeret,HB,19,Frida Haug HOEL,Blok af (ret),14,Emma LINDQVIST,,
+19,748237,7.30,,HHE,Skud reddet,PL,27,Annette WIRÉN LARSEN,,,,12,Filippa IDÉHN
+20,748237,7.40,,IKA,Fejlaflevering,,21,Ingvild BAKKERUD,Bold erobret,19,Frida Haug HOEL,,
+21,748237,8.16,4-2,HHE,Mål,PL,14,Mai KRAGBALLE,,,,12,Filippa IDÉHN
+22,748237,8.23,4-3,IKA,Mål,1:e,77,Line Mai HOUGAARD,Assist,11,Sarah Aaberg IVERSEN,16,Andrea AUSTMO
+23,748237,9.11,,HHE,Skud forbi,VB,14,Mai KRAGBALLE,,,,12,Filippa IDÉHN
+24,748237,9.16,4-4,IKA,Mål,1:e,11,Sarah Aaberg IVERSEN,Assist,21,Ingvild BAKKERUD,16,Andrea AUSTMO
+25,748237,9.52,,HHE,Regelfejl,,21,Romee MAARSCHALKEWEERD,,,,,
+26,748237,9.55,,HHE,Advarsel,,21,Romee MAARSCHALKEWEERD,,,,,
+27,748237,10.18,4-5,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,21,Ingvild BAKKERUD,16,Andrea AUSTMO
+28,748237,11.07,,HHE,Skud forbi,VF,33,Laura Holm ANDERSEN,,,,12,Filippa IDÉHN
+29,748237,11.37,,IKA,Skud reddet,ST,11,Sarah Aaberg IVERSEN,,,,16,Andrea AUSTMO
+30,748237,11.50,,HHE,Skud reddet,HF,22,Sille Cecilie SORTH,,,,12,Filippa IDÉHN
+31,748237,12.23,4-6,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,16,Andrea AUSTMO
+32,748237,12.52,5-6,HHE,Mål,VB,11,Fanny ELOVSSON,,,,12,Filippa IDÉHN
+33,748237,13.31,5-7,IKA,Mål,Gbr,77,Line Mai HOUGAARD,Assist,7,Stine SKOGRAND,16,Andrea AUSTMO
+34,748237,13.41,6-7,HHE,Mål,2:e,3,Alma SKRETTING,Assist,14,Mai KRAGBALLE,12,Filippa IDÉHN
+35,748237,14.14,6-8,IKA,Mål,PL,14,Emma LINDQVIST,,,,16,Andrea AUSTMO
+36,748237,14.53,,HHE,Skud forbi,PL,11,Fanny ELOVSSON,,,,12,Filippa IDÉHN
+37,748237,15.26,,IKA,Skud reddet,VB,51,Markéta JERÁBKOVÁ,,,,16,Andrea AUSTMO
+38,748237,15.32,,HHE,Skud forbi,2:e,19,Frida Haug HOEL,,,,12,Filippa IDÉHN
+39,748237,15.40,,IKA,Fejlaflevering,,14,Emma LINDQVIST,,,,,
+40,748237,15.46,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,Bold erobret,51,Markéta JERÁBKOVÁ,,
+41,748237,16.32,6-9,IKA,Mål,VF,22,Lærke NOLSØE,Assist,7,Stine SKOGRAND,16,Andrea AUSTMO
+42,748237,16.44,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,Bold erobret,22,Lærke NOLSØE,,
+43,748237,16.50,,IKA,Skud reddet,1:e,22,Lærke NOLSØE,,,,16,Andrea AUSTMO
+44,748237,17.11,,HHE,Time out,,,,,,,,
+45,748237,17.53,,HHE,Skud reddet,HF,22,Sille Cecilie SORTH,,,,12,Filippa IDÉHN
+46,748237,18.27,6-10,IKA,Mål,HB,7,Stine SKOGRAND,,,,16,Andrea AUSTMO
+47,748237,19.12,,HHE,Fejlaflevering,,27,Annette WIRÉN LARSEN,Bold erobret,22,Lærke NOLSØE,,
+48,748237,19.16,6-11,IKA,Mål,1:e,21,Ingvild BAKKERUD,Assist,22,Lærke NOLSØE,16,Andrea AUSTMO
+49,748237,20.05,,HHE,Skud reddet,Gbr,19,Frida Haug HOEL,Retur,27,Annette WIRÉN LARSEN,12,Filippa IDÉHN
+50,748237,20.26,,HHE,Regelfejl,,3,Alma SKRETTING,,,,,
+51,748237,21.16,,IKA,Fejlaflevering,,17,Simone PETERSEN,,,,,
+52,748237,22.01,,HHE,Skud reddet,VF,33,Laura Holm ANDERSEN,,,,12,Filippa IDÉHN
+53,748237,22.27,6-12,IKA,Mål,VB,51,Markéta JERÁBKOVÁ,,,,16,Andrea AUSTMO
+54,748237,23.00,7-12,HHE,Mål,Gbr,39,Melanie BAK,,,,12,Filippa IDÉHN
+55,748237,23.06,7-13,IKA,Mål,1:e,18,Maria LYKKEGAARD,,,,0,
+56,748237,23.49,8-13,HHE,Mål,PL,27,Annette WIRÉN LARSEN,,,,12,Filippa IDÉHN
+57,748237,23.56,,IKA,Skud forbi,1:e,18,Maria LYKKEGAARD,,,,0,
+58,748237,24.35,9-13,HHE,Mål,ST,9,Annika MEYER,Assist,27,Annette WIRÉN LARSEN,12,Filippa IDÉHN
+59,748237,24.49,,IKA,Time out,,,,,,,,
+60,748237,25.18,,IKA,Tabt bold,,17,Simone PETERSEN,,,,,
+61,748237,25.50,,HHE,Fejlaflevering,,27,Annette WIRÉN LARSEN,Bold erobret,51,Markéta JERÁBKOVÁ,,
+62,748237,25.56,9-14,IKA,Mål,1:e,51,Markéta JERÁBKOVÁ,,,,0,
+63,748237,26.26,,HHE,Fejlaflevering,,27,Annette WIRÉN LARSEN,,,,,
+64,748237,26.31,9-15,IKA,Mål,1:e,51,Markéta JERÁBKOVÁ,,,,0,
+65,748237,27.26,10-15,HHE,Mål,HF,66,Faye JANSON,Assist,39,Melanie BAK,12,Filippa IDÉHN
+66,748237,28.06,10-16,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,17,Simone PETERSEN,16,Andrea AUSTMO
+67,748237,28.45,,HHE,Fejlaflevering,,14,Mai KRAGBALLE,,,,,
+68,748237,28.48,10-17,IKA,Mål,1:e,77,Line Mai HOUGAARD,Assist,12,Filippa IDÉHN,16,Andrea AUSTMO
+69,748237,29.34,,HHE,Skud reddet,HF,66,Faye JANSON,,,,12,Filippa IDÉHN
+70,748237,29.58,10-18,IKA,Mål,VB,51,Markéta JERÁBKOVÁ,,,,16,Andrea AUSTMO
+71,748237,30.00,10-18,,Halvleg,,,,,,,,
+72,748237,30.00,,,Start 2:e halvleg,,,,,,,,
+73,748237,30.37,,IKA,Skud forbi,VB,21,Ingvild BAKKERUD,,,,16,Andrea AUSTMO
+74,748237,31.07,11-18,HHE,Mål,VB,11,Fanny ELOVSSON,,,,12,Filippa IDÉHN
+75,748237,31.57,11-19,IKA,Mål,PL,21,Ingvild BAKKERUD,,,,16,Andrea AUSTMO
+76,748237,33.01,,HHE,Skud reddet,VB,11,Fanny ELOVSSON,,,,12,Filippa IDÉHN
+77,748237,34.19,,IKA,Skud blokeret,VB,21,Ingvild BAKKERUD,Blok af (ret),9,Annika MEYER,,
+78,748237,34.30,,IKA,Skud forbi,VB,21,Ingvild BAKKERUD,,,,16,Andrea AUSTMO
+79,748237,34.36,,HHE,Fejlaflevering,,11,Fanny ELOVSSON,Bold erobret,22,Lærke NOLSØE,,
+80,748237,35.11,11-20,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,21,Ingvild BAKKERUD,16,Andrea AUSTMO
+81,748237,35.53,12-20,HHE,Mål,Gbr,19,Frida Haug HOEL,,,,12,Filippa IDÉHN
+82,748237,36.06,,IKA,Skud reddet,2:e,11,Sarah Aaberg IVERSEN,,,,16,Andrea AUSTMO
+83,748237,36.15,,HHE,Skud reddet,2:e,11,Fanny ELOVSSON,,,,12,Filippa IDÉHN
+84,748237,36.47,,IKA,Skud reddet,Gbr,7,Stine SKOGRAND,Retur,0,,16,Andrea AUSTMO
+85,748237,37.23,,IKA,Tabt bold,,14,Emma LINDQVIST,,,,,
+86,748237,37.28,13-20,HHE,Mål,1:e,21,Romee MAARSCHALKEWEERD,Assist,33,Laura Holm ANDERSEN,12,Filippa IDÉHN
+87,748237,38.10,13-21,IKA,Mål,Gbr,7,Stine SKOGRAND,,,,16,Andrea AUSTMO
+88,748237,38.18,14-21,HHE,Mål,2:e,14,Mai KRAGBALLE,,,,12,Filippa IDÉHN
+89,748237,38.25,14-22,IKA,Mål,1:e,6,Cecilie BRANDT,Assist,11,Sarah Aaberg IVERSEN,16,Andrea AUSTMO
+90,748237,39.35,,HHE,Fejlaflevering,,19,Frida Haug HOEL,,,,,
+91,748237,39.44,14-23,IKA,Mål,2:e,6,Cecilie BRANDT,Assist,7,Stine SKOGRAND,16,Andrea AUSTMO
+92,748237,40.05,,HHE,Time out,,,,,,,,
+93,748237,40.34,,HHE,Skud reddet,ST,21,Romee MAARSCHALKEWEERD,,,,12,Filippa IDÉHN
+94,748237,40.42,14-24,IKA,Mål,2:e,22,Lærke NOLSØE,Assist,21,Ingvild BAKKERUD,16,Andrea AUSTMO
+95,748237,41.08,15-24,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,7,Maria Palsdottir NÓLSOY,12,Filippa IDÉHN
+96,748237,41.19,,HHE,Udvisning,,22,Sille Cecilie SORTH,,,,,
+97,748237,41.50,,IKA,Skud reddet,Gbr,14,Emma LINDQVIST,,,,16,Andrea AUSTMO
+98,748237,42.37,16-24,HHE,Mål,Gbr,14,Mai KRAGBALLE,,,,12,Filippa IDÉHN
+99,748237,43.15,,IKA,Skud reddet,VF,22,Lærke NOLSØE,,,,16,Andrea AUSTMO
+100,748237,43.52,17-24,HHE,Mål,ST,21,Romee MAARSCHALKEWEERD,Assist,14,Mai KRAGBALLE,12,Filippa IDÉHN
+101,748237,44.46,17-25,IKA,Mål,ST,11,Sarah Aaberg IVERSEN,Assist,51,Markéta JERÁBKOVÁ,16,Andrea AUSTMO
+102,748237,45.37,,HHE,Skud på stolpe,Gbr,14,Mai KRAGBALLE,,,,12,Filippa IDÉHN
+103,748237,46.20,,IKA,Regelfejl,,51,Markéta JERÁBKOVÁ,,,,,
+104,748237,46.30,18-25,HHE,Mål,,,,,,,,
+105,748237,46.36,,IKA,Time out,,,,,,,,
+106,748237,47.00,,IKA,Skud reddet,VF,2,Matilde KONDRUP NIELSEN,,,,16,Andrea AUSTMO
+107,748237,47.13,,HHE,Tilkendt straffe,,9,Annika MEYER,Forårs. str.,11,Sarah Aaberg IVERSEN,,
+108,748237,47.32,19-25,HHE,Mål på straffe,,14,Mai KRAGBALLE,,,,12,Filippa IDÉHN
+109,748237,48.11,19-26,IKA,Mål,PL,17,Simone PETERSEN,,,,16,Andrea AUSTMO
+110,748237,48.19,,HHE,Skud reddet,2:e,27,Annette WIRÉN LARSEN,,,,12,Filippa IDÉHN
+111,748237,48.48,19-27,IKA,Mål,VF,2,Matilde KONDRUP NIELSEN,Assist,51,Markéta JERÁBKOVÁ,16,Andrea AUSTMO
+112,748237,49.22,,HHE,Skud reddet,VF,33,Laura Holm ANDERSEN,,,,12,Filippa IDÉHN
+113,748237,49.32,19-28,IKA,Mål,HF,6,Cecilie BRANDT,Assist,7,Stine SKOGRAND,16,Andrea AUSTMO
+114,748237,50.12,20-28,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,7,Maria Palsdottir NÓLSOY,12,Filippa IDÉHN
+115,748237,50.31,,IKA,Tilkendt straffe,,11,Sarah Aaberg IVERSEN,Forårs. str.,21,Romee MAARSCHALKEWEERD,,
+116,748237,50.48,20-29,IKA,Mål på straffe,,17,Simone PETERSEN,,,,16,Andrea AUSTMO
+117,748237,51.52,,HHE,Skud blokeret,PL,14,Mai KRAGBALLE,Blok af (ret),2,Matilde KONDRUP NIELSEN,,
+118,748237,52.20,,HHE,Skud forbi,VB,27,Annette WIRÉN LARSEN,,,,12,Filippa IDÉHN
+119,748237,52.45,20-30,IKA,Mål,PL,17,Simone PETERSEN,,,,16,Andrea AUSTMO
+120,748237,53.20,,HHE,Skud reddet,HB,66,Faye JANSON,,,,12,Filippa IDÉHN
+121,748237,53.25,20-31,IKA,Mål,1:e,19,Amanda Loft HANSEN,Assist,12,Filippa IDÉHN,16,Andrea AUSTMO
+122,748237,53.40,,HHE,Skud reddet,HF,22,Sille Cecilie SORTH,,,,12,Filippa IDÉHN
+123,748237,54.20,20-32,IKA,Mål,ST,19,Amanda Loft HANSEN,Assist,17,Simone PETERSEN,16,Andrea AUSTMO
+124,748237,55.15,21-32,HHE,Mål,HF,22,Sille Cecilie SORTH,Assist,39,Melanie BAK,12,Filippa IDÉHN
+125,748237,55.41,,IKA,Skud reddet,Gbr,10,Sofia STENHOLT,Retur,1,Mathilde BISGAARD,,
+126,748237,56.18,21-33,IKA,Mål,VF,2,Matilde KONDRUP NIELSEN,Assist,51,Markéta JERÁBKOVÁ,1,Mathilde BISGAARD
+127,748237,56.55,,HHE,Skud på stolpe,Gbr,66,Faye JANSON,,,,31,Emma JESSEN
+128,748237,57.34,,IKA,Regelfejl,,2,Matilde KONDRUP NIELSEN,,,,,
+129,748237,57.41,,HHE,Fejlaflevering,,1,Mathilde BISGAARD,Bold erobret,17,Simone PETERSEN,,
+130,748237,57.44,21-34,IKA,Mål,1:e,17,Simone PETERSEN,,,,1,Mathilde BISGAARD
+131,748237,58.10,,HHE,Regelfejl,,39,Melanie BAK,,,,,
+132,748237,58.21,21-35,IKA,Mål,2:e,10,Sofia STENHOLT,Assist,17,Simone PETERSEN,1,Mathilde BISGAARD
+133,748237,58.55,22-35,HHE,Mål,VB,39,Melanie BAK,,,,31,Emma JESSEN
+134,748237,58.59,,HHE,Udvisning,,9,Annika MEYER,,,,,
+135,748237,59.34,22-36,IKA,Mål,Gbr,10,Sofia STENHOLT,,,,1,Mathilde BISGAARD
+136,748237,60.00,23-36,HHE,Mål,HB,66,Faye JANSON,,,,31,Emma JESSEN
+137,748237,60.00,23-36,,Fuld tid,,,,,,,,

@@ -1,0 +1,133 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748713,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748713,0.40,,SJE,Skud på stolpe,Gbr,11,Nicolaj JØRGENSEN,,,,12,Fabian NORSTEN
+3,748713,0.46,1-0,AAH,Mål,1:e,4,Patrick WIESMACH,,,,0,
+4,748713,1.15,1-1,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,12,Fabian NORSTEN
+5,748713,1.26,,SJE,Udvisning,,14,Jacob BAGERSTED,,,,,
+6,748713,1.43,,AAH,Skud reddet,ST,11,Simon HALD,,,,30,Julius STEN
+7,748713,2.28,1-2,SJE,Mål,VF,28,Patrick VOLZ,Assist,29,Magnus FREDRIKSEN,12,Fabian NORSTEN
+8,748713,2.54,,AAH,Skud reddet,Gbr,18,Aleks VLAH,,,,30,Julius STEN
+9,748713,3.29,,SJE,Skud reddet,VF,28,Patrick VOLZ,,,,12,Fabian NORSTEN
+10,748713,4.46,,AAH,Skud reddet,HB,17,Martin LARSEN,,,,30,Julius STEN
+11,748713,5.19,1-3,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,12,Fabian NORSTEN
+12,748713,5.25,,AAH,Skud reddet,2:e,7,Thomas ARNOLDSEN,,,,30,Julius STEN
+13,748713,5.58,1-4,SJE,Mål,VF,28,Patrick VOLZ,Assist,29,Magnus FREDRIKSEN,12,Fabian NORSTEN
+14,748713,6.09,,SJE,Udvisning,,33,Ebbe STANKIEWICZ,,,,,
+15,748713,6.27,2-4,AAH,Mål,ST,11,Simon HALD,Assist,7,Thomas ARNOLDSEN,30,Julius STEN
+16,748713,7.18,2-5,SJE,Mål,PL,48,Gabriel SETTERBLOM,,,,12,Fabian NORSTEN
+17,748713,7.23,,AAH,Skud reddet,2:e,20,Felix MÖLLER,,,,30,Julius STEN
+18,748713,7.56,2-6,SJE,Mål,HF,24,Sebastian AUGUSTINUSSEN,Assist,48,Gabriel SETTERBLOM,12,Fabian NORSTEN
+19,748713,8.06,,AAH,Skud reddet,2:e,7,Thomas ARNOLDSEN,,,,30,Julius STEN
+20,748713,8.46,2-7,SJE,Mål,Gbr,28,Patrick VOLZ,Assist,11,Nicolaj JØRGENSEN,12,Fabian NORSTEN
+21,748713,8.57,,AAH,Skud reddet,2:e,4,Patrick WIESMACH,Retur,0,,30,Julius STEN
+22,748713,9.24,3-7,AAH,Mål,Gbr,7,Thomas ARNOLDSEN,,,,30,Julius STEN
+23,748713,9.54,3-8,SJE,Mål,VF,28,Patrick VOLZ,Assist,29,Magnus FREDRIKSEN,12,Fabian NORSTEN
+24,748713,10.49,4-8,AAH,Mål,ST,20,Felix MÖLLER,Assist,3,Lukas NILSSON,30,Julius STEN
+25,748713,11.42,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+26,748713,11.46,,AAH,Skud forbi,1:e,6,Sebastian BARTHOLD,,,,0,
+27,748713,12.17,,SJE,Regelfejl,,18,Morten BJØRNSHAUGE,,,,,
+28,748713,13.07,5-8,AAH,Mål,Gbr,4,Patrick WIESMACH,Assist,7,Thomas ARNOLDSEN,30,Julius STEN
+29,748713,13.47,5-9,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,12,Fabian NORSTEN
+30,748713,14.34,,AAH,Skud på stolpe,PL,3,Lukas NILSSON,Retur,0,,30,Julius STEN
+31,748713,14.37,6-9,AAH,Mål,ST,17,Martin LARSEN,,,,30,Julius STEN
+32,748713,15.14,6-10,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,24,Sebastian AUGUSTINUSSEN,12,Fabian NORSTEN
+33,748713,15.25,,AAH,Fejlaflevering,,17,Martin LARSEN,,,,,
+34,748713,16.00,,SJE,Tabt bold,,48,Gabriel SETTERBLOM,,,,,
+35,748713,16.08,,AAH,Skud på stolpe,2:e,3,Lukas NILSSON,,,,30,Julius STEN
+36,748713,17.03,6-11,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,12,Fabian NORSTEN
+37,748713,17.12,7-11,AAH,Mål,2:e,3,Lukas NILSSON,,,,30,Julius STEN
+38,748713,17.57,7-12,SJE,Mål,Gbr,11,Nicolaj JØRGENSEN,,,,1,Niklas LANDIN
+39,748713,18.08,8-12,AAH,Mål,2:e,3,Lukas NILSSON,Assist,17,Martin LARSEN,30,Julius STEN
+40,748713,19.14,8-13,SJE,Mål,Gbr,20,August WIGER,,,,1,Niklas LANDIN
+41,748713,19.55,9-13,AAH,Mål,VF,6,Sebastian BARTHOLD,Assist,3,Lukas NILSSON,30,Julius STEN
+42,748713,20.36,,SJE,Skud reddet,VF,28,Patrick VOLZ,,,,1,Niklas LANDIN
+43,748713,20.42,10-13,AAH,Mål,2:e,25,Marinus MUNK,,,,30,Julius STEN
+44,748713,20.48,,SJE,Time out,,,,,,,,
+45,748713,21.17,10-14,SJE,Mål,ST,11,Nicolaj JØRGENSEN,Assist,48,Gabriel SETTERBLOM,1,Niklas LANDIN
+46,748713,21.24,,AAH,Fejlaflevering,,25,Marinus MUNK,Bold erobret,20,August WIGER,,
+47,748713,22.07,10-15,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,,,,1,Niklas LANDIN
+48,748713,22.38,11-15,AAH,Mål,HB,7,Thomas ARNOLDSEN,,,,30,Julius STEN
+49,748713,23.49,11-16,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,1,Niklas LANDIN
+50,748713,24.16,,AAH,Skud reddet,PL,25,Marinus MUNK,Retur,0,,30,Julius STEN
+51,748713,24.27,12-16,AAH,Mål,ST,6,Sebastian BARTHOLD,Assist,7,Thomas ARNOLDSEN,30,Julius STEN
+52,748713,25.02,,SJE,Fejlaflevering,,29,Magnus FREDRIKSEN,,,,,
+53,748713,25.03,,SJE,Udvisning,,48,Gabriel SETTERBLOM,,,,,
+54,748713,25.33,13-16,AAH,Mål,HF,4,Patrick WIESMACH,Assist,18,Aleks VLAH,30,Julius STEN
+55,748713,26.09,,SJE,Tilkendt straffe,,29,Magnus FREDRIKSEN,Forårs. str.,17,Martin LARSEN,,
+56,748713,26.23,,SJE,Straffekast reddet,,11,Nicolaj JØRGENSEN,,,,1,Niklas LANDIN
+57,748713,26.53,,AAH,Tilkendt straffe,,18,Aleks VLAH,Forårs. str.,29,Magnus FREDRIKSEN,,
+58,748713,26.56,14-16,AAH,Mål på straffe,,23,Buster JUUL,,,,30,Julius STEN
+59,748713,28.06,,AAH,Udvisning,,21,Henrik MØLLGAARD,,,,,
+60,748713,28.15,,SJE,Skud reddet,Gbr,20,August WIGER,,,,1,Niklas LANDIN
+61,748713,29.08,,AAH,Skud reddet,Gbr,25,Marinus MUNK,,,,30,Julius STEN
+62,748713,29.36,,SJE,Skud på stolpe,HF,33,Ebbe STANKIEWICZ,,,,1,Niklas LANDIN
+63,748713,29.38,,AAH,Time out,,,,,,,,
+64,748713,29.57,,SJE,Udvisning,,2,Tobias Gregers SCHMIDT,,,,,
+65,748713,29.59,15-16,AAH,Mål,PL,25,Marinus MUNK,,,,30,Julius STEN
+66,748713,30.00,15-16,,Halvleg,,,,,,,,
+67,748713,30.00,,,Start 2:e halvleg,,,,,,,,
+68,748713,30.30,16-16,AAH,Mål,PL,7,Thomas ARNOLDSEN,,,,30,Julius STEN
+69,748713,31.10,16-17,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,48,Gabriel SETTERBLOM,1,Niklas LANDIN
+70,748713,31.16,17-17,AAH,Mål,2:e,7,Thomas ARNOLDSEN,,,,30,Julius STEN
+71,748713,32.17,17-18,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,1,Niklas LANDIN
+72,748713,33.10,,AAH,Fejlaflevering,,9,Miguel MARTINS,,,,,
+73,748713,33.15,17-19,SJE,Mål,1:e,28,Patrick VOLZ,Assist,,,30,Julius STEN
+74,748713,34.21,,AAH,Skud blokeret,VB,7,Thomas ARNOLDSEN,Blokeret af,18,Morten BJØRNSHAUGE,,
+75,748713,34.32,,SJE,Fejlaflevering,,48,Gabriel SETTERBLOM,,,,,
+76,748713,34.34,18-19,AAH,Mål,1:e,20,Felix MÖLLER,,,,30,Julius STEN
+77,748713,35.15,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+78,748713,36.05,19-19,AAH,Mål,VF,6,Sebastian BARTHOLD,Assist,17,Martin LARSEN,30,Julius STEN
+79,748713,36.58,19-20,SJE,Mål,Gbr,24,Sebastian AUGUSTINUSSEN,Assist,11,Nicolaj JØRGENSEN,1,Niklas LANDIN
+80,748713,37.27,,AAH,Fejlaflevering,,9,Miguel MARTINS,Bold erobret,28,Patrick VOLZ,,
+81,748713,37.32,19-21,SJE,Mål,1:e,28,Patrick VOLZ,,,,1,Niklas LANDIN
+82,748713,38.05,20-21,AAH,Mål,PL,7,Thomas ARNOLDSEN,,,,30,Julius STEN
+83,748713,38.42,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,Bold erobret,6,Sebastian BARTHOLD,,
+84,748713,38.44,21-21,AAH,Mål,1:e,4,Patrick WIESMACH,Assist,7,Thomas ARNOLDSEN,0,
+85,748713,39.20,21-22,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,11,Nicolaj JØRGENSEN,1,Niklas LANDIN
+86,748713,39.50,22-22,AAH,Mål,PL,17,Martin LARSEN,,,,1,Matthias DORGELO
+87,748713,40.26,,SJE,Fejlaflevering,,48,Gabriel SETTERBLOM,,,,,
+88,748713,40.30,23-22,AAH,Mål,1:e,20,Felix MÖLLER,Assist,7,Thomas ARNOLDSEN,1,Matthias DORGELO
+89,748713,41.22,23-23,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,,,,1,Niklas LANDIN
+90,748713,41.31,,AAH,Regelfejl,,17,Martin LARSEN,,,,,
+91,748713,42.09,23-24,SJE,Mål,Gbr,48,Gabriel SETTERBLOM,,,,1,Niklas LANDIN
+92,748713,42.10,,AAH,Udvisning,,20,Felix MÖLLER,,,,,
+93,748713,42.56,24-24,AAH,Mål,Gbr,3,Lukas NILSSON,,,,1,Matthias DORGELO
+94,748713,44.04,,SJE,Skud på stolpe,PL,11,Nicolaj JØRGENSEN,,,,1,Niklas LANDIN
+95,748713,44.34,,AAH,Regelfejl,,3,Lukas NILSSON,,,,,
+96,748713,45.11,,SJE,Skud reddet,PL,11,Nicolaj JØRGENSEN,,,,1,Niklas LANDIN
+97,748713,45.56,25-24,AAH,Mål,Gbr,17,Martin LARSEN,,,,1,Matthias DORGELO
+98,748713,46.03,,SJE,Time out,,,,,,,,
+99,748713,46.47,,SJE,Skud reddet,HF,29,Magnus FREDRIKSEN,,,,1,Niklas LANDIN
+100,748713,46.57,,AAH,Skud reddet,2:e,7,Thomas ARNOLDSEN,Retur,0,,1,Matthias DORGELO
+101,748713,47.54,26-24,AAH,Mål,Gbr,18,Aleks VLAH,,,,1,Matthias DORGELO
+102,748713,48.26,,SJE,Skud reddet,HB,48,Gabriel SETTERBLOM,,,,1,Niklas LANDIN
+103,748713,49.00,,SJE,Udvisning,,28,Patrick VOLZ,,,,,
+104,748713,49.09,27-24,AAH,Mål,,,,,,,,
+105,748713,49.38,,SJE,Skud reddet,Gbr,18,Aleks VLAH,,,,1,Niklas LANDIN
+106,748713,49.46,28-24,AAH,Mål,2:e,3,Lukas NILSSON,,,,1,Matthias DORGELO
+107,748713,50.18,,SJE,Fejlaflevering,,11,Nicolaj JØRGENSEN,,,,,
+108,748713,50.23,,AAH,Fejlaflevering,,7,Thomas ARNOLDSEN,,,,,
+109,748713,51.27,28-25,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,1,Niklas LANDIN
+110,748713,52.13,,AAH,Fejlaflevering,,3,Lukas NILSSON,,,,,
+111,748713,52.19,,SJE,Time out,,,,,,,,
+112,748713,52.41,28-26,SJE,Mål,PL,48,Gabriel SETTERBLOM,,,,1,Niklas LANDIN
+113,748713,53.17,29-26,AAH,Mål,PL,3,Lukas NILSSON,,,,30,Julius STEN
+114,748713,53.59,29-27,SJE,Mål,VF,28,Patrick VOLZ,Assist,11,Nicolaj JØRGENSEN,1,Niklas LANDIN
+115,748713,54.11,,AAH,Time out,,,,,,,,
+116,748713,54.24,,AAH,Skud reddet,PL,3,Lukas NILSSON,,,,30,Julius STEN
+117,748713,54.52,29-28,SJE,Mål,Gbr,24,Sebastian AUGUSTINUSSEN,,,,1,Niklas LANDIN
+118,748713,55.16,30-28,AAH,Mål,Gbr,17,Martin LARSEN,,,,30,Julius STEN
+119,748713,55.46,30-29,SJE,Mål,VF,28,Patrick VOLZ,Assist,11,Nicolaj JØRGENSEN,1,Niklas LANDIN
+120,748713,56.33,31-29,AAH,Mål,PL,3,Lukas NILSSON,,,,30,Julius STEN
+121,748713,57.02,31-30,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,Assist,14,Jacob BAGERSTED,1,Niklas LANDIN
+122,748713,57.04,,AAH,Udvisning,,7,Thomas ARNOLDSEN,,,,,
+123,748713,57.41,,SJE,Udvisning,,14,Jacob BAGERSTED,,,,,
+124,748713,58.05,32-30,AAH,Mål,Gbr,18,Aleks VLAH,,,,30,Julius STEN
+125,748713,58.10,32-31,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,,,0,
+126,748713,58.47,33-31,AAH,Mål,Gbr,3,Lukas NILSSON,,,,30,Julius STEN
+127,748713,58.52,33-32,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,,,0,
+128,748713,59.21,,AAH,Time out,,,,,,,,
+129,748713,59.27,,SJE,Udvisning,,24,Sebastian AUGUSTINUSSEN,,,,,
+130,748713,59.43,34-32,AAH,Mål,Gbr,17,Martin LARSEN,Assist,18,Aleks VLAH,30,Julius STEN
+131,748713,59.54,,SJE,Skud reddet,2:e,11,Nicolaj JØRGENSEN,,,,1,Niklas LANDIN
+132,748713,59.58,,AAH,Skud forbi,1:e,1,Niklas LANDIN,,,,30,Julius STEN

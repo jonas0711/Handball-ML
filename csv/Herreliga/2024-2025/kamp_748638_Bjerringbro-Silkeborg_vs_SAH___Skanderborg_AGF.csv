@@ -1,0 +1,135 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748638,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748638,1.06,,SAH,Skud reddet,HB,3,Kristjan ÖRN KRISTJANSSON,,,,1,Mikkel LØVKVIST
+3,748638,2.13,,BSH,Fejlaflevering,,32,Nikolaj LÆSØ,,,,,
+4,748638,2.18,,SAH,Skud reddet,1:e,11,Mikkel LANG,,,,1,Mikkel LØVKVIST
+5,748638,2.34,,BSH,Tilkendt straffe,,11,Rasmus LAUGE,Forårs. str.,11,Mikkel LANG,,
+6,748638,3.01,,BSH,Straffekast reddet,,9,Gudmundur Bragi ASTPARSSON,Retur,0,,1,Kristoffer LAURSEN
+7,748638,3.02,,BSH,Skud reddet,ST,9,Gudmundur Bragi ASTPARSSON,,,,1,Kristoffer LAURSEN
+8,748638,3.09,0-1,SAH,Mål,2:e,3,Kristjan ÖRN KRISTJANSSON,Assist,6,Kristian BONEFELD,1,Mikkel LØVKVIST
+9,748638,3.49,1-1,BSH,Mål,Gbr,32,Nikolaj LÆSØ,Assist,11,Rasmus LAUGE,1,Kristoffer LAURSEN
+10,748638,4.19,,SAH,Skud reddet,PL,15,Emil LÆRKE,,,,1,Mikkel LØVKVIST
+11,748638,4.36,,SAH,Advarsel,,6,Kristian BONEFELD,,,,,
+12,748638,5.40,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,1,Kristoffer LAURSEN
+13,748638,5.50,,SAH,Skud reddet,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,1,Mikkel LØVKVIST
+14,748638,6.06,2-1,BSH,Mål,2:e,32,Nikolaj LÆSØ,,,,1,Kristoffer LAURSEN
+15,748638,6.42,2-2,SAH,Mål,Gbr,3,Kristjan ÖRN KRISTJANSSON,Assist,11,Mikkel LANG,1,Mikkel LØVKVIST
+16,748638,7.31,,BSH,Regelfejl,,23,Mads LENBROCH,,,,,
+17,748638,7.40,2-3,SAH,Mål,2:e,15,Emil LÆRKE,,,,1,Mikkel LØVKVIST
+18,748638,7.49,,BSH,Skud reddet,2:e,19,René Toft HANSEN,Retur,0,,1,Kristoffer LAURSEN
+19,748638,8.18,,BSH,Skud reddet,PL,32,Nikolaj LÆSØ,,,,1,Kristoffer LAURSEN
+20,748638,8.30,2-4,SAH,Mål,2:e,25,Jeppe CIESLAK,Assist,5,Frederik ARNOLDSEN,1,Mikkel LØVKVIST
+21,748638,9.31,3-4,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,32,Nikolaj LÆSØ,1,Kristoffer LAURSEN
+22,748638,10.39,3-5,SAH,Mål,ST,5,Frederik ARNOLDSEN,Assist,32,Fredrik OLSSON,1,Mikkel LØVKVIST
+23,748638,11.20,4-5,BSH,Mål,ST,14,Alexander LYNGGAARD,Assist,11,Rasmus LAUGE,1,Kristoffer LAURSEN
+24,748638,12.07,,SAH,Tilkendt straffe,,3,Kristjan ÖRN KRISTJANSSON,Forårs. str.,19,René Toft HANSEN,,
+25,748638,12.35,,SAH,Straffekast reddet,,25,Jeppe CIESLAK,Retur,0,,1,Mikkel LØVKVIST
+26,748638,12.38,,SAH,Skud på stolpe,ST,25,Jeppe CIESLAK,,,,1,Mikkel LØVKVIST
+27,748638,13.11,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,1,Kristoffer LAURSEN
+28,748638,13.56,,SAH,Skud reddet,PL,32,Fredrik OLSSON,,,,1,Mikkel LØVKVIST
+29,748638,14.03,5-5,BSH,Mål,2:e,14,Alexander LYNGGAARD,Assist,11,Rasmus LAUGE,1,Kristoffer LAURSEN
+30,748638,14.46,,SAH,Skud reddet,PL,15,Emil LÆRKE,,,,1,Mikkel LØVKVIST
+31,748638,15.17,,BSH,Time out,,,,,,,,
+32,748638,15.31,6-5,BSH,Mål,Gbr,9,Gudmundur Bragi ASTPARSSON,,,,1,Kristoffer LAURSEN
+33,748638,16.20,6-6,SAH,Mål,ST,25,Jeppe CIESLAK,Assist,15,Emil LÆRKE,1,Mikkel LØVKVIST
+34,748638,16.27,7-6,BSH,Mål,2:e,11,Rasmus LAUGE,,,,1,Kristoffer LAURSEN
+35,748638,17.07,7-7,SAH,Mål,PL,15,Emil LÆRKE,,,,1,Mikkel LØVKVIST
+36,748638,17.38,,BSH,Skud reddet,PL,32,Nikolaj LÆSØ,,,,1,Kristoffer LAURSEN
+37,748638,17.50,,SAH,Tilkendt straffe,,23,Morten Hempel JENSEN,Forårs. str.,32,Nikolaj LÆSØ,,
+38,748638,18.12,7-8,SAH,Mål på straffe,,23,Morten Hempel JENSEN,,,,1,Mikkel LØVKVIST
+39,748638,18.47,8-8,BSH,Mål,ST,22,Anders ZACHARIASSEN,Assist,11,Rasmus LAUGE,1,Kristoffer LAURSEN
+40,748638,18.58,,SAH,Regelfejl,,28,Morten KAALUND,,,,,
+41,748638,19.56,,BSH,Passivt spil,,0,,,,,,
+42,748638,20.29,,SAH,Skud reddet,VB,23,Morten Hempel JENSEN,,,,1,Mikkel LØVKVIST
+43,748638,20.33,9-8,BSH,Mål,1:e,4,Patrick BOLDSEN,Assist,,,1,Mikkel LØVKVIST
+44,748638,20.44,,SAH,Fejlaflevering,,23,Morten Hempel JENSEN,Bold erobret,11,Rasmus LAUGE,,
+45,748638,20.49,,BSH,Skud reddet,1:e,11,Rasmus LAUGE,,,,1,Kristoffer LAURSEN
+46,748638,20.55,,SAH,Time out,,,,,,,,
+47,748638,21.14,,SAH,Skud reddet,HB,3,Kristjan ÖRN KRISTJANSSON,,,,1,Mikkel LØVKVIST
+48,748638,21.49,,BSH,Skud reddet,HF,4,Patrick BOLDSEN,,,,1,Kristoffer LAURSEN
+49,748638,22.02,,SAH,Skud reddet,2:e,11,Mikkel LANG,,,,1,Mikkel LØVKVIST
+50,748638,22.25,,BSH,Skud reddet,HB,32,Nikolaj LÆSØ,,,,1,Kristoffer LAURSEN
+51,748638,23.18,,SAH,Skud blokeret,PL,32,Fredrik OLSSON,Blok af (ret),22,Anders ZACHARIASSEN,,
+52,748638,23.20,,BSH,Udvisning,,22,Anders ZACHARIASSEN,,,,,
+53,748638,23.29,9-9,SAH,Mål,ST,28,Morten KAALUND,Assist,32,Fredrik OLSSON,1,Mikkel LØVKVIST
+54,748638,24.31,10-9,BSH,Mål,PL,9,Gudmundur Bragi ASTPARSSON,,,,1,Kristoffer LAURSEN
+55,748638,24.36,10-10,SAH,Mål,2:e,28,Morten KAALUND,,,,,
+56,748638,25.25,11-10,BSH,Mål,Gbr,9,Gudmundur Bragi ASTPARSSON,,,,1,Kristoffer LAURSEN
+57,748638,25.58,11-11,SAH,Mål,HF,11,Mikkel LANG,Assist,32,Fredrik OLSSON,1,Mikkel LØVKVIST
+58,748638,26.36,,BSH,Skud reddet,VF,23,Mads LENBROCH,,,,1,Kristoffer LAURSEN
+59,748638,27.19,,SAH,Tilkendt straffe,,5,Frederik ARNOLDSEN,Forårs. str.,14,Alexander LYNGGAARD,,
+60,748638,27.36,11-12,SAH,Mål på straffe,,23,Morten Hempel JENSEN,,,,1,Mikkel LØVKVIST
+61,748638,28.31,,BSH,Regelfejl,,23,Mads LENBROCH,,,,,
+62,748638,29.16,,SAH,Skud reddet,VB,23,Morten Hempel JENSEN,,,,1,Mikkel LØVKVIST
+63,748638,29.19,12-12,BSH,Mål,1:e,1,Mikkel LØVKVIST,,,,,
+64,748638,29.56,,SAH,Skud på stolpe,HF,11,Mikkel LANG,,,,1,Mikkel LØVKVIST
+65,748638,29.59,13-12,BSH,Mål,1:e,11,Rasmus LAUGE,,,,,
+66,748638,30.00,13-12,,Halvleg,,,,,,,,
+67,748638,30.00,,,Start 2:e halvleg,,,,,,,,
+68,748638,30.26,14-12,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,26,Peter BALLING,1,Kristoffer LAURSEN
+69,748638,30.38,,SAH,Fejlaflevering,,15,Emil LÆRKE,Bold erobret,14,Alexander LYNGGAARD,,
+70,748638,30.44,15-12,BSH,Mål,1:e,23,Mads LENBROCH,Assist,26,Peter BALLING,1,Kristoffer LAURSEN
+71,748638,31.14,15-13,SAH,Mål,Gbr,15,Emil LÆRKE,,,,1,Mikkel LØVKVIST
+72,748638,31.27,,BSH,Skud forbi,2:e,26,Peter BALLING,,,,1,Kristoffer LAURSEN
+73,748638,31.34,15-14,SAH,Mål,2:e,20,Morten BALLING,,,,1,Mikkel LØVKVIST
+74,748638,32.41,16-14,BSH,Mål,ST,14,Alexander LYNGGAARD,Assist,11,Rasmus LAUGE,1,Kristoffer LAURSEN
+75,748638,33.16,16-15,SAH,Mål,ST,5,Frederik ARNOLDSEN,Assist,3,Kristjan ÖRN KRISTJANSSON,1,Mikkel LØVKVIST
+76,748638,33.24,,BSH,Fejlaflevering,,26,Peter BALLING,Bold erobret,11,Mikkel LANG,,
+77,748638,33.28,16-16,SAH,Mål,1:e,11,Mikkel LANG,,,,1,Mikkel LØVKVIST
+78,748638,34.09,17-16,BSH,Mål,PL,32,Nikolaj LÆSØ,,,,1,Kristoffer LAURSEN
+79,748638,34.16,,SAH,Regelfejl,,6,Kristian BONEFELD,,,,,
+80,748638,34.22,18-16,BSH,Mål,1:e,23,Mads LENBROCH,Assist,14,Alexander LYNGGAARD,1,Kristoffer LAURSEN
+81,748638,35.12,18-17,SAH,Mål,Gbr,3,Kristjan ÖRN KRISTJANSSON,,,,1,Mikkel LØVKVIST
+82,748638,35.42,19-17,BSH,Mål,Gbr,32,Nikolaj LÆSØ,,,,1,Kristoffer LAURSEN
+83,748638,36.15,19-18,SAH,Mål,ST,5,Frederik ARNOLDSEN,Assist,3,Kristjan ÖRN KRISTJANSSON,1,Mikkel LØVKVIST
+84,748638,36.30,20-18,BSH,Mål,2:e,11,Rasmus LAUGE,,,,1,Kristoffer LAURSEN
+85,748638,37.11,20-19,SAH,Mål,PL,20,Morten BALLING,,,,1,Mikkel LØVKVIST
+86,748638,37.30,,BSH,Tilkendt straffe,,4,Patrick BOLDSEN,Forårs. str.,25,Jeppe CIESLAK,,
+87,748638,37.56,21-19,BSH,Mål på straffe,,23,Mads LENBROCH,,,,1,Kristoffer LAURSEN
+88,748638,38.29,21-20,SAH,Mål,ST,5,Frederik ARNOLDSEN,Assist,15,Emil LÆRKE,1,Mikkel LØVKVIST
+89,748638,39.29,,BSH,Skud reddet,PL,32,Nikolaj LÆSØ,,,,12,Magnus BRANDBYGE
+90,748638,39.55,,SAH,Tabt bold,,5,Frederik ARNOLDSEN,,,,,
+91,748638,40.02,,BSH,Skud på stolpe,1:e,19,René Toft HANSEN,,,,12,Magnus BRANDBYGE
+92,748638,40.31,,SAH,Skud på stolpe,VF,25,Jeppe CIESLAK,,,,12,Kasper LARSEN
+93,748638,41.29,22-20,BSH,Mål,Gbr,23,Mads LENBROCH,Assist,11,Rasmus LAUGE,12,Magnus BRANDBYGE
+94,748638,41.45,,SAH,Time out,,,,,,,,
+95,748638,41.58,22-21,SAH,Mål,PL,15,Emil LÆRKE,,,,12,Kasper LARSEN
+96,748638,42.04,23-21,BSH,Mål,2:e,26,Peter BALLING,,,,12,Magnus BRANDBYGE
+97,748638,42.43,23-22,SAH,Mål,ST,28,Morten KAALUND,Assist,32,Fredrik OLSSON,12,Kasper LARSEN
+98,748638,43.34,,BSH,Fejlaflevering,,11,Rasmus LAUGE,,,,,
+99,748638,44.35,23-23,SAH,Mål,VB,20,Morten BALLING,,,,12,Kasper LARSEN
+100,748638,45.07,24-23,BSH,Mål,Gbr,26,Peter BALLING,Assist,11,Rasmus LAUGE,12,Magnus BRANDBYGE
+101,748638,45.42,,SAH,Skud reddet,PL,15,Emil LÆRKE,,,,1,Mikkel LØVKVIST
+102,748638,45.52,,BSH,Skud reddet,2:e,22,Anders ZACHARIASSEN,,,,12,Magnus BRANDBYGE
+103,748638,46.01,,SAH,Regelfejl,,32,Fredrik OLSSON,,,,,
+104,748638,46.34,25-23,BSH,Mål,,,,,,,,
+105,748638,47.08,,SAH,Skud blokeret,PL,32,Fredrik OLSSON,Blok af (ret),19,René Toft HANSEN,,
+106,748638,47.36,,SAH,Skud blokeret,PL,32,Fredrik OLSSON,Blok af (ret),19,René Toft HANSEN,,
+107,748638,47.56,,SAH,Tilkendt straffe,,28,Morten KAALUND,Forårs. str.,23,Mads LENBROCH,,
+108,748638,48.22,,SAH,Straffekast reddet,,23,Morten Hempel JENSEN,,,,1,Mikkel LØVKVIST
+109,748638,48.56,,BSH,Skud på stolpe,PL,32,Nikolaj LÆSØ,Retur,0,,12,Magnus BRANDBYGE
+110,748638,49.14,,BSH,Fejlaflevering,,26,Peter BALLING,,,,,
+111,748638,49.21,,SAH,Regelfejl,,11,Mikkel LANG,,,,,
+112,748638,49.58,,BSH,Time out,,,,,,,,
+113,748638,50.38,,BSH,Skud reddet,VB,26,Peter BALLING,,,,12,Magnus BRANDBYGE
+114,748638,51.15,,SAH,Skud reddet,VF,24,Anton BRAMMING,,,,1,Mikkel LØVKVIST
+115,748638,51.51,,BSH,Skud reddet,HF,4,Patrick BOLDSEN,,,,12,Magnus BRANDBYGE
+116,748638,52.02,25-24,SAH,Mål,2:e,15,Emil LÆRKE,,,,1,Mikkel LØVKVIST
+117,748638,52.52,26-24,BSH,Mål,Gbr,9,Gudmundur Bragi ASTPARSSON,,,,12,Magnus BRANDBYGE
+118,748638,53.48,,SAH,Fejlaflevering,,15,Emil LÆRKE,Bold erobret,23,Mads LENBROCH,,
+119,748638,54.17,,BSH,Skud på stolpe,Gbr,32,Nikolaj LÆSØ,,,,12,Magnus BRANDBYGE
+120,748638,54.27,26-25,SAH,Mål,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,1,Mikkel LØVKVIST
+121,748638,55.16,,BSH,Skud forbi,PL,9,Gudmundur Bragi ASTPARSSON,,,,12,Magnus BRANDBYGE
+122,748638,55.25,,SAH,Skud reddet,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,1,Mikkel LØVKVIST
+123,748638,55.52,,SAH,Advarsel,A,,Nick RASMUSSEN,,,,,
+124,748638,56.37,,BSH,Skud reddet,Gbr,9,Gudmundur Bragi ASTPARSSON,,,,12,Magnus BRANDBYGE
+125,748638,56.48,,SAH,Skud reddet,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,1,Mikkel LØVKVIST
+126,748638,57.25,27-25,BSH,Mål,PL,11,Rasmus LAUGE,,,,12,Magnus BRANDBYGE
+127,748638,57.28,,SAH,Time out,,,,,,,,
+128,748638,57.46,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,Bold erobret,19,René Toft HANSEN,,
+129,748638,58.45,,BSH,Skud på stolpe,PL,11,Rasmus LAUGE,Retur,0,,12,Magnus BRANDBYGE
+130,748638,58.53,,BSH,Time out,,,,,,,,
+131,748638,59.07,,BSH,Tilkendt straffe,,14,Alexander LYNGGAARD,Forårs. str.,5,Frederik ARNOLDSEN,,
+132,748638,59.14,28-25,BSH,Mål på straffe,,23,Mads LENBROCH,,,,12,Magnus BRANDBYGE
+133,748638,59.31,28-26,SAH,Mål,PL,15,Emil LÆRKE,,,,1,Mikkel LØVKVIST
+134,748638,59.55,29-26,BSH,Mål,Gbr,4,Patrick BOLDSEN,Assist,14,Alexander LYNGGAARD,12,Magnus BRANDBYGE

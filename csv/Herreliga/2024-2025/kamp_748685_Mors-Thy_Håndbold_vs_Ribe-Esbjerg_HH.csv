@@ -1,0 +1,129 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748685,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748685,1.25,1-0,MTH,Mål,HB,28,Rasmus MADSEN,,,,1,Niklas KRAFT
+3,748685,2.11,,REH,Fejlaflevering,,4,Elvar ASGEIRSSON,Bold erobret,33,Kasper DIDRIKSEN,,
+4,748685,2.21,2-0,MTH,Mål,1:e,11,Lasse PEDERSEN,,,,1,Niklas KRAFT
+5,748685,2.31,,REH,Tilkendt straffe,,26,Christian TERMANSEN,Forårs. str.,25,Magnus NORLYK,,
+6,748685,2.33,2-1,REH,Mål på straffe,,11,Mathias JØRGENSEN,,,,30,Svend RUGHAVE
+7,748685,3.12,3-1,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,21,Marcus MIDTGAARD,1,Niklas KRAFT
+8,748685,3.27,3-2,REH,Mål,1:e,4,Elvar ASGEIRSSON,,,,30,Svend RUGHAVE
+9,748685,3.40,4-2,MTH,Mål,2:e,28,Rasmus MADSEN,,,,1,Niklas KRAFT
+10,748685,3.51,,REH,Skud reddet,HF,11,Mathias JØRGENSEN,,,,30,Svend RUGHAVE
+11,748685,4.15,5-2,MTH,Mål,2:e,28,Rasmus MADSEN,,,,1,Niklas KRAFT
+12,748685,4.51,5-3,REH,Mål,HF,11,Mathias JØRGENSEN,Assist,81,Alfred JÖNSSON,30,Svend RUGHAVE
+13,748685,5.38,,MTH,Skud på stolpe,HB,28,Rasmus MADSEN,,,,1,Niklas KRAFT
+14,748685,6.28,5-4,REH,Mål,HF,11,Mathias JØRGENSEN,Assist,26,Christian TERMANSEN,30,Svend RUGHAVE
+15,748685,7.22,,MTH,Fejlaflevering,,7,Nichlas HALD,,,,,
+16,748685,8.28,,MTH,Advarsel,,21,Marcus MIDTGAARD,,,,,
+17,748685,9.49,5-5,REH,Mål,VB,81,Alfred JÖNSSON,,,,30,Svend RUGHAVE
+18,748685,9.58,,REH,Udvisning,,17,Andreas SØGAARD,,,,,
+19,748685,10.11,,MTH,Skud reddet,ST,33,Kasper DIDRIKSEN,,,,1,Niklas KRAFT
+20,748685,10.49,5-6,REH,Mål,ST,21,Axel FRANZÉN,Assist,18,Marcus MØRK,30,Svend RUGHAVE
+21,748685,11.08,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,,,,,
+22,748685,11.44,5-7,REH,Mål,HB,4,Elvar ASGEIRSSON,,,,30,Svend RUGHAVE
+23,748685,11.55,6-7,MTH,Mål,2:e,21,Marcus MIDTGAARD,,,,1,Niklas KRAFT
+24,748685,12.28,6-8,REH,Mål,VB,4,Elvar ASGEIRSSON,,,,30,Svend RUGHAVE
+25,748685,13.27,,MTH,Skud reddet,PL,7,Nichlas HALD,,,,1,Niklas KRAFT
+26,748685,13.57,,REH,Regelfejl,,4,Elvar ASGEIRSSON,,,,,
+27,748685,14.49,,MTH,Skud forbi,PL,7,Nichlas HALD,,,,1,Niklas KRAFT
+28,748685,15.46,,REH,Skud reddet,PL,26,Christian TERMANSEN,,,,20,Oliver LARSEN
+29,748685,16.19,,MTH,Skud reddet,PL,28,Rasmus MADSEN,Retur,0,,1,Niklas KRAFT
+30,748685,16.54,,MTH,Skud forbi,PL,21,Marcus MIDTGAARD,,,,1,Niklas KRAFT
+31,748685,17.46,,REH,Regelfejl,,26,Christian TERMANSEN,,,,,
+32,748685,17.52,,MTH,Skud reddet,1:e,25,Magnus NORLYK,,,,1,Niklas KRAFT
+33,748685,18.21,6-9,REH,Mål,ST,27,Andre Sindre AHO,Assist,4,Elvar ASGEIRSSON,20,Oliver LARSEN
+34,748685,18.27,,MTH,Time out,,,,,,,,
+35,748685,18.48,7-9,MTH,Mål,ST,11,Lasse PEDERSEN,Assist,19,Victor NORLYK,1,Niklas KRAFT
+36,748685,19.27,,REH,Fejlaflevering,,27,Andre Sindre AHO,Bold erobret,4,Kasper LINDGREN,,
+37,748685,19.36,8-9,MTH,Mål,1:e,15,Henrik Toft HANSEN,,,,0,
+38,748685,19.59,8-10,REH,Mål,PL,26,Christian TERMANSEN,,,,20,Oliver LARSEN
+39,748685,20.55,9-10,MTH,Mål,VF,25,Magnus NORLYK,Assist,19,Victor NORLYK,1,Niklas KRAFT
+40,748685,21.39,9-11,REH,Mål,HB,26,Christian TERMANSEN,,,,20,Oliver LARSEN
+41,748685,21.51,,MTH,Tilkendt straffe,,21,Marcus MIDTGAARD,Forårs. str.,14,Nicolaj SPANGGAARD,,
+42,748685,22.00,,MTH,Straffekast på stolpe,,11,Lasse PEDERSEN,,,,16,Ágúst BJÖRGVINSSON
+43,748685,22.37,9-12,REH,Mål,ST,17,Andreas SØGAARD,Assist,27,Andre Sindre AHO,20,Oliver LARSEN
+44,748685,23.44,,MTH,Skud reddet,PL,19,Victor NORLYK,,,,1,Niklas KRAFT
+45,748685,24.24,9-13,REH,Mål,VB,27,Andre Sindre AHO,,,,20,Oliver LARSEN
+46,748685,24.35,10-13,MTH,Mål,PL,21,Marcus MIDTGAARD,Assist,28,Rasmus MADSEN,1,Niklas KRAFT
+47,748685,25.13,,REH,Fejlaflevering,,27,Andre Sindre AHO,,,,,
+48,748685,25.38,,MTH,Skud på stolpe,VB,28,Rasmus MADSEN,,,,1,Niklas KRAFT
+49,748685,25.44,,REH,Skud reddet,1:e,31,Morten JØRGENSEN,,,,20,Oliver LARSEN
+50,748685,25.54,,MTH,Fejlaflevering,,28,Rasmus MADSEN,,,,,
+51,748685,25.57,,REH,Skud reddet,1:e,31,Morten JØRGENSEN,,,,20,Oliver LARSEN
+52,748685,26.08,,MTH,Fejlaflevering,,20,Oliver LARSEN,Bold erobret,11,Mathias JØRGENSEN,,
+53,748685,26.19,10-14,REH,Mål,1:e,31,Morten JØRGENSEN,,,,20,Oliver LARSEN
+54,748685,26.41,,MTH,Skud reddet,PL,7,Nichlas HALD,,,,1,Niklas KRAFT
+55,748685,27.51,,REH,Fejlaflevering,,27,Andre Sindre AHO,Bold erobret,25,Magnus NORLYK,,
+56,748685,28.13,,MTH,Skud reddet,HB,9,Kristoffer VESTERGAARD,,,,1,Niklas KRAFT
+57,748685,29.24,,REH,Skud reddet,VB,81,Alfred JÖNSSON,,,,20,Oliver LARSEN
+58,748685,29.52,11-14,MTH,Mål,VF,25,Magnus NORLYK,Assist,10,Mads Svane KNUDSEN,1,Niklas KRAFT
+59,748685,29.56,,REH,Time out,,,,,,,,
+60,748685,30.00,11-15,REH,Mål,HB,26,Christian TERMANSEN,,,,20,Oliver LARSEN
+61,748685,30.00,11-15,,Halvleg,,,,,,,,
+62,748685,30.00,,,Start 2:e halvleg,,,,,,,,
+63,748685,30.28,,REH,Skud reddet,VB,4,Elvar ASGEIRSSON,,,,20,Oliver LARSEN
+64,748685,31.13,,MTH,Skud reddet,HB,9,Kristoffer VESTERGAARD,,,,1,Niklas KRAFT
+65,748685,32.08,11-16,REH,Mål,HB,4,Elvar ASGEIRSSON,,,,20,Oliver LARSEN
+66,748685,32.19,12-16,MTH,Mål,2:e,9,Kristoffer VESTERGAARD,,,,1,Niklas KRAFT
+67,748685,32.53,,REH,Tilkendt straffe,,31,Morten JØRGENSEN,Forårs. str.,10,Mads Svane KNUDSEN,,
+68,748685,32.53,,MTH,Udvisning,,10,Mads Svane KNUDSEN,,,,,
+69,748685,32.55,12-17,REH,Mål på straffe,,11,Mathias JØRGENSEN,,,,20,Oliver LARSEN
+70,748685,34.02,13-17,MTH,Mål,PL,21,Marcus MIDTGAARD,,,,1,Niklas KRAFT
+71,748685,34.11,13-18,REH,Mål,2:e,17,Andreas SØGAARD,,,,0,
+72,748685,34.41,,MTH,Regelfejl,,21,Marcus MIDTGAARD,,,,,
+73,748685,34.47,13-19,REH,Mål,1:e,31,Morten JØRGENSEN,,,,20,Oliver LARSEN
+74,748685,35.11,,MTH,Time out,,,,,,,,
+75,748685,35.33,14-19,MTH,Mål,Gbr,7,Nichlas HALD,Assist,10,Mads Svane KNUDSEN,1,Niklas KRAFT
+76,748685,35.43,14-20,REH,Mål,2:e,17,Andreas SØGAARD,Assist,4,Elvar ASGEIRSSON,20,Oliver LARSEN
+77,748685,35.53,,MTH,Skud forbi,1:e,10,Mads Svane KNUDSEN,,,,1,Niklas KRAFT
+78,748685,36.18,,REH,Regelfejl,,11,Mathias JØRGENSEN,,,,,
+79,748685,36.44,,MTH,Tilkendt straffe,,21,Marcus MIDTGAARD,Forårs. str.,31,Morten JØRGENSEN,,
+80,748685,36.54,15-20,MTH,Mål på straffe,,10,Mads Svane KNUDSEN,,,,16,Ágúst BJÖRGVINSSON
+81,748685,37.39,,REH,Regelfejl,,27,Andre Sindre AHO,,,,,
+82,748685,37.44,16-20,MTH,Mål,1:e,25,Magnus NORLYK,,,,1,Niklas KRAFT
+83,748685,38.21,,REH,Skud på stolpe,PL,27,Andre Sindre AHO,,,,20,Oliver LARSEN
+84,748685,38.43,17-20,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,21,Marcus MIDTGAARD,1,Niklas KRAFT
+85,748685,39.33,,REH,Skud blokeret,VB,4,Elvar ASGEIRSSON,Blokeret af,4,Kasper LINDGREN,,
+86,748685,39.42,18-20,MTH,Mål,1:e,25,Magnus NORLYK,Assist,10,Mads Svane KNUDSEN,1,Niklas KRAFT
+87,748685,39.48,,REH,Time out,,,,,,,,
+88,748685,40.08,,REH,Skud forbi,Gbr,14,Nicolaj SPANGGAARD,,,,20,Oliver LARSEN
+89,748685,40.44,19-20,MTH,Mål,ST,15,Henrik Toft HANSEN,Assist,7,Nichlas HALD,1,Niklas KRAFT
+90,748685,40.56,,REH,Skud forbi,HF,11,Mathias JØRGENSEN,,,,20,Oliver LARSEN
+91,748685,41.54,20-20,MTH,Mål,ST,4,Kasper LINDGREN,Assist,10,Mads Svane KNUDSEN,1,Niklas KRAFT
+92,748685,42.31,,REH,Skud reddet,PL,81,Alfred JÖNSSON,,,,20,Oliver LARSEN
+93,748685,42.41,21-20,MTH,Mål,Gbr,7,Nichlas HALD,,,,1,Niklas KRAFT
+94,748685,42.51,21-21,REH,Mål,1:e,14,Nicolaj SPANGGAARD,,,,20,Oliver LARSEN
+95,748685,42.57,,MTH,Regelfejl,,36,Silas OVERBY,,,,,
+96,748685,43.38,,REH,Skud reddet,HB,14,Nicolaj SPANGGAARD,,,,20,Oliver LARSEN
+97,748685,44.06,22-21,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,1,Niklas KRAFT
+98,748685,44.49,22-22,REH,Mål,PL,14,Nicolaj SPANGGAARD,Assist,27,Andre Sindre AHO,20,Oliver LARSEN
+99,748685,45.14,,MTH,Tabt bold,,10,Mads Svane KNUDSEN,,,,,
+100,748685,46.02,,REH,Skud på stolpe,Gbr,81,Alfred JÖNSSON,,,,20,Oliver LARSEN
+101,748685,46.56,23-22,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,16,Ágúst BJÖRGVINSSON
+102,748685,47.40,23-23,REH,Mål,PL,81,Alfred JÖNSSON,,,,20,Oliver LARSEN
+103,748685,48.15,,MTH,Skud forbi,VB,10,Mads Svane KNUDSEN,,,,16,Ágúst BJÖRGVINSSON
+104,748685,49.31,,MTH,Skud på stolpe,Gbr,28,Rasmus MADSEN,,,,16,Ágúst BJÖRGVINSSON
+105,748685,49.55,23-24,REH,Mål,PL,81,Alfred JÖNSSON,,,,20,Oliver LARSEN
+106,748685,50.34,24-24,MTH,Mål,HB,21,Marcus MIDTGAARD,,,,16,Ágúst BJÖRGVINSSON
+107,748685,51.12,24-25,REH,Mål,HF,11,Mathias JØRGENSEN,Assist,4,Elvar ASGEIRSSON,30,Svend RUGHAVE
+108,748685,51.40,25-25,MTH,Mål,PL,10,Mads Svane KNUDSEN,,,,16,Ágúst BJÖRGVINSSON
+109,748685,51.49,,REH,Fejlaflevering,,31,Morten JØRGENSEN,Bold erobret,28,Rasmus MADSEN,,
+110,748685,52.24,26-25,MTH,Mål,Gbr,7,Nichlas HALD,Assist,10,Mads Svane KNUDSEN,16,Ágúst BJÖRGVINSSON
+111,748685,52.39,,REH,Skud på stolpe,HF,11,Mathias JØRGENSEN,Retur,0,,30,Svend RUGHAVE
+112,748685,52.39,,REH,Tilkendt straffe,,11,Mathias JØRGENSEN,Forårs. str.,25,Magnus NORLYK,,
+113,748685,52.39,,MTH,Udvisning,,25,Magnus NORLYK,,,,,
+114,748685,52.41,26-26,REH,Mål på straffe,,81,Alfred JÖNSSON,,,,30,Svend RUGHAVE
+115,748685,53.39,,MTH,Skud blokeret,VB,21,Marcus MIDTGAARD,Blokeret af,6,Jonathan WÜRTZ,,
+116,748685,54.06,26-27,REH,Mål,HF,11,Mathias JØRGENSEN,Assist,14,Nicolaj SPANGGAARD,30,Svend RUGHAVE
+117,748685,55.11,27-27,MTH,Mål,VB,10,Mads Svane KNUDSEN,,,,1,Niklas KRAFT
+118,748685,55.49,,REH,Regelfejl,,4,Elvar ASGEIRSSON,,,,,
+119,748685,56.27,28-27,MTH,Mål,ST,15,Henrik Toft HANSEN,Assist,10,Mads Svane KNUDSEN,1,Niklas KRAFT
+120,748685,56.38,28-28,REH,Mål,1:e,17,Andreas SØGAARD,Assist,4,Elvar ASGEIRSSON,30,Svend RUGHAVE
+121,748685,57.24,,MTH,Tilkendt straffe,,10,Mads Svane KNUDSEN,Forårs. str.,4,Elvar ASGEIRSSON,,
+122,748685,57.31,29-28,MTH,Mål på straffe,,10,Mads Svane KNUDSEN,,,,1,Niklas KRAFT
+123,748685,58.16,29-29,REH,Mål,ST,17,Andreas SØGAARD,Assist,81,Alfred JÖNSSON,30,Svend RUGHAVE
+124,748685,58.55,,MTH,Skud på stolpe,Gbr,7,Nichlas HALD,,,,1,Niklas KRAFT
+125,748685,59.35,,REH,Time out,,,,,,,,
+126,748685,59.41,,REH,Skud på stolpe,PL,81,Alfred JÖNSSON,,,,30,Svend RUGHAVE
+127,748685,59.51,,MTH,Time out,,,,,,,,
+128,748685,60.00,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,Bold erobret,17,Andreas SØGAARD,,

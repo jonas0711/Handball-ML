@@ -1,0 +1,132 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748671,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748671,0.35,,MTH,Skud på stolpe,HB,28,Rasmus MADSEN,,,,1,Matthias DORGELO
+3,748671,1.15,0-1,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,30,Svend RUGHAVE
+4,748671,1.40,,MTH,Skud reddet,PL,21,Marcus MIDTGAARD,,,,1,Matthias DORGELO
+5,748671,2.15,,SJE,Tilkendt straffe,,18,Morten BJØRNSHAUGE,Forårs. str.,7,Nichlas HALD,,
+6,748671,2.36,,SJE,Straffekast reddet,,11,Nicolaj JØRGENSEN,,,,30,Svend RUGHAVE
+7,748671,3.01,,MTH,Skud reddet,2:e,7,Nichlas HALD,,,,1,Matthias DORGELO
+8,748671,3.14,0-2,SJE,Mål,1:e,23,Tobias OLSEN,,,,30,Svend RUGHAVE
+9,748671,3.41,1-2,MTH,Mål,Gbr,7,Nichlas HALD,Assist,21,Marcus MIDTGAARD,1,Matthias DORGELO
+10,748671,3.57,,MTH,Advarsel,,4,Kasper LINDGREN,,,,,
+11,748671,4.24,,SJE,Regelfejl,,23,Tobias OLSEN,,,,,
+12,748671,4.56,2-2,MTH,Mål,HB,7,Nichlas HALD,,,,1,Matthias DORGELO
+13,748671,5.06,2-3,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,30,Svend RUGHAVE
+14,748671,5.16,,MTH,Fejlaflevering,,7,Nichlas HALD,Bold erobret,28,Patrick VOLZ,,
+15,748671,5.53,,SJE,Skud reddet,Gbr,24,Sebastian AUGUSTINUSSEN,,,,30,Svend RUGHAVE
+16,748671,5.58,,MTH,Skud reddet,2:e,7,Nichlas HALD,,,,1,Matthias DORGELO
+17,748671,6.35,,SJE,Skud reddet,VF,28,Patrick VOLZ,,,,30,Svend RUGHAVE
+18,748671,6.44,3-3,MTH,Mål,1:e,21,Marcus MIDTGAARD,Assist,7,Nichlas HALD,1,Matthias DORGELO
+19,748671,7.21,,SJE,Regelfejl,,29,Magnus FREDRIKSEN,,,,,
+20,748671,7.48,,MTH,Tilkendt straffe,,7,Nichlas HALD,Forårs. str.,18,Morten BJØRNSHAUGE,,
+21,748671,8.03,4-3,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,1,Matthias DORGELO
+22,748671,9.17,4-4,SJE,Mål,VB,11,Nicolaj JØRGENSEN,,,,30,Svend RUGHAVE
+23,748671,9.29,5-4,MTH,Mål,2:e,7,Nichlas HALD,,,,1,Matthias DORGELO
+24,748671,10.05,,SJE,Skud på stolpe,Gbr,29,Magnus FREDRIKSEN,,,,30,Svend RUGHAVE
+25,748671,10.10,6-4,MTH,Mål,1:e,33,Kasper DIDRIKSEN,Assist,28,Rasmus MADSEN,1,Matthias DORGELO
+26,748671,10.21,6-5,SJE,Mål,2:e,29,Magnus FREDRIKSEN,,,,30,Svend RUGHAVE
+27,748671,10.31,7-5,MTH,Mål,2:e,7,Nichlas HALD,,,,1,Matthias DORGELO
+28,748671,12.03,,SJE,Skud reddet,HB,23,Tobias OLSEN,,,,30,Svend RUGHAVE
+29,748671,12.13,8-5,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,28,Rasmus MADSEN,1,Matthias DORGELO
+30,748671,12.20,,SJE,Time out,,,,,,,,
+31,748671,13.00,8-6,SJE,Mål,VB,20,August WIGER,,,,30,Svend RUGHAVE
+32,748671,14.01,9-6,MTH,Mål,HB,28,Rasmus MADSEN,,,,1,Matthias DORGELO
+33,748671,14.34,,SJE,Tabt bold,,11,Nicolaj JØRGENSEN,Bold erobret,15,Henrik Toft HANSEN,,
+34,748671,14.38,10-6,MTH,Mål,1:e,11,Lasse PEDERSEN,Assist,15,Henrik Toft HANSEN,30,Julius STEN
+35,748671,15.17,,SJE,Fejlaflevering,,20,August WIGER,,,,,
+36,748671,15.47,11-6,MTH,Mål,Gbr,7,Nichlas HALD,,,,30,Julius STEN
+37,748671,16.24,11-7,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,20,August WIGER,30,Svend RUGHAVE
+38,748671,17.16,12-7,MTH,Mål,Gbr,28,Rasmus MADSEN,,,,30,Julius STEN
+39,748671,17.52,,SJE,Skud reddet,Gbr,20,August WIGER,,,,30,Svend RUGHAVE
+40,748671,18.03,13-7,MTH,Mål,VF,25,Magnus NORLYK,Assist,19,Victor NORLYK,30,Julius STEN
+41,748671,18.41,,SJE,Skud på stolpe,HF,33,Ebbe STANKIEWICZ,,,,30,Svend RUGHAVE
+42,748671,19.15,,MTH,Regelfejl,,25,Magnus NORLYK,,,,,
+43,748671,19.54,13-8,SJE,Mål,Gbr,29,Magnus FREDRIKSEN,,,,30,Svend RUGHAVE
+44,748671,20.02,,MTH,Skud reddet,2:e,15,Henrik Toft HANSEN,,,,30,Julius STEN
+45,748671,20.44,13-9,SJE,Mål,ST,2,Tobias Gregers SCHMIDT,Assist,11,Nicolaj JØRGENSEN,30,Svend RUGHAVE
+46,748671,21.13,,MTH,Fejlaflevering,,7,Nichlas HALD,,,,,
+47,748671,21.54,13-10,SJE,Mål,HF,33,Ebbe STANKIEWICZ,Assist,11,Nicolaj JØRGENSEN,30,Svend RUGHAVE
+48,748671,22.21,14-10,MTH,Mål,HF,17,Malthe BULL,Assist,28,Rasmus MADSEN,30,Julius STEN
+49,748671,22.56,,SJE,Fejlaflevering,,23,Tobias OLSEN,Bold erobret,17,Malthe BULL,,
+50,748671,23.00,15-10,MTH,Mål,1:e,17,Malthe BULL,,,,0,
+51,748671,23.33,15-11,SJE,Mål,VF,6,Nikolaj SVALASTOG,Assist,20,August WIGER,30,Svend RUGHAVE
+52,748671,23.40,,MTH,Time out,,,,,,,,
+53,748671,24.36,16-11,MTH,Mål,VF,25,Magnus NORLYK,Assist,21,Marcus MIDTGAARD,30,Julius STEN
+54,748671,25.04,,SJE,Skud reddet,Gbr,3,Lucas REHFUS,,,,30,Svend RUGHAVE
+55,748671,25.41,,MTH,Fejlaflevering,,21,Marcus MIDTGAARD,Bold erobret,33,Ebbe STANKIEWICZ,,
+56,748671,26.08,16-12,SJE,Mål,ST,18,Morten BJØRNSHAUGE,Assist,11,Nicolaj JØRGENSEN,30,Svend RUGHAVE
+57,748671,27.01,17-12,MTH,Mål,ST,33,Kasper DIDRIKSEN,,,,30,Julius STEN
+58,748671,27.52,,SJE,Regelfejl,,29,Magnus FREDRIKSEN,,,,,
+59,748671,28.22,18-12,MTH,Mål,Gbr,7,Nichlas HALD,,,,30,Julius STEN
+60,748671,28.55,,SJE,Tilkendt straffe,,29,Magnus FREDRIKSEN,Forårs. str.,15,Henrik Toft HANSEN,,
+61,748671,29.14,18-13,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,30,Svend RUGHAVE
+62,748671,29.57,,MTH,Skud på stolpe,HB,28,Rasmus MADSEN,,,,30,Julius STEN
+63,748671,30.00,,SJE,Fejlaflevering,,30,Julius STEN,,,,,
+64,748671,30.00,18-13,,Halvleg,,,,,,,,
+65,748671,30.00,,,Start 2:e halvleg,,,,,,,,
+66,748671,30.26,,SJE,Skud reddet,PL,29,Magnus FREDRIKSEN,,,,30,Svend RUGHAVE
+67,748671,31.00,19-13,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,1,Matthias DORGELO
+68,748671,31.40,19-14,SJE,Mål,VF,6,Nikolaj SVALASTOG,Assist,29,Magnus FREDRIKSEN,30,Svend RUGHAVE
+69,748671,32.33,,MTH,Skud reddet,PL,7,Nichlas HALD,,,,1,Matthias DORGELO
+70,748671,32.46,,SJE,Skud reddet,HF,33,Ebbe STANKIEWICZ,,,,30,Svend RUGHAVE
+71,748671,33.19,20-14,MTH,Mål,VF,23,Henrik TILSTED,Assist,21,Marcus MIDTGAARD,1,Matthias DORGELO
+72,748671,34.03,20-15,SJE,Mål,PL,11,Nicolaj JØRGENSEN,,,,30,Svend RUGHAVE
+73,748671,34.35,21-15,MTH,Mål,Gbr,28,Rasmus MADSEN,,,,1,Matthias DORGELO
+74,748671,35.08,,SJE,Skud reddet,HF,33,Ebbe STANKIEWICZ,,,,30,Svend RUGHAVE
+75,748671,35.51,22-15,MTH,Mål,PL,7,Nichlas HALD,,,,1,Matthias DORGELO
+76,748671,36.04,,SJE,Time out,,,,,,,,
+77,748671,36.29,22-16,SJE,Mål,HF,24,Sebastian AUGUSTINUSSEN,Assist,29,Magnus FREDRIKSEN,30,Svend RUGHAVE
+78,748671,36.41,,MTH,Skud reddet,HF,11,Lasse PEDERSEN,,,,1,Matthias DORGELO
+79,748671,37.15,,SJE,Regelfejl,,23,Tobias OLSEN,,,,,
+80,748671,37.42,23-16,MTH,Mål,VB,21,Marcus MIDTGAARD,,,,1,Matthias DORGELO
+81,748671,38.18,23-17,SJE,Mål,Gbr,23,Tobias OLSEN,,,,30,Svend RUGHAVE
+82,748671,39.01,,MTH,Skud blokeret,PL,21,Marcus MIDTGAARD,Blokeret af,2,Tobias Gregers SCHMIDT,,
+83,748671,39.41,23-18,SJE,Mål,ST,2,Tobias Gregers SCHMIDT,Assist,29,Magnus FREDRIKSEN,30,Svend RUGHAVE
+84,748671,40.30,,MTH,Skud reddet,VF,23,Henrik TILSTED,,,,1,Matthias DORGELO
+85,748671,40.42,,SJE,Skud på stolpe,1:e,24,Sebastian AUGUSTINUSSEN,,,,30,Svend RUGHAVE
+86,748671,41.21,,MTH,Skud reddet,ST,15,Henrik Toft HANSEN,Retur,0,,1,Matthias DORGELO
+87,748671,41.55,24-18,MTH,Mål,Gbr,7,Nichlas HALD,,,,1,Matthias DORGELO
+88,748671,42.08,,SJE,Tilkendt straffe,,18,Morten BJØRNSHAUGE,Forårs. str.,21,Marcus MIDTGAARD,,
+89,748671,42.29,24-19,SJE,Mål på straffe,,11,Nicolaj JØRGENSEN,,,,30,Svend RUGHAVE
+90,748671,43.32,,MTH,Skud på stolpe,Gbr,7,Nichlas HALD,,,,1,Matthias DORGELO
+91,748671,43.40,24-20,SJE,Mål,1:e,23,Tobias OLSEN,,,,30,Svend RUGHAVE
+92,748671,43.46,,MTH,Time out,,,,,,,,
+93,748671,44.07,,SJE,Udvisning,,2,Tobias Gregers SCHMIDT,,,,,
+94,748671,44.37,,MTH,Skud reddet,Gbr,21,Marcus MIDTGAARD,,,,1,Matthias DORGELO
+95,748671,45.13,,SJE,Skud på stolpe,Gbr,11,Nicolaj JØRGENSEN,,,,30,Svend RUGHAVE
+96,748671,45.19,25-20,MTH,Mål,1:e,11,Lasse PEDERSEN,,,,0,
+97,748671,45.51,,SJE,Skud reddet,VF,33,Ebbe STANKIEWICZ,,,,30,Svend RUGHAVE
+98,748671,46.03,,MTH,Regelfejl,,36,Silas OVERBY,,,,,
+99,748671,46.40,,SJE,Tilkendt straffe,,2,Tobias Gregers SCHMIDT,Forårs. str.,15,Henrik Toft HANSEN,,
+100,748671,46.47,,SJE,Straffekast reddet,,11,Nicolaj JØRGENSEN,,,,20,Oliver LARSEN
+101,748671,47.26,,MTH,Skud på stolpe,Gbr,28,Rasmus MADSEN,,,,1,Matthias DORGELO
+102,748671,47.47,,SJE,Fejlaflevering,,23,Tobias OLSEN,,,,,
+103,748671,48.22,26-20,MTH,Mål,Gbr,21,Marcus MIDTGAARD,Assist,10,Mads Svane KNUDSEN,1,Matthias DORGELO
+104,748671,48.57,,,,,,,,,,,
+105,748671,49.07,26-21,SJE,Mål på straffe,,28,Patrick VOLZ,,,,20,Oliver LARSEN
+106,748671,49.52,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,Bold erobret,11,Nicolaj JØRGENSEN,,
+107,748671,49.55,26-22,SJE,Mål,1:e,11,Nicolaj JØRGENSEN,,,,,
+108,748671,50.21,,MTH,Regelfejl,,21,Marcus MIDTGAARD,,,,,
+109,748671,50.27,,SJE,Skud forbi,1:e,1,Matthias DORGELO,,,,30,Svend RUGHAVE
+110,748671,51.35,,MTH,Skud blokeret,PL,7,Nichlas HALD,Blok af (ret),18,Morten BJØRNSHAUGE,,
+111,748671,51.58,,MTH,Skud blokeret,HB,28,Rasmus MADSEN,Blokeret af,29,Magnus FREDRIKSEN,,
+112,748671,52.27,,SJE,Skud reddet,PL,23,Tobias OLSEN,,,,30,Svend RUGHAVE
+113,748671,53.02,,MTH,Regelfejl,,7,Nichlas HALD,,,,,
+114,748671,53.12,,SJE,Regelfejl,,2,Tobias Gregers SCHMIDT,,,,,
+115,748671,53.42,27-22,MTH,Mål,PL,28,Rasmus MADSEN,,,,1,Matthias DORGELO
+116,748671,54.15,27-23,SJE,Mål,Gbr,23,Tobias OLSEN,,,,30,Svend RUGHAVE
+117,748671,55.06,28-23,MTH,Mål,PL,19,Victor NORLYK,,,,1,Matthias DORGELO
+118,748671,55.32,28-24,SJE,Mål,HF,24,Sebastian AUGUSTINUSSEN,Assist,23,Tobias OLSEN,30,Svend RUGHAVE
+119,748671,56.04,,MTH,Fejlaflevering,,19,Victor NORLYK,,,,,
+120,748671,56.13,,SJE,Regelfejl,,24,Sebastian AUGUSTINUSSEN,,,,,
+121,748671,57.00,,MTH,Skud blokeret,PL,7,Nichlas HALD,Blok af (ret),18,Morten BJØRNSHAUGE,,
+122,748671,57.17,,MTH,Skud blokeret,PL,7,Nichlas HALD,Blok af (ret),2,Tobias Gregers SCHMIDT,,
+123,748671,57.28,,MTH,Fejlaflevering,,19,Victor NORLYK,,,,,
+124,748671,57.38,28-25,SJE,Mål,2:e,11,Nicolaj JØRGENSEN,,,,30,Svend RUGHAVE
+125,748671,58.11,,MTH,Tabt bold,,21,Marcus MIDTGAARD,Bold erobret,23,Tobias OLSEN,,
+126,748671,58.18,,SJE,Skud reddet,1:e,18,Morten BJØRNSHAUGE,,,,30,Svend RUGHAVE
+127,748671,58.47,29-25,MTH,Mål,Gbr,23,Henrik TILSTED,,,,1,Matthias DORGELO
+128,748671,59.07,,SJE,Skud reddet,VF,6,Nikolaj SVALASTOG,,,,30,Svend RUGHAVE
+129,748671,59.15,,SJE,Udvisning,,1,Matthias DORGELO,,,,,
+130,748671,59.39,,MTH,Time out,,,,,,,,
+131,748671,60.00,30-25,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,7,Nichlas HALD,30,Julius STEN

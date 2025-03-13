@@ -1,0 +1,139 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748225,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748225,0.51,1-0,SKB,Mål,Gbr,11,Mia LAGUMDZIJA,,,,1,Annika FRIDHEIM
+3,748225,1.25,1-1,EHA,Mål,Gbr,21,Frederikke GULMARK,,,,12,Sarah ERNEBJERG
+4,748225,1.49,,SKB,Skud reddet,PL,14,Verona REXHEPI,,,,1,Annika FRIDHEIM
+5,748225,2.20,1-2,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,12,Sarah ERNEBJERG
+6,748225,2.25,,EHA,Udvisning,,7,Marlene DAHLMANN,,,,,
+7,748225,2.48,2-2,SKB,Mål,ST,2,Boline LAURSEN,Assist,15,Astrid LESLIE,1,Annika FRIDHEIM
+8,748225,3.36,2-3,EHA,Mål,VB,21,Frederikke GULMARK,,,,12,Sarah ERNEBJERG
+9,748225,4.07,,SKB,Tabt bold,,44,Nicoline LAURITSEN,,,,,
+10,748225,4.36,,EHA,Skud reddet,Gbr,23,Silje BRØNS,,,,12,Sarah ERNEBJERG
+11,748225,5.09,3-3,SKB,Mål,Gbr,11,Mia LAGUMDZIJA,,,,1,Annika FRIDHEIM
+12,748225,5.10,,EHA,Udvisning,,4,Cecilie TERMANSEN,,,,,
+13,748225,5.30,,EHA,Skud reddet,VB,21,Frederikke GULMARK,,,,12,Sarah ERNEBJERG
+14,748225,5.36,4-3,SKB,Mål,1:e,14,Verona REXHEPI,,,,0,
+15,748225,6.25,,EHA,Skud reddet,HF,7,Marlene DAHLMANN,,,,12,Sarah ERNEBJERG
+16,748225,6.42,,SKB,Regelfejl,,44,Nicoline LAURITSEN,,,,,
+17,748225,6.48,4-4,EHA,Mål,1:e,30,Clara LERBY,Assist,22,Mirja LYNGSØ,12,Sarah ERNEBJERG
+18,748225,7.06,5-4,SKB,Mål,HF,4,Emilie BECH,Assist,15,Astrid LESLIE,1,Annika FRIDHEIM
+19,748225,7.37,,EHA,Skud reddet,Gbr,23,Silje BRØNS,Retur,7,Marlene DAHLMANN,12,Sarah ERNEBJERG
+20,748225,7.58,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+21,748225,8.05,,SKB,Skud forbi,2:e,14,Verona REXHEPI,,,,1,Annika FRIDHEIM
+22,748225,8.19,,EHA,Regelfejl,,3,Liv SVEINBJØRNSDÓTTIR,,,,,
+23,748225,8.42,6-4,SKB,Mål,ST,2,Boline LAURSEN,Assist,11,Mia LAGUMDZIJA,1,Annika FRIDHEIM
+24,748225,9.15,,EHA,Tilkendt straffe,,22,Mirja LYNGSØ,Forårs. str.,14,Verona REXHEPI,,
+25,748225,9.15,,SKB,Udvisning,,14,Verona REXHEPI,,,,,
+26,748225,9.17,6-5,EHA,Mål på straffe,,30,Clara LERBY,,,,12,Sarah ERNEBJERG
+27,748225,10.05,,SKB,Skud reddet,Gbr,9,Cecilie Frydendahl NØRSKOV,,,,1,Annika FRIDHEIM
+28,748225,10.09,6-6,EHA,Mål,1:e,10,Sofie LASSEN,,,,0,
+29,748225,10.48,7-6,SKB,Mål,ST,2,Boline LAURSEN,Assist,44,Nicoline LAURITSEN,1,Annika FRIDHEIM
+30,748225,11.34,7-7,EHA,Mål,PL,23,Silje BRØNS,,,,12,Sarah ERNEBJERG
+31,748225,12.07,8-7,SKB,Mål,VF,25,Astrid LYNNERUP,Assist,44,Nicoline LAURITSEN,1,Annika FRIDHEIM
+32,748225,12.15,,EHA,Fejlaflevering,,10,Sofie LASSEN,Bold erobret,14,Verona REXHEPI,,
+33,748225,12.33,,SKB,Tabt bold,,44,Nicoline LAURITSEN,,,,,
+34,748225,13.06,,EHA,Tilkendt straffe,,22,Mirja LYNGSØ,Forårs. str.,2,Boline LAURSEN,,
+35,748225,13.23,8-8,EHA,Mål på straffe,,30,Clara LERBY,,,,12,Sarah ERNEBJERG
+36,748225,13.53,,SKB,Skud blokeret,PL,44,Nicoline LAURITSEN,Blokeret af,22,Mirja LYNGSØ,,
+37,748225,13.59,,EHA,Tabt bold,,30,Clara LERBY,,,,,
+38,748225,14.41,,SKB,Skud blokeret,PL,11,Mia LAGUMDZIJA,Blokeret af,10,Sofie LASSEN,,
+39,748225,15.54,,EHA,Skud forbi,Gbr,5,Anna Hviid BANG,,,,12,Sarah ERNEBJERG
+40,748225,16.26,,SKB,Skud blokeret,PL,14,Verona REXHEPI,Blokeret af,22,Mirja LYNGSØ,,
+41,748225,16.33,,EHA,Fejlaflevering,,16,Johanne GRAUGAARD,Bold erobret,10,Filippa NEDOVIC,,
+42,748225,17.11,9-8,SKB,Mål,PL,11,Mia LAGUMDZIJA,,,,16,Johanne GRAUGAARD
+43,748225,17.23,9-9,EHA,Mål,2:e,3,Liv SVEINBJØRNSDÓTTIR,,,,12,Sarah ERNEBJERG
+44,748225,18.07,10-9,SKB,Mål,ST,2,Boline LAURSEN,Assist,14,Verona REXHEPI,16,Johanne GRAUGAARD
+45,748225,18.44,10-10,EHA,Mål,VF,30,Clara LERBY,Assist,19,Mette BRANDT,12,Sarah ERNEBJERG
+46,748225,19.20,11-10,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Johanne GRAUGAARD
+47,748225,19.32,11-11,EHA,Mål,2:e,10,Sofie LASSEN,,,,12,Sarah ERNEBJERG
+48,748225,20.55,12-11,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Johanne GRAUGAARD
+49,748225,21.24,,EHA,Fejlaflevering,,19,Mette BRANDT,Bold erobret,25,Astrid LYNNERUP,,
+50,748225,21.25,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,10,Sofie LASSEN,,
+51,748225,21.28,,EHA,Time out,,,,,,,,
+52,748225,21.58,,EHA,Skud reddet,Gbr,21,Frederikke GULMARK,,,,12,Sarah ERNEBJERG
+53,748225,22.11,,SKB,Skud reddet,Gbr,11,Mia LAGUMDZIJA,,,,16,Johanne GRAUGAARD
+54,748225,22.19,12-12,EHA,Mål,2:e,7,Marlene DAHLMANN,Assist,3,Liv SVEINBJØRNSDÓTTIR,12,Sarah ERNEBJERG
+55,748225,23.24,,SKB,Passivt spil,,,,,,,,
+56,748225,23.32,12-13,EHA,Mål,2:e,3,Liv SVEINBJØRNSDÓTTIR,,,,12,Sarah ERNEBJERG
+57,748225,24.31,13-13,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Johanne GRAUGAARD
+58,748225,25.11,,EHA,Skud blokeret,PL,3,Liv SVEINBJØRNSDÓTTIR,Blokeret af,14,Verona REXHEPI,,
+59,748225,25.17,14-13,SKB,Mål,1:e,25,Astrid LYNNERUP,,,,16,Johanne GRAUGAARD
+60,748225,25.54,,EHA,Skud reddet,Gbr,21,Frederikke GULMARK,,,,12,Sarah ERNEBJERG
+61,748225,25.58,,SKB,Tilkendt straffe,,14,Verona REXHEPI,Forårs. str.,23,Silje BRØNS,,
+62,748225,25.58,,EHA,Udvisning,,23,Silje BRØNS,,,,,
+63,748225,26.01,15-13,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,16,Johanne GRAUGAARD
+64,748225,27.08,,EHA,Skud på stolpe,PL,19,Mette BRANDT,,,,12,Sarah ERNEBJERG
+65,748225,27.30,16-13,SKB,Mål,HF,4,Emilie BECH,Assist,44,Nicoline LAURITSEN,16,Johanne GRAUGAARD
+66,748225,28.00,,EHA,Fejlaflevering,,21,Frederikke GULMARK,Bold erobret,2,Boline LAURSEN,,
+67,748225,28.34,,SKB,Tilkendt straffe,,7,Annika Solberg DALSAGER,Forårs. str.,5,Anna Hviid BANG,,
+68,748225,28.57,,SKB,Straffekast reddet,,11,Mia LAGUMDZIJA,,,,16,Johanne GRAUGAARD
+69,748225,29.44,,EHA,Skud reddet,Gbr,5,Anna Hviid BANG,,,,12,Sarah ERNEBJERG
+70,748225,29.49,,SKB,Time out,,,,,,,,
+71,748225,30.00,,SKB,Skud reddet,PL,15,Astrid LESLIE,,,,16,Johanne GRAUGAARD
+72,748225,30.00,16-13,,Halvleg,,,,,,,,
+73,748225,30.00,,,Start 2:e halvleg,,,,,,,,
+74,748225,30.27,,EHA,Regelfejl,,23,Silje BRØNS,,,,,
+75,748225,30.35,,SKB,Skud reddet,2:e,4,Emilie BECH,,,,16,Johanne GRAUGAARD
+76,748225,31.42,,EHA,Skud forbi,VB,21,Frederikke GULMARK,,,,12,Sarah ERNEBJERG
+77,748225,32.17,17-13,SKB,Mål,Gbr,7,Annika Solberg DALSAGER,,,,16,Johanne GRAUGAARD
+78,748225,32.54,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+79,748225,33.36,18-13,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,44,Nicoline LAURITSEN,16,Johanne GRAUGAARD
+80,748225,34.25,,EHA,Fejlaflevering,,23,Silje BRØNS,,,,,
+81,748225,34.53,,SKB,Skud blokeret,PL,14,Verona REXHEPI,Blokeret af,21,Frederikke GULMARK,,
+82,748225,34.58,,EHA,Fejlaflevering,,16,Johanne GRAUGAARD,Bold erobret,44,Nicoline LAURITSEN,,
+83,748225,35.10,,SKB,Skud på stolpe,Gbr,44,Nicoline LAURITSEN,,,,16,Johanne GRAUGAARD
+84,748225,35.17,18-14,EHA,Mål,2:e,10,Sofie LASSEN,,,,12,Sarah ERNEBJERG
+85,748225,35.51,19-14,SKB,Mål,PL,44,Nicoline LAURITSEN,,,,16,Johanne GRAUGAARD
+86,748225,36.05,19-15,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,10,Sofie LASSEN,12,Sarah ERNEBJERG
+87,748225,36.36,20-15,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Johanne GRAUGAARD
+88,748225,36.44,20-16,EHA,Mål,2:e,7,Marlene DAHLMANN,Assist,3,Liv SVEINBJØRNSDÓTTIR,12,Sarah ERNEBJERG
+89,748225,37.15,21-16,SKB,Mål,Gbr,44,Nicoline LAURITSEN,,,,16,Johanne GRAUGAARD
+90,748225,37.30,21-17,EHA,Mål,VB,21,Frederikke GULMARK,,,,12,Sarah ERNEBJERG
+91,748225,38.00,,SKB,Tabt bold,,14,Verona REXHEPI,,,,,
+92,748225,38.03,,EHA,Fejlaflevering,,10,Sofie LASSEN,,,,,
+93,748225,38.13,,SKB,Skud på stolpe,VB,7,Annika Solberg DALSAGER,,,,16,Johanne GRAUGAARD
+94,748225,38.56,,EHA,Skud reddet,ST,4,Cecilie TERMANSEN,Retur,7,Marlene DAHLMANN,12,Sarah ERNEBJERG
+95,748225,39.31,,EHA,Skud reddet,HB,5,Anna Hviid BANG,,,,12,Sarah ERNEBJERG
+96,748225,40.03,,SKB,Tilkendt straffe,,14,Verona REXHEPI,Forårs. str.,7,Marlene DAHLMANN,,
+97,748225,40.03,,EHA,Udvisning,,7,Marlene DAHLMANN,,,,,
+98,748225,40.07,,SKB,Straffekast reddet,,25,Astrid LYNNERUP,,,,16,Johanne GRAUGAARD
+99,748225,41.10,21-18,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,12,Sarah ERNEBJERG
+100,748225,41.31,22-18,SKB,Mål,Gbr,44,Nicoline LAURITSEN,Assist,15,Astrid LESLIE,16,Johanne GRAUGAARD
+101,748225,42.03,,EHA,Tilkendt straffe,,19,Mette BRANDT,Forårs. str.,2,Boline LAURSEN,,
+102,748225,42.10,22-19,EHA,Mål på straffe,,30,Clara LERBY,,,,23,Stine ALMIND
+103,748225,42.44,,SKB,Skud reddet,HF,4,Emilie BECH,,,,16,Johanne GRAUGAARD
+104,748225,43.54,,SKB,Skud reddet,PL,14,Verona REXHEPI,,,,16,Johanne GRAUGAARD
+105,748225,44.10,,EHA,Time out,,,,,,,,
+106,748225,44.20,22-20,EHA,Mål,VF,30,Clara LERBY,Assist,22,Mirja LYNGSØ,12,Sarah ERNEBJERG
+107,748225,44.50,23-20,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,44,Nicoline LAURITSEN,16,Johanne GRAUGAARD
+108,748225,45.27,23-21,EHA,Mål,HF,28,Maiken SKOV,Assist,19,Mette BRANDT,12,Sarah ERNEBJERG
+109,748225,46.13,,SKB,Skud reddet,HF,4,Emilie BECH,,,,16,Johanne GRAUGAARD
+110,748225,46.42,23-22,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,22,Mirja LYNGSØ,1,Isabella MATHORNE
+111,748225,47.37,24-22,SKB,Mål,PL,14,Verona REXHEPI,,,,16,Johanne GRAUGAARD
+112,748225,48.11,24-23,EHA,Mål,HF,28,Maiken SKOV,Assist,23,Silje BRØNS,1,Isabella MATHORNE
+113,748225,48.27,,SKB,Time out,,,,,,,,
+114,748225,49.15,25-23,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,44,Nicoline LAURITSEN,16,Johanne GRAUGAARD
+115,748225,50.06,,EHA,Tilkendt straffe,,23,Silje BRØNS,Forårs. str.,44,Nicoline LAURITSEN,,
+116,748225,50.17,25-24,EHA,Mål på straffe,,30,Clara LERBY,,,,1,Isabella MATHORNE
+117,748225,51.04,26-24,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,44,Nicoline LAURITSEN,16,Johanne GRAUGAARD
+118,748225,51.26,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+119,748225,51.56,,SKB,Skud forbi,Gbr,44,Nicoline LAURITSEN,,,,16,Johanne GRAUGAARD
+120,748225,52.35,26-25,EHA,Mål,HF,28,Maiken SKOV,Assist,5,Anna Hviid BANG,1,Isabella MATHORNE
+121,748225,53.08,27-25,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,44,Nicoline LAURITSEN,16,Johanne GRAUGAARD
+122,748225,53.33,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+123,748225,54.13,28-25,SKB,Mål,Gbr,44,Nicoline LAURITSEN,Assist,11,Mia LAGUMDZIJA,16,Johanne GRAUGAARD
+124,748225,54.25,,EHA,Time out,,,,,,,,
+125,748225,54.37,28-26,EHA,Mål,Gbr,23,Silje BRØNS,,,,1,Isabella MATHORNE
+126,748225,54.47,,SKB,Skud reddet,1:e,14,Verona REXHEPI,,,,16,Johanne GRAUGAARD
+127,748225,55.09,28-27,EHA,Mål,Gbr,23,Silje BRØNS,,,,1,Isabella MATHORNE
+128,748225,55.47,29-27,SKB,Mål,ST,22,Anne-Sofie FILTENBORG,Assist,44,Nicoline LAURITSEN,16,Johanne GRAUGAARD
+129,748225,56.18,29-28,EHA,Mål,Gbr,5,Anna Hviid BANG,,,,23,Stine ALMIND
+130,748225,56.43,30-28,SKB,Mål,VB,14,Verona REXHEPI,,,,16,Johanne GRAUGAARD
+131,748225,57.17,,EHA,Regelfejl,,5,Anna Hviid BANG,,,,,
+132,748225,57.53,31-28,SKB,Mål,Gbr,11,Mia LAGUMDZIJA,,,,1,Annika FRIDHEIM
+133,748225,58.08,31-29,EHA,Mål,2:e,22,Mirja LYNGSØ,Assist,21,Frederikke GULMARK,23,Stine ALMIND
+134,748225,58.35,32-29,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,44,Nicoline LAURITSEN,1,Annika FRIDHEIM
+135,748225,58.46,,EHA,Skud reddet,2:e,21,Frederikke GULMARK,,,,23,Stine ALMIND
+136,748225,59.22,,SKB,Regelfejl,,11,Mia LAGUMDZIJA,,,,,
+137,748225,59.56,,EHA,Tilkendt straffe,,19,Mette BRANDT,Forårs. str.,10,Filippa NEDOVIC,,
+138,748225,60.00,32-30,EHA,Mål på straffe,,30,Clara LERBY,,,,23,Stine ALMIND

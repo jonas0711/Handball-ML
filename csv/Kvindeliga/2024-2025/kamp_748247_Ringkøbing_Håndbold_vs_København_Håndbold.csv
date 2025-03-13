@@ -1,0 +1,157 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748247,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748247,0.41,,RIN,Fejlaflevering,,10,Frida Høgaard NIELSEN,,,,,
+3,748247,1.23,,KBH,Skud reddet,PL,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+4,748247,1.49,1-0,RIN,Mål,VB,3,Maria Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+5,748247,2.18,1-1,KBH,Mål,HF,5,Clara SKØTT,Assist,21,Helene KINDBERG,16,Stephanie ANDERSEN
+6,748247,2.56,,RIN,Tilkendt straffe,,23,Nanna HINNERFELDT,Forårs. str.,10,Pernille BRANDENBORG,,
+7,748247,3.09,2-1,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+8,748247,3.39,2-2,KBH,Mål,Gbr,11,Martha NICKELSEN,Assist,21,Helene KINDBERG,16,Stephanie ANDERSEN
+9,748247,3.54,,RIN,Skud reddet,ST,23,Nanna HINNERFELDT,,,,2,Bianca SCHANSSEMA
+10,748247,4.41,2-3,KBH,Mål,Gbr,15,Emma NAVNE,Assist,21,Helene KINDBERG,16,Stephanie ANDERSEN
+11,748247,4.52,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,,,,,
+12,748247,4.57,,KBH,Skud reddet,2:e,7,Emilie Ytting PEDERSEN,,,,16,Stephanie ANDERSEN
+13,748247,5.17,,KBH,Advarsel,,17,Tabea SCHMID,,,,,
+14,748247,5.36,,RIN,Skud reddet,Gbr,3,Maria Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+15,748247,5.44,2-4,KBH,Mål,2:e,21,Helene KINDBERG,Assist,15,Emma NAVNE,16,Stephanie ANDERSEN
+16,748247,6.14,3-4,RIN,Mål,PL,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+17,748247,6.23,,KBH,Skud forbi,2:e,15,Emma NAVNE,,,,16,Stephanie ANDERSEN
+18,748247,6.35,4-4,RIN,Mål,Gbr,3,Maria Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+19,748247,7.33,4-5,KBH,Mål,VB,11,Martha NICKELSEN,,,,16,Stephanie ANDERSEN
+20,748247,8.04,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,,,,,
+21,748247,8.30,4-6,KBH,Mål,ST,17,Tabea SCHMID,Assist,15,Emma NAVNE,16,Stephanie ANDERSEN
+22,748247,8.39,,RIN,Tilkendt straffe,,23,Nanna HINNERFELDT,Forårs. str.,17,Tabea SCHMID,,
+23,748247,8.39,,KBH,Udvisning,,17,Tabea SCHMID,,,,,
+24,748247,8.41,5-6,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+25,748247,9.17,5-7,KBH,Mål,PL,15,Emma NAVNE,,,,16,Stephanie ANDERSEN
+26,748247,9.30,,RIN,Skud reddet,2:e,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+27,748247,9.59,,KBH,Skud reddet,Gbr,11,Martha NICKELSEN,,,,16,Stephanie ANDERSEN
+28,748247,10.05,6-7,RIN,Mål,1:e,15,Jane MEJLVANG,,,,,
+29,748247,10.35,6-8,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+30,748247,10.44,,RIN,Fejlaflevering,,10,Frida Høgaard NIELSEN,,,,,
+31,748247,11.09,6-9,KBH,Mål,HB,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+32,748247,11.39,7-9,RIN,Mål,VB,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+33,748247,12.10,7-10,KBH,Mål,PL,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+34,748247,12.50,8-10,RIN,Mål,Gbr,3,Maria Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+35,748247,13.52,,KBH,Skud reddet,ST,5,Clara SKØTT,,,,16,Stephanie ANDERSEN
+36,748247,14.21,9-10,RIN,Mål,Gbr,20,Stine Opstrup KRISTENSEN,,,,2,Bianca SCHANSSEMA
+37,748247,14.46,9-11,KBH,Mål,PL,15,Emma NAVNE,,,,16,Stephanie ANDERSEN
+38,748247,15.19,,RIN,Skud reddet,PL,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+39,748247,16.13,,KBH,Fejlaflevering,,21,Helene KINDBERG,,,,,
+40,748247,16.21,10-11,RIN,Mål,1:e,18,Emilie ROSBORG,Assist,16,Stephanie ANDERSEN,2,Bianca SCHANSSEMA
+41,748247,16.54,,KBH,Fejlaflevering,,15,Emma NAVNE,Bold erobret,5,Caroline SVARRE,,
+42,748247,17.45,,RIN,Tilkendt straffe,,20,Stine Opstrup KRISTENSEN,Forårs. str.,10,Pernille BRANDENBORG,,
+43,748247,17.49,11-11,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,20,Anne Christine BOSSEN
+44,748247,18.14,,KBH,Tilkendt straffe,,15,Emma NAVNE,Forårs. str.,20,Stine Opstrup KRISTENSEN,,
+45,748247,18.14,,RIN,Udvisning,,20,Stine Opstrup KRISTENSEN,,,,,
+46,748247,18.18,11-12,KBH,Mål på straffe,,17,Tabea SCHMID,,,,16,Stephanie ANDERSEN
+47,748247,19.24,,RIN,Skud reddet,VB,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+48,748247,19.48,11-13,KBH,Mål,HF,5,Clara SKØTT,Assist,15,Emma NAVNE,16,Stephanie ANDERSEN
+49,748247,20.27,12-13,RIN,Mål,Gbr,10,Frida Høgaard NIELSEN,,,,2,Bianca SCHANSSEMA
+50,748247,21.03,12-14,KBH,Mål,Gbr,4,Catharina MOLENAAR,Assist,15,Emma NAVNE,16,Stephanie ANDERSEN
+51,748247,21.14,,RIN,Skud reddet,2:e,10,Frida Høgaard NIELSEN,,,,2,Bianca SCHANSSEMA
+52,748247,21.46,12-15,KBH,Mål,VF,7,Emilie Ytting PEDERSEN,Assist,4,Catharina MOLENAAR,16,Stephanie ANDERSEN
+53,748247,22.20,,RIN,Skud på stolpe,PL,2,Cecilie BJERRE,Retur,0,,2,Bianca SCHANSSEMA
+54,748247,22.44,,RIN,Tilkendt straffe,,23,Nanna HINNERFELDT,Forårs. str.,10,Pernille BRANDENBORG,,
+55,748247,22.44,,KBH,Udvisning,,10,Pernille BRANDENBORG,,,,,
+56,748247,22.46,13-15,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+57,748247,23.19,13-16,KBH,Mål,Gbr,4,Catharina MOLENAAR,Assist,15,Emma NAVNE,16,Stephanie ANDERSEN
+58,748247,23.24,,RIN,Time out,,,,,,,,
+59,748247,23.33,14-16,RIN,Mål,Gbr,20,Stine Opstrup KRISTENSEN,,,,2,Bianca SCHANSSEMA
+60,748247,24.11,,KBH,Regelfejl,,21,Helene KINDBERG,,,,,
+61,748247,24.15,,RIN,Skud forbi,1:e,8,Camilla PEDERSEN,,,,0,
+62,748247,24.40,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+63,748247,25.14,,RIN,Skud blokeret,PL,2,Cecilie BJERRE,Blokeret af,17,Tabea SCHMID,,
+64,748247,25.21,14-17,KBH,Mål,2:e,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+65,748247,25.50,,RIN,Skud reddet,PL,2,Cecilie BJERRE,,,,2,Bianca SCHANSSEMA
+66,748247,26.26,,KBH,Skud forbi,VB,15,Emma NAVNE,,,,16,Stephanie ANDERSEN
+67,748247,27.27,15-17,RIN,Mål,Gbr,2,Cecilie BJERRE,,,,2,Bianca SCHANSSEMA
+68,748247,27.36,,KBH,Tilkendt straffe,,17,Tabea SCHMID,Forårs. str.,5,Caroline SVARRE,,
+69,748247,27.36,,RIN,Udvisning,,5,Caroline SVARRE,,,,,
+70,748247,27.39,15-18,KBH,Mål på straffe,,17,Tabea SCHMID,,,,88,Rakul WARDUM
+71,748247,28.33,,RIN,Fejlaflevering,,15,Jane MEJLVANG,,,,,
+72,748247,28.37,15-19,KBH,Mål,1:e,10,Pernille BRANDENBORG,Assist,10,Pernille BRANDENBORG,16,Stephanie ANDERSEN
+73,748247,29.13,,RIN,Skud reddet,VB,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+74,748247,29.19,15-20,KBH,Mål,1:e,10,Pernille BRANDENBORG,Assist,2,Bianca SCHANSSEMA,16,Stephanie ANDERSEN
+75,748247,29.52,,RIN,Skud reddet,PL,2,Cecilie BJERRE,Retur,0,,2,Bianca SCHANSSEMA
+76,748247,29.52,,RIN,Skud reddet,HF,22,Sofie ØSTERGAARD,,,,2,Bianca SCHANSSEMA
+77,748247,29.54,,KBH,Time out,,,,,,,,
+78,748247,29.59,15-21,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+79,748247,30.00,15-21,,Halvleg,,,,,,,,
+80,748247,30.00,,,Start 2:e halvleg,,,,,,,,
+81,748247,30.35,,KBH,Fejlaflevering,,21,Helene KINDBERG,Bold erobret,15,Jane MEJLVANG,,
+82,748247,30.40,,RIN,Skud reddet,2:e,22,Sofie ØSTERGAARD,,,,2,Bianca SCHANSSEMA
+83,748247,30.53,,KBH,Fejlaflevering,,15,Emma NAVNE,Bold erobret,23,Nanna HINNERFELDT,,
+84,748247,30.56,16-21,RIN,Mål,2:e,10,Frida Høgaard NIELSEN,Assist,15,Jane MEJLVANG,2,Bianca SCHANSSEMA
+85,748247,31.29,16-22,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+86,748247,32.21,,RIN,Skud reddet,PL,15,Jane MEJLVANG,Retur,0,,2,Bianca SCHANSSEMA
+87,748247,32.50,,RIN,Regelfejl,,3,Maria Berger WIERZBA,,,,,
+88,748247,32.59,,KBH,Fejlaflevering,,21,Helene KINDBERG,,,,,
+89,748247,33.33,,RIN,Skud forbi,PL,10,Frida Høgaard NIELSEN,,,,2,Bianca SCHANSSEMA
+90,748247,33.39,16-23,KBH,Mål,1:e,7,Emilie Ytting PEDERSEN,Assist,2,Bianca SCHANSSEMA,16,Stephanie ANDERSEN
+91,748247,34.07,17-23,RIN,Mål,Gbr,3,Maria Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+92,748247,34.41,17-24,KBH,Mål,ST,17,Tabea SCHMID,Assist,15,Emma NAVNE,16,Stephanie ANDERSEN
+93,748247,35.29,,RIN,Tabt bold,,3,Maria Berger WIERZBA,,,,,
+94,748247,35.40,17-25,KBH,Mål,2:e,25,Tonje LØSETH,Assist,17,Tabea SCHMID,16,Stephanie ANDERSEN
+95,748247,35.40,,RIN,Udvisning,,23,Nanna HINNERFELDT,,,,,
+96,748247,36.06,18-25,RIN,Mål,Gbr,10,Frida Høgaard NIELSEN,,,,2,Bianca SCHANSSEMA
+97,748247,36.29,,KBH,Fejlaflevering,,15,Emma NAVNE,Bold erobret,15,Jane MEJLVANG,,
+98,748247,37.04,19-25,RIN,Mål,VF,18,Emilie ROSBORG,Assist,15,Jane MEJLVANG,2,Bianca SCHANSSEMA
+99,748247,37.21,19-26,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+100,748247,37.54,,RIN,Skud reddet,PL,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+101,748247,38.27,,KBH,Skud forbi,ST,17,Tabea SCHMID,,,,16,Stephanie ANDERSEN
+102,748247,38.34,20-26,RIN,Mål,2:e,18,Emilie ROSBORG,Assist,3,Maria Berger WIERZBA,2,Bianca SCHANSSEMA
+103,748247,39.09,,KBH,Regelfejl,,4,Catharina MOLENAAR,,,,,
+104,748247,40.27,,RIN,Skud reddet,PL,2,Cecilie BJERRE,,,,2,Bianca SCHANSSEMA
+105,748247,41.06,,KBH,Tilkendt straffe,,21,Helene KINDBERG,Forårs. str.,8,Camilla PEDERSEN,,
+106,748247,41.14,21-27,KBH,Mål på straffe,,17,Tabea SCHMID,,,,88,Rakul WARDUM
+107,748247,41.47,,RIN,Skud på stolpe,VF,18,Emilie ROSBORG,,,,2,Bianca SCHANSSEMA
+108,748247,42.14,,KBH,Skud reddet,HF,5,Clara SKØTT,,,,16,Stephanie ANDERSEN
+109,748247,42.48,,RIN,Fejlaflevering,,15,Jane MEJLVANG,,,,,
+110,748247,42.53,21-28,KBH,Mål,1:e,15,Emma NAVNE,,,,,
+111,748247,43.30,22-28,RIN,Mål,Gbr,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+112,748247,43.53,,KBH,Fejlaflevering,,15,Emma NAVNE,Bold erobret,3,Maria Berger WIERZBA,,
+113,748247,43.57,23-28,RIN,Mål,1:e,10,Frida Høgaard NIELSEN,Assist,3,Maria Berger WIERZBA,2,Bianca SCHANSSEMA
+114,748247,44.24,23-29,KBH,Mål,HF,5,Clara SKØTT,Assist,21,Helene KINDBERG,16,Stephanie ANDERSEN
+115,748247,45.00,24-29,RIN,Mål,VF,18,Emilie ROSBORG,,,,2,Bianca SCHANSSEMA
+116,748247,45.21,24-30,KBH,Mål,ST,15,Emma NAVNE,Assist,21,Helene KINDBERG,16,Stephanie ANDERSEN
+117,748247,45.59,,RIN,Fejlaflevering,,3,Maria Berger WIERZBA,Bold erobret,25,Tonje LØSETH,,
+118,748247,46.05,24-31,KBH,Mål,1:e,10,Pernille BRANDENBORG,,,,,
+119,748247,46.32,25-31,RIN,Mål,Gbr,3,Maria Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+120,748247,46.57,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+121,748247,47.04,,RIN,Skud reddet,2:e,3,Maria Berger WIERZBA,Retur,0,,2,Bianca SCHANSSEMA
+122,748247,47.33,26-31,RIN,Mål,Gbr,15,Jane MEJLVANG,Assist,3,Maria Berger WIERZBA,2,Bianca SCHANSSEMA
+123,748247,47.40,26-32,KBH,Mål,2:e,17,Tabea SCHMID,,,,16,Stephanie ANDERSEN
+124,748247,48.15,,RIN,Skud reddet,Gbr,15,Jane MEJLVANG,,,,2,Bianca SCHANSSEMA
+125,748247,48.18,26-33,KBH,Mål,1:e,2,Bianca SCHANSSEMA,,,,,
+126,748247,49.12,,RIN,Skud reddet,PL,3,Maria Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+127,748247,49.17,,KBH,Time out,,,,,,,,
+128,748247,49.44,,KBH,Skud reddet,PL,4,Catharina MOLENAAR,,,,16,Stephanie ANDERSEN
+129,748247,50.08,27-33,RIN,Mål,ST,5,Caroline SVARRE,Assist,15,Jane MEJLVANG,2,Bianca SCHANSSEMA
+130,748247,50.51,27-34,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+131,748247,51.01,,RIN,Skud reddet,Gbr,20,Stine Opstrup KRISTENSEN,Retur,0,,2,Bianca SCHANSSEMA
+132,748247,51.53,,RIN,Skud reddet,Gbr,3,Maria Berger WIERZBA,,,,2,Bianca SCHANSSEMA
+133,748247,52.01,27-35,KBH,Mål,2:e,11,Martha NICKELSEN,Assist,25,Tonje LØSETH,16,Stephanie ANDERSEN
+134,748247,52.37,,RIN,Tilkendt straffe,,20,Stine Opstrup KRISTENSEN,Forårs. str.,25,Tonje LØSETH,,
+135,748247,52.43,28-35,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,20,Anne Christine BOSSEN
+136,748247,53.24,28-36,KBH,Mål,Gbr,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+137,748247,53.36,29-36,RIN,Mål,2:e,5,Caroline SVARRE,Assist,15,Jane MEJLVANG,20,Anne Christine BOSSEN
+138,748247,54.16,,KBH,Tilkendt straffe,,10,Pernille BRANDENBORG,Forårs. str.,20,Stine Opstrup KRISTENSEN,,
+139,748247,54.26,29-37,KBH,Mål på straffe,,10,Pernille BRANDENBORG,,,,16,Stephanie ANDERSEN
+140,748247,54.56,30-37,RIN,Mål,Gbr,3,Maria Berger WIERZBA,Assist,5,Caroline SVARRE,20,Anne Christine BOSSEN
+141,748247,55.17,,KBH,Skud reddet,ST,47,Agnes HVIDSTEEN,,,,16,Stephanie ANDERSEN
+142,748247,55.27,,RIN,Skud reddet,2:e,15,Jane MEJLVANG,,,,20,Anne Christine BOSSEN
+143,748247,55.34,30-38,KBH,Mål,2:e,10,Pernille BRANDENBORG,Assist,4,Catharina MOLENAAR,16,Stephanie ANDERSEN
+144,748247,56.08,,RIN,Tilkendt straffe,,20,Stine Opstrup KRISTENSEN,Forårs. str.,4,Catharina MOLENAAR,,
+145,748247,56.26,31-38,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,20,Anne Christine BOSSEN
+146,748247,56.49,,KBH,Skud reddet,Gbr,21,Helene KINDBERG,,,,16,Stephanie ANDERSEN
+147,748247,56.54,32-38,RIN,Mål,1:e,15,Jane MEJLVANG,,,,,
+148,748247,57.45,,KBH,Fejlaflevering,,11,Martha NICKELSEN,,,,,
+149,748247,58.12,,RIN,Skud blokeret,PL,73,Karoline FAHLBERG,Blok af (ret),10,Pernille BRANDENBORG,,
+150,748247,58.29,33-38,RIN,Mål,Gbr,3,Maria Berger WIERZBA,,,,20,Anne Christine BOSSEN
+151,748247,58.55,33-39,KBH,Mål,Gbr,4,Catharina MOLENAAR,Assist,21,Helene KINDBERG,16,Stephanie ANDERSEN
+152,748247,59.43,,RIN,Tilkendt straffe,,20,Stine Opstrup KRISTENSEN,Forårs. str.,4,Catharina MOLENAAR,,
+153,748247,59.43,,KBH,Udvisning,,4,Catharina MOLENAAR,,,,,
+154,748247,59.45,34-39,RIN,Mål på straffe,,15,Jane MEJLVANG,,,,20,Anne Christine BOSSEN
+155,748247,60.00,,KBH,Skud forbi,PL,11,Martha NICKELSEN,,,,16,Stephanie ANDERSEN
+156,748247,60.00,34-39,,Fuld tid,,,,,,,,

@@ -1,0 +1,136 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748294,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748294,0.46,,ODE,Tilkendt straffe,,10,Anna GRUNDTVIG,Forårs. str.,22,Anne-Sofie FILTENBORG,,
+3,748294,1.05,1-0,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,1,Isabella MATHORNE
+4,748294,1.55,,SKB,Regelfejl,,3,Clara BANG,,,,,
+5,748294,1.57,2-0,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,22,Ragnhild DAHL,1,Isabella MATHORNE
+6,748294,2.08,,SKB,Regelfejl,,2,Boline LAURSEN,,,,,
+7,748294,2.51,3-0,ODE,Mål,PL,22,Ragnhild DAHL,,,,1,Isabella MATHORNE
+8,748294,3.02,,SKB,Skud reddet,2:e,20,Suna HANSEN,,,,38,Yara TEN HOLTE
+9,748294,3.16,,ODE,Fejlaflevering,,68,Helena ELVER,,,,,
+10,748294,3.59,,ODE,Udvisning,,20,Lysa DEFO,,,,,
+11,748294,4.12,,SKB,Skud på stolpe,PL,11,Mia LAGUMDZIJA,Retur,0,,38,Yara TEN HOLTE
+12,748294,4.33,,SKB,Skud reddet,VF,25,Astrid LYNNERUP,,,,38,Yara TEN HOLTE
+13,748294,5.09,4-0,ODE,Mål,HB,27,Louise BURGAARD,,,,1,Isabella MATHORNE
+14,748294,5.17,4-1,SKB,Mål,2:e,25,Astrid LYNNERUP,Assist,14,Verona REXHEPI,38,Yara TEN HOLTE
+15,748294,5.49,5-1,ODE,Mål,HB,68,Helena ELVER,,,,1,Isabella MATHORNE
+16,748294,6.20,5-2,SKB,Mål,PL,14,Verona REXHEPI,,,,38,Yara TEN HOLTE
+17,748294,6.34,6-2,ODE,Mål,ST,20,Lysa DEFO,Assist,68,Helena ELVER,1,Isabella MATHORNE
+18,748294,7.41,,SKB,Skud på stolpe,ST,2,Boline LAURSEN,,,,38,Yara TEN HOLTE
+19,748294,8.16,,ODE,Skud på stolpe,ST,20,Lysa DEFO,,,,1,Isabella MATHORNE
+20,748294,8.48,,SKB,Skud forbi,PL,3,Clara BANG,,,,38,Yara TEN HOLTE
+21,748294,8.56,7-2,ODE,Mål,1:e,44,Nikita Van Der VLIET,Assist,38,Yara TEN HOLTE,1,Isabella MATHORNE
+22,748294,9.38,,SKB,Tabt bold,,2,Boline LAURSEN,Bold erobret,22,Ragnhild DAHL,,
+23,748294,9.45,8-2,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,27,Louise BURGAARD,1,Isabella MATHORNE
+24,748294,9.46,,SKB,Time out,,,,,,,,
+25,748294,10.21,8-3,SKB,Mål,Gbr,3,Clara BANG,,,,38,Yara TEN HOLTE
+26,748294,10.36,,ODE,Skud reddet,HF,6,Malin AUNE,,,,1,Isabella MATHORNE
+27,748294,11.24,,SKB,Tabt bold,,3,Clara BANG,Bold erobret,20,Lysa DEFO,,
+28,748294,11.34,9-3,ODE,Mål,1:e,27,Louise BURGAARD,Assist,20,Lysa DEFO,1,Isabella MATHORNE
+29,748294,12.08,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,6,Malin AUNE,,
+30,748294,12.14,,ODE,Regelfejl,,44,Nikita Van Der VLIET,,,,,
+31,748294,12.51,,SKB,Skud reddet,Gbr,14,Verona REXHEPI,,,,38,Yara TEN HOLTE
+32,748294,12.59,,ODE,Regelfejl,,6,Malin AUNE,,,,,
+33,748294,13.38,,SKB,Passivt spil,,0,,,,,,
+34,748294,13.53,,ODE,Skud reddet,VF,10,Anna GRUNDTVIG,Retur,0,,1,Isabella MATHORNE
+35,748294,14.03,10-3,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,1,Isabella MATHORNE
+36,748294,14.41,10-4,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,44,Nicoline LAURITSEN,38,Yara TEN HOLTE
+37,748294,14.52,11-4,ODE,Mål,HF,6,Malin AUNE,Assist,27,Louise BURGAARD,1,Isabella MATHORNE
+38,748294,15.46,,SKB,Skud på stolpe,PL,44,Nicoline LAURITSEN,,,,38,Yara TEN HOLTE
+39,748294,16.44,12-4,ODE,Mål,Gbr,27,Louise BURGAARD,,,,1,Isabella MATHORNE
+40,748294,17.49,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,,,,,
+41,748294,17.56,,ODE,Skud reddet,1:e,6,Malin AUNE,,,,12,Sarah ERNEBJERG
+42,748294,18.59,,SKB,Fejlaflevering,,20,Suna HANSEN,Bold erobret,44,Nikita Van Der VLIET,,
+43,748294,19.03,13-4,ODE,Mål,1:e,44,Nikita Van Der VLIET,,,,0,
+44,748294,19.24,,SKB,Regelfejl,,11,Mia LAGUMDZIJA,,,,,
+45,748294,19.36,14-4,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,8,Helene FAUSKE,12,Sarah ERNEBJERG
+46,748294,20.23,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,20,Lysa DEFO,,
+47,748294,20.24,,ODE,Skud forbi,1:e,10,Anna GRUNDTVIG,,,,12,Sarah ERNEBJERG
+48,748294,20.25,,SKB,Time out,,,,,,,,
+49,748294,20.31,,SKB,Regelfejl,,11,Mia LAGUMDZIJA,,,,,
+50,748294,20.31,,SKB,Udvisning,,11,Mia LAGUMDZIJA,,,,,
+51,748294,20.50,15-4,ODE,Mål,HF,6,Malin AUNE,Assist,8,Helene FAUSKE,12,Sarah ERNEBJERG
+52,748294,21.45,,SKB,Skud blokeret,PL,20,Suna HANSEN,Blokeret af,3,Maren AARDAHL,,
+53,748294,22.11,16-4,ODE,Mål,HF,6,Malin AUNE,Assist,28,Clara Skyum THOMSEN,12,Sarah ERNEBJERG
+54,748294,22.51,,SKB,Tilkendt straffe,,14,Verona REXHEPI,Forårs. str.,6,Malin AUNE,,
+55,748294,23.07,16-5,SKB,Mål på straffe,,11,Mia LAGUMDZIJA,,,,12,Andrea Nørklit JØRGENSEN
+56,748294,23.36,,ODE,Skud reddet,PL,22,Ragnhild DAHL,,,,12,Sarah ERNEBJERG
+57,748294,23.49,,SKB,Skud forbi,HF,22,Anne-Sofie FILTENBORG,,,,12,Andrea Nørklit JØRGENSEN
+58,748294,24.11,,ODE,Skud reddet,PL,8,Helene FAUSKE,,,,12,Sarah ERNEBJERG
+59,748294,24.21,,SKB,Tabt bold,,20,Suna HANSEN,Bold erobret,28,Clara Skyum THOMSEN,,
+60,748294,24.26,17-5,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,44,Nikita Van Der VLIET,12,Sarah ERNEBJERG
+61,748294,25.40,17-6,SKB,Mål,PL,14,Verona REXHEPI,,,,12,Andrea Nørklit JØRGENSEN
+62,748294,25.47,,ODE,Time out,,,,,,,,
+63,748294,26.05,,ODE,Fejlaflevering,,28,Clara Skyum THOMSEN,Bold erobret,14,Verona REXHEPI,,
+64,748294,26.17,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,,,,,
+65,748294,26.41,,ODE,Skud forbi,VB,22,Ragnhild DAHL,,,,12,Sarah ERNEBJERG
+66,748294,27.33,,SKB,Skud blokeret,HB,3,Clara BANG,Blokeret af,22,Ragnhild DAHL,,
+67,748294,27.41,18-6,ODE,Mål,1:e,44,Nikita Van Der VLIET,Assist,10,Anna GRUNDTVIG,12,Sarah ERNEBJERG
+68,748294,28.14,,SKB,Fejlaflevering,,11,Mia LAGUMDZIJA,Bold erobret,6,Malin AUNE,,
+69,748294,28.20,19-6,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,44,Nikita Van Der VLIET,12,Sarah ERNEBJERG
+70,748294,29.26,19-7,SKB,Mål,PL,3,Clara BANG,,,,12,Andrea Nørklit JØRGENSEN
+71,748294,29.49,20-7,ODE,Mål,PL,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+72,748294,29.59,,SKB,Skud blokeret,PL,3,Clara BANG,Blokeret af,22,Ragnhild DAHL,,
+73,748294,30.00,20-7,,Halvleg,,,,,,,,
+74,748294,30.00,,,Start 2:e halvleg,,,,,,,,
+75,748294,30.21,20-8,SKB,Mål,PL,14,Verona REXHEPI,,,,12,Andrea Nørklit JØRGENSEN
+76,748294,30.59,,ODE,Skud på stolpe,Gbr,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+77,748294,31.47,20-9,SKB,Mål,Gbr,44,Nicoline LAURITSEN,Assist,3,Clara BANG,12,Andrea Nørklit JØRGENSEN
+78,748294,31.56,,ODE,Skud på stolpe,2:e,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+79,748294,32.45,,SKB,Regelfejl,,3,Clara BANG,,,,,
+80,748294,33.12,21-9,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+81,748294,33.54,,SKB,Regelfejl,,6,Josefine Kaae LARSEN,,,,,
+82,748294,34.02,,ODE,Skud forbi,2:e,22,Ragnhild DAHL,,,,12,Sarah ERNEBJERG
+83,748294,34.07,,SKB,Fejlaflevering,,12,Sarah ERNEBJERG,Bold erobret,23,Elma HALILCEVIC,,
+84,748294,34.29,22-9,ODE,Mål,HB,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+85,748294,35.11,22-10,SKB,Mål,Gbr,3,Clara BANG,,,,12,Andrea Nørklit JØRGENSEN
+86,748294,35.52,,ODE,Skud reddet,PL,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+87,748294,36.28,22-11,SKB,Mål,Gbr,3,Clara BANG,,,,12,Andrea Nørklit JØRGENSEN
+88,748294,37.01,23-11,ODE,Mål,VB,22,Ragnhild DAHL,,,,12,Sarah ERNEBJERG
+89,748294,37.51,23-12,SKB,Mål,ST,10,Filippa NEDOVIC,Assist,14,Verona REXHEPI,12,Andrea Nørklit JØRGENSEN
+90,748294,38.19,,ODE,Skud forbi,Gbr,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+91,748294,38.26,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,23,Elma HALILCEVIC,,
+92,748294,38.32,24-12,ODE,Mål,1:e,23,Elma HALILCEVIC,,,,12,Sarah ERNEBJERG
+93,748294,39.04,,SKB,Fejlaflevering,,44,Nicoline LAURITSEN,,,,,
+94,748294,39.44,25-12,ODE,Mål,ST,3,Maren AARDAHL,Assist,22,Ragnhild DAHL,12,Sarah ERNEBJERG
+95,748294,40.52,,SKB,Skud forbi,PL,3,Clara BANG,,,,12,Andrea Nørklit JØRGENSEN
+96,748294,41.14,,ODE,Tabt bold,,28,Clara Skyum THOMSEN,,,,,
+97,748294,41.41,,SKB,Skud forbi,PL,14,Verona REXHEPI,,,,12,Andrea Nørklit JØRGENSEN
+98,748294,42.03,26-12,ODE,Mål,Gbr,23,Elma HALILCEVIC,,,,12,Sarah ERNEBJERG
+99,748294,42.43,26-13,SKB,Mål,PL,14,Verona REXHEPI,,,,12,Andrea Nørklit JØRGENSEN
+100,748294,42.53,27-13,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,12,Sarah ERNEBJERG
+101,748294,43.43,,SKB,Skud reddet,PL,14,Verona REXHEPI,,,,12,Andrea Nørklit JØRGENSEN
+102,748294,44.11,28-13,ODE,Mål,Gbr,8,Helene FAUSKE,Assist,28,Clara Skyum THOMSEN,12,Sarah ERNEBJERG
+103,748294,45.05,,SKB,Skud forbi,PL,44,Nicoline LAURITSEN,,,,12,Andrea Nørklit JØRGENSEN
+104,748294,45.32,,,,,,,,,,,
+105,748294,46.15,28-14,SKB,Mål,PL,3,Clara BANG,,,,12,Andrea Nørklit JØRGENSEN
+106,748294,46.23,,ODE,Time out,,,,,,,,
+107,748294,47.02,29-14,ODE,Mål,ST,3,Maren AARDAHL,Assist,27,Louise BURGAARD,,
+108,748294,48.11,,ODE,Advarsel,A,,Ole Gustav GJEKSTAD,,,,,
+109,748294,49.06,,SKB,Regelfejl,,11,Mia LAGUMDZIJA,,,,,
+110,748294,49.06,,SKB,Udvisning,,11,Mia LAGUMDZIJA,,,,,
+111,748294,49.29,,ODE,Skud på stolpe,HF,6,Malin AUNE,,,,23,Stine ALMIND
+112,748294,50.08,,SKB,Fejlaflevering,,14,Verona REXHEPI,,,,,
+113,748294,50.14,30-14,ODE,Mål,ST,3,Maren AARDAHL,Assist,27,Louise BURGAARD,23,Stine ALMIND
+114,748294,51.48,,SKB,Skud blokeret,HB,3,Clara BANG,Blokeret af,22,Ragnhild DAHL,,
+115,748294,52.48,,ODE,Skud reddet,VB,8,Helene FAUSKE,,,,23,Stine ALMIND
+116,748294,52.58,30-15,SKB,Mål,Gbr,44,Nicoline LAURITSEN,,,,12,Andrea Nørklit JØRGENSEN
+117,748294,53.34,,ODE,Skud blokeret,PL,28,Clara Skyum THOMSEN,Blok af (ret),26,Christina HANSEN,,
+118,748294,53.53,31-15,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,23,Stine ALMIND
+119,748294,54.00,,SKB,Time out,,,,,,,,
+120,748294,54.22,,SKB,Regelfejl,,3,Clara BANG,,,,,
+121,748294,54.25,32-15,ODE,Mål,1:e,3,Maren AARDAHL,,,,23,Stine ALMIND
+122,748294,55.16,32-16,SKB,Mål,PL,3,Clara BANG,,,,12,Andrea Nørklit JØRGENSEN
+123,748294,55.25,33-16,ODE,Mål,2:e,8,Helene FAUSKE,,,,23,Stine ALMIND
+124,748294,55.52,33-17,SKB,Mål,Gbr,44,Nicoline LAURITSEN,,,,12,Andrea Nørklit JØRGENSEN
+125,748294,56.01,,ODE,Skud reddet,2:e,23,Elma HALILCEVIC,,,,23,Stine ALMIND
+126,748294,56.35,33-18,SKB,Mål,VB,14,Verona REXHEPI,,,,12,Andrea Nørklit JØRGENSEN
+127,748294,56.47,34-18,ODE,Mål,Gbr,27,Louise BURGAARD,,,,23,Stine ALMIND
+128,748294,57.18,,SKB,Skud blokeret,PL,3,Clara BANG,Blok af (ret),3,Maren AARDAHL,,
+129,748294,57.55,34-19,SKB,Mål,PL,3,Clara BANG,Assist,44,Nicoline LAURITSEN,12,Andrea Nørklit JØRGENSEN
+130,748294,58.26,,ODE,Skud reddet,PL,8,Helene FAUSKE,Retur,0,Stine ALMIND,,
+131,748294,58.46,35-19,ODE,Mål,PL,27,Louise BURGAARD,Assist,23,Elma HALILCEVIC,23,Stine ALMIND
+132,748294,59.15,,ODE,Udvisning,,8,Helene FAUSKE,,,,,
+133,748294,59.28,,SKB,Fejlaflevering,,3,Clara BANG,Bold erobret,6,Malin AUNE,,
+134,748294,59.33,36-19,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,3,Maren AARDAHL,23,Stine ALMIND
+135,748294,59.58,,SKB,Fejlaflevering,,14,Verona REXHEPI,Bold erobret,27,Louise BURGAARD,,

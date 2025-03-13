@@ -1,0 +1,140 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748661,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748661,0.43,0-1,BSH,Mål,VB,34,Morten OLSEN,,,,12,Fabian NORSTEN
+3,748661,1.28,,AAH,Tilkendt straffe,,20,Felix MÖLLER,Forårs. str.,19,René Toft HANSEN,,
+4,748661,1.51,1-1,AAH,Mål på straffe,,15,Jack THURIN,,,,12,Kasper LARSEN
+5,748661,2.25,1-2,BSH,Mål,PL,34,Morten OLSEN,,,,12,Fabian NORSTEN
+6,748661,2.37,,AAH,Skud blokeret,2:e,18,Aleks VLAH,Blok af (ret),14,Alexander LYNGGAARD,,
+7,748661,3.20,,AAH,Skud blokeret,PL,9,Miguel MARTINS,Blok af (ret),19,René Toft HANSEN,,
+8,748661,3.43,,AAH,Skud forbi,ST,6,Sebastian BARTHOLD,,,,12,Kasper LARSEN
+9,748661,4.19,,BSH,Skud reddet,PL,26,Peter BALLING,,,,12,Fabian NORSTEN
+10,748661,4.29,2-2,AAH,Mål,2:e,14,Mads HOXER,,,,12,Kasper LARSEN
+11,748661,5.12,2-3,BSH,Mål,ST,14,Alexander LYNGGAARD,Assist,26,Peter BALLING,12,Fabian NORSTEN
+12,748661,5.52,3-3,AAH,Mål,HF,19,Kristian BJØRNSEN,Assist,9,Miguel MARTINS,12,Kasper LARSEN
+13,748661,6.02,,BSH,Skud reddet,2:e,26,Peter BALLING,,,,12,Fabian NORSTEN
+14,748661,6.43,,AAH,Fejlaflevering,,9,Miguel MARTINS,,,,,
+15,748661,6.47,3-4,BSH,Mål,1:e,4,Patrick BOLDSEN,Assist,14,Alexander LYNGGAARD,12,Fabian NORSTEN
+16,748661,7.17,4-4,AAH,Mål,PL,18,Aleks VLAH,,,,12,Kasper LARSEN
+17,748661,7.50,,BSH,Skud reddet,Gbr,11,Rasmus LAUGE,,,,12,Fabian NORSTEN
+18,748661,7.59,,AAH,Skud blokeret,2:e,14,Mads HOXER,Blok af (ret),14,Alexander LYNGGAARD,,
+19,748661,8.06,,AAH,Skud reddet,2:e,6,Sebastian BARTHOLD,,,,12,Kasper LARSEN
+20,748661,8.43,4-5,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,14,Alexander LYNGGAARD,12,Fabian NORSTEN
+21,748661,9.27,,BSH,Udvisning,,19,René Toft HANSEN,,,,,
+22,748661,9.48,5-5,AAH,Mål,Gbr,18,Aleks VLAH,,,,12,Kasper LARSEN
+23,748661,10.27,5-6,BSH,Mål,PL,34,Morten OLSEN,,,,12,Fabian NORSTEN
+24,748661,10.48,6-6,AAH,Mål,Gbr,14,Mads HOXER,,,,12,Kasper LARSEN
+25,748661,11.33,6-7,BSH,Mål,VB,34,Morten OLSEN,,,,12,Fabian NORSTEN
+26,748661,12.08,,AAH,Tilkendt straffe,,19,Kristian BJØRNSEN,Forårs. str.,23,Mads LENBROCH,,
+27,748661,12.08,,BSH,Udvisning,,23,Mads LENBROCH,,,,,
+28,748661,12.10,7-7,AAH,Mål på straffe,,15,Jack THURIN,,,,12,Kasper LARSEN
+29,748661,13.10,,BSH,Regelfejl,,22,Anders ZACHARIASSEN,,,,,
+30,748661,13.12,8-7,AAH,Mål,1:e,14,Mads HOXER,,,,12,Kasper LARSEN
+31,748661,13.46,,AAH,Advarsel,,19,Kristian BJØRNSEN,,,,,
+32,748661,13.59,8-8,BSH,Mål,PL,34,Morten OLSEN,,,,12,Fabian NORSTEN
+33,748661,14.09,9-8,AAH,Mål,2:e,6,Sebastian BARTHOLD,Assist,18,Aleks VLAH,12,Kasper LARSEN
+34,748661,14.41,,AAH,Udvisning,,20,Felix MÖLLER,,,,,
+35,748661,15.04,9-9,BSH,Mål,VB,32,Nikolaj LÆSØ,,,,12,Fabian NORSTEN
+36,748661,16.12,10-9,AAH,Mål,Gbr,9,Miguel MARTINS,,,,12,Kasper LARSEN
+37,748661,16.41,10-10,BSH,Mål,PL,34,Morten OLSEN,,,,12,Fabian NORSTEN
+38,748661,17.21,,AAH,Regelfejl,,18,Aleks VLAH,,,,,
+39,748661,18.00,10-11,BSH,Mål,PL,32,Nikolaj LÆSØ,Assist,34,Morten OLSEN,12,Fabian NORSTEN
+40,748661,18.16,,AAH,Time out,,,,,,,,
+41,748661,18.44,11-11,AAH,Mål,Gbr,9,Miguel MARTINS,,,,12,Kasper LARSEN
+42,748661,19.41,11-12,BSH,Mål,PL,11,Rasmus LAUGE,,,,12,Fabian NORSTEN
+43,748661,20.11,12-12,AAH,Mål,PL,9,Miguel MARTINS,,,,12,Kasper LARSEN
+44,748661,20.54,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+45,748661,21.03,13-12,AAH,Mål,2:e,15,Jack THURIN,,,,12,Kasper LARSEN
+46,748661,21.04,,BSH,Time out,,,,,,,,
+47,748661,21.44,13-13,BSH,Mål,PL,32,Nikolaj LÆSØ,,,,12,Fabian NORSTEN
+48,748661,22.22,,AAH,Skud reddet,ST,11,Simon HALD,,,,12,Kasper LARSEN
+49,748661,23.09,,BSH,Skud reddet,HB,11,Rasmus LAUGE,,,,12,Fabian NORSTEN
+50,748661,23.16,,AAH,Fejlaflevering,,15,Jack THURIN,,,,,
+51,748661,23.20,13-14,BSH,Mål,1:e,17,August FRIDÉN,Assist,14,Alexander LYNGGAARD,12,Fabian NORSTEN
+52,748661,24.04,14-14,AAH,Mål,Gbr,18,Aleks VLAH,,,,12,Kasper LARSEN
+53,748661,24.48,,BSH,Fejlaflevering,,32,Nikolaj LÆSØ,,,,,
+54,748661,25.11,,AAH,Skud reddet,PL,18,Aleks VLAH,,,,12,Kasper LARSEN
+55,748661,25.22,,BSH,Tilkendt straffe,,14,Alexander LYNGGAARD,Forårs. str.,6,Sebastian BARTHOLD,,
+56,748661,25.44,14-15,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,12,Fabian NORSTEN
+57,748661,26.12,,AAH,Skud reddet,Gbr,9,Miguel MARTINS,,,,12,Kasper LARSEN
+58,748661,26.12,,AAH,Udvisning,,9,Miguel MARTINS,,,,,
+59,748661,26.48,,BSH,Skud reddet,ST,22,Anders ZACHARIASSEN,,,,12,Fabian NORSTEN
+60,748661,27.44,15-15,AAH,Mål,PL,14,Mads HOXER,,,,12,Kasper LARSEN
+61,748661,28.15,15-16,BSH,Mål,PL,32,Nikolaj LÆSØ,,,,12,Fabian NORSTEN
+62,748661,28.42,16-16,AAH,Mål,Gbr,14,Mads HOXER,Assist,9,Miguel MARTINS,12,Kasper LARSEN
+63,748661,29.15,,BSH,Skud blokeret,PL,32,Nikolaj LÆSØ,Blok af (ret),21,Henrik MØLLGAARD,,
+64,748661,29.25,,BSH,Skud reddet,VB,32,Nikolaj LÆSØ,Retur,0,,12,Fabian NORSTEN
+65,748661,29.43,16-17,BSH,Mål,PL,34,Morten OLSEN,,,,12,Fabian NORSTEN
+66,748661,29.56,17-17,AAH,Mål,2:e,20,Felix MÖLLER,Assist,9,Miguel MARTINS,12,Kasper LARSEN
+67,748661,29.59,,BSH,Skud reddet,2:e,26,Peter BALLING,Retur,0,,12,Fabian NORSTEN
+68,748661,30.00,17-17,,Halvleg,,,,,,,,
+69,748661,30.00,,,Start 2:e halvleg,,,,,,,,
+70,748661,30.32,,AAH,Regelfejl,,18,Aleks VLAH,,,,,
+71,748661,31.13,17-18,BSH,Mål,PL,11,Rasmus LAUGE,,,,12,Fabian NORSTEN
+72,748661,31.27,,AAH,Fejlaflevering,,14,Mads HOXER,,,,,
+73,748661,31.53,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,12,Fabian NORSTEN
+74,748661,32.24,,BSH,Udvisning,,14,Alexander LYNGGAARD,,,,,
+75,748661,32.39,18-18,AAH,Mål,HF,19,Kristian BJØRNSEN,Assist,14,Mads HOXER,1,Mikkel LØVKVIST
+76,748661,33.19,,BSH,Skud reddet,ST,22,Anders ZACHARIASSEN,,,,12,Fabian NORSTEN
+77,748661,33.45,19-18,AAH,Mål,VB,18,Aleks VLAH,,,,1,Mikkel LØVKVIST
+78,748661,34.42,19-19,BSH,Mål,PL,11,Rasmus LAUGE,,,,12,Fabian NORSTEN
+79,748661,35.28,,AAH,Fejlaflevering,,14,Mads HOXER,,,,,
+80,748661,35.38,19-20,BSH,Mål,2:e,17,August FRIDÉN,Assist,11,Rasmus LAUGE,12,Fabian NORSTEN
+81,748661,35.46,20-20,AAH,Mål,2:e,18,Aleks VLAH,,,,1,Mikkel LØVKVIST
+82,748661,36.24,20-21,BSH,Mål,PL,34,Morten OLSEN,,,,12,Fabian NORSTEN
+83,748661,37.07,21-21,AAH,Mål,Gbr,18,Aleks VLAH,,,,1,Mikkel LØVKVIST
+84,748661,37.47,21-22,BSH,Mål,Gbr,26,Peter BALLING,,,,12,Fabian NORSTEN
+85,748661,38.01,,AAH,Tilkendt straffe,,18,Aleks VLAH,Forårs. str.,19,René Toft HANSEN,,
+86,748661,38.13,22-22,AAH,Mål på straffe,,15,Jack THURIN,,,,1,Mikkel LØVKVIST
+87,748661,39.07,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+88,748661,39.41,23-22,AAH,Mål,Gbr,9,Miguel MARTINS,,,,1,Mikkel LØVKVIST
+89,748661,40.14,,BSH,Skud reddet,PL,11,Rasmus LAUGE,Retur,0,,12,Fabian NORSTEN
+90,748661,40.27,,BSH,Skud reddet,PL,26,Peter BALLING,,,,12,Fabian NORSTEN
+91,748661,41.21,24-22,AAH,Mål,ST,11,Simon HALD,Assist,18,Aleks VLAH,1,Mikkel LØVKVIST
+92,748661,41.37,24-23,BSH,Mål,2:e,4,Patrick BOLDSEN,Assist,34,Morten OLSEN,12,Fabian NORSTEN
+93,748661,42.23,25-23,AAH,Mål,PL,18,Aleks VLAH,,,,1,Mikkel LØVKVIST
+94,748661,42.25,,BSH,Time out,,,,,,,,
+95,748661,42.52,,BSH,Skud reddet,PL,11,Rasmus LAUGE,,,,12,Fabian NORSTEN
+96,748661,43.01,,AAH,Regelfejl,,9,Miguel MARTINS,,,,,
+97,748661,43.06,25-24,BSH,Mål,1:e,4,Patrick BOLDSEN,Assist,26,Peter BALLING,12,Fabian NORSTEN
+98,748661,43.35,,BSH,Udvisning,,26,Peter BALLING,,,,,
+99,748661,43.53,26-24,AAH,Mål,Gbr,9,Miguel MARTINS,,,,12,Kasper LARSEN
+100,748661,45.01,,BSH,Skud reddet,PL,13,Lasse SUNDE LID,,,,12,Fabian NORSTEN
+101,748661,45.28,27-24,AAH,Mål,Gbr,15,Jack THURIN,Assist,18,Aleks VLAH,12,Kasper LARSEN
+102,748661,46.25,,BSH,Tilkendt straffe,,22,Anders ZACHARIASSEN,Forårs. str.,19,Kristian BJØRNSEN,,
+103,748661,46.30,27-25,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,12,Fabian NORSTEN
+104,748661,47.01,28-25,AAH,Mål,Gbr,0,,,,,,
+105,748661,47.29,,BSH,Skud reddet,Gbr,32,Nikolaj LÆSØ,,,,12,Fabian NORSTEN
+106,748661,47.34,29-25,AAH,Mål,1:e,6,Sebastian BARTHOLD,,,,,
+107,748661,47.51,,BSH,Fejlaflevering,,34,Morten OLSEN,Bold erobret,18,Aleks VLAH,,
+108,748661,47.57,30-25,AAH,Mål,1:e,14,Mads HOXER,Assist,18,Aleks VLAH,,
+109,748661,47.57,,BSH,Time out,,,,,,,,
+110,748661,48.25,,BSH,Fejlaflevering,,32,Nikolaj LÆSØ,,,,,
+111,748661,48.29,31-25,AAH,Mål,1:e,14,Mads HOXER,,,,,
+112,748661,48.51,,BSH,Skud reddet,PL,32,Nikolaj LÆSØ,,,,12,Fabian NORSTEN
+113,748661,49.19,32-25,AAH,Mål,Gbr,18,Aleks VLAH,Assist,9,Miguel MARTINS,1,Mikkel LØVKVIST
+114,748661,49.54,,BSH,Skud blokeret,PL,32,Nikolaj LÆSØ,Blok af (ret),21,Henrik MØLLGAARD,,
+115,748661,50.10,,BSH,Skud på stolpe,VF,23,Mads LENBROCH,,,,12,Fabian NORSTEN
+116,748661,50.38,,AAH,Skud reddet,Gbr,9,Miguel MARTINS,Retur,0,,12,Kasper LARSEN
+117,748661,50.59,,AAH,Skud blokeret,PL,9,Miguel MARTINS,Blok af (ret),19,René Toft HANSEN,,
+118,748661,50.59,,AAH,Time out,,,,,,,,
+119,748661,51.09,33-25,AAH,Mål,VB,18,Aleks VLAH,,,,12,Kasper LARSEN
+120,748661,51.55,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+121,748661,52.00,34-25,AAH,Mål,1:e,14,Mads HOXER,,,,12,Kasper LARSEN
+122,748661,52.29,34-26,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,32,Nikolaj LÆSØ,12,Fabian NORSTEN
+123,748661,53.09,35-26,AAH,Mål,ST,20,Felix MÖLLER,Assist,14,Mads HOXER,12,Kasper LARSEN
+124,748661,53.39,35-27,BSH,Mål,Gbr,34,Morten OLSEN,,,,12,Fabian NORSTEN
+125,748661,53.51,,AAH,Skud reddet,2:e,20,Felix MÖLLER,,,,12,Kasper LARSEN
+126,748661,54.21,,BSH,Skud reddet,PL,34,Morten OLSEN,,,,12,Fabian NORSTEN
+127,748661,55.23,,AAH,Regelfejl,,14,Mads HOXER,,,,,
+128,748661,55.57,,BSH,Tabt bold,,9,Gudmundur Bragi ASTPARSSON,,,,,
+129,748661,56.31,36-27,AAH,Mål,VF,23,Buster JUUL,Assist,9,Miguel MARTINS,12,Kasper LARSEN
+130,748661,57.01,,BSH,Skud reddet,Gbr,32,Nikolaj LÆSØ,,,,12,Fabian NORSTEN
+131,748661,57.09,,AAH,Tabt bold,,25,Marinus MUNK,,,,,
+132,748661,57.46,,BSH,Fejlaflevering,,11,Rasmus LAUGE,,,,,
+133,748661,57.51,37-27,AAH,Mål,1:e,19,Kristian BJØRNSEN,Assist,15,Jack THURIN,12,Kasper LARSEN
+134,748661,58.41,,BSH,Skud reddet,HB,32,Nikolaj LÆSØ,,,,12,Fabian NORSTEN
+135,748661,58.46,38-27,AAH,Mål,1:e,23,Buster JUUL,Assist,20,Felix MÖLLER,12,Kasper LARSEN
+136,748661,59.29,38-28,BSH,Mål,VB,9,Gudmundur Bragi ASTPARSSON,,,,12,Fabian NORSTEN
+137,748661,59.59,,AAH,Skud på stolpe,Gbr,15,Jack THURIN,,,,12,Kasper LARSEN
+138,748661,60.00,38-28,,Fuld tid,,,,,,,,
+139,748661,60.00,,,Kamp slut,,,,,,,,

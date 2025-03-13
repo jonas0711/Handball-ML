@@ -1,0 +1,128 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748308,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748308,0.36,,TES,Skud reddet,Gbr,25,Henny REISTAD,,,,12,Catharina BROCH
+3,748308,1.26,1-0,NFH,Mål,HF,20,Maja MAGNUSSEN,Assist,26,Mona OBAIDLI,16,Amalie MILLING
+4,748308,1.38,,TES,Skud forbi,2:e,22,Line HAUGSTED,,,,12,Catharina BROCH
+5,748308,2.13,,TES,Advarsel,,11,Rikke IVERSEN,,,,,
+6,748308,2.30,,NFH,Skud reddet,PL,6,Moa HÖGDAHL,,,,16,Amalie MILLING
+7,748308,2.36,1-1,TES,Mål,2:e,17,Elin HANSSON,Assist,25,Henny REISTAD,12,Catharina BROCH
+8,748308,2.51,,NFH,Skud reddet,2:e,26,Mona OBAIDLI,,,,16,Amalie MILLING
+9,748308,3.01,,TES,Skud reddet,Gbr,25,Henny REISTAD,,,,12,Catharina BROCH
+10,748308,3.09,,NFH,Skud på stolpe,1:e,21,Matilde VESTERGAARD,,,,16,Amalie MILLING
+11,748308,4.06,1-2,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+12,748308,4.35,,NFH,Fejlaflevering,,6,Moa HÖGDAHL,,,,,
+13,748308,4.45,1-3,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+14,748308,5.20,,NFH,Fejlaflevering,,6,Moa HÖGDAHL,,,,,
+15,748308,5.25,,TES,Fejlaflevering,,25,Henny REISTAD,Bold erobret,26,Mona OBAIDLI,,
+16,748308,5.32,,NFH,Time out,,,,,,,,
+17,748308,5.50,,NFH,Tilkendt straffe,,7,Amalie WULFF,Forårs. str.,11,Rikke IVERSEN,,
+18,748308,6.20,,NFH,Straffekast på stolpe,,34,Sofie BARDRUM,,,,16,Amalie MILLING
+19,748308,7.06,,TES,Skud reddet,Gbr,22,Line HAUGSTED,,,,12,Catharina BROCH
+20,748308,7.09,2-3,NFH,Mål,1:e,2,Caroline AAR,Assist,6,Moa HÖGDAHL,16,Amalie MILLING
+21,748308,8.02,2-4,TES,Mål,PL,22,Line HAUGSTED,,,,12,Catharina BROCH
+22,748308,9.12,3-4,NFH,Mål,VF,21,Matilde VESTERGAARD,Assist,26,Mona OBAIDLI,16,Amalie MILLING
+23,748308,9.23,,TES,Regelfejl,,8,Live RUSHFELDT DEILA,,,,,
+24,748308,10.00,,NFH,Skud reddet,ST,2,Caroline AAR,,,,16,Amalie MILLING
+25,748308,10.12,,TES,Skud på stolpe,2:e,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+26,748308,10.18,,NFH,Fejlaflevering,,6,Moa HÖGDAHL,Bold erobret,25,Henny REISTAD,,
+27,748308,10.44,3-5,TES,Mål,ST,11,Rikke IVERSEN,Assist,8,Live RUSHFELDT DEILA,12,Catharina BROCH
+28,748308,11.19,,NFH,Skud reddet,VF,21,Matilde VESTERGAARD,,,,16,Amalie MILLING
+29,748308,12.04,3-6,TES,Mål,ST,11,Rikke IVERSEN,Assist,8,Live RUSHFELDT DEILA,12,Catharina BROCH
+30,748308,12.46,4-6,NFH,Mål,Gbr,6,Moa HÖGDAHL,Assist,7,Amalie WULFF,16,Amalie MILLING
+31,748308,13.41,4-7,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+32,748308,14.18,,NFH,Tilkendt straffe,,20,Maja MAGNUSSEN,Forårs. str.,17,Elin HANSSON,,
+33,748308,14.43,5-7,NFH,Mål på straffe,,49,Aimée VON PEREIRA,,,,16,Amalie MILLING
+34,748308,15.23,,TES,Skud reddet,Gbr,8,Live RUSHFELDT DEILA,Retur,0,,12,Catharina BROCH
+35,748308,15.48,,TES,Fejlaflevering,,8,Live RUSHFELDT DEILA,,,,,
+36,748308,16.18,,NFH,Tilkendt straffe,,34,Sofie BARDRUM,Forårs. str.,4,Michala MØLLER,,
+37,748308,16.35,,NFH,Straffekast på stolpe,,49,Aimée VON PEREIRA,,,,16,Amalie MILLING
+38,748308,17.04,,TES,Fejlaflevering,,4,Michala MØLLER,,,,,
+39,748308,17.51,,TES,Udvisning,,38,Mia EMMENEGGER,,,,,
+40,748308,18.15,,NFH,Tabt bold,,34,Sofie BARDRUM,,,,,
+41,748308,18.26,,TES,Time out,,,,,,,,
+42,748308,19.00,5-8,TES,Mål,Gbr,4,Michala MØLLER,,,,12,Catharina BROCH
+43,748308,19.53,,NFH,Skud forbi,HF,20,Maja MAGNUSSEN,,,,16,Amalie MILLING
+44,748308,20.48,,TES,Skud forbi,Gbr,4,Michala MØLLER,,,,12,Catharina BROCH
+45,748308,21.10,6-8,NFH,Mål,VF,21,Matilde VESTERGAARD,Assist,79,Kristina KRISTIANSEN,16,Amalie MILLING
+46,748308,21.26,,TES,Skud reddet,Gbr,25,Henny REISTAD,Retur,0,,12,Catharina BROCH
+47,748308,21.57,,TES,Skud reddet,PL,4,Michala MØLLER,,,,12,Catharina BROCH
+48,748308,22.31,,NFH,Tilkendt straffe,,79,Kristina KRISTIANSEN,Forårs. str.,28,Merel FREDRIKS,,
+49,748308,22.48,,NFH,Straffekast reddet,,49,Aimée VON PEREIRA,,,,16,Amalie MILLING
+50,748308,23.46,,TES,Fejlaflevering,,25,Henny REISTAD,,,,,
+51,748308,24.07,7-8,NFH,Mål,ST,34,Sofie BARDRUM,Assist,79,Kristina KRISTIANSEN,16,Amalie MILLING
+52,748308,24.45,,TES,Skud reddet,HF,38,Mia EMMENEGGER,,,,12,Catharina BROCH
+53,748308,25.20,8-8,NFH,Mål,VF,21,Matilde VESTERGAARD,Assist,79,Kristina KRISTIANSEN,16,Amalie MILLING
+54,748308,25.56,8-9,TES,Mål,Gbr,4,Michala MØLLER,,,,12,Catharina BROCH
+55,748308,26.15,,NFH,Skud reddet,2:e,2,Caroline AAR,,,,16,Amalie MILLING
+56,748308,26.43,8-10,TES,Mål,HB,4,Michala MØLLER,,,,12,Catharina BROCH
+57,748308,26.54,9-10,NFH,Mål,2:e,18,Alberte KIELSTRUP,Assist,2,Caroline AAR,,
+58,748308,27.22,,TES,Tilkendt straffe,,4,Michala MØLLER,Forårs. str.,21,Matilde VESTERGAARD,,
+59,748308,27.39,9-11,TES,Mål på straffe,,25,Henny REISTAD,,,,1,Sofie BÖRJESSON
+60,748308,28.35,,NFH,Tilkendt straffe,,2,Caroline AAR,Forårs. str.,25,Henny REISTAD,,
+61,748308,28.35,,TES,Udvisning,,25,Henny REISTAD,,,,,
+62,748308,28.35,10-11,NFH,Mål på straffe,,6,Moa HÖGDAHL,,,,16,Amalie MILLING
+63,748308,29.05,10-12,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,Assist,4,Michala MØLLER,12,Catharina BROCH
+64,748308,29.40,,NFH,Tabt bold,,34,Sofie BARDRUM,,,,,
+65,748308,29.44,10-13,TES,Mål,1:e,17,Elin HANSSON,Assist,28,Merel FREDRIKS,,
+66,748308,30.00,10-13,,Halvleg,,,,,,,,
+67,748308,30.00,,,Start 2:e halvleg,,,,,,,,
+68,748308,30.29,,NFH,Tabt bold,,2,Caroline AAR,,,,,
+69,748308,31.09,,TES,Skud reddet,PL,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+70,748308,32.06,,NFH,Fejlaflevering,,7,Amalie WULFF,,,,,
+71,748308,32.39,,TES,Tilkendt straffe,,22,Line HAUGSTED,Forårs. str.,18,Alberte KIELSTRUP,1,Sofie BÖRJESSON
+72,748308,32.39,,NFH,Udvisning,,18,Alberte KIELSTRUP,,,,,
+73,748308,32.41,,TES,Straffekast reddet,,25,Henny REISTAD,,,,1,Sofie BÖRJESSON
+74,748308,33.41,,TES,Udvisning,,8,Live RUSHFELDT DEILA,,,,,
+75,748308,34.09,,NFH,Fejlaflevering,,7,Amalie WULFF,,,,,
+76,748308,34.38,10-14,TES,Mål,HF,38,Mia EMMENEGGER,Assist,4,Michala MØLLER,12,Catharina BROCH
+77,748308,35.03,11-14,NFH,Mål,Gbr,79,Kristina KRISTIANSEN,,,,16,Amalie MILLING
+78,748308,35.48,11-15,TES,Mål,Gbr,4,Michala MØLLER,,,,12,Catharina BROCH
+79,748308,36.23,12-15,NFH,Mål,HF,20,Maja MAGNUSSEN,Assist,6,Moa HÖGDAHL,16,Amalie MILLING
+80,748308,36.44,,TES,Skud reddet,Gbr,4,Michala MØLLER,,,,12,Catharina BROCH
+81,748308,37.15,13-15,NFH,Mål,ST,34,Sofie BARDRUM,Assist,79,Kristina KRISTIANSEN,16,Amalie MILLING
+82,748308,38.50,,TES,Skud forbi,PL,25,Henny REISTAD,,,,12,Catharina BROCH
+83,748308,39.17,14-15,NFH,Mål,HF,20,Maja MAGNUSSEN,Assist,6,Moa HÖGDAHL,16,Amalie MILLING
+84,748308,39.58,,TES,Skud reddet,ST,24,Sanna SOLBERG,,,,12,Catharina BROCH
+85,748308,40.34,15-15,NFH,Mål,Gbr,6,Moa HÖGDAHL,,,,16,Amalie MILLING
+86,748308,41.10,,TES,Time out,,,,,,,,
+87,748308,41.23,,TES,Fejlaflevering,,4,Michala MØLLER,,,,,
+88,748308,41.27,,NFH,Fejlaflevering,,26,Mona OBAIDLI,Bold erobret,8,Live RUSHFELDT DEILA,,
+89,748308,41.37,15-16,TES,Mål,2:e,25,Henny REISTAD,,,,12,Catharina BROCH
+90,748308,42.19,16-16,NFH,Mål,HF,20,Maja MAGNUSSEN,Assist,26,Mona OBAIDLI,16,Amalie MILLING
+91,748308,43.01,,TES,Skud reddet,PL,4,Michala MØLLER,,,,12,Catharina BROCH
+92,748308,43.05,17-16,NFH,Mål,1:e,2,Caroline AAR,Assist,20,Maja MAGNUSSEN,12,Anna KRISTENSEN
+93,748308,43.33,17-17,TES,Mål,PL,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+94,748308,44.27,,NFH,Skud reddet,Gbr,79,Kristina KRISTIANSEN,,,,12,Anna KRISTENSEN
+95,748308,44.32,17-18,TES,Mål,1:e,38,Mia EMMENEGGER,Assist,4,Michala MØLLER,12,Catharina BROCH
+96,748308,44.39,,NFH,Time out,,,,,,,,
+97,748308,44.57,18-18,NFH,Mål,HF,20,Maja MAGNUSSEN,Assist,6,Moa HÖGDAHL,12,Anna KRISTENSEN
+98,748308,45.09,18-19,TES,Mål,2:e,25,Henny REISTAD,,,,12,Catharina BROCH
+99,748308,46.03,,NFH,Tilkendt straffe,,6,Moa HÖGDAHL,Forårs. str.,25,Henny REISTAD,,
+100,748308,46.14,19-19,NFH,Mål på straffe,,6,Moa HÖGDAHL,,,,12,Anna KRISTENSEN
+101,748308,46.41,19-20,TES,Mål,ST,24,Sanna SOLBERG,Assist,8,Live RUSHFELDT DEILA,12,Catharina BROCH
+102,748308,47.10,20-20,NFH,Mål,Gbr,26,Mona OBAIDLI,,,,12,Anna KRISTENSEN
+103,748308,47.52,20-21,TES,Mål,PL,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+104,748308,49.16,,TES,Tilkendt straffe,,8,Live RUSHFELDT DEILA,Forårs. str.,21,Matilde VESTERGAARD,,
+105,748308,49.24,,TES,Straffekast reddet,,4,Michala MØLLER,,,,1,Sofie BÖRJESSON
+106,748308,50.05,21-21,NFH,Mål,Gbr,6,Moa HÖGDAHL,,,,,
+107,748308,51.04,,TES,Skud reddet,PL,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+108,748308,51.47,,NFH,Tilkendt straffe,,79,Kristina KRISTIANSEN,Forårs. str.,38,Mia EMMENEGGER,,
+109,748308,51.55,22-21,NFH,Mål på straffe,,6,Moa HÖGDAHL,,,,,
+110,748308,52.51,22-22,TES,Mål,Gbr,4,Michala MØLLER,Assist,8,Live RUSHFELDT DEILA,12,Catharina BROCH
+111,748308,53.39,23-22,NFH,Mål,PL,79,Kristina KRISTIANSEN,,,,,
+112,748308,54.49,,TES,Skud reddet,PL,25,Henny REISTAD,Retur,0,,12,Catharina BROCH
+113,748308,55.13,23-23,TES,Mål,Gbr,25,Henny REISTAD,,,,12,Catharina BROCH
+114,748308,55.53,24-23,NFH,Mål,ST,34,Sofie BARDRUM,Assist,26,Mona OBAIDLI,,
+115,748308,56.35,,TES,Tilkendt straffe,,8,Live RUSHFELDT DEILA,Forårs. str.,2,Caroline AAR,,
+116,748308,56.42,,TES,Straffekast reddet,,25,Henny REISTAD,,,,1,Sofie BÖRJESSON
+117,748308,57.16,,NFH,Skud reddet,HF,20,Maja MAGNUSSEN,,,,,
+118,748308,57.25,,TES,Skud forbi,1:e,25,Henny REISTAD,,,,0,
+119,748308,57.56,25-23,NFH,Mål,ST,2,Caroline AAR,Assist,26,Mona OBAIDLI,,
+120,748308,58.26,,TES,Time out,,,,,,,,
+121,748308,58.33,,TES,Skud reddet,Gbr,25,Henny REISTAD,Retur,38,Mia EMMENEGGER,12,Catharina BROCH
+122,748308,58.44,,TES,Skud reddet,HF,38,Mia EMMENEGGER,,,,12,Catharina BROCH
+123,748308,58.53,26-23,NFH,Mål,Gbr,26,Mona OBAIDLI,Assist,6,Moa HÖGDAHL,,
+124,748308,59.16,26-24,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,,,,12,Catharina BROCH
+125,748308,59.31,,NFH,Time out,,,,,,,,
+126,748308,59.47,,NFH,Skud reddet,HF,20,Maja MAGNUSSEN,,,,,
+127,748308,59.52,26-25,TES,Mål,2:e,4,Michala MØLLER,,,,12,Catharina BROCH

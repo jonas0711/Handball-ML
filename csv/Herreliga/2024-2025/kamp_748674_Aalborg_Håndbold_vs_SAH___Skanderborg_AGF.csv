@@ -1,0 +1,128 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748674,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748674,0.54,,SAH,Skud reddet,PL,15,Emil LÆRKE,,,,12,Fabian NORSTEN
+3,748674,1.05,,AAH,Fejlaflevering,,18,Aleks VLAH,,,,,
+4,748674,1.56,,SAH,Fejlaflevering,,32,Fredrik OLSSON,Bold erobret,6,Sebastian BARTHOLD,,
+5,748674,2.01,1-0,AAH,Mål,1:e,6,Sebastian BARTHOLD,,,,12,Magnus BRANDBYGE
+6,748674,2.34,,SAH,Fejlaflevering,,15,Emil LÆRKE,,,,,
+7,748674,3.29,,AAH,Skud blokeret,PL,18,Aleks VLAH,Blok af (ret),15,Emil LÆRKE,,
+8,748674,3.41,,AAH,Fejlaflevering,,18,Aleks VLAH,,,,,
+9,748674,3.54,,SAH,Skud blokeret,2:e,15,Emil LÆRKE,Blok af (ret),11,Simon HALD,,
+10,748674,4.47,1-1,SAH,Mål,PL,15,Emil LÆRKE,,,,12,Fabian NORSTEN
+11,748674,5.30,,AAH,Skud reddet,VF,6,Sebastian BARTHOLD,Retur,0,,12,Magnus BRANDBYGE
+12,748674,5.59,2-1,AAH,Mål,PL,18,Aleks VLAH,Assist,14,Mads HOXER,12,Magnus BRANDBYGE
+13,748674,6.39,,SAH,Skud forbi,VF,25,Jeppe CIESLAK,,,,12,Fabian NORSTEN
+14,748674,7.25,,AAH,Fejlaflevering,,18,Aleks VLAH,,,,,
+15,748674,7.32,2-2,SAH,Mål,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,12,Fabian NORSTEN
+16,748674,8.08,3-2,AAH,Mål,VB,9,Miguel MARTINS,,,,12,Magnus BRANDBYGE
+17,748674,8.41,,SAH,Skud reddet,ST,5,Frederik ARNOLDSEN,Retur,0,,12,Fabian NORSTEN
+18,748674,9.02,3-3,SAH,Mål,VB,32,Fredrik OLSSON,,,,12,Fabian NORSTEN
+19,748674,9.26,,AAH,Skud blokeret,HB,14,Mads HOXER,Blok af (ret),5,Frederik ARNOLDSEN,,
+20,748674,9.53,,AAH,Skud forbi,VB,18,Aleks VLAH,,,,12,Magnus BRANDBYGE
+21,748674,10.29,,SAH,Regelfejl,,5,Frederik ARNOLDSEN,,,,,
+22,748674,11.08,,AAH,Fejlaflevering,,18,Aleks VLAH,Bold erobret,11,Mikkel LANG,,
+23,748674,11.46,3-4,SAH,Mål,ST,5,Frederik ARNOLDSEN,Assist,15,Emil LÆRKE,12,Fabian NORSTEN
+24,748674,12.37,4-4,AAH,Mål,VF,6,Sebastian BARTHOLD,Assist,9,Miguel MARTINS,12,Magnus BRANDBYGE
+25,748674,13.14,,SAH,Tilkendt straffe,,3,Kristjan ÖRN KRISTJANSSON,Forårs. str.,9,Miguel MARTINS,,
+26,748674,13.14,,AAH,Udvisning,,9,Miguel MARTINS,,,,,
+27,748674,13.18,4-5,SAH,Mål på straffe,,23,Morten Hempel JENSEN,,,,12,Fabian NORSTEN
+28,748674,14.22,,AAH,Skud på stolpe,HB,25,Marinus MUNK,,,,12,Magnus BRANDBYGE
+29,748674,14.54,,SAH,Skud reddet,VB,32,Fredrik OLSSON,,,,12,Fabian NORSTEN
+30,748674,15.17,,AAH,Time out,,,,,,,,
+31,748674,15.33,,AAH,Fejlaflevering,,9,Miguel MARTINS,,,,,
+32,748674,15.37,4-6,SAH,Mål,1:e,3,Kristjan ÖRN KRISTJANSSON,,,,12,Fabian NORSTEN
+33,748674,16.31,5-6,AAH,Mål,ST,11,Simon HALD,Assist,9,Miguel MARTINS,12,Magnus BRANDBYGE
+34,748674,17.09,,SAH,Tilkendt straffe,,32,Fredrik OLSSON,Forårs. str.,21,Henrik MØLLGAARD,,
+35,748674,17.20,,SAH,Udvisning,,23,Morten Hempel JENSEN,,,,,
+36,748674,17.22,5-7,SAH,Mål på straffe,,25,Jeppe CIESLAK,,,,12,Fabian NORSTEN
+37,748674,17.53,6-7,AAH,Mål,VB,25,Marinus MUNK,,,,12,Magnus BRANDBYGE
+38,748674,18.37,,SAH,Skud blokeret,PL,32,Fredrik OLSSON,Blok af (ret),20,Felix MÖLLER,,
+39,748674,18.58,,SAH,Tilkendt straffe,,3,Kristjan ÖRN KRISTJANSSON,Forårs. str.,23,Buster JUUL,,
+40,748674,19.05,6-8,SAH,Mål på straffe,,25,Jeppe CIESLAK,,,,32,Anton HELLBERG
+41,748674,19.49,,AAH,Skud reddet,PL,25,Marinus MUNK,,,,12,Magnus BRANDBYGE
+42,748674,20.22,,SAH,Skud blokeret,PL,15,Emil LÆRKE,Blok af (ret),21,Henrik MØLLGAARD,,
+43,748674,20.43,6-9,SAH,Mål,VB,32,Fredrik OLSSON,,,,12,Fabian NORSTEN
+44,748674,20.56,,AAH,Fejlaflevering,,25,Marinus MUNK,,,,,
+45,748674,21.06,,SAH,Skud reddet,2:e,3,Kristjan ÖRN KRISTJANSSON,,,,12,Fabian NORSTEN
+46,748674,21.52,,SAH,Advarsel,,15,Emil LÆRKE,,,,,
+47,748674,22.06,7-9,AAH,Mål,Gbr,25,Marinus MUNK,,,,12,Magnus BRANDBYGE
+48,748674,22.41,,SAH,Skud blokeret,PL,3,Kristjan ÖRN KRISTJANSSON,Blok af (ret),20,Felix MÖLLER,,
+49,748674,22.58,,AAH,Advarsel,,19,Kristian BJØRNSEN,,,,,
+50,748674,23.37,,SAH,Skud reddet,VB,15,Emil LÆRKE,,,,12,Fabian NORSTEN
+51,748674,24.10,8-9,AAH,Mål,PL,25,Marinus MUNK,,,,12,Magnus BRANDBYGE
+52,748674,24.43,8-10,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,12,Fabian NORSTEN
+53,748674,24.52,9-10,AAH,Mål,2:e,23,Buster JUUL,Assist,15,Jack THURIN,12,Magnus BRANDBYGE
+54,748674,25.30,9-11,SAH,Mål,HB,3,Kristjan ÖRN KRISTJANSSON,,,,12,Fabian NORSTEN
+55,748674,26.02,10-11,AAH,Mål,Gbr,25,Marinus MUNK,Assist,9,Miguel MARTINS,12,Magnus BRANDBYGE
+56,748674,26.34,,SAH,Time out,,,,,,,,
+57,748674,27.03,,SAH,Skud reddet,PL,32,Fredrik OLSSON,,,,12,Fabian NORSTEN
+58,748674,27.37,11-11,AAH,Mål,Gbr,15,Jack THURIN,,,,12,Magnus BRANDBYGE
+59,748674,27.46,11-12,SAH,Mål,2:e,23,Morten Hempel JENSEN,,,,32,Anton HELLBERG
+60,748674,28.17,,AAH,Skud reddet,HF,19,Kristian BJØRNSEN,Retur,0,,12,Magnus BRANDBYGE
+61,748674,28.44,,SAH,Udvisning,,23,Morten Hempel JENSEN,,,,,
+62,748674,29.01,12-12,AAH,Mål,ST,9,Miguel MARTINS,Assist,18,Aleks VLAH,12,Magnus BRANDBYGE
+63,748674,29.44,,SAH,Skud reddet,HB,3,Kristjan ÖRN KRISTJANSSON,,,,32,Anton HELLBERG
+64,748674,29.51,,AAH,Skud reddet,2:e,15,Jack THURIN,,,,12,Magnus BRANDBYGE
+65,748674,29.53,,SAH,Skud reddet,1:e,25,Jeppe CIESLAK,Retur,0,,32,Anton HELLBERG
+66,748674,30.00,12-12,,Halvleg,,,,,,,,
+67,748674,30.00,,,Start 2:e halvleg,,,,,,,,
+68,748674,30.32,13-12,AAH,Mål,HF,19,Kristian BJØRNSEN,Assist,14,Mads HOXER,12,Magnus BRANDBYGE
+69,748674,31.59,,SAH,Regelfejl,,32,Fredrik OLSSON,,,,,
+70,748674,32.03,14-12,AAH,Mål,1:e,19,Kristian BJØRNSEN,Assist,14,Mads HOXER,12,Magnus BRANDBYGE
+71,748674,32.54,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+72,748674,33.26,15-12,AAH,Mål,VF,23,Buster JUUL,Assist,9,Miguel MARTINS,12,Magnus BRANDBYGE
+73,748674,33.31,,SAH,Time out,,,,,,,,
+74,748674,33.57,15-13,SAH,Mål,HB,32,Fredrik OLSSON,,,,12,Fabian NORSTEN
+75,748674,34.08,16-13,AAH,Mål,2:e,19,Kristian BJØRNSEN,Assist,9,Miguel MARTINS,12,Magnus BRANDBYGE
+76,748674,34.40,16-14,SAH,Mål,VB,23,Morten Hempel JENSEN,,,,12,Fabian NORSTEN
+77,748674,34.53,17-14,AAH,Mål,2:e,25,Marinus MUNK,Assist,14,Mads HOXER,12,Magnus BRANDBYGE
+78,748674,35.43,17-15,SAH,Mål,HF,11,Mikkel LANG,Assist,32,Fredrik OLSSON,12,Fabian NORSTEN
+79,748674,36.16,,AAH,Regelfejl,,19,Kristian BJØRNSEN,,,,1,Kristoffer LAURSEN
+80,748674,36.18,,AAH,Udvisning,,19,Kristian BJØRNSEN,,,,,
+81,748674,36.39,,SAH,Fejlaflevering,,32,Fredrik OLSSON,Bold erobret,4,Patrick WIESMACH,,
+82,748674,37.16,18-15,AAH,Mål,VB,14,Mads HOXER,,,,1,Kristoffer LAURSEN
+83,748674,37.29,,SAH,Skud reddet,1:e,5,Frederik ARNOLDSEN,,,,12,Fabian NORSTEN
+84,748674,38.01,,SAH,Udvisning,,19,Thor CHRISTENSEN,,,,,
+85,748674,38.32,19-15,AAH,Mål,HF,4,Patrick WIESMACH,Assist,9,Miguel MARTINS,1,Kristoffer LAURSEN
+86,748674,39.28,,SAH,Regelfejl,,32,Fredrik OLSSON,,,,,
+87,748674,39.59,,AAH,Fejlaflevering,,14,Mads HOXER,,,,,
+88,748674,40.31,19-16,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,12,Fabian NORSTEN
+89,748674,41.05,20-16,AAH,Mål,Gbr,25,Marinus MUNK,,,,1,Kristoffer LAURSEN
+90,748674,42.02,,SAH,Skud reddet,HB,23,Morten Hempel JENSEN,,,,12,Fabian NORSTEN
+91,748674,42.32,21-16,AAH,Mål,PL,14,Mads HOXER,,,,1,Kristoffer LAURSEN
+92,748674,42.39,,SAH,Time out,,,,,,,,
+93,748674,43.11,21-17,SAH,Mål,ST,28,Morten KAALUND,Assist,32,Fredrik OLSSON,12,Fabian NORSTEN
+94,748674,43.48,,AAH,Fejlaflevering,,9,Miguel MARTINS,,,,,
+95,748674,44.28,21-18,SAH,Mål,VB,32,Fredrik OLSSON,,,,12,Fabian NORSTEN
+96,748674,45.00,,SAH,Udvisning,,28,Morten KAALUND,,,,,
+97,748674,45.15,22-18,AAH,Mål,Gbr,14,Mads HOXER,,,,1,Kristoffer LAURSEN
+98,748674,45.49,22-19,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,32,Fredrik OLSSON,12,Fabian NORSTEN
+99,748674,46.18,23-19,AAH,Mål,ST,20,Felix MÖLLER,Assist,9,Miguel MARTINS,1,Kristoffer LAURSEN
+100,748674,47.08,,SAH,Fejlaflevering,,32,Fredrik OLSSON,,,,,
+101,748674,47.42,,AAH,Fejlaflevering,,25,Marinus MUNK,,,,,
+102,748674,48.23,,SAH,Skud blokeret,HB,3,Kristjan ÖRN KRISTJANSSON,Blok af (ret),20,Felix MÖLLER,,
+103,748674,49.05,,SAH,Skud reddet,PL,23,Morten Hempel JENSEN,,,,12,Fabian NORSTEN
+104,748674,49.39,,,,,,,,,,,
+105,748674,50.00,,SAH,Regelfejl,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+106,748674,50.12,,AAH,Time out,,,,,,,,
+107,748674,50.58,,AAH,Skud reddet,HB,25,Marinus MUNK,,,,1,Kristoffer LAURSEN
+108,748674,51.33,23-20,SAH,Mål,ST,28,Morten KAALUND,Assist,32,Fredrik OLSSON,12,Fabian NORSTEN
+109,748674,52.10,,AAH,Skud reddet,PL,14,Mads HOXER,,,,1,Kristoffer LAURSEN
+110,748674,52.22,,SAH,Skud reddet,2:e,15,Emil LÆRKE,Retur,0,,12,Fabian NORSTEN
+111,748674,53.05,,SAH,Tilkendt straffe,,28,Morten KAALUND,Forårs. str.,20,Felix MÖLLER,,
+112,748674,53.17,,SAH,Straffekast reddet,,23,Morten Hempel JENSEN,Retur,0,,12,Fabian NORSTEN
+113,748674,53.46,,SAH,Regelfejl,,23,Morten Hempel JENSEN,,,,,
+114,748674,54.29,,AAH,Skud reddet,Gbr,9,Miguel MARTINS,Retur,0,,1,Kristoffer LAURSEN
+115,748674,54.50,,AAH,Fejlaflevering,,9,Miguel MARTINS,,,,,
+116,748674,54.56,23-21,SAH,Mål,1:e,11,Mikkel LANG,Assist,23,Morten Hempel JENSEN,12,Fabian NORSTEN
+117,748674,55.40,24-21,AAH,Mål,PL,25,Marinus MUNK,,,,1,Kristoffer LAURSEN
+118,748674,55.53,,SAH,Skud reddet,PL,23,Morten Hempel JENSEN,,,,12,Fabian NORSTEN
+119,748674,56.23,25-21,AAH,Mål,Gbr,9,Miguel MARTINS,Assist,14,Mads HOXER,1,Kristoffer LAURSEN
+120,748674,57.00,,SAH,Fejlaflevering,,20,Morten BALLING,Bold erobret,4,Patrick WIESMACH,,
+121,748674,57.04,26-21,AAH,Mål,1:e,4,Patrick WIESMACH,,,,1,Kristoffer LAURSEN
+122,748674,57.37,26-22,SAH,Mål,PL,15,Emil LÆRKE,,,,12,Fabian NORSTEN
+123,748674,58.08,27-22,AAH,Mål,PL,25,Marinus MUNK,,,,1,Kristoffer LAURSEN
+124,748674,58.48,27-23,SAH,Mål,VB,32,Fredrik OLSSON,,,,12,Fabian NORSTEN
+125,748674,59.20,28-23,AAH,Mål,Gbr,25,Marinus MUNK,,,,1,Kristoffer LAURSEN
+126,748674,59.20,,SAH,Udvisning,,6,Kristian BONEFELD,,,,,
+127,748674,59.55,28-24,SAH,Mål,ST,28,Morten KAALUND,Assist,15,Emil LÆRKE,12,Fabian NORSTEN

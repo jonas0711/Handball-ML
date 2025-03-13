@@ -1,0 +1,137 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748662,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748662,1.02,0-1,MTH,Mål,HB,21,Marcus MIDTGAARD,,,,12,Josip CAVAR
+3,748662,1.16,,KIF,Fejlaflevering,,21,Kristian STOKLUND,,,,,
+4,748662,1.23,0-2,MTH,Mål,1:e,11,Lasse PEDERSEN,Assist,,,30,Svend RUGHAVE
+5,748662,1.55,,KIF,Skud reddet,HF,29,Viktor NEVERS,,,,30,Svend RUGHAVE
+6,748662,2.22,,MTH,Tilkendt straffe,,23,Henrik TILSTED,Forårs. str.,5,Oliver NORLYK,,
+7,748662,2.28,0-3,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,12,Josip CAVAR
+8,748662,3.47,,KIF,Regelfejl,,5,Oliver NORLYK,,,,,
+9,748662,4.30,0-4,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,28,Rasmus MADSEN,12,Josip CAVAR
+10,748662,4.34,,KIF,Time out,,,,,,,,
+11,748662,5.03,,KIF,Skud reddet,PL,5,Oliver NORLYK,,,,30,Svend RUGHAVE
+12,748662,5.17,,MTH,Tabt bold,,33,Kasper DIDRIKSEN,,,,,
+13,748662,5.20,1-4,KIF,Mål,VF,4,Lars SKAARUP,Assist,28,Lauritz LEGÉR,30,Svend RUGHAVE
+14,748662,5.59,,MTH,Skud reddet,PL,28,Rasmus MADSEN,,,,12,Josip CAVAR
+15,748662,6.36,,MTH,Advarsel,,4,Kasper LINDGREN,,,,,
+16,748662,6.57,,KIF,Skud reddet,VB,28,Lauritz LEGÉR,,,,30,Svend RUGHAVE
+17,748662,7.09,1-5,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,28,Rasmus MADSEN,12,Josip CAVAR
+18,748662,7.50,2-5,KIF,Mål,Gbr,5,Oliver NORLYK,Assist,21,Kristian STOKLUND,30,Svend RUGHAVE
+19,748662,8.28,,MTH,Skud reddet,PL,21,Marcus MIDTGAARD,,,,12,Josip CAVAR
+20,748662,8.36,,KIF,Tilkendt straffe,,5,Oliver NORLYK,Forårs. str.,4,Kasper LINDGREN,,
+21,748662,8.47,3-5,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,30,Svend RUGHAVE
+22,748662,9.41,3-6,MTH,Mål,HF,11,Lasse PEDERSEN,Assist,19,Victor NORLYK,12,Josip CAVAR
+23,748662,10.15,4-6,KIF,Mål,Gbr,28,Lauritz LEGÉR,Assist,18,Benjamin PEDERSEN,30,Svend RUGHAVE
+24,748662,11.56,,MTH,Skud reddet,VB,19,Victor NORLYK,,,,12,Josip CAVAR
+25,748662,12.04,5-6,KIF,Mål,ST,21,Kristian STOKLUND,Assist,5,Oliver NORLYK,30,Svend RUGHAVE
+26,748662,12.42,,MTH,Tabt bold,,10,Mads Svane KNUDSEN,Bold erobret,13,Mathias HEDEGAARD,,
+27,748662,12.46,,KIF,Skud på stolpe,1:e,29,Viktor NEVERS,,,,30,Svend RUGHAVE
+28,748662,13.13,,MTH,Fejlaflevering,,7,Nichlas HALD,,,,,
+29,748662,13.21,6-6,KIF,Mål,2:e,5,Oliver NORLYK,,,,30,Svend RUGHAVE
+30,748662,14.03,6-7,MTH,Mål,VB,7,Nichlas HALD,,,,12,Josip CAVAR
+31,748662,14.38,7-7,KIF,Mål,Gbr,28,Lauritz LEGÉR,Assist,21,Kristian STOKLUND,30,Svend RUGHAVE
+32,748662,15.19,,MTH,Tabt bold,,10,Mads Svane KNUDSEN,,,,,
+33,748662,16.13,,KIF,Skud reddet,Gbr,5,Oliver NORLYK,,,,30,Svend RUGHAVE
+34,748662,16.19,7-8,MTH,Mål,PL,15,Henrik Toft HANSEN,,,,12,Josip CAVAR
+35,748662,16.44,8-8,KIF,Mål,ST,18,Benjamin PEDERSEN,Assist,28,Lauritz LEGÉR,30,Svend RUGHAVE
+36,748662,16.55,8-9,MTH,Mål,Gbr,7,Nichlas HALD,,,,12,Josip CAVAR
+37,748662,17.31,,MTH,Advarsel,,23,Henrik TILSTED,,,,,
+38,748662,18.08,,KIF,Fejlaflevering,,21,Kristian STOKLUND,Bold erobret,7,Nichlas HALD,,
+39,748662,18.17,8-10,MTH,Mål,1:e,7,Nichlas HALD,,,,12,Josip CAVAR
+40,748662,19.17,9-10,KIF,Mål,Gbr,28,Lauritz LEGÉR,,,,30,Svend RUGHAVE
+41,748662,20.37,,MTH,Skud forbi,PL,7,Nichlas HALD,,,,12,Josip CAVAR
+42,748662,20.54,10-10,KIF,Mål,Gbr,24,Diogo SILVA,,,,30,Svend RUGHAVE
+43,748662,21.20,,MTH,Skud reddet,PL,7,Nichlas HALD,,,,12,Josip CAVAR
+44,748662,21.26,11-10,KIF,Mål,1:e,21,Kristian STOKLUND,Assist,24,Diogo SILVA,30,Svend RUGHAVE
+45,748662,21.37,,MTH,Skud forbi,2:e,10,Mads Svane KNUDSEN,,,,12,Josip CAVAR
+46,748662,21.45,,KIF,Skud forbi,2:e,28,Lauritz LEGÉR,,,,30,Svend RUGHAVE
+47,748662,22.26,,MTH,Skud på stolpe,PL,10,Mads Svane KNUDSEN,,,,12,Josip CAVAR
+48,748662,22.31,12-10,KIF,Mål,1:e,18,Benjamin PEDERSEN,Assist,13,Mathias HEDEGAARD,30,Svend RUGHAVE
+49,748662,22.35,,MTH,Time out,,,,,,,,
+50,748662,23.09,12-11,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,12,Josip CAVAR
+51,748662,23.14,,MTH,Udvisning,,7,Nichlas HALD,,,,,
+52,748662,23.51,,KIF,Skud reddet,VF,4,Lars SKAARUP,,,,20,Oliver LARSEN
+53,748662,24.44,,MTH,Skud blokeret,PL,9,Kristoffer VESTERGAARD,Blokeret af,13,Mathias HEDEGAARD,,
+54,748662,25.06,,KIF,Regelfejl,,28,Lauritz LEGÉR,,,,,
+55,748662,25.52,,MTH,Tilkendt straffe,,15,Henrik Toft HANSEN,Forårs. str.,13,Mathias HEDEGAARD,,
+56,748662,25.52,,KIF,Udvisning,,13,Mathias HEDEGAARD,,,,,
+57,748662,25.56,12-12,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,12,Josip CAVAR
+58,748662,26.43,13-12,KIF,Mål,PL,28,Lauritz LEGÉR,,,,20,Oliver LARSEN
+59,748662,27.29,13-13,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,12,Josip CAVAR
+60,748662,28.12,,KIF,Skud reddet,HB,24,Diogo SILVA,,,,20,Oliver LARSEN
+61,748662,28.18,13-14,MTH,Mål,1:e,25,Magnus NORLYK,Assist,7,Nichlas HALD,12,Josip CAVAR
+62,748662,28.53,,KIF,Time out,,,,,,,,
+63,748662,29.10,,KIF,Skud blokeret,PL,24,Diogo SILVA,Blokeret af,4,Kasper LINDGREN,,
+64,748662,29.50,,MTH,Skud reddet,PL,21,Marcus MIDTGAARD,,,,12,Josip CAVAR
+65,748662,30.00,,KIF,Tilkendt straffe,,29,Viktor NEVERS,Forårs. str.,7,Nichlas HALD,,
+66,748662,30.00,,MTH,Udvisning,,7,Nichlas HALD,,,,,
+67,748662,30.00,14-14,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,20,Oliver LARSEN
+68,748662,30.00,14-14,,Halvleg,,,,,,,,
+69,748662,30.00,,,Start 2:e halvleg,,,,,,,,
+70,748662,30.22,,KIF,Skud forbi,ST,18,Benjamin PEDERSEN,,,,20,Oliver LARSEN
+71,748662,30.56,14-15,MTH,Mål,PL,21,Marcus MIDTGAARD,,,,12,Josip CAVAR
+72,748662,31.12,15-15,KIF,Mål,ST,13,Mathias HEDEGAARD,Assist,5,Oliver NORLYK,20,Oliver LARSEN
+73,748662,32.37,,MTH,Skud blokeret,PL,28,Rasmus MADSEN,Blok af (ret),28,Lauritz LEGÉR,,
+74,748662,32.44,,MTH,Skud blokeret,PL,9,Kristoffer VESTERGAARD,Blokeret af,13,Mathias HEDEGAARD,,
+75,748662,33.29,16-15,KIF,Mål,VF,4,Lars SKAARUP,Assist,28,Lauritz LEGÉR,20,Oliver LARSEN
+76,748662,34.25,,MTH,Skud reddet,ST,33,Kasper DIDRIKSEN,,,,12,Josip CAVAR
+77,748662,34.55,,KIF,Skud reddet,ST,9,Victor LYNGSØ,Retur,0,,20,Oliver LARSEN
+78,748662,35.19,,KIF,Tilkendt straffe,,29,Viktor NEVERS,Forårs. str.,21,Marcus MIDTGAARD,,
+79,748662,35.19,,MTH,Udvisning,,21,Marcus MIDTGAARD,,,,,
+80,748662,35.22,17-15,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,30,Svend RUGHAVE
+81,748662,35.59,17-16,MTH,Mål,HB,7,Nichlas HALD,,,,12,Josip CAVAR
+82,748662,36.06,18-16,KIF,Mål,2:e,5,Oliver NORLYK,,,,0,
+83,748662,37.15,18-17,MTH,Mål,PL,7,Nichlas HALD,,,,12,Josip CAVAR
+84,748662,37.43,,KIF,Regelfejl,,5,Oliver NORLYK,,,,,
+85,748662,38.25,,MTH,Skud reddet,VF,23,Henrik TILSTED,,,,12,Josip CAVAR
+86,748662,38.31,19-17,KIF,Mål,PL,12,Josip CAVAR,,,,0,
+87,748662,38.52,,MTH,Skud reddet,Gbr,21,Marcus MIDTGAARD,,,,12,Josip CAVAR
+88,748662,38.52,,MTH,Udvisning,,21,Marcus MIDTGAARD,,,,,
+89,748662,39.21,20-17,KIF,Mål,Gbr,28,Lauritz LEGÉR,Assist,18,Benjamin PEDERSEN,20,Oliver LARSEN
+90,748662,40.27,20-18,MTH,Mål,PL,7,Nichlas HALD,,,,12,Josip CAVAR
+91,748662,40.53,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,Bold erobret,7,Nichlas HALD,,
+92,748662,40.57,20-19,MTH,Mål,1:e,11,Lasse PEDERSEN,Assist,7,Nichlas HALD,12,Josip CAVAR
+93,748662,41.27,,KIF,Skud forbi,HB,24,Diogo SILVA,,,,20,Oliver LARSEN
+94,748662,42.34,,MTH,Skud reddet,VF,23,Henrik TILSTED,,,,12,Josip CAVAR
+95,748662,42.42,21-19,KIF,Mål,1:e,29,Viktor NEVERS,Assist,13,Mathias HEDEGAARD,20,Oliver LARSEN
+96,748662,42.51,,MTH,Skud reddet,HF,11,Lasse PEDERSEN,,,,12,Josip CAVAR
+97,748662,43.31,22-19,KIF,Mål,HF,29,Viktor NEVERS,Assist,5,Oliver NORLYK,20,Oliver LARSEN
+98,748662,43.43,,MTH,Skud reddet,Gbr,10,Mads Svane KNUDSEN,,,,12,Josip CAVAR
+99,748662,44.25,,KIF,Skud reddet,VF,4,Lars SKAARUP,,,,20,Oliver LARSEN
+100,748662,44.32,22-20,MTH,Mål,PL,11,Lasse PEDERSEN,,,,0,
+101,748662,45.09,,KIF,Regelfejl,,22,Frederik BAY,,,,,
+102,748662,45.39,,MTH,Tilkendt straffe,,21,Marcus MIDTGAARD,Forårs. str.,28,Lauritz LEGÉR,,
+103,748662,45.47,22-21,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,1,Emil TELLERUP
+104,748662,46.34,22-22,MTH,Mål,PL,11,Lasse PEDERSEN,,,,12,Josip CAVAR
+105,748662,46.34,,KIF,Time out,,,,,,,,
+106,748662,47.02,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,Bold erobret,7,Nichlas HALD,,
+107,748662,47.07,,MTH,Skud reddet,1:e,7,Nichlas HALD,Retur,0,,12,Josip CAVAR
+108,748662,47.47,,MTH,Skud reddet,PL,10,Mads Svane KNUDSEN,,,,12,Josip CAVAR
+109,748662,48.17,,KIF,Regelfejl,,4,Lars SKAARUP,,,,,
+110,748662,48.24,22-23,MTH,Mål,2:e,10,Mads Svane KNUDSEN,,,,12,Josip CAVAR
+111,748662,49.16,,KIF,Skud forbi,HB,5,Oliver NORLYK,,,,20,Oliver LARSEN
+112,748662,49.59,,MTH,Skud på stolpe,Gbr,7,Nichlas HALD,,,,12,Josip CAVAR
+113,748662,50.51,,KIF,Fejlaflevering,,21,Kristian STOKLUND,,,,,
+114,748662,51.21,22-24,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,12,Josip CAVAR
+115,748662,51.28,,KIF,Skud reddet,2:e,5,Oliver NORLYK,Retur,0,,20,Oliver LARSEN
+116,748662,51.53,23-24,KIF,Mål,Gbr,21,Kristian STOKLUND,,,,20,Oliver LARSEN
+117,748662,52.33,,MTH,Skud blokeret,PL,10,Mads Svane KNUDSEN,Blok af (ret),13,Mathias HEDEGAARD,,
+118,748662,52.45,,MTH,Skud reddet,PL,10,Mads Svane KNUDSEN,,,,12,Josip CAVAR
+119,748662,52.52,24-24,KIF,Mål,PL,12,Josip CAVAR,,,,0,
+120,748662,53.35,,MTH,Skud reddet,ST,33,Kasper DIDRIKSEN,,,,12,Josip CAVAR
+121,748662,54.00,25-24,KIF,Mål,ST,18,Benjamin PEDERSEN,Assist,21,Kristian STOKLUND,20,Oliver LARSEN
+122,748662,54.12,,MTH,Time out,,,,,,,,
+123,748662,54.27,25-25,MTH,Mål,ST,4,Kasper LINDGREN,Assist,10,Mads Svane KNUDSEN,12,Josip CAVAR
+124,748662,55.08,26-25,KIF,Mål,PL,21,Kristian STOKLUND,,,,30,Svend RUGHAVE
+125,748662,55.48,26-26,MTH,Mål,Gbr,21,Marcus MIDTGAARD,,,,12,Josip CAVAR
+126,748662,56.19,,KIF,Tilkendt straffe,,5,Oliver NORLYK,Forårs. str.,23,Henrik TILSTED,,
+127,748662,56.27,27-26,KIF,Mål på straffe,,21,Kristian STOKLUND,,,,30,Svend RUGHAVE
+128,748662,57.10,,MTH,Skud reddet,ST,4,Kasper LINDGREN,Retur,15,Henrik Toft HANSEN,12,Josip CAVAR
+129,748662,57.13,,MTH,Tilkendt straffe,,15,Henrik Toft HANSEN,Forårs. str.,28,Lauritz LEGÉR,,
+130,748662,57.17,27-27,MTH,Mål på straffe,,11,Lasse PEDERSEN,,,,12,Josip CAVAR
+131,748662,57.43,,KIF,Skud reddet,ST,18,Benjamin PEDERSEN,Retur,0,,30,Svend RUGHAVE
+132,748662,58.03,,KIF,Fejlaflevering,,28,Lauritz LEGÉR,,,,,
+133,748662,58.39,27-28,MTH,Mål,Gbr,7,Nichlas HALD,Assist,10,Mads Svane KNUDSEN,12,Josip CAVAR
+134,748662,59.06,28-28,KIF,Mål,Gbr,21,Kristian STOKLUND,,,,30,Svend RUGHAVE
+135,748662,59.33,,MTH,Time out,,,,,,,,
+136,748662,59.58,,MTH,Fejlaflevering,,10,Mads Svane KNUDSEN,,,,,

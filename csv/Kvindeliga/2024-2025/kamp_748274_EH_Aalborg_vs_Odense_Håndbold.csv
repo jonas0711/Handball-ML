@@ -1,0 +1,147 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748274,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748274,0.32,0-1,ODE,Mål,Gbr,27,Louise BURGAARD,Assist,22,Ragnhild DAHL,1,Annika FRIDHEIM
+3,748274,0.51,,EHA,Skud forbi,2:e,5,Anna Hviid BANG,,,,38,Yara TEN HOLTE
+4,748274,1.01,0-2,ODE,Mål,2:e,22,Ragnhild DAHL,,,,1,Annika FRIDHEIM
+5,748274,1.31,,EHA,Skud reddet,PL,23,Silje BRØNS,Retur,0,,38,Yara TEN HOLTE
+6,748274,1.46,1-2,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,5,Anna Hviid BANG,38,Yara TEN HOLTE
+7,748274,2.17,1-3,ODE,Mål,ST,20,Lysa DEFO,Assist,22,Ragnhild DAHL,1,Annika FRIDHEIM
+8,748274,2.54,,EHA,Skud reddet,Gbr,5,Anna Hviid BANG,,,,38,Yara TEN HOLTE
+9,748274,3.25,1-4,ODE,Mål,VB,8,Helene FAUSKE,,,,1,Annika FRIDHEIM
+10,748274,3.57,,ODE,Udvisning,,27,Louise BURGAARD,,,,,
+11,748274,4.30,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+12,748274,5.01,,ODE,Tilkendt straffe,,28,Clara Skyum THOMSEN,Forårs. str.,4,Cecilie TERMANSEN,,
+13,748274,5.14,1-5,ODE,Mål på straffe,,22,Ragnhild DAHL,,,,1,Annika FRIDHEIM
+14,748274,5.41,2-5,EHA,Mål,HF,7,Marlene DAHLMANN,Assist,19,Mette BRANDT,38,Yara TEN HOLTE
+15,748274,6.08,,ODE,Fejlaflevering,,22,Ragnhild DAHL,,,,,
+16,748274,6.14,3-5,EHA,Mål,1:e,17,Lin JOHANNSEN,Assist,4,Cecilie TERMANSEN,38,Yara TEN HOLTE
+17,748274,6.41,,ODE,Skud forbi,PL,22,Ragnhild DAHL,,,,1,Annika FRIDHEIM
+18,748274,6.47,4-5,EHA,Mål,1:e,17,Lin JOHANNSEN,Assist,1,Annika FRIDHEIM,38,Yara TEN HOLTE
+19,748274,7.13,4-6,ODE,Mål,PL,27,Louise BURGAARD,,,,1,Annika FRIDHEIM
+20,748274,8.15,,EHA,Skud på stolpe,PL,19,Mette BRANDT,,,,38,Yara TEN HOLTE
+21,748274,8.55,4-7,ODE,Mål,PL,8,Helene FAUSKE,,,,1,Annika FRIDHEIM
+22,748274,9.34,,EHA,Skud reddet,PL,23,Silje BRØNS,Retur,0,,38,Yara TEN HOLTE
+23,748274,9.43,5-7,EHA,Mål,VF,17,Lin JOHANNSEN,,,,38,Yara TEN HOLTE
+24,748274,9.51,,ODE,Skud reddet,2:e,20,Lysa DEFO,,,,1,Annika FRIDHEIM
+25,748274,10.34,6-7,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,5,Anna Hviid BANG,38,Yara TEN HOLTE
+26,748274,10.50,,ODE,Fejlaflevering,,27,Louise BURGAARD,,,,,
+27,748274,11.13,,EHA,Skud reddet,PL,5,Anna Hviid BANG,,,,38,Yara TEN HOLTE
+28,748274,11.26,6-8,ODE,Mål,2:e,20,Lysa DEFO,Assist,27,Louise BURGAARD,1,Annika FRIDHEIM
+29,748274,12.07,,EHA,Fejlaflevering,,23,Silje BRØNS,Bold erobret,0,,,
+30,748274,12.58,,ODE,Skud reddet,PL,27,Louise BURGAARD,Retur,0,,1,Annika FRIDHEIM
+31,748274,13.09,6-9,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,1,Annika FRIDHEIM
+32,748274,14.03,,ODE,Advarsel,,22,Ragnhild DAHL,,,,,
+33,748274,14.24,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+34,748274,14.30,6-10,ODE,Mål,1:e,44,Nikita Van Der VLIET,,,,,
+35,748274,15.24,,EHA,Skud forbi,PL,19,Mette BRANDT,,,,38,Yara TEN HOLTE
+36,748274,15.34,6-11,ODE,Mål,2:e,20,Lysa DEFO,Assist,27,Louise BURGAARD,1,Annika FRIDHEIM
+37,748274,15.43,,EHA,Time out,,,,,,,,
+38,748274,15.58,7-11,EHA,Mål,Gbr,8,Tine GEERTSEN,,,,38,Yara TEN HOLTE
+39,748274,16.06,,ODE,Skud forbi,2:e,20,Lysa DEFO,,,,16,Johanne GRAUGAARD
+40,748274,16.40,,EHA,Regelfejl,,22,Mirja LYNGSØ,,,,,
+41,748274,17.04,,ODE,Regelfejl,,20,Lysa DEFO,,,,,
+42,748274,17.45,8-11,EHA,Mål,PL,19,Mette BRANDT,,,,38,Yara TEN HOLTE
+43,748274,17.55,,EHA,Udvisning,,8,Tine GEERTSEN,,,,,
+44,748274,18.10,,ODE,Skud reddet,PL,28,Clara Skyum THOMSEN,,,,16,Johanne GRAUGAARD
+45,748274,19.00,9-11,EHA,Mål,Gbr,23,Silje BRØNS,,,,38,Yara TEN HOLTE
+46,748274,19.02,,ODE,Udvisning,,22,Ragnhild DAHL,,,,,
+47,748274,19.28,,ODE,Skud på stolpe,HF,6,Malin AUNE,,,,16,Johanne GRAUGAARD
+48,748274,19.57,,EHA,Skud reddet,HF,7,Marlene DAHLMANN,,,,38,Yara TEN HOLTE
+49,748274,20.33,,ODE,Skud reddet,Gbr,8,Helene FAUSKE,,,,16,Johanne GRAUGAARD
+50,748274,21.10,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+51,748274,21.18,9-12,ODE,Mål,2:e,32,Mie HØJLUND,,,,16,Johanne GRAUGAARD
+52,748274,22.47,,EHA,Skud reddet,VB,10,Sofie LASSEN,,,,38,Yara TEN HOLTE
+53,748274,22.53,,ODE,Fejlaflevering,,38,Yara TEN HOLTE,,,,,
+54,748274,23.22,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+55,748274,23.29,,ODE,Time out,,,,,,,,
+56,748274,23.47,,ODE,Regelfejl,,8,Helene FAUSKE,,,,,
+57,748274,24.15,,EHA,Fejlaflevering,,3,Liv SVEINBJØRNSDÓTTIR,Bold erobret,44,Nikita Van Der VLIET,,
+58,748274,24.20,9-13,ODE,Mål,1:e,44,Nikita Van Der VLIET,,,,0,
+59,748274,25.00,,EHA,Fejlaflevering,,3,Liv SVEINBJØRNSDÓTTIR,Bold erobret,44,Nikita Van Der VLIET,,
+60,748274,25.06,9-14,ODE,Mål,1:e,44,Nikita Van Der VLIET,,,,0,
+61,748274,25.35,,EHA,Skud reddet,VF,17,Lin JOHANNSEN,,,,38,Yara TEN HOLTE
+62,748274,26.11,9-15,ODE,Mål,HB,22,Ragnhild DAHL,,,,16,Johanne GRAUGAARD
+63,748274,26.48,,EHA,Regelfejl,,23,Silje BRØNS,,,,,
+64,748274,26.56,,ODE,Skud på stolpe,2:e,28,Clara Skyum THOMSEN,,,,16,Johanne GRAUGAARD
+65,748274,27.00,10-15,EHA,Mål,1:e,7,Marlene DAHLMANN,Assist,10,Sofie LASSEN,38,Yara TEN HOLTE
+66,748274,27.29,,EHA,Advarsel,,4,Cecilie TERMANSEN,,,,,
+67,748274,27.42,,EHA,Udvisning,,4,Cecilie TERMANSEN,,,,,
+68,748274,27.53,,ODE,Regelfejl,,28,Clara Skyum THOMSEN,,,,,
+69,748274,28.41,,EHA,Skud reddet,PL,8,Tine GEERTSEN,Retur,0,,38,Yara TEN HOLTE
+70,748274,28.53,,EHA,Skud reddet,Gbr,19,Mette BRANDT,Retur,22,Mirja LYNGSØ,38,Yara TEN HOLTE
+71,748274,29.34,,EHA,Skud reddet,HB,8,Tine GEERTSEN,,,,38,Yara TEN HOLTE
+72,748274,29.59,,ODE,Fejlaflevering,,22,Ragnhild DAHL,,,,,
+73,748274,30.00,10-15,,Halvleg,,,,,,,,
+74,748274,30.00,,,Start 2:e halvleg,,,,,,,,
+75,748274,30.47,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+76,748274,31.34,10-16,ODE,Mål,HF,34,Andrea HANSEN,Assist,27,Louise BURGAARD,16,Johanne GRAUGAARD
+77,748274,32.42,,EHA,Skud blokeret,PL,19,Mette BRANDT,Blok af (ret),20,Lysa DEFO,,
+78,748274,32.45,11-16,EHA,Mål,ST,4,Cecilie TERMANSEN,,,,38,Yara TEN HOLTE
+79,748274,32.55,11-17,ODE,Mål,2:e,20,Lysa DEFO,Assist,32,Mie HØJLUND,16,Johanne GRAUGAARD
+80,748274,33.21,,ODE,Udvisning,,20,Lysa DEFO,,,,,
+81,748274,33.47,12-17,EHA,Mål,HF,28,Maiken SKOV,Assist,23,Silje BRØNS,38,Yara TEN HOLTE
+82,748274,34.35,,ODE,Skud reddet,PL,32,Mie HØJLUND,,,,16,Johanne GRAUGAARD
+83,748274,34.42,13-17,EHA,Mål,1:e,16,Johanne GRAUGAARD,,,,0,
+84,748274,35.17,,ODE,Skud reddet,Gbr,27,Louise BURGAARD,,,,16,Johanne GRAUGAARD
+85,748274,35.26,,EHA,Tilkendt straffe,,19,Mette BRANDT,Forårs. str.,44,Nikita Van Der VLIET,,
+86,748274,35.42,,EHA,Straffekast reddet,,19,Mette BRANDT,Retur,0,,38,Yara TEN HOLTE
+87,748274,35.46,14-17,EHA,Mål,ST,19,Mette BRANDT,,,,38,Yara TEN HOLTE
+88,748274,36.15,14-18,ODE,Mål,ST,20,Lysa DEFO,Assist,27,Louise BURGAARD,16,Johanne GRAUGAARD
+89,748274,36.43,,EHA,Skud reddet,Gbr,19,Mette BRANDT,,,,38,Yara TEN HOLTE
+90,748274,36.51,14-19,ODE,Mål,2:e,23,Elma HALILCEVIC,Assist,68,Helena ELVER,16,Johanne GRAUGAARD
+91,748274,37.27,15-19,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,23,Silje BRØNS,38,Yara TEN HOLTE
+92,748274,38.00,15-20,ODE,Mål,PL,68,Helena ELVER,,,,16,Johanne GRAUGAARD
+93,748274,38.36,16-20,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,5,Anna Hviid BANG,38,Yara TEN HOLTE
+94,748274,38.46,16-21,ODE,Mål,2:e,68,Helena ELVER,Assist,32,Mie HØJLUND,16,Johanne GRAUGAARD
+95,748274,39.16,,EHA,Skud reddet,PL,23,Silje BRØNS,,,,38,Yara TEN HOLTE
+96,748274,39.28,16-22,ODE,Mål,2:e,20,Lysa DEFO,Assist,68,Helena ELVER,16,Johanne GRAUGAARD
+97,748274,40.01,,EHA,Fejlaflevering,,5,Anna Hviid BANG,,,,,
+98,748274,40.28,,ODE,Fejlaflevering,,27,Louise BURGAARD,Bold erobret,17,Lin JOHANNSEN,,
+99,748274,41.10,,EHA,Skud på stolpe,VF,17,Lin JOHANNSEN,,,,38,Yara TEN HOLTE
+100,748274,41.23,16-23,ODE,Mål,HF,34,Andrea HANSEN,Assist,27,Louise BURGAARD,16,Johanne GRAUGAARD
+101,748274,41.40,,EHA,Skud reddet,2:e,28,Maiken SKOV,,,,38,Yara TEN HOLTE
+102,748274,41.48,,ODE,Skud reddet,2:e,23,Elma HALILCEVIC,,,,16,Johanne GRAUGAARD
+103,748274,42.22,17-23,EHA,Mål,ST,22,Mirja LYNGSØ,Assist,5,Anna Hviid BANG,38,Yara TEN HOLTE
+104,748274,42.31,,,,,,,,,,,
+105,748274,42.31,,EHA,Udvisning,,10,Sofie LASSEN,,,,,
+106,748274,42.34,17-24,ODE,Mål på straffe,,34,Andrea HANSEN,,,,16,Johanne GRAUGAARD
+107,748274,42.55,,EHA,Time out,,,,,,,,
+108,748274,43.44,,EHA,Skud reddet,PL,5,Anna Hviid BANG,,,,38,Yara TEN HOLTE
+109,748274,43.59,17-25,ODE,Mål,Gbr,68,Helena ELVER,,,,16,Johanne GRAUGAARD
+110,748274,44.32,18-25,EHA,Mål,PL,5,Anna Hviid BANG,,,,38,Yara TEN HOLTE
+111,748274,44.41,18-26,ODE,Mål,2:e,33,Thale Rushfeldt DEILA,,,,,
+112,748274,45.13,,ODE,Udvisning,,44,Nikita Van Der VLIET,,,,,
+113,748274,45.52,19-26,EHA,Mål,ST,4,Cecilie TERMANSEN,Assist,19,Mette BRANDT,38,Yara TEN HOLTE
+114,748274,46.25,19-27,ODE,Mål,PL,27,Louise BURGAARD,,,,1,Annika FRIDHEIM
+115,748274,46.52,20-27,EHA,Mål,Gbr,23,Silje BRØNS,Assist,19,Mette BRANDT,38,Yara TEN HOLTE
+116,748274,47.30,,ODE,Skud reddet,ST,20,Lysa DEFO,,,,1,Annika FRIDHEIM
+117,748274,48.32,,EHA,Regelfejl,,8,Tine GEERTSEN,,,,,
+118,748274,48.44,,ODE,Regelfejl,,20,Lysa DEFO,,,,,
+119,748274,49.14,,EHA,Skud reddet,ST,4,Cecilie TERMANSEN,,,,38,Yara TEN HOLTE
+120,748274,49.24,,ODE,Skud reddet,2:e,33,Thale Rushfeldt DEILA,,,,1,Annika FRIDHEIM
+121,748274,49.51,,EHA,Regelfejl,,8,Tine GEERTSEN,,,,,
+122,748274,49.55,,ODE,Time out,,,,,,,,
+123,748274,50.22,,ODE,Skud reddet,HB,22,Ragnhild DAHL,,,,1,Annika FRIDHEIM
+124,748274,51.09,,EHA,Skud forbi,PL,23,Silje BRØNS,,,,38,Yara TEN HOLTE
+125,748274,51.18,20-28,ODE,Mål,2:e,28,Clara Skyum THOMSEN,,,,1,Annika FRIDHEIM
+126,748274,52.03,,EHA,Skud reddet,Gbr,8,Tine GEERTSEN,,,,38,Yara TEN HOLTE
+127,748274,52.10,20-29,ODE,Mål,1:e,44,Nikita Van Der VLIET,Assist,38,Yara TEN HOLTE,1,Annika FRIDHEIM
+128,748274,52.51,,EHA,Skud forbi,PL,19,Mette BRANDT,,,,38,Yara TEN HOLTE
+129,748274,53.06,20-30,ODE,Mål,2:e,8,Helene FAUSKE,,,,1,Annika FRIDHEIM
+130,748274,53.06,,EHA,Udvisning,,23,Silje BRØNS,,,,,
+131,748274,53.21,,EHA,Time out,,,,,,,,
+132,748274,53.56,,EHA,Skud blokeret,PL,19,Mette BRANDT,Blok af (ret),20,Lysa DEFO,,
+133,748274,54.13,21-30,EHA,Mål,Gbr,6,Isabella SØRENSEN,,,,12,Andrea Nørklit JØRGENSEN
+134,748274,54.35,21-31,ODE,Mål,ST,44,Nikita Van Der VLIET,Assist,8,Helene FAUSKE,1,Annika FRIDHEIM
+135,748274,55.06,,EHA,Skud reddet,VF,17,Lin JOHANNSEN,Retur,0,Andrea Nørklit JØRGENSEN,,
+136,748274,55.28,,EHA,Tilkendt straffe,,8,Tine GEERTSEN,Forårs. str.,28,Clara Skyum THOMSEN,,
+137,748274,55.43,22-31,EHA,Mål på straffe,,19,Mette BRANDT,,,,12,Andrea Nørklit JØRGENSEN
+138,748274,56.14,,ODE,Skud reddet,Gbr,8,Helene FAUSKE,,,,1,Annika FRIDHEIM
+139,748274,56.30,23-31,EHA,Mål,2:e,22,Mirja LYNGSØ,Assist,19,Mette BRANDT,12,Andrea Nørklit JØRGENSEN
+140,748274,56.57,,ODE,Skud blokeret,PL,22,Ragnhild DAHL,Blokeret af,10,Sofie LASSEN,,
+141,748274,57.28,24-31,EHA,Mål,PL,19,Mette BRANDT,,,,12,Andrea Nørklit JØRGENSEN
+142,748274,57.35,24-32,ODE,Mål,2:e,44,Nikita Van Der VLIET,,,,,
+143,748274,58.07,,EHA,Fejlaflevering,,19,Mette BRANDT,,,,,
+144,748274,58.32,24-33,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,1,Annika FRIDHEIM
+145,748274,59.07,25-33,EHA,Mål,ST,22,Mirja LYNGSØ,Assist,19,Mette BRANDT,12,Andrea Nørklit JØRGENSEN
+146,748274,59.59,,ODE,Skud reddet,HB,28,Clara Skyum THOMSEN,,,,1,Annika FRIDHEIM

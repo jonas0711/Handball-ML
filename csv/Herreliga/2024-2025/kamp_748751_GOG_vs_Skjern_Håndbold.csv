@@ -1,0 +1,145 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748751,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748751,0.36,1-0,GOG,Mål,PL,29,Hjalte LYKKE,,,,1,Christoffer BONDE
+3,748751,0.52,,SKH,Fejlaflevering,,13,Noah GAUDIN,,,,,
+4,748751,0.55,,GOG,Skud reddet,1:e,7,Lasse VILHELMSEN,,,,1,Christoffer BONDE
+5,748751,1.25,,SKH,Skud blokeret,HB,10,Joaquim NAZARÉ,Blok af (ret),8,Frederik TILSTED,,
+6,748751,2.00,1-1,SKH,Mål,HB,10,Joaquim NAZARÉ,,,,12,Peter JOHANNESSON
+7,748751,2.49,,GOG,Tilkendt straffe,,29,Hjalte LYKKE,Forårs. str.,14,Emil BERGHOLT,,
+8,748751,3.10,2-1,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,1,Christoffer BONDE
+9,748751,3.55,2-2,SKH,Mål,HB,13,Noah GAUDIN,,,,12,Peter JOHANNESSON
+10,748751,4.25,3-2,GOG,Mål,PL,8,Frederik TILSTED,,,,1,Christoffer BONDE
+11,748751,5.01,3-3,SKH,Mål,PL,22,Jakob RASMUSSEN,,,,12,Peter JOHANNESSON
+12,748751,5.44,,GOG,Skud blokeret,PL,15,Tobias GRØNDAHL,Blok af (ret),14,Emil BERGHOLT,,
+13,748751,6.01,4-3,GOG,Mål,HB,29,Hjalte LYKKE,,,,1,Christoffer BONDE
+14,748751,6.10,,GOG,Udvisning,,66,Anton LINDSKOG,,,,,
+15,748751,6.28,4-4,SKH,Mål,VF,5,Viktor BERGHOLT,Assist,13,Noah GAUDIN,12,Peter JOHANNESSON
+16,748751,7.13,,SKH,Advarsel,,7,Senjamin BURIC,,,,,
+17,748751,7.56,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+18,748751,8.16,4-5,SKH,Mål,HF,21,René RASMUSSEN,Assist,10,Joaquim NAZARÉ,12,Peter JOHANNESSON
+19,748751,8.47,5-5,GOG,Mål,Gbr,8,Frederik TILSTED,,,,1,Christoffer BONDE
+20,748751,9.26,,SKH,Skud reddet,HF,21,René RASMUSSEN,Retur,0,,12,Peter JOHANNESSON
+21,748751,10.10,,SKH,Skud reddet,VB,13,Noah GAUDIN,Retur,0,,12,Peter JOHANNESSON
+22,748751,10.20,,SKH,Regelfejl,,5,Viktor BERGHOLT,,,,,
+23,748751,10.25,,GOG,Fejlaflevering,,8,Frederik TILSTED,,,,,
+24,748751,11.02,,SKH,Skud reddet,Gbr,22,Jakob RASMUSSEN,,,,12,Peter JOHANNESSON
+25,748751,11.10,,GOG,Skud forbi,2:e,15,Tobias GRØNDAHL,,,,1,Christoffer BONDE
+26,748751,11.42,5-6,SKH,Mål,Gbr,22,Jakob RASMUSSEN,,,,12,Peter JOHANNESSON
+27,748751,12.19,6-6,GOG,Mål,VB,3,Nicolai PEDERSEN,,,,1,Christoffer BONDE
+28,748751,12.30,,SKH,Tilkendt straffe,,7,Senjamin BURIC,Forårs. str.,66,Anton LINDSKOG,,
+29,748751,12.52,6-7,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,12,Peter JOHANNESSON
+30,748751,13.22,,GOG,Skud forbi,VB,3,Nicolai PEDERSEN,,,,1,Christoffer BONDE
+31,748751,13.54,6-8,SKH,Mål,VF,5,Viktor BERGHOLT,Assist,13,Noah GAUDIN,12,Peter JOHANNESSON
+32,748751,14.23,,GOG,Skud reddet,PL,29,Hjalte LYKKE,,,,1,Christoffer BONDE
+33,748751,15.01,6-9,SKH,Mål,PL,13,Noah GAUDIN,,,,12,Peter JOHANNESSON
+34,748751,15.40,7-9,GOG,Mål,PL,15,Tobias GRØNDAHL,,,,1,Christoffer BONDE
+35,748751,16.10,,SKH,Skud blokeret,HB,10,Joaquim NAZARÉ,Blok af (ret),4,Kasper PEDERSEN,,
+36,748751,16.21,,SKH,Skud reddet,PL,13,Noah GAUDIN,,,,64,Salah BOUTAF
+37,748751,16.53,,GOG,Skud reddet,VB,3,Nicolai PEDERSEN,,,,1,Christoffer BONDE
+38,748751,17.00,,SKH,Time out,,,,,,,,
+39,748751,17.45,7-10,SKH,Mål,HB,25,Eivind TANGEN,,,,64,Salah BOUTAF
+40,748751,18.16,,GOG,Skud forbi,Gbr,3,Nicolai PEDERSEN,,,,1,Christoffer BONDE
+41,748751,18.26,,SKH,Regelfejl,,9,Simo ŠIJAN,,,,,
+42,748751,19.08,,GOG,Skud reddet,PL,15,Tobias GRØNDAHL,,,,1,Christoffer BONDE
+43,748751,19.41,7-11,SKH,Mål,PL,22,Jakob RASMUSSEN,,,,64,Salah BOUTAF
+44,748751,19.45,,GOG,Time out,,,,,,,,
+45,748751,20.14,8-11,GOG,Mål,Gbr,15,Tobias GRØNDAHL,,,,1,Christoffer BONDE
+46,748751,20.44,8-12,SKH,Mål,HB,25,Eivind TANGEN,,,,64,Salah BOUTAF
+47,748751,21.16,9-12,GOG,Mål,VF,23,Joachim Lyng ALS,Assist,29,Hjalte LYKKE,1,Christoffer BONDE
+48,748751,21.50,,SKH,Regelfejl,,22,Jakob RASMUSSEN,,,,,
+49,748751,23.01,,GOG,Skud reddet,Gbr,8,Frederik TILSTED,,,,1,Christoffer BONDE
+50,748751,23.09,9-13,SKH,Mål,2:e,25,Eivind TANGEN,,,,64,Salah BOUTAF
+51,748751,23.59,,GOG,Tilkendt straffe,,8,Frederik TILSTED,Forårs. str.,7,Senjamin BURIC,,
+52,748751,24.08,10-13,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,1,Christoffer BONDE
+53,748751,25.09,10-14,SKH,Mål,VB,13,Noah GAUDIN,,,,64,Salah BOUTAF
+54,748751,25.17,,GOG,Regelfejl,,9,Henrik JAKOBSEN,,,,,
+55,748751,25.23,10-15,SKH,Mål,2:e,25,Eivind TANGEN,Assist,13,Noah GAUDIN,64,Salah BOUTAF
+56,748751,25.56,11-15,GOG,Mål,HB,8,Frederik TILSTED,Assist,29,Hjalte LYKKE,1,Christoffer BONDE
+57,748751,26.28,,SKH,Skud reddet,VB,13,Noah GAUDIN,,,,12,Peter JOHANNESSON
+58,748751,26.38,,GOG,Skud reddet,2:e,8,Frederik TILSTED,,,,1,Christoffer BONDE
+59,748751,27.12,,SKH,Fejlaflevering,,13,Noah GAUDIN,,,,,
+60,748751,27.48,,GOG,Tilkendt straffe,,29,Hjalte LYKKE,Forårs. str.,13,Noah GAUDIN,,
+61,748751,27.52,12-15,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,16,Tim WINKLER
+62,748751,28.41,,SKH,Skud forbi,PL,22,Jakob RASMUSSEN,,,,12,Peter JOHANNESSON
+63,748751,28.49,,SKH,Udvisning,,13,Noah GAUDIN,,,,,
+64,748751,28.49,,SKH,Advarsel,A,,Kasper SØNDERGAARD SARUP,,,,,
+65,748751,29.07,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+66,748751,29.38,12-16,SKH,Mål,Gbr,25,Eivind TANGEN,,,,12,Peter JOHANNESSON
+67,748751,29.59,13-16,GOG,Mål,HF,21,Kasper KILDELUND,Assist,8,Frederik TILSTED,1,Christoffer BONDE
+68,748751,30.00,13-16,,Halvleg,,,,,,,,
+69,748751,30.00,,,Start 2:e halvleg,,,,,,,,
+70,748751,30.37,,SKH,Skud reddet,PL,25,Eivind TANGEN,,,,12,Peter JOHANNESSON
+71,748751,30.51,14-16,GOG,Mål,Gbr,15,Tobias GRØNDAHL,,,,1,Christoffer BONDE
+72,748751,31.23,,SKH,Regelfejl,,25,Eivind TANGEN,,,,,
+73,748751,31.32,15-16,GOG,Mål,2:e,23,Joachim Lyng ALS,Assist,15,Tobias GRØNDAHL,1,Christoffer BONDE
+74,748751,32.12,15-17,SKH,Mål,PL,13,Noah GAUDIN,,,,12,Peter JOHANNESSON
+75,748751,33.00,,GOG,Skud reddet,Gbr,15,Tobias GRØNDAHL,,,,1,Christoffer BONDE
+76,748751,33.40,,SKH,Skud forbi,PL,13,Noah GAUDIN,,,,12,Peter JOHANNESSON
+77,748751,33.58,16-17,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,29,Hjalte LYKKE,1,Christoffer BONDE
+78,748751,34.33,,SKH,Skud reddet,Gbr,13,Noah GAUDIN,,,,12,Peter JOHANNESSON
+79,748751,35.01,,GOG,Fejlaflevering,,29,Hjalte LYKKE,,,,,
+80,748751,35.08,16-18,SKH,Mål,1:e,21,René RASMUSSEN,,,,12,Peter JOHANNESSON
+81,748751,35.08,,GOG,Udvisning,,3,Nicolai PEDERSEN,,,,,
+82,748751,36.00,17-18,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,1,Christoffer BONDE
+83,748751,36.39,,SKH,Tilkendt straffe,,25,Eivind TANGEN,Forårs. str.,7,Lasse VILHELMSEN,,
+84,748751,36.41,17-19,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,12,Peter JOHANNESSON
+85,748751,38.08,18-19,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,1,Christoffer BONDE
+86,748751,38.37,,SKH,Skud reddet,PL,10,Joaquim NAZARÉ,,,,12,Peter JOHANNESSON
+87,748751,38.47,,GOG,Skud reddet,HB,29,Hjalte LYKKE,,,,1,Christoffer BONDE
+88,748751,38.53,,SKH,Skud reddet,1:e,10,Joaquim NAZARÉ,Retur,5,Viktor BERGHOLT,12,Peter JOHANNESSON
+89,748751,39.00,18-20,SKH,Mål,ST,5,Viktor BERGHOLT,,,,12,Peter JOHANNESSON
+90,748751,39.25,,GOG,Tilkendt straffe,,8,Frederik TILSTED,Forårs. str.,14,Emil BERGHOLT,,
+91,748751,39.43,19-20,GOG,Mål på straffe,,15,Tobias GRØNDAHL,,,,1,Christoffer BONDE
+92,748751,40.34,19-21,SKH,Mål,Gbr,10,Joaquim NAZARÉ,,,,12,Peter JOHANNESSON
+93,748751,40.41,20-21,GOG,Mål,2:e,3,Nicolai PEDERSEN,,,,1,Christoffer BONDE
+94,748751,40.50,,SKH,Time out,,,,,,,,
+95,748751,41.14,20-22,SKH,Mål,ST,7,Senjamin BURIC,Assist,13,Noah GAUDIN,12,Peter JOHANNESSON
+96,748751,41.42,,GOG,Regelfejl,,8,Frederik TILSTED,,,,,
+97,748751,42.26,,,Video Proof,,0,,,,,,
+98,748751,42.26,,GOG,Udvisning,,9,Henrik JAKOBSEN,,,,,
+99,748751,42.29,,,Video Proof slut,,0,,,,,,
+100,748751,42.45,20-23,SKH,Mål,ST,7,Senjamin BURIC,Assist,13,Noah GAUDIN,12,Peter JOHANNESSON
+101,748751,43.32,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,Bold erobret,7,Senjamin BURIC,,
+102,748751,43.38,20-24,SKH,Mål,1:e,5,Viktor BERGHOLT,Assist,21,René RASMUSSEN,0,
+103,748751,44.22,21-24,GOG,Mål,Gbr,15,Tobias GRØNDAHL,Assist,29,Hjalte LYKKE,1,Christoffer BONDE
+104,748751,45.12,,,,,,,,,,,
+105,748751,45.19,,GOG,Fejlaflevering,,29,Hjalte LYKKE,,,,,
+106,748751,45.25,,SKH,Skud reddet,1:e,5,Viktor BERGHOLT,,,,12,Peter JOHANNESSON
+107,748751,46.14,,SKH,Udvisning,,7,Senjamin BURIC,,,,,
+108,748751,46.29,22-24,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,15,Tobias GRØNDAHL,1,Christoffer BONDE
+109,748751,47.03,,SKH,Tabt bold,,22,Jakob RASMUSSEN,,,,,
+110,748751,47.08,23-24,GOG,Mål,1:e,7,Lasse VILHELMSEN,Assist,3,Nicolai PEDERSEN,,
+111,748751,47.39,,SKH,Tilkendt straffe,,22,Jakob RASMUSSEN,Forårs. str.,7,Lasse VILHELMSEN,,
+112,748751,47.39,,GOG,Udvisning,,7,Lasse VILHELMSEN,,,,,
+113,748751,47.42,23-25,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,64,Salah BOUTAF
+114,748751,48.07,24-25,GOG,Mål,ST,9,Henrik JAKOBSEN,Assist,29,Hjalte LYKKE,1,Christoffer BONDE
+115,748751,48.36,24-26,SKH,Mål,PL,13,Noah GAUDIN,,,,12,Peter JOHANNESSON
+116,748751,49.16,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+117,748751,49.23,24-27,SKH,Mål,1:e,14,Emil BERGHOLT,Assist,13,Noah GAUDIN,12,Peter JOHANNESSON
+118,748751,49.42,,GOG,Time out,,,,,,,,
+119,748751,50.00,25-27,GOG,Mål,Gbr,29,Hjalte LYKKE,Assist,15,Tobias GRØNDAHL,1,Christoffer BONDE
+120,748751,50.08,25-28,SKH,Mål,2:e,5,Viktor BERGHOLT,Assist,13,Noah GAUDIN,12,Peter JOHANNESSON
+121,748751,50.41,26-28,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,29,Hjalte LYKKE,1,Christoffer BONDE
+122,748751,51.18,,SKH,Tilkendt straffe,,13,Noah GAUDIN,Forårs. str.,7,Lasse VILHELMSEN,,
+123,748751,51.19,26-29,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,12,Peter JOHANNESSON
+124,748751,51.49,27-29,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,16,Tim WINKLER
+125,748751,52.53,,SKH,Skud reddet,PL,22,Jakob RASMUSSEN,,,,12,Peter JOHANNESSON
+126,748751,53.47,28-29,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,29,Hjalte LYKKE,16,Tim WINKLER
+127,748751,54.08,,SKH,Skud forbi,HB,13,Noah GAUDIN,,,,12,Peter JOHANNESSON
+128,748751,54.18,,GOG,Skud forbi,2:e,9,Henrik JAKOBSEN,,,,16,Tim WINKLER
+129,748751,54.52,,SKH,Skud reddet,PL,22,Jakob RASMUSSEN,,,,12,Peter JOHANNESSON
+130,748751,55.03,29-29,GOG,Mål,2:e,3,Nicolai PEDERSEN,,,,16,Tim WINKLER
+131,748751,55.35,29-30,SKH,Mål,ST,14,Emil BERGHOLT,Assist,13,Noah GAUDIN,12,Peter JOHANNESSON
+132,748751,55.58,30-30,GOG,Mål,Gbr,8,Frederik TILSTED,Assist,66,Anton LINDSKOG,1,Christoffer BONDE
+133,748751,56.29,,SKH,Tilkendt straffe,,14,Emil BERGHOLT,Forårs. str.,3,Nicolai PEDERSEN,,
+134,748751,56.30,30-31,SKH,Mål på straffe,,15,Lasse MIKKELSEN,,,,64,Salah BOUTAF
+135,748751,57.09,31-31,GOG,Mål,ST,9,Henrik JAKOBSEN,Assist,15,Tobias GRØNDAHL,1,Christoffer BONDE
+136,748751,57.48,,SKH,Skud forbi,Gbr,13,Noah GAUDIN,,,,12,Peter JOHANNESSON
+137,748751,58.29,,GOG,Skud reddet,ST,9,Henrik JAKOBSEN,,,,1,Christoffer BONDE
+138,748751,58.43,,SKH,Time out,,,,,,,,
+139,748751,59.00,,SKH,Tabt bold,,25,Eivind TANGEN,,,,,
+140,748751,59.21,,GOG,Time out,,,,,,,,
+141,748751,59.42,32-31,GOG,Mål,Gbr,15,Tobias GRØNDAHL,Assist,9,Henrik JAKOBSEN,1,Christoffer BONDE
+142,748751,59.56,32-32,SKH,Mål,Gbr,13,Noah GAUDIN,,,,12,Peter JOHANNESSON
+143,748751,60.00,32-32,,Fuld tid,,,,,,,,
+144,748751,60.00,,,Kamp slut,,,,,,,,

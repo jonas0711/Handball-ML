@@ -1,0 +1,145 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748209,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748209,0.47,,ODE,Skud på stolpe,Gbr,68,Helena ELVER,,,,12,Anna KRISTENSEN
+3,748209,1.34,,TES,Tilkendt straffe,,25,Henny REISTAD,Forårs. str.,33,Thale Rushfeldt DEILA,,
+4,748209,1.37,0-1,TES,Mål på straffe,,8,Live RUSHFELDT DEILA,,,,38,Yara TEN HOLTE
+5,748209,2.12,1-1,ODE,Mål,ST,3,Maren AARDAHL,Assist,32,Mie HØJLUND,12,Anna KRISTENSEN
+6,748209,2.47,,TES,Skud reddet,HF,20,Marit Røsberg JACOBSEN,,,,38,Yara TEN HOLTE
+7,748209,2.56,,ODE,Fejlaflevering,,33,Thale Rushfeldt DEILA,Bold erobret,0,,,
+8,748209,3.05,,TES,Tabt bold,,8,Live RUSHFELDT DEILA,Bold erobret,0,,,
+9,748209,3.31,,ODE,Skud reddet,PL,32,Mie HØJLUND,,,,12,Anna KRISTENSEN
+10,748209,3.44,,TES,Regelfejl,,22,Line HAUGSTED,,,,,
+11,748209,3.49,,ODE,Fejlaflevering,,32,Mie HØJLUND,,,,,
+12,748209,4.35,1-2,TES,Mål,PL,25,Henny REISTAD,,,,38,Yara TEN HOLTE
+13,748209,5.02,2-2,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,12,Anna KRISTENSEN
+14,748209,5.58,,ODE,Advarsel,,20,Lysa DEFO,,,,,
+15,748209,6.17,,TES,Skud reddet,PL,8,Live RUSHFELDT DEILA,,,,38,Yara TEN HOLTE
+16,748209,6.29,,ODE,Skud reddet,ST,3,Maren AARDAHL,,,,12,Anna KRISTENSEN
+17,748209,6.31,,TES,Advarsel,,25,Henny REISTAD,,,,,
+18,748209,7.12,2-3,TES,Mål,HF,20,Marit Røsberg JACOBSEN,Assist,4,Michala MØLLER,38,Yara TEN HOLTE
+19,748209,7.22,3-3,ODE,Mål,2:e,10,Anna GRUNDTVIG,,,,12,Anna KRISTENSEN
+20,748209,7.30,,TES,Udvisning,,20,Marit Røsberg JACOBSEN,,,,,
+21,748209,7.59,,TES,Fejlaflevering,,8,Live RUSHFELDT DEILA,Bold erobret,20,Lysa DEFO,,
+22,748209,8.03,4-3,ODE,Mål,1:e,10,Anna GRUNDTVIG,Assist,20,Lysa DEFO,12,Anna KRISTENSEN
+23,748209,8.50,4-4,TES,Mål,ST,10,Kathrine HEINDAHL,Assist,8,Live RUSHFELDT DEILA,38,Yara TEN HOLTE
+24,748209,8.59,5-4,ODE,Mål,2:e,10,Anna GRUNDTVIG,Assist,32,Mie HØJLUND,12,Anna KRISTENSEN
+25,748209,10.02,,TES,Regelfejl,,4,Michala MØLLER,,,,,
+26,748209,10.10,,ODE,Fejlaflevering,,68,Helena ELVER,Bold erobret,12,Anna KRISTENSEN,,
+27,748209,10.50,,TES,Fejlaflevering,,25,Henny REISTAD,Bold erobret,32,Mie HØJLUND,,
+28,748209,10.54,6-4,ODE,Mål,1:e,33,Thale Rushfeldt DEILA,Assist,32,Mie HØJLUND,12,Anna KRISTENSEN
+29,748209,11.00,,TES,Time out,,,,,,,,
+30,748209,11.21,,TES,Tilkendt straffe,,10,Kathrine HEINDAHL,Forårs. str.,20,Lysa DEFO,,
+31,748209,11.21,,ODE,Udvisning,,20,Lysa DEFO,,,,,
+32,748209,11.24,,TES,Straffekast reddet,,8,Live RUSHFELDT DEILA,,,,38,Yara TEN HOLTE
+33,748209,12.00,,ODE,Regelfejl,,32,Mie HØJLUND,,,,,
+34,748209,12.05,6-5,TES,Mål,1:e,22,Line HAUGSTED,Assist,20,Marit Røsberg JACOBSEN,,
+35,748209,12.39,7-5,ODE,Mål,VF,10,Anna GRUNDTVIG,Assist,33,Thale Rushfeldt DEILA,12,Anna KRISTENSEN
+36,748209,13.04,,TES,Fejlaflevering,,25,Henny REISTAD,Bold erobret,32,Mie HØJLUND,,
+37,748209,13.56,,ODE,Fejlaflevering,,33,Thale Rushfeldt DEILA,Bold erobret,20,Marit Røsberg JACOBSEN,,
+38,748209,14.09,,TES,Regelfejl,,20,Marit Røsberg JACOBSEN,,,,,
+39,748209,14.34,,TES,Udvisning,,25,Henny REISTAD,,,,,
+40,748209,15.00,,ODE,Skud reddet,HF,6,Malin AUNE,,,,12,Anna KRISTENSEN
+41,748209,15.30,,TES,Skud reddet,PL,4,Michala MØLLER,,,,38,Yara TEN HOLTE
+42,748209,15.40,8-5,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,,,,12,Anna KRISTENSEN
+43,748209,16.38,8-6,TES,Mål,PL,18,Mette TRANBORG,,,,38,Yara TEN HOLTE
+44,748209,16.50,9-6,ODE,Mål,HF,6,Malin AUNE,Assist,8,Helene FAUSKE,12,Anna KRISTENSEN
+45,748209,17.25,9-7,TES,Mål,Gbr,4,Michala MØLLER,Assist,25,Henny REISTAD,38,Yara TEN HOLTE
+46,748209,17.36,,ODE,Tabt bold,,3,Maren AARDAHL,Bold erobret,12,Anna KRISTENSEN,,
+47,748209,17.41,9-8,TES,Mål,1:e,11,Rikke IVERSEN,Assist,25,Henny REISTAD,38,Yara TEN HOLTE
+48,748209,18.12,10-8,ODE,Mål,Gbr,32,Mie HØJLUND,,,,12,Anna KRISTENSEN
+49,748209,18.50,,TES,Skud reddet,Gbr,8,Live RUSHFELDT DEILA,,,,38,Yara TEN HOLTE
+50,748209,19.00,11-8,ODE,Mål,2:e,6,Malin AUNE,Assist,32,Mie HØJLUND,12,Anna KRISTENSEN
+51,748209,19.13,,TES,Skud reddet,2:e,22,Line HAUGSTED,,,,38,Yara TEN HOLTE
+52,748209,19.39,,ODE,Skud reddet,PL,32,Mie HØJLUND,,,,12,Anna KRISTENSEN
+53,748209,20.07,,ODE,Advarsel,A,,Ole Gustav GJEKSTAD,,,,,
+54,748209,20.14,11-9,TES,Mål,VF,24,Sanna SOLBERG,Assist,8,Live RUSHFELDT DEILA,38,Yara TEN HOLTE
+55,748209,20.36,,ODE,Time out,,,,,,,,
+56,748209,20.54,,ODE,Fejlaflevering,,28,Clara Skyum THOMSEN,Bold erobret,11,Rikke IVERSEN,,
+57,748209,21.25,,TES,Fejlaflevering,,8,Live RUSHFELDT DEILA,Bold erobret,3,Maren AARDAHL,,
+58,748209,21.31,,TES,Advarsel,B,,Christian Knutzon KØHLER,,,,,
+59,748209,21.48,,ODE,Fejlaflevering,,8,Helene FAUSKE,Bold erobret,0,,,
+60,748209,21.56,,TES,Skud på stolpe,2:e,18,Mette TRANBORG,Retur,17,Elin HANSSON,38,Yara TEN HOLTE
+61,748209,22.42,11-10,TES,Mål,VB,25,Henny REISTAD,,,,38,Yara TEN HOLTE
+62,748209,23.21,12-10,ODE,Mål,Gbr,28,Clara Skyum THOMSEN,,,,12,Anna KRISTENSEN
+63,748209,24.19,,TES,Tilkendt straffe,,25,Henny REISTAD,Forårs. str.,3,Maren AARDAHL,,
+64,748209,24.36,12-11,TES,Mål på straffe,,4,Michala MØLLER,,,,38,Yara TEN HOLTE
+65,748209,25.29,,ODE,Fejlaflevering,,32,Mie HØJLUND,,,,,
+66,748209,26.16,,TES,Regelfejl,,4,Michala MØLLER,,,,,
+67,748209,27.00,,ODE,Skud reddet,VF,10,Anna GRUNDTVIG,Retur,10,Anna GRUNDTVIG,12,Anna KRISTENSEN
+68,748209,27.17,,ODE,Regelfejl,,10,Anna GRUNDTVIG,,,,,
+69,748209,27.50,,TES,Regelfejl,,25,Henny REISTAD,,,,,
+70,748209,27.57,13-11,ODE,Mål,1:e,32,Mie HØJLUND,,,,12,Anna KRISTENSEN
+71,748209,28.25,13-12,TES,Mål,PL,18,Mette TRANBORG,,,,38,Yara TEN HOLTE
+72,748209,28.41,,ODE,Skud reddet,VF,10,Anna GRUNDTVIG,,,,12,Anna KRISTENSEN
+73,748209,29.06,,TES,Skud reddet,PL,4,Michala MØLLER,Retur,0,,38,Yara TEN HOLTE
+74,748209,29.25,13-13,TES,Mål,HF,27,Anne Tolstrup PETERSEN,Assist,18,Mette TRANBORG,38,Yara TEN HOLTE
+75,748209,30.00,,ODE,Skud forbi,VB,32,Mie HØJLUND,,,,12,Anna KRISTENSEN
+76,748209,30.00,13-13,,Halvleg,,,,,,,,
+77,748209,30.00,,,Start 2:e halvleg,,,,,,,,
+78,748209,30.52,13-14,TES,Mål,Gbr,25,Henny REISTAD,,,,16,Althea REINHARDT
+79,748209,31.29,,ODE,Skud reddet,Gbr,33,Thale Rushfeldt DEILA,,,,12,Anna KRISTENSEN
+80,748209,31.40,,TES,Tilkendt straffe,,11,Rikke IVERSEN,Forårs. str.,32,Mie HØJLUND,,
+81,748209,31.56,13-15,TES,Mål på straffe,,25,Henny REISTAD,,,,16,Althea REINHARDT
+82,748209,32.22,,ODE,Tilkendt straffe,,32,Mie HØJLUND,Forårs. str.,18,Mette TRANBORG,,
+83,748209,32.43,14-15,ODE,Mål på straffe,,34,Andrea HANSEN,,,,12,Anna KRISTENSEN
+84,748209,33.24,14-16,TES,Mål,HF,20,Marit Røsberg JACOBSEN,Assist,8,Live RUSHFELDT DEILA,16,Althea REINHARDT
+85,748209,33.37,,ODE,Skud på stolpe,VF,23,Elma HALILCEVIC,,,,12,Anna KRISTENSEN
+86,748209,34.30,14-17,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,,,,16,Althea REINHARDT
+87,748209,34.39,15-17,ODE,Mål,Gbr,68,Helena ELVER,,,,12,Anna KRISTENSEN
+88,748209,35.15,,TES,Skud reddet,PL,25,Henny REISTAD,,,,16,Althea REINHARDT
+89,748209,35.49,16-17,ODE,Mål,Gbr,32,Mie HØJLUND,Assist,68,Helena ELVER,12,Anna KRISTENSEN
+90,748209,36.25,16-18,TES,Mål,Gbr,22,Line HAUGSTED,,,,16,Althea REINHARDT
+91,748209,36.57,17-18,ODE,Mål,PL,68,Helena ELVER,,,,12,Anna KRISTENSEN
+92,748209,37.11,17-19,TES,Mål,ST,11,Rikke IVERSEN,Assist,25,Henny REISTAD,16,Althea REINHARDT
+93,748209,38.08,18-19,ODE,Mål,ST,3,Maren AARDAHL,Assist,68,Helena ELVER,12,Anna KRISTENSEN
+94,748209,38.53,,TES,Skud reddet,VB,25,Henny REISTAD,,,,16,Althea REINHARDT
+95,748209,39.41,,ODE,Skud på stolpe,Gbr,32,Mie HØJLUND,,,,12,Anna KRISTENSEN
+96,748209,40.14,,TES,Skud reddet,ST,11,Rikke IVERSEN,,,,16,Althea REINHARDT
+97,748209,40.38,,ODE,Fejlaflevering,,68,Helena ELVER,Bold erobret,12,Anna KRISTENSEN,,
+98,748209,40.46,18-20,TES,Mål,1:e,17,Elin HANSSON,Assist,25,Henny REISTAD,16,Althea REINHARDT
+99,748209,41.24,,ODE,Tilkendt straffe,,33,Thale Rushfeldt DEILA,Forårs. str.,22,Line HAUGSTED,,
+100,748209,41.27,19-20,ODE,Mål på straffe,,34,Andrea HANSEN,,,,16,Amalie MILLING
+101,748209,42.05,,TES,Skud reddet,Gbr,4,Michala MØLLER,,,,16,Althea REINHARDT
+102,748209,42.47,,ODE,Skud forbi,Gbr,22,Ragnhild DAHL,,,,12,Anna KRISTENSEN
+103,748209,43.37,19-21,TES,Mål,Gbr,25,Henny REISTAD,,,,16,Althea REINHARDT
+104,748209,44.03,20-21,ODE,Mål,,,,,,,,
+105,748209,44.15,,TES,Fejlaflevering,,25,Henny REISTAD,Bold erobret,20,Lysa DEFO,,
+106,748209,44.20,21-21,ODE,Mål,1:e,23,Elma HALILCEVIC,Assist,3,Maren AARDAHL,12,Anna KRISTENSEN
+107,748209,44.53,,TES,Tilkendt straffe,,10,Kathrine HEINDAHL,Forårs. str.,20,Lysa DEFO,,
+108,748209,45.05,21-22,TES,Mål på straffe,,25,Henny REISTAD,,,,16,Althea REINHARDT
+109,748209,45.36,22-22,ODE,Mål,Gbr,33,Thale Rushfeldt DEILA,Assist,68,Helena ELVER,12,Anna KRISTENSEN
+110,748209,45.45,,TES,Time out,,,,,,,,
+111,748209,46.37,,TES,Fejlaflevering,,8,Live RUSHFELDT DEILA,Bold erobret,16,Althea REINHARDT,,
+112,748209,46.46,,ODE,Fejlaflevering,,32,Mie HØJLUND,Bold erobret,12,Anna KRISTENSEN,,
+113,748209,46.53,,TES,Regelfejl,,25,Henny REISTAD,,,,,
+114,748209,47.54,,ODE,Skud reddet,PL,32,Mie HØJLUND,,,,16,Amalie MILLING
+115,748209,48.23,22-23,TES,Mål,ST,10,Kathrine HEINDAHL,Assist,8,Live RUSHFELDT DEILA,16,Althea REINHARDT
+116,748209,48.56,23-23,ODE,Mål,HF,34,Andrea HANSEN,Assist,32,Mie HØJLUND,16,Amalie MILLING
+117,748209,49.32,,TES,Skud reddet,Gbr,25,Henny REISTAD,,,,16,Althea REINHARDT
+118,748209,49.58,24-23,ODE,Mål,HF,34,Andrea HANSEN,Assist,68,Helena ELVER,16,Amalie MILLING
+119,748209,50.30,24-24,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,,,,16,Althea REINHARDT
+120,748209,50.41,,ODE,Tilkendt straffe,,32,Mie HØJLUND,Forårs. str.,8,Live RUSHFELDT DEILA,,
+121,748209,50.42,,TES,Udvisning,,8,Live RUSHFELDT DEILA,,,,,
+122,748209,50.45,25-24,ODE,Mål på straffe,,34,Andrea HANSEN,,,,16,Amalie MILLING
+123,748209,51.31,,TES,Skud reddet,VB,22,Line HAUGSTED,,,,16,Althea REINHARDT
+124,748209,51.47,26-24,ODE,Mål,ST,3,Maren AARDAHL,Assist,68,Helena ELVER,16,Amalie MILLING
+125,748209,52.41,26-25,TES,Mål,HF,27,Anne Tolstrup PETERSEN,Assist,4,Michala MØLLER,16,Althea REINHARDT
+126,748209,53.09,27-25,ODE,Mål,ST,34,Andrea HANSEN,Assist,32,Mie HØJLUND,16,Amalie MILLING
+127,748209,53.17,,TES,Skud reddet,2:e,25,Henny REISTAD,,,,16,Althea REINHARDT
+128,748209,53.56,28-25,ODE,Mål,Gbr,32,Mie HØJLUND,,,,16,Amalie MILLING
+129,748209,54.11,28-26,TES,Mål,HF,27,Anne Tolstrup PETERSEN,Assist,25,Henny REISTAD,16,Althea REINHARDT
+130,748209,54.32,,ODE,Time out,,,,,,,,
+131,748209,55.21,,ODE,Fejlaflevering,,33,Thale Rushfeldt DEILA,Bold erobret,22,Line HAUGSTED,,
+132,748209,56.29,28-27,TES,Mål,Gbr,8,Live RUSHFELDT DEILA,,,,16,Althea REINHARDT
+133,748209,57.03,,ODE,Tilkendt straffe,,33,Thale Rushfeldt DEILA,Forårs. str.,10,Kathrine HEINDAHL,,
+134,748209,57.08,29-27,ODE,Mål på straffe,,34,Andrea HANSEN,,,,12,Anna KRISTENSEN
+135,748209,57.33,29-28,TES,Mål,HF,27,Anne Tolstrup PETERSEN,Assist,8,Live RUSHFELDT DEILA,16,Althea REINHARDT
+136,748209,58.03,,ODE,Tilkendt straffe,,33,Thale Rushfeldt DEILA,Forårs. str.,22,Line HAUGSTED,,
+137,748209,58.08,30-28,ODE,Mål på straffe,,34,Andrea HANSEN,,,,12,Anna KRISTENSEN
+138,748209,58.29,,TES,Tilkendt straffe,,8,Live RUSHFELDT DEILA,Forårs. str.,44,Nikita Van Der VLIET,,
+139,748209,58.36,30-29,TES,Mål på straffe,,25,Henny REISTAD,,,,38,Yara TEN HOLTE
+140,748209,59.26,,ODE,Fejlaflevering,,33,Thale Rushfeldt DEILA,,,,,
+141,748209,59.38,,TES,Time out,,,,,,,,
+142,748209,60.00,,TES,Skud reddet,PL,25,Henny REISTAD,,,,16,Althea REINHARDT
+143,748209,60.00,30-29,,Fuld tid,,,,,,,,
+144,748209,60.00,,,Kamp slut,,,,,,,,

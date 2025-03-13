@@ -1,0 +1,135 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748719,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748719,0.42,,FHK,Tilkendt straffe,,93,Anders MARTINUSEN,Forårs. str.,3,Kristjan ÖRN KRISTJANSSON,,
+3,748719,1.04,1-0,FHK,Mål på straffe,,15,Mads KJELDGAARD,,,,12,Magnus BRANDBYGE
+4,748719,1.42,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,,,,,
+5,748719,1.47,,FHK,Skud reddet,1:e,13,Lasse BALSTAD,Retur,9,Martin BISGAARD,12,Magnus BRANDBYGE
+6,748719,2.21,,FHK,Skud reddet,VF,9,Martin BISGAARD,Retur,0,,12,Magnus BRANDBYGE
+7,748719,2.51,2-0,FHK,Mål,PL,31,William ANDERSSON MOBERG,,,,12,Magnus BRANDBYGE
+8,748719,3.04,2-1,SAH,Mål,Gbr,23,Morten Hempel JENSEN,,,,1,Sebastian FRANDSEN
+9,748719,4.03,,FHK,Skud reddet,PL,97,Reinier TABOADA,,,,12,Magnus BRANDBYGE
+10,748719,4.57,,SAH,Regelfejl,,32,Fredrik OLSSON,,,,,
+11,748719,5.29,,FHK,Skud på stolpe,PL,93,Anders MARTINUSEN,Retur,97,Reinier TABOADA,1,Kristoffer LAURSEN
+12,748719,5.56,,FHK,Fejlaflevering,,31,William ANDERSSON MOBERG,,,,,
+13,748719,6.30,2-2,SAH,Mål,Gbr,3,Kristjan ÖRN KRISTJANSSON,Assist,32,Fredrik OLSSON,1,Sebastian FRANDSEN
+14,748719,6.57,,FHK,Tilkendt straffe,,97,Reinier TABOADA,Forårs. str.,6,Kristian BONEFELD,,
+15,748719,7.16,3-2,FHK,Mål på straffe,,15,Mads KJELDGAARD,,,,1,Kristoffer LAURSEN
+16,748719,7.48,,SAH,Skud reddet,PL,3,Kristjan ÖRN KRISTJANSSON,,,,1,Sebastian FRANDSEN
+17,748719,7.58,4-2,FHK,Mål,2:e,13,Lasse BALSTAD,,,,1,Kristoffer LAURSEN
+18,748719,8.43,,SAH,Time out,,,,,,,,
+19,748719,8.51,4-3,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,1,Sebastian FRANDSEN
+20,748719,9.38,,FHK,Skud reddet,VF,9,Martin BISGAARD,Retur,0,,1,Kristoffer LAURSEN
+21,748719,10.09,5-3,FHK,Mål,PL,93,Anders MARTINUSEN,,,,1,Kristoffer LAURSEN
+22,748719,10.36,,SAH,Fejlaflevering,,3,Kristjan ÖRN KRISTJANSSON,Bold erobret,93,Anders MARTINUSEN,,
+23,748719,10.41,,FHK,Fejlaflevering,,93,Anders MARTINUSEN,Bold erobret,19,Thor CHRISTENSEN,,
+24,748719,11.04,5-4,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,1,Sebastian FRANDSEN
+25,748719,11.15,6-4,FHK,Mål,2:e,41,Evgeni PEVNOV,Assist,97,Reinier TABOADA,1,Kristoffer LAURSEN
+26,748719,11.46,,SAH,Tilkendt straffe,,23,Morten Hempel JENSEN,Forårs. str.,93,Anders MARTINUSEN,,
+27,748719,11.46,,FHK,Udvisning,,93,Anders MARTINUSEN,,,,,
+28,748719,11.47,,SAH,Straffekast på stolpe,,23,Morten Hempel JENSEN,Retur,23,Morten Hempel JENSEN,1,Sebastian FRANDSEN
+29,748719,11.51,6-5,SAH,Mål,ST,23,Morten Hempel JENSEN,,,,1,Sebastian FRANDSEN
+30,748719,12.23,7-5,FHK,Mål,HB,91,Kasper PALMAR,,,,1,Kristoffer LAURSEN
+31,748719,13.17,,SAH,Skud reddet,Gbr,23,Morten Hempel JENSEN,,,,1,Sebastian FRANDSEN
+32,748719,13.58,8-5,FHK,Mål,HB,91,Kasper PALMAR,,,,1,Kristoffer LAURSEN
+33,748719,14.32,8-6,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,1,Sebastian FRANDSEN
+34,748719,15.01,,FHK,Skud reddet,PL,91,Kasper PALMAR,,,,1,Kristoffer LAURSEN
+35,748719,15.14,,SAH,Regelfejl,,7,Jonatan MOLLERUP,,,,,
+36,748719,15.20,9-6,FHK,Mål,1:e,9,Martin BISGAARD,Assist,91,Kasper PALMAR,1,Kristoffer LAURSEN
+37,748719,15.20,,SAH,Udvisning,,19,Thor CHRISTENSEN,,,,,
+38,748719,16.23,9-7,SAH,Mål,PL,15,Emil LÆRKE,,,,1,Sebastian FRANDSEN
+39,748719,17.02,10-7,FHK,Mål,Gbr,15,Mads KJELDGAARD,,,,1,Kristoffer LAURSEN
+40,748719,18.11,,SAH,Fejlaflevering,,15,Emil LÆRKE,Bold erobret,93,Anders MARTINUSEN,,
+41,748719,18.15,11-7,FHK,Mål,1:e,9,Martin BISGAARD,Assist,93,Anders MARTINUSEN,1,Kristoffer LAURSEN
+42,748719,19.35,,SAH,Tilkendt straffe,,28,Morten KAALUND,Forårs. str.,41,Evgeni PEVNOV,,
+43,748719,19.37,11-8,SAH,Mål på straffe,,25,Jeppe CIESLAK,,,,1,Sebastian FRANDSEN
+44,748719,20.19,,FHK,Skud forbi,ST,41,Evgeni PEVNOV,,,,1,Kristoffer LAURSEN
+45,748719,20.51,,SAH,Skud blokeret,HB,15,Emil LÆRKE,Blokeret af,15,Mads KJELDGAARD,,
+46,748719,20.59,12-8,FHK,Mål,1:e,9,Martin BISGAARD,Assist,91,Kasper PALMAR,1,Kristoffer LAURSEN
+47,748719,21.12,,SAH,Skud forbi,Gbr,15,Emil LÆRKE,,,,1,Sebastian FRANDSEN
+48,748719,21.42,,FHK,Skud reddet,VB,15,Mads KJELDGAARD,,,,1,Kristoffer LAURSEN
+49,748719,22.14,,FHK,Udvisning,,13,Lasse BALSTAD,,,,,
+50,748719,22.29,,SAH,Skud reddet,VF,25,Jeppe CIESLAK,Retur,0,,1,Sebastian FRANDSEN
+51,748719,22.52,12-9,SAH,Mål,PL,15,Emil LÆRKE,,,,1,Sebastian FRANDSEN
+52,748719,23.55,,FHK,Fejlaflevering,,15,Mads KJELDGAARD,,,,,
+53,748719,23.59,,FHK,Advarsel,B,,Gudmundur GUDMUNDSSON,,,,,
+54,748719,24.39,12-10,SAH,Mål,PL,23,Morten Hempel JENSEN,,,,1,Sebastian FRANDSEN
+55,748719,25.22,,FHK,Time out,,,,,,,,
+56,748719,25.41,,FHK,Skud blokeret,VB,91,Kasper PALMAR,Blok af (ret),19,Thor CHRISTENSEN,,
+57,748719,25.56,,FHK,Skud reddet,PL,31,William ANDERSSON MOBERG,,,,1,Kristoffer LAURSEN
+58,748719,26.02,12-11,SAH,Mål,2:e,15,Emil LÆRKE,,,,1,Sebastian FRANDSEN
+59,748719,26.43,13-11,FHK,Mål,Gbr,15,Mads KJELDGAARD,Assist,31,William ANDERSSON MOBERG,1,Kristoffer LAURSEN
+60,748719,27.09,,SAH,Skud reddet,Gbr,20,Morten BALLING,,,,1,Sebastian FRANDSEN
+61,748719,27.16,14-11,FHK,Mål,1:e,41,Evgeni PEVNOV,,,,,
+62,748719,27.42,,SAH,Skud reddet,VB,15,Emil LÆRKE,,,,1,Sebastian FRANDSEN
+63,748719,28.17,,FHK,Skud reddet,VF,9,Martin BISGAARD,,,,1,Kristoffer LAURSEN
+64,748719,28.46,,SAH,Skud blokeret,PL,23,Morten Hempel JENSEN,Blok af (ret),41,Evgeni PEVNOV,,
+65,748719,29.13,,SAH,Regelfejl,,15,Emil LÆRKE,,,,,
+66,748719,29.41,,FHK,Tilkendt straffe,,4,Nikolaj NIELSEN,Forårs. str.,19,Thor CHRISTENSEN,,
+67,748719,29.46,15-11,FHK,Mål på straffe,,15,Mads KJELDGAARD,,,,1,Kristoffer LAURSEN
+68,748719,29.59,15-12,SAH,Mål,ST,28,Morten KAALUND,Assist,15,Emil LÆRKE,1,Sebastian FRANDSEN
+69,748719,30.00,15-12,,Halvleg,,,,,,,,
+70,748719,30.00,,,Start 2:e halvleg,,,,,,,,
+71,748719,30.40,15-13,SAH,Mål,ST,19,Thor CHRISTENSEN,Assist,23,Morten Hempel JENSEN,1,Sebastian FRANDSEN
+72,748719,30.48,,FHK,Tabt bold,,15,Mads KJELDGAARD,Bold erobret,19,Thor CHRISTENSEN,,
+73,748719,30.54,15-14,SAH,Mål,1:e,11,Mikkel LANG,Assist,19,Thor CHRISTENSEN,1,Sebastian FRANDSEN
+74,748719,31.33,16-14,FHK,Mål,ST,41,Evgeni PEVNOV,Assist,15,Mads KJELDGAARD,1,Kristoffer LAURSEN
+75,748719,32.02,16-15,SAH,Mål,VB,23,Morten Hempel JENSEN,,,,1,Sebastian FRANDSEN
+76,748719,32.57,17-15,FHK,Mål,VF,9,Martin BISGAARD,Assist,31,William ANDERSSON MOBERG,1,Kristoffer LAURSEN
+77,748719,33.37,17-16,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,1,Sebastian FRANDSEN
+78,748719,34.07,,FHK,Skud reddet,PL,31,William ANDERSSON MOBERG,,,,1,Kristoffer LAURSEN
+79,748719,34.53,17-17,SAH,Mål,Gbr,23,Morten Hempel JENSEN,,,,1,Sebastian FRANDSEN
+80,748719,35.38,,FHK,Tilkendt straffe,,31,William ANDERSSON MOBERG,Forårs. str.,6,Kristian BONEFELD,,
+81,748719,35.42,,FHK,Straffekast reddet,,15,Mads KJELDGAARD,,,,12,Magnus BRANDBYGE
+82,748719,36.29,,SAH,Tilkendt straffe,,32,Fredrik OLSSON,Forårs. str.,41,Evgeni PEVNOV,,
+83,748719,36.34,17-18,SAH,Mål på straffe,,25,Jeppe CIESLAK,,,,1,Sebastian FRANDSEN
+84,748719,37.29,,FHK,Fejlaflevering,,31,William ANDERSSON MOBERG,,,,,
+85,748719,38.24,,SAH,Skud reddet,PL,23,Morten Hempel JENSEN,,,,1,Sebastian FRANDSEN
+86,748719,39.03,18-18,FHK,Mål,VB,15,Mads KJELDGAARD,,,,1,Kristoffer LAURSEN
+87,748719,39.46,18-19,SAH,Mål,Gbr,32,Fredrik OLSSON,,,,1,Sebastian FRANDSEN
+88,748719,40.21,,FHK,Fejlaflevering,,3,Jonas Kruse KRISTENSEN,,,,,
+89,748719,40.35,18-20,SAH,Mål,1:e,28,Morten KAALUND,,,,,
+90,748719,40.36,,FHK,Time out,,,,,,,,
+91,748719,41.28,19-20,FHK,Mål,HB,91,Kasper PALMAR,,,,1,Kristoffer LAURSEN
+92,748719,41.56,19-21,SAH,Mål,PL,23,Morten Hempel JENSEN,,,,1,Sebastian FRANDSEN
+93,748719,42.40,,FHK,Fejlaflevering,,3,Jonas Kruse KRISTENSEN,Bold erobret,19,Thor CHRISTENSEN,,
+94,748719,42.44,19-22,SAH,Mål,1:e,19,Thor CHRISTENSEN,,,,1,Sebastian FRANDSEN
+95,748719,43.22,20-22,FHK,Mål,PL,97,Reinier TABOADA,,,,1,Kristoffer LAURSEN
+96,748719,43.56,20-23,SAH,Mål,ST,28,Morten KAALUND,Assist,32,Fredrik OLSSON,1,Sebastian FRANDSEN
+97,748719,44.06,,FHK,Tilkendt straffe,,97,Reinier TABOADA,Forårs. str.,11,Mikkel LANG,,
+98,748719,44.15,21-23,FHK,Mål på straffe,,91,Kasper PALMAR,,,,12,Magnus BRANDBYGE
+99,748719,44.49,,SAH,Skud reddet,VF,25,Jeppe CIESLAK,,,,1,Sebastian FRANDSEN
+100,748719,44.57,,FHK,Tilkendt straffe,,97,Reinier TABOADA,Forårs. str.,28,Morten KAALUND,,
+101,748719,45.17,22-23,FHK,Mål på straffe,,91,Kasper PALMAR,,,,1,Kristoffer LAURSEN
+102,748719,45.47,,SAH,Skud reddet,PL,23,Morten Hempel JENSEN,,,,1,Sebastian FRANDSEN
+103,748719,46.20,,FHK,Regelfejl,,91,Kasper PALMAR,,,,,
+104,748719,46.31,,,,,,,,,,,
+105,748719,46.50,,SAH,Regelfejl,,20,Morten BALLING,,,,,
+106,748719,46.53,23-23,FHK,Mål,1:e,13,Lasse BALSTAD,Assist,23,Einar ÓLAFSSON,,
+107,748719,47.35,23-24,SAH,Mål,HF,11,Mikkel LANG,Assist,20,Morten BALLING,1,Sebastian FRANDSEN
+108,748719,47.44,24-24,FHK,Mål,2:e,23,Einar ÓLAFSSON,,,,12,Magnus BRANDBYGE
+109,748719,48.13,24-25,SAH,Mål,VB,15,Emil LÆRKE,,,,1,Sebastian FRANDSEN
+110,748719,48.24,,FHK,Fejlaflevering,,91,Kasper PALMAR,Bold erobret,19,Thor CHRISTENSEN,,
+111,748719,48.56,24-26,SAH,Mål,PL,23,Morten Hempel JENSEN,,,,1,Sebastian FRANDSEN
+112,748719,49.29,25-26,FHK,Mål,VB,97,Reinier TABOADA,,,,12,Magnus BRANDBYGE
+113,748719,50.02,25-27,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,28,Morten KAALUND,1,Sebastian FRANDSEN
+114,748719,50.51,,SAH,Udvisning,,6,Kristian BONEFELD,,,,,
+115,748719,51.05,,FHK,Skud forbi,HB,91,Kasper PALMAR,,,,12,Magnus BRANDBYGE
+116,748719,51.54,25-28,SAH,Mål,PL,32,Fredrik OLSSON,,,,1,Sebastian FRANDSEN
+117,748719,52.06,,FHK,Time out,,,,,,,,
+118,748719,52.45,26-28,FHK,Mål,Gbr,97,Reinier TABOADA,,,,12,Magnus BRANDBYGE
+119,748719,53.26,,SAH,Skud reddet,VB,15,Emil LÆRKE,,,,12,Rasmus Storm JENSEN
+120,748719,53.33,27-28,FHK,Mål,2:e,97,Reinier TABOADA,,,,12,Magnus BRANDBYGE
+121,748719,54.19,27-29,SAH,Mål,VF,25,Jeppe CIESLAK,Assist,20,Morten BALLING,12,Rasmus Storm JENSEN
+122,748719,54.53,28-29,FHK,Mål,PL,97,Reinier TABOADA,,,,12,Magnus BRANDBYGE
+123,748719,55.30,28-30,SAH,Mål,HF,11,Mikkel LANG,Assist,20,Morten BALLING,12,Rasmus Storm JENSEN
+124,748719,56.50,,FHK,Skud reddet,PL,31,William ANDERSSON MOBERG,,,,12,Magnus BRANDBYGE
+125,748719,57.29,,SAH,Skud reddet,PL,15,Emil LÆRKE,,,,12,Rasmus Storm JENSEN
+126,748719,57.36,29-30,FHK,Mål,1:e,9,Martin BISGAARD,Assist,97,Reinier TABOADA,12,Magnus BRANDBYGE
+127,748719,58.22,,SAH,Skud blokeret,PL,23,Morten Hempel JENSEN,Blok af (ret),23,Einar ÓLAFSSON,,
+128,748719,58.32,29-31,SAH,Mål,PL,15,Emil LÆRKE,,,,12,Rasmus Storm JENSEN
+129,748719,58.47,,SAH,Udvisning,,6,Kristian BONEFELD,,,,,
+130,748719,58.55,30-31,FHK,Mål,Gbr,97,Reinier TABOADA,,,,12,Magnus BRANDBYGE
+131,748719,59.34,,SAH,Time out,,,,,,,,
+132,748719,59.48,30-32,SAH,Mål,HB,15,Emil LÆRKE,,,,12,Rasmus Storm JENSEN
+133,748719,59.56,,FHK,Skud reddet,PL,23,Einar ÓLAFSSON,Retur,0,,12,Magnus BRANDBYGE
+134,748719,60.00,,FHK,Skud forbi,VB,97,Reinier TABOADA,,,,12,Magnus BRANDBYGE

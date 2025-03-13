@@ -1,0 +1,132 @@
+id,kamp_id,tid,maal,hold,haendelse_1,pos,nr_1,navn_1,haendelse_2,nr_2,navn_2,nr_mv,mv
+1,748722,0.00,,,Start 1:e halvleg,,,,,,,,
+2,748722,0.36,,BSH,Tilkendt straffe,,97,Magnus RAHBEK,Forårs. str.,7,Lasse VILHELMSEN,,
+3,748722,0.40,1-0,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,12,Peter JOHANNESSON
+4,748722,1.15,,GOG,Skud reddet,PL,3,Nicolai PEDERSEN,Retur,0,,12,Kasper LARSEN
+5,748722,1.51,,GOG,Fejlaflevering,,29,Hjalte LYKKE,Bold erobret,4,Patrick BOLDSEN,,
+6,748722,1.58,,BSH,Fejlaflevering,,97,Magnus RAHBEK,,,,,
+7,748722,2.13,1-1,GOG,Mål,VB,3,Nicolai PEDERSEN,,,,12,Kasper LARSEN
+8,748722,2.24,,BSH,Skud reddet,2:e,34,Morten OLSEN,,,,12,Peter JOHANNESSON
+9,748722,2.29,1-2,GOG,Mål,1:e,71,Alexander BLONZ,Assist,,,12,Peter JOHANNESSON
+10,748722,2.56,2-2,BSH,Mål,ST,22,Anders ZACHARIASSEN,Assist,34,Morten OLSEN,12,Peter JOHANNESSON
+11,748722,3.33,,GOG,Fejlaflevering,,3,Nicolai PEDERSEN,,,,,
+12,748722,4.21,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+13,748722,4.26,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+14,748722,5.11,,BSH,Regelfejl,,26,Peter BALLING,,,,,
+15,748722,5.22,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,Bold erobret,26,Peter BALLING,,
+16,748722,5.27,3-2,BSH,Mål,1:e,4,Patrick BOLDSEN,Assist,23,Mads LENBROCH,12,Peter JOHANNESSON
+17,748722,6.01,,GOG,Skud på stolpe,PL,29,Hjalte LYKKE,,,,12,Kasper LARSEN
+18,748722,6.26,,BSH,Tilkendt straffe,,97,Magnus RAHBEK,Forårs. str.,7,Lasse VILHELMSEN,,
+19,748722,6.26,,GOG,Udvisning,,7,Lasse VILHELMSEN,,,,,
+20,748722,6.30,4-2,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,64,Salah BOUTAF
+21,748722,7.16,,GOG,Passivt spil,,0,,,,,,
+22,748722,7.37,,BSH,Fejlaflevering,,34,Morten OLSEN,Bold erobret,71,Alexander BLONZ,,
+23,748722,7.42,4-3,GOG,Mål,1:e,71,Alexander BLONZ,,,,12,Kasper LARSEN
+24,748722,8.01,5-3,BSH,Mål,PL,26,Peter BALLING,,,,12,Peter JOHANNESSON
+25,748722,8.37,5-4,GOG,Mål,HB,29,Hjalte LYKKE,,,,12,Kasper LARSEN
+26,748722,9.07,6-4,BSH,Mål,VB,97,Magnus RAHBEK,,,,12,Peter JOHANNESSON
+27,748722,9.44,,GOG,Skud reddet,PL,3,Nicolai PEDERSEN,,,,12,Kasper LARSEN
+28,748722,10.35,7-4,BSH,Mål,Gbr,26,Peter BALLING,Assist,22,Anders ZACHARIASSEN,12,Peter JOHANNESSON
+29,748722,10.36,,GOG,Udvisning,,3,Nicolai PEDERSEN,,,,,
+30,748722,11.11,,GOG,Fejlaflevering,,15,Tobias GRØNDAHL,,,,,
+31,748722,11.26,8-4,BSH,Mål,Gbr,26,Peter BALLING,Assist,34,Morten OLSEN,64,Salah BOUTAF
+32,748722,12.16,8-5,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,12,Kasper LARSEN
+33,748722,13.06,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+34,748722,13.57,8-6,GOG,Mål,ST,9,Henrik JAKOBSEN,Assist,8,Frederik TILSTED,12,Kasper LARSEN
+35,748722,14.40,,BSH,Regelfejl,,22,Anders ZACHARIASSEN,,,,,
+36,748722,15.11,,GOG,Skud reddet,PL,8,Frederik TILSTED,,,,12,Kasper LARSEN
+37,748722,15.55,9-6,BSH,Mål,VB,97,Magnus RAHBEK,,,,64,Salah BOUTAF
+38,748722,16.06,,GOG,Skud reddet,2:e,71,Alexander BLONZ,,,,12,Kasper LARSEN
+39,748722,16.43,,BSH,Skud reddet,VB,32,Nikolaj LÆSØ,,,,64,Salah BOUTAF
+40,748722,16.51,9-7,GOG,Mål,2:e,10,Frederik PEDERSEN,,,,12,Kasper LARSEN
+41,748722,17.36,10-7,BSH,Mål,PL,26,Peter BALLING,,,,64,Salah BOUTAF
+42,748722,17.46,10-8,GOG,Mål,2:e,8,Frederik TILSTED,,,,12,Kasper LARSEN
+43,748722,18.25,,BSH,Fejlaflevering,,26,Peter BALLING,,,,,
+44,748722,18.30,10-9,GOG,Mål,1:e,71,Alexander BLONZ,Assist,,,64,Salah BOUTAF
+45,748722,19.51,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+46,748722,20.41,,GOG,Skud reddet,PL,8,Frederik TILSTED,,,,12,Kasper LARSEN
+47,748722,21.06,11-9,BSH,Mål,Gbr,32,Nikolaj LÆSØ,Assist,2,Benjamin JAKOBSEN,64,Salah BOUTAF
+48,748722,21.20,,GOG,Skud reddet,2:e,8,Frederik TILSTED,,,,12,Kasper LARSEN
+49,748722,22.05,,BSH,Regelfejl,,26,Peter BALLING,,,,,
+50,748722,22.31,11-10,GOG,Mål,HB,29,Hjalte LYKKE,,,,12,Kasper LARSEN
+51,748722,22.49,12-10,BSH,Mål,PL,34,Morten OLSEN,,,,64,Salah BOUTAF
+52,748722,23.22,12-11,GOG,Mål,PL,10,Frederik PEDERSEN,,,,12,Kasper LARSEN
+53,748722,23.32,,BSH,Fejlaflevering,,32,Nikolaj LÆSØ,,,,,
+54,748722,23.37,,GOG,Skud reddet,1:e,8,Frederik TILSTED,,,,12,Kasper LARSEN
+55,748722,24.36,13-11,BSH,Mål,PL,32,Nikolaj LÆSØ,,,,64,Salah BOUTAF
+56,748722,25.19,,BSH,Udvisning,,19,René Toft HANSEN,,,,,
+57,748722,25.44,,GOG,Fejlaflevering,,10,Frederik PEDERSEN,,,,,
+58,748722,26.33,14-11,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,26,Peter BALLING,64,Salah BOUTAF
+59,748722,26.50,14-12,GOG,Mål,ST,9,Henrik JAKOBSEN,Assist,15,Tobias GRØNDAHL,12,Kasper LARSEN
+60,748722,27.44,15-12,BSH,Mål,PL,26,Peter BALLING,,,,64,Salah BOUTAF
+61,748722,28.16,,GOG,Skud forbi,VB,3,Nicolai PEDERSEN,,,,12,Kasper LARSEN
+62,748722,28.22,16-12,BSH,Mål,1:e,4,Patrick BOLDSEN,Assist,,,12,Kasper LARSEN
+63,748722,29.02,,GOG,Skud reddet,PL,29,Hjalte LYKKE,Retur,0,,12,Kasper LARSEN
+64,748722,29.07,,GOG,Time out,,,,,,,,
+65,748722,29.19,,GOG,Fejlaflevering,,10,Frederik PEDERSEN,,,,,
+66,748722,29.27,,BSH,Time out,,,,,,,,
+67,748722,29.56,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+68,748722,29.59,,GOG,Skud reddet,1:e,12,Peter JOHANNESSON,,,,12,Kasper LARSEN
+69,748722,30.00,16-12,,Halvleg,,,,,,,,
+70,748722,30.00,,,Start 2:e halvleg,,,,,,,,
+71,748722,30.36,,GOG,Fejlaflevering,,29,Hjalte LYKKE,,,,,
+72,748722,31.36,17-12,BSH,Mål,Gbr,26,Peter BALLING,,,,12,Peter JOHANNESSON
+73,748722,31.52,,GOG,Tilkendt straffe,,10,Frederik PEDERSEN,Forårs. str.,97,Magnus RAHBEK,,
+74,748722,32.10,,GOG,Straffekast på stolpe,,15,Tobias GRØNDAHL,,,,12,Kasper LARSEN
+75,748722,32.48,18-12,BSH,Mål,PL,97,Magnus RAHBEK,,,,12,Peter JOHANNESSON
+76,748722,33.56,18-13,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,29,Hjalte LYKKE,12,Kasper LARSEN
+77,748722,34.38,,BSH,Skud blokeret,PL,26,Peter BALLING,Blok af (ret),0,,,
+78,748722,34.49,,BSH,Skud reddet,PL,97,Magnus RAHBEK,,,,12,Peter JOHANNESSON
+79,748722,35.23,18-14,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,29,Hjalte LYKKE,12,Kasper LARSEN
+80,748722,35.53,,GOG,Udvisning,,66,Anton LINDSKOG,,,,,
+81,748722,35.53,,GOG,Advarsel,A,,Kasper CHRISTENSEN,,,,,
+82,748722,36.05,19-14,BSH,Mål,HF,4,Patrick BOLDSEN,Assist,34,Morten OLSEN,12,Peter JOHANNESSON
+83,748722,36.42,,GOG,Fejlaflevering,,29,Hjalte LYKKE,,,,,
+84,748722,37.15,,BSH,Skud reddet,Gbr,34,Morten OLSEN,,,,12,Peter JOHANNESSON
+85,748722,38.09,,GOG,Skud blokeret,HB,15,Tobias GRØNDAHL,Blok af (ret),19,René Toft HANSEN,12,Kasper LARSEN
+86,748722,38.38,19-15,GOG,Mål,ST,66,Anton LINDSKOG,Assist,15,Tobias GRØNDAHL,12,Kasper LARSEN
+87,748722,39.11,,BSH,Skud forbi,PL,34,Morten OLSEN,,,,12,Peter JOHANNESSON
+88,748722,39.51,19-16,GOG,Mål,ST,9,Henrik JAKOBSEN,Assist,15,Tobias GRØNDAHL,12,Kasper LARSEN
+89,748722,40.50,,BSH,Skud reddet,VB,32,Nikolaj LÆSØ,,,,12,Peter JOHANNESSON
+90,748722,40.59,19-17,GOG,Mål,2:e,15,Tobias GRØNDAHL,Assist,37,Linus PERSSON,12,Kasper LARSEN
+91,748722,41.48,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+92,748722,41.57,19-18,GOG,Mål,2:e,66,Anton LINDSKOG,Assist,15,Tobias GRØNDAHL,12,Kasper LARSEN
+93,748722,42.01,,BSH,Time out,,,,,,,,
+94,748722,42.43,,BSH,Skud forbi,HB,26,Peter BALLING,,,,12,Peter JOHANNESSON
+95,748722,42.49,19-19,GOG,Mål,1:e,71,Alexander BLONZ,Assist,3,Nicolai PEDERSEN,12,Kasper LARSEN
+96,748722,43.20,,BSH,Tilkendt straffe,,97,Magnus RAHBEK,Forårs. str.,66,Anton LINDSKOG,,
+97,748722,43.20,,GOG,Udvisning,,66,Anton LINDSKOG,,,,,
+98,748722,43.25,20-19,BSH,Mål på straffe,,9,Gudmundur Bragi ASTPARSSON,,,,12,Peter JOHANNESSON
+99,748722,44.33,,GOG,Skud på stolpe,HB,37,Linus PERSSON,,,,12,Kasper LARSEN
+100,748722,45.00,21-19,BSH,Mål,VF,23,Mads LENBROCH,Assist,32,Nikolaj LÆSØ,12,Peter JOHANNESSON
+101,748722,45.41,21-20,GOG,Mål,ST,66,Anton LINDSKOG,Assist,15,Tobias GRØNDAHL,12,Kasper LARSEN
+102,748722,46.58,,BSH,Skud blokeret,HB,26,Peter BALLING,Blok af (ret),3,Nicolai PEDERSEN,,
+103,748722,47.00,22-20,BSH,Mål,ST,26,Peter BALLING,,,,12,Peter JOHANNESSON
+104,748722,47.23,22-21,GOG,Mål,,,,,,,,
+105,748722,48.17,,BSH,Skud blokeret,PL,97,Magnus RAHBEK,Blok af (ret),66,Anton LINDSKOG,,
+106,748722,48.33,,BSH,Skud reddet,PL,26,Peter BALLING,,,,12,Kasper LARSEN
+107,748722,49.02,,GOG,Skud på stolpe,VB,3,Nicolai PEDERSEN,,,,12,Kasper LARSEN
+108,748722,49.14,,BSH,Fejlaflevering,,9,Gudmundur Bragi ASTPARSSON,,,,,
+109,748722,49.27,22-22,GOG,Mål,2:e,7,Lasse VILHELMSEN,Assist,37,Linus PERSSON,12,Kasper LARSEN
+110,748722,50.16,,BSH,Fejlaflevering,,34,Morten OLSEN,,,,,
+111,748722,51.03,22-23,GOG,Mål,Gbr,37,Linus PERSSON,,,,12,Kasper LARSEN
+112,748722,51.36,23-23,BSH,Mål,Gbr,26,Peter BALLING,,,,12,Peter JOHANNESSON
+113,748722,51.36,,GOG,Udvisning,,9,Henrik JAKOBSEN,,,,,
+114,748722,52.16,23-24,GOG,Mål,Gbr,29,Hjalte LYKKE,,,,12,Kasper LARSEN
+115,748722,52.49,,BSH,Regelfejl,,34,Morten OLSEN,,,,,
+116,748722,52.53,23-25,GOG,Mål,1:e,7,Lasse VILHELMSEN,,,,0,
+117,748722,53.49,,BSH,Skud forbi,Gbr,34,Morten OLSEN,,,,12,Peter JOHANNESSON
+118,748722,54.09,,GOG,Time out,,,,,,,,
+119,748722,54.38,23-26,GOG,Mål,HF,7,Lasse VILHELMSEN,Assist,15,Tobias GRØNDAHL,12,Kasper LARSEN
+120,748722,55.22,,BSH,Skud reddet,PL,32,Nikolaj LÆSØ,,,,12,Peter JOHANNESSON
+121,748722,56.01,23-27,GOG,Mål,VF,71,Alexander BLONZ,Assist,3,Nicolai PEDERSEN,12,Kasper LARSEN
+122,748722,56.07,,BSH,Time out,,,,,,,,
+123,748722,56.22,24-27,BSH,Mål,Gbr,26,Peter BALLING,,,,12,Peter JOHANNESSON
+124,748722,57.32,,GOG,Skud forbi,PL,3,Nicolai PEDERSEN,,,,30,Jonas Capion JØRGENSEN
+125,748722,58.07,,BSH,Skud forbi,PL,97,Magnus RAHBEK,,,,12,Peter JOHANNESSON
+126,748722,58.28,,GOG,Fejlaflevering,,37,Linus PERSSON,Bold erobret,26,Peter BALLING,,
+127,748722,58.31,25-27,BSH,Mål,1:e,23,Mads LENBROCH,Assist,26,Peter BALLING,0,
+128,748722,58.56,,GOG,Time out,,,,,,,,
+129,748722,59.23,,GOG,Passivt spil,,0,,,,,,
+130,748722,59.32,26-27,BSH,Mål,2:e,26,Peter BALLING,,,,12,Peter JOHANNESSON
+131,748722,59.59,26-28,GOG,Mål,Gbr,71,Alexander BLONZ,Assist,15,Tobias GRØNDAHL,30,Jonas Capion JØRGENSEN
