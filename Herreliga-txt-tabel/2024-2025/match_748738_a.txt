@@ -1,0 +1,947 @@
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - Sønderjyske Herrehåndbold   22 - 25  (12 - 10)
+748738 / 14-12-2024 / Ribe Fritidscenter 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+1.04
+SJE
+Tilkendt straffe
+29
+Magnus FREDRIKSEN
+Forårs. str.
+17
+Andreas SØGAARD
+1.04
+REH Udvisning
+17
+Andreas SØGAARD
+1.06
+0-1
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+1.43
+SJE
+Advarsel
+18
+Morten BJØRNSHAUGE
+1.58
+SJE
+Udvisning
+14
+Jacob BAGERSTED
+2.29
+REH Tabt bold
+11
+Mathias JØRGENSEN
+3.17
+SJE
+Skud blokeret
+VB
+48
+Gabriel SETTERBLOM
+Blokeret af
+17
+Andreas SØGAARD
+3.22
+1-1
+REH Mål
+1:e
+31
+Morten JØRGENSEN
+0
+3.52
+SJE
+Skud reddet
+HB 11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+3.57
+REH Skud forbi
+1:e
+16
+Ágúst BJÖRGVINSSON
+0
+4.56
+SJE
+Regelfejl
+33
+Ebbe STANKIEWICZ
+5.07
+REH Skud reddet
+Gbr
+8
+Simon BIRKEFELDT
+30
+Julius STEN
+5.56
+1-2
+SJE
+Mål
+Gbr 29
+Magnus FREDRIKSEN
+16
+Ágúst BJÖRGVINSSON
+6.04
+2-2
+REH Mål
+VB
+49
+Karl WALLINIUS
+30
+Julius STEN
+6.55
+SJE
+Skud reddet
+PL
+29
+Magnus FREDRIKSEN
+Retur
+0
+16
+Ágúst BJÖRGVINSSON
+7.12
+SJE
+Skud forbi
+HF
+33
+Ebbe STANKIEWICZ
+16
+Ágúst BJÖRGVINSSON
+7.45
+3-2
+REH Mål
+HF
+11
+Mathias JØRGENSEN
+Assist
+81
+Alfred JÖNSSON
+30
+Julius STEN
+8.22
+3-3
+SJE
+Mål
+VF
+28
+Patrick VOLZ
+Assist
+29
+Magnus FREDRIKSEN
+16
+Ágúst BJÖRGVINSSON
+8.28
+REH Skud forbi
+2:e
+81
+Alfred JÖNSSON
+30
+Julius STEN
+8.59
+SJE
+Fejlaflevering
+48
+Gabriel SETTERBLOM
+Bold erobret
+8
+Simon BIRKEFELDT
+9.03
+4-3
+REH Mål
+1:e
+17
+Andreas SØGAARD
+30
+Julius STEN
+10.22
+SJE
+Skud reddet
+ST
+18
+Morten BJØRNSHAUGE
+16
+Ágúst BJÖRGVINSSON
+10.56
+REH Skud blokeret
+PL
+14
+Nicolaj SPANGGAARD
+Blok af (ret)
+18
+Morten BJØRNSHAUGE
+11.23
+REH Skud reddet
+VB
+49
+Karl WALLINIUS
+30
+Julius STEN
+11.35
+SJE
+Skud reddet
+HF
+33
+Ebbe STANKIEWICZ
+Retur
+0
+16
+Ágúst BJÖRGVINSSON
+12.19
+4-4
+SJE
+Mål
+Gbr 48
+Gabriel SETTERBLOM
+Assist
+29
+Magnus FREDRIKSEN
+16
+Ágúst BJÖRGVINSSON
+13.20
+5-4
+REH Mål
+Gbr 81
+Alfred JÖNSSON
+30
+Julius STEN
+13.56
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+14.54
+REH Skud reddet
+PL
+14
+Nicolaj SPANGGAARD
+Retur
+0
+30
+Julius STEN
+15.13
+6-4
+REH Mål
+PL
+81
+Alfred JÖNSSON
+30
+Julius STEN
+15.44
+SJE
+Skud reddet
+PL
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+16.26
+REH Skud reddet
+HF
+11
+Mathias JØRGENSEN
+30
+Julius STEN
+17.01
+6-5
+SJE
+Mål
+Gbr 20
+August WIGER
+16
+Ágúst BJÖRGVINSSON
+17.37
+7-5
+REH Mål
+VF
+31
+Morten JØRGENSEN
+Assist
+81
+Alfred JÖNSSON
+30
+Julius STEN
+18.18
+7-6
+SJE
+Mål
+Gbr 20
+August WIGER
+16
+Ágúst BJÖRGVINSSON
+18.31
+REH Skud reddet
+HF
+11
+Mathias JØRGENSEN
+30
+Julius STEN
+19.05
+SJE
+Regelfejl
+48
+Gabriel SETTERBLOM
+19.45
+REH Tilkendt straffe
+81
+Alfred JÖNSSON
+Forårs. str.
+18
+Morten BJØRNSHAUGE
+20.07
+8-6
+REH Mål på straffe
+11
+Mathias JØRGENSEN
+30
+Julius STEN
+20.12
+SJE
+Time out
+20.37
+8-7
+SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+21.34
+9-7
+REH Mål
+PL
+49
+Karl WALLINIUS
+30
+Julius STEN
+22.07
+SJE
+Fejlaflevering
+24
+Sebastian AUGUSTINUSSEN Bold erobret
+4
+Elvar ASGEIRSSON
+22.11 10-7
+REH Mål
+1:e
+31
+Morten JØRGENSEN
+Assist
+4
+Elvar ASGEIRSSON
+0
+22.43
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+22.47
+REH Skud forbi
+1:e
+4
+Elvar ASGEIRSSON
+0
+23.13
+SJE
+Skud reddet
+Gbr 11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+24.10 11-7
+REH Mål
+VF
+31
+Morten JØRGENSEN
+Assist
+49
+Karl WALLINIUS
+30
+Julius STEN
+24.43
+SJE
+Fejlaflevering
+29
+Magnus FREDRIKSEN
+25.15
+REH Fejlaflevering
+81
+Alfred JÖNSSON
+Bold erobret 33
+Ebbe STANKIEWICZ
+25.20 11-8
+SJE
+Mål
+1:e
+33
+Ebbe STANKIEWICZ
+16
+Ágúst BJÖRGVINSSON
+26.17 12-8
+REH Mål
+ST
+21
+Axel FRANZÉN
+Assist
+81
+Alfred JÖNSSON
+30
+Julius STEN
+26.56 12-9
+SJE
+Mål
+VF
+28
+Patrick VOLZ
+Assist
+20
+August WIGER
+16
+Ágúst BJÖRGVINSSON
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - Sønderjyske Herrehåndbold   22 - 25  (12 - 10)
+748738 / 14-12-2024 / Ribe Fritidscenter 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+27.22
+REH Regelfejl
+21
+Axel FRANZÉN
+28.00 12-10 SJE
+Mål
+ST
+14
+Jacob BAGERSTED
+Assist
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+28.26
+REH Time out
+28.42
+REH Fejlaflevering
+49
+Karl WALLINIUS
+Bold erobret 48
+Gabriel SETTERBLOM
+29.11
+SJE
+Skud reddet
+PL
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+29.45
+REH Skud forbi
+HB 49
+Karl WALLINIUS
+30
+Julius STEN
+29.55
+SJE
+Regelfejl
+48
+Gabriel SETTERBLOM
+30.00 12-10
+Halvleg
+30.00
+Start 2:e halvleg
+30.30
+REH Skud på stolpe
+ST
+17
+Andreas SØGAARD
+30
+Julius STEN
+30.35
+SJE
+Skud reddet
+1:e
+33
+Ebbe STANKIEWICZ
+16
+Ágúst BJÖRGVINSSON
+31.12
+REH Skud blokeret
+PL
+14
+Nicolaj SPANGGAARD
+Blok af (ret)
+18
+Morten BJØRNSHAUGE
+31.24
+REH Skud forbi
+PL
+49
+Karl WALLINIUS
+30
+Julius STEN
+31.51 12-11 SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+20
+August WIGER
+16
+Ágúst BJÖRGVINSSON
+32.52
+REH Skud reddet
+HB 49
+Karl WALLINIUS
+30
+Julius STEN
+33.47
+SJE
+Fejlaflevering
+29
+Magnus FREDRIKSEN
+Bold erobret 17
+Andreas SØGAARD
+33.51 13-11 REH Mål
+1:e
+14
+Nicolaj SPANGGAARD
+Assist
+17
+Andreas SØGAARD
+30
+Julius STEN
+34.36
+SJE
+Tilkendt straffe
+18
+Morten BJØRNSHAUGE
+Forårs. str.
+6
+Jonathan WÜRTZ
+34.40 13-12 SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+1
+Niklas KRAFT
+35.37
+REH Skud blokeret
+PL
+14
+Nicolaj SPANGGAARD
+Blok af (ret)
+18
+Morten BJØRNSHAUGE
+35.52
+REH Fejlaflevering
+14
+Nicolaj SPANGGAARD
+35.58 13-13 SJE
+Mål
+1:e
+28
+Patrick VOLZ
+Assist
+48
+Gabriel SETTERBLOM
+16
+Ágúst BJÖRGVINSSON
+36.29
+REH Skud reddet
+HF
+11
+Mathias JØRGENSEN
+30
+Julius STEN
+36.57 13-14 SJE
+Mål
+HF
+33
+Ebbe STANKIEWICZ
+Assist
+48
+Gabriel SETTERBLOM
+16
+Ágúst BJÖRGVINSSON
+37.25
+REH Tabt bold
+14
+Nicolaj SPANGGAARD
+37.29 13-15 SJE
+Mål
+1:e
+11
+Nicolaj JØRGENSEN
+Assist
+28
+Patrick VOLZ
+0
+37.35
+REH Time out
+38.14
+REH Skud reddet
+HF
+9
+Mads LAURIDSEN
+30
+Julius STEN
+38.50
+SJE
+Tilkendt straffe
+18
+Morten BJØRNSHAUGE
+Forårs. str.
+9
+Mads LAURIDSEN
+39.15 13-16 SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+39.41 14-16 REH Mål
+PL
+4
+Elvar ASGEIRSSON
+Assist
+81
+Alfred JÖNSSON
+30
+Julius STEN
+39.51
+SJE
+Skud reddet
+2:e
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+40.35
+SJE
+Udvisning
+18
+Morten BJØRNSHAUGE
+40.59
+REH Skud reddet
+VB
+49
+Karl WALLINIUS
+30
+Julius STEN
+41.25 14-17 SJE
+Mål
+Gbr 20
+August WIGER
+16
+Ágúst BJÖRGVINSSON
+41.48
+REH Regelfejl
+4
+Elvar ASGEIRSSON
+42.35
+SJE
+Skud forbi
+HF
+33
+Ebbe STANKIEWICZ
+16
+Ágúst BJÖRGVINSSON
+43.03 15-17 REH Mål
+Gbr
+4
+Elvar ASGEIRSSON
+30
+Julius STEN
+43.35
+SJE
+Skud reddet
+VF
+28
+Patrick VOLZ
+16
+Ágúst BJÖRGVINSSON
+43.42
+REH Skud reddet
+2:e
+81
+Alfred JÖNSSON
+30
+Julius STEN
+44.11 15-18 SJE
+Mål
+VB
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+44.50
+REH Tilkendt straffe
+17
+Andreas SØGAARD
+Forårs. str.
+14
+Jacob BAGERSTED
+44.54 16-18 REH Mål på straffe
+11
+Mathias JØRGENSEN
+1
+Matthias DORGELO
+45.47 16-19 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+45.55
+REH Skud på stolpe
+HB
+8
+Simon BIRKEFELDT
+Retur
+0
+30
+Julius STEN
+46.20
+REH Skud forbi
+PL
+4
+Elvar ASGEIRSSON
+30
+Julius STEN
+46.58
+SJE
+Fejlaflevering
+48
+Gabriel SETTERBLOM
+Bold erobret
+4
+Elvar ASGEIRSSON
+47.28 17-19 REH Mål
+HF
+9
+Mads LAURIDSEN
+Assist
+14
+Nicolaj SPANGGAARD
+30
+Julius STEN
+48.06 17-20 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+48.46
+REH Tilkendt straffe
+9
+Mads LAURIDSEN
+Forårs. str.
+0
+48.54 18-20 REH Mål på straffe
+11
+Mathias JØRGENSEN
+30
+Julius STEN
+49.50
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+50.46
+REH Tilkendt straffe
+81
+Alfred JÖNSSON
+Forårs. str.
+33
+Ebbe STANKIEWICZ
+51.13
+REH Straffekast reddet
+11
+Mathias JØRGENSEN
+30
+Julius STEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - Sønderjyske Herrehåndbold   22 - 25  (12 - 10)
+748738 / 14-12-2024 / Ribe Fritidscenter 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+51.45 18-21 SJE
+Mål
+Gbr 20
+August WIGER
+16
+Ágúst BJÖRGVINSSON
+51.55 19-21 REH Mål
+2:e
+31
+Morten JØRGENSEN
+Assist
+81
+Alfred JÖNSSON
+30
+Julius STEN
+53.04 19-22 SJE
+Mål
+ST
+14
+Jacob BAGERSTED
+Assist
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+54.02
+REH Skud forbi
+PL
+81
+Alfred JÖNSSON
+30
+Julius STEN
+54.10
+SJE
+Time out
+54.51
+SJE
+Skud reddet
+Gbr 20
+August WIGER
+Retur
+0
+1
+Niklas KRAFT
+55.23
+SJE
+Tilkendt straffe
+20
+August WIGER
+Forårs. str.
+9
+Mads LAURIDSEN
+55.31 19-23 SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+1
+Niklas KRAFT
+55.59
+REH Fejlaflevering
+14
+Nicolaj SPANGGAARD
+56.33
+SJE
+Regelfejl
+28
+Patrick VOLZ
+56.42 20-23 REH Mål
+VF
+31
+Morten JØRGENSEN
+Assist
+81
+Alfred JÖNSSON
+30
+Julius STEN
+57.23
+SJE
+Tilkendt straffe
+11
+Nicolaj JØRGENSEN
+Forårs. str.
+17
+Andreas SØGAARD
+57.26 20-24 SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+16
+Ágúst BJÖRGVINSSON
+57.56
+REH Tilkendt straffe
+4
+Elvar ASGEIRSSON
+Forårs. str.
+29
+Magnus FREDRIKSEN
+58.12 21-24 REH Mål på straffe
+11
+Mathias JØRGENSEN
+30
+Julius STEN
+58.41 21-25 SJE
+Mål
+Gbr 11
+Nicolaj JØRGENSEN
+1
+Niklas KRAFT
+58.55 22-25 REH Mål
+ST
+17
+Andreas SØGAARD
+Assist
+4
+Elvar ASGEIRSSON
+30
+Julius STEN
+59.20
+SJE
+Regelfejl
+14
+Jacob BAGERSTED
+59.33
+REH Tilkendt straffe
+17
+Andreas SØGAARD
+Forårs. str.
+20
+August WIGER
+59.41
+REH Straffekast på stolpe
+4
+Elvar ASGEIRSSON
+30
+Julius STEN
+60.00 22-25
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Nicolai JYTZLER, Casper SCHMIDT,

@@ -6,11 +6,14 @@ Et værktøj til at konvertere håndboldkamp-tekstfiler til strukturerede JSON-d
 
 Dette projekt indeholder scripts til at:
 
-1. Læse håndboldkamp-tekstfiler (konverteret fra PDF)
-2. Dele dem i chunks for at håndtere store filer
-3. Konvertere hver chunk til struktureret JSON-data ved hjælp af Gemini API
-4. Kombinere JSON-data fra alle chunks
-5. Gemme de kombinerede data i en SQLite-database
+1. Downloade håndboldkamp PDF-filer fra tophaandbold.dk
+2. Konvertere PDF-filer til tekst med bevarelse af tabelstruktur
+3. Læse håndboldkamp-tekstfiler og dele dem i chunks for at håndtere store filer
+4. Konvertere hver chunk til struktureret JSON-data ved hjælp af Gemini API
+5. Kombinere JSON-data fra alle chunks
+6. Gemme de kombinerede data i en SQLite-database
+
+Projektet inkluderer nu også et komplet workflow-script, der automatiserer hele processen og sikrer at filer ikke behandles dobbelt. Systemet understøtter både Kvindeligaen og Herreligaen, samt forskellige sæsoner.
 
 ## Forudsætninger
 
@@ -40,37 +43,120 @@ Før du kører scriptet, skal du have:
 
 ## Filstruktur
 
-- `handball_converter.py` - Hovedscriptet til konvertering
-- `system_prompt_chunk.txt` - System prompt til Gemini API
-- `check_database.py` - Værktøj til at tjekke oprettede databaser
-- `test_conversion.py` - Testscript til en enkelt fil
+### Workflow
+- `handball_workflow.py` - Master script der kører alle trin og sikrer at filer ikke behandles dobbelt
+
+### Data indsamling
+- `handball_pdf_downloader.py` - Script til at downloade PDF-filer fra tophaandbold.dk
+
+### Data konvertering
+- `pdf_to_text_converter.py` - Konverterer PDF-filer til tekst med bevarelse af tabelstruktur
+- `handball_data_processor.py` - Hovedscript til at konvertere tekstfiler til JSON og SQLite
+
+### Værktøjer og validering
+- `database_validator.py` - Værktøj til at tjekke og validere oprettede databaser
+- `single_file_tester.py` - Testscript til konvertering af en enkelt fil
+
+### Konfiguration
+- `gemini_api_instructions.txt` - System prompt til Gemini API
 - `requirements.txt` - Nødvendige Python-pakker
+- `.env` - Fil til at gemme API-nøgle lokalt
+
+## Mappestruktur
+
+Systemet opretter automatisk følgende mappestruktur:
+
+```
+Handball-ML/
+├── Kvindeliga/                  # PDF-filer for Kvindeligaen
+│   ├── 2023-2024/               # Sorteret efter sæson
+│   └── 2024-2025/
+├── Kvindeliga-txt-tabel/        # Konverterede tekstfiler for Kvindeligaen
+│   ├── 2023-2024/
+│   └── 2024-2025/
+├── Kvindeliga-database/         # Databasefiler for Kvindeligaen
+│   ├── 2023-2024/
+│   └── 2024-2025/
+├── Herreliga/                   # PDF-filer for Herreligaen
+│   ├── 2023-2024/
+│   └── 2024-2025/
+├── Herreliga-txt-tabel/         # Konverterede tekstfiler for Herreligaen
+│   ├── 2023-2024/
+│   └── 2024-2025/
+└── Herreliga-database/          # Databasefiler for Herreligaen
+    ├── 2023-2024/
+    └── 2024-2025/
+```
 
 ## Brug
 
+### Kør hele workflowet automatisk
+```
+# Standardindstillinger (Kvindeligaen, sæson 2024-2025)
+python handball_workflow.py
+
+# Vælg specifik liga og sæson
+python handball_workflow.py --liga=kvindeligaen --sæson=2024-2025
+python handball_workflow.py --liga=herreligaen --sæson=2023-2024
+```
+Dette vil køre alle trin i den korrekte rækkefølge og sikre at filer ikke behandles dobbelt:
+1. Downloade nye PDF-filer (springer over allerede downloadede filer)
+2. Konvertere PDF-filer til tekst (springer over allerede konverterede filer)
+3. Behandle tekstfiler til databaser (springer over allerede behandlede filer)
+
+### Download PDF-filer manuelt
+```
+python handball_pdf_downloader.py --liga=kvindeligaen --sæson=2024-2025
+```
+
+### Konverter PDF-filer til tekst manuelt
+```
+python pdf_to_text_converter.py --liga=kvindeligaen --sæson=2024-2025
+```
+
 ### Konvertere en enkelt fil (til test)
-
 ```
-python test_conversion.py Kvindeliga-txt-tabel/2024-2025/match_748182_a.txt
+python single_file_tester.py Kvindeliga-txt-tabel/2024-2025/match_748182_a.txt
 ```
 
-### Konvertere alle filer i input-mappen
-
+### Konvertere alle filer i input-mappen manuelt
 ```
-python handball_converter.py
+python handball_data_processor.py --liga=kvindeligaen --sæson=2024-2025
 ```
 
 ### Tjekke en oprettet database
-
 ```
-python check_database.py Kvindeliga-database/4-9-2024_Ringkøbing_Håndbold_vs_Nykøbing_F._Håndbold.db
+python database_validator.py Kvindeliga-database/2024-2025/4-9-2024_Ringkøbing_Håndbold_vs_Nykøbing_F._Håndbold.db
 ```
 
 ### Tjekke alle databaser i output-mappen
+```
+python database_validator.py
+```
 
-```
-python check_database.py
-```
+## Undgå dobbelt databehandling
+
+Projektet implementerer nu robuste tjek på alle niveauer for at undgå dobbelt behandling:
+
+1. **PDF-download tjek**: `handball_pdf_downloader.py` tjekker om en PDF-fil allerede er downloadet og har indhold før den forsøger at downloade den igen.
+
+2. **PDF til TXT tjek**: `pdf_to_text_converter.py` tjekker om en tekstfil allerede er konverteret før den behandler den tilsvarende PDF igen.
+
+3. **TXT til database tjek**: `handball_data_processor.py` tjekker om en tekstfil allerede er behandlet ved at søge efter matchende kamp-ID i de eksisterende databaser.
+
+4. **Workflow integration**: `handball_workflow.py` kører alle scripts i den korrekte rækkefølge og logger resultaterne på en overskuelig måde.
+
+## Understøttede ligaer og sæsoner
+
+Systemet understøtter følgende ligaer:
+- **Kvindeligaen** (`--liga=kvindeligaen`)
+- **Herreligaen** (`--liga=herreligaen`)
+
+Du kan angive enhver sæson i formatet YYYY-YYYY, f.eks.:
+- `--sæson=2023-2024`
+- `--sæson=2024-2025`
+
+Systemet vil automatisk oprette de nødvendige mapper og hente data fra den korrekte URL på tophaandbold.dk.
 
 ## Datastruktur
 
@@ -118,14 +204,20 @@ System prompten indeholder detaljerede instruktioner om:
 - Regler for korrekt datafelt-tildeling
 - Håndtering af målvogterdata vs. sekundære hændelser
 
-## Fejlfinding
+## Logging og fejlfinding
+
+Systemet inkluderer omfattende logging:
+
+1. **Workflow log**: `handball_workflow.log` indeholder information om hele kørslen af workflowet.
+2. **Konvertering log**: `handball_converter.log` indeholder detaljeret information om konverteringsprocessen.
+3. **API kald log**: `api_calls.log` indeholder information om kald til Gemini API.
 
 Hvis du oplever problemer:
 
 1. Kontroller at din API-nøgle er korrekt konfigureret
-2. Tjek logfilerne (`handball_converter.log` eller `test_conversion.log`)
+2. Tjek logfilerne for at identificere eventuelle fejl
 3. Kontroller at tekstfilerne har det forventede format
-4. Brug `check_database.py` til at validere de oprettede databaser
+4. Brug `database_validator.py` til at validere de oprettede databaser
 
 ## Anbefalinger til yderligere udvikling
 

@@ -1,0 +1,274 @@
+## Chunk-specifik instruktion
+Dette input er et chunk af en større tekstfil med håndboldkampdata.
+
+Hvis dette er det første chunk (med "KAMPHÆNDELSER" nær toppen):
+- Ekstraher BÅDE match_info OG match_events
+- match_info indeholder kampdetaljer som kamp-id, hold, resultat osv.
+
+Hvis dette IKKE er det første chunk:
+- Ekstraher KUN match_events
+- Returner et tomt match_info objekt: "match_info": {}
+
+Uanset hvilket chunk det er, følg ALTID alle regler for korrekt datafelt-tildeling som beskrevet nedenfor.
+
+## Hovedformål
+
+Konvertér håndboldkamp-tekstfiler til JSON-data, der følger nøjagtigt samme kolonneopdeling som PDF-tabellerne, så vi kan importere dataene i en database med to primære tabeller: `match_info` (kampoplysninger) og `match_events` (kamphændelser).
+
+## Output datastruktur
+
+```json
+{
+  "match_info": {
+    "kamp_id": "string",
+    "hold_hjemme": "string",
+    "hold_ude": "string",
+    "resultat": "string",
+    "halvleg_resultat": "string",
+    "dato": "string",
+    "sted": "string",
+    "turnering": "string"
+  },
+  "match_events": [
+    {
+      "tid": "string",
+      "maal": "string",
+      "hold": "string",
+      "haendelse_1": "string",
+      "pos": "string",
+      "nr_1": "integer",
+      "navn_1": "string",
+      "haendelse_2": "string",
+      "nr_2": "integer",
+      "navn_2": "string",
+      "nr_mv": "integer",
+      "mv": "string"
+    }
+  ]
+}
+```
+
+## Feltdefinitioner og datatyper
+
+### Match Info
+- **kamp_id**: Kampens unikke ID-nummer (f.eks. "748182")
+- **hold_hjemme**: Navnet på hjemmeholdet (f.eks. "Ringkøbing Håndbold")
+- **hold_ude**: Navnet på udeholdet (f.eks. "Nykøbing F. Håndbold")
+- **resultat**: Slutresultatet uden mellemrum omkring bindestregen (f.eks. "30-32" - IKKE "30 - 32") - FJERN ALTID MELLEMRUM OMKRING BINDESTREGEN
+- **halvleg_resultat**: Resultatet ved halvleg uden mellemrum omkring bindestregen (f.eks. "17-16" - IKKE "17 - 16") - FJERN ALTID MELLEMRUM OMKRING BINDESTREGEN
+- **dato**: Kampens dato (f.eks. "4-9-2024")
+- **sted**: Spillestedet (f.eks. "Green Sports Arena - Hal 1")
+- **turnering**: Turneringens navn (f.eks. "Kvindeligaen")
+
+### Match Events
+- **tid**: Tidspunktet i kampen (f.eks. "0.39", "21.12")
+- **maal**: Målstillingen, hvis der scores (f.eks. "1-0", "13-12") - ellers null - FJERN ALTID MELLEMRUM OMKRING BINDESTREGEN
+- **hold**: Holdkoden for holdet involveret i hændelsen (f.eks. "RIN", "NFH") - ellers null
+- **haendelse_1**: Den primære hændelse (f.eks. "Mål", "Skud reddet", "Fejlaflevering") - ellers null
+- **pos**: Positionen hvorfra hændelsen skete (f.eks. "ST", "PL", "Gbr") - ellers null
+- **nr_1**: Spillernummeret for spilleren involveret i den primære hændelse - ellers null
+- **navn_1**: Navnet på spilleren involveret i den primære hændelse - ellers null
+- **haendelse_2**: Den sekundære hændelse, hvis relevant (f.eks. "Assist", "Bold erobret", "Forårs. str.") - ellers null
+- **nr_2**: Spillernummeret for spilleren involveret i den sekundære hændelse - ellers null
+- **navn_2**: Navnet på spilleren involveret i den sekundære hændelse - ellers null
+- **nr_mv**: Målvogterens spillernummer, hvis en målvogter er involveret - ellers null
+- **mv**: Målvogterens navn, hvis en målvogter er involveret - ellers null
+
+## Kritiske regler for korrekt datafelt-tildeling
+
+### 1. Generelle regler
+- Tomme felter skal være `null` i JSON, ikke tomme strenge ("") 
+- Alle numeriske felter (nr_1, nr_2, nr_mv) skal være heltal, ikke strenge
+- Værdien "0" i tekstfilen skal ALTID behandles som null, ALDRIG som et tal, medmindre der er en spiller tilknyttet
+- Fjern ALTID mellemrum omkring bindestregen i resultater (brug f.eks. "30-32" i stedet for "30 - 32")
+
+### 2. MEGET VIGTIG PROCESREGEL FOR LINJE-PARSING
+
+**Korrekt rækkefølge for at identificere felter på en linje:**
+
+1. Identificér altid FØRST tid, mål og hold (de første 3 kolonner)
+2. Identificér derefter den primære hændelse (haendelse_1, pos, nr_1, navn_1)
+3. VIGTIG PRIORITET: Check om der er en målvogter (nr_mv/mv) ved at se på DE SIDSTE TO FELTER på linjen
+4. KUN hvis der er flere felter mellem primær hændelse og målvogteren (eller linjen slutter uden målvogter), så behandl disse som sekundær hændelse
+
+**Aldrig gæt eller bland målvogter og sekundær hændelse sammen!**
+
+### 3. Kritisk regel for målvogter vs. sekundær hændelse
+
+**Målvogteridentifikation (nr_mv/mv):**
+- **DET SIDSTE NUMMER OG NAVN PÅ EN LINJE ER ALTID MÅLVOGTEREN, HVIS DER ER EN MÅLVOGTER**
+- Ved "Mål", "Skud reddet", "Skud på stolpe", "Skud forbi": **Det sidste nummer/navn på linjen er ALTID målvogteren**
+- SÆRLIGT for "Mål på straffe", "Straffekast reddet": Det sidste nummer/navn er ALTID målvogteren
+- **ALDRIG** placér målvogterdata i sekundær hændelses felter (nr_2/navn_2)
+- Hvis du ser et spillernummer/navn i slutningen af linjen ved de nævnte hændelser, skal det ALTID være i nr_mv/mv felterne
+
+**Sekundær hændelse (haendelse_2/nr_2/navn_2):**
+- Kommer ALTID mellem primær hændelse og målvogteren (hvis der er en målvogter)
+- Typiske sekundære hændelser: "Assist", "Bold erobret", "Forårs. str.", "Blokeret af"
+- **ALDRIG** placer målvogterdata i sekundær hændelses felter
+- Hvis der er tvivl, så check om det er en af de kendte sekundære hændelser
+
+### 4. Husk disse særlige linjetyper og deres struktur
+
+#### A. Linje med primær hændelse, sekundær hændelse OG målvogter
+```
+3.19  2-2  NFH  Mål  ST  34  Sofie BARDRUM  Assist  7  Amalie WULFF  88  Rakul WARDUM
+```
+- haendelse_1 = "Mål", nr_1 = 34, navn_1 = "Sofie BARDRUM"
+- haendelse_2 = "Assist", nr_2 = 7, navn_2 = "Amalie WULFF" 
+- nr_mv = 88, mv = "Rakul WARDUM" (målvogteren)
+
+#### B. Linje med primær hændelse og målvogter (UDEN sekundær hændelse)
+```
+0.39  1-0  RIN  Mål  ST  23  Nanna HINNERFELDT                            1  Sofie BÖRJESSON
+```
+- haendelse_1 = "Mål", nr_1 = 23, navn_1 = "Nanna HINNERFELDT"
+- haendelse_2 = null, nr_2 = null, navn_2 = null
+- nr_mv = 1, mv = "Sofie BÖRJESSON" (målvogteren)
+
+#### C. Linje med primær hændelse og sekundær hændelse (UDEN målvogter)
+```
+12.36        NFH  Fejlaflevering        7  Amalie WULFF  Bold erobret  3  Maria Berger WIERZBA
+```
+- haendelse_1 = "Fejlaflevering", nr_1 = 7, navn_1 = "Amalie WULFF"
+- haendelse_2 = "Bold erobret", nr_2 = 3, navn_2 = "Maria Berger WIERZBA"
+- nr_mv = null, mv = null (ingen målvogter)
+
+#### D. Linje med kun primær hændelse (UDEN sekundær hændelse og UDEN målvogter)
+```
+1.34         NFH  Regelfejl         18  Alberte KIELSTRUP
+```
+- haendelse_1 = "Regelfejl", nr_1 = 18, navn_1 = "Alberte KIELSTRUP"
+- haendelse_2 = null, nr_2 = null, navn_2 = null
+- nr_mv = null, mv = null (ingen målvogter)
+
+#### E. Særlige hændelser uden spillere
+```
+10.48        NFH  Time out
+```
+- haendelse_1 = "Time out", alt andet er null
+
+## VIGTIGE tips til at undgå fejl
+
+### For målvogteridentifikation:
+- **VIGTIGST**: Når der er "Mål", "Skud reddet", "Skud forbi", "Skud på stolpe", "Mål på straffe" - så forventer vi normalt en målvogter i slutningen af linjen (de sidste to tal/navne)
+- Se efter de sidste to felter (nummer og navn) på linjen - disse er ALTID målvogteren, hvis der er en målvogter
+- Målvogteren skal ALTID gemmes i nr_mv og mv, ALDRIG i nr_2 og navn_2
+
+### For sekundære hændelser:
+- De kommer ALTID mellem primær hændelse og målvogteren (hvis der er en målvogter)
+- De sekundære hændelser har ofte specifikke navne som "Assist", "Bold erobret", "Forårs. str.", "Blokeret af" - brug dette til at genkende dem
+- Hvis du ser et af disse ord, er det en sekundær hændelse
+- Målvogteren er ALDRIG en del af en sekundær hændelse
+
+### For formatering:
+- FJERN ALTID mellemrum omkring bindestregen i resultater (f.eks. ændre "30 - 32" til "30-32")
+- Konvertér værdien "0" uden navn til null, IKKE til tallet 0
+
+## Specifik kontrol for almindelige fejl
+
+1. **Check for målvogter ved hændelserne**:
+   - Ved "Mål", "Skud reddet", "Skud forbi", "Skud på stolpe", "Mål på straffe":
+   - De sidste to felter (nummer og navn) på linjen er ALTID målvogteren
+
+2. **Check for mellemrum i resultater**:
+   - Find og fjern ALLE mellemrum omkring bindestreger i "resultat" og "halvleg_resultat" felterne
+   - Gør det samme for "maal" feltet i hver hændelse
+
+3. **Check for "0"-værdier**:
+   - Hvis du ser et enkeltstående "0" uden et navn, konvertér det til null, ikke til tallet 0
+
+## Eksempler på korrekt JSON output
+
+### Eksempel 1: Mål med assist og målvogter
+```
+7.01   5-2   RIN   Mål   1:e   18   Emilie ROSBORG   Assist   3   Maria Berger WIERZBA   1   Sofie BÖRJESSON
+```
+
+Korrekt JSON:
+```json
+{
+  "tid": "7.01",
+  "maal": "5-2",
+  "hold": "RIN",
+  "haendelse_1": "Mål",
+  "pos": "1:e",
+  "nr_1": 18,
+  "navn_1": "Emilie ROSBORG",
+  "haendelse_2": "Assist",
+  "nr_2": 3,
+  "navn_2": "Maria Berger WIERZBA",
+  "nr_mv": 1,
+  "mv": "Sofie BÖRJESSON"
+}
+```
+
+### Eksempel 2: Mål på straffe med KUN målvogter (INGEN sekundær hændelse)
+```
+6.18    4-2    RIN    Mål på straffe         2    Cecilie BJERRE                            1    Sofie BÖRJESSON
+```
+
+Korrekt JSON:
+```json
+{
+  "tid": "6.18",
+  "maal": "4-2",
+  "hold": "RIN",
+  "haendelse_1": "Mål på straffe",
+  "pos": null,
+  "nr_1": 2,
+  "navn_1": "Cecilie BJERRE",
+  "haendelse_2": null,
+  "nr_2": null,
+  "navn_2": null,
+  "nr_mv": 1,
+  "mv": "Sofie BÖRJESSON"
+}
+```
+
+### Eksempel 3: Skud reddet med KUN målvogter (INGEN sekundær hændelse)
+```
+23.58        NFH  Skud reddet  ST  2  Caroline AAR                            16  Stephanie ANDERSEN
+```
+
+Korrekt JSON:
+```json
+{
+  "tid": "23.58",
+  "maal": null,
+  "hold": "NFH",
+  "haendelse_1": "Skud reddet",
+  "pos": "ST",
+  "nr_1": 2,
+  "navn_1": "Caroline AAR",
+  "haendelse_2": null,
+  "nr_2": null,
+  "navn_2": null,
+  "nr_mv": 16,
+  "mv": "Stephanie ANDERSEN"
+}
+```
+
+## Valideringsproces for korrekt output
+
+**Før du afleverer det endelige resultat, tjek følgende punkt for punkt:**
+
+1. Er målvogteren (hvis der er en) korrekt placeret i nr_mv/mv, IKKE i nr_2/navn_2? 
+   - SÆRLIGT VIGTIG at kontrollere for "Mål på straffe", "Skud reddet" osv.
+
+2. Er alle resultater formateret uden mellemrum omkring bindestregen?
+   - "30-32" er korrekt, "30 - 32" er forkert
+   - "17-16" er korrekt, "17 - 16" er forkert
+
+3. Er alle "0" værdier uden navn konverteret til null?
+
+4. Er alle numeriske værdier faktisk tal, ikke strenge?
+   - nr_1, nr_2, nr_mv skal være tal, ikke strenge
+
+5. Er sekundære hændelser og målvogterdata korrekt adskilt?
+   - Sekundær hændelse = haendelse_2, nr_2, navn_2
+   - Målvogter = nr_mv, mv
+
+**Specifik validering for målvogter-relaterede fejl:**
+- Find alle tilfælde af "Mål", "Skud reddet", "Skud forbi", "Skud på stolpe", "Mål på straffe"
+- Sørg for at det sidste nummer og navn på disse linjer ER gemt i nr_mv/mv, IKKE i nr_2/navn_2 

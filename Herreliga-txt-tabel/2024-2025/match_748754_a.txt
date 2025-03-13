@@ -1,0 +1,950 @@
+KAMPHÆNDELSER
+Fredericia Håndbold Klub - Sønderjyske Herrehåndbold   32 - 26  (15 - 10)
+748754 / 7-2-2025 / Middelfart Sparekasse, Fredericia / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.57
+1-0
+FHK Mål
+Gbr
+3
+Jonas Kruse KRISTENSEN
+Assist
+93
+Anders MARTINUSEN
+30
+Julius STEN
+2.11
+SJE
+Skud reddet
+PL
+11
+Nicolaj JØRGENSEN
+16
+Thorsten FRIES
+3.02
+SJE
+Udvisning
+14
+Jacob BAGERSTED
+3.24
+FHK
+Tilkendt straffe
+41
+Evgeni PEVNOV
+Forårs. str.
+48
+Gabriel SETTERBLOM
+3.59
+2-0
+FHK Mål på straffe
+91
+Kasper PALMAR
+30
+Julius STEN
+4.31
+FHK
+Udvisning
+20
+Fredrik MOSSESTAD
+4.43
+2-1
+SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+16
+Thorsten FRIES
+4.49
+FHK
+Skud forbi
+2:e
+41
+Evgeni PEVNOV
+0
+5.25
+SJE
+Regelfejl
+18
+Morten BJØRNSHAUGE
+5.51
+FHK
+Skud reddet
+PL
+3
+Jonas Kruse KRISTENSEN
+Retur
+0
+30
+Julius STEN
+6.24
+3-1
+FHK Mål
+PL
+97
+Reinier TABOADA
+30
+Julius STEN
+6.29
+3-2
+SJE
+Mål
+2:e
+11
+Nicolaj JØRGENSEN
+0
+7.06
+FHK
+Skud reddet
+HB 93
+Anders MARTINUSEN
+30
+Julius STEN
+7.22
+3-3
+SJE
+Mål
+Gbr 48
+Gabriel SETTERBLOM
+16
+Thorsten FRIES
+8.10
+FHK
+Tilkendt straffe
+3
+Jonas Kruse KRISTENSEN
+Forårs. str.
+28
+Patrick VOLZ
+8.38
+4-3
+FHK Mål på straffe
+91
+Kasper PALMAR
+30
+Julius STEN
+9.19
+4-4
+SJE
+Mål
+HF
+33
+Ebbe STANKIEWICZ
+Assist
+48
+Gabriel SETTERBLOM
+16
+Thorsten FRIES
+9.49
+FHK
+Skud på stolpe
+PL
+97
+Reinier TABOADA
+30
+Julius STEN
+11.00
+SJE
+Skud reddet
+PL
+29
+Magnus FREDRIKSEN
+16
+Thorsten FRIES
+11.08
+5-4
+FHK Mål
+Gbr
+3
+Jonas Kruse KRISTENSEN
+30
+Julius STEN
+12.09
+SJE
+Tilkendt straffe
+48
+Gabriel SETTERBLOM
+Forårs. str.
+9
+Martin BISGAARD
+12.30
+SJE
+Straffekast reddet
+11
+Nicolaj JØRGENSEN
+16
+Thorsten FRIES
+13.00
+FHK Skud reddet
+PL
+97
+Reinier TABOADA
+30
+Julius STEN
+13.24
+SJE
+Tabt bold
+11
+Nicolaj JØRGENSEN
+Bold erobret 97
+Reinier TABOADA
+13.32
+6-4
+FHK Mål
+1:e
+93
+Anders MARTINUSEN
+Assist
+41
+Evgeni PEVNOV
+30
+Julius STEN
+13.59
+FHK Advarsel
+13
+Lasse BALSTAD
+14.13
+SJE
+Tilkendt straffe
+20
+August WIGER
+Forårs. str.
+41
+Evgeni PEVNOV
+14.26
+SJE
+Straffekast reddet
+11
+Nicolaj JØRGENSEN
+16
+Thorsten FRIES
+15.14
+7-4
+FHK Mål
+Gbr
+3
+Jonas Kruse KRISTENSEN
+30
+Julius STEN
+16.01
+SJE
+Tilkendt straffe
+29
+Magnus FREDRIKSEN
+Forårs. str.
+15
+Mads KJELDGAARD
+16.19
+7-5
+SJE
+Mål på straffe
+28
+Patrick VOLZ
+16
+Thorsten FRIES
+16.51
+FHK Tabt bold
+93
+Anders MARTINUSEN
+Bold erobret 33
+Ebbe STANKIEWICZ
+17.31
+SJE
+Skud reddet
+ST
+18
+Morten BJØRNSHAUGE
+16
+Thorsten FRIES
+18.10
+8-5
+FHK Mål
+ST
+41
+Evgeni PEVNOV
+Assist
+15
+Mads KJELDGAARD
+30
+Julius STEN
+19.17
+SJE
+Skud reddet
+Gbr 29
+Magnus FREDRIKSEN
+16
+Thorsten FRIES
+19.42
+9-5
+FHK Mål
+PL
+15
+Mads KJELDGAARD
+30
+Julius STEN
+20.25
+9-6
+SJE
+Mål
+VF
+28
+Patrick VOLZ
+Assist
+29
+Magnus FREDRIKSEN
+16
+Thorsten FRIES
+20.53
+FHK Skud reddet
+PL
+15
+Mads KJELDGAARD
+30
+Julius STEN
+21.22
+9-7
+SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+16
+Thorsten FRIES
+21.28 10-7
+FHK
+Mål
+2:e
+93
+Anders MARTINUSEN
+0
+22.11
+SJE
+Skud forbi
+VF
+28
+Patrick VOLZ
+16
+Thorsten FRIES
+22.56 11-7
+FHK
+Mål
+ST
+41
+Evgeni PEVNOV
+Assist
+93
+Anders MARTINUSEN
+30
+Julius STEN
+22.56
+SJE
+Udvisning
+14
+Jacob BAGERSTED
+23.32
+SJE
+Skud reddet
+VF
+28
+Patrick VOLZ
+16
+Thorsten FRIES
+23.54
+FHK Fejlaflevering
+93
+Anders MARTINUSEN
+Bold erobret 33
+Ebbe STANKIEWICZ
+24.00 11-8
+SJE
+Mål
+1:e
+28
+Patrick VOLZ
+Assist
+33
+Ebbe STANKIEWICZ
+16
+Thorsten FRIES
+24.35 12-8
+FHK
+Mål
+ST
+4
+Nikolaj NIELSEN
+Assist
+93
+Anders MARTINUSEN
+30
+Julius STEN
+24.55
+SJE
+Time out
+25.13 12-9
+SJE
+Mål
+VF
+28
+Patrick VOLZ
+Assist
+29
+Magnus FREDRIKSEN
+16
+Thorsten FRIES
+25.13
+FHK Udvisning
+20
+Fredrik MOSSESTAD
+25.59
+FHK Skud reddet
+Gbr 91
+Kasper PALMAR
+30
+Julius STEN
+26.06 12-10 SJE
+Mål
+1:e
+11
+Nicolaj JØRGENSEN
+0
+26.37
+SJE
+Udvisning
+14
+Jacob BAGERSTED
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Fredericia Håndbold Klub - Sønderjyske Herrehåndbold   32 - 26  (15 - 10)
+748754 / 7-2-2025 / Middelfart Sparekasse, Fredericia / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+26.55 13-10 FHK Mål
+HF
+93
+Anders MARTINUSEN
+Assist
+91
+Kasper PALMAR
+30
+Julius STEN
+27.28
+SJE
+Tilkendt straffe
+48
+Gabriel SETTERBLOM
+Forårs. str.
+9
+Martin BISGAARD
+27.48
+SJE
+Straffekast reddet
+28
+Patrick VOLZ
+16
+Thorsten FRIES
+28.27
+FHK Time out
+28.34
+FHK Fejlaflevering
+91
+Kasper PALMAR
+Bold erobret 33
+Ebbe STANKIEWICZ
+28.41
+SJE
+Skud reddet
+1:e
+33
+Ebbe STANKIEWICZ
+16
+Thorsten FRIES
+28.48 14-10 FHK Mål
+HB 91
+Kasper PALMAR
+30
+Julius STEN
+29.20
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+Bold erobret 91
+Kasper PALMAR
+29.25 15-10 FHK Mål
+1:e
+23
+Einar ÓLAFSSON
+Assist
+91
+Kasper PALMAR
+0
+29.57
+SJE
+Fejlaflevering
+29
+Magnus FREDRIKSEN
+Bold erobret
+9
+Martin BISGAARD
+29.59
+FHK Skud forbi
+1:e
+23
+Einar ÓLAFSSON
+0
+30.00 15-10
+Halvleg
+30.00
+Start 2:e halvleg
+31.03
+SJE
+Tabt bold
+48
+Gabriel SETTERBLOM
+Bold erobret 13
+Lasse BALSTAD
+32.07
+FHK Tabt bold
+91
+Kasper PALMAR
+Bold erobret 11
+Nicolaj JØRGENSEN
+32.10 15-11 SJE
+Mål
+1:e
+3
+Lucas REHFUS
+Assist
+11
+Nicolaj JØRGENSEN
+16
+Thorsten FRIES
+32.18 16-11 FHK Mål
+2:e
+91
+Kasper PALMAR
+30
+Julius STEN
+33.02
+FHK Udvisning
+23
+Einar ÓLAFSSON
+33.21
+SJE
+Skud reddet
+ST
+2
+Tobias Gregers SCHMIDT
+16
+Thorsten FRIES
+34.09 17-11 FHK Mål
+ST
+4
+Nikolaj NIELSEN
+Assist
+31
+William ANDERSSON MOBERG30
+Julius STEN
+34.28
+SJE
+Skud reddet
+Gbr 11
+Nicolaj JØRGENSEN
+16
+Thorsten FRIES
+34.33 18-11 FHK Mål
+1:e
+91
+Kasper PALMAR
+0
+34.53 18-12 SJE
+Mål
+Gbr 29
+Magnus FREDRIKSEN
+16
+Thorsten FRIES
+35.45
+FHK Skud reddet
+PL
+91
+Kasper PALMAR
+30
+Julius STEN
+36.25 18-13 SJE
+Mål
+Gbr 48
+Gabriel SETTERBLOM
+16
+Thorsten FRIES
+37.04
+FHK Skud reddet
+PL
+91
+Kasper PALMAR
+30
+Julius STEN
+37.09 18-14 SJE
+Mål
+1:e
+28
+Patrick VOLZ
+Assist
+30
+Julius STEN
+16
+Thorsten FRIES
+37.41
+FHK Skud reddet
+ST
+4
+Nikolaj NIELSEN
+30
+Julius STEN
+37.52 18-15 SJE
+Mål
+2:e
+33
+Ebbe STANKIEWICZ
+Assist
+48
+Gabriel SETTERBLOM
+16
+Thorsten FRIES
+38.22 19-15 FHK Mål
+ST
+4
+Nikolaj NIELSEN
+Assist
+91
+Kasper PALMAR
+30
+Julius STEN
+38.33 19-16 SJE
+Mål
+Gbr 48
+Gabriel SETTERBLOM
+16
+Thorsten FRIES
+39.03 20-16 FHK Mål
+ST
+4
+Nikolaj NIELSEN
+Assist
+31
+William ANDERSSON MOBERG30
+Julius STEN
+40.00 20-17 SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+11
+Nicolaj JØRGENSEN
+16
+Thorsten FRIES
+40.51
+SJE
+Udvisning
+18
+Morten BJØRNSHAUGE
+41.03 21-17 FHK Mål
+VF
+9
+Martin BISGAARD
+Assist
+91
+Kasper PALMAR
+30
+Julius STEN
+41.35
+SJE
+Tabt bold
+48
+Gabriel SETTERBLOM
+Bold erobret 97
+Reinier TABOADA
+41.38 22-17 FHK Mål
+1:e
+97
+Reinier TABOADA
+0
+42.36
+SJE
+Regelfejl
+48
+Gabriel SETTERBLOM
+42.51
+FHK Fejlaflevering
+91
+Kasper PALMAR
+Bold erobret 33
+Ebbe STANKIEWICZ
+43.30
+SJE
+Time out
+43.42 22-18 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+16
+Thorsten FRIES
+43.52
+FHK Regelfejl
+15
+Mads KJELDGAARD
+44.31
+SJE
+Tabt bold
+2
+Tobias Gregers SCHMIDT
+Bold erobret 13
+Lasse BALSTAD
+44.37 23-18 FHK Mål
+2:e
+23
+Einar ÓLAFSSON
+30
+Julius STEN
+45.20
+SJE
+Skud forbi
+HF
+33
+Ebbe STANKIEWICZ
+16
+Thorsten FRIES
+46.09 24-18 FHK Mål
+Gbr 93
+Anders MARTINUSEN
+30
+Julius STEN
+46.52 24-19 SJE
+Mål
+ST
+2
+Tobias Gregers SCHMIDT
+Assist
+11
+Nicolaj JØRGENSEN
+16
+Thorsten FRIES
+46.53
+FHK Udvisning
+93
+Anders MARTINUSEN
+47.21 25-19 FHK Mål
+VF
+9
+Martin BISGAARD
+Assist
+15
+Mads KJELDGAARD
+30
+Julius STEN
+47.49 25-20 SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+29
+Magnus FREDRIKSEN
+1
+Sebastian FRANDSEN
+48.47
+FHK Fejlaflevering
+15
+Mads KJELDGAARD
+Bold erobret 11
+Nicolaj JØRGENSEN
+48.51 25-21 SJE
+Mål
+1:e
+11
+Nicolaj JØRGENSEN
+0
+49.22 26-21 FHK Mål
+PL
+15
+Mads KJELDGAARD
+30
+Julius STEN
+49.42
+SJE
+Fejlaflevering
+29
+Magnus FREDRIKSEN
+Bold erobret 20
+Fredrik MOSSESTAD
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Fredericia Håndbold Klub - Sønderjyske Herrehåndbold   32 - 26  (15 - 10)
+748754 / 7-2-2025 / Middelfart Sparekasse, Fredericia / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+50.30
+FHK Skud reddet
+Gbr 31
+William ANDERSSON MOBERG
+30
+Julius STEN
+51.06 26-22 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+1
+Sebastian FRANDSEN
+52.10 27-22 FHK Mål
+VF
+9
+Martin BISGAARD
+Assist
+15
+Mads KJELDGAARD
+30
+Julius STEN
+52.42 27-23 SJE
+Mål
+ST
+2
+Tobias Gregers SCHMIDT
+Assist
+29
+Magnus FREDRIKSEN
+1
+Sebastian FRANDSEN
+52.54
+FHK Tilkendt straffe
+31
+William ANDERSSON MOBERGForårs. str.
+2
+Tobias Gregers SCHMIDT
+52.57 28-23 FHK Mål på straffe
+91
+Kasper PALMAR
+30
+Julius STEN
+54.00
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+54.39
+FHK Time out
+54.53
+FHK Skud reddet
+Gbr 31
+William ANDERSSON MOBERG
+30
+Julius STEN
+55.25 28-24 SJE
+Mål
+Gbr 11
+Nicolaj JØRGENSEN
+1
+Sebastian FRANDSEN
+56.17 29-24 FHK Mål
+VF
+9
+Martin BISGAARD
+Assist
+93
+Anders MARTINUSEN
+30
+Julius STEN
+56.54 29-25 SJE
+Mål
+Gbr 48
+Gabriel SETTERBLOM
+1
+Sebastian FRANDSEN
+57.42 30-25 FHK Mål
+ST
+41
+Evgeni PEVNOV
+Assist
+93
+Anders MARTINUSEN
+30
+Julius STEN
+57.43
+SJE
+Time out
+0
+58.08
+SJE
+Skud reddet
+HF
+33
+Ebbe STANKIEWICZ
+1
+Sebastian FRANDSEN
+58.34
+SJE
+Udvisning
+11
+Nicolaj JØRGENSEN
+58.49 31-25 FHK Mål
+ST
+41
+Evgeni PEVNOV
+Assist
+93
+Anders MARTINUSEN
+30
+Julius STEN
+59.30 31-26 SJE
+Mål
+PL
+3
+Lucas REHFUS
+1
+Sebastian FRANDSEN
+59.56 32-26 FHK Mål
+Gbr 15
+Mads KJELDGAARD
+Assist
+41
+Evgeni PEVNOV
+30
+Julius STEN
+60.00 32-26
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Tobias Kjærgaard, Niels Sell, Luan Muslija

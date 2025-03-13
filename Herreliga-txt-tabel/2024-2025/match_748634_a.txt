@@ -1,0 +1,936 @@
+KAMPHÆNDELSER
+Skjern Håndbold - TMS Ringsted   38 - 27  (19 - 17)
+748634 / 9-9-2024 / Skjern Bank Arena bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.38
+0-1
+TMS Mål
+PL
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+1.11
+SKH Skud forbi
+PL
+13
+Noah GAUDIN
+16
+Andreas HAAGEN
+1.45
+SKH Advarsel
+25
+Eivind TANGEN
+2.10
+TMS Skud på stolpe
+VB
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+3.02
+SKH Tilkendt straffe
+25
+Eivind TANGEN
+Forårs. str.
+17
+Oliver WOSNIAK
+3.02
+TMS Udvisning
+17
+Oliver WOSNIAK
+3.04
+1-1
+SKH Mål på straffe
+15
+Lasse MIKKELSEN
+16
+Andreas HAAGEN
+3.38
+TMS Regelfejl
+24
+Simon OOMS
+3.46
+SKH Skud reddet
+2:e
+14
+Emil BERGHOLT
+16
+Andreas HAAGEN
+4.17
+TMS Skud reddet
+Gbr 19
+Benjamin HALLGREN
+1
+Christoffer BONDE
+4.18
+TMS Udvisning
+19
+Benjamin HALLGREN
+4.56
+TMS Advarsel
+A
+Kenneth Eugen OLSEN
+5.02
+2-1
+SKH Mål
+Gbr 25
+Eivind TANGEN
+Assist
+14
+Emil BERGHOLT
+16
+Andreas HAAGEN
+5.43
+2-2
+TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+1
+Christoffer BONDE
+6.08
+3-2
+SKH Mål
+ST
+14
+Emil BERGHOLT
+Assist
+15
+Lasse MIKKELSEN
+16
+Andreas HAAGEN
+6.36
+TMS Skud reddet
+Gbr 19
+Benjamin HALLGREN
+1
+Christoffer BONDE
+6.50
+SKH Fejlaflevering
+25
+Eivind TANGEN
+7.11
+3-3
+TMS Mål
+VB
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+8.23
+4-3
+SKH Mål
+ST
+21
+René RASMUSSEN
+Assist
+13
+Noah GAUDIN
+16
+Andreas HAAGEN
+8.52
+4-4
+TMS Mål
+Gbr 19
+Benjamin HALLGREN
+Assist
+5
+Mark NIKOLAJSEN
+1
+Christoffer BONDE
+9.28
+5-4
+SKH Mål
+Gbr 22
+Jakob RASMUSSEN
+16
+Andreas HAAGEN
+9.57
+5-5
+TMS Mål
+PL
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+11.16
+6-5
+SKH Mål
+PL
+22
+Jakob RASMUSSEN
+16
+Andreas HAAGEN
+11.44
+6-6
+TMS Mål
+Gbr 19
+Benjamin HALLGREN
+1
+Christoffer BONDE
+11.52
+7-6
+SKH Mål
+2:e
+22
+Jakob RASMUSSEN
+16
+Andreas HAAGEN
+12.18
+TMS Fejlaflevering
+19
+Benjamin HALLGREN
+12.51
+SKH Tilkendt straffe
+21
+René RASMUSSEN
+Forårs. str.
+22
+Axel ANDERSSON
+12.51
+TMS Udvisning
+22
+Axel ANDERSSON
+12.52
+8-6
+SKH Mål på straffe
+15
+Lasse MIKKELSEN
+29
+Malte EICHHORST
+13.32
+8-7
+TMS Mål
+ST
+24
+Simon OOMS
+Assist
+19
+Benjamin HALLGREN
+1
+Christoffer BONDE
+14.05
+9-7
+SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+15
+Lasse MIKKELSEN
+16
+Andreas HAAGEN
+14.55
+TMS Fejlaflevering
+19
+Benjamin HALLGREN
+Bold erobret 14
+Emil BERGHOLT
+15.31
+SKH Tilkendt straffe
+22
+Jakob RASMUSSEN
+Forårs. str.
+2
+Joachim MØLLER
+15.57 10-7
+SKH Mål på straffe
+15
+Lasse MIKKELSEN
+16
+Andreas HAAGEN
+16.04
+TMS Time out
+16.18 10-8
+TMS Mål
+PL
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+17.07 11-8
+SKH Mål
+PL
+13
+Noah GAUDIN
+16
+Andreas HAAGEN
+17.37
+TMS Tabt bold
+17
+Oliver WOSNIAK
+17.43 12-8
+SKH Mål
+1:e
+21
+René RASMUSSEN
+Assist
+13
+Noah GAUDIN
+0
+18.22
+TMS Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+1
+Christoffer BONDE
+18.31
+SKH Skud blokeret
+2:e
+13
+Noah GAUDIN
+Blok af (ret)
+2
+Joachim MØLLER
+19.08 13-8
+SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+13
+Noah GAUDIN
+29
+Malte EICHHORST
+19.37
+TMS Tilkendt straffe
+2
+Joachim MØLLER
+Forårs. str.
+13
+Noah GAUDIN
+20.01
+TMS Straffekast reddet
+81
+Tobias NIELSEN
+1
+Christoffer BONDE
+20.28 14-8
+SKH Mål
+HB 25
+Eivind TANGEN
+29
+Malte EICHHORST
+20.44
+TMS Time out
+20.59 14-9
+TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+1
+Christoffer BONDE
+21.32 15-9
+SKH Mål
+ST
+14
+Emil BERGHOLT
+Assist
+5
+Viktor BERGHOLT
+29
+Malte EICHHORST
+22.28 15-10 TMS Mål
+PL
+19
+Benjamin HALLGREN
+1
+Christoffer BONDE
+22.53
+SKH Skud forbi
+Gbr 13
+Noah GAUDIN
+29
+Malte EICHHORST
+23.33
+TMS Tilkendt straffe
+7
+Christoffer DREYER
+Forårs. str.
+25
+Eivind TANGEN
+23.35
+SKH Udvisning
+25
+Eivind TANGEN
+23.40 15-11 TMS Mål på straffe
+81
+Tobias NIELSEN
+1
+Christoffer BONDE
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skjern Håndbold - TMS Ringsted   38 - 27  (19 - 17)
+748634 / 9-9-2024 / Skjern Bank Arena bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.16 16-11 SKH Mål
+Gbr 13
+Noah GAUDIN
+29
+Malte EICHHORST
+24.25 16-12 TMS Mål
+2:e
+81
+Tobias NIELSEN
+Assist
+7
+Christoffer DREYER
+1
+Christoffer BONDE
+25.23
+SKH Regelfejl
+22
+Jakob RASMUSSEN
+25.25 16-13 TMS Mål
+1:e
+22
+Axel ANDERSSON
+Assist
+2
+Joachim MØLLER
+0
+25.44
+SKH Time out
+26.13 17-13 SKH Mål
+HB 13
+Noah GAUDIN
+16
+Andreas HAAGEN
+26.21 17-14 TMS Mål
+2:e
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+27.01 18-14 SKH Mål
+PL
+13
+Noah GAUDIN
+16
+Andreas HAAGEN
+27.36 18-15 TMS Mål
+ST
+2
+Joachim MØLLER
+Assist
+5
+Mark NIKOLAJSEN
+1
+Christoffer BONDE
+28.06
+SKH Regelfejl
+25
+Eivind TANGEN
+28.14 18-16 TMS Mål
+2:e
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+29.02 19-16 SKH Mål
+PL
+22
+Jakob RASMUSSEN
+16
+Andreas HAAGEN
+29.39 19-17 TMS Mål
+VB
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+30.00
+SKH Skud blokeret
+HB 25
+Eivind TANGEN
+Blok af (ret)
+25
+Anders AGGER
+30.00 19-17
+Halvleg
+30.00
+Start 2:e halvleg
+30.40
+SKH Fejlaflevering
+19
+Bjarke CHRISTENSEN
+Bold erobret 81
+Tobias NIELSEN
+31.06 19-18 TMS Mål
+ST
+24
+Simon OOMS
+Assist
+19
+Benjamin HALLGREN
+1
+Christoffer BONDE
+31.15
+SKH Skud reddet
+2:e
+13
+Noah GAUDIN
+Retur
+0
+16
+Andreas HAAGEN
+31.50 20-18 SKH Mål
+Gbr 22
+Jakob RASMUSSEN
+16
+Andreas HAAGEN
+32.01
+TMS Skud reddet
+2:e
+22
+Axel ANDERSSON
+1
+Christoffer BONDE
+32.12
+SKH Fejlaflevering
+18
+Vetle RØNNINGEN
+Bold erobret 22
+Axel ANDERSSON
+32.53
+TMS Skud forbi
+VB
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+33.41
+SKH Tilkendt straffe
+14
+Emil BERGHOLT
+Forårs. str.
+7
+Christoffer DREYER
+33.47
+TMS Udvisning
+7
+Christoffer DREYER
+33.47 21-18 SKH Mål på straffe
+15
+Lasse MIKKELSEN
+29
+Malte EICHHORST
+34.32
+TMS Skud på stolpe
+VB
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+34.35 22-18 SKH Mål
+1:e
+13
+Noah GAUDIN
+0
+35.38
+TMS Skud forbi
+VB
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+36.06
+SKH Skud reddet
+PL
+13
+Noah GAUDIN
+16
+Andreas HAAGEN
+36.24
+TMS Skud reddet
+2:e
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+37.01
+SKH Tabt bold
+10
+Joaquim NAZARÉ
+37.11
+TMS Skud reddet
+2:e
+2
+Joachim MØLLER
+1
+Christoffer BONDE
+38.01 23-18 SKH Mål
+PL
+13
+Noah GAUDIN
+16
+Andreas HAAGEN
+38.36 23-19 TMS Mål
+ST
+25
+Anders AGGER
+Assist
+5
+Mark NIKOLAJSEN
+1
+Christoffer BONDE
+38.47 24-19 SKH Mål
+2:e
+10
+Joaquim NAZARÉ
+Assist
+18
+Vetle RØNNINGEN
+16
+Andreas HAAGEN
+39.27
+TMS Fejlaflevering
+19
+Benjamin HALLGREN
+40.14
+SKH Regelfejl
+0
+40.28
+TMS Skud på stolpe
+Gbr 19
+Benjamin HALLGREN
+1
+Christoffer BONDE
+40.34 25-19 SKH Mål
+1:e
+13
+Noah GAUDIN
+0
+40.41
+TMS Time out
+41.00 25-20 TMS Mål
+Gbr 17
+Oliver WOSNIAK
+Assist
+5
+Mark NIKOLAJSEN
+1
+Christoffer BONDE
+41.34
+SKH Skud reddet
+PL
+22
+Jakob RASMUSSEN
+16
+Andreas HAAGEN
+41.58 25-21 TMS Mål
+ST
+25
+Anders AGGER
+Assist
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+42.39 26-21 SKH Mål
+ST
+14
+Emil BERGHOLT
+Assist
+13
+Noah GAUDIN
+16
+Andreas HAAGEN
+42.48
+TMS Tilkendt straffe
+25
+Anders AGGER
+Forårs. str.
+25
+Eivind TANGEN
+43.10 26-22 TMS Mål på straffe
+81
+Tobias NIELSEN
+1
+Christoffer BONDE
+43.43
+SKH Skud reddet
+PL
+13
+Noah GAUDIN
+16
+Andreas HAAGEN
+43.58
+TMS Skud reddet
+HF
+81
+Tobias NIELSEN
+1
+Christoffer BONDE
+44.09
+SKH Time out
+44.23
+SKH Skud reddet
+Gbr 10
+Joaquim NAZARÉ
+16
+Andreas HAAGEN
+45.14
+SKH Udvisning
+18
+Vetle RØNNINGEN
+45.26 26-23 TMS Mål
+ST
+24
+Simon OOMS
+Assist
+19
+Benjamin HALLGREN
+1
+Christoffer BONDE
+46.19 27-23 SKH Mål
+Gbr 10
+Joaquim NAZARÉ
+16
+Andreas HAAGEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skjern Håndbold - TMS Ringsted   38 - 27  (19 - 17)
+748634 / 9-9-2024 / Skjern Bank Arena bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+46.47 27-24 TMS Mål
+Gbr 17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+47.33
+SKH Tilkendt straffe
+21
+René RASMUSSEN
+Forårs. str.
+27
+Victor WOLF
+47.35
+TMS Udvisning
+27
+Victor WOLF
+47.36
+SKH Straffekast reddet
+15
+Lasse MIKKELSEN
+Retur
+0
+16
+Andreas HAAGEN
+47.42 28-24 SKH Mål
+ST
+15
+Lasse MIKKELSEN
+16
+Andreas HAAGEN
+48.15
+TMS Skud reddet
+Gbr 19
+Benjamin HALLGREN
+1
+Christoffer BONDE
+49.05 29-24 SKH Mål
+PL
+15
+Lasse MIKKELSEN
+16
+Andreas HAAGEN
+49.18
+TMS Skud forbi
+PL
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+49.29 30-24 SKH Mål
+2:e
+15
+Lasse MIKKELSEN
+16
+Andreas HAAGEN
+50.08 30-25 TMS Mål
+ST
+24
+Simon OOMS
+Assist
+5
+Mark NIKOLAJSEN
+1
+Christoffer BONDE
+50.37 31-25 SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+10
+Joaquim NAZARÉ
+16
+Andreas HAAGEN
+51.04
+TMS Skud forbi
+VF
+22
+Axel ANDERSSON
+1
+Christoffer BONDE
+51.40 32-25 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+15
+Lasse MIKKELSEN
+16
+Andreas HAAGEN
+52.09
+TMS Skud forbi
+VB
+17
+Oliver WOSNIAK
+1
+Christoffer BONDE
+52.11
+SKH Skud på stolpe
+1:e
+1
+Christoffer BONDE
+0
+52.50
+TMS Skud reddet
+VF
+27
+Victor WOLF
+1
+Christoffer BONDE
+53.34
+SKH Regelfejl
+7
+Senjamin BURIC
+54.00 32-26 TMS Mål
+PL
+15
+Dines KJELDGAARD
+1
+Christoffer BONDE
+54.31 33-26 SKH Mål
+Gbr
+2
+Mads BJERGFELT
+29
+Malte EICHHORST
+55.00
+TMS Fejlaflevering
+44
+Tobias TOMBAK
+55.04 34-26 SKH Mål
+1:e
+19
+Bjarke CHRISTENSEN
+Assist
+1
+Christoffer BONDE
+29
+Malte EICHHORST
+55.41 34-27 TMS Mål
+Gbr 44
+Tobias TOMBAK
+1
+Christoffer BONDE
+56.15 35-27 SKH Mål
+Gbr
+2
+Mads BJERGFELT
+29
+Malte EICHHORST
+56.43
+TMS Fejlaflevering
+7
+Christoffer DREYER
+57.10 36-27 SKH Mål
+HB
+2
+Mads BJERGFELT
+29
+Malte EICHHORST
+57.40
+TMS Skud reddet
+HB 15
+Dines KJELDGAARD
+1
+Christoffer BONDE
+58.12
+SKH Skud reddet
+Gbr 22
+Jakob RASMUSSEN
+29
+Malte EICHHORST
+58.20
+TMS Skud forbi
+2:e
+44
+Tobias TOMBAK
+1
+Christoffer BONDE
+58.51 37-27 SKH Mål
+Gbr 10
+Joaquim NAZARÉ
+29
+Malte EICHHORST
+59.34
+TMS Regelfejl
+7
+Christoffer DREYER
+59.49 38-27 SKH Mål
+PL
+10
+Joaquim NAZARÉ
+29
+Malte EICHHORST
+59.58
+TMS Skud reddet
+2:e
+25
+Anders AGGER
+1
+Christoffer BONDE
+60.00 38-27
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Lars Johannessen, ThomasKnudsen,
