@@ -1,0 +1,28 @@
+Spillere for Aarhus Håndbold Kvinder
+Antal kampe: 21
+Holdkode: AHB
+Antal unikke spillere: 19
+============================================================
+Nummer | Antal | Spillernavn(e)
+------------------------------------------------------------
+     1 |   2   | Elin THORSTEINSDOTTER
+       |       | Elin THORSTEINSDOTTIR
+     2 |   1   | Majken Hedegaard NIELSEN
+     3 |   1   | Sarah Vest KIRKELØKKE
+     4 |   1   | Katrine JACOBSEN
+     5 |   1   | Katarina BERENS
+     6 |   1   | Freja GANDRUP ERNST
+     7 |   1   | Emma MOGENSEN
+     8 |   1   | Freja GANDRUP ERNST
+    10 |   1   | Frederikke WAAGE-JENSEN
+    11 |   1   | Sophia SNOGDAL
+    14 |   1   | Anna Berger WIERZBA
+    15 |   1   | Sofia DEEN
+    17 |   1   | Line Berggren LARSEN
+    18 |   1   | Mathilde ØSTERGAARD
+    22 |   2   | Alberte EBLER
+       |       | Tania Bilde KNUDSEN
+    23 |   1   | Nikoline SAX
+    25 |   1   | Ida GÖTZSCHE
+    77 |   1   | Alberte EBLER
+    86 |   1   | Sabine ENGLERT

@@ -1,0 +1,25 @@
+Spillere for Odense Håndbold
+Antal kampe: 21
+Holdkode: ODE
+Antal unikke spillere: 18
+============================================================
+Nummer | Antal | Spillernavn(e)
+------------------------------------------------------------
+     3 |   1   | Maren AARDAHL
+     6 |   1   | Malin AUNE
+     8 |   1   | Helene FAUSKE
+    10 |   1   | Anna GRUNDTVIG
+    12 |   1   | Andrea Nørklit JØRGENSEN
+    16 |   1   | Althea REINHARDT
+    20 |   1   | Lysa DEFO
+    22 |   1   | Ragnhild DAHL
+    23 |   1   | Elma HALILCEVIC
+    26 |   1   | Katrine LUNDE
+    27 |   1   | Louise BURGAARD
+    28 |   1   | Clara Skyum THOMSEN
+    32 |   1   | Mie HØJLUND
+    33 |   1   | Thale Rushfeldt DEILA
+    34 |   1   | Andrea HANSEN
+    38 |   1   | Yara TEN HOLTE
+    44 |   1   | Nikita Van Der VLIET
+    68 |   1   | Helena ELVER

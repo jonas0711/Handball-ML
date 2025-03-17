@@ -1,0 +1,29 @@
+Spillere for Horsens Håndbold Elite
+Antal kampe: 21
+Holdkode: HHE
+Antal unikke spillere: 22
+============================================================
+Nummer | Antal | Spillernavn(e)
+------------------------------------------------------------
+     1 |   1   | Mathilde BISGAARD
+     3 |   1   | Alma SKRETTING
+     6 |   1   | Maria HØJGAARD
+     7 |   1   | Maria Palsdottir NÓLSOY
+     9 |   1   | Annika MEYER
+    10 |   1   | Mathilda LUNDSTRØM
+    11 |   1   | Fanny ELOVSSON
+    12 |   1   | Zenia Hald MADSEN
+    14 |   1   | Mai KRAGBALLE
+    16 |   1   | Andrea AUSTMO
+    18 |   1   | Kirstine Emilie HOPPE
+    19 |   1   | Frida Haug HOEL
+    20 |   1   | Ditte TOKKESDAL
+    21 |   2   | Romee MAARSCHALKEWEERD
+       |       | Romee MAARSCHALKEWEERD1
+    22 |   1   | Sille Cecilie SORTH
+    24 |   1   | Dicte Sønderskov ANDERSEN
+    25 |   1   | Smilla HEDE
+    27 |   1   | Annette WIRÉN LARSEN
+    33 |   1   | Laura Holm ANDERSEN
+    39 |   1   | Melanie BAK
+    66 |   1   | Faye JANSON

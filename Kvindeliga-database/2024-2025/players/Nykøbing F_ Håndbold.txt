@@ -1,0 +1,28 @@
+Spillere for Nykøbing F. Håndbold
+Antal kampe: 21
+Holdkode: NFH
+Antal unikke spillere: 21
+============================================================
+Nummer | Antal | Spillernavn(e)
+------------------------------------------------------------
+     1 |   1   | Sofie BÖRJESSON
+     2 |   1   | Caroline AAR
+     6 |   1   | Moa HÖGDAHL
+     7 |   1   | Amalie WULFF
+     8 |   1   | Stine EIBERG
+    11 |   1   | Rosa SCHMIDT
+    12 |   1   | Catharina BROCH
+    14 |   1   | Verona REXHEPI
+    15 |   1   | Kalidiatou NIAKATE
+    16 |   1   | Line CHRISTIANSEN
+    18 |   1   | Alberte KIELSTRUP
+    20 |   1   | Maja MAGNUSSEN
+    21 |   1   | Matilde VESTERGAARD
+    22 |   1   | Zoë SPRENGERS
+    25 |   1   | Astrid LYNNERUP
+    26 |   1   | Mona OBAIDLI
+    29 |   1   | Julie Vibe SEEBERG
+    34 |   1   | Sofie BARDRUM
+    49 |   1   | Aimée VON PEREIRA
+    79 |   1   | Kristina KRISTIANSEN
+    86 |   1   | Sabine ENGLERT

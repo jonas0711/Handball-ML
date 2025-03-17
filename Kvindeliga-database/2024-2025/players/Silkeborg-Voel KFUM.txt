@@ -1,0 +1,26 @@
+Spillere for Silkeborg-Voel KFUM
+Antal kampe: 21
+Holdkode: SVK
+Antal unikke spillere: 18
+============================================================
+Nummer | Antal | Spillernavn(e)
+------------------------------------------------------------
+     3 |   1   | Isabella POULSEN
+     4 |   1   | Maria HOLM
+     6 |   1   | Thea RASMUSSEN
+     7 |   1   | Maja Munch LAURSEN
+     8 |   1   | Maria JACOBSEN
+    11 |   1   | Sara MADSEN
+    13 |   1   | Mathilde KRISTENSEN
+    15 |   1   | Karen KLOKKER
+    16 |   1   | Anna VENG
+    18 |   3   | Anne Dolberg PLOUGSTRUP
+       |       | Natasja ANDREASEN
+       |       | Signe Helle JOHNSEN
+    19 |   1   | Laura Galle HANSEN
+    21 |   1   | Maja EDLING
+    22 |   1   | Stine BONDE
+    23 |   1   | Thilde FRANDSEN
+    27 |   2   | Marigona HAJDARI
+       |       | Signe Helle JOHNSEN
+    31 |   1   | Andrea West BENDTSEN
