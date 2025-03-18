@@ -1,0 +1,896 @@
+2025-03-18 20:48:30,422 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 20:48:30,422 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 20:48:30,445 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-18 20:48:31,859 - werkzeug - WARNING -  * Debugger is active!
+2025-03-18 20:48:31,864 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-03-18 20:48:45,620 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 20:48:45,700 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 20:48:45] "GET / HTTP/1.1" 200 -
+2025-03-18 20:48:46,336 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 20:48:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-18 20:48:52,487 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 20:48:52,815 - handball_admin - INFO - Fandt 59 unikke hold
+2025-03-18 20:48:52,825 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 20:48:52] "GET /teams HTTP/1.1" 200 -
+2025-03-18 20:48:59,946 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 20:49:00,448 - handball_admin - INFO - Fandt 101 spillere for hold AAH
+2025-03-18 20:49:00,473 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 20:49:00] "GET /teams/AAH HTTP/1.1" 200 -
+2025-03-18 21:06:27,162 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 21:06:27,164 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 21:06:27,183 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-18 21:06:29,928 - werkzeug - WARNING -  * Debugger is active!
+2025-03-18 21:06:29,930 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-03-18 21:07:46,209 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:07:46,241 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:07:46] "GET / HTTP/1.1" 200 -
+2025-03-18 21:07:48,095 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:07:48,564 - handball_admin - INFO - Fandt 59 unikke hold
+2025-03-18 21:07:48,591 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:07:48] "GET /teams HTTP/1.1" 200 -
+2025-03-18 21:08:02,026 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:08:02,517 - handball_admin - INFO - Fandt 59 unikke hold
+2025-03-18 21:08:02,520 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:08:02] "GET /teams HTTP/1.1" 200 -
+2025-03-18 21:08:04,057 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:08:05,286 - handball_admin - INFO - Fandt 479 spillere for hold EHA
+2025-03-18 21:08:05,333 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:08:05] "GET /teams/EHA HTTP/1.1" 200 -
+2025-03-18 21:18:15,810 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 21:18:15,812 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 21:18:15,846 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-18 21:18:18,061 - werkzeug - WARNING -  * Debugger is active!
+2025-03-18 21:18:18,065 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-03-18 21:18:21,594 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:18:21,627 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:18:21] "GET / HTTP/1.1" 200 -
+2025-03-18 21:18:21,949 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:18:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-18 21:18:26,899 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:18:27,255 - handball_admin - INFO - Fandt 29 unikke hold
+2025-03-18 21:18:27,289 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:18:27] "GET /teams HTTP/1.1" 200 -
+2025-03-18 21:18:34,078 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:18:34,078 - handball_admin - INFO - Søger efter spillere for hold EHA (EH Aalborg) i 294 databaser
+2025-03-18 21:18:34,726 - handball_admin - INFO - Fandt 244 spillere for hold EHA
+2025-03-18 21:18:34,753 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:18:34] "GET /teams/EHA HTTP/1.1" 200 -
+2025-03-18 21:20:38,274 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\app.py', reloading
+2025-03-18 21:20:38,276 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\app.py', reloading
+2025-03-18 21:20:38,276 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\app.py', reloading
+2025-03-18 21:20:39,003 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-18 21:20:40,641 - werkzeug - WARNING -  * Debugger is active!
+2025-03-18 21:20:40,647 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-03-18 21:20:59,370 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\app.py', reloading
+2025-03-18 21:20:59,911 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-18 21:21:01,576 - werkzeug - WARNING -  * Debugger is active!
+2025-03-18 21:21:01,583 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-03-18 21:21:06,746 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 21:21:06,746 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 21:21:06,762 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-18 21:21:08,094 - werkzeug - WARNING -  * Debugger is active!
+2025-03-18 21:21:08,099 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-03-18 21:21:10,646 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:21:10,667 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:21:10] "GET / HTTP/1.1" 200 -
+2025-03-18 21:21:17,291 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:21:17] "GET /database/Kvindeliga-database\\2024-2025\\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db HTTP/1.1" 200 -
+2025-03-18 21:21:22,020 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:21:22] "GET /database/Kvindeliga-database\\2024-2025\\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db/table/match_events HTTP/1.1" 200 -
+2025-03-18 21:22:05,142 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:05] "GET /database/Kvindeliga-database\\2024-2025\\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db HTTP/1.1" 200 -
+2025-03-18 21:22:07,690 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:07] "GET /database/Kvindeliga-database\\2024-2025\\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db/table/sqlite_sequence HTTP/1.1" 200 -
+2025-03-18 21:22:09,179 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:09] "GET /database/Kvindeliga-database\\2024-2025\\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db HTTP/1.1" 200 -
+2025-03-18 21:22:10,272 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:10] "GET /database/Kvindeliga-database\\2024-2025\\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db/table/match_events HTTP/1.1" 200 -
+2025-03-18 21:22:12,121 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:12] "GET /database/Kvindeliga-database\\2024-2025\\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db HTTP/1.1" 200 -
+2025-03-18 21:22:12,958 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:12] "GET /database/Kvindeliga-database\\2024-2025\\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db/table/match_info HTTP/1.1" 200 -
+2025-03-18 21:22:17,454 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:17] "GET /database/Kvindeliga-database\\2024-2025\\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db HTTP/1.1" 200 -
+2025-03-18 21:22:19,259 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:22:19,671 - handball_admin - INFO - Fandt 29 unikke hold
+2025-03-18 21:22:19,705 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:19] "GET /teams HTTP/1.1" 200 -
+2025-03-18 21:22:21,433 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:22:21,436 - handball_admin - INFO - Søger efter spillere for hold AAH (Aalborg Håndbold) i 294 databaser
+2025-03-18 21:22:21,437 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:21,437 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1102024_Skjern_Håndbold_vs_GOG.db
+2025-03-18 21:22:21,437 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\11102024_KIF_Kolding_vs_GOG.db
+2025-03-18 21:22:21,437 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\11102024_Sønderjyske_Herrehåndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,437 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1112024_GOG_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:21,440 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\11122024_GOG_vs_Grindsted_GIF,_Håndbold.db
+2025-03-18 21:22:21,440 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\11122024_Grindsted_GIF,_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,440 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\11122024_Grindsted_GIF,_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:21,441 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\11122024_Ribe-Esbjerg_HH_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,441 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\11122024_SAH_–_Skanderborg_AGF_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,441 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\11122024_Skjern_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:21,441 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\11122024_Sønderjyske_Herrehåndbold_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:21,441 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\11122024_TTH_Holstebro_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:21,441 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1122024_Fredericia_Håndbold_Klub_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,441 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1122024_Nordsjælland_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,441 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\12102024_Skjern_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,446 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\12102024_TMS_Ringsted_vs_Grindsted_GIF.db
+2025-03-18 21:22:21,446 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\12122024_Aalborg_Håndbold_vs_TMS_Ringsted.db
+2025-03-18 21:22:21,446 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1292024_Bjerringbro-Silkeborg_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,447 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1292024_Mors-Thy_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,447 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1292024_Ribe-Esbjerg_HH_vs_KIF_Kolding.db
+2025-03-18 21:22:21,450 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\13102024_Aalborg_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,450 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\13112024_Sønderjyske_Herrehåndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,450 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\13122024_KIF_Kolding_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:21,450 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\132025_Skanderborg_AGF_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,452 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1392024_Grindsted_GIF,_Håndbold_vs_GOG.db
+2025-03-18 21:22:21,452 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1392024_Nordsjælland_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:21,452 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\14102024_Ribe-Esbjerg_HH_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:21,453 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\14122024_Aalborg_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:21,453 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\14122024_Bjerringbro-Silkeborg_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,454 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\14122024_Mors-Thy_Håndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,454 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\14122024_Ribe-Esbjerg_HH_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:21,454 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1492024_TMS_Ringsted_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,454 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\15112024_Mors-Thy_Håndbold_vs_Grindsted_GIF.db
+2025-03-18 21:22:21,454 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\15112024_Ribe-Esbjerg_HH_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,456 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\15122024_GOG_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,456 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\15122024_Grindsted_GIF,_Håndbold_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:21,456 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\15122024_TMS_Ringsted_vs_KIF_Kolding.db
+2025-03-18 21:22:21,456 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1592024_Fredericia_Håndbold_Klub_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,458 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\16112024_Fredericia_Håndbold_Klub_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,459 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\16112024_KIF_Kolding_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,459 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\17102024_SAH_–_Skanderborg_AGF_vs_KIF_Kolding.db
+2025-03-18 21:22:21,459 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\17112024_TMS_Ringsted_vs_GOG.db
+2025-03-18 21:22:21,459 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1792024_SAH_–_Skanderborg_AGF_vs_GOG.db
+2025-03-18 21:22:21,462 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\18102024_Bjerringbro-Silkeborg_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:21,462 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1822025_Skjern_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,463 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\19102024_GOG_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:21,465 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\19102024_Mors-Thy_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:21,465 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\19102024_TTH_Holstebro_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,466 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\19112024_Nordsjælland_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,468 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\19122024_Nordsjælland_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:21,468 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1992024_KIF_Kolding_vs_TMS_Ringsted.db
+2025-03-18 21:22:21,468 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\1992024_TTH_Holstebro_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,468 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\20102024_Fredericia_Håndbold_Klub_vs_TMS_Ringsted.db
+2025-03-18 21:22:21,468 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\20112024_KIF_Kolding_vs_Grindsted_GIF.db
+2025-03-18 21:22:21,473 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\20112024_SAH_–_Skanderborg_AGF_vs_TMS_Ringsted.db
+2025-03-18 21:22:21,473 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\20122024_KIF_Kolding_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:21,475 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2022025_Ribe-Esbjerg_HH_vs_TMS_Ringsted.db
+2025-03-18 21:22:21,475 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2022025_Sønderjyske_Herrehåndbold_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:21,476 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2022025_TTH_Holstebro_vs_Grindsted_GIF.db
+2025-03-18 21:22:21,476 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2092024_Nordsjælland_Håndbold_vs_Grindsted_GIF.db
+2025-03-18 21:22:21,476 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2092024_Skjern_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:21,476 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2092024_Sønderjyske_Herrehåndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:21,476 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2102024_Aalborg_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,476 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2102024_KIF_Kolding_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:21,484 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2102024_Nordsjælland_Håndbold_vs_TMS_Ringsted.db
+2025-03-18 21:22:21,485 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2102024_Ribe-Esbjerg_HH_vs_Grindsted_GIF.db
+2025-03-18 21:22:21,485 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2102024_TTH_Holstebro_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,485 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2112024_Skanderborg_AGF_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:21,485 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\21122024_Aalborg_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:21,485 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\21122024_SAH_–_Skanderborg_AGF_vs_Grindsted_GIF.db
+2025-03-18 21:22:21,485 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\21122024_Skjern_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,492 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\21122024_Sønderjyske_Herrehåndbold_vs_TMS_Ringsted.db
+2025-03-18 21:22:21,493 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2122025_KIF_Kolding_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,493 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2192024_Fredericia_Håndbold_Klub_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,493 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\22112024_Bjerringbro-Silkeborg_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:21,495 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\22122024_TTH_Holstebro_vs_GOG.db
+2025-03-18 21:22:21,495 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2222025_Aalborg_Håndbold_vs_GOG.db
+2025-03-18 21:22:21,495 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\23102024_Grindsted_GIF,_Håndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,495 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\23102024_KIF_Kolding_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,495 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\23112024_Aalborg_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:21,500 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\23112024_GOG_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:21,500 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\23112024_Skjern_Håndbold_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:21,500 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\232025_Fredericia_Håndbold_Klub_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:21,500 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2322025_Nordsjælland_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:21,500 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\24112024_TTH_Holstebro_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:21,500 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2492024_TMS_Ringsted_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:21,500 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\25102024_Nordsjælland_Håndbold_vs_GOG.db
+2025-03-18 21:22:21,509 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\25102024_Ribe-Esbjerg_HH_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,509 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2592024_Ribe-Esbjerg_HH_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:21,509 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\26102024_Sønderjyske_Herrehåndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,509 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\26102024_TMS_Ringsted_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:21,509 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2692024_Grindsted_GIF,_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,509 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\27112024_Sønderjyske_Herrehåndbold_vs_KIF_Kolding.db
+2025-03-18 21:22:21,509 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2722025_Bjerringbro-Silkeborg_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:21,517 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2722025_Grindsted_GIF,_Håndbold_vs_TMS_Ringsted.db
+2025-03-18 21:22:21,529 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2722025_TTH_Holstebro_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,531 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2792024_GOG_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,532 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\28102024_Aalborg_Håndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,533 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\28102024_Fredericia_Håndbold_Klub_vs_Grindsted_GIF,_Håndbold.db
+2025-03-18 21:22:21,534 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\28112024_Ribe-Esbjerg_HH_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,535 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2822025_GOG_vs_KIF_Kolding.db
+2025-03-18 21:22:21,535 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2822025_Mors-Thy_Håndbold_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:21,535 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2892024_Bjerringbro-Silkeborg_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,535 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\29102024_Skjern_Håndbold_vs_KIF_Kolding.db
+2025-03-18 21:22:21,535 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\29112024_Mors-Thy_Håndbold_vs_GOG.db
+2025-03-18 21:22:21,535 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2992024_Fredericia_Håndbold_Klub_vs_KIF_Kolding.db
+2025-03-18 21:22:21,542 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\2992024_Mors-Thy_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,543 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\3102024_Sønderjyske_Herrehåndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:21,543 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\31102024_TTH_Holstebro_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:21,543 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\3112024_Grindsted_GIF,_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,543 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\3112024_Mors-Thy_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:21,543 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\392024_GOG_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,552 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\4112024_Bjerringbro-Silkeborg_vs_KIF_Kolding.db
+2025-03-18 21:22:21,553 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\4112024_Bjerringbro-Silkeborg_vs_TMS_Ringsted.db
+2025-03-18 21:22:21,553 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\4112024_Fredericia_Håndbold_Klub_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:21,553 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\4112024_GOG_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,553 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\4112024_Grindsted_GIF,_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,553 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\4112024_Mors-Thy_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:21,558 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\4112024_TMS_Ringsted_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:21,558 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\4122024_Bjerringbro-Silkeborg_vs_GOG.db
+2025-03-18 21:22:21,558 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\4122024_TMS_Ringsted_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,558 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\432025_Nordsjælland_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:21,558 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\492024_SAH_–_Skanderborg_AGF_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:21,558 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\532025_KIF_Kolding_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,558 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\592024_KIF_Kolding_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:21,568 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\592024_Sønderjyske_Herrehåndbold_vs_Grindsted_GIF.db
+2025-03-18 21:22:21,568 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\6102024_SAH_–_Skanderborg_AGF_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,568 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\622025_TMS_Ringsted_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:21,572 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\632025_Ribe-Esbjerg_HH_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:21,572 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\632025_Skjern_Håndbold_vs_Grindsted_GIF.db
+2025-03-18 21:22:21,574 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\692024_TTH_Holstebro_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:21,576 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\7122024_Fredericia_Håndbold_Klub_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,577 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\7122024_Mors-Thy_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:21,577 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\7122024_Nordsjælland_Håndbold_vs_KIF_Kolding.db
+2025-03-18 21:22:21,577 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\7122024_TMS_Ringsted_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,577 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\722025_Fredericia_Håndbold_Klub_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:21,577 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\722025_Skanderborg_AGF_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,584 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\792024_Aalborg_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:21,585 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\822025_Bjerringbro-Silkeborg_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:21,585 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\822025_GOG_vs_Skjern_Håndbold.db
+2025-03-18 21:22:21,585 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\822025_Grindsted_GIF,_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:21,585 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\832025_Aalborg_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:22:21,585 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\832025_Sønderjyske_Herrehåndbold_vs_GOG.db
+2025-03-18 21:22:21,592 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\922025_Mors-Thy_Håndbold_vs_KIF_Kolding.db
+2025-03-18 21:22:21,592 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\932025_TMS_Ringsted_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:21,592 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Herreliga-database\2024-2025\992024_Skjern_Håndbold_vs_TMS_Ringsted.db
+2025-03-18 21:22:21,592 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1012025_Silkeborg-Voel_KFUM_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:21,592 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1092024_Ikast_Håndbold_vs_Viborg_HK.db
+2025-03-18 21:22:21,592 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\11102024_Ringkøbing_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:21,601 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1112025_Viborg_HK_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:21,602 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1192024_Horsens_Håndbold_Elite_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:21,604 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1192024_Nykøbing_F._Håndbold_vs_Odense_Håndbold.db
+2025-03-18 21:22:21,606 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1192024_Team_Esbjerg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,606 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\12102024_Horsens_Håndbold_Elite_vs_EH_Aalborg.db
+2025-03-18 21:22:21,607 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\12112024_Aarhus_Håndbold_Kvinder_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,609 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\12112024_Bjerringbro_FH_vs_Odense_Håndbold.db
+2025-03-18 21:22:21,610 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,611 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\12112024_Horsens_Håndbold_Elite_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,612 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\12112024_Horsens_Håndbold_Elite_vs_Team_Esbjerg.db
+2025-03-18 21:22:21,612 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\12112024_Ikast_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:21,614 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\12112024_Nykøbing_F._Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:21,615 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\12112024_Silkeborg-Voel_KFUM_vs_København_Håndbold.db
+2025-03-18 21:22:21,615 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\12112024_Skanderborg_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:22:21,617 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1212025_Ringkøbing_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:22:21,618 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\122025_Bjerringbro_FH_vs_Viborg_HK.db
+2025-03-18 21:22:21,618 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\122025_EH_Aalborg_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:21,620 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\122025_Ikast_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,620 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\122025_Team_Esbjerg_vs_København_Håndbold.db
+2025-03-18 21:22:21,621 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1222025_Ikast_Håndbold_vs_København_Håndbold.db
+2025-03-18 21:22:21,623 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1222025_Skanderborg_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:21,624 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1222025_Team_Esbjerg_vs_Odense_Håndbold.db
+2025-03-18 21:22:21,625 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\13112024_Ringkøbing_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,638 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\13112024_Skanderborg_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:21,638 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\13112024_Team_Esbjerg_vs_EH_Aalborg.db
+2025-03-18 21:22:21,638 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\132025_København_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,638 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\132025_Odense_Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,641 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\132025_Skanderborg_Håndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:21,642 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1392024_Skanderborg_Håndbold_vs_København_Håndbold.db
+2025-03-18 21:22:21,642 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1392024_SønderjyskE_Kvindehåndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,642 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\14102024_Silkeborg-Voel_KFUM_vs_Viborg_HK.db
+2025-03-18 21:22:21,642 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\14112024_Nykøbing_F._Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,642 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\14112024_Odense_Håndbold_vs_Viborg_HK.db
+2025-03-18 21:22:21,642 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1412025_Odense_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:21,642 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\15112024_København_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,650 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1512025_EH_Aalborg_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,650 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1512025_Horsens_Håndbold_Elite_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,650 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1512025_Nykøbing_F._Håndbold_vs_København_Håndbold.db
+2025-03-18 21:22:21,650 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1512025_Team_Esbjerg_vs_Viborg_HK.db
+2025-03-18 21:22:21,653 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1522025_EH_Aalborg_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:21,653 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1522025_Viborg_HK_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,653 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1592024_EH_Aalborg_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,653 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\16102024_SønderjyskE_Kvindehåndbold_vs_Odense_Håndbold.db
+2025-03-18 21:22:21,657 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1612025_Skanderborg_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,658 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1622025_SønderjyskE_Kvindehåndbold_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:21,658 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1712025_SønderjyskE_Kvindehåndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,659 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1722025_Bjerringbro_FH_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,660 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1892024_Aarhus_Håndbold_Kvinder_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:21,660 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1892024_København_Håndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:21,660 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:22:21,663 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1892024_Odense_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:21,663 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\19102024_Viborg_HK_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,663 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1922025_Horsens_Håndbold_Elite_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:21,665 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1922025_Nykøbing_F._Håndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:21,666 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1922025_Odense_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:21,666 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\1922025_Ringkøbing_Håndbold_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,666 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2102024_Horsens_Håndbold_Elite_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:21,666 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2102024_Ikast_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,666 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2102024_Skanderborg_Håndbold_vs_Odense_Håndbold.db
+2025-03-18 21:22:21,671 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2102024_Team_Esbjerg_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:21,671 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2112024_Odense_Håndbold_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,671 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\212025_Aarhus_Håndbold_Kvinder_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:21,674 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\212025_Bjerringbro_FH_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:21,675 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\212025_EH_Aalborg_vs_København_Håndbold.db
+2025-03-18 21:22:21,676 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\212025_Ikast_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:21,676 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\212025_Silkeborg-Voel_KFUM_vs_Odense_Håndbold.db
+2025-03-18 21:22:21,676 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\212025_SønderjyskE_Kvindehåndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:21,679 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\212025_Viborg_HK_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:21,679 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2122025_København_Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,679 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2122025_Silkeborg-Voel_KFUM_vs_EH_Aalborg.db
+2025-03-18 21:22:21,680 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2192024_Viborg_HK_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,680 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2212025_EH_Aalborg_vs_Odense_Håndbold.db
+2025-03-18 21:22:21,682 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2212025_Ikast_Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,682 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2212025_Nykøbing_F._Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:21,682 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2212025_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,682 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2212025_SønderjyskE_Kvindehåndbold_vs_Viborg_HK.db
+2025-03-18 21:22:21,682 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2212025_Team_Esbjerg_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,682 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\222025_Horsens_Håndbold_Elite_vs_Odense_Håndbold.db
+2025-03-18 21:22:21,682 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\222025_Skanderborg_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:21,688 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\222025_SønderjyskE_Kvindehåndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,688 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2222025_Aarhus_Håndbold_Kvinder_vs_Viborg_HK.db
+2025-03-18 21:22:21,688 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2292024_Ringkøbing_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:21,691 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2292024_Silkeborg-Voel_KFUM_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,692 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2312025_Horsens_Håndbold_Elite_vs_København_Håndbold.db
+2025-03-18 21:22:21,692 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\232025_Aarhus_Håndbold_Kvinder_vs_EH_Aalborg.db
+2025-03-18 21:22:21,692 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\232025_Horsens_Håndbold_Elite_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:21,695 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\232025_Nykøbing_F._Håndbold_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,695 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\232025_Ringkøbing_Håndbold_vs_Viborg_HK.db
+2025-03-18 21:22:21,695 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2522025_Viborg_HK_vs_København_Håndbold.db
+2025-03-18 21:22:21,697 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2622025_Bjerringbro_FH_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:21,697 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2622025_EH_Aalborg_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:21,698 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2622025_Ikast_Håndbold_vs_Odense_Håndbold.db
+2025-03-18 21:22:21,698 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2622025_SønderjyskE_Kvindehåndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:21,698 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2622025_Team_Esbjerg_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:21,701 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2622025_Voel_KFUM_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,701 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2812025_Bjerringbro_FH_vs_EH_Aalborg.db
+2025-03-18 21:22:21,703 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2812025_Voel_KFUM_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:21,703 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2912025_Aarhus_Håndbold_Kvinder_vs_Team_Esbjerg.db
+2025-03-18 21:22:21,704 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2912025_København_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:21,704 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2912025_Odense_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:21,712 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2912025_Ringkøbing_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:21,714 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\2912025_Viborg_HK_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,714 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\4102024_SønderjyskE_Kvindehåndbold_vs_København_Håndbold.db
+2025-03-18 21:22:21,715 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\412025_Team_Esbjerg_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,715 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\492024_Odense_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:22:21,717 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\492024_Ringkøbing_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:21,720 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\492024_Silkeborg-Voel_KFUM_vs_Team_Esbjerg.db
+2025-03-18 21:22:21,722 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\5102024_EH_Aalborg_vs_Viborg_HK.db
+2025-03-18 21:22:21,724 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\5112024_København_Håndbold_vs_Viborg_HK.db
+2025-03-18 21:22:21,726 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\5112024_Ringkøbing_Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,726 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\512025_Nykøbing_F._Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,728 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\512025_Odense_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:21,728 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\512025_Ringkøbing_Håndbold_vs_København_Håndbold.db
+2025-03-18 21:22:21,729 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\512025_Skanderborg_Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,730 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\512025_SønderjyskE_Kvindehåndbold_vs_EH_Aalborg.db
+2025-03-18 21:22:21,730 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\522025_Aarhus_Håndbold_Kvinder_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,732 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\522025_Nykøbing_F._Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:21,733 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\522025_Odense_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:21,733 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\522025_Ringkøbing_Håndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:21,734 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\522025_Viborg_HK_vs_EH_Aalborg.db
+2025-03-18 21:22:21,734 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\6112024_Team_Esbjerg_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:21,734 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\612025_Horsens_Håndbold_Elite_vs_Viborg_HK.db
+2025-03-18 21:22:21,734 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\692024_Bjerringbro_FH_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,737 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\692024_Viborg_HK_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:21,738 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\7112024_Aarhus_Håndbold_Kvinder_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,738 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\7112024_Bjerringbro_FH_vs_København_Håndbold.db
+2025-03-18 21:22:21,738 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\7112024_Bjerringbro_FH_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,740 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\7112024_EH_Aalborg_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:21,740 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\7112024_Ikast_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:21,741 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\7112024_Skanderborg_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:21,743 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\7112024_Team_Esbjerg_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:21,743 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\722025_København_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:21,746 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\722025_Silkeborg-Voel_KFUM_vs_Bjerringbro_FH.db
+2025-03-18 21:22:21,747 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\792024_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:21,751 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\792024_København_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:21,751 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\8102024_København_Håndbold_vs_Ikast_Håndbold.db
+2025-03-18 21:22:21,751 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\8112024_SønderjyskE_Kvindehåndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:21,754 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\812025_Aarhus_Håndbold_Kvinder_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:21,754 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\812025_Bjerringbro_FH_vs_Team_Esbjerg.db
+2025-03-18 21:22:21,756 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\812025_Ikast_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:21,756 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\812025_København_Håndbold_vs_Odense_Håndbold.db
+2025-03-18 21:22:21,757 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\9102024_Nykøbing_F._Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:21,757 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\9102024_Odense_Håndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:21,759 - handball_admin - INFO - Fandt 0 kampe for hold AAH i Kvindeliga-database\2024-2025\9112024_Viborg_HK_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:21,759 - handball_admin - INFO - Fandt 0 spillere for hold AAH
+2025-03-18 21:22:21,780 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:21] "GET /teams/AAH HTTP/1.1" 200 -
+2025-03-18 21:22:25,524 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:22:25,955 - handball_admin - INFO - Fandt 29 unikke hold
+2025-03-18 21:22:25,960 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:25] "GET /teams HTTP/1.1" 200 -
+2025-03-18 21:22:27,675 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:22:27,675 - handball_admin - INFO - Søger efter spillere for hold EHA (EH Aalborg) i 294 databaser
+2025-03-18 21:22:27,678 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:27,679 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1102024_Skjern_Håndbold_vs_GOG.db
+2025-03-18 21:22:27,679 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\11102024_KIF_Kolding_vs_GOG.db
+2025-03-18 21:22:27,679 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\11102024_Sønderjyske_Herrehåndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,683 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1112024_GOG_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:27,686 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\11122024_GOG_vs_Grindsted_GIF,_Håndbold.db
+2025-03-18 21:22:27,687 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\11122024_Grindsted_GIF,_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,687 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\11122024_Grindsted_GIF,_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:27,687 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\11122024_Ribe-Esbjerg_HH_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,692 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\11122024_SAH_–_Skanderborg_AGF_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,694 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\11122024_Skjern_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:27,695 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\11122024_Sønderjyske_Herrehåndbold_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:27,695 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\11122024_TTH_Holstebro_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:27,695 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1122024_Fredericia_Håndbold_Klub_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,695 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1122024_Nordsjælland_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,695 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\12102024_Skjern_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,695 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\12102024_TMS_Ringsted_vs_Grindsted_GIF.db
+2025-03-18 21:22:27,702 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\12122024_Aalborg_Håndbold_vs_TMS_Ringsted.db
+2025-03-18 21:22:27,702 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1292024_Bjerringbro-Silkeborg_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,702 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1292024_Mors-Thy_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,702 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1292024_Ribe-Esbjerg_HH_vs_KIF_Kolding.db
+2025-03-18 21:22:27,702 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\13102024_Aalborg_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,702 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\13112024_Sønderjyske_Herrehåndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,720 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\13122024_KIF_Kolding_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:27,723 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\132025_Skanderborg_AGF_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,723 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1392024_Grindsted_GIF,_Håndbold_vs_GOG.db
+2025-03-18 21:22:27,726 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1392024_Nordsjælland_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:27,726 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\14102024_Ribe-Esbjerg_HH_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:27,726 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\14122024_Aalborg_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:27,726 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\14122024_Bjerringbro-Silkeborg_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,726 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\14122024_Mors-Thy_Håndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,726 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\14122024_Ribe-Esbjerg_HH_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:27,735 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1492024_TMS_Ringsted_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,735 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\15112024_Mors-Thy_Håndbold_vs_Grindsted_GIF.db
+2025-03-18 21:22:27,736 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\15112024_Ribe-Esbjerg_HH_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,736 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\15122024_GOG_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,736 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\15122024_Grindsted_GIF,_Håndbold_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:27,736 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\15122024_TMS_Ringsted_vs_KIF_Kolding.db
+2025-03-18 21:22:27,736 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1592024_Fredericia_Håndbold_Klub_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,742 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\16112024_Fredericia_Håndbold_Klub_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,742 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\16112024_KIF_Kolding_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,742 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\17102024_SAH_–_Skanderborg_AGF_vs_KIF_Kolding.db
+2025-03-18 21:22:27,742 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\17112024_TMS_Ringsted_vs_GOG.db
+2025-03-18 21:22:27,742 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1792024_SAH_–_Skanderborg_AGF_vs_GOG.db
+2025-03-18 21:22:27,742 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\18102024_Bjerringbro-Silkeborg_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:27,742 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1822025_Skjern_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,752 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\19102024_GOG_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:27,752 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\19102024_Mors-Thy_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:27,757 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\19102024_TTH_Holstebro_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,757 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\19112024_Nordsjælland_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,761 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\19122024_Nordsjælland_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:27,762 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1992024_KIF_Kolding_vs_TMS_Ringsted.db
+2025-03-18 21:22:27,762 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\1992024_TTH_Holstebro_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,762 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\20102024_Fredericia_Håndbold_Klub_vs_TMS_Ringsted.db
+2025-03-18 21:22:27,767 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\20112024_KIF_Kolding_vs_Grindsted_GIF.db
+2025-03-18 21:22:27,769 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\20112024_SAH_–_Skanderborg_AGF_vs_TMS_Ringsted.db
+2025-03-18 21:22:27,769 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\20122024_KIF_Kolding_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:27,771 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2022025_Ribe-Esbjerg_HH_vs_TMS_Ringsted.db
+2025-03-18 21:22:27,771 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2022025_Sønderjyske_Herrehåndbold_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:27,771 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2022025_TTH_Holstebro_vs_Grindsted_GIF.db
+2025-03-18 21:22:27,771 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2092024_Nordsjælland_Håndbold_vs_Grindsted_GIF.db
+2025-03-18 21:22:27,771 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2092024_Skjern_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:27,777 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2092024_Sønderjyske_Herrehåndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:27,777 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2102024_Aalborg_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,777 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2102024_KIF_Kolding_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:27,777 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2102024_Nordsjælland_Håndbold_vs_TMS_Ringsted.db
+2025-03-18 21:22:27,777 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2102024_Ribe-Esbjerg_HH_vs_Grindsted_GIF.db
+2025-03-18 21:22:27,784 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2102024_TTH_Holstebro_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,784 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2112024_Skanderborg_AGF_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:27,786 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\21122024_Aalborg_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:27,788 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\21122024_SAH_–_Skanderborg_AGF_vs_Grindsted_GIF.db
+2025-03-18 21:22:27,790 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\21122024_Skjern_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,792 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\21122024_Sønderjyske_Herrehåndbold_vs_TMS_Ringsted.db
+2025-03-18 21:22:27,792 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2122025_KIF_Kolding_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,794 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2192024_Fredericia_Håndbold_Klub_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,795 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\22112024_Bjerringbro-Silkeborg_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:27,795 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\22122024_TTH_Holstebro_vs_GOG.db
+2025-03-18 21:22:27,795 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2222025_Aalborg_Håndbold_vs_GOG.db
+2025-03-18 21:22:27,795 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\23102024_Grindsted_GIF,_Håndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,795 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\23102024_KIF_Kolding_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,802 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\23112024_Aalborg_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:27,803 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\23112024_GOG_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:27,805 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\23112024_Skjern_Håndbold_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:27,805 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\232025_Fredericia_Håndbold_Klub_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:27,805 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2322025_Nordsjælland_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:27,805 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\24112024_TTH_Holstebro_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:27,805 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2492024_TMS_Ringsted_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:27,810 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\25102024_Nordsjælland_Håndbold_vs_GOG.db
+2025-03-18 21:22:27,811 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\25102024_Ribe-Esbjerg_HH_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,812 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2592024_Ribe-Esbjerg_HH_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:27,812 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\26102024_Sønderjyske_Herrehåndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,814 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\26102024_TMS_Ringsted_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:27,815 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2692024_Grindsted_GIF,_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,815 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\27112024_Sønderjyske_Herrehåndbold_vs_KIF_Kolding.db
+2025-03-18 21:22:27,815 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2722025_Bjerringbro-Silkeborg_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:27,818 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2722025_Grindsted_GIF,_Håndbold_vs_TMS_Ringsted.db
+2025-03-18 21:22:27,819 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2722025_TTH_Holstebro_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,819 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2792024_GOG_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,822 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\28102024_Aalborg_Håndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,822 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\28102024_Fredericia_Håndbold_Klub_vs_Grindsted_GIF,_Håndbold.db
+2025-03-18 21:22:27,822 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\28112024_Ribe-Esbjerg_HH_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,835 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2822025_GOG_vs_KIF_Kolding.db
+2025-03-18 21:22:27,837 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2822025_Mors-Thy_Håndbold_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:27,838 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2892024_Bjerringbro-Silkeborg_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,838 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\29102024_Skjern_Håndbold_vs_KIF_Kolding.db
+2025-03-18 21:22:27,840 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\29112024_Mors-Thy_Håndbold_vs_GOG.db
+2025-03-18 21:22:27,843 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2992024_Fredericia_Håndbold_Klub_vs_KIF_Kolding.db
+2025-03-18 21:22:27,845 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\2992024_Mors-Thy_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,845 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\3102024_Sønderjyske_Herrehåndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:27,848 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\31102024_TTH_Holstebro_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:27,848 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\3112024_Grindsted_GIF,_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,850 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\3112024_Mors-Thy_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:27,851 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\392024_GOG_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,852 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\4112024_Bjerringbro-Silkeborg_vs_KIF_Kolding.db
+2025-03-18 21:22:27,854 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\4112024_Bjerringbro-Silkeborg_vs_TMS_Ringsted.db
+2025-03-18 21:22:27,856 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\4112024_Fredericia_Håndbold_Klub_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:27,856 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\4112024_GOG_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,859 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\4112024_Grindsted_GIF,_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,860 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\4112024_Mors-Thy_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:27,861 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\4112024_TMS_Ringsted_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:27,862 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\4122024_Bjerringbro-Silkeborg_vs_GOG.db
+2025-03-18 21:22:27,862 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\4122024_TMS_Ringsted_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,864 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\432025_Nordsjælland_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:22:27,864 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\492024_SAH_–_Skanderborg_AGF_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:27,868 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\532025_KIF_Kolding_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,870 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\592024_KIF_Kolding_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:27,872 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\592024_Sønderjyske_Herrehåndbold_vs_Grindsted_GIF.db
+2025-03-18 21:22:27,872 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\6102024_SAH_–_Skanderborg_AGF_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,876 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\622025_TMS_Ringsted_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:22:27,878 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\632025_Ribe-Esbjerg_HH_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:22:27,879 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\632025_Skjern_Håndbold_vs_Grindsted_GIF.db
+2025-03-18 21:22:27,879 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\692024_TTH_Holstebro_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:27,883 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\7122024_Fredericia_Håndbold_Klub_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,884 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\7122024_Mors-Thy_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:22:27,886 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\7122024_Nordsjælland_Håndbold_vs_KIF_Kolding.db
+2025-03-18 21:22:27,886 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\7122024_TMS_Ringsted_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,890 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\722025_Fredericia_Håndbold_Klub_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:22:27,892 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\722025_Skanderborg_AGF_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,894 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\792024_Aalborg_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:27,895 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\822025_Bjerringbro-Silkeborg_vs_Aalborg_Håndbold.db
+2025-03-18 21:22:27,897 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\822025_GOG_vs_Skjern_Håndbold.db
+2025-03-18 21:22:27,897 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\822025_Grindsted_GIF,_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:22:27,901 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\832025_Aalborg_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:22:27,902 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\832025_Sønderjyske_Herrehåndbold_vs_GOG.db
+2025-03-18 21:22:27,902 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\922025_Mors-Thy_Håndbold_vs_KIF_Kolding.db
+2025-03-18 21:22:27,906 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\932025_TMS_Ringsted_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:22:27,908 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Herreliga-database\2024-2025\992024_Skjern_Håndbold_vs_TMS_Ringsted.db
+2025-03-18 21:22:27,910 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1012025_Silkeborg-Voel_KFUM_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:27,910 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1092024_Ikast_Håndbold_vs_Viborg_HK.db
+2025-03-18 21:22:27,912 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\11102024_Ringkøbing_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:27,914 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1112025_Viborg_HK_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:27,914 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1192024_Horsens_Håndbold_Elite_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:27,918 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1192024_Nykøbing_F._Håndbold_vs_Odense_Håndbold.db
+2025-03-18 21:22:27,918 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1192024_Team_Esbjerg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:27,918 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\12102024_Horsens_Håndbold_Elite_vs_EH_Aalborg.db
+2025-03-18 21:22:27,918 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\12112024_Aarhus_Håndbold_Kvinder_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:27,922 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\12112024_Bjerringbro_FH_vs_Odense_Håndbold.db
+2025-03-18 21:22:27,922 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:27,926 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\12112024_Horsens_Håndbold_Elite_vs_Ikast_Håndbold.db
+2025-03-18 21:22:27,926 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\12112024_Horsens_Håndbold_Elite_vs_Team_Esbjerg.db
+2025-03-18 21:22:27,929 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\12112024_Ikast_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:27,931 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\12112024_Nykøbing_F._Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:27,934 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\12112024_Silkeborg-Voel_KFUM_vs_København_Håndbold.db
+2025-03-18 21:22:27,938 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\12112024_Skanderborg_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:22:27,946 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1212025_Ringkøbing_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:22:27,950 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\122025_Bjerringbro_FH_vs_Viborg_HK.db
+2025-03-18 21:22:27,952 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\122025_EH_Aalborg_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:27,957 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\122025_Ikast_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:27,960 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\122025_Team_Esbjerg_vs_København_Håndbold.db
+2025-03-18 21:22:27,961 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1222025_Ikast_Håndbold_vs_København_Håndbold.db
+2025-03-18 21:22:27,961 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1222025_Skanderborg_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:27,962 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1222025_Team_Esbjerg_vs_Odense_Håndbold.db
+2025-03-18 21:22:27,964 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\13112024_Ringkøbing_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:27,964 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\13112024_Skanderborg_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:27,968 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\13112024_Team_Esbjerg_vs_EH_Aalborg.db
+2025-03-18 21:22:27,968 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\132025_København_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:27,970 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\132025_Odense_Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:27,970 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\132025_Skanderborg_Håndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:27,972 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1392024_Skanderborg_Håndbold_vs_København_Håndbold.db
+2025-03-18 21:22:27,983 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1392024_SønderjyskE_Kvindehåndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:27,985 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\14102024_Silkeborg-Voel_KFUM_vs_Viborg_HK.db
+2025-03-18 21:22:27,986 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\14112024_Nykøbing_F._Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:27,986 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\14112024_Odense_Håndbold_vs_Viborg_HK.db
+2025-03-18 21:22:27,987 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1412025_Odense_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:27,987 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\15112024_København_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:27,987 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1512025_EH_Aalborg_vs_Ikast_Håndbold.db
+2025-03-18 21:22:27,991 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1512025_Horsens_Håndbold_Elite_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:27,993 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1512025_Nykøbing_F._Håndbold_vs_København_Håndbold.db
+2025-03-18 21:22:27,993 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1512025_Team_Esbjerg_vs_Viborg_HK.db
+2025-03-18 21:22:27,993 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1522025_EH_Aalborg_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:27,995 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1522025_Viborg_HK_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:27,997 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1592024_EH_Aalborg_vs_Bjerringbro_FH.db
+2025-03-18 21:22:27,997 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\16102024_SønderjyskE_Kvindehåndbold_vs_Odense_Håndbold.db
+2025-03-18 21:22:27,997 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1612025_Skanderborg_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:28,000 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1622025_SønderjyskE_Kvindehåndbold_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:28,000 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1712025_SønderjyskE_Kvindehåndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:28,001 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1722025_Bjerringbro_FH_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:28,001 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1892024_Aarhus_Håndbold_Kvinder_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:28,003 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1892024_København_Håndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:28,003 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:22:28,005 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1892024_Odense_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:28,005 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\19102024_Viborg_HK_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:28,005 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1922025_Horsens_Håndbold_Elite_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:28,008 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1922025_Nykøbing_F._Håndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:28,008 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1922025_Odense_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:28,010 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\1922025_Ringkøbing_Håndbold_vs_Ikast_Håndbold.db
+2025-03-18 21:22:28,010 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2102024_Horsens_Håndbold_Elite_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:28,012 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2102024_Ikast_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:28,012 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2102024_Skanderborg_Håndbold_vs_Odense_Håndbold.db
+2025-03-18 21:22:28,013 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2102024_Team_Esbjerg_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:28,013 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2112024_Odense_Håndbold_vs_Ikast_Håndbold.db
+2025-03-18 21:22:28,015 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\212025_Aarhus_Håndbold_Kvinder_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:28,015 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\212025_Bjerringbro_FH_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:28,016 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\212025_EH_Aalborg_vs_København_Håndbold.db
+2025-03-18 21:22:28,016 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\212025_Ikast_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:28,018 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\212025_Silkeborg-Voel_KFUM_vs_Odense_Håndbold.db
+2025-03-18 21:22:28,018 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\212025_SønderjyskE_Kvindehåndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:28,020 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\212025_Viborg_HK_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:28,021 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2122025_København_Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:28,021 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2122025_Silkeborg-Voel_KFUM_vs_EH_Aalborg.db
+2025-03-18 21:22:28,022 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2192024_Viborg_HK_vs_Bjerringbro_FH.db
+2025-03-18 21:22:28,024 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2212025_EH_Aalborg_vs_Odense_Håndbold.db
+2025-03-18 21:22:28,024 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2212025_Ikast_Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:28,026 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2212025_Nykøbing_F._Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:28,027 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2212025_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:28,029 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2212025_SønderjyskE_Kvindehåndbold_vs_Viborg_HK.db
+2025-03-18 21:22:28,030 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2212025_Team_Esbjerg_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:28,031 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\222025_Horsens_Håndbold_Elite_vs_Odense_Håndbold.db
+2025-03-18 21:22:28,031 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\222025_Skanderborg_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:28,034 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\222025_SønderjyskE_Kvindehåndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:28,034 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2222025_Aarhus_Håndbold_Kvinder_vs_Viborg_HK.db
+2025-03-18 21:22:28,034 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2292024_Ringkøbing_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:28,037 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2292024_Silkeborg-Voel_KFUM_vs_Ikast_Håndbold.db
+2025-03-18 21:22:28,037 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2312025_Horsens_Håndbold_Elite_vs_København_Håndbold.db
+2025-03-18 21:22:28,040 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\232025_Aarhus_Håndbold_Kvinder_vs_EH_Aalborg.db
+2025-03-18 21:22:28,040 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\232025_Horsens_Håndbold_Elite_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:28,040 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\232025_Nykøbing_F._Håndbold_vs_Ikast_Håndbold.db
+2025-03-18 21:22:28,044 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\232025_Ringkøbing_Håndbold_vs_Viborg_HK.db
+2025-03-18 21:22:28,046 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2522025_Viborg_HK_vs_København_Håndbold.db
+2025-03-18 21:22:28,046 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2622025_Bjerringbro_FH_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:28,048 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2622025_EH_Aalborg_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:28,048 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2622025_Ikast_Håndbold_vs_Odense_Håndbold.db
+2025-03-18 21:22:28,048 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2622025_SønderjyskE_Kvindehåndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:28,048 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2622025_Team_Esbjerg_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:28,048 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2622025_Voel_KFUM_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:28,058 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2812025_Bjerringbro_FH_vs_EH_Aalborg.db
+2025-03-18 21:22:28,060 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2812025_Voel_KFUM_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:28,060 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2912025_Aarhus_Håndbold_Kvinder_vs_Team_Esbjerg.db
+2025-03-18 21:22:28,060 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2912025_København_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:28,065 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2912025_Odense_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:28,065 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2912025_Ringkøbing_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:28,065 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\2912025_Viborg_HK_vs_Ikast_Håndbold.db
+2025-03-18 21:22:28,065 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\4102024_SønderjyskE_Kvindehåndbold_vs_København_Håndbold.db
+2025-03-18 21:22:28,065 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\412025_Team_Esbjerg_vs_Ikast_Håndbold.db
+2025-03-18 21:22:28,065 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\492024_Odense_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:22:28,065 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\492024_Ringkøbing_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:28,065 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\492024_Silkeborg-Voel_KFUM_vs_Team_Esbjerg.db
+2025-03-18 21:22:28,084 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\5102024_EH_Aalborg_vs_Viborg_HK.db
+2025-03-18 21:22:28,089 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\5112024_København_Håndbold_vs_Viborg_HK.db
+2025-03-18 21:22:28,089 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\5112024_Ringkøbing_Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:28,089 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\512025_Nykøbing_F._Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:28,089 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\512025_Odense_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:22:28,089 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\512025_Ringkøbing_Håndbold_vs_København_Håndbold.db
+2025-03-18 21:22:28,089 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\512025_Skanderborg_Håndbold_vs_Bjerringbro_FH.db
+2025-03-18 21:22:28,099 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\512025_SønderjyskE_Kvindehåndbold_vs_EH_Aalborg.db
+2025-03-18 21:22:28,099 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\522025_Aarhus_Håndbold_Kvinder_vs_Ikast_Håndbold.db
+2025-03-18 21:22:28,099 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\522025_Nykøbing_F._Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:28,099 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\522025_Odense_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:28,099 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\522025_Ringkøbing_Håndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:28,105 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\522025_Viborg_HK_vs_EH_Aalborg.db
+2025-03-18 21:22:28,105 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\6112024_Team_Esbjerg_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:28,105 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\612025_Horsens_Håndbold_Elite_vs_Viborg_HK.db
+2025-03-18 21:22:28,105 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\692024_Bjerringbro_FH_vs_Ikast_Håndbold.db
+2025-03-18 21:22:28,105 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\692024_Viborg_HK_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:28,105 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\7112024_Aarhus_Håndbold_Kvinder_vs_Bjerringbro_FH.db
+2025-03-18 21:22:28,113 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\7112024_Bjerringbro_FH_vs_København_Håndbold.db
+2025-03-18 21:22:28,117 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\7112024_Bjerringbro_FH_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:28,119 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\7112024_EH_Aalborg_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:22:28,120 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\7112024_Ikast_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:28,121 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\7112024_Skanderborg_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:28,122 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\7112024_Team_Esbjerg_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:28,125 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\722025_København_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:28,126 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\722025_Silkeborg-Voel_KFUM_vs_Bjerringbro_FH.db
+2025-03-18 21:22:28,126 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\792024_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:28,126 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\792024_København_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:28,130 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\8102024_København_Håndbold_vs_Ikast_Håndbold.db
+2025-03-18 21:22:28,130 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\8112024_SønderjyskE_Kvindehåndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:22:28,130 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\812025_Aarhus_Håndbold_Kvinder_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:22:28,134 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\812025_Bjerringbro_FH_vs_Team_Esbjerg.db
+2025-03-18 21:22:28,135 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\812025_Ikast_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:22:28,135 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\812025_København_Håndbold_vs_Odense_Håndbold.db
+2025-03-18 21:22:28,139 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\9102024_Nykøbing_F._Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-18 21:22:28,140 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\9102024_Odense_Håndbold_vs_Team_Esbjerg.db
+2025-03-18 21:22:28,142 - handball_admin - INFO - Fandt 0 kampe for hold EHA i Kvindeliga-database\2024-2025\9112024_Viborg_HK_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:22:28,142 - handball_admin - INFO - Fandt 0 spillere for hold EHA
+2025-03-18 21:22:28,144 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:22:28] "GET /teams/EHA HTTP/1.1" 200 -
+2025-03-18 21:25:18,608 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 21:25:18,608 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 21:25:18,627 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-18 21:25:21,083 - werkzeug - WARNING -  * Debugger is active!
+2025-03-18 21:25:21,089 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-03-18 21:25:31,817 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:25:31,845 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:25:31] "GET / HTTP/1.1" 200 -
+2025-03-18 21:25:33,727 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:25:33,906 - handball_admin - INFO - Fandt 29 unikke hold
+2025-03-18 21:25:33,924 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:25:33] "GET /teams HTTP/1.1" 200 -
+2025-03-18 21:25:44,855 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:25:44,855 - handball_admin - INFO - Søger efter spillere for hold EHA (EH Aalborg) i 294 databaser
+2025-03-18 21:25:45,131 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748211 i database Kvindeliga-database\2024-2025\12102024_Horsens_Håndbold_Elite_vs_EH_Aalborg.db
+2025-03-18 21:25:45,146 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748232 i database Kvindeliga-database\2024-2025\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:25:45,164 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748225 i database Kvindeliga-database\2024-2025\12112024_Skanderborg_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:25:45,176 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748260 i database Kvindeliga-database\2024-2025\1212025_Ringkøbing_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:25:45,185 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748288 i database Kvindeliga-database\2024-2025\122025_EH_Aalborg_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:25:45,208 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748239 i database Kvindeliga-database\2024-2025\13112024_Team_Esbjerg_vs_EH_Aalborg.db
+2025-03-18 21:25:45,231 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748267 i database Kvindeliga-database\2024-2025\1512025_EH_Aalborg_vs_Ikast_Håndbold.db
+2025-03-18 21:25:45,241 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748302 i database Kvindeliga-database\2024-2025\1522025_EH_Aalborg_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:25:45,249 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748190 i database Kvindeliga-database\2024-2025\1592024_EH_Aalborg_vs_Bjerringbro_FH.db
+2025-03-18 21:25:45,265 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748197 i database Kvindeliga-database\2024-2025\1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:25:45,287 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748246 i database Kvindeliga-database\2024-2025\212025_EH_Aalborg_vs_København_Håndbold.db
+2025-03-18 21:25:45,304 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748303 i database Kvindeliga-database\2024-2025\2122025_Silkeborg-Voel_KFUM_vs_EH_Aalborg.db
+2025-03-18 21:25:45,312 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748274 i database Kvindeliga-database\2024-2025\2212025_EH_Aalborg_vs_Odense_Håndbold.db
+2025-03-18 21:25:45,331 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748317 i database Kvindeliga-database\2024-2025\232025_Aarhus_Håndbold_Kvinder_vs_EH_Aalborg.db
+2025-03-18 21:25:45,341 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748316 i database Kvindeliga-database\2024-2025\2622025_EH_Aalborg_vs_Skanderborg_Håndbold.db
+2025-03-18 21:25:45,363 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748275 i database Kvindeliga-database\2024-2025\2812025_Bjerringbro_FH_vs_EH_Aalborg.db
+2025-03-18 21:25:45,381 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748183 i database Kvindeliga-database\2024-2025\492024_Odense_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:25:45,381 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748204 i database Kvindeliga-database\2024-2025\5102024_EH_Aalborg_vs_Viborg_HK.db
+2025-03-18 21:25:45,404 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748253 i database Kvindeliga-database\2024-2025\512025_SønderjyskE_Kvindehåndbold_vs_EH_Aalborg.db
+2025-03-18 21:25:45,415 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748289 i database Kvindeliga-database\2024-2025\522025_Viborg_HK_vs_EH_Aalborg.db
+2025-03-18 21:25:45,431 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748218 i database Kvindeliga-database\2024-2025\7112024_EH_Aalborg_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:25:45,462 - handball_admin - INFO - Gennemgik 21 databaser med hold EHA
+2025-03-18 21:25:45,465 - handball_admin - INFO - Fandt 20 spillere for hold EHA
+2025-03-18 21:25:45,487 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:25:45] "GET /teams/EHA HTTP/1.1" 200 -
+2025-03-18 21:35:11,603 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 21:35:11,603 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 21:35:11,635 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-18 21:35:13,465 - werkzeug - WARNING -  * Debugger is active!
+2025-03-18 21:35:13,472 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-03-18 21:35:13,523 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:35:13,681 - handball_admin - INFO - Fandt 29 unikke hold
+2025-03-18 21:35:13,706 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:35:13] "GET /teams HTTP/1.1" 200 -
+2025-03-18 21:35:21,021 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:35:21,021 - handball_admin - INFO - Søger efter spillere for hold EHA (EH Aalborg) i 294 databaser
+2025-03-18 21:35:21,227 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748211 i database Kvindeliga-database\2024-2025\12102024_Horsens_Håndbold_Elite_vs_EH_Aalborg.db
+2025-03-18 21:35:21,237 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748232 i database Kvindeliga-database\2024-2025\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:35:21,254 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748225 i database Kvindeliga-database\2024-2025\12112024_Skanderborg_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:35:21,256 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748260 i database Kvindeliga-database\2024-2025\1212025_Ringkøbing_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:35:21,260 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748288 i database Kvindeliga-database\2024-2025\122025_EH_Aalborg_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:35:21,279 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748239 i database Kvindeliga-database\2024-2025\13112024_Team_Esbjerg_vs_EH_Aalborg.db
+2025-03-18 21:35:21,294 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748267 i database Kvindeliga-database\2024-2025\1512025_EH_Aalborg_vs_Ikast_Håndbold.db
+2025-03-18 21:35:21,313 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748302 i database Kvindeliga-database\2024-2025\1522025_EH_Aalborg_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:35:21,319 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748190 i database Kvindeliga-database\2024-2025\1592024_EH_Aalborg_vs_Bjerringbro_FH.db
+2025-03-18 21:35:21,337 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748197 i database Kvindeliga-database\2024-2025\1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:35:21,352 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748246 i database Kvindeliga-database\2024-2025\212025_EH_Aalborg_vs_København_Håndbold.db
+2025-03-18 21:35:21,372 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748303 i database Kvindeliga-database\2024-2025\2122025_Silkeborg-Voel_KFUM_vs_EH_Aalborg.db
+2025-03-18 21:35:21,383 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748274 i database Kvindeliga-database\2024-2025\2212025_EH_Aalborg_vs_Odense_Håndbold.db
+2025-03-18 21:35:21,428 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748317 i database Kvindeliga-database\2024-2025\232025_Aarhus_Håndbold_Kvinder_vs_EH_Aalborg.db
+2025-03-18 21:35:21,454 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748316 i database Kvindeliga-database\2024-2025\2622025_EH_Aalborg_vs_Skanderborg_Håndbold.db
+2025-03-18 21:35:21,462 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748275 i database Kvindeliga-database\2024-2025\2812025_Bjerringbro_FH_vs_EH_Aalborg.db
+2025-03-18 21:35:21,478 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748183 i database Kvindeliga-database\2024-2025\492024_Odense_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:35:21,487 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748204 i database Kvindeliga-database\2024-2025\5102024_EH_Aalborg_vs_Viborg_HK.db
+2025-03-18 21:35:21,501 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748253 i database Kvindeliga-database\2024-2025\512025_SønderjyskE_Kvindehåndbold_vs_EH_Aalborg.db
+2025-03-18 21:35:21,511 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748289 i database Kvindeliga-database\2024-2025\522025_Viborg_HK_vs_EH_Aalborg.db
+2025-03-18 21:35:21,530 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748218 i database Kvindeliga-database\2024-2025\7112024_EH_Aalborg_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:35:21,568 - handball_admin - INFO - Gennemgik 21 databaser med hold EHA
+2025-03-18 21:35:21,568 - handball_admin - INFO - Fandt 20 spillere for hold EHA
+2025-03-18 21:35:21,591 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:35:21] "GET /teams/EHA HTTP/1.1" 200 -
+2025-03-18 21:35:47,526 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:35:48,086 - handball_admin - INFO - Opdaterede spillernavn Anna BANG til Anna Hviid BANG for hold EHA. Succes: True, Poster opdateret: 10
+2025-03-18 21:35:48,087 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:35:48] "POST /player/edit HTTP/1.1" 200 -
+2025-03-18 21:35:49,732 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:35:49,732 - handball_admin - INFO - Søger efter spillere for hold EHA (EH Aalborg) i 294 databaser
+2025-03-18 21:35:49,831 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748211 i database Kvindeliga-database\2024-2025\12102024_Horsens_Håndbold_Elite_vs_EH_Aalborg.db
+2025-03-18 21:35:49,834 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748232 i database Kvindeliga-database\2024-2025\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:35:49,839 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748225 i database Kvindeliga-database\2024-2025\12112024_Skanderborg_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:35:49,839 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748260 i database Kvindeliga-database\2024-2025\1212025_Ringkøbing_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:35:49,845 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748288 i database Kvindeliga-database\2024-2025\122025_EH_Aalborg_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:35:49,851 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748239 i database Kvindeliga-database\2024-2025\13112024_Team_Esbjerg_vs_EH_Aalborg.db
+2025-03-18 21:35:49,864 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748267 i database Kvindeliga-database\2024-2025\1512025_EH_Aalborg_vs_Ikast_Håndbold.db
+2025-03-18 21:35:49,866 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748302 i database Kvindeliga-database\2024-2025\1522025_EH_Aalborg_vs_Horsens_Håndbold_Elite.db
+2025-03-18 21:35:49,872 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748190 i database Kvindeliga-database\2024-2025\1592024_EH_Aalborg_vs_Bjerringbro_FH.db
+2025-03-18 21:35:49,878 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748197 i database Kvindeliga-database\2024-2025\1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:35:49,895 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748246 i database Kvindeliga-database\2024-2025\212025_EH_Aalborg_vs_København_Håndbold.db
+2025-03-18 21:35:49,903 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748303 i database Kvindeliga-database\2024-2025\2122025_Silkeborg-Voel_KFUM_vs_EH_Aalborg.db
+2025-03-18 21:35:49,909 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748274 i database Kvindeliga-database\2024-2025\2212025_EH_Aalborg_vs_Odense_Håndbold.db
+2025-03-18 21:35:49,918 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748317 i database Kvindeliga-database\2024-2025\232025_Aarhus_Håndbold_Kvinder_vs_EH_Aalborg.db
+2025-03-18 21:35:49,921 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748316 i database Kvindeliga-database\2024-2025\2622025_EH_Aalborg_vs_Skanderborg_Håndbold.db
+2025-03-18 21:35:49,930 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748275 i database Kvindeliga-database\2024-2025\2812025_Bjerringbro_FH_vs_EH_Aalborg.db
+2025-03-18 21:35:49,944 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748183 i database Kvindeliga-database\2024-2025\492024_Odense_Håndbold_vs_EH_Aalborg.db
+2025-03-18 21:35:49,953 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748204 i database Kvindeliga-database\2024-2025\5102024_EH_Aalborg_vs_Viborg_HK.db
+2025-03-18 21:35:49,961 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748253 i database Kvindeliga-database\2024-2025\512025_SønderjyskE_Kvindehåndbold_vs_EH_Aalborg.db
+2025-03-18 21:35:49,969 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748289 i database Kvindeliga-database\2024-2025\522025_Viborg_HK_vs_EH_Aalborg.db
+2025-03-18 21:35:49,983 - handball_admin - INFO - Fandt hold EH Aalborg i kamp 748218 i database Kvindeliga-database\2024-2025\7112024_EH_Aalborg_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:35:50,004 - handball_admin - INFO - Gennemgik 21 databaser med hold EHA
+2025-03-18 21:35:50,004 - handball_admin - INFO - Fandt 19 spillere for hold EHA
+2025-03-18 21:35:50,006 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:35:50] "GET /teams/EHA HTTP/1.1" 200 -
+2025-03-18 21:36:27,723 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:36:28,114 - handball_admin - INFO - Fandt 29 unikke hold
+2025-03-18 21:36:28,119 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:36:28] "GET /teams HTTP/1.1" 200 -
+2025-03-18 21:36:29,103 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:36:29,103 - handball_admin - INFO - Søger efter spillere for hold AAH (Aalborg Håndbold) i 294 databaser
+2025-03-18 21:36:29,111 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748724 i database Herreliga-database\2024-2025\11122024_Ribe-Esbjerg_HH_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,120 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748716 i database Herreliga-database\2024-2025\1122024_Nordsjælland_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,123 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748733 i database Herreliga-database\2024-2025\12122024_Aalborg_Håndbold_vs_TMS_Ringsted.db
+2025-03-18 21:36:29,129 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748674 i database Herreliga-database\2024-2025\13102024_Aalborg_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:36:29,133 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748766 i database Herreliga-database\2024-2025\132025_Skanderborg_AGF_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,134 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748740 i database Herreliga-database\2024-2025\14122024_Aalborg_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:36:29,139 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748641 i database Herreliga-database\2024-2025\1492024_TMS_Ringsted_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,145 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748701 i database Herreliga-database\2024-2025\16112024_KIF_Kolding_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,152 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748683 i database Herreliga-database\2024-2025\19102024_TTH_Holstebro_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,166 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748661 i database Herreliga-database\2024-2025\2102024_Aalborg_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:36:29,174 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748746 i database Herreliga-database\2024-2025\21122024_Aalborg_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:36:29,177 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748648 i database Herreliga-database\2024-2025\2192024_Fredericia_Håndbold_Klub_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,182 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748759 i database Herreliga-database\2024-2025\2222025_Aalborg_Håndbold_vs_GOG.db
+2025-03-18 21:36:29,184 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748713 i database Herreliga-database\2024-2025\23112024_Aalborg_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-18 21:36:29,202 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748687 i database Herreliga-database\2024-2025\28102024_Aalborg_Håndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:36:29,212 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748657 i database Herreliga-database\2024-2025\2992024_Mors-Thy_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,216 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748700 i database Herreliga-database\2024-2025\3112024_Grindsted_GIF,_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,220 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748667 i database Herreliga-database\2024-2025\4112024_GOG_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,242 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748635 i database Herreliga-database\2024-2025\792024_Aalborg_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-18 21:36:29,245 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748750 i database Herreliga-database\2024-2025\822025_Bjerringbro-Silkeborg_vs_Aalborg_Håndbold.db
+2025-03-18 21:36:29,249 - handball_admin - INFO - Fandt hold Aalborg Håndbold i kamp 748772 i database Herreliga-database\2024-2025\832025_Aalborg_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:36:29,374 - handball_admin - INFO - Gennemgik 21 databaser med hold AAH
+2025-03-18 21:36:29,374 - handball_admin - INFO - Fandt 25 spillere for hold AAH
+2025-03-18 21:36:29,377 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:36:29] "GET /teams/AAH HTTP/1.1" 200 -
+2025-03-18 21:38:06,210 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:38:06,572 - handball_admin - INFO - Fandt 29 unikke hold
+2025-03-18 21:38:06,574 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:38:06] "GET /teams HTTP/1.1" 200 -
+2025-03-18 21:38:07,553 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:38:07,555 - handball_admin - INFO - Søger efter spillere for hold AHB (Aarhus Håndbold Kvinder) i 294 databaser
+2025-03-18 21:38:07,695 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748188 i database Kvindeliga-database\2024-2025\1192024_Team_Esbjerg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,702 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748219 i database Kvindeliga-database\2024-2025\12112024_Aarhus_Håndbold_Kvinder_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:38:07,706 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748232 i database Kvindeliga-database\2024-2025\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,734 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748233 i database Kvindeliga-database\2024-2025\15112024_København_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,735 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748263 i database Kvindeliga-database\2024-2025\1512025_Horsens_Håndbold_Elite_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,751 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748297 i database Kvindeliga-database\2024-2025\1722025_Bjerringbro_FH_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,756 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748193 i database Kvindeliga-database\2024-2025\1892024_Aarhus_Håndbold_Kvinder_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:38:07,762 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748214 i database Kvindeliga-database\2024-2025\19102024_Viborg_HK_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,772 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748198 i database Kvindeliga-database\2024-2025\2102024_Ikast_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,776 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748244 i database Kvindeliga-database\2024-2025\212025_Aarhus_Håndbold_Kvinder_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:38:07,797 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748271 i database Kvindeliga-database\2024-2025\2212025_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,805 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748287 i database Kvindeliga-database\2024-2025\222025_SønderjyskE_Kvindehåndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,809 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748304 i database Kvindeliga-database\2024-2025\2222025_Aarhus_Håndbold_Kvinder_vs_Viborg_HK.db
+2025-03-18 21:38:07,821 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748317 i database Kvindeliga-database\2024-2025\232025_Aarhus_Håndbold_Kvinder_vs_EH_Aalborg.db
+2025-03-18 21:38:07,842 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748313 i database Kvindeliga-database\2024-2025\2622025_Voel_KFUM_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,850 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748278 i database Kvindeliga-database\2024-2025\2912025_Aarhus_Håndbold_Kvinder_vs_Team_Esbjerg.db
+2025-03-18 21:38:07,880 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748248 i database Kvindeliga-database\2024-2025\512025_Odense_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:07,893 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748291 i database Kvindeliga-database\2024-2025\522025_Aarhus_Håndbold_Kvinder_vs_Ikast_Håndbold.db
+2025-03-18 21:38:07,911 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748206 i database Kvindeliga-database\2024-2025\7112024_Aarhus_Håndbold_Kvinder_vs_Bjerringbro_FH.db
+2025-03-18 21:38:07,929 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748180 i database Kvindeliga-database\2024-2025\792024_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.db
+2025-03-18 21:38:07,940 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748258 i database Kvindeliga-database\2024-2025\812025_Aarhus_Håndbold_Kvinder_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:38:07,953 - handball_admin - INFO - Gennemgik 21 databaser med hold AHB
+2025-03-18 21:38:07,953 - handball_admin - INFO - Fandt 21 spillere for hold AHB
+2025-03-18 21:38:07,958 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:38:07] "GET /teams/AHB HTTP/1.1" 200 -
+2025-03-18 21:38:27,873 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:38:28,381 - handball_admin - INFO - Opdaterede spillernavn Elin THORSTEINSDOTTER til Elin THORSTEINSDOTTIR for hold AHB. Succes: True, Poster opdateret: 1
+2025-03-18 21:38:28,381 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:38:28] "POST /player/edit HTTP/1.1" 200 -
+2025-03-18 21:38:29,695 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:38:29,695 - handball_admin - INFO - Søger efter spillere for hold AHB (Aarhus Håndbold Kvinder) i 294 databaser
+2025-03-18 21:38:29,797 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748188 i database Kvindeliga-database\2024-2025\1192024_Team_Esbjerg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,799 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748219 i database Kvindeliga-database\2024-2025\12112024_Aarhus_Håndbold_Kvinder_vs_Silkeborg-Voel_KFUM.db
+2025-03-18 21:38:29,806 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748232 i database Kvindeliga-database\2024-2025\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,822 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748233 i database Kvindeliga-database\2024-2025\15112024_København_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,822 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748263 i database Kvindeliga-database\2024-2025\1512025_Horsens_Håndbold_Elite_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,830 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748297 i database Kvindeliga-database\2024-2025\1722025_Bjerringbro_FH_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,830 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748193 i database Kvindeliga-database\2024-2025\1892024_Aarhus_Håndbold_Kvinder_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-18 21:38:29,835 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748214 i database Kvindeliga-database\2024-2025\19102024_Viborg_HK_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,841 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748198 i database Kvindeliga-database\2024-2025\2102024_Ikast_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,847 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748244 i database Kvindeliga-database\2024-2025\212025_Aarhus_Håndbold_Kvinder_vs_Ringkøbing_Håndbold.db
+2025-03-18 21:38:29,856 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748271 i database Kvindeliga-database\2024-2025\2212025_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,863 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748287 i database Kvindeliga-database\2024-2025\222025_SønderjyskE_Kvindehåndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,863 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748304 i database Kvindeliga-database\2024-2025\2222025_Aarhus_Håndbold_Kvinder_vs_Viborg_HK.db
+2025-03-18 21:38:29,870 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748317 i database Kvindeliga-database\2024-2025\232025_Aarhus_Håndbold_Kvinder_vs_EH_Aalborg.db
+2025-03-18 21:38:29,874 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748313 i database Kvindeliga-database\2024-2025\2622025_Voel_KFUM_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,879 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748278 i database Kvindeliga-database\2024-2025\2912025_Aarhus_Håndbold_Kvinder_vs_Team_Esbjerg.db
+2025-03-18 21:38:29,891 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748248 i database Kvindeliga-database\2024-2025\512025_Odense_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-18 21:38:29,895 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748291 i database Kvindeliga-database\2024-2025\522025_Aarhus_Håndbold_Kvinder_vs_Ikast_Håndbold.db
+2025-03-18 21:38:29,905 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748206 i database Kvindeliga-database\2024-2025\7112024_Aarhus_Håndbold_Kvinder_vs_Bjerringbro_FH.db
+2025-03-18 21:38:29,914 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748180 i database Kvindeliga-database\2024-2025\792024_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.db
+2025-03-18 21:38:29,921 - handball_admin - INFO - Fandt hold Aarhus Håndbold Kvinder i kamp 748258 i database Kvindeliga-database\2024-2025\812025_Aarhus_Håndbold_Kvinder_vs_Nykøbing_F._Håndbold.db
+2025-03-18 21:38:29,928 - handball_admin - INFO - Gennemgik 21 databaser med hold AHB
+2025-03-18 21:38:29,928 - handball_admin - INFO - Fandt 20 spillere for hold AHB
+2025-03-18 21:38:29,932 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:38:29] "GET /teams/AHB HTTP/1.1" 200 -
+2025-03-18 21:39:03,672 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:39:04,030 - handball_admin - INFO - Fandt 29 unikke hold
+2025-03-18 21:39:04,032 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:39:04] "GET /teams HTTP/1.1" 200 -
+2025-03-18 21:39:11,493 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:39:11,493 - handball_admin - INFO - Søger efter spillere for hold SKH (Skjern Håndbold) i 294 databaser
+2025-03-18 21:39:11,498 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748660 i database Herreliga-database\2024-2025\1102024_Skjern_Håndbold_vs_GOG.db
+2025-03-18 21:39:11,511 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748732 i database Herreliga-database\2024-2025\11122024_Skjern_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-18 21:39:11,524 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748673 i database Herreliga-database\2024-2025\12102024_Skjern_Håndbold_vs_TTH_Holstebro.db
+2025-03-18 21:39:11,540 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748702 i database Herreliga-database\2024-2025\13112024_Sønderjyske_Herrehåndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,556 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748741 i database Herreliga-database\2024-2025\14122024_Mors-Thy_Håndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,575 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748642 i database Herreliga-database\2024-2025\1592024_Fredericia_Håndbold_Klub_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,594 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748758 i database Herreliga-database\2024-2025\1822025_Skjern_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-18 21:39:11,625 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748647 i database Herreliga-database\2024-2025\2092024_Skjern_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-18 21:39:11,659 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748745 i database Herreliga-database\2024-2025\21122024_Skjern_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-18 21:39:11,680 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748686 i database Herreliga-database\2024-2025\23102024_Grindsted_GIF,_Håndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,690 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748712 i database Herreliga-database\2024-2025\23112024_Skjern_Håndbold_vs_Nordsjælland_Håndbold.db
+2025-03-18 21:39:11,722 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748767 i database Herreliga-database\2024-2025\2722025_TTH_Holstebro_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,729 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748687 i database Herreliga-database\2024-2025\28102024_Aalborg_Håndbold_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,737 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748717 i database Herreliga-database\2024-2025\28112024_Ribe-Esbjerg_HH_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,749 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748652 i database Herreliga-database\2024-2025\2892024_Bjerringbro-Silkeborg_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,758 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748698 i database Herreliga-database\2024-2025\29102024_Skjern_Håndbold_vs_KIF_Kolding.db
+2025-03-18 21:39:11,827 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748668 i database Herreliga-database\2024-2025\6102024_SAH_–_Skanderborg_AGF_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,837 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748771 i database Herreliga-database\2024-2025\632025_Skjern_Håndbold_vs_Grindsted_GIF.db
+2025-03-18 21:39:11,850 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748725 i database Herreliga-database\2024-2025\7122024_TMS_Ringsted_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,864 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748751 i database Herreliga-database\2024-2025\822025_GOG_vs_Skjern_Håndbold.db
+2025-03-18 21:39:11,877 - handball_admin - INFO - Fandt hold Skjern Håndbold i kamp 748634 i database Herreliga-database\2024-2025\992024_Skjern_Håndbold_vs_TMS_Ringsted.db
+2025-03-18 21:39:12,097 - handball_admin - INFO - Gennemgik 21 databaser med hold SKH
+2025-03-18 21:39:12,099 - handball_admin - INFO - Fandt 22 spillere for hold SKH
+2025-03-18 21:39:12,101 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:39:12] "GET /teams/SKH HTTP/1.1" 200 -
+2025-03-18 21:40:07,965 - handball_admin - INFO - Fandt 147 Herreliga-databaser og 147 Kvindeliga-databaser
+2025-03-18 21:40:08,011 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 21:40:08] "GET / HTTP/1.1" 200 -

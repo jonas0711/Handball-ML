@@ -1,0 +1,170 @@
+{% extends "base.html" %}
+
+{% block title %}{{ team_name }} - Spillere{% endblock %}
+
+{% block content %}
+<h1>{{ team_name }} - Spillere</h1>
+
+<div class="alert alert-info">
+    <strong>Info:</strong> Klik på en spillers navn for at redigere det. Ændringer vil blive anvendt på tværs af alle databaser.
+</div>
+
+<table id="playersTable" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nummer</th>
+            <th>Navn</th>
+            <th>Databaser</th>
+            <th>Handlinger</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for player in players %}
+        <tr>
+            <td>{{ player.number }}</td>
+            <td class="player-name">{{ player.name }}</td>
+            <td>{{ player.databases }}</td>
+            <td>
+                <button class="btn btn-sm btn-primary edit-player-btn" 
+                        data-number="{{ player.number }}" 
+                        data-name="{{ player.name }}">
+                    Rediger
+                </button>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<a href="{{ url_for('view_teams') }}" class="btn btn-secondary">Tilbage til hold</a>
+
+<!-- Rediger spiller modal -->
+<div class="modal fade" id="editPlayerModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Rediger spiller</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Luk"></button>
+            </div>
+            <div class="modal-body">
+                <form id="editPlayerForm">
+                    <div class="mb-3">
+                        <label for="playerNumber" class="form-label">Nummer</label>
+                        <input type="text" class="form-control" id="playerNumber" readonly>
+                    </div>
+                    <div class="mb-3">
+                        <label for="playerName" class="form-label">Navn</label>
+                        <input type="text" class="form-control" id="playerName" required>
+                    </div>
+                    <div class="alert alert-warning">
+                        Dette vil opdatere spillerens navn på tværs af alle databaser. 
+                        Denne handling kan ikke fortrydes!
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuller</button>
+                <button type="button" class="btn btn-primary" id="savePlayerBtn">Gem ændringer</button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    $(document).ready(function() {
+        // Initialiser DataTable
+        $('#playersTable').DataTable({
+            "pageLength": 25,
+            "lengthMenu": [10, 25, 50, 100],
+            "ordering": true,
+            "searching": true,
+            "language": {
+                "search": "Søg:",
+                "lengthMenu": "Vis _MENU_ rækker per side",
+                "info": "Viser _START_ til _END_ af _TOTAL_ rækker",
+                "paginate": {
+                    "first": "Første",
+                    "last": "Sidste",
+                    "next": "Næste",
+                    "previous": "Forrige"
+                }
+            }
+        });
+        
+        // Variable til at gemme den aktuelt redigerede spiller
+        var currentPlayerName = '';
+        
+        // Vis modal når der klikkes på rediger-knappen
+        $('.edit-player-btn').on('click', function() {
+            var number = $(this).data('number');
+            var name = $(this).data('name');
+            
+            // Gem den oprindelige spillers navn
+            currentPlayerName = name;
+            
+            // Udfyld formularen
+            $('#playerNumber').val(number);
+            $('#playerName').val(name);
+            
+            // Vis modalen
+            var modal = new bootstrap.Modal(document.getElementById('editPlayerModal'));
+            modal.show();
+        });
+        
+        // Gem ændringer
+        $('#savePlayerBtn').on('click', function() {
+            var newName = $('#playerName').val().trim();
+            
+            // Valider input
+            if (!newName) {
+                alert('Spillernavn må ikke være tomt.');
+                return;
+            }
+            
+            // Hvis navnet ikke er ændret, luk blot modalen
+            if (newName === currentPlayerName) {
+                bootstrap.Modal.getInstance(document.getElementById('editPlayerModal')).hide();
+                return;
+            }
+            
+            // Bekræft opdatering
+            if (!confirm('Er du sikker på, at du vil ændre "' + currentPlayerName + '" til "' + newName + '" på tværs af alle databaser?')) {
+                return;
+            }
+            
+            // Deaktiver knap under gemning
+            var btn = $(this);
+            btn.prop('disabled', true).text('Gemmer...');
+            
+            // Send anmodning til serveren
+            $.ajax({
+                url: "{{ url_for('edit_player') }}",
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({
+                    old_name: currentPlayerName,
+                    new_name: newName,
+                    team_name: "{{ team_name }}"
+                }),
+                success: function(response) {
+                    if (response.success) {
+                        alert('Spillernavn opdateret!');
+                        
+                        // Opdater siden for at vise de nye data
+                        location.reload();
+                    } else {
+                        alert('Fejl ved opdatering af spillernavn: ' + (response.error || 'Ukendt fejl'));
+                        btn.prop('disabled', false).text('Gem ændringer');
+                    }
+                },
+                error: function() {
+                    alert('Fejl ved kommunikation med serveren.');
+                    btn.prop('disabled', false).text('Gem ændringer');
+                }
+            });
+        });
+    });
+</script>
+{% endblock %}

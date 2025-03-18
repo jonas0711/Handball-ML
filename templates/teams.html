@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% block title %}Håndboldhændelser Admin - Hold{% endblock %}
+
+{% block content %}
+<h1>Alle hold</h1>
+<p>Vælg et hold for at se og redigere spillere:</p>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="input-group mb-3">
+            <input type="text" id="teamSearch" class="form-control" placeholder="Søg efter hold...">
+            <button class="btn btn-outline-secondary" type="button" id="clearSearch">Ryd</button>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Holdkoder</h3>
+            <div class="list-group" id="teamsList">
+                {% for team in teams %}
+                    {% if team|length <= 4 %}
+                        <a href="{{ url_for('view_team_players', team_name=team) }}" class="list-group-item list-group-item-action">
+                            {{ team }}
+                            {% if team in team_names %}
+                                - {{ team_names[team] }}
+                            {% endif %}
+                        </a>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+        <div class="col-md-6">
+            <h3>Andre hold</h3>
+            <div class="list-group" id="teamCodesList">
+                {% for team in teams %}
+                    {% if team|length > 4 %}
+                        <a href="{{ url_for('view_team_players', team_name=team) }}" class="list-group-item list-group-item-action">
+                            {{ team }}
+                        </a>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    $(document).ready(function() {
+        // Implementer søgefunktion
+        $("#teamSearch").on("keyup", function() {
+            var value = $(this).val().toLowerCase();
+            $("#teamsList a, #teamCodesList a").filter(function() {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+        
+        // Ryd søgning
+        $("#clearSearch").on("click", function() {
+            $("#teamSearch").val('');
+            $("#teamsList a, #teamCodesList a").show();
+        });
+    });
+</script>
+{% endblock %}

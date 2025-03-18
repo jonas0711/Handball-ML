@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}{{ db_name }} - Tabeller{% endblock %}
+
+{% block content %}
+<h1>{{ db_name }}</h1>
+<p>Vælg en tabel for at se og redigere:</p>
+
+<ul class="list-group">
+    {% for table in tables %}
+    <li class="list-group-item">
+        <a href="{{ url_for('view_table', db_path=db_path, table_name=table) }}">{{ table }}</a>
+    </li>
+    {% endfor %}
+</ul>
+
+<a href="{{ url_for('index') }}" class="btn btn-secondary mt-3">Tilbage til databaser</a>
+{% endblock %}
