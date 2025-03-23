@@ -21111,3 +21111,1237 @@ Marian...
 2025-03-23 16:31:47,647 - DEBUG - Første 100 tegn af chunk: ================================================================================
 Kamp: KAMPHÆNDELSER...
 2025-03-23 16:31:47,648 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:48:33,920 - INFO - ==== Starter konverteringsproces ====
+2025-03-23 16:48:33,924 - INFO - Fandt 161 tekstfiler i Kvindeliga-txt-tabel\2024-2025
+2025-03-23 16:48:33,940 - INFO - Tjekker om match_748324_a.txt allerede er behandlet...
+2025-03-23 16:48:33,948 - INFO - Fil match_748324_a.txt med kamp_id 748324 er ikke tidligere behandlet.
+2025-03-23 16:48:33,948 - INFO - Tjekker om match_748325_a.txt allerede er behandlet...
+2025-03-23 16:48:33,949 - INFO - Fil match_748325_a.txt med kamp_id 748325 er ikke tidligere behandlet.
+2025-03-23 16:48:33,949 - INFO - Tjekker om match_748326_a.txt allerede er behandlet...
+2025-03-23 16:48:33,949 - INFO - Fil match_748326_a.txt med kamp_id 748326 er ikke tidligere behandlet.
+2025-03-23 16:48:33,949 - INFO - Tjekker om match_748327_a.txt allerede er behandlet...
+2025-03-23 16:48:33,951 - INFO - Fil match_748327_a.txt med kamp_id 748327 er ikke tidligere behandlet.
+2025-03-23 16:48:33,951 - INFO - Tjekker om match_748328_a.txt allerede er behandlet...
+2025-03-23 16:48:33,951 - INFO - Fil match_748328_a.txt med kamp_id 748328 er ikke tidligere behandlet.
+2025-03-23 16:48:33,951 - INFO - Tjekker om match_748329_a.txt allerede er behandlet...
+2025-03-23 16:48:33,953 - INFO - Fil match_748329_a.txt med kamp_id 748329 er ikke tidligere behandlet.
+2025-03-23 16:48:33,953 - INFO - Tjekker om match_748330_a.txt allerede er behandlet...
+2025-03-23 16:48:33,953 - INFO - Fil match_748330_a.txt med kamp_id 748330 er ikke tidligere behandlet.
+2025-03-23 16:48:33,953 - INFO - Tjekker om match_748331_a.txt allerede er behandlet...
+2025-03-23 16:48:33,953 - INFO - Fil match_748331_a.txt med kamp_id 748331 er ikke tidligere behandlet.
+2025-03-23 16:48:33,953 - INFO - Tjekker om match_748332_a.txt allerede er behandlet...
+2025-03-23 16:48:33,953 - INFO - Fil match_748332_a.txt med kamp_id 748332 er ikke tidligere behandlet.
+2025-03-23 16:48:33,953 - INFO - Tjekker om match_748333_a.txt allerede er behandlet...
+2025-03-23 16:48:33,957 - INFO - Fil match_748333_a.txt med kamp_id 748333 er ikke tidligere behandlet.
+2025-03-23 16:48:33,957 - INFO - Tjekker om match_748334_a.txt allerede er behandlet...
+2025-03-23 16:48:33,958 - INFO - Fil match_748334_a.txt med kamp_id 748334 er ikke tidligere behandlet.
+2025-03-23 16:48:33,960 - INFO - Tjekker om match_748335_a.txt allerede er behandlet...
+2025-03-23 16:48:33,960 - INFO - Fil match_748335_a.txt med kamp_id 748335 er ikke tidligere behandlet.
+2025-03-23 16:48:33,960 - INFO - Tjekker om match_748336_a.txt allerede er behandlet...
+2025-03-23 16:48:33,962 - INFO - Fil match_748336_a.txt med kamp_id 748336 er ikke tidligere behandlet.
+2025-03-23 16:48:33,962 - INFO - Tjekker om match_748337_a.txt allerede er behandlet...
+2025-03-23 16:48:33,962 - INFO - Fil match_748337_a.txt med kamp_id 748337 er ikke tidligere behandlet.
+2025-03-23 16:48:33,962 - INFO - Fandt 14 nye txt-filer der skal konverteres
+2025-03-23 16:48:33,962 - INFO - Fandt 14 txt-filer der skal behandles
+2025-03-23 16:48:33,964 - INFO - Starter behandling af fil: match_748324_a.txt
+2025-03-23 16:48:33,964 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748324_a.txt
+2025-03-23 16:48:33,965 - INFO - Fil opdelt i 3 chunks
+2025-03-23 16:48:33,965 - INFO - Behandler chunk 1 af 3 for match_748324_a.txt
+2025-03-23 16:48:33,965 - INFO - Behandler første chunk
+2025-03-23 16:48:33,965 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3482 tegn
+2025-03-23 16:48:33,965 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ikast Håndbold - Horsens Håndbold Elite   32 - 22  (19 - 13)
+748324 / 14-3-2025 / IBF ...
+2025-03-23 16:48:33,965 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:49:10,369 - INFO - AFC remote call 1 is done.
+2025-03-23 16:49:10,373 - INFO - Gemini API svar modtaget på 36.41 sekunder
+2025-03-23 16:49:10,373 - INFO - Modtog match_info data for kamp_id: 748324
+2025-03-23 16:49:10,373 - INFO - Modtog 54 match_events
+2025-03-23 16:49:10,376 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 16:49:10,376 - INFO - Match info fundet: 748324 - Ikast Håndbold vs Horsens Håndbold Elite
+2025-03-23 16:49:10,376 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 16:49:10,376 - INFO - Behandler chunk 2 af 3 for match_748324_a.txt
+2025-03-23 16:49:10,376 - INFO - Behandler første chunk
+2025-03-23 16:49:10,378 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3060 tegn
+2025-03-23 16:49:10,380 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ikast Håndbold - Horsens Håndbold Elite   32 - 22  (19 - 13)
+748324 / 14-3-2025 / IBF ...
+2025-03-23 16:49:10,381 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:49:44,264 - INFO - AFC remote call 1 is done.
+2025-03-23 16:49:44,264 - INFO - Gemini API svar modtaget på 33.88 sekunder
+2025-03-23 16:49:44,266 - INFO - Modtog match_info data for kamp_id: 748324
+2025-03-23 16:49:44,268 - INFO - Modtog 50 match_events
+2025-03-23 16:49:44,268 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 16:49:44,268 - INFO - Behandler chunk 3 af 3 for match_748324_a.txt
+2025-03-23 16:49:44,268 - INFO - Behandler første chunk
+2025-03-23 16:49:44,271 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2680 tegn
+2025-03-23 16:49:44,271 - DEBUG - Første 100 tegn af chunk: HHE Skud forbi
+VB
+14
+Mai KRAGBALLE
+89
+Emily Stang SANDO
+45.17
+IKA
+Skud reddet
+ST
+22
+Lærke NOLSØE
+16
+...
+2025-03-23 16:49:44,273 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:50:10,131 - INFO - AFC remote call 1 is done.
+2025-03-23 16:50:10,131 - INFO - Gemini API svar modtaget på 25.86 sekunder
+2025-03-23 16:50:10,133 - INFO - Modtog match_info data for kamp_id: 748324
+2025-03-23 16:50:10,133 - INFO - Modtog 35 match_events
+2025-03-23 16:50:10,133 - INFO - Tilføjet 35 hændelser fra chunk 3
+2025-03-23 16:50:10,133 - INFO - Opretter database: Kvindeliga-database\2024-2025\1432025_Ikast_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-23 16:50:10,186 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1432025_Ikast_Håndbold_vs_Horsens_Håndbold_Elite.db med 139 hændelser
+2025-03-23 16:50:10,186 - INFO - Behandling af match_748324_a.txt fuldført på 96.22 sekunder.
+2025-03-23 16:50:10,186 - INFO - Database gemt som: 1432025_Ikast_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-23 16:50:10,186 - INFO - Total antal hændelser: 139
+2025-03-23 16:50:10,192 - INFO - Starter behandling af fil: match_748325_a.txt
+2025-03-23 16:50:10,192 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748325_a.txt
+2025-03-23 16:50:10,193 - INFO - Fil opdelt i 3 chunks
+2025-03-23 16:50:10,193 - INFO - Behandler chunk 1 af 3 for match_748325_a.txt
+2025-03-23 16:50:10,193 - INFO - Behandler første chunk
+2025-03-23 16:50:10,194 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3429 tegn
+2025-03-23 16:50:10,194 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Bjerringbro FH - Nykøbing F. Håndbold   30 - 29  (15 - 14)
+748325 / 14-3-2025 / Bjerri...
+2025-03-23 16:50:10,194 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:50:46,391 - INFO - AFC remote call 1 is done.
+2025-03-23 16:50:46,392 - INFO - Gemini API svar modtaget på 36.20 sekunder
+2025-03-23 16:50:46,394 - INFO - Modtog match_info data for kamp_id: 748325
+2025-03-23 16:50:46,394 - INFO - Modtog 54 match_events
+2025-03-23 16:50:46,394 - INFO - Match info fundet: 748325 - Bjerringbro FH vs Nykøbing F. Håndbold
+2025-03-23 16:50:46,394 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 16:50:46,394 - INFO - Behandler chunk 2 af 3 for match_748325_a.txt
+2025-03-23 16:50:46,394 - INFO - Behandler første chunk
+2025-03-23 16:50:46,397 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3002 tegn
+2025-03-23 16:50:46,397 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Bjerringbro FH - Nykøbing F. Håndbold   30 - 29  (15 - 14)
+748325 / 14-3-2025 / Bjerri...
+2025-03-23 16:50:46,400 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:51:20,559 - INFO - AFC remote call 1 is done.
+2025-03-23 16:51:20,560 - INFO - Gemini API svar modtaget på 34.16 sekunder
+2025-03-23 16:51:20,561 - INFO - Modtog match_info data for kamp_id: 748325
+2025-03-23 16:51:20,561 - INFO - Modtog 50 match_events
+2025-03-23 16:51:20,561 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 16:51:20,561 - INFO - Behandler chunk 3 af 3 for match_748325_a.txt
+2025-03-23 16:51:20,561 - INFO - Behandler første chunk
+2025-03-23 16:51:20,561 - INFO - Sender anmodning til Gemini API - chunk størrelse: 1673 tegn
+2025-03-23 16:51:20,561 - DEBUG - Første 100 tegn af chunk: BFH Skud reddet
+Gbr
+7
+Line GYLDENLØVE
+12
+Catharina BROCH
+50.19
+NFH Fejlaflevering
+2
+Caroline AAR
+Bol...
+2025-03-23 16:51:20,561 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:51:37,184 - INFO - AFC remote call 1 is done.
+2025-03-23 16:51:37,188 - INFO - Gemini API svar modtaget på 16.63 sekunder
+2025-03-23 16:51:37,188 - INFO - Modtog match_info data for kamp_id: 748325
+2025-03-23 16:51:37,190 - INFO - Modtog 22 match_events
+2025-03-23 16:51:37,190 - INFO - Tilføjet 22 hændelser fra chunk 3
+2025-03-23 16:51:37,190 - INFO - Opretter database: Kvindeliga-database\2024-2025\1432025_Bjerringbro_FH_vs_Nykøbing_F._Håndbold.db
+2025-03-23 16:51:37,258 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1432025_Bjerringbro_FH_vs_Nykøbing_F._Håndbold.db med 126 hændelser
+2025-03-23 16:51:37,263 - INFO - Behandling af match_748325_a.txt fuldført på 87.07 sekunder.
+2025-03-23 16:51:37,265 - INFO - Database gemt som: 1432025_Bjerringbro_FH_vs_Nykøbing_F._Håndbold.db
+2025-03-23 16:51:37,265 - INFO - Total antal hændelser: 126
+2025-03-23 16:51:37,272 - INFO - Starter behandling af fil: match_748326_a.txt
+2025-03-23 16:51:37,273 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748326_a.txt
+2025-03-23 16:51:37,274 - INFO - Fil opdelt i 3 chunks
+2025-03-23 16:51:37,274 - INFO - Behandler chunk 1 af 3 for match_748326_a.txt
+2025-03-23 16:51:37,274 - INFO - Behandler første chunk
+2025-03-23 16:51:37,274 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3326 tegn
+2025-03-23 16:51:37,274 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Viborg HK - Odense Håndbold   32 - 35  (16 - 20)
+748326 / 13-3-2025 / BIOCIRC Arena 1,...
+2025-03-23 16:51:37,281 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:52:13,329 - INFO - AFC remote call 1 is done.
+2025-03-23 16:52:13,329 - INFO - Gemini API svar modtaget på 36.05 sekunder
+2025-03-23 16:52:13,331 - INFO - Modtog match_info data for kamp_id: 748326
+2025-03-23 16:52:13,331 - INFO - Modtog 54 match_events
+2025-03-23 16:52:13,331 - INFO - Match info fundet: 748326 - Viborg HK vs Odense Håndbold
+2025-03-23 16:52:13,331 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 16:52:13,331 - INFO - Behandler chunk 2 af 3 for match_748326_a.txt
+2025-03-23 16:52:13,331 - INFO - Behandler første chunk
+2025-03-23 16:52:13,334 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3262 tegn
+2025-03-23 16:52:13,334 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Viborg HK - Odense Håndbold   32 - 35  (16 - 20)
+748326 / 13-3-2025 / BIOCIRC Arena 1,...
+2025-03-23 16:52:13,335 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:52:47,480 - INFO - AFC remote call 1 is done.
+2025-03-23 16:52:47,480 - INFO - Gemini API svar modtaget på 34.15 sekunder
+2025-03-23 16:52:47,483 - INFO - Modtog match_info data for kamp_id: 748326
+2025-03-23 16:52:47,483 - INFO - Modtog 50 match_events
+2025-03-23 16:52:47,483 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 16:52:47,483 - INFO - Behandler chunk 3 af 3 for match_748326_a.txt
+2025-03-23 16:52:47,485 - INFO - Behandler første chunk
+2025-03-23 16:52:47,486 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2588 tegn
+2025-03-23 16:52:47,486 - DEBUG - Første 100 tegn af chunk: PL
+26
+Christina PEDERSEN
+38
+Yara TEN HOLTE
+44.23
+ODE Skud reddet
+Gbr 68
+Helena ELVER
+Retur
+0
+16
+Loui...
+2025-03-23 16:52:47,486 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:53:12,590 - INFO - AFC remote call 1 is done.
+2025-03-23 16:53:12,590 - INFO - Gemini API svar modtaget på 25.10 sekunder
+2025-03-23 16:53:12,590 - INFO - Modtog match_info data for kamp_id: 748326
+2025-03-23 16:53:12,590 - INFO - Modtog 36 match_events
+2025-03-23 16:53:12,590 - INFO - Tilføjet 36 hændelser fra chunk 3
+2025-03-23 16:53:12,590 - INFO - Opretter database: Kvindeliga-database\2024-2025\1332025_Viborg_HK_vs_Odense_Håndbold.db
+2025-03-23 16:53:12,623 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1332025_Viborg_HK_vs_Odense_Håndbold.db med 140 hændelser
+2025-03-23 16:53:12,628 - INFO - Behandling af match_748326_a.txt fuldført på 95.35 sekunder.
+2025-03-23 16:53:12,630 - INFO - Database gemt som: 1332025_Viborg_HK_vs_Odense_Håndbold.db
+2025-03-23 16:53:12,630 - INFO - Total antal hændelser: 140
+2025-03-23 16:53:12,637 - INFO - Starter behandling af fil: match_748327_a.txt
+2025-03-23 16:53:12,637 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748327_a.txt
+2025-03-23 16:53:12,638 - INFO - Fil opdelt i 3 chunks
+2025-03-23 16:53:12,638 - INFO - Behandler chunk 1 af 3 for match_748327_a.txt
+2025-03-23 16:53:12,638 - INFO - Behandler første chunk
+2025-03-23 16:53:12,642 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3435 tegn
+2025-03-23 16:53:12,642 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Silkeborg-Voel KFUM - Ringkøbing Håndbold   24 - 28  (14 - 11)
+748327 / 13-3-2025 / JY...
+2025-03-23 16:53:12,644 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:53:48,122 - INFO - AFC remote call 1 is done.
+2025-03-23 16:53:48,124 - INFO - Gemini API svar modtaget på 35.48 sekunder
+2025-03-23 16:53:48,126 - INFO - Modtog match_info data for kamp_id: 748327
+2025-03-23 16:53:48,126 - INFO - Modtog 54 match_events
+2025-03-23 16:53:48,126 - INFO - Match info fundet: 748327 - Silkeborg-Voel KFUM vs Ringkøbing Håndbold
+2025-03-23 16:53:48,126 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 16:53:48,127 - INFO - Behandler chunk 2 af 3 for match_748327_a.txt
+2025-03-23 16:53:48,127 - INFO - Behandler første chunk
+2025-03-23 16:53:48,129 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3197 tegn
+2025-03-23 16:53:48,129 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Silkeborg-Voel KFUM - Ringkøbing Håndbold   24 - 28  (14 - 11)
+748327 / 13-3-2025 / JY...
+2025-03-23 16:53:48,132 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:54:22,355 - INFO - AFC remote call 1 is done.
+2025-03-23 16:54:22,356 - INFO - Gemini API svar modtaget på 34.22 sekunder
+2025-03-23 16:54:22,358 - INFO - Modtog match_info data for kamp_id: 748327
+2025-03-23 16:54:22,358 - INFO - Modtog 50 match_events
+2025-03-23 16:54:22,359 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 16:54:22,359 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 16:54:22,359 - INFO - Behandler chunk 3 af 3 for match_748327_a.txt
+2025-03-23 16:54:22,359 - INFO - Behandler første chunk
+2025-03-23 16:54:22,361 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2475 tegn
+2025-03-23 16:54:22,363 - DEBUG - Første 100 tegn af chunk: RIN
+Time out
+46.57 20-20 RIN
+Mål
+Gbr 20
+Stine Opstrup KRISTENSEN
+Assist
+15
+Jane MEJLVANG
+16
+Anna VEN...
+2025-03-23 16:54:22,365 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:54:45,703 - INFO - AFC remote call 1 is done.
+2025-03-23 16:54:45,703 - INFO - Gemini API svar modtaget på 23.34 sekunder
+2025-03-23 16:54:45,705 - INFO - Modtog match_info data for kamp_id: 748327
+2025-03-23 16:54:45,705 - INFO - Modtog 33 match_events
+2025-03-23 16:54:45,706 - INFO - Tilføjet 33 hændelser fra chunk 3
+2025-03-23 16:54:45,707 - INFO - Opretter database: Kvindeliga-database\2024-2025\1332025_Silkeborg-Voel_KFUM_vs_Ringkøbing_Håndbold.db
+2025-03-23 16:54:45,751 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1332025_Silkeborg-Voel_KFUM_vs_Ringkøbing_Håndbold.db med 137 hændelser
+2025-03-23 16:54:45,757 - INFO - Behandling af match_748327_a.txt fuldført på 93.12 sekunder.
+2025-03-23 16:54:45,757 - INFO - Database gemt som: 1332025_Silkeborg-Voel_KFUM_vs_Ringkøbing_Håndbold.db
+2025-03-23 16:54:45,758 - INFO - Total antal hændelser: 137
+2025-03-23 16:54:45,765 - INFO - Starter behandling af fil: match_748328_a.txt
+2025-03-23 16:54:45,765 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748328_a.txt
+2025-03-23 16:54:45,765 - INFO - Fil opdelt i 3 chunks
+2025-03-23 16:54:45,765 - INFO - Behandler chunk 1 af 3 for match_748328_a.txt
+2025-03-23 16:54:45,765 - INFO - Behandler første chunk
+2025-03-23 16:54:45,765 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3849 tegn
+2025-03-23 16:54:45,771 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Aarhus Håndbold Kvinder - København Håndbold   25 - 29  (13 - 14)
+748328 / 14-3-2025 /...
+2025-03-23 16:54:45,772 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:55:21,953 - INFO - AFC remote call 1 is done.
+2025-03-23 16:55:21,954 - INFO - Gemini API svar modtaget på 36.18 sekunder
+2025-03-23 16:55:21,956 - INFO - Modtog match_info data for kamp_id: 748328
+2025-03-23 16:55:21,956 - INFO - Modtog 54 match_events
+2025-03-23 16:55:21,956 - INFO - Match info fundet: 748328 - Aarhus Håndbold Kvinder vs København Håndbold
+2025-03-23 16:55:21,956 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 16:55:21,957 - INFO - Behandler chunk 2 af 3 for match_748328_a.txt
+2025-03-23 16:55:21,957 - INFO - Behandler første chunk
+2025-03-23 16:55:21,959 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3188 tegn
+2025-03-23 16:55:21,960 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Aarhus Håndbold Kvinder - København Håndbold   25 - 29  (13 - 14)
+748328 / 14-3-2025 /...
+2025-03-23 16:55:21,960 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:55:55,745 - INFO - AFC remote call 1 is done.
+2025-03-23 16:55:55,745 - INFO - Gemini API svar modtaget på 33.79 sekunder
+2025-03-23 16:55:55,748 - INFO - Modtog match_info data for kamp_id: 748328
+2025-03-23 16:55:55,749 - INFO - Modtog 50 match_events
+2025-03-23 16:55:55,749 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 16:55:55,749 - INFO - Behandler chunk 3 af 3 for match_748328_a.txt
+2025-03-23 16:55:55,749 - INFO - Behandler første chunk
+2025-03-23 16:55:55,752 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2092 tegn
+2025-03-23 16:55:55,752 - DEBUG - Første 100 tegn af chunk: ST
+10
+Pernille BRANDENBORG
+Assist
+15
+Emma NAVNE
+1
+Elin THORSTEINSDOTTIR
+50.23
+AHB Skud reddet
+PL
+15
+...
+2025-03-23 16:55:55,754 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:56:13,915 - INFO - AFC remote call 1 is done.
+2025-03-23 16:56:13,915 - INFO - Gemini API svar modtaget på 18.16 sekunder
+2025-03-23 16:56:13,920 - INFO - Modtog match_info data for kamp_id: 748328
+2025-03-23 16:56:13,920 - INFO - Modtog 25 match_events
+2025-03-23 16:56:13,922 - INFO - Tilføjet 25 hændelser fra chunk 3
+2025-03-23 16:56:13,922 - INFO - Opretter database: Kvindeliga-database\2024-2025\1432025_Aarhus_Håndbold_Kvinder_vs_København_Håndbold.db
+2025-03-23 16:56:13,982 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1432025_Aarhus_Håndbold_Kvinder_vs_København_Håndbold.db med 129 hændelser
+2025-03-23 16:56:13,987 - INFO - Behandling af match_748328_a.txt fuldført på 88.22 sekunder.
+2025-03-23 16:56:13,987 - INFO - Database gemt som: 1432025_Aarhus_Håndbold_Kvinder_vs_København_Håndbold.db
+2025-03-23 16:56:13,987 - INFO - Total antal hændelser: 129
+2025-03-23 16:56:13,995 - INFO - Starter behandling af fil: match_748329_a.txt
+2025-03-23 16:56:13,995 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748329_a.txt
+2025-03-23 16:56:13,995 - INFO - Fil opdelt i 3 chunks
+2025-03-23 16:56:13,995 - INFO - Behandler chunk 1 af 3 for match_748329_a.txt
+2025-03-23 16:56:13,995 - INFO - Behandler første chunk
+2025-03-23 16:56:14,002 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3488 tegn
+2025-03-23 16:56:14,002 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+SønderjyskE Kvindehåndbold - Skanderborg Håndbold   25 - 25  (11 - 16)
+748329 / 15-3-2...
+2025-03-23 16:56:14,004 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:56:50,119 - INFO - AFC remote call 1 is done.
+2025-03-23 16:56:50,119 - INFO - Gemini API svar modtaget på 36.12 sekunder
+2025-03-23 16:56:50,119 - INFO - Modtog match_info data for kamp_id: 748329
+2025-03-23 16:56:50,124 - INFO - Modtog 54 match_events
+2025-03-23 16:56:50,125 - INFO - Korrigerede 2 hændelser med forkert placerede målvogtere
+2025-03-23 16:56:50,125 - INFO - Match info fundet: 748329 - SønderjyskE Kvindehåndbold vs Skanderborg Håndbold
+2025-03-23 16:56:50,125 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 16:56:50,125 - INFO - Behandler chunk 2 af 3 for match_748329_a.txt
+2025-03-23 16:56:50,125 - INFO - Behandler første chunk
+2025-03-23 16:56:50,127 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3164 tegn
+2025-03-23 16:56:50,127 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+SønderjyskE Kvindehåndbold - Skanderborg Håndbold   25 - 25  (11 - 16)
+748329 / 15-3-2...
+2025-03-23 16:56:50,127 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:57:23,298 - INFO - AFC remote call 1 is done.
+2025-03-23 16:57:23,298 - INFO - Gemini API svar modtaget på 33.17 sekunder
+2025-03-23 16:57:23,300 - INFO - Modtog match_info data for kamp_id: 748329
+2025-03-23 16:57:23,302 - INFO - Modtog 49 match_events
+2025-03-23 16:57:23,302 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-23 16:57:23,302 - INFO - Behandler chunk 3 af 3 for match_748329_a.txt
+2025-03-23 16:57:23,302 - INFO - Behandler første chunk
+2025-03-23 16:57:23,305 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2054 tegn
+2025-03-23 16:57:23,305 - DEBUG - Første 100 tegn af chunk: SJE
+Skud reddet
+PL
+7
+Melissa PETRÉN
+12
+Sarah ERNEBJERG
+48.36
+SKB Regelfejl
+44
+Nicoline LAURITSEN
+48....
+2025-03-23 16:57:23,307 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:57:43,375 - INFO - AFC remote call 1 is done.
+2025-03-23 16:57:43,376 - INFO - Gemini API svar modtaget på 20.07 sekunder
+2025-03-23 16:57:43,378 - INFO - Modtog match_info data for kamp_id: 748329
+2025-03-23 16:57:43,378 - INFO - Modtog 27 match_events
+2025-03-23 16:57:43,378 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 16:57:43,378 - INFO - Tilføjet 27 hændelser fra chunk 3
+2025-03-23 16:57:43,378 - INFO - Opretter database: Kvindeliga-database\2024-2025\1532025_SønderjyskE_Kvindehåndbold_vs_Skanderborg_Håndbold.db
+2025-03-23 16:57:43,439 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1532025_SønderjyskE_Kvindehåndbold_vs_Skanderborg_Håndbold.db med 130 hændelser
+2025-03-23 16:57:43,444 - INFO - Behandling af match_748329_a.txt fuldført på 89.45 sekunder.
+2025-03-23 16:57:43,445 - INFO - Database gemt som: 1532025_SønderjyskE_Kvindehåndbold_vs_Skanderborg_Håndbold.db
+2025-03-23 16:57:43,445 - INFO - Total antal hændelser: 130
+2025-03-23 16:57:43,452 - INFO - Starter behandling af fil: match_748330_a.txt
+2025-03-23 16:57:43,452 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748330_a.txt
+2025-03-23 16:57:43,456 - INFO - Fil opdelt i 4 chunks
+2025-03-23 16:57:43,456 - INFO - Behandler chunk 1 af 4 for match_748330_a.txt
+2025-03-23 16:57:43,456 - INFO - Behandler første chunk
+2025-03-23 16:57:43,458 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3459 tegn
+2025-03-23 16:57:43,458 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+EH Aalborg - Team Esbjerg   24 - 37  (8 - 19)
+748330 / 15-3-2025 / Skansen Hal 1 / Kvi...
+2025-03-23 16:57:43,458 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:58:19,213 - INFO - AFC remote call 1 is done.
+2025-03-23 16:58:19,215 - INFO - Gemini API svar modtaget på 35.76 sekunder
+2025-03-23 16:58:19,215 - INFO - Modtog match_info data for kamp_id: 748330
+2025-03-23 16:58:19,217 - INFO - Modtog 54 match_events
+2025-03-23 16:58:19,217 - INFO - Korrigerede 3 hændelser med forkert placerede målvogtere
+2025-03-23 16:58:19,217 - INFO - Match info fundet: 748330 - EH Aalborg vs Team Esbjerg
+2025-03-23 16:58:19,217 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 16:58:19,217 - INFO - Behandler chunk 2 af 4 for match_748330_a.txt
+2025-03-23 16:58:19,219 - INFO - Behandler første chunk
+2025-03-23 16:58:19,220 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3301 tegn
+2025-03-23 16:58:19,220 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+EH Aalborg - Team Esbjerg   24 - 37  (8 - 19)
+748330 / 15-3-2025 / Skansen Hal 1 / Kvi...
+2025-03-23 16:58:19,220 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:58:52,846 - INFO - AFC remote call 1 is done.
+2025-03-23 16:58:52,848 - INFO - Gemini API svar modtaget på 33.63 sekunder
+2025-03-23 16:58:52,848 - INFO - Modtog match_info data for kamp_id: 748330
+2025-03-23 16:58:52,851 - INFO - Modtog 50 match_events
+2025-03-23 16:58:52,851 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 16:58:52,851 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 16:58:52,852 - INFO - Behandler chunk 3 af 4 for match_748330_a.txt
+2025-03-23 16:58:52,852 - INFO - Behandler første chunk
+2025-03-23 16:58:52,853 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3233 tegn
+2025-03-23 16:58:52,854 - DEBUG - Første 100 tegn af chunk: EHA Skud på stolpe
+1:e
+28
+Maiken SKOV
+16
+Amalie MILLING
+39.35 15-25 TES
+Mål
+PL
+18
+Mette TRANBORG
+16
+...
+2025-03-23 16:58:52,854 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:59:25,873 - INFO - AFC remote call 1 is done.
+2025-03-23 16:59:25,873 - INFO - Gemini API svar modtaget på 33.02 sekunder
+2025-03-23 16:59:25,873 - INFO - Modtog match_info data for kamp_id: 748330
+2025-03-23 16:59:25,875 - INFO - Modtog 49 match_events
+2025-03-23 16:59:25,875 - INFO - Tilføjet 49 hændelser fra chunk 3
+2025-03-23 16:59:25,875 - INFO - Behandler chunk 4 af 4 for match_748330_a.txt
+2025-03-23 16:59:25,876 - INFO - Behandler første chunk
+2025-03-23 16:59:25,877 - INFO - Sender anmodning til Gemini API - chunk størrelse: 886 tegn
+2025-03-23 16:59:25,877 - DEBUG - Første 100 tegn af chunk: EHA Fejlaflevering
+10
+Sofie LASSEN
+Bold erobret
+8
+Live RUSHFELDT DEILA
+57.20
+TES
+Skud reddet
+2:e
+38
+...
+2025-03-23 16:59:25,879 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:59:32,934 - INFO - AFC remote call 1 is done.
+2025-03-23 16:59:32,938 - INFO - Gemini API svar modtaget på 7.06 sekunder
+2025-03-23 16:59:32,939 - INFO - Modtog match_info data for kamp_id: 748330
+2025-03-23 16:59:32,940 - INFO - Modtog 8 match_events
+2025-03-23 16:59:32,940 - INFO - Tilføjet 8 hændelser fra chunk 4
+2025-03-23 16:59:32,940 - INFO - Opretter database: Kvindeliga-database\2024-2025\1532025_EH_Aalborg_vs_Team_Esbjerg.db
+2025-03-23 16:59:33,003 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1532025_EH_Aalborg_vs_Team_Esbjerg.db med 161 hændelser
+2025-03-23 16:59:33,009 - INFO - Behandling af match_748330_a.txt fuldført på 109.56 sekunder.
+2025-03-23 16:59:33,009 - INFO - Database gemt som: 1532025_EH_Aalborg_vs_Team_Esbjerg.db
+2025-03-23 16:59:33,009 - INFO - Total antal hændelser: 161
+2025-03-23 16:59:33,013 - INFO - Starter behandling af fil: match_748331_a.txt
+2025-03-23 16:59:33,013 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748331_a.txt
+2025-03-23 16:59:33,019 - INFO - Fil opdelt i 4 chunks
+2025-03-23 16:59:33,019 - INFO - Behandler chunk 1 af 4 for match_748331_a.txt
+2025-03-23 16:59:33,019 - INFO - Behandler første chunk
+2025-03-23 16:59:33,022 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3411 tegn
+2025-03-23 16:59:33,022 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+København Håndbold - EH Aalborg   42 - 32  (17 - 13)
+748331 / 21-3-2025 / Frederiksber...
+2025-03-23 16:59:33,023 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:00:11,336 - INFO - AFC remote call 1 is done.
+2025-03-23 17:00:11,336 - INFO - Gemini API svar modtaget på 38.31 sekunder
+2025-03-23 17:00:11,336 - INFO - Modtog match_info data for kamp_id: 748331
+2025-03-23 17:00:11,342 - INFO - Modtog 54 match_events
+2025-03-23 17:00:11,342 - INFO - Match info fundet: 748331 - København Håndbold vs EH Aalborg
+2025-03-23 17:00:11,342 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:00:11,343 - INFO - Behandler chunk 2 af 4 for match_748331_a.txt
+2025-03-23 17:00:11,343 - INFO - Behandler første chunk
+2025-03-23 17:00:11,345 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3181 tegn
+2025-03-23 17:00:11,345 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+København Håndbold - EH Aalborg   42 - 32  (17 - 13)
+748331 / 21-3-2025 / Frederiksber...
+2025-03-23 17:00:11,346 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:00:46,971 - INFO - AFC remote call 1 is done.
+2025-03-23 17:00:46,971 - INFO - Gemini API svar modtaget på 35.63 sekunder
+2025-03-23 17:00:46,978 - INFO - Modtog match_info data for kamp_id: 748331
+2025-03-23 17:00:46,978 - INFO - Modtog 50 match_events
+2025-03-23 17:00:46,978 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 17:00:46,978 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 17:00:46,978 - INFO - Behandler chunk 3 af 4 for match_748331_a.txt
+2025-03-23 17:00:46,978 - INFO - Behandler første chunk
+2025-03-23 17:00:46,981 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3360 tegn
+2025-03-23 17:00:46,981 - DEBUG - Første 100 tegn af chunk: 1:e
+10
+Pernille BRANDENBORG
+Assist
+7
+Emilie Ytting PEDERSEN
+16
+Johanne GRAUGAARD
+38.51
+EHA Tabt bold...
+2025-03-23 17:00:46,981 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:01:20,764 - INFO - AFC remote call 1 is done.
+2025-03-23 17:01:20,764 - INFO - Gemini API svar modtaget på 33.78 sekunder
+2025-03-23 17:01:20,764 - INFO - Modtog match_info data for kamp_id: 748331
+2025-03-23 17:01:20,764 - INFO - Modtog 50 match_events
+2025-03-23 17:01:20,764 - INFO - Tilføjet 50 hændelser fra chunk 3
+2025-03-23 17:01:20,764 - INFO - Behandler chunk 4 af 4 for match_748331_a.txt
+2025-03-23 17:01:20,764 - INFO - Behandler ikke-første chunk
+2025-03-23 17:01:20,773 - INFO - Sender anmodning til Gemini API - chunk størrelse: 406 tegn
+2025-03-23 17:01:20,774 - DEBUG - Første 100 tegn af chunk: PL
+15
+Emma NAVNE
+1
+Anine NORDAHL
+59.04 41-31 EHA Mål
+2:e
+23
+Silje BRØNS
+20
+Anne Christine BOSSEN
+59....
+2025-03-23 17:01:20,775 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:01:25,682 - INFO - AFC remote call 1 is done.
+2025-03-23 17:01:25,682 - INFO - Gemini API svar modtaget på 4.91 sekunder
+2025-03-23 17:01:25,682 - INFO - Opretter database: Kvindeliga-database\2024-2025\2132025_København_Håndbold_vs_EH_Aalborg.db
+2025-03-23 17:01:25,854 - INFO - Database oprettet: Kvindeliga-database\2024-2025\2132025_København_Håndbold_vs_EH_Aalborg.db med 154 hændelser
+2025-03-23 17:01:25,860 - INFO - Behandling af match_748331_a.txt fuldført på 112.85 sekunder.
+2025-03-23 17:01:25,860 - INFO - Database gemt som: 2132025_København_Håndbold_vs_EH_Aalborg.db
+2025-03-23 17:01:25,860 - INFO - Total antal hændelser: 154
+2025-03-23 17:01:25,868 - INFO - Starter behandling af fil: match_748332_a.txt
+2025-03-23 17:01:25,868 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748332_a.txt
+2025-03-23 17:01:25,873 - INFO - Fil opdelt i 3 chunks
+2025-03-23 17:01:25,873 - INFO - Behandler chunk 1 af 3 for match_748332_a.txt
+2025-03-23 17:01:25,873 - INFO - Behandler første chunk
+2025-03-23 17:01:25,873 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3725 tegn
+2025-03-23 17:01:25,873 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ringkøbing Håndbold - Aarhus Håndbold Kvinder   31 - 29  (17 - 13)
+748332 / 19-3-2025 ...
+2025-03-23 17:01:25,876 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:02:04,554 - INFO - AFC remote call 1 is done.
+2025-03-23 17:02:04,554 - INFO - Gemini API svar modtaget på 38.68 sekunder
+2025-03-23 17:02:04,560 - INFO - Modtog match_info data for kamp_id: 748332
+2025-03-23 17:02:04,560 - INFO - Modtog 54 match_events
+2025-03-23 17:02:04,560 - INFO - Match info fundet: 748332 - Ringkøbing Håndbold vs Aarhus Håndbold Kvinder
+2025-03-23 17:02:04,560 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:02:04,560 - INFO - Behandler chunk 2 af 3 for match_748332_a.txt
+2025-03-23 17:02:04,560 - INFO - Behandler første chunk
+2025-03-23 17:02:04,560 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3664 tegn
+2025-03-23 17:02:04,560 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ringkøbing Håndbold - Aarhus Håndbold Kvinder   31 - 29  (17 - 13)
+748332 / 19-3-2025 ...
+2025-03-23 17:02:04,560 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:02:40,948 - INFO - AFC remote call 1 is done.
+2025-03-23 17:02:40,948 - INFO - Gemini API svar modtaget på 36.39 sekunder
+2025-03-23 17:02:40,950 - INFO - Modtog match_info data for kamp_id: 748332
+2025-03-23 17:02:40,950 - INFO - Modtog 49 match_events
+2025-03-23 17:02:40,950 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-23 17:02:40,950 - INFO - Behandler chunk 3 af 3 for match_748332_a.txt
+2025-03-23 17:02:40,953 - INFO - Behandler første chunk
+2025-03-23 17:02:40,986 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2735 tegn
+2025-03-23 17:02:40,986 - DEBUG - Første 100 tegn af chunk: AHB Skud reddet
+Gbr
+8
+Freja GANDRUP ERNST
+Retur
+0
+16
+Stephanie ANDERSEN
+44.32 26-22 AHB Mål
+ST
+4
+Kat...
+2025-03-23 17:02:40,988 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:03:07,678 - INFO - AFC remote call 1 is done.
+2025-03-23 17:03:07,678 - INFO - Gemini API svar modtaget på 26.69 sekunder
+2025-03-23 17:03:07,678 - INFO - Modtog match_info data for kamp_id: 748332
+2025-03-23 17:03:07,678 - INFO - Modtog 39 match_events
+2025-03-23 17:03:07,678 - INFO - Tilføjet 39 hændelser fra chunk 3
+2025-03-23 17:03:07,685 - INFO - Opretter database: Kvindeliga-database\2024-2025\1932025_Ringkøbing_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-23 17:03:07,745 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1932025_Ringkøbing_Håndbold_vs_Aarhus_Håndbold_Kvinder.db med 142 hændelser
+2025-03-23 17:03:07,750 - INFO - Behandling af match_748332_a.txt fuldført på 101.88 sekunder.
+2025-03-23 17:03:07,750 - INFO - Database gemt som: 1932025_Ringkøbing_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-23 17:03:07,750 - INFO - Total antal hændelser: 142
+2025-03-23 17:03:07,758 - INFO - Starter behandling af fil: match_748333_a.txt
+2025-03-23 17:03:07,758 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748333_a.txt
+2025-03-23 17:03:07,758 - INFO - Fil opdelt i 4 chunks
+2025-03-23 17:03:07,758 - INFO - Behandler chunk 1 af 4 for match_748333_a.txt
+2025-03-23 17:03:07,758 - INFO - Behandler første chunk
+2025-03-23 17:03:07,758 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3199 tegn
+2025-03-23 17:03:07,766 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Odense Håndbold - Silkeborg-Voel KFUM   34 - 25  (16 - 14)
+748333 / 18-3-2025 / Sydban...
+2025-03-23 17:03:07,766 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:03:43,618 - INFO - AFC remote call 1 is done.
+2025-03-23 17:03:43,619 - INFO - Gemini API svar modtaget på 35.85 sekunder
+2025-03-23 17:03:43,620 - INFO - Modtog match_info data for kamp_id: 748333
+2025-03-23 17:03:43,621 - INFO - Modtog 54 match_events
+2025-03-23 17:03:43,621 - INFO - Match info fundet: 748333 - Odense Håndbold vs Silkeborg-Voel KFUM
+2025-03-23 17:03:43,621 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:03:43,622 - INFO - Behandler chunk 2 af 4 for match_748333_a.txt
+2025-03-23 17:03:43,622 - INFO - Behandler første chunk
+2025-03-23 17:03:43,623 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3184 tegn
+2025-03-23 17:03:43,623 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Odense Håndbold - Silkeborg-Voel KFUM   34 - 25  (16 - 14)
+748333 / 18-3-2025 / Sydban...
+2025-03-23 17:03:43,625 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:04:19,251 - INFO - AFC remote call 1 is done.
+2025-03-23 17:04:19,251 - INFO - Gemini API svar modtaget på 35.63 sekunder
+2025-03-23 17:04:19,253 - INFO - Modtog match_info data for kamp_id: 748333
+2025-03-23 17:04:19,253 - INFO - Modtog 49 match_events
+2025-03-23 17:04:19,253 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-23 17:04:19,253 - INFO - Behandler chunk 3 af 4 for match_748333_a.txt
+2025-03-23 17:04:19,256 - INFO - Behandler første chunk
+2025-03-23 17:04:19,256 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3385 tegn
+2025-03-23 17:04:19,256 - DEBUG - Første 100 tegn af chunk: ODE Skud reddet
+Gbr 32
+Mie HØJLUND
+Retur
+0
+22
+Stine BONDE
+40.47 25-18 ODE Mål
+Gbr
+8
+Helene FAUSKE
+22...
+2025-03-23 17:04:19,256 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:04:52,126 - INFO - AFC remote call 1 is done.
+2025-03-23 17:04:52,126 - INFO - Gemini API svar modtaget på 32.87 sekunder
+2025-03-23 17:04:52,128 - INFO - Modtog match_info data for kamp_id: 748333
+2025-03-23 17:04:52,128 - INFO - Modtog 48 match_events
+2025-03-23 17:04:52,128 - INFO - Tilføjet 48 hændelser fra chunk 3
+2025-03-23 17:04:52,128 - INFO - Behandler chunk 4 af 4 for match_748333_a.txt
+2025-03-23 17:04:52,128 - INFO - Behandler ikke-første chunk
+2025-03-23 17:04:52,131 - INFO - Sender anmodning til Gemini API - chunk størrelse: 76 tegn
+2025-03-23 17:04:52,131 - DEBUG - Første 100 tegn af chunk: Kamp slut
+Software: Jilsén System AB. Logget af: Emilie Kingo, Anders Thoke,...
+2025-03-23 17:04:52,131 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:04:53,655 - INFO - AFC remote call 1 is done.
+2025-03-23 17:04:53,658 - INFO - Gemini API svar modtaget på 1.53 sekunder
+2025-03-23 17:04:53,658 - INFO - Modtog 0 match_events
+2025-03-23 17:04:53,659 - INFO - Opretter database: Kvindeliga-database\2024-2025\1832025_Odense_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-23 17:04:53,688 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1832025_Odense_Håndbold_vs_Silkeborg-Voel_KFUM.db med 151 hændelser
+2025-03-23 17:04:53,694 - INFO - Behandling af match_748333_a.txt fuldført på 105.94 sekunder.
+2025-03-23 17:04:53,695 - INFO - Database gemt som: 1832025_Odense_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-23 17:04:53,695 - INFO - Total antal hændelser: 151
+2025-03-23 17:04:53,702 - INFO - Starter behandling af fil: match_748334_a.txt
+2025-03-23 17:04:53,702 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748334_a.txt
+2025-03-23 17:04:53,702 - INFO - Fil opdelt i 3 chunks
+2025-03-23 17:04:53,702 - INFO - Behandler chunk 1 af 3 for match_748334_a.txt
+2025-03-23 17:04:53,702 - INFO - Behandler første chunk
+2025-03-23 17:04:53,708 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3494 tegn
+2025-03-23 17:04:53,708 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Nykøbing F. Håndbold - Viborg HK   31 - 26  (18 - 16)
+748334 / 18-3-2025 / SPAR NORD B...
+2025-03-23 17:04:53,709 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:05:29,908 - INFO - AFC remote call 1 is done.
+2025-03-23 17:05:29,908 - INFO - Gemini API svar modtaget på 36.20 sekunder
+2025-03-23 17:05:29,911 - INFO - Modtog match_info data for kamp_id: 748334
+2025-03-23 17:05:29,911 - INFO - Modtog 54 match_events
+2025-03-23 17:05:29,911 - INFO - Match info fundet: 748334 - Nykøbing F. Håndbold vs Viborg HK
+2025-03-23 17:05:29,911 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:05:29,911 - INFO - Behandler chunk 2 af 3 for match_748334_a.txt
+2025-03-23 17:05:29,913 - INFO - Behandler første chunk
+2025-03-23 17:05:29,914 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3319 tegn
+2025-03-23 17:05:29,914 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Nykøbing F. Håndbold - Viborg HK   31 - 26  (18 - 16)
+748334 / 18-3-2025 / SPAR NORD B...
+2025-03-23 17:05:29,914 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:06:03,700 - INFO - AFC remote call 1 is done.
+2025-03-23 17:06:03,700 - INFO - Gemini API svar modtaget på 33.79 sekunder
+2025-03-23 17:06:03,703 - INFO - Modtog match_info data for kamp_id: 748334
+2025-03-23 17:06:03,703 - INFO - Modtog 50 match_events
+2025-03-23 17:06:03,703 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 17:06:03,703 - INFO - Behandler chunk 3 af 3 for match_748334_a.txt
+2025-03-23 17:06:03,705 - INFO - Behandler første chunk
+2025-03-23 17:06:03,706 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2019 tegn
+2025-03-23 17:06:03,706 - DEBUG - Første 100 tegn af chunk: ST
+19
+Sara HALD
+Assist
+62
+Louise SØNDERGAARD
+32
+Cecilie GREVE
+49.38
+NFH Time out
+49.51 24-23 NFH Mål...
+2025-03-23 17:06:03,706 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:06:25,206 - INFO - AFC remote call 1 is done.
+2025-03-23 17:06:25,206 - INFO - Gemini API svar modtaget på 21.50 sekunder
+2025-03-23 17:06:25,209 - INFO - Modtog match_info data for kamp_id: 748334
+2025-03-23 17:06:25,209 - INFO - Modtog 29 match_events
+2025-03-23 17:06:25,210 - INFO - Tilføjet 29 hændelser fra chunk 3
+2025-03-23 17:06:25,210 - INFO - Opretter database: Kvindeliga-database\2024-2025\1832025_Nykøbing_F._Håndbold_vs_Viborg_HK.db
+2025-03-23 17:06:25,274 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1832025_Nykøbing_F._Håndbold_vs_Viborg_HK.db med 133 hændelser
+2025-03-23 17:06:25,279 - INFO - Behandling af match_748334_a.txt fuldført på 91.58 sekunder.
+2025-03-23 17:06:25,279 - INFO - Database gemt som: 1832025_Nykøbing_F._Håndbold_vs_Viborg_HK.db
+2025-03-23 17:06:25,281 - INFO - Total antal hændelser: 133
+2025-03-23 17:06:25,284 - INFO - Starter behandling af fil: match_748335_a.txt
+2025-03-23 17:06:25,284 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748335_a.txt
+2025-03-23 17:06:25,290 - INFO - Fil opdelt i 3 chunks
+2025-03-23 17:06:25,292 - INFO - Behandler chunk 1 af 3 for match_748335_a.txt
+2025-03-23 17:06:25,292 - INFO - Behandler første chunk
+2025-03-23 17:06:25,293 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3475 tegn
+2025-03-23 17:06:25,293 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Horsens Håndbold Elite - Bjerringbro FH   28 - 21  (11 - 9)
+748335 / 20-3-2025 / Forum...
+2025-03-23 17:06:25,295 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:07:03,907 - INFO - AFC remote call 1 is done.
+2025-03-23 17:07:03,907 - INFO - Gemini API svar modtaget på 38.61 sekunder
+2025-03-23 17:07:03,916 - INFO - Modtog match_info data for kamp_id: 748335
+2025-03-23 17:07:03,916 - INFO - Modtog 54 match_events
+2025-03-23 17:07:03,917 - INFO - Match info fundet: 748335 - Horsens Håndbold Elite vs Bjerringbro FH
+2025-03-23 17:07:03,917 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:07:03,917 - INFO - Behandler chunk 2 af 3 for match_748335_a.txt
+2025-03-23 17:07:03,917 - INFO - Behandler første chunk
+2025-03-23 17:07:03,920 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3174 tegn
+2025-03-23 17:07:03,920 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Horsens Håndbold Elite - Bjerringbro FH   28 - 21  (11 - 9)
+748335 / 20-3-2025 / Forum...
+2025-03-23 17:07:03,920 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:07:37,397 - INFO - AFC remote call 1 is done.
+2025-03-23 17:07:37,397 - INFO - Gemini API svar modtaget på 33.48 sekunder
+2025-03-23 17:07:37,397 - INFO - Modtog match_info data for kamp_id: 748335
+2025-03-23 17:07:37,400 - INFO - Modtog 49 match_events
+2025-03-23 17:07:37,400 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-23 17:07:37,400 - INFO - Behandler chunk 3 af 3 for match_748335_a.txt
+2025-03-23 17:07:37,401 - INFO - Behandler første chunk
+2025-03-23 17:07:37,402 - INFO - Sender anmodning til Gemini API - chunk størrelse: 1800 tegn
+2025-03-23 17:07:37,402 - DEBUG - Første 100 tegn af chunk: HHE Fejlaflevering
+39
+Melanie BAK
+49.25 22-17 BFH Mål
+1:e
+44
+Louise HALD
+Assist
+72
+Line FRANDSEN
+0
+5...
+2025-03-23 17:07:37,402 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:07:55,593 - INFO - AFC remote call 1 is done.
+2025-03-23 17:07:55,593 - INFO - Gemini API svar modtaget på 18.19 sekunder
+2025-03-23 17:07:55,595 - INFO - Modtog match_info data for kamp_id: 748335
+2025-03-23 17:07:55,595 - INFO - Modtog 24 match_events
+2025-03-23 17:07:55,595 - INFO - Tilføjet 24 hændelser fra chunk 3
+2025-03-23 17:07:55,597 - INFO - Opretter database: Kvindeliga-database\2024-2025\2032025_Horsens_Håndbold_Elite_vs_Bjerringbro_FH.db
+2025-03-23 17:07:55,664 - INFO - Database oprettet: Kvindeliga-database\2024-2025\2032025_Horsens_Håndbold_Elite_vs_Bjerringbro_FH.db med 127 hændelser
+2025-03-23 17:07:55,670 - INFO - Behandling af match_748335_a.txt fuldført på 90.39 sekunder.
+2025-03-23 17:07:55,670 - INFO - Database gemt som: 2032025_Horsens_Håndbold_Elite_vs_Bjerringbro_FH.db
+2025-03-23 17:07:55,672 - INFO - Total antal hændelser: 127
+2025-03-23 17:07:55,678 - INFO - Starter behandling af fil: match_748336_a.txt
+2025-03-23 17:07:55,680 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748336_a.txt
+2025-03-23 17:07:55,685 - INFO - Fil opdelt i 3 chunks
+2025-03-23 17:07:55,685 - INFO - Behandler chunk 1 af 3 for match_748336_a.txt
+2025-03-23 17:07:55,686 - INFO - Behandler første chunk
+2025-03-23 17:07:55,686 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3678 tegn
+2025-03-23 17:07:55,689 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Skanderborg Håndbold - Ikast Håndbold   34 - 36  (20 - 21)
+748336 / 19-3-2025 / Fælled...
+2025-03-23 17:07:55,690 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:08:35,151 - INFO - AFC remote call 1 is done.
+2025-03-23 17:08:35,151 - INFO - Gemini API svar modtaget på 39.46 sekunder
+2025-03-23 17:08:35,153 - INFO - Modtog match_info data for kamp_id: 748336
+2025-03-23 17:08:35,153 - INFO - Modtog 54 match_events
+2025-03-23 17:08:35,154 - INFO - Match info fundet: 748336 - Skanderborg Håndbold vs Ikast Håndbold
+2025-03-23 17:08:35,155 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:08:35,155 - INFO - Behandler chunk 2 af 3 for match_748336_a.txt
+2025-03-23 17:08:35,155 - INFO - Behandler første chunk
+2025-03-23 17:08:35,156 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3290 tegn
+2025-03-23 17:08:35,156 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Skanderborg Håndbold - Ikast Håndbold   34 - 36  (20 - 21)
+748336 / 19-3-2025 / Fælled...
+2025-03-23 17:08:35,157 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:09:11,158 - INFO - AFC remote call 1 is done.
+2025-03-23 17:09:11,158 - INFO - Gemini API svar modtaget på 36.00 sekunder
+2025-03-23 17:09:11,160 - INFO - Modtog match_info data for kamp_id: 748336
+2025-03-23 17:09:11,160 - INFO - Modtog 49 match_events
+2025-03-23 17:09:11,162 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-23 17:09:11,162 - INFO - Behandler chunk 3 af 3 for match_748336_a.txt
+2025-03-23 17:09:11,162 - INFO - Behandler første chunk
+2025-03-23 17:09:11,165 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2496 tegn
+2025-03-23 17:09:11,165 - DEBUG - Første 100 tegn af chunk: IKA
+Fejlaflevering
+14
+Emma LINDQVIST
+Bold erobret 44
+Nicoline LAURITSEN
+46.07
+SKB Skud reddet
+ST
+26
+...
+2025-03-23 17:09:11,167 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:09:34,133 - INFO - AFC remote call 1 is done.
+2025-03-23 17:09:34,135 - INFO - Gemini API svar modtaget på 22.97 sekunder
+2025-03-23 17:09:34,136 - INFO - Modtog match_info data for kamp_id: 748336
+2025-03-23 17:09:34,137 - INFO - Modtog 32 match_events
+2025-03-23 17:09:34,137 - INFO - Korrigerede 3 hændelser med forkert placerede målvogtere
+2025-03-23 17:09:34,137 - INFO - Tilføjet 32 hændelser fra chunk 3
+2025-03-23 17:09:34,138 - INFO - Opretter database: Kvindeliga-database\2024-2025\1932025_Skanderborg_Håndbold_vs_Ikast_Håndbold.db
+2025-03-23 17:09:34,169 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1932025_Skanderborg_Håndbold_vs_Ikast_Håndbold.db med 135 hændelser
+2025-03-23 17:09:34,176 - INFO - Behandling af match_748336_a.txt fuldført på 98.50 sekunder.
+2025-03-23 17:09:34,176 - INFO - Database gemt som: 1932025_Skanderborg_Håndbold_vs_Ikast_Håndbold.db
+2025-03-23 17:09:34,176 - INFO - Total antal hændelser: 135
+2025-03-23 17:09:34,181 - INFO - Starter behandling af fil: match_748337_a.txt
+2025-03-23 17:09:34,181 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748337_a.txt
+2025-03-23 17:09:34,188 - INFO - Fil opdelt i 4 chunks
+2025-03-23 17:09:34,188 - INFO - Behandler chunk 1 af 4 for match_748337_a.txt
+2025-03-23 17:09:34,189 - INFO - Behandler første chunk
+2025-03-23 17:09:34,189 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3243 tegn
+2025-03-23 17:09:34,190 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Team Esbjerg - SønderjyskE Kvindehåndbold   43 - 26  (22 - 12)
+748337 / 19-3-2025 / Bl...
+2025-03-23 17:09:34,192 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:10:09,771 - INFO - AFC remote call 1 is done.
+2025-03-23 17:10:09,771 - INFO - Gemini API svar modtaget på 35.58 sekunder
+2025-03-23 17:10:09,775 - INFO - Modtog match_info data for kamp_id: 748337
+2025-03-23 17:10:09,775 - INFO - Modtog 54 match_events
+2025-03-23 17:10:09,775 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 17:10:09,775 - INFO - Match info fundet: 748337 - Team Esbjerg vs SønderjyskE Kvindehåndbold
+2025-03-23 17:10:09,777 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:10:09,777 - INFO - Behandler chunk 2 af 4 for match_748337_a.txt
+2025-03-23 17:10:09,777 - INFO - Behandler første chunk
+2025-03-23 17:10:09,778 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3159 tegn
+2025-03-23 17:10:09,778 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Team Esbjerg - SønderjyskE Kvindehåndbold   43 - 26  (22 - 12)
+748337 / 19-3-2025 / Bl...
+2025-03-23 17:10:09,778 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:10:43,865 - INFO - AFC remote call 1 is done.
+2025-03-23 17:10:43,873 - INFO - Gemini API svar modtaget på 34.09 sekunder
+2025-03-23 17:10:43,873 - INFO - Modtog match_info data for kamp_id: 748337
+2025-03-23 17:10:43,873 - INFO - Modtog 50 match_events
+2025-03-23 17:10:43,873 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 17:10:43,873 - INFO - Behandler chunk 3 af 4 for match_748337_a.txt
+2025-03-23 17:10:43,873 - INFO - Behandler første chunk
+2025-03-23 17:10:43,873 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3326 tegn
+2025-03-23 17:10:43,873 - DEBUG - Første 100 tegn af chunk: TES
+Skud reddet
+PL
+4
+Michala MØLLER
+12
+Stine BROLØS
+40.12
+SJE
+Skud blokeret
+PL
+7
+Melissa PETRÉN
+Blok...
+2025-03-23 17:10:43,873 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:11:17,168 - INFO - AFC remote call 1 is done.
+2025-03-23 17:11:17,169 - INFO - Gemini API svar modtaget på 33.30 sekunder
+2025-03-23 17:11:17,169 - INFO - Modtog match_info data for kamp_id: 748337
+2025-03-23 17:11:17,169 - INFO - Modtog 48 match_events
+2025-03-23 17:11:17,169 - INFO - Tilføjet 48 hændelser fra chunk 3
+2025-03-23 17:11:17,169 - INFO - Behandler chunk 4 af 4 for match_748337_a.txt
+2025-03-23 17:11:17,169 - INFO - Behandler ikke-første chunk
+2025-03-23 17:11:17,169 - INFO - Sender anmodning til Gemini API - chunk størrelse: 64 tegn
+2025-03-23 17:11:17,169 - DEBUG - Første 100 tegn af chunk: Kamp slut
+Software: Jilsén System AB. Logget af: Daniel, Hansen,...
+2025-03-23 17:11:17,175 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:11:19,501 - INFO - AFC remote call 1 is done.
+2025-03-23 17:11:19,501 - INFO - Gemini API svar modtaget på 2.33 sekunder
+2025-03-23 17:11:19,507 - INFO - Modtog 0 match_events
+2025-03-23 17:11:19,507 - INFO - Opretter database: Kvindeliga-database\2024-2025\1932025_Team_Esbjerg_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-23 17:11:19,575 - INFO - Database oprettet: Kvindeliga-database\2024-2025\1932025_Team_Esbjerg_vs_SønderjyskE_Kvindehåndbold.db med 152 hændelser
+2025-03-23 17:11:19,580 - INFO - Behandling af match_748337_a.txt fuldført på 105.40 sekunder.
+2025-03-23 17:11:19,580 - INFO - Database gemt som: 1932025_Team_Esbjerg_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-23 17:11:19,580 - INFO - Total antal hændelser: 152
+2025-03-23 17:11:19,590 - INFO - ==== Konverteringsproces afsluttet ====
+2025-03-23 17:11:19,590 - INFO - Behandlet 14 filer: 14 succesfulde, 0 fejlede
+2025-03-23 17:11:19,591 - INFO - Sprunget over 147 allerede behandlede filer
+2025-03-23 17:15:39,461 - INFO - ==== Starter konverteringsproces ====
+2025-03-23 17:15:39,468 - INFO - Fandt 161 tekstfiler i Kvindeliga-txt-tabel\2024-2025
+2025-03-23 17:15:39,513 - INFO - Fandt 0 nye txt-filer der skal konverteres
+2025-03-23 17:15:39,513 - INFO - Fandt 0 txt-filer der skal behandles
+2025-03-23 17:15:39,515 - INFO - ==== Konverteringsproces afsluttet ====
+2025-03-23 17:15:39,515 - INFO - Behandlet 0 filer: 0 succesfulde, 0 fejlede
+2025-03-23 17:15:39,515 - INFO - Sprunget over 161 allerede behandlede filer
+2025-03-23 17:17:46,387 - INFO - ==== Starter konverteringsproces ====
+2025-03-23 17:17:46,391 - INFO - Fandt 147 tekstfiler i Herreliga-txt-tabel\2024-2025
+2025-03-23 17:17:46,417 - INFO - Fandt 0 nye txt-filer der skal konverteres
+2025-03-23 17:17:46,419 - INFO - Fandt 0 txt-filer der skal behandles
+2025-03-23 17:17:46,422 - INFO - ==== Konverteringsproces afsluttet ====
+2025-03-23 17:17:46,422 - INFO - Behandlet 0 filer: 0 succesfulde, 0 fejlede
+2025-03-23 17:17:46,422 - INFO - Sprunget over 147 allerede behandlede filer
+2025-03-23 17:22:35,300 - INFO - ==== Starter konverteringsproces ====
+2025-03-23 17:22:35,320 - INFO - Fandt 153 tekstfiler i Herreliga-txt-tabel\2024-2025
+2025-03-23 17:22:35,342 - INFO - Tjekker om match_748778_a.txt allerede er behandlet...
+2025-03-23 17:22:35,342 - INFO - Fil match_748778_a.txt med kamp_id 748778 er ikke tidligere behandlet.
+2025-03-23 17:22:35,344 - INFO - Tjekker om match_748779_a.txt allerede er behandlet...
+2025-03-23 17:22:35,344 - INFO - Fil match_748779_a.txt med kamp_id 748779 er ikke tidligere behandlet.
+2025-03-23 17:22:35,344 - INFO - Tjekker om match_748780_a.txt allerede er behandlet...
+2025-03-23 17:22:35,346 - INFO - Fil match_748780_a.txt med kamp_id 748780 er ikke tidligere behandlet.
+2025-03-23 17:22:35,346 - INFO - Tjekker om match_748782_a.txt allerede er behandlet...
+2025-03-23 17:22:35,346 - INFO - Fil match_748782_a.txt med kamp_id 748782 er ikke tidligere behandlet.
+2025-03-23 17:22:35,346 - INFO - Tjekker om match_748783_a.txt allerede er behandlet...
+2025-03-23 17:22:35,348 - INFO - Fil match_748783_a.txt med kamp_id 748783 er ikke tidligere behandlet.
+2025-03-23 17:22:35,348 - INFO - Tjekker om match_748784_a.txt allerede er behandlet...
+2025-03-23 17:22:35,348 - INFO - Fil match_748784_a.txt med kamp_id 748784 er ikke tidligere behandlet.
+2025-03-23 17:22:35,348 - INFO - Fandt 6 nye txt-filer der skal konverteres
+2025-03-23 17:22:35,350 - INFO - Fandt 6 txt-filer der skal behandles
+2025-03-23 17:22:35,352 - INFO - Starter behandling af fil: match_748778_a.txt
+2025-03-23 17:22:35,352 - INFO - Opdeler fil i chunks: Herreliga-txt-tabel\2024-2025\match_748778_a.txt
+2025-03-23 17:22:35,354 - INFO - Fil opdelt i 3 chunks
+2025-03-23 17:22:35,354 - INFO - Behandler chunk 1 af 3 for match_748778_a.txt
+2025-03-23 17:22:35,354 - INFO - Behandler første chunk
+2025-03-23 17:22:35,354 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3739 tegn
+2025-03-23 17:22:35,354 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Bjerringbro-Silkeborg - Ribe-Esbjerg HH   33 - 32  (22 - 17)
+748778 / 20-3-2025 / JYSK...
+2025-03-23 17:22:35,354 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:23:12,760 - INFO - AFC remote call 1 is done.
+2025-03-23 17:23:12,762 - INFO - Gemini API svar modtaget på 37.41 sekunder
+2025-03-23 17:23:12,763 - INFO - Modtog match_info data for kamp_id: 748778
+2025-03-23 17:23:12,764 - INFO - Modtog 54 match_events
+2025-03-23 17:23:12,764 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 17:23:12,765 - INFO - Match info fundet: 748778 - Bjerringbro-Silkeborg vs Ribe-Esbjerg HH
+2025-03-23 17:23:12,765 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:23:12,765 - INFO - Behandler chunk 2 af 3 for match_748778_a.txt
+2025-03-23 17:23:12,766 - INFO - Behandler første chunk
+2025-03-23 17:23:12,767 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3224 tegn
+2025-03-23 17:23:12,768 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Bjerringbro-Silkeborg - Ribe-Esbjerg HH   33 - 32  (22 - 17)
+748778 / 20-3-2025 / JYSK...
+2025-03-23 17:23:12,769 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:23:49,702 - INFO - AFC remote call 1 is done.
+2025-03-23 17:23:49,704 - INFO - Gemini API svar modtaget på 36.93 sekunder
+2025-03-23 17:23:49,704 - INFO - Modtog match_info data for kamp_id: 748778
+2025-03-23 17:23:49,706 - INFO - Modtog 50 match_events
+2025-03-23 17:23:49,706 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 17:23:49,706 - INFO - Behandler chunk 3 af 3 for match_748778_a.txt
+2025-03-23 17:23:49,707 - INFO - Behandler første chunk
+2025-03-23 17:23:49,709 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2649 tegn
+2025-03-23 17:23:49,709 - DEBUG - Første 100 tegn af chunk: REH Skud blokeret
+PL
+4
+Elvar ASGEIRSSON
+Blok af (ret)
+14
+Alexander LYNGGAARD
+42.51 25-23 REH Mål
+PL
+...
+2025-03-23 17:23:49,711 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:24:15,438 - INFO - AFC remote call 1 is done.
+2025-03-23 17:24:15,439 - INFO - Gemini API svar modtaget på 25.73 sekunder
+2025-03-23 17:24:15,441 - INFO - Modtog match_info data for kamp_id: 748778
+2025-03-23 17:24:15,441 - INFO - Modtog 37 match_events
+2025-03-23 17:24:15,441 - INFO - Tilføjet 37 hændelser fra chunk 3
+2025-03-23 17:24:15,441 - INFO - Opretter database: Herreliga-database\2024-2025\2032025_Bjerringbro-Silkeborg_vs_Ribe-Esbjerg_HH.db
+2025-03-23 17:24:15,509 - INFO - Database oprettet: Herreliga-database\2024-2025\2032025_Bjerringbro-Silkeborg_vs_Ribe-Esbjerg_HH.db med 141 hændelser
+2025-03-23 17:24:15,515 - INFO - Behandling af match_748778_a.txt fuldført på 100.16 sekunder.
+2025-03-23 17:24:15,516 - INFO - Database gemt som: 2032025_Bjerringbro-Silkeborg_vs_Ribe-Esbjerg_HH.db
+2025-03-23 17:24:15,516 - INFO - Total antal hændelser: 141
+2025-03-23 17:24:15,523 - INFO - Starter behandling af fil: match_748779_a.txt
+2025-03-23 17:24:15,523 - INFO - Opdeler fil i chunks: Herreliga-txt-tabel\2024-2025\match_748779_a.txt
+2025-03-23 17:24:15,526 - INFO - Fil opdelt i 3 chunks
+2025-03-23 17:24:15,528 - INFO - Behandler chunk 1 af 3 for match_748779_a.txt
+2025-03-23 17:24:15,528 - INFO - Behandler første chunk
+2025-03-23 17:24:15,530 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3518 tegn
+2025-03-23 17:24:15,530 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+GOG - Nordsjælland Håndbold   35 - 32  (17 - 13)
+748779 / 22-3-2025 / Arena Svendborg ...
+2025-03-23 17:24:15,532 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:24:51,757 - INFO - AFC remote call 1 is done.
+2025-03-23 17:24:51,757 - INFO - Gemini API svar modtaget på 36.23 sekunder
+2025-03-23 17:24:51,760 - INFO - Modtog match_info data for kamp_id: 748779
+2025-03-23 17:24:51,760 - INFO - Modtog 54 match_events
+2025-03-23 17:24:51,760 - INFO - Match info fundet: 748779 - GOG vs Nordsjælland Håndbold
+2025-03-23 17:24:51,760 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:24:51,760 - INFO - Behandler chunk 2 af 3 for match_748779_a.txt
+2025-03-23 17:24:51,760 - INFO - Behandler første chunk
+2025-03-23 17:24:51,764 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3305 tegn
+2025-03-23 17:24:51,764 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+GOG - Nordsjælland Håndbold   35 - 32  (17 - 13)
+748779 / 22-3-2025 / Arena Svendborg ...
+2025-03-23 17:24:51,765 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:25:25,691 - INFO - AFC remote call 1 is done.
+2025-03-23 17:25:25,692 - INFO - Gemini API svar modtaget på 33.93 sekunder
+2025-03-23 17:25:25,693 - INFO - Modtog match_info data for kamp_id: 748779
+2025-03-23 17:25:25,693 - INFO - Modtog 50 match_events
+2025-03-23 17:25:25,693 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 17:25:25,693 - INFO - Behandler chunk 3 af 3 for match_748779_a.txt
+2025-03-23 17:25:25,693 - INFO - Behandler første chunk
+2025-03-23 17:25:25,693 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2831 tegn
+2025-03-23 17:25:25,693 - DEBUG - Første 100 tegn af chunk: GOG Time out
+43.49
+GOG Tilkendt straffe
+8
+Frederik TILSTED
+Forårs. str.
+11
+Jonas RAUNDAHL
+44.22 23-2...
+2025-03-23 17:25:25,693 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:25:55,652 - INFO - AFC remote call 1 is done.
+2025-03-23 17:25:55,652 - INFO - Gemini API svar modtaget på 29.96 sekunder
+2025-03-23 17:25:55,652 - INFO - Modtog match_info data for kamp_id: 748779
+2025-03-23 17:25:55,652 - INFO - Modtog 39 match_events
+2025-03-23 17:25:55,652 - INFO - Tilføjet 39 hændelser fra chunk 3
+2025-03-23 17:25:55,652 - INFO - Opretter database: Herreliga-database\2024-2025\2232025_GOG_vs_Nordsjælland_Håndbold.db
+2025-03-23 17:25:55,725 - INFO - Database oprettet: Herreliga-database\2024-2025\2232025_GOG_vs_Nordsjælland_Håndbold.db med 143 hændelser
+2025-03-23 17:25:55,729 - INFO - Behandling af match_748779_a.txt fuldført på 100.21 sekunder.
+2025-03-23 17:25:55,732 - INFO - Database gemt som: 2232025_GOG_vs_Nordsjælland_Håndbold.db
+2025-03-23 17:25:55,732 - INFO - Total antal hændelser: 143
+2025-03-23 17:25:55,740 - INFO - Starter behandling af fil: match_748780_a.txt
+2025-03-23 17:25:55,740 - INFO - Opdeler fil i chunks: Herreliga-txt-tabel\2024-2025\match_748780_a.txt
+2025-03-23 17:25:55,742 - INFO - Fil opdelt i 3 chunks
+2025-03-23 17:25:55,744 - INFO - Behandler chunk 1 af 3 for match_748780_a.txt
+2025-03-23 17:25:55,744 - INFO - Behandler første chunk
+2025-03-23 17:25:55,744 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3571 tegn
+2025-03-23 17:25:55,744 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+SAH – Skanderborg AGF - Sønderjyske Herrehåndbold   26 - 26  (13 - 11)
+748780 / 20-3-2...
+2025-03-23 17:25:55,748 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:26:32,209 - INFO - AFC remote call 1 is done.
+2025-03-23 17:26:32,209 - INFO - Gemini API svar modtaget på 36.46 sekunder
+2025-03-23 17:26:32,209 - INFO - Modtog match_info data for kamp_id: 748780
+2025-03-23 17:26:32,209 - INFO - Modtog 54 match_events
+2025-03-23 17:26:32,209 - INFO - Match info fundet: 748780 - Skanderborg AGF vs Sønderjyske Herrehåndbold
+2025-03-23 17:26:32,209 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:26:32,209 - INFO - Behandler chunk 2 af 3 for match_748780_a.txt
+2025-03-23 17:26:32,209 - INFO - Behandler første chunk
+2025-03-23 17:26:32,209 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3451 tegn
+2025-03-23 17:26:32,209 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+SAH – Skanderborg AGF - Sønderjyske Herrehåndbold   26 - 26  (13 - 11)
+748780 / 20-3-2...
+2025-03-23 17:26:32,217 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:27:06,879 - INFO - AFC remote call 1 is done.
+2025-03-23 17:27:06,881 - INFO - Gemini API svar modtaget på 34.67 sekunder
+2025-03-23 17:27:06,882 - INFO - Modtog match_info data for kamp_id: 748780
+2025-03-23 17:27:06,882 - INFO - Modtog 50 match_events
+2025-03-23 17:27:06,885 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 17:27:06,885 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 17:27:06,885 - INFO - Behandler chunk 3 af 3 for match_748780_a.txt
+2025-03-23 17:27:06,885 - INFO - Behandler første chunk
+2025-03-23 17:27:06,887 - INFO - Sender anmodning til Gemini API - chunk størrelse: 1787 tegn
+2025-03-23 17:27:06,887 - DEBUG - Første 100 tegn af chunk: Mål
+PL
+11
+Nicolaj JØRGENSEN
+1
+Kristoffer LAURSEN
+49.38
+SAH Time out
+50.00
+SAH Skud reddet
+PL
+3
+Krist...
+2025-03-23 17:27:06,887 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:27:24,439 - INFO - AFC remote call 1 is done.
+2025-03-23 17:27:24,439 - INFO - Gemini API svar modtaget på 17.55 sekunder
+2025-03-23 17:27:24,443 - INFO - Modtog match_info data for kamp_id: 748780
+2025-03-23 17:27:24,443 - INFO - Modtog 23 match_events
+2025-03-23 17:27:24,443 - INFO - Tilføjet 23 hændelser fra chunk 3
+2025-03-23 17:27:24,443 - INFO - Opretter database: Herreliga-database\2024-2025\2032025_Skanderborg_AGF_vs_Sønderjyske_Herrehåndbold.db
+2025-03-23 17:27:24,508 - INFO - Database oprettet: Herreliga-database\2024-2025\2032025_Skanderborg_AGF_vs_Sønderjyske_Herrehåndbold.db med 127 hændelser
+2025-03-23 17:27:24,513 - INFO - Behandling af match_748780_a.txt fuldført på 88.77 sekunder.
+2025-03-23 17:27:24,513 - INFO - Database gemt som: 2032025_Skanderborg_AGF_vs_Sønderjyske_Herrehåndbold.db
+2025-03-23 17:27:24,515 - INFO - Total antal hændelser: 127
+2025-03-23 17:27:24,522 - INFO - Starter behandling af fil: match_748782_a.txt
+2025-03-23 17:27:24,522 - INFO - Opdeler fil i chunks: Herreliga-txt-tabel\2024-2025\match_748782_a.txt
+2025-03-23 17:27:24,525 - INFO - Fil opdelt i 3 chunks
+2025-03-23 17:27:24,525 - INFO - Behandler chunk 1 af 3 for match_748782_a.txt
+2025-03-23 17:27:24,525 - INFO - Behandler første chunk
+2025-03-23 17:27:24,528 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3258 tegn
+2025-03-23 17:27:24,528 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Skjern Håndbold - Aalborg Håndbold   29 - 31  (18 - 17)
+748782 / 22-3-2025 / Skjern Ba...
+2025-03-23 17:27:24,528 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:28:03,594 - INFO - AFC remote call 1 is done.
+2025-03-23 17:28:03,596 - INFO - Gemini API svar modtaget på 39.07 sekunder
+2025-03-23 17:28:03,596 - INFO - Modtog match_info data for kamp_id: 748782
+2025-03-23 17:28:03,596 - INFO - Modtog 54 match_events
+2025-03-23 17:28:03,598 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 17:28:03,598 - INFO - Match info fundet: 748782 - Skjern Håndbold vs Aalborg Håndbold
+2025-03-23 17:28:03,598 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:28:03,598 - INFO - Behandler chunk 2 af 3 for match_748782_a.txt
+2025-03-23 17:28:03,598 - INFO - Behandler første chunk
+2025-03-23 17:28:03,598 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3168 tegn
+2025-03-23 17:28:03,598 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Skjern Håndbold - Aalborg Håndbold   29 - 31  (18 - 17)
+748782 / 22-3-2025 / Skjern Ba...
+2025-03-23 17:28:03,598 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:28:37,548 - INFO - AFC remote call 1 is done.
+2025-03-23 17:28:37,548 - INFO - Gemini API svar modtaget på 33.95 sekunder
+2025-03-23 17:28:37,555 - INFO - Modtog match_info data for kamp_id: 748782
+2025-03-23 17:28:37,555 - INFO - Modtog 49 match_events
+2025-03-23 17:28:37,555 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 17:28:37,555 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-23 17:28:37,555 - INFO - Behandler chunk 3 af 3 for match_748782_a.txt
+2025-03-23 17:28:37,555 - INFO - Behandler første chunk
+2025-03-23 17:28:37,555 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2092 tegn
+2025-03-23 17:28:37,555 - DEBUG - Første 100 tegn af chunk: Video Proof
+0
+44.45 23-26 AAH Mål
+HB 17
+Martin LARSEN
+1
+Christoffer BONDE
+44.45
+Video Proof slut
+0
+4...
+2025-03-23 17:28:37,555 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:28:59,360 - INFO - AFC remote call 1 is done.
+2025-03-23 17:28:59,360 - INFO - Gemini API svar modtaget på 21.80 sekunder
+2025-03-23 17:28:59,366 - INFO - Modtog match_info data for kamp_id: 748782
+2025-03-23 17:28:59,366 - INFO - Modtog 30 match_events
+2025-03-23 17:28:59,366 - INFO - Tilføjet 30 hændelser fra chunk 3
+2025-03-23 17:28:59,366 - INFO - Opretter database: Herreliga-database\2024-2025\2232025_Skjern_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-23 17:28:59,402 - INFO - Database oprettet: Herreliga-database\2024-2025\2232025_Skjern_Håndbold_vs_Aalborg_Håndbold.db med 133 hændelser
+2025-03-23 17:28:59,409 - INFO - Behandling af match_748782_a.txt fuldført på 94.89 sekunder.
+2025-03-23 17:28:59,409 - INFO - Database gemt som: 2232025_Skjern_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-23 17:28:59,409 - INFO - Total antal hændelser: 133
+2025-03-23 17:28:59,417 - INFO - Starter behandling af fil: match_748783_a.txt
+2025-03-23 17:28:59,417 - INFO - Opdeler fil i chunks: Herreliga-txt-tabel\2024-2025\match_748783_a.txt
+2025-03-23 17:28:59,418 - INFO - Fil opdelt i 4 chunks
+2025-03-23 17:28:59,418 - INFO - Behandler chunk 1 af 4 for match_748783_a.txt
+2025-03-23 17:28:59,418 - INFO - Behandler første chunk
+2025-03-23 17:28:59,418 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3347 tegn
+2025-03-23 17:28:59,424 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Mors-Thy Håndbold - TMS Ringsted   39 - 32  (15 - 13)
+748783 / 22-3-2025 / Sparekassen...
+2025-03-23 17:28:59,424 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:29:36,227 - INFO - AFC remote call 1 is done.
+2025-03-23 17:29:36,228 - INFO - Gemini API svar modtaget på 36.80 sekunder
+2025-03-23 17:29:36,228 - INFO - Modtog match_info data for kamp_id: 748783
+2025-03-23 17:29:36,228 - INFO - Modtog 54 match_events
+2025-03-23 17:29:36,228 - INFO - Match info fundet: 748783 - Mors-Thy Håndbold vs TMS Ringsted
+2025-03-23 17:29:36,228 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:29:36,228 - INFO - Behandler chunk 2 af 4 for match_748783_a.txt
+2025-03-23 17:29:36,228 - INFO - Behandler første chunk
+2025-03-23 17:29:36,228 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3045 tegn
+2025-03-23 17:29:36,228 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Mors-Thy Håndbold - TMS Ringsted   39 - 32  (15 - 13)
+748783 / 22-3-2025 / Sparekassen...
+2025-03-23 17:29:36,235 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:30:10,630 - INFO - AFC remote call 1 is done.
+2025-03-23 17:30:10,633 - INFO - Gemini API svar modtaget på 34.40 sekunder
+2025-03-23 17:30:10,634 - INFO - Modtog match_info data for kamp_id: 748783
+2025-03-23 17:30:10,634 - INFO - Modtog 50 match_events
+2025-03-23 17:30:10,634 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 17:30:10,636 - INFO - Behandler chunk 3 af 4 for match_748783_a.txt
+2025-03-23 17:30:10,636 - INFO - Behandler første chunk
+2025-03-23 17:30:10,639 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3233 tegn
+2025-03-23 17:30:10,639 - DEBUG - Første 100 tegn af chunk: TMS Skud reddet
+ST
+24
+Simon OOMS
+20
+Oliver LARSEN
+41.19 23-18 MTH Mål
+PL
+10
+Mads Svane KNUDSEN
+29
+Ma...
+2025-03-23 17:30:10,641 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:30:46,881 - INFO - AFC remote call 1 is done.
+2025-03-23 17:30:46,881 - INFO - Gemini API svar modtaget på 36.24 sekunder
+2025-03-23 17:30:46,881 - INFO - Modtog match_info data for kamp_id: 748783
+2025-03-23 17:30:46,890 - INFO - Modtog 50 match_events
+2025-03-23 17:30:46,891 - INFO - Tilføjet 50 hændelser fra chunk 3
+2025-03-23 17:30:46,891 - INFO - Behandler chunk 4 af 4 for match_748783_a.txt
+2025-03-23 17:30:46,891 - INFO - Behandler ikke-første chunk
+2025-03-23 17:30:46,891 - INFO - Sender anmodning til Gemini API - chunk størrelse: 430 tegn
+2025-03-23 17:30:46,891 - DEBUG - Første 100 tegn af chunk: ST
+4
+Kasper LINDGREN
+Assist
+10
+Mads Svane KNUDSEN
+16
+Rasmus LARSEN
+58.31 37-31 TMS Mål
+Gbr
+7
+Christo...
+2025-03-23 17:30:46,894 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:30:51,792 - INFO - AFC remote call 1 is done.
+2025-03-23 17:30:51,792 - INFO - Gemini API svar modtaget på 4.90 sekunder
+2025-03-23 17:30:51,792 - INFO - Modtog 4 match_events
+2025-03-23 17:30:51,792 - INFO - Tilføjet 4 hændelser fra chunk 4
+2025-03-23 17:30:51,792 - INFO - Opretter database: Herreliga-database\2024-2025\2232025_Mors-Thy_Håndbold_vs_TMS_Ringsted.db
+2025-03-23 17:30:51,861 - INFO - Database oprettet: Herreliga-database\2024-2025\2232025_Mors-Thy_Håndbold_vs_TMS_Ringsted.db med 158 hændelser
+2025-03-23 17:30:51,866 - INFO - Behandling af match_748783_a.txt fuldført på 112.45 sekunder.
+2025-03-23 17:30:51,866 - INFO - Database gemt som: 2232025_Mors-Thy_Håndbold_vs_TMS_Ringsted.db
+2025-03-23 17:30:51,869 - INFO - Total antal hændelser: 158
+2025-03-23 17:30:51,874 - INFO - Starter behandling af fil: match_748784_a.txt
+2025-03-23 17:30:51,874 - INFO - Opdeler fil i chunks: Herreliga-txt-tabel\2024-2025\match_748784_a.txt
+2025-03-23 17:30:51,877 - INFO - Fil opdelt i 3 chunks
+2025-03-23 17:30:51,877 - INFO - Behandler chunk 1 af 3 for match_748784_a.txt
+2025-03-23 17:30:51,877 - INFO - Behandler første chunk
+2025-03-23 17:30:51,881 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3853 tegn
+2025-03-23 17:30:51,881 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Grindsted GIF, Håndbold - Fredericia Håndbold Klub   29 - 35  (16 - 18)
+748784 / 19-3-...
+2025-03-23 17:30:51,881 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:31:28,677 - INFO - AFC remote call 1 is done.
+2025-03-23 17:31:28,677 - INFO - Gemini API svar modtaget på 36.80 sekunder
+2025-03-23 17:31:28,677 - INFO - Modtog match_info data for kamp_id: 748784
+2025-03-23 17:31:28,677 - INFO - Modtog 54 match_events
+2025-03-23 17:31:28,677 - INFO - Match info fundet: 748784 - Grindsted GIF, Håndbold vs Fredericia Håndbold Klub
+2025-03-23 17:31:28,677 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 17:31:28,677 - INFO - Behandler chunk 2 af 3 for match_748784_a.txt
+2025-03-23 17:31:28,681 - INFO - Behandler første chunk
+2025-03-23 17:31:28,681 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3300 tegn
+2025-03-23 17:31:28,681 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Grindsted GIF, Håndbold - Fredericia Håndbold Klub   29 - 35  (16 - 18)
+748784 / 19-3-...
+2025-03-23 17:31:28,681 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:32:03,072 - INFO - AFC remote call 1 is done.
+2025-03-23 17:32:03,072 - INFO - Gemini API svar modtaget på 34.39 sekunder
+2025-03-23 17:32:03,075 - INFO - Modtog match_info data for kamp_id: 748784
+2025-03-23 17:32:03,075 - INFO - Modtog 50 match_events
+2025-03-23 17:32:03,075 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 17:32:03,078 - INFO - Behandler chunk 3 af 3 for match_748784_a.txt
+2025-03-23 17:32:03,078 - INFO - Behandler første chunk
+2025-03-23 17:32:03,078 - INFO - Sender anmodning til Gemini API - chunk størrelse: 1999 tegn
+2025-03-23 17:32:03,078 - DEBUG - Første 100 tegn af chunk: GIF
+Skud reddet
+2:e
+14
+Nicolai SKYTTE
+16
+Thorsten FRIES
+48.53 22-30 FHK Mål
+ST
+4
+Nikolaj NIELSEN
+Ass...
+2025-03-23 17:32:03,081 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 17:32:20,885 - INFO - AFC remote call 1 is done.
+2025-03-23 17:32:20,885 - INFO - Gemini API svar modtaget på 17.80 sekunder
+2025-03-23 17:32:20,885 - INFO - Modtog match_info data for kamp_id: 748784
+2025-03-23 17:32:20,885 - INFO - Modtog 23 match_events
+2025-03-23 17:32:20,885 - INFO - Tilføjet 23 hændelser fra chunk 3
+2025-03-23 17:32:20,893 - INFO - Opretter database: Herreliga-database\2024-2025\1932025_Grindsted_GIF,_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-23 17:32:20,954 - INFO - Database oprettet: Herreliga-database\2024-2025\1932025_Grindsted_GIF,_Håndbold_vs_Fredericia_Håndbold_Klub.db med 127 hændelser
+2025-03-23 17:32:20,960 - INFO - Behandling af match_748784_a.txt fuldført på 89.09 sekunder.
+2025-03-23 17:32:20,960 - INFO - Database gemt som: 1932025_Grindsted_GIF,_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-23 17:32:20,960 - INFO - Total antal hændelser: 127
+2025-03-23 17:32:20,964 - INFO - ==== Konverteringsproces afsluttet ====
+2025-03-23 17:32:20,964 - INFO - Behandlet 6 filer: 6 succesfulde, 0 fejlede
+2025-03-23 17:32:20,964 - INFO - Sprunget over 147 allerede behandlede filer

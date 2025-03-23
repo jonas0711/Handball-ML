@@ -8,7 +8,9 @@ Dette script behandler håndboldkamp-tekstfiler fra tekstfil-mappen
 og konverterer dem til struktureret JSON-data ved hjælp af Gemini API.
 Resultaterne gemmes derefter i SQLite-databaser, en for hver kamp.
 
-JSON-data følger strukturen beskrevet i gemini_api_instructions.txt.
+Optimeret version:
+- Bruger tracking-system for at undgå at behandle allerede konverterede filer
+- Integrerer med handball_workflow.py for konsistent filhåndtering
 
 Brug:
     python handball_data_processor.py --liga=kvindeligaen --sæson=2024-2025
@@ -24,6 +26,7 @@ import time
 import logging
 import argparse
 import sys
+import hashlib
 from pathlib import Path
 from datetime import datetime
 from google import genai
@@ -32,6 +35,207 @@ from dotenv import load_dotenv
 
 # Indlæs miljøvariabler fra .env filen
 load_dotenv()
+
+# Tracking-fil for at holde styr på processerede filer (samme som i workflow)
+TRACKING_FILE = "processed_files.json"
+
+# --------------
+# TRACKING-SYSTEM FUNKTIONER
+# --------------
+
+def load_tracking_data():
+    """
+    Indlæser tracking-data fra JSON-fil
+    
+    Returns:
+        dict: Tracking-data
+    """
+    if os.path.exists(TRACKING_FILE):
+        try:
+            with open(TRACKING_FILE, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            logger.warning(f"Kunne ikke læse tracking-filen. Opretter ny.")
+            return {
+                "pdf_files": {},
+                "txt_files": {},
+                "db_files": {}
+            }
+    
+    return {
+        "pdf_files": {},
+        "txt_files": {},
+        "db_files": {}
+    }
+
+def save_tracking_data(tracking_data):
+    """
+    Gemmer tracking-data til JSON-fil
+    
+    Args:
+        tracking_data: Data der skal gemmes
+    """
+    with open(TRACKING_FILE, 'w', encoding='utf-8') as f:
+        json.dump(tracking_data, f, indent=2)
+
+def get_file_hash(file_path):
+    """
+    Beregner hash af en fil for at detektere ændringer
+    
+    Args:
+        file_path: Sti til filen
+        
+    Returns:
+        str: MD5 hash af filen eller None hvis filen ikke findes
+    """
+    if not os.path.exists(file_path):
+        return None
+    
+    md5_hash = hashlib.md5()
+    try:
+        with open(file_path, "rb") as f:
+            # For store filer, læs kun starten og slutningen
+            if os.path.getsize(file_path) > 100000:  # 100KB
+                # Læs de første 5KB
+                start_chunk = f.read(5120)
+                md5_hash.update(start_chunk)
+                
+                # Gå til slutningen og læs de sidste 5KB
+                f.seek(-5120, os.SEEK_END)
+                end_chunk = f.read(5120)
+                md5_hash.update(end_chunk)
+            else:
+                # For mindre filer, læs hele indholdet
+                md5_hash.update(f.read())
+    except Exception as e:
+        logger.error(f"Fejl ved beregning af hash for fil {file_path}: {str(e)}")
+        return None
+    
+    return md5_hash.hexdigest()
+
+def is_file_processed(file_path, file_type, tracking_data):
+    """
+    Tjekker om en fil allerede er behandlet
+    
+    Args:
+        file_path: Sti til filen
+        file_type: Filtype ('pdf', 'txt', 'db')
+        tracking_data: Tracking data
+        
+    Returns:
+        bool: True hvis filen er behandlet
+    """
+    # Sikr at filen findes
+    if not os.path.exists(file_path):
+        return False
+    
+    # Få filnavn til lookup
+    file_name = os.path.basename(file_path)
+    
+    # Find korrekt tracking dictionary
+    if file_type == 'pdf':
+        tracking_dict = tracking_data["pdf_files"]
+    elif file_type == 'txt':
+        tracking_dict = tracking_data["txt_files"]
+    elif file_type == 'db':
+        tracking_dict = tracking_data["db_files"]
+    else:
+        logger.error(f"Ukendt filtype: {file_type}")
+        return False
+    
+    # Tjek om filen allerede er i tracking_dict
+    if file_name in tracking_dict:
+        # Få tidligere gemt hash
+        old_hash = tracking_dict[file_name]
+        
+        # Beregn aktuel hash
+        current_hash = get_file_hash(file_path)
+        
+        # Hvis hashen er den samme, er filen ikke ændret
+        if current_hash == old_hash:
+            return True
+    
+    return False
+
+def mark_file_processed(file_path, file_type, tracking_data):
+    """
+    Markerer en fil som behandlet i tracking-data
+    
+    Args:
+        file_path: Sti til filen
+        file_type: Filtype ('pdf', 'txt', 'db')
+        tracking_data: Tracking data
+    """
+    # Sikr at filen findes
+    if not os.path.exists(file_path):
+        logger.warning(f"Forsøger at markere en ikke-eksisterende fil som behandlet: {file_path}")
+        return
+    
+    # Få filnavn til lagring
+    file_name = os.path.basename(file_path)
+    
+    # Beregn hash
+    file_hash = get_file_hash(file_path)
+    
+    # Kontroller at hash blev beregnet korrekt
+    if file_hash is None:
+        logger.warning(f"Kunne ikke beregne hash for {file_path}, springer over")
+        return
+    
+    # Find korrekt tracking dictionary
+    if file_type == 'pdf':
+        tracking_dict = tracking_data["pdf_files"]
+    elif file_type == 'txt':
+        tracking_dict = tracking_data["txt_files"]
+    elif file_type == 'db':
+        tracking_dict = tracking_data["db_files"]
+    else:
+        logger.error(f"Ukendt filtype: {file_type}")
+        return
+    
+    # Tilføj eller opdater filen i tracking
+    tracking_dict[file_name] = file_hash
+    logger.debug(f"Markeret {file_name} som behandlet ({file_type})")
+
+def get_unprocessed_txt_files(txt_dir, db_dir, tracking_data):
+    """
+    Finder tekstfiler der endnu ikke er blevet konverteret til databaser
+    
+    Args:
+        txt_dir (str): Mappe med tekstfiler
+        db_dir (str): Mappe med databaser
+        tracking_data (dict): Tracking data
+        
+    Returns:
+        list: Liste med stier til tekstfiler der skal behandles
+    """
+    # Tjek om txt_dir findes
+    if not os.path.exists(txt_dir):
+        logger.error(f"Tekstmappe findes ikke: {txt_dir}")
+        return []
+    
+    # Find alle TXT-filer i mappen
+    file_pattern = os.path.join(txt_dir, "*.txt")
+    txt_files = glob.glob(file_pattern)
+    
+    logger.info(f"Fandt {len(txt_files)} tekstfiler i {txt_dir}")
+    
+    # Filtrer til kun ubehandlede filer
+    unprocessed_files = []
+    
+    for txt_path in txt_files:
+        # Spring filen over hvis den allerede er markeret som behandlet i tracking-systemet
+        if is_file_processed(txt_path, 'txt', tracking_data):
+            continue
+            
+        # Eller spring filen over hvis den findes i en database
+        if is_already_processed(txt_path, db_dir):
+            continue
+            
+        unprocessed_files.append(txt_path)
+    
+    logger.info(f"Fandt {len(unprocessed_files)} nye txt-filer der skal konverteres")
+    return unprocessed_files
 
 def parse_arguments():
     """
@@ -462,20 +666,19 @@ def create_database_from_json(combined_data, db_path):
     except Exception as e:
         logger.error(f"Fejl ved oprettelse af database {db_path}: {str(e)}")
 
-def process_file(file_path, api_key):
+def process_file(file_path, api_key, db_dir, tracking_data):
     """
     Behandl en enkelt tekstfil fra start til slut
     
     Args:
         file_path: Sti til tekstfilen der skal behandles
         api_key: Gemini API-nøgle
+        db_dir: Output mappe til databaser
+        tracking_data: Tracking data for at markere filer som behandlet
         
     Returns:
         str: Sti til den oprettede database
     """
-    # Tilføjer global for at kunne tilgå OUTPUT_DB_DIR
-    global OUTPUT_DB_DIR
-    
     filename = os.path.basename(file_path)
     logger.info(f"Starter behandling af fil: {filename}")
     
@@ -520,10 +723,14 @@ def process_file(file_path, api_key):
     hold_ude = match_info.get('hold_ude', '').replace(' ', '_')
     
     db_filename = f"{dato}_{hold_hjemme}_vs_{hold_ude}.db"
-    db_path = os.path.join(OUTPUT_DB_DIR, db_filename)
+    db_path = os.path.join(db_dir, db_filename)
     
     # Opret databasen
     create_database_from_json(all_json_data, db_path)
+    
+    # Markér filer som behandlet
+    mark_file_processed(file_path, 'txt', tracking_data)
+    mark_file_processed(db_path, 'db', tracking_data)
     
     end_time = time.time()
     duration = end_time - start_time
@@ -656,36 +863,30 @@ def main():
         logger.error("GEMINI_API_KEY miljøvariabel ikke fundet")
         return
     
-    # Find alle tekstfiler
-    file_pattern = os.path.join(INPUT_DIR, "*.txt")
-    txt_files = glob.glob(file_pattern)
+    # Indlæs tracking data fra JSON-fil (delt med workflow)
+    tracking_data = load_tracking_data()
     
-    logger.info(f"Fandt {len(txt_files)} tekstfiler til potentiel behandling")
+    # Find ubehandlede tekstfiler ved hjælp af tracking-systemet
+    files_to_process = get_unprocessed_txt_files(INPUT_DIR, OUTPUT_DB_DIR, tracking_data)
     
-    if not txt_files:
-        logger.warning(f"Ingen tekstfiler fundet i mappen: {INPUT_DIR}")
-        return
-    
-    # Filtrerer filer der allerede er behandlet
-    files_to_process = []
-    files_already_processed = 0
-    
-    for file_path in txt_files:
-        if not is_already_processed(file_path, OUTPUT_DB_DIR):
-            files_to_process.append(file_path)
-        else:
-            files_already_processed += 1
-    
-    logger.info(f"Fandt {files_already_processed} allerede behandlede filer")
-    logger.info(f"Skal behandle {len(files_to_process)} nye filer")
+    logger.info(f"Fandt {len(files_to_process)} txt-filer der skal behandles")
     
     # Behandl hver fil
     successful_files = 0
     failed_files = 0
     
+    # Beregn antallet af allerede behandlede filer til logging
+    all_txt_files = glob.glob(os.path.join(INPUT_DIR, "*.txt"))
+    already_processed = len(all_txt_files) - len(files_to_process)
+    
     for file_path in files_to_process:
         try:
-            db_path = process_file(file_path, api_key)
+            # Behandl fil og track om den er behandlet
+            db_path = process_file(file_path, api_key, OUTPUT_DB_DIR, tracking_data)
+            
+            # Gem tracking data efter hver fil for at undgå at gøre dobbeltarbejde
+            save_tracking_data(tracking_data)
+            
             if db_path:
                 successful_files += 1
             else:
@@ -696,7 +897,14 @@ def main():
     
     logger.info("==== Konverteringsproces afsluttet ====")
     logger.info(f"Behandlet {len(files_to_process)} filer: {successful_files} succesfulde, {failed_files} fejlede")
-    logger.info(f"Sprunget over {files_already_processed} allerede behandlede filer")
+    logger.info(f"Sprunget over {already_processed} allerede behandlede filer")
+    
+    # Vis opsummering
+    print("\nKonvertering afsluttet!")
+    print(f"Vellykket: {successful_files}")
+    print(f"Mislykkedes: {failed_files}")
+    print(f"Sprunget over: {already_processed}")
+    print(f"Total: {len(all_txt_files)}")
 
 if __name__ == "__main__":
-    main() 
+    main()

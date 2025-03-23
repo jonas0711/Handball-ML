@@ -43,7 +43,7 @@ except ImportError:
 # KONFIGURATION
 #---------------------------
 # Vælg liga: 'kvindeligaen', 'herreligaen', eller 'begge'
-DEFAULT_LIGA = 'kvindeligaen'
+DEFAULT_LIGA = 'herreligaen'
 
 # Vælg sæson (format: 'ÅÅÅÅ-ÅÅÅÅ')
 DEFAULT_SAESON = '2024-2025'

@@ -1941,3 +1941,1418 @@
 2025-03-23 16:30:12,806 - INFO - ===== Starter TXT til DB konvertering (kvindeligaen, 2024-2025) =====
 2025-03-23 16:30:12,806 - INFO - =====================================================================
 2025-03-23 16:30:12,806 - INFO -   Kører kommando: C:\Users\jonas\miniconda3\python.exe C:\Users\jonas\Desktop\Handball-ML\handball_data_processor.py --liga=kvindeligaen --sæson=2024-2025
+2025-03-23 16:47:49,899 - INFO - ================================================================================
+2025-03-23 16:47:49,900 - INFO - ================================================================================
+2025-03-23 16:47:49,900 - INFO - ================================================================================
+2025-03-23 16:47:49,900 - INFO - ==========================
+2025-03-23 16:47:49,900 - INFO - HÅNDBOLDHÆNDELSER WORKFLOW
+2025-03-23 16:47:49,900 - INFO - ==========================
+2025-03-23 16:47:49,900 - INFO - ================================
+2025-03-23 16:47:49,900 - INFO - Dato og tid: 2025-03-23 16:47:49
+2025-03-23 16:47:49,900 - INFO - ================================
+2025-03-23 16:47:49,903 - INFO - ==========================================================
+2025-03-23 16:47:49,903 - INFO - Script version: 2.2 (forbedret processeringskæde-tracking)
+2025-03-23 16:47:49,903 - INFO - ==========================================================
+2025-03-23 16:47:49,903 - INFO - ================================================================================
+2025-03-23 16:47:49,903 - INFO - ================================================================================
+2025-03-23 16:47:49,903 - INFO - ================================================================================
+2025-03-23 16:47:49,908 - INFO -   Indlæst tracking data for 343 PDF-filer, 294 TXT-filer og 0 DB-filer
+2025-03-23 16:47:49,908 - INFO - ==================================================================================
+2025-03-23 16:47:49,908 - INFO - 
+
+================================================================================
+2025-03-23 16:47:49,910 - INFO - ==================================================================================
+2025-03-23 16:47:49,910 - INFO - ========================
+2025-03-23 16:47:49,912 - INFO - PROCESSERER KVINDELIGAEN
+2025-03-23 16:47:49,912 - INFO - ========================
+2025-03-23 16:47:49,912 - INFO - ================================================================================
+2025-03-23 16:47:49,914 - INFO - ================================================================================
+2025-03-23 16:47:49,914 - INFO - ================================================================================
+2025-03-23 16:47:49,916 - INFO - ==================================================
+2025-03-23 16:47:49,917 - INFO - 
+======= STARTER KVINDELIGAEN PROCESSERING =======
+2025-03-23 16:47:49,917 - INFO - ==================================================
+2025-03-23 16:47:49,918 - INFO -   Opsætter mappestruktur for Kvindeliga:
+2025-03-23 16:47:49,918 - INFO -     PDF-mappe: Kvindeliga\2024-2025
+2025-03-23 16:47:49,918 - INFO -     TXT-mappe: Kvindeliga-txt-tabel\2024-2025
+2025-03-23 16:47:49,918 - INFO -     DB-mappe: Kvindeliga-database\2024-2025
+2025-03-23 16:47:49,924 - INFO -   Filer før processering:
+2025-03-23 16:47:49,924 - INFO -     PDF-filer: 161
+2025-03-23 16:47:49,924 - INFO -     TXT-filer: 147
+2025-03-23 16:47:49,924 - INFO -     DB-filer: 147
+2025-03-23 16:47:49,924 - INFO -   Analyserer eksisterende filer for at finde manglende processeringstrin...
+2025-03-23 16:48:31,067 - INFO -   Fandt:
+2025-03-23 16:48:31,067 - INFO -       0 ugyldige PDF-filer
+2025-03-23 16:48:31,067 - INFO -       14 PDF-filer der mangler TXT-konvertering
+2025-03-23 16:48:31,067 - INFO -       147 TXT-filer der mangler DB-konvertering
+2025-03-23 16:48:31,067 - INFO -   Fandt 14 PDF-filer der mangler TXT-konvertering
+2025-03-23 16:48:31,067 - INFO -   Kører PDF til TXT konvertering...
+2025-03-23 16:48:31,067 - INFO - ======================================================================
+2025-03-23 16:48:31,067 - INFO - ===== Starter PDF til TXT konvertering (kvindeligaen, 2024-2025) =====
+2025-03-23 16:48:31,067 - INFO - ======================================================================
+2025-03-23 16:48:31,067 - INFO -   Kører kommando: C:\Users\jonas\miniconda3\python.exe C:\Users\jonas\Desktop\Handball-ML\pdf_to_text_converter.py --liga=kvindeligaen --sæson=2024-2025
+2025-03-23 16:48:31,671 - INFO -   Script pdf_to_text_converter.py afsluttet på 0.60 sekunder
+2025-03-23 16:48:31,671 - INFO -   Output fra pdf_to_text_converter.py:
+2025-03-23 16:48:31,671 - INFO -       > Starter konvertering af PDF-filer fra Kvindeliga\2024-2025
+2025-03-23 16:48:31,671 - INFO -       > Tekstfiler vil blive gemt i: C:\Users\jonas\Desktop\Handball-ML\Kvindeliga-txt-tabel\2024-2025
+2025-03-23 16:48:31,674 - INFO -       > Fandt 161 PDF-filer
+2025-03-23 16:48:31,674 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748177_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,675 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748178_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,675 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748179_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,676 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748180_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,676 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748181_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,676 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748182_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,676 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748183_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,679 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748184_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,679 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748185_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,679 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748186_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,680 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748187_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,680 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748188_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,680 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748189_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,680 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748190_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,682 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748191_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,684 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748192_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,685 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748193_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,685 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748194_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,685 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748195_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,685 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748196_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,685 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748197_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,688 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748198_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,688 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748199_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,688 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748200_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,688 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748201_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,688 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748202_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748203_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748204_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748205_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748206_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748207_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748208_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748209_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748210_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748211_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748212_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748213_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748214_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748215_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748216_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748217_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748218_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748219_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748220_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748221_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748222_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,690 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748223_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,696 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748224_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,696 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748225_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,696 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748226_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,696 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748227_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,696 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748228_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,696 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748229_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,697 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748230_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,697 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748231_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,697 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748232_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,697 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748233_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,697 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748234_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,697 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748235_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,697 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748236_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,697 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748237_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,697 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748238_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,697 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748239_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,700 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748240_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,700 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748241_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,700 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748242_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,701 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748243_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,701 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748244_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,701 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748245_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,701 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748246_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,701 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748247_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,701 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748248_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,701 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748249_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,703 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748250_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,703 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748251_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,703 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748252_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,703 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748253_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,703 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748254_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,703 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748255_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,703 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748256_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,705 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748257_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,705 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748258_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,705 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748259_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,706 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748260_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,706 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748261_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,706 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748262_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,706 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748263_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,706 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748264_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,706 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748265_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,706 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748266_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,709 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748267_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,709 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748268_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,709 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748269_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,709 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748270_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,709 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748271_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,709 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748272_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,711 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748273_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,711 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748274_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,711 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748275_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,711 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748276_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,712 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748277_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,712 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748278_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,712 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748279_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,714 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748280_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,714 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748281_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,714 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748282_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,714 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748283_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,714 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748284_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,714 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748285_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,715 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748286_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,715 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748287_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,715 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748288_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,715 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748289_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,715 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748290_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,715 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748291_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,715 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748292_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,715 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748293_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748294_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748295_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748296_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748297_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748298_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748299_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748300_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748301_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748302_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748303_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748304_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,719 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748305_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,722 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748306_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,722 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748307_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,722 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748308_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,722 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748309_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,722 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748310_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,722 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748311_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,722 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748312_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,724 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748313_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,724 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748314_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,724 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748315_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,724 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748316_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,724 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748317_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,724 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748318_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,724 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748319_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,724 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748320_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,727 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748321_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,727 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748322_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,727 - INFO -       > Filen Kvindeliga-txt-tabel\2024-2025\match_748323_a.txt findes allerede. Springer over.
+2025-03-23 16:48:31,727 - INFO -       > Konverteret match_748324_a.pdf til match_748324_a.txt
+2025-03-23 16:48:31,728 - INFO -       > Konverteret match_748325_a.pdf til match_748325_a.txt
+2025-03-23 16:48:31,728 - INFO -       > Konverteret match_748326_a.pdf til match_748326_a.txt
+2025-03-23 16:48:31,728 - INFO -       > Konverteret match_748327_a.pdf til match_748327_a.txt
+2025-03-23 16:48:31,728 - INFO -       > Konverteret match_748328_a.pdf til match_748328_a.txt
+2025-03-23 16:48:31,729 - INFO -       > Konverteret match_748329_a.pdf til match_748329_a.txt
+2025-03-23 16:48:31,729 - INFO -       > Konverteret match_748330_a.pdf til match_748330_a.txt
+2025-03-23 16:48:31,729 - INFO -       > Konverteret match_748331_a.pdf til match_748331_a.txt
+2025-03-23 16:48:31,729 - INFO -       > Konverteret match_748332_a.pdf til match_748332_a.txt
+2025-03-23 16:48:31,730 - INFO -       > Konverteret match_748333_a.pdf til match_748333_a.txt
+2025-03-23 16:48:31,730 - INFO -       > Konverteret match_748334_a.pdf til match_748334_a.txt
+2025-03-23 16:48:31,730 - INFO -       > Konverteret match_748335_a.pdf til match_748335_a.txt
+2025-03-23 16:48:31,730 - INFO -       > Konverteret match_748336_a.pdf til match_748336_a.txt
+2025-03-23 16:48:31,730 - INFO -       > Konverteret match_748337_a.pdf til match_748337_a.txt
+2025-03-23 16:48:31,730 - INFO -       > 
+2025-03-23 16:48:31,730 - INFO -       > Konvertering afsluttet!
+2025-03-23 16:48:31,730 - INFO -       > Vellykket: 14
+2025-03-23 16:48:31,730 - INFO -       > Mislykkedes: 0
+2025-03-23 16:48:31,730 - INFO -       > Sprunget over: 147
+2025-03-23 16:48:31,730 - INFO -       > Total: 161
+2025-03-23 16:48:31,730 - INFO -       > Tekstfiler blev gemt i: C:\Users\jonas\Desktop\Handball-ML\Kvindeliga-txt-tabel\2024-2025
+2025-03-23 16:48:31,730 - INFO -       > 
+2025-03-23 16:48:31,730 - INFO -       > Køretid: 0.33 sekunder
+2025-03-23 16:48:31,748 - INFO -       Markeret match_748324_a.txt som behandlet (txt)
+2025-03-23 16:48:31,759 - INFO -       Markeret match_748325_a.txt som behandlet (txt)
+2025-03-23 16:48:31,772 - INFO -       Markeret match_748326_a.txt som behandlet (txt)
+2025-03-23 16:48:31,785 - INFO -       Markeret match_748327_a.txt som behandlet (txt)
+2025-03-23 16:48:31,797 - INFO -       Markeret match_748328_a.txt som behandlet (txt)
+2025-03-23 16:48:31,813 - INFO -       Markeret match_748329_a.txt som behandlet (txt)
+2025-03-23 16:48:31,824 - INFO -       Markeret match_748330_a.txt som behandlet (txt)
+2025-03-23 16:48:31,836 - INFO -       Markeret match_748331_a.txt som behandlet (txt)
+2025-03-23 16:48:31,849 - INFO -       Markeret match_748332_a.txt som behandlet (txt)
+2025-03-23 16:48:31,860 - INFO -       Markeret match_748333_a.txt som behandlet (txt)
+2025-03-23 16:48:31,872 - INFO -       Markeret match_748334_a.txt som behandlet (txt)
+2025-03-23 16:48:31,881 - INFO -       Markeret match_748335_a.txt som behandlet (txt)
+2025-03-23 16:48:31,897 - INFO -       Markeret match_748336_a.txt som behandlet (txt)
+2025-03-23 16:48:31,906 - INFO -       Markeret match_748337_a.txt som behandlet (txt)
+2025-03-23 16:48:31,910 - INFO -   Konverterede 14 PDF-filer til TXT
+2025-03-23 16:48:31,910 - INFO -   Fandt 147 TXT-filer der mangler DB-konvertering
+2025-03-23 16:48:31,911 - INFO -   Kører TXT til DB konvertering...
+2025-03-23 16:48:31,912 - INFO - =====================================================================
+2025-03-23 16:48:31,912 - INFO - ===== Starter TXT til DB konvertering (kvindeligaen, 2024-2025) =====
+2025-03-23 16:48:31,913 - INFO - =====================================================================
+2025-03-23 16:48:31,914 - INFO -   Kører kommando: C:\Users\jonas\miniconda3\python.exe C:\Users\jonas\Desktop\Handball-ML\handball_data_processor.py --liga=kvindeligaen --sæson=2024-2025
+2025-03-23 17:11:20,016 - INFO -   Script handball_data_processor.py afsluttet på 1368.10 sekunder
+2025-03-23 17:11:20,018 - INFO -   Output fra handball_data_processor.py:
+2025-03-23 17:11:20,019 - INFO -       > 
+2025-03-23 17:11:20,019 - INFO -       > Konvertering afsluttet!
+2025-03-23 17:11:20,020 - INFO -       > Vellykket: 14
+2025-03-23 17:11:20,020 - INFO -       > Mislykkedes: 0
+2025-03-23 17:11:20,020 - INFO -       > Sprunget over: 147
+2025-03-23 17:11:20,020 - INFO -       > Total: 161
+2025-03-23 17:11:20,117 - INFO -   Konverterede 0 TXT-filer til DB
+2025-03-23 17:11:20,123 - INFO -   Opsætter mappestruktur for Kvindeliga:
+2025-03-23 17:11:20,123 - INFO -     PDF-mappe: Kvindeliga\2024-2025
+2025-03-23 17:11:20,128 - INFO -     TXT-mappe: Kvindeliga-txt-tabel\2024-2025
+2025-03-23 17:11:20,128 - INFO -     DB-mappe: Kvindeliga-database\2024-2025
+2025-03-23 17:11:20,130 - INFO - =============================================================
+2025-03-23 17:11:20,130 - INFO - ===== Starter PDF download for kvindeligaen (2024-2025) =====
+2025-03-23 17:11:20,130 - INFO - =============================================================
+2025-03-23 17:11:20,137 - INFO -   Henter kampprogramside fra: https://tophaandbold.dk/kampprogram/kvindeligaen?year=2024&team=&home_game=0&home_game=1&away_game=0&away_game=1
+2025-03-23 17:11:20,139 - INFO -   Henter kampprogram-siden...
+2025-03-23 17:11:24,155 - INFO -   HTML-side gemt som debug_page_kvindeligaen.html for debugging
+2025-03-23 17:11:24,246 - INFO -   Fandt 182 'Alle hændelser' links
+2025-03-23 17:11:25,543 - INFO -     PDF-filen match_748183_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:27,406 - INFO -     PDF-filen match_748182_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:28,914 - INFO -     PDF-filen match_748179_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:30,794 - INFO -     PDF-filen match_748178_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:32,440 - INFO -     PDF-filen match_748177_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:34,006 - INFO -     PDF-filen match_748180_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:35,554 - INFO -     PDF-filen match_748181_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:37,259 - INFO -     PDF-filen match_748184_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:38,770 - INFO -     PDF-filen match_748188_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:40,410 - INFO -     PDF-filen match_748186_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:42,343 - INFO -     PDF-filen match_748185_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:43,863 - INFO -     PDF-filen match_748189_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:45,892 - INFO -     PDF-filen match_748187_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:47,378 - INFO -     PDF-filen match_748190_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:49,069 - INFO -     PDF-filen match_748196_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:50,791 - INFO -     PDF-filen match_748193_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:51,943 - INFO -     PDF-filen match_748197_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:53,111 - INFO -     PDF-filen match_748194_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:54,367 - INFO -     PDF-filen match_748191_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:55,359 - INFO -     PDF-filen match_748195_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:56,378 - INFO -     PDF-filen match_748192_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:57,390 - INFO -     PDF-filen match_748202_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:58,509 - INFO -     PDF-filen match_748198_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:11:59,595 - INFO -     PDF-filen match_748201_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:00,844 - INFO -     PDF-filen match_748200_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:01,853 - INFO -     PDF-filen match_748203_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:02,998 - INFO -     PDF-filen match_748204_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:03,959 - INFO -     PDF-filen match_748199_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:05,190 - INFO -     PDF-filen match_748207_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:06,216 - INFO -     PDF-filen match_748210_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:07,265 - INFO -     PDF-filen match_748209_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:08,228 - INFO -     PDF-filen match_748208_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:09,480 - INFO -     PDF-filen match_748211_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:10,633 - INFO -     PDF-filen match_748206_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:11,700 - INFO -     PDF-filen match_748205_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:12,795 - INFO -     PDF-filen match_748216_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:13,859 - INFO -     PDF-filen match_748217_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:14,901 - INFO -     PDF-filen match_748218_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:15,935 - INFO -     PDF-filen match_748215_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:16,920 - INFO -     PDF-filen match_748212_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:18,072 - INFO -     PDF-filen match_748213_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:19,135 - INFO -     PDF-filen match_748214_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:20,260 - INFO -     PDF-filen match_748222_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:21,311 - INFO -     PDF-filen match_748225_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:22,458 - INFO -     PDF-filen match_748221_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:23,531 - INFO -     PDF-filen match_748223_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:24,586 - INFO -     PDF-filen match_748224_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:25,661 - INFO -     PDF-filen match_748219_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:26,740 - INFO -     PDF-filen match_748220_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:27,979 - INFO -     PDF-filen match_748230_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:29,101 - INFO -     PDF-filen match_748226_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:30,239 - INFO -     PDF-filen match_748227_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:31,381 - INFO -     PDF-filen match_748231_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:32,631 - INFO -     PDF-filen match_748228_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:33,819 - INFO -     PDF-filen match_748229_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:34,919 - INFO -     PDF-filen match_748232_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:35,942 - INFO -     PDF-filen match_748237_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:37,056 - INFO -     PDF-filen match_748238_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:38,253 - INFO -     PDF-filen match_748239_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:39,354 - INFO -     PDF-filen match_748236_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:40,405 - INFO -     PDF-filen match_748234_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:41,516 - INFO -     PDF-filen match_748235_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:42,719 - INFO -     PDF-filen match_748233_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:43,850 - INFO -     PDF-filen match_748240_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:45,002 - INFO -     PDF-filen match_748245_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:46,051 - INFO -     PDF-filen match_748243_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:47,095 - INFO -     PDF-filen match_748241_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:48,179 - INFO -     PDF-filen match_748244_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:49,220 - INFO -     PDF-filen match_748246_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:50,301 - INFO -     PDF-filen match_748242_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:51,427 - INFO -     PDF-filen match_748252_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:52,417 - INFO -     PDF-filen match_748251_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:53,526 - INFO -     PDF-filen match_748253_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:54,557 - INFO -     PDF-filen match_748248_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:55,739 - INFO -     PDF-filen match_748247_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:56,800 - INFO -     PDF-filen match_748249_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:57,840 - INFO -     PDF-filen match_748250_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:12:58,830 - INFO -     PDF-filen match_748254_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:00,054 - INFO -     PDF-filen match_748258_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:01,149 - INFO -     PDF-filen match_748255_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:02,194 - INFO -     PDF-filen match_748259_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:03,252 - INFO -     PDF-filen match_748257_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:04,416 - INFO -     PDF-filen match_748256_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:05,399 - INFO -     PDF-filen match_748260_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:06,433 - INFO -     PDF-filen match_748261_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:07,561 - INFO -     PDF-filen match_748265_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:08,644 - INFO -     PDF-filen match_748262_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:09,689 - INFO -     PDF-filen match_748267_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:10,707 - INFO -     PDF-filen match_748263_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:11,807 - INFO -     PDF-filen match_748264_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:12,848 - INFO -     PDF-filen match_748266_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:13,940 - INFO -     PDF-filen match_748268_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:15,149 - INFO -     PDF-filen match_748271_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:16,209 - INFO -     PDF-filen match_748272_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:17,193 - INFO -     PDF-filen match_748273_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:18,194 - INFO -     PDF-filen match_748269_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:19,264 - INFO -     PDF-filen match_748274_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:20,315 - INFO -     PDF-filen match_748270_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:21,308 - INFO -     PDF-filen match_748277_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:22,472 - INFO -     PDF-filen match_748275_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:23,561 - INFO -     PDF-filen match_748279_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:24,589 - INFO -     PDF-filen match_748281_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:25,742 - INFO -     PDF-filen match_748280_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:26,759 - INFO -     PDF-filen match_748278_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:27,862 - INFO -     PDF-filen match_748276_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:28,828 - INFO -     PDF-filen match_748288_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:29,877 - INFO -     PDF-filen match_748282_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:30,817 - INFO -     PDF-filen match_748283_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:31,892 - INFO -     PDF-filen match_748286_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:32,830 - INFO -     PDF-filen match_748285_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:33,898 - INFO -     PDF-filen match_748287_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:35,134 - INFO -     PDF-filen match_748284_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:36,484 - INFO -     PDF-filen match_748289_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:37,539 - INFO -     PDF-filen match_748294_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:38,790 - INFO -     PDF-filen match_748295_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:39,809 - INFO -     PDF-filen match_748293_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:40,938 - INFO -     PDF-filen match_748291_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:42,162 - INFO -     PDF-filen match_748290_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:43,407 - INFO -     PDF-filen match_748292_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:44,590 - INFO -     PDF-filen match_748296_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:45,759 - INFO -     PDF-filen match_748299_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:46,729 - INFO -     PDF-filen match_748300_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:47,855 - INFO -     PDF-filen match_748302_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:48,909 - INFO -     PDF-filen match_748298_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:50,049 - INFO -     PDF-filen match_748301_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:51,145 - INFO -     PDF-filen match_748297_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:52,221 - INFO -     PDF-filen match_748307_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:53,207 - INFO -     PDF-filen match_748306_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:54,615 - INFO -     PDF-filen match_748309_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:55,587 - INFO -     PDF-filen match_748308_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:56,731 - INFO -     PDF-filen match_748303_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:57,850 - INFO -     PDF-filen match_748305_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:58,897 - INFO -     PDF-filen match_748304_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:13:59,865 - INFO -     PDF-filen match_748312_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:00,942 - INFO -     PDF-filen match_748313_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:01,953 - INFO -     PDF-filen match_748314_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:02,969 - INFO -     PDF-filen match_748315_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:04,109 - INFO -     PDF-filen match_748316_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:05,143 - INFO -     PDF-filen match_748311_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:06,148 - INFO -     PDF-filen match_748310_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:07,188 - INFO -     PDF-filen match_748318_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:08,186 - INFO -     PDF-filen match_748320_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:09,269 - INFO -     PDF-filen match_748323_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:10,409 - INFO -     PDF-filen match_748319_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:11,444 - INFO -     PDF-filen match_748317_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:12,456 - INFO -     PDF-filen match_748321_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:13,491 - INFO -     PDF-filen match_748322_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:14,499 - INFO -     PDF-filen match_748327_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:15,524 - INFO -     PDF-filen match_748326_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:16,522 - INFO -     PDF-filen match_748328_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:17,475 - INFO -     PDF-filen match_748325_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:18,594 - INFO -     PDF-filen match_748324_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:19,707 - INFO -     PDF-filen match_748330_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:20,808 - INFO -     PDF-filen match_748329_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:21,840 - INFO -     PDF-filen match_748333_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:22,875 - INFO -     PDF-filen match_748334_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:23,941 - INFO -     PDF-filen match_748337_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:24,972 - INFO -     PDF-filen match_748332_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:25,964 - INFO -     PDF-filen match_748336_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:26,974 - INFO -     PDF-filen match_748335_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:28,210 - INFO -     PDF-filen match_748331_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:14:28,714 - INFO -     Downloader: match_748342_a.pdf
+2025-03-23 17:14:28,717 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748342/a?download=0
+2025-03-23 17:14:29,727 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:30,238 - INFO -     Downloader: match_748341_a.pdf
+2025-03-23 17:14:30,239 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748341/a?download=0
+2025-03-23 17:14:31,069 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:31,576 - INFO -     Downloader: match_748338_a.pdf
+2025-03-23 17:14:31,580 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748338/a?download=0
+2025-03-23 17:14:32,684 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:33,192 - INFO -     Downloader: match_748344_a.pdf
+2025-03-23 17:14:33,197 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748344/a?download=0
+2025-03-23 17:14:34,429 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:34,941 - INFO -     Downloader: match_748340_a.pdf
+2025-03-23 17:14:34,943 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748340/a?download=0
+2025-03-23 17:14:35,895 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:36,406 - INFO -     Downloader: match_748339_a.pdf
+2025-03-23 17:14:36,410 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748339/a?download=0
+2025-03-23 17:14:37,566 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:38,077 - INFO -     Downloader: match_748343_a.pdf
+2025-03-23 17:14:38,081 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748343/a?download=0
+2025-03-23 17:14:38,954 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:39,463 - INFO -     Downloader: match_748351_a.pdf
+2025-03-23 17:14:39,463 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748351/a?download=0
+2025-03-23 17:14:40,538 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:41,049 - INFO -     Downloader: match_748350_a.pdf
+2025-03-23 17:14:41,050 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748350/a?download=0
+2025-03-23 17:14:41,993 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:42,504 - INFO -     Downloader: match_748348_a.pdf
+2025-03-23 17:14:42,507 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748348/a?download=0
+2025-03-23 17:14:43,461 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:43,972 - INFO -     Downloader: match_748349_a.pdf
+2025-03-23 17:14:43,976 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748349/a?download=0
+2025-03-23 17:14:44,929 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:45,438 - INFO -     Downloader: match_748345_a.pdf
+2025-03-23 17:14:45,442 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748345/a?download=0
+2025-03-23 17:14:46,346 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:46,857 - INFO -     Downloader: match_748346_a.pdf
+2025-03-23 17:14:46,859 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748346/a?download=0
+2025-03-23 17:14:47,758 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:48,268 - INFO -     Downloader: match_748347_a.pdf
+2025-03-23 17:14:48,277 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748347/a?download=0
+2025-03-23 17:14:49,146 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:49,655 - INFO -     Downloader: match_748356_a.pdf
+2025-03-23 17:14:49,659 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748356/a?download=0
+2025-03-23 17:14:50,943 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:51,453 - INFO -     Downloader: match_748358_a.pdf
+2025-03-23 17:14:51,453 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748358/a?download=0
+2025-03-23 17:14:52,357 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:52,880 - INFO -     Downloader: match_748355_a.pdf
+2025-03-23 17:14:52,884 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748355/a?download=0
+2025-03-23 17:14:53,839 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:54,347 - INFO -     Downloader: match_748357_a.pdf
+2025-03-23 17:14:54,349 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748357/a?download=0
+2025-03-23 17:14:55,281 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:55,793 - INFO -     Downloader: match_748353_a.pdf
+2025-03-23 17:14:55,795 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748353/a?download=0
+2025-03-23 17:14:56,714 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:57,222 - INFO -     Downloader: match_748352_a.pdf
+2025-03-23 17:14:57,225 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748352/a?download=0
+2025-03-23 17:14:58,150 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:14:58,660 - INFO -     Downloader: match_748354_a.pdf
+2025-03-23 17:14:58,660 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9020199/748354/a?download=0
+2025-03-23 17:14:59,854 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:15:00,364 - INFO -   PDF download for kvindeligaen afsluttet på 220.23 sekunder
+2025-03-23 17:15:00,366 - INFO - ===============================================
+2025-03-23 17:15:00,366 - INFO -   Downloadet: 161, Sprunget over: 0, Fejlet: 21
+2025-03-23 17:15:00,366 - INFO - ===============================================
+2025-03-23 17:15:00,377 - INFO -   Kontrollerer om der er nye filer, der mangler processeringstrin...
+2025-03-23 17:15:36,811 - INFO -   Fandt efter download:
+2025-03-23 17:15:36,811 - INFO -       0 ugyldige PDF-filer
+2025-03-23 17:15:36,811 - INFO -       0 PDF-filer der mangler TXT-konvertering
+2025-03-23 17:15:36,811 - INFO -       161 TXT-filer der mangler DB-konvertering
+2025-03-23 17:15:36,811 - INFO -   Behandler nye filer der mangler processeringstrin...
+2025-03-23 17:15:36,811 - INFO -   Fandt 161 TXT-filer der mangler DB-konvertering
+2025-03-23 17:15:36,811 - INFO -   Kører TXT til DB konvertering...
+2025-03-23 17:15:36,819 - INFO - =====================================================================
+2025-03-23 17:15:36,819 - INFO - ===== Starter TXT til DB konvertering (kvindeligaen, 2024-2025) =====
+2025-03-23 17:15:36,819 - INFO - =====================================================================
+2025-03-23 17:15:36,819 - INFO -   Kører kommando: C:\Users\jonas\miniconda3\python.exe C:\Users\jonas\Desktop\Handball-ML\handball_data_processor.py --liga=kvindeligaen --sæson=2024-2025
+2025-03-23 17:15:39,669 - INFO -   Script handball_data_processor.py afsluttet på 2.85 sekunder
+2025-03-23 17:15:39,669 - INFO -   Output fra handball_data_processor.py:
+2025-03-23 17:15:39,669 - INFO -       > 
+2025-03-23 17:15:39,669 - INFO -       > Konvertering afsluttet!
+2025-03-23 17:15:39,669 - INFO -       > Vellykket: 0
+2025-03-23 17:15:39,669 - INFO -       > Mislykkedes: 0
+2025-03-23 17:15:39,669 - INFO -       > Sprunget over: 161
+2025-03-23 17:15:39,669 - INFO -       > Total: 161
+2025-03-23 17:15:39,716 - INFO -   Konverterede 0 TXT-filer til DB
+2025-03-23 17:15:39,722 - INFO - ====================================================
+2025-03-23 17:15:39,724 - INFO - 
+======= KVINDELIGAEN PROCESSERING AFSLUTTET =======
+2025-03-23 17:15:39,724 - INFO - ====================================================
+2025-03-23 17:15:39,725 - INFO -   Total køretid: 1669.80 sekunder
+2025-03-23 17:15:39,725 - INFO -   Filer efter processering:
+2025-03-23 17:15:39,726 - INFO -     PDF-filer: 161 (+0)
+2025-03-23 17:15:39,726 - INFO -     TXT-filer: 161 (+14)
+2025-03-23 17:15:39,726 - INFO -     DB-filer: 161 (+14)
+2025-03-23 17:15:39,727 - INFO - ==============
+2025-03-23 17:15:39,727 - INFO -   Opsummering:
+2025-03-23 17:15:39,727 - INFO - ==============
+2025-03-23 17:15:39,727 - INFO -     PDF: 161 downloadet, 0 sprunget over, 21 fejlet, 0 ugyldige fjernet
+2025-03-23 17:15:39,727 - INFO -     TXT: 14 konverteret, 0 sprunget over
+2025-03-23 17:15:39,727 - INFO -     DB: 0 behandlet, 0 sprunget over
+2025-03-23 17:15:39,732 - INFO - ==================================================================================
+2025-03-23 17:15:39,732 - INFO - 
+
+================================================================================
+2025-03-23 17:15:39,733 - INFO - ==================================================================================
+2025-03-23 17:15:39,733 - INFO - ==================
+2025-03-23 17:15:39,733 - INFO - WORKFLOW AFSLUTTET
+2025-03-23 17:15:39,733 - INFO - ==================
+2025-03-23 17:15:39,733 - INFO - ================================================================================
+2025-03-23 17:15:39,735 - INFO - ================================================================================
+2025-03-23 17:15:39,735 - INFO - ================================================================================
+2025-03-23 17:15:39,735 - INFO -   Liga: kvindeligaen, Sæson: 2024-2025
+2025-03-23 17:15:39,735 - INFO -   Total køretid: 1669.82 sekunder (27.83 minutter)
+2025-03-23 17:15:39,735 - INFO - ==================
+2025-03-23 17:15:39,735 - INFO -   Samlet resultat:
+2025-03-23 17:15:39,735 - INFO - ==================
+2025-03-23 17:15:39,736 - INFO -     PDF: 161 downloadet, 0 sprunget over, 21 fejlet
+2025-03-23 17:15:39,736 - INFO -     PDF Validering: 0 ugyldige PDF-filer fjernet
+2025-03-23 17:15:39,736 - INFO -     TXT: 14 konverteret, 0 sprunget over
+2025-03-23 17:15:39,736 - INFO -     DB: 0 behandlet, 0 sprunget over
+2025-03-23 17:15:39,736 - INFO - =========================================================================
+2025-03-23 17:15:39,742 - INFO - =========================================================================
+2025-03-23 17:17:00,910 - INFO - ================================================================================
+2025-03-23 17:17:00,910 - INFO - ================================================================================
+2025-03-23 17:17:00,910 - INFO - ================================================================================
+2025-03-23 17:17:00,910 - INFO - ==========================
+2025-03-23 17:17:00,913 - INFO - HÅNDBOLDHÆNDELSER WORKFLOW
+2025-03-23 17:17:00,913 - INFO - ==========================
+2025-03-23 17:17:00,913 - INFO - ================================
+2025-03-23 17:17:00,913 - INFO - Dato og tid: 2025-03-23 17:17:00
+2025-03-23 17:17:00,913 - INFO - ================================
+2025-03-23 17:17:00,915 - INFO - ==========================================================
+2025-03-23 17:17:00,915 - INFO - Script version: 2.2 (forbedret processeringskæde-tracking)
+2025-03-23 17:17:00,915 - INFO - ==========================================================
+2025-03-23 17:17:00,915 - INFO - ================================================================================
+2025-03-23 17:17:00,916 - INFO - ================================================================================
+2025-03-23 17:17:00,916 - INFO - ================================================================================
+2025-03-23 17:17:00,934 - INFO -   Indlæst tracking data for 343 PDF-filer, 308 TXT-filer og 0 DB-filer
+2025-03-23 17:17:00,935 - INFO - ==================================================================================
+2025-03-23 17:17:00,935 - INFO - 
+
+================================================================================
+2025-03-23 17:17:00,935 - INFO - ==================================================================================
+2025-03-23 17:17:00,935 - INFO - =======================
+2025-03-23 17:17:00,938 - INFO - PROCESSERER HERRELIGAEN
+2025-03-23 17:17:00,938 - INFO - =======================
+2025-03-23 17:17:00,938 - INFO - ================================================================================
+2025-03-23 17:17:00,938 - INFO - ================================================================================
+2025-03-23 17:17:00,938 - INFO - ================================================================================
+2025-03-23 17:17:00,938 - INFO - =================================================
+2025-03-23 17:17:00,938 - INFO - 
+======= STARTER HERRELIGAEN PROCESSERING =======
+2025-03-23 17:17:00,938 - INFO - =================================================
+2025-03-23 17:17:00,938 - INFO -   Opsætter mappestruktur for Herreliga:
+2025-03-23 17:17:00,938 - INFO -     PDF-mappe: Herreliga\2024-2025
+2025-03-23 17:17:00,942 - INFO -     TXT-mappe: Herreliga-txt-tabel\2024-2025
+2025-03-23 17:17:00,942 - INFO -     DB-mappe: Herreliga-database\2024-2025
+2025-03-23 17:17:00,947 - INFO -   Filer før processering:
+2025-03-23 17:17:00,947 - INFO -     PDF-filer: 182
+2025-03-23 17:17:00,947 - INFO -     TXT-filer: 147
+2025-03-23 17:17:00,947 - INFO -     DB-filer: 147
+2025-03-23 17:17:00,949 - INFO -   Analyserer eksisterende filer for at finde manglende processeringstrin...
+2025-03-23 17:17:32,440 - INFO -     PDF-fil indeholder for lidt tekst (219 tegn < 500)
+2025-03-23 17:17:40,311 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:40,402 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:40,402 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:40,528 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:40,535 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:40,659 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:40,659 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:40,808 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:40,809 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:41,004 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:41,012 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:41,197 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:41,204 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:41,384 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:41,393 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:41,558 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:41,558 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:41,756 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:41,756 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:41,895 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:41,895 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:42,070 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:42,077 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:42,227 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:42,228 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:42,385 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:42,388 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:42,598 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:42,601 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:42,717 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:42,720 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:42,789 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:42,789 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:42,857 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:42,857 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:42,922 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:42,922 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:42,997 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:42,997 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:43,063 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:43,063 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:43,138 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:43,138 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:43,204 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:43,204 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:43,271 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:43,271 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:43,341 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:43,346 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:43,450 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:43,450 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:43,550 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:43,552 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:43,686 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:43,686 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:43,900 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:43,903 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:44,082 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:44,082 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:44,190 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:44,192 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:44,299 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:44,299 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:44,409 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:44,410 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:44,477 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:44,486 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:44,552 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:44,552 - INFO -     PDF-fil har mistænkelig størrelse nær tom skabelon (275993 bytes)
+2025-03-23 17:17:44,621 - INFO -     Kunne ikke læse PDF-filen - sandsynligvis korrupt
+2025-03-23 17:17:44,622 - INFO -   Fandt:
+2025-03-23 17:17:44,622 - INFO -       36 ugyldige PDF-filer
+2025-03-23 17:17:44,623 - INFO -       0 PDF-filer der mangler TXT-konvertering
+2025-03-23 17:17:44,623 - INFO -       146 TXT-filer der mangler DB-konvertering
+2025-03-23 17:17:44,623 - INFO -   Sletter ugyldig PDF-fil: match_748756_a.pdf
+2025-03-23 17:17:44,623 - INFO -     Fjernet match_748756_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,626 - INFO -   Sletter ugyldig PDF-fil: match_748778_a.pdf
+2025-03-23 17:17:44,626 - INFO -     Fjernet match_748778_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,626 - INFO -   Sletter ugyldig PDF-fil: match_748779_a.pdf
+2025-03-23 17:17:44,626 - INFO -     Fjernet match_748779_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,628 - INFO -   Sletter ugyldig PDF-fil: match_748780_a.pdf
+2025-03-23 17:17:44,628 - INFO -     Fjernet match_748780_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,629 - INFO -   Sletter ugyldig PDF-fil: match_748781_a.pdf
+2025-03-23 17:17:44,629 - INFO -     Fjernet match_748781_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,630 - INFO -   Sletter ugyldig PDF-fil: match_748782_a.pdf
+2025-03-23 17:17:44,630 - INFO -     Fjernet match_748782_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,631 - INFO -   Sletter ugyldig PDF-fil: match_748783_a.pdf
+2025-03-23 17:17:44,631 - INFO -     Fjernet match_748783_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,631 - INFO -   Sletter ugyldig PDF-fil: match_748784_a.pdf
+2025-03-23 17:17:44,631 - INFO -     Fjernet match_748784_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,631 - INFO -   Sletter ugyldig PDF-fil: match_748785_a.pdf
+2025-03-23 17:17:44,633 - INFO -     Fjernet match_748785_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,633 - INFO -   Sletter ugyldig PDF-fil: match_748786_a.pdf
+2025-03-23 17:17:44,633 - INFO -     Fjernet match_748786_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,633 - INFO -   Sletter ugyldig PDF-fil: match_748787_a.pdf
+2025-03-23 17:17:44,633 - INFO -     Fjernet match_748787_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,633 - INFO -   Sletter ugyldig PDF-fil: match_748788_a.pdf
+2025-03-23 17:17:44,633 - INFO -     Fjernet match_748788_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,637 - INFO -   Sletter ugyldig PDF-fil: match_748789_a.pdf
+2025-03-23 17:17:44,637 - INFO -     Fjernet match_748789_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,638 - INFO -   Sletter ugyldig PDF-fil: match_748790_a.pdf
+2025-03-23 17:17:44,638 - INFO -     Fjernet match_748790_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,638 - INFO -   Sletter ugyldig PDF-fil: match_748791_a.pdf
+2025-03-23 17:17:44,639 - INFO -     Fjernet match_748791_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,639 - INFO -   Sletter ugyldig PDF-fil: match_748792_a.pdf
+2025-03-23 17:17:44,639 - INFO -     Fjernet match_748792_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,640 - INFO -   Sletter ugyldig PDF-fil: match_748793_a.pdf
+2025-03-23 17:17:44,640 - INFO -     Fjernet match_748793_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,641 - INFO -   Sletter ugyldig PDF-fil: match_748794_a.pdf
+2025-03-23 17:17:44,641 - INFO -     Fjernet match_748794_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,641 - INFO -   Sletter ugyldig PDF-fil: match_748795_a.pdf
+2025-03-23 17:17:44,641 - INFO -     Fjernet match_748795_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,642 - INFO -   Sletter ugyldig PDF-fil: match_748796_a.pdf
+2025-03-23 17:17:44,642 - INFO -     Fjernet match_748796_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,642 - INFO -   Sletter ugyldig PDF-fil: match_748797_a.pdf
+2025-03-23 17:17:44,642 - INFO -     Fjernet match_748797_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,642 - INFO -   Sletter ugyldig PDF-fil: match_748798_a.pdf
+2025-03-23 17:17:44,645 - INFO -     Fjernet match_748798_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,645 - INFO -   Sletter ugyldig PDF-fil: match_748799_a.pdf
+2025-03-23 17:17:44,645 - INFO -     Fjernet match_748799_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,646 - INFO -   Sletter ugyldig PDF-fil: match_748800_a.pdf
+2025-03-23 17:17:44,646 - INFO -     Fjernet match_748800_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,646 - INFO -   Sletter ugyldig PDF-fil: match_748801_a.pdf
+2025-03-23 17:17:44,646 - INFO -     Fjernet match_748801_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,647 - INFO -   Sletter ugyldig PDF-fil: match_748802_a.pdf
+2025-03-23 17:17:44,647 - INFO -     Fjernet match_748802_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,647 - INFO -   Sletter ugyldig PDF-fil: match_748803_a.pdf
+2025-03-23 17:17:44,648 - INFO -     Fjernet match_748803_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,648 - INFO -   Sletter ugyldig PDF-fil: match_748804_a.pdf
+2025-03-23 17:17:44,648 - INFO -     Fjernet match_748804_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,650 - INFO -   Sletter ugyldig PDF-fil: match_748805_a.pdf
+2025-03-23 17:17:44,650 - INFO -     Fjernet match_748805_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,650 - INFO -   Sletter ugyldig PDF-fil: match_748806_a.pdf
+2025-03-23 17:17:44,650 - INFO -     Fjernet match_748806_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,650 - INFO -   Sletter ugyldig PDF-fil: match_748807_a.pdf
+2025-03-23 17:17:44,650 - INFO -     Fjernet match_748807_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,652 - INFO -   Sletter ugyldig PDF-fil: match_748808_a.pdf
+2025-03-23 17:17:44,652 - INFO -     Fjernet match_748808_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,652 - INFO -   Sletter ugyldig PDF-fil: match_748809_a.pdf
+2025-03-23 17:17:44,652 - INFO -     Fjernet match_748809_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,653 - INFO -   Sletter ugyldig PDF-fil: match_748810_a.pdf
+2025-03-23 17:17:44,653 - INFO -     Fjernet match_748810_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,654 - INFO -   Sletter ugyldig PDF-fil: match_748811_a.pdf
+2025-03-23 17:17:44,654 - INFO -     Fjernet match_748811_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,654 - INFO -   Sletter ugyldig PDF-fil: match_748812_a.pdf
+2025-03-23 17:17:44,655 - INFO -     Fjernet match_748812_a.pdf fra tracking (pdf)
+2025-03-23 17:17:44,655 - INFO -   Fandt 146 TXT-filer der mangler DB-konvertering
+2025-03-23 17:17:44,656 - INFO -   Kører TXT til DB konvertering...
+2025-03-23 17:17:44,656 - INFO - ====================================================================
+2025-03-23 17:17:44,656 - INFO - ===== Starter TXT til DB konvertering (herreligaen, 2024-2025) =====
+2025-03-23 17:17:44,656 - INFO - ====================================================================
+2025-03-23 17:17:44,657 - INFO -   Kører kommando: C:\Users\jonas\miniconda3\python.exe C:\Users\jonas\Desktop\Handball-ML\handball_data_processor.py --liga=herreligaen --sæson=2024-2025
+2025-03-23 17:17:46,577 - INFO -   Script handball_data_processor.py afsluttet på 1.92 sekunder
+2025-03-23 17:17:46,577 - INFO -   Output fra handball_data_processor.py:
+2025-03-23 17:17:46,580 - INFO -       > 
+2025-03-23 17:17:46,580 - INFO -       > Konvertering afsluttet!
+2025-03-23 17:17:46,580 - INFO -       > Vellykket: 0
+2025-03-23 17:17:46,581 - INFO -       > Mislykkedes: 0
+2025-03-23 17:17:46,581 - INFO -       > Sprunget over: 147
+2025-03-23 17:17:46,582 - INFO -       > Total: 147
+2025-03-23 17:17:46,639 - INFO -   Konverterede 0 TXT-filer til DB
+2025-03-23 17:17:46,644 - INFO -   Opsætter mappestruktur for Herreliga:
+2025-03-23 17:17:46,644 - INFO -     PDF-mappe: Herreliga\2024-2025
+2025-03-23 17:17:46,644 - INFO -     TXT-mappe: Herreliga-txt-tabel\2024-2025
+2025-03-23 17:17:46,644 - INFO -     DB-mappe: Herreliga-database\2024-2025
+2025-03-23 17:17:46,644 - INFO - ============================================================
+2025-03-23 17:17:46,644 - INFO - ===== Starter PDF download for herreligaen (2024-2025) =====
+2025-03-23 17:17:46,647 - INFO - ============================================================
+2025-03-23 17:17:46,647 - INFO -   Henter kampprogramside fra: https://tophaandbold.dk/kampprogram/herreligaen?year=2024&team=&home_game=0&home_game=1&away_game=0&away_game=1
+2025-03-23 17:17:46,648 - INFO -   Henter kampprogram-siden...
+2025-03-23 17:17:49,695 - INFO -   HTML-side gemt som debug_page_herreligaen.html for debugging
+2025-03-23 17:17:49,754 - INFO -   Fandt 182 'Alle hændelser' links
+2025-03-23 17:17:50,325 - INFO -     PDF-filen match_748631_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:17:50,329 - INFO -       Markeret match_748631_a.pdf som behandlet (pdf)
+2025-03-23 17:17:51,396 - INFO -     PDF-filen match_748632_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:17:51,399 - INFO -       Markeret match_748632_a.pdf som behandlet (pdf)
+2025-03-23 17:17:52,592 - INFO -     PDF-filen match_748637_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:17:52,594 - INFO -       Markeret match_748637_a.pdf som behandlet (pdf)
+2025-03-23 17:17:53,598 - INFO -     PDF-filen match_748636_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:17:53,604 - INFO -       Markeret match_748636_a.pdf som behandlet (pdf)
+2025-03-23 17:17:54,577 - INFO -     PDF-filen match_748633_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:17:54,577 - INFO -       Markeret match_748633_a.pdf som behandlet (pdf)
+2025-03-23 17:17:55,621 - INFO -     PDF-filen match_748635_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:17:55,621 - INFO -       Markeret match_748635_a.pdf som behandlet (pdf)
+2025-03-23 17:17:56,725 - INFO -     PDF-filen match_748634_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:17:56,725 - INFO -       Markeret match_748634_a.pdf som behandlet (pdf)
+2025-03-23 17:17:58,016 - INFO -     PDF-filen match_748640_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:17:58,025 - INFO -       Markeret match_748640_a.pdf som behandlet (pdf)
+2025-03-23 17:17:59,049 - INFO -     PDF-filen match_748638_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:17:59,053 - INFO -       Markeret match_748638_a.pdf som behandlet (pdf)
+2025-03-23 17:18:00,053 - INFO -     PDF-filen match_748643_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:00,060 - INFO -       Markeret match_748643_a.pdf som behandlet (pdf)
+2025-03-23 17:18:01,030 - INFO -     PDF-filen match_748639_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:01,030 - INFO -       Markeret match_748639_a.pdf som behandlet (pdf)
+2025-03-23 17:18:02,302 - INFO -     PDF-filen match_748644_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:02,304 - INFO -       Markeret match_748644_a.pdf som behandlet (pdf)
+2025-03-23 17:18:03,422 - INFO -     PDF-filen match_748641_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:03,426 - INFO -       Markeret match_748641_a.pdf som behandlet (pdf)
+2025-03-23 17:18:04,468 - INFO -     PDF-filen match_748642_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:04,476 - INFO -       Markeret match_748642_a.pdf som behandlet (pdf)
+2025-03-23 17:18:06,083 - INFO -     PDF-filen match_748645_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:06,083 - INFO -       Markeret match_748645_a.pdf som behandlet (pdf)
+2025-03-23 17:18:07,204 - INFO -     PDF-filen match_748649_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:07,205 - INFO -       Markeret match_748649_a.pdf som behandlet (pdf)
+2025-03-23 17:18:09,124 - INFO -     PDF-filen match_748646_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:09,128 - INFO -       Markeret match_748646_a.pdf som behandlet (pdf)
+2025-03-23 17:18:10,680 - INFO -     PDF-filen match_748650_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:10,680 - INFO -       Markeret match_748650_a.pdf som behandlet (pdf)
+2025-03-23 17:18:11,800 - INFO -     PDF-filen match_748651_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:11,803 - INFO -       Markeret match_748651_a.pdf som behandlet (pdf)
+2025-03-23 17:18:12,862 - INFO -     PDF-filen match_748647_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:12,866 - INFO -       Markeret match_748647_a.pdf som behandlet (pdf)
+2025-03-23 17:18:13,857 - INFO -     PDF-filen match_748648_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:13,857 - INFO -       Markeret match_748648_a.pdf som behandlet (pdf)
+2025-03-23 17:18:15,095 - INFO -     PDF-filen match_748655_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:15,095 - INFO -       Markeret match_748655_a.pdf som behandlet (pdf)
+2025-03-23 17:18:16,765 - INFO -     PDF-filen match_748654_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:16,765 - INFO -       Markeret match_748654_a.pdf som behandlet (pdf)
+2025-03-23 17:18:18,334 - INFO -     PDF-filen match_748658_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:18,336 - INFO -       Markeret match_748658_a.pdf som behandlet (pdf)
+2025-03-23 17:18:20,297 - INFO -     PDF-filen match_748653_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:20,299 - INFO -       Markeret match_748653_a.pdf som behandlet (pdf)
+2025-03-23 17:18:21,873 - INFO -     PDF-filen match_748652_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:21,876 - INFO -       Markeret match_748652_a.pdf som behandlet (pdf)
+2025-03-23 17:18:23,813 - INFO -     PDF-filen match_748656_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:23,816 - INFO -       Markeret match_748656_a.pdf som behandlet (pdf)
+2025-03-23 17:18:25,724 - INFO -     PDF-filen match_748657_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:25,726 - INFO -       Markeret match_748657_a.pdf som behandlet (pdf)
+2025-03-23 17:18:27,358 - INFO -     PDF-filen match_748660_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:27,358 - INFO -       Markeret match_748660_a.pdf som behandlet (pdf)
+2025-03-23 17:18:28,509 - INFO -     PDF-filen match_748665_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:28,509 - INFO -       Markeret match_748665_a.pdf som behandlet (pdf)
+2025-03-23 17:18:29,466 - INFO -     PDF-filen match_748664_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:29,466 - INFO -       Markeret match_748664_a.pdf som behandlet (pdf)
+2025-03-23 17:18:30,384 - INFO -     PDF-filen match_748662_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:30,384 - INFO -       Markeret match_748662_a.pdf som behandlet (pdf)
+2025-03-23 17:18:31,360 - INFO -     PDF-filen match_748661_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:31,366 - INFO -       Markeret match_748661_a.pdf som behandlet (pdf)
+2025-03-23 17:18:32,460 - INFO -     PDF-filen match_748659_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:32,460 - INFO -       Markeret match_748659_a.pdf som behandlet (pdf)
+2025-03-23 17:18:33,410 - INFO -     PDF-filen match_748663_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:33,414 - INFO -       Markeret match_748663_a.pdf som behandlet (pdf)
+2025-03-23 17:18:34,523 - INFO -     PDF-filen match_748669_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:34,532 - INFO -       Markeret match_748669_a.pdf som behandlet (pdf)
+2025-03-23 17:18:35,710 - INFO -     PDF-filen match_748666_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:35,713 - INFO -       Markeret match_748666_a.pdf som behandlet (pdf)
+2025-03-23 17:18:37,098 - INFO -     PDF-filen match_748667_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:37,099 - INFO -       Markeret match_748667_a.pdf som behandlet (pdf)
+2025-03-23 17:18:38,245 - INFO -     PDF-filen match_748670_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:38,247 - INFO -       Markeret match_748670_a.pdf som behandlet (pdf)
+2025-03-23 17:18:39,343 - INFO -     PDF-filen match_748671_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:39,346 - INFO -       Markeret match_748671_a.pdf som behandlet (pdf)
+2025-03-23 17:18:40,348 - INFO -     PDF-filen match_748672_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:40,348 - INFO -       Markeret match_748672_a.pdf som behandlet (pdf)
+2025-03-23 17:18:41,472 - INFO -     PDF-filen match_748668_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:41,479 - INFO -       Markeret match_748668_a.pdf som behandlet (pdf)
+2025-03-23 17:18:42,633 - INFO -     PDF-filen match_748677_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:42,635 - INFO -       Markeret match_748677_a.pdf som behandlet (pdf)
+2025-03-23 17:18:43,615 - INFO -     PDF-filen match_748675_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:43,616 - INFO -       Markeret match_748675_a.pdf som behandlet (pdf)
+2025-03-23 17:18:44,669 - INFO -     PDF-filen match_748676_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:44,677 - INFO -       Markeret match_748676_a.pdf som behandlet (pdf)
+2025-03-23 17:18:45,655 - INFO -     PDF-filen match_748679_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:45,657 - INFO -       Markeret match_748679_a.pdf som behandlet (pdf)
+2025-03-23 17:18:46,666 - INFO -     PDF-filen match_748673_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:46,667 - INFO -       Markeret match_748673_a.pdf som behandlet (pdf)
+2025-03-23 17:18:47,817 - INFO -     PDF-filen match_748674_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:47,817 - INFO -       Markeret match_748674_a.pdf som behandlet (pdf)
+2025-03-23 17:18:48,846 - INFO -     PDF-filen match_748678_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:48,853 - INFO -       Markeret match_748678_a.pdf som behandlet (pdf)
+2025-03-23 17:18:50,000 - INFO -     PDF-filen match_748682_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:50,003 - INFO -       Markeret match_748682_a.pdf som behandlet (pdf)
+2025-03-23 17:18:51,169 - INFO -     PDF-filen match_748680_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:51,171 - INFO -       Markeret match_748680_a.pdf som behandlet (pdf)
+2025-03-23 17:18:52,350 - INFO -     PDF-filen match_748685_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:52,350 - INFO -       Markeret match_748685_a.pdf som behandlet (pdf)
+2025-03-23 17:18:53,355 - INFO -     PDF-filen match_748681_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:53,357 - INFO -       Markeret match_748681_a.pdf som behandlet (pdf)
+2025-03-23 17:18:54,325 - INFO -     PDF-filen match_748683_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:54,327 - INFO -       Markeret match_748683_a.pdf som behandlet (pdf)
+2025-03-23 17:18:55,369 - INFO -     PDF-filen match_748684_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:55,377 - INFO -       Markeret match_748684_a.pdf som behandlet (pdf)
+2025-03-23 17:18:56,375 - INFO -     PDF-filen match_748686_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:56,403 - INFO -       Markeret match_748686_a.pdf som behandlet (pdf)
+2025-03-23 17:18:57,453 - INFO -     PDF-filen match_748688_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:57,454 - INFO -       Markeret match_748688_a.pdf som behandlet (pdf)
+2025-03-23 17:18:58,692 - INFO -     PDF-filen match_748691_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:58,693 - INFO -       Markeret match_748691_a.pdf som behandlet (pdf)
+2025-03-23 17:18:59,739 - INFO -     PDF-filen match_748690_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:18:59,739 - INFO -       Markeret match_748690_a.pdf som behandlet (pdf)
+2025-03-23 17:19:00,850 - INFO -     PDF-filen match_748689_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:00,850 - INFO -       Markeret match_748689_a.pdf som behandlet (pdf)
+2025-03-23 17:19:01,995 - INFO -     PDF-filen match_748692_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:01,998 - INFO -       Markeret match_748692_a.pdf som behandlet (pdf)
+2025-03-23 17:19:03,070 - INFO -     PDF-filen match_748693_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:03,070 - INFO -       Markeret match_748693_a.pdf som behandlet (pdf)
+2025-03-23 17:19:04,098 - INFO -     PDF-filen match_748698_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:04,105 - INFO -       Markeret match_748698_a.pdf som behandlet (pdf)
+2025-03-23 17:19:05,218 - INFO -     PDF-filen match_748697_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:05,223 - INFO -       Markeret match_748697_a.pdf som behandlet (pdf)
+2025-03-23 17:19:06,449 - INFO -     PDF-filen match_748695_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:06,449 - INFO -       Markeret match_748695_a.pdf som behandlet (pdf)
+2025-03-23 17:19:07,674 - INFO -     PDF-filen match_748696_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:07,675 - INFO -       Markeret match_748696_a.pdf som behandlet (pdf)
+2025-03-23 17:19:08,676 - INFO -     PDF-filen match_748699_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:08,683 - INFO -       Markeret match_748699_a.pdf som behandlet (pdf)
+2025-03-23 17:19:09,744 - INFO -     PDF-filen match_748694_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:09,744 - INFO -       Markeret match_748694_a.pdf som behandlet (pdf)
+2025-03-23 17:19:10,787 - INFO -     PDF-filen match_748700_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:10,787 - INFO -       Markeret match_748700_a.pdf som behandlet (pdf)
+2025-03-23 17:19:11,929 - INFO -     PDF-filen match_748687_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:11,932 - INFO -       Markeret match_748687_a.pdf som behandlet (pdf)
+2025-03-23 17:19:13,017 - INFO -     PDF-filen match_748702_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:13,019 - INFO -       Markeret match_748702_a.pdf som behandlet (pdf)
+2025-03-23 17:19:14,160 - INFO -     PDF-filen match_748707_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:14,167 - INFO -       Markeret match_748707_a.pdf som behandlet (pdf)
+2025-03-23 17:19:15,131 - INFO -     PDF-filen match_748704_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:15,133 - INFO -       Markeret match_748704_a.pdf som behandlet (pdf)
+2025-03-23 17:19:16,257 - INFO -     PDF-filen match_748706_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:16,260 - INFO -       Markeret match_748706_a.pdf som behandlet (pdf)
+2025-03-23 17:19:17,300 - INFO -     PDF-filen match_748701_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:17,302 - INFO -       Markeret match_748701_a.pdf som behandlet (pdf)
+2025-03-23 17:19:18,382 - INFO -     PDF-filen match_748705_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:18,382 - INFO -       Markeret match_748705_a.pdf som behandlet (pdf)
+2025-03-23 17:19:19,542 - INFO -     PDF-filen match_748703_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:19,562 - INFO -       Markeret match_748703_a.pdf som behandlet (pdf)
+2025-03-23 17:19:20,584 - INFO -     PDF-filen match_748710_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:20,585 - INFO -       Markeret match_748710_a.pdf som behandlet (pdf)
+2025-03-23 17:19:21,628 - INFO -     PDF-filen match_748714_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:21,628 - INFO -       Markeret match_748714_a.pdf som behandlet (pdf)
+2025-03-23 17:19:22,860 - INFO -     PDF-filen match_748708_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:22,864 - INFO -       Markeret match_748708_a.pdf som behandlet (pdf)
+2025-03-23 17:19:23,929 - INFO -     PDF-filen match_748713_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:23,929 - INFO -       Markeret match_748713_a.pdf som behandlet (pdf)
+2025-03-23 17:19:24,897 - INFO -     PDF-filen match_748712_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:24,897 - INFO -       Markeret match_748712_a.pdf som behandlet (pdf)
+2025-03-23 17:19:25,797 - INFO -     PDF-filen match_748709_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:25,804 - INFO -       Markeret match_748709_a.pdf som behandlet (pdf)
+2025-03-23 17:19:27,040 - INFO -     PDF-filen match_748711_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:27,041 - INFO -       Markeret match_748711_a.pdf som behandlet (pdf)
+2025-03-23 17:19:28,021 - INFO -     PDF-filen match_748715_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:28,026 - INFO -       Markeret match_748715_a.pdf som behandlet (pdf)
+2025-03-23 17:19:29,221 - INFO -     PDF-filen match_748717_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:29,224 - INFO -       Markeret match_748717_a.pdf som behandlet (pdf)
+2025-03-23 17:19:30,258 - INFO -     PDF-filen match_748720_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:30,258 - INFO -       Markeret match_748720_a.pdf som behandlet (pdf)
+2025-03-23 17:19:31,483 - INFO -     PDF-filen match_748721_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:31,483 - INFO -       Markeret match_748721_a.pdf som behandlet (pdf)
+2025-03-23 17:19:32,901 - INFO -     PDF-filen match_748718_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:32,904 - INFO -       Markeret match_748718_a.pdf som behandlet (pdf)
+2025-03-23 17:19:34,011 - INFO -     PDF-filen match_748716_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:34,012 - INFO -       Markeret match_748716_a.pdf som behandlet (pdf)
+2025-03-23 17:19:35,206 - INFO -     PDF-filen match_748719_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:35,206 - INFO -       Markeret match_748719_a.pdf som behandlet (pdf)
+2025-03-23 17:19:36,156 - INFO -     PDF-filen match_748722_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:36,158 - INFO -       Markeret match_748722_a.pdf som behandlet (pdf)
+2025-03-23 17:19:37,357 - INFO -     PDF-filen match_748724_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:37,357 - INFO -       Markeret match_748724_a.pdf som behandlet (pdf)
+2025-03-23 17:19:38,805 - INFO -     PDF-filen match_748728_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:38,807 - INFO -       Markeret match_748728_a.pdf som behandlet (pdf)
+2025-03-23 17:19:39,906 - INFO -     PDF-filen match_748726_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:39,906 - INFO -       Markeret match_748726_a.pdf som behandlet (pdf)
+2025-03-23 17:19:40,985 - INFO -     PDF-filen match_748723_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:40,985 - INFO -       Markeret match_748723_a.pdf som behandlet (pdf)
+2025-03-23 17:19:42,298 - INFO -     PDF-filen match_748725_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:42,301 - INFO -       Markeret match_748725_a.pdf som behandlet (pdf)
+2025-03-23 17:19:43,291 - INFO -     PDF-filen match_748727_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:43,298 - INFO -       Markeret match_748727_a.pdf som behandlet (pdf)
+2025-03-23 17:19:44,531 - INFO -     PDF-filen match_748732_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:44,531 - INFO -       Markeret match_748732_a.pdf som behandlet (pdf)
+2025-03-23 17:19:45,620 - INFO -     PDF-filen match_748734_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:45,620 - INFO -       Markeret match_748734_a.pdf som behandlet (pdf)
+2025-03-23 17:19:46,674 - INFO -     PDF-filen match_748733_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:46,681 - INFO -       Markeret match_748733_a.pdf som behandlet (pdf)
+2025-03-23 17:19:47,636 - INFO -     PDF-filen match_748731_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:47,643 - INFO -       Markeret match_748731_a.pdf som behandlet (pdf)
+2025-03-23 17:19:48,624 - INFO -     PDF-filen match_748730_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:48,624 - INFO -       Markeret match_748730_a.pdf som behandlet (pdf)
+2025-03-23 17:19:49,589 - INFO -     PDF-filen match_748735_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:49,590 - INFO -       Markeret match_748735_a.pdf som behandlet (pdf)
+2025-03-23 17:19:50,793 - INFO -     PDF-filen match_748729_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:50,794 - INFO -       Markeret match_748729_a.pdf som behandlet (pdf)
+2025-03-23 17:19:51,850 - INFO -     PDF-filen match_748741_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:51,854 - INFO -       Markeret match_748741_a.pdf som behandlet (pdf)
+2025-03-23 17:19:52,910 - INFO -     PDF-filen match_748738_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:52,910 - INFO -       Markeret match_748738_a.pdf som behandlet (pdf)
+2025-03-23 17:19:54,025 - INFO -     PDF-filen match_748737_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:54,027 - INFO -       Markeret match_748737_a.pdf som behandlet (pdf)
+2025-03-23 17:19:55,011 - INFO -     PDF-filen match_748740_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:55,019 - INFO -       Markeret match_748740_a.pdf som behandlet (pdf)
+2025-03-23 17:19:56,072 - INFO -     PDF-filen match_748736_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:56,072 - INFO -       Markeret match_748736_a.pdf som behandlet (pdf)
+2025-03-23 17:19:57,073 - INFO -     PDF-filen match_748742_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:57,074 - INFO -       Markeret match_748742_a.pdf som behandlet (pdf)
+2025-03-23 17:19:58,294 - INFO -     PDF-filen match_748739_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:58,300 - INFO -       Markeret match_748739_a.pdf som behandlet (pdf)
+2025-03-23 17:19:59,328 - INFO -     PDF-filen match_748749_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:19:59,331 - INFO -       Markeret match_748749_a.pdf som behandlet (pdf)
+2025-03-23 17:20:00,406 - INFO -     PDF-filen match_748747_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:00,406 - INFO -       Markeret match_748747_a.pdf som behandlet (pdf)
+2025-03-23 17:20:01,418 - INFO -     PDF-filen match_748743_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:01,419 - INFO -       Markeret match_748743_a.pdf som behandlet (pdf)
+2025-03-23 17:20:02,393 - INFO -     PDF-filen match_748748_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:02,396 - INFO -       Markeret match_748748_a.pdf som behandlet (pdf)
+2025-03-23 17:20:03,476 - INFO -     PDF-filen match_748745_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:03,478 - INFO -       Markeret match_748745_a.pdf som behandlet (pdf)
+2025-03-23 17:20:04,522 - INFO -     PDF-filen match_748746_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:04,525 - INFO -       Markeret match_748746_a.pdf som behandlet (pdf)
+2025-03-23 17:20:05,611 - INFO -     PDF-filen match_748744_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:05,611 - INFO -       Markeret match_748744_a.pdf som behandlet (pdf)
+2025-03-23 17:20:06,767 - INFO -     PDF-filen match_748753_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:06,767 - INFO -       Markeret match_748753_a.pdf som behandlet (pdf)
+2025-03-23 17:20:07,831 - INFO -     PDF-filen match_748754_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:07,831 - INFO -       Markeret match_748754_a.pdf som behandlet (pdf)
+2025-03-23 17:20:09,337 - INFO -     PDF-filen match_748752_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:09,338 - INFO -       Markeret match_748752_a.pdf som behandlet (pdf)
+2025-03-23 17:20:09,846 - INFO -     Downloader: match_748756_a.pdf
+2025-03-23 17:20:09,849 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748756/a?download=0
+2025-03-23 17:20:11,004 - INFO -     PDF-fil indeholder for lidt tekst (219 tegn < 500)
+2025-03-23 17:20:11,004 - INFO -     Ugyldig PDF-fil: match_748756_a.pdf - sletter filen
+2025-03-23 17:20:11,005 - INFO -     Slettet ugyldig PDF-fil: match_748756_a.pdf
+2025-03-23 17:20:11,005 - INFO -     PDF-fil validering fejlede efter download, filen er slettet: match_748756_a.pdf
+2025-03-23 17:20:12,073 - INFO -     PDF-filen match_748750_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:12,074 - INFO -       Markeret match_748750_a.pdf som behandlet (pdf)
+2025-03-23 17:20:13,280 - INFO -     PDF-filen match_748751_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:13,283 - INFO -       Markeret match_748751_a.pdf som behandlet (pdf)
+2025-03-23 17:20:14,364 - INFO -     PDF-filen match_748755_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:14,364 - INFO -       Markeret match_748755_a.pdf som behandlet (pdf)
+2025-03-23 17:20:15,454 - INFO -     PDF-filen match_748758_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:15,465 - INFO -       Markeret match_748758_a.pdf som behandlet (pdf)
+2025-03-23 17:20:16,435 - INFO -     PDF-filen match_748763_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:16,438 - INFO -       Markeret match_748763_a.pdf som behandlet (pdf)
+2025-03-23 17:20:17,477 - INFO -     PDF-filen match_748757_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:17,477 - INFO -       Markeret match_748757_a.pdf som behandlet (pdf)
+2025-03-23 17:20:18,547 - INFO -     PDF-filen match_748761_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:18,548 - INFO -       Markeret match_748761_a.pdf som behandlet (pdf)
+2025-03-23 17:20:19,749 - INFO -     PDF-filen match_748760_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:19,749 - INFO -       Markeret match_748760_a.pdf som behandlet (pdf)
+2025-03-23 17:20:20,827 - INFO -     PDF-filen match_748759_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:20,828 - INFO -       Markeret match_748759_a.pdf som behandlet (pdf)
+2025-03-23 17:20:21,894 - INFO -     PDF-filen match_748762_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:21,900 - INFO -       Markeret match_748762_a.pdf som behandlet (pdf)
+2025-03-23 17:20:22,966 - INFO -     PDF-filen match_748764_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:22,973 - INFO -       Markeret match_748764_a.pdf som behandlet (pdf)
+2025-03-23 17:20:24,122 - INFO -     PDF-filen match_748770_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:24,124 - INFO -       Markeret match_748770_a.pdf som behandlet (pdf)
+2025-03-23 17:20:25,147 - INFO -     PDF-filen match_748767_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:25,149 - INFO -       Markeret match_748767_a.pdf som behandlet (pdf)
+2025-03-23 17:20:26,605 - INFO -     PDF-filen match_748765_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:26,605 - INFO -       Markeret match_748765_a.pdf som behandlet (pdf)
+2025-03-23 17:20:27,802 - INFO -     PDF-filen match_748769_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:27,804 - INFO -       Markeret match_748769_a.pdf som behandlet (pdf)
+2025-03-23 17:20:28,928 - INFO -     PDF-filen match_748766_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:28,928 - INFO -       Markeret match_748766_a.pdf som behandlet (pdf)
+2025-03-23 17:20:30,082 - INFO -     PDF-filen match_748768_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:30,082 - INFO -       Markeret match_748768_a.pdf som behandlet (pdf)
+2025-03-23 17:20:31,168 - INFO -     PDF-filen match_748775_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:31,168 - INFO -       Markeret match_748775_a.pdf som behandlet (pdf)
+2025-03-23 17:20:32,332 - INFO -     PDF-filen match_748773_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:32,337 - INFO -       Markeret match_748773_a.pdf som behandlet (pdf)
+2025-03-23 17:20:33,602 - INFO -     PDF-filen match_748771_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:33,604 - INFO -       Markeret match_748771_a.pdf som behandlet (pdf)
+2025-03-23 17:20:34,660 - INFO -     PDF-filen match_748776_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:34,664 - INFO -       Markeret match_748776_a.pdf som behandlet (pdf)
+2025-03-23 17:20:35,719 - INFO -     PDF-filen match_748774_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:35,719 - INFO -       Markeret match_748774_a.pdf som behandlet (pdf)
+2025-03-23 17:20:36,743 - INFO -     PDF-filen match_748772_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:36,743 - INFO -       Markeret match_748772_a.pdf som behandlet (pdf)
+2025-03-23 17:20:37,799 - INFO -     PDF-filen match_748777_a.pdf findes og er gyldig, men mangler viderebehandling.
+2025-03-23 17:20:37,799 - INFO -       Markeret match_748777_a.pdf som behandlet (pdf)
+2025-03-23 17:20:38,310 - INFO -     Downloader: match_748784_a.pdf
+2025-03-23 17:20:38,310 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748784/a?download=0
+2025-03-23 17:20:39,717 - INFO -     PDF-fil gemt: match_748784_a.pdf (236531 bytes)
+2025-03-23 17:20:39,724 - INFO -       Markeret match_748784_a.pdf som behandlet (pdf)
+2025-03-23 17:20:40,232 - INFO -     Downloader: match_748778_a.pdf
+2025-03-23 17:20:40,234 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748778/a?download=0
+2025-03-23 17:20:41,872 - INFO -     PDF-fil gemt: match_748778_a.pdf (237866 bytes)
+2025-03-23 17:20:41,874 - INFO -       Markeret match_748778_a.pdf som behandlet (pdf)
+2025-03-23 17:20:42,380 - INFO -     Downloader: match_748780_a.pdf
+2025-03-23 17:20:42,380 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748780/a?download=0
+2025-03-23 17:20:44,221 - INFO -     PDF-fil gemt: match_748780_a.pdf (237983 bytes)
+2025-03-23 17:20:44,221 - INFO -       Markeret match_748780_a.pdf som behandlet (pdf)
+2025-03-23 17:20:44,727 - INFO -     Downloader: match_748779_a.pdf
+2025-03-23 17:20:44,730 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748779/a?download=0
+2025-03-23 17:20:46,677 - INFO -     PDF-fil gemt: match_748779_a.pdf (235342 bytes)
+2025-03-23 17:20:46,677 - INFO -       Markeret match_748779_a.pdf som behandlet (pdf)
+2025-03-23 17:20:47,191 - INFO -     Downloader: match_748783_a.pdf
+2025-03-23 17:20:47,193 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748783/a?download=0
+2025-03-23 17:20:48,852 - INFO -     PDF-fil gemt: match_748783_a.pdf (236517 bytes)
+2025-03-23 17:20:48,855 - INFO -       Markeret match_748783_a.pdf som behandlet (pdf)
+2025-03-23 17:20:49,361 - INFO -     Downloader: match_748782_a.pdf
+2025-03-23 17:20:49,361 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748782/a?download=0
+2025-03-23 17:20:50,724 - INFO -     PDF-fil gemt: match_748782_a.pdf (238554 bytes)
+2025-03-23 17:20:50,727 - INFO -       Markeret match_748782_a.pdf som behandlet (pdf)
+2025-03-23 17:20:51,240 - INFO -     Downloader: match_748781_a.pdf
+2025-03-23 17:20:51,241 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748781/a?download=0
+2025-03-23 17:20:53,035 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:20:53,547 - INFO -     Downloader: match_748787_a.pdf
+2025-03-23 17:20:53,550 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748787/a?download=0
+2025-03-23 17:20:54,518 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:20:55,029 - INFO -     Downloader: match_748789_a.pdf
+2025-03-23 17:20:55,029 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748789/a?download=0
+2025-03-23 17:20:55,810 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:20:56,321 - INFO -     Downloader: match_748786_a.pdf
+2025-03-23 17:20:56,324 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748786/a?download=0
+2025-03-23 17:20:57,370 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:20:57,878 - INFO -     Downloader: match_748790_a.pdf
+2025-03-23 17:20:57,883 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748790/a?download=0
+2025-03-23 17:20:58,810 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:20:59,322 - INFO -     Downloader: match_748785_a.pdf
+2025-03-23 17:20:59,324 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748785/a?download=0
+2025-03-23 17:21:00,277 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:00,785 - INFO -     Downloader: match_748791_a.pdf
+2025-03-23 17:21:00,790 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748791/a?download=0
+2025-03-23 17:21:02,021 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:02,531 - INFO -     Downloader: match_748788_a.pdf
+2025-03-23 17:21:02,531 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748788/a?download=0
+2025-03-23 17:21:03,748 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:04,257 - INFO -     Downloader: match_748798_a.pdf
+2025-03-23 17:21:04,258 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748798/a?download=0
+2025-03-23 17:21:05,238 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:05,749 - INFO -     Downloader: match_748792_a.pdf
+2025-03-23 17:21:05,750 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748792/a?download=0
+2025-03-23 17:21:06,756 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:07,264 - INFO -     Downloader: match_748794_a.pdf
+2025-03-23 17:21:07,268 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748794/a?download=0
+2025-03-23 17:21:08,300 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:08,813 - INFO -     Downloader: match_748795_a.pdf
+2025-03-23 17:21:08,815 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748795/a?download=0
+2025-03-23 17:21:09,911 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:10,422 - INFO -     Downloader: match_748797_a.pdf
+2025-03-23 17:21:10,426 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748797/a?download=0
+2025-03-23 17:21:11,536 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:12,045 - INFO -     Downloader: match_748796_a.pdf
+2025-03-23 17:21:12,047 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748796/a?download=0
+2025-03-23 17:21:12,916 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:13,427 - INFO -     Downloader: match_748793_a.pdf
+2025-03-23 17:21:13,429 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748793/a?download=0
+2025-03-23 17:21:14,392 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:14,903 - INFO -     Downloader: match_748800_a.pdf
+2025-03-23 17:21:14,905 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748800/a?download=0
+2025-03-23 17:21:15,980 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:16,491 - INFO -     Downloader: match_748802_a.pdf
+2025-03-23 17:21:16,493 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748802/a?download=0
+2025-03-23 17:21:17,417 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:17,928 - INFO -     Downloader: match_748803_a.pdf
+2025-03-23 17:21:17,931 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748803/a?download=0
+2025-03-23 17:21:18,806 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:19,315 - INFO -     Downloader: match_748805_a.pdf
+2025-03-23 17:21:19,318 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748805/a?download=0
+2025-03-23 17:21:20,274 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:20,784 - INFO -     Downloader: match_748801_a.pdf
+2025-03-23 17:21:20,788 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748801/a?download=0
+2025-03-23 17:21:21,990 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:22,498 - INFO -     Downloader: match_748799_a.pdf
+2025-03-23 17:21:22,500 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748799/a?download=0
+2025-03-23 17:21:23,699 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:24,210 - INFO -     Downloader: match_748804_a.pdf
+2025-03-23 17:21:24,213 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748804/a?download=0
+2025-03-23 17:21:25,505 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:26,015 - INFO -     Downloader: match_748811_a.pdf
+2025-03-23 17:21:26,017 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748811/a?download=0
+2025-03-23 17:21:26,963 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:27,473 - INFO -     Downloader: match_748809_a.pdf
+2025-03-23 17:21:27,477 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748809/a?download=0
+2025-03-23 17:21:28,586 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:29,099 - INFO -     Downloader: match_748810_a.pdf
+2025-03-23 17:21:29,102 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748810/a?download=0
+2025-03-23 17:21:29,993 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:30,500 - INFO -     Downloader: match_748808_a.pdf
+2025-03-23 17:21:30,504 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748808/a?download=0
+2025-03-23 17:21:31,380 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:31,888 - INFO -     Downloader: match_748806_a.pdf
+2025-03-23 17:21:31,890 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748806/a?download=0
+2025-03-23 17:21:32,986 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:33,498 - INFO -     Downloader: match_748807_a.pdf
+2025-03-23 17:21:33,499 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748807/a?download=0
+2025-03-23 17:21:34,450 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:34,960 - INFO -     Downloader: match_748812_a.pdf
+2025-03-23 17:21:34,962 - INFO -         URL: https://tophaandbold.dk/intranet/pdfs/game/2024/9010199/748812/a?download=0
+2025-03-23 17:21:35,879 - INFO -     Advarsel: Indholdet ligner ikke en PDF-fil. Content-Type: text/html; charset=UTF-8
+2025-03-23 17:21:36,391 - INFO -   PDF download for herreligaen afsluttet på 229.74 sekunder
+2025-03-23 17:21:36,394 - INFO - ===============================================
+2025-03-23 17:21:36,395 - INFO -   Downloadet: 152, Sprunget over: 0, Fejlet: 30
+2025-03-23 17:21:36,395 - INFO - ===============================================
+2025-03-23 17:21:36,401 - INFO -   Kontrollerer om der er nye filer, der mangler processeringstrin...
+2025-03-23 17:22:32,488 - INFO -   Fandt efter download:
+2025-03-23 17:22:32,488 - INFO -       0 ugyldige PDF-filer
+2025-03-23 17:22:32,488 - INFO -       6 PDF-filer der mangler TXT-konvertering
+2025-03-23 17:22:32,492 - INFO -       146 TXT-filer der mangler DB-konvertering
+2025-03-23 17:22:32,492 - INFO -   Behandler nye filer der mangler processeringstrin...
+2025-03-23 17:22:32,492 - INFO -   Fandt 6 PDF-filer der mangler TXT-konvertering
+2025-03-23 17:22:32,493 - INFO -   Kører PDF til TXT konvertering...
+2025-03-23 17:22:32,493 - INFO - =====================================================================
+2025-03-23 17:22:32,494 - INFO - ===== Starter PDF til TXT konvertering (herreligaen, 2024-2025) =====
+2025-03-23 17:22:32,494 - INFO - =====================================================================
+2025-03-23 17:22:32,495 - INFO -   Kører kommando: C:\Users\jonas\miniconda3\python.exe C:\Users\jonas\Desktop\Handball-ML\pdf_to_text_converter.py --liga=herreligaen --sæson=2024-2025
+2025-03-23 17:22:33,018 - INFO -   Script pdf_to_text_converter.py afsluttet på 0.52 sekunder
+2025-03-23 17:22:33,018 - INFO -   Output fra pdf_to_text_converter.py:
+2025-03-23 17:22:33,022 - INFO -       > Starter konvertering af PDF-filer fra Herreliga\2024-2025
+2025-03-23 17:22:33,023 - INFO -       > Tekstfiler vil blive gemt i: C:\Users\jonas\Desktop\Handball-ML\Herreliga-txt-tabel\2024-2025
+2025-03-23 17:22:33,023 - INFO -       > Fandt 152 PDF-filer
+2025-03-23 17:22:33,024 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748631_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,024 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748632_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,024 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748633_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,025 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748634_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,025 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748635_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,027 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748636_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,027 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748637_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,027 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748638_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,027 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748639_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,027 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748640_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,027 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748641_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,027 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748642_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,029 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748643_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,031 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748644_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,031 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748645_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,031 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748646_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,032 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748647_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,032 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748648_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,032 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748649_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,033 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748650_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,033 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748651_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,034 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748652_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,034 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748653_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,034 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748654_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,034 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748655_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,034 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748656_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,034 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748657_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,036 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748658_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,036 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748659_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,036 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748660_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,038 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748661_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,038 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748662_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,039 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748663_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,039 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748664_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,039 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748665_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,039 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748666_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,040 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748667_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,040 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748668_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,040 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748669_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,041 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748670_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,041 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748671_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,042 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748672_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,042 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748673_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,042 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748674_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,042 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748675_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,042 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748676_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,042 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748677_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,045 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748678_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,045 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748679_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,045 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748680_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,046 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748681_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,046 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748682_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,047 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748683_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,047 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748684_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,047 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748685_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,049 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748686_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,049 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748687_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,049 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748688_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,049 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748689_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,050 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748690_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,050 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748691_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,050 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748692_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,051 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748693_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,051 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748694_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,051 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748695_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,051 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748696_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,051 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748697_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,053 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748698_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,053 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748699_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,053 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748700_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,054 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748701_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,054 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748702_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,054 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748703_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,054 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748704_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,054 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748705_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,056 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748706_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,056 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748707_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,056 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748708_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,056 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748709_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748710_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748711_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748712_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748713_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748714_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748715_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748716_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748717_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748718_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748719_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,059 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748720_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,064 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748721_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,064 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748722_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,064 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748723_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,065 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748724_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,065 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748725_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,065 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748726_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,065 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748727_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,065 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748728_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,065 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748729_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,065 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748730_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,065 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748731_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,069 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748732_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,069 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748733_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,069 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748734_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,070 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748735_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,070 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748736_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,070 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748737_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,070 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748738_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,071 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748739_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,071 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748740_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,071 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748741_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,071 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748742_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,073 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748743_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,073 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748744_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,073 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748745_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,073 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748746_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,073 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748747_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,075 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748748_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,075 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748749_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,075 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748750_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,075 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748751_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,075 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748752_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,077 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748753_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,077 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748754_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,077 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748755_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,077 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748757_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,077 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748758_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,077 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748759_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,079 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748760_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,079 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748761_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,079 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748762_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,079 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748763_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748764_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748765_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748766_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748767_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748768_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748769_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748770_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748771_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748772_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748773_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748774_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748775_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,081 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748776_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,087 - INFO -       > Filen Herreliga-txt-tabel\2024-2025\match_748777_a.txt findes allerede. Springer over.
+2025-03-23 17:22:33,087 - INFO -       > Konverteret match_748778_a.pdf til match_748778_a.txt
+2025-03-23 17:22:33,087 - INFO -       > Konverteret match_748779_a.pdf til match_748779_a.txt
+2025-03-23 17:22:33,088 - INFO -       > Konverteret match_748780_a.pdf til match_748780_a.txt
+2025-03-23 17:22:33,088 - INFO -       > Konverteret match_748782_a.pdf til match_748782_a.txt
+2025-03-23 17:22:33,088 - INFO -       > Konverteret match_748783_a.pdf til match_748783_a.txt
+2025-03-23 17:22:33,088 - INFO -       > Konverteret match_748784_a.pdf til match_748784_a.txt
+2025-03-23 17:22:33,090 - INFO -       > 
+2025-03-23 17:22:33,090 - INFO -       > Konvertering afsluttet!
+2025-03-23 17:22:33,090 - INFO -       > Vellykket: 6
+2025-03-23 17:22:33,090 - INFO -       > Mislykkedes: 0
+2025-03-23 17:22:33,090 - INFO -       > Sprunget over: 146
+2025-03-23 17:22:33,090 - INFO -       > Total: 152
+2025-03-23 17:22:33,090 - INFO -       > Tekstfiler blev gemt i: C:\Users\jonas\Desktop\Handball-ML\Herreliga-txt-tabel\2024-2025
+2025-03-23 17:22:33,090 - INFO -       > 
+2025-03-23 17:22:33,090 - INFO -       > Køretid: 0.17 sekunder
+2025-03-23 17:22:33,114 - INFO -       Markeret match_748778_a.txt som behandlet (txt)
+2025-03-23 17:22:33,154 - INFO -       Markeret match_748779_a.txt som behandlet (txt)
+2025-03-23 17:22:33,175 - INFO -       Markeret match_748780_a.txt som behandlet (txt)
+2025-03-23 17:22:33,197 - INFO -       Markeret match_748782_a.txt som behandlet (txt)
+2025-03-23 17:22:33,217 - INFO -       Markeret match_748783_a.txt som behandlet (txt)
+2025-03-23 17:22:33,239 - INFO -       Markeret match_748784_a.txt som behandlet (txt)
+2025-03-23 17:22:33,241 - INFO -   Konverterede 6 PDF-filer til TXT
+2025-03-23 17:22:33,241 - INFO -   Fandt 146 TXT-filer der mangler DB-konvertering
+2025-03-23 17:22:33,243 - INFO -   Kører TXT til DB konvertering...
+2025-03-23 17:22:33,245 - INFO - ====================================================================
+2025-03-23 17:22:33,245 - INFO - ===== Starter TXT til DB konvertering (herreligaen, 2024-2025) =====
+2025-03-23 17:22:33,246 - INFO - ====================================================================
+2025-03-23 17:22:33,247 - INFO -   Kører kommando: C:\Users\jonas\miniconda3\python.exe C:\Users\jonas\Desktop\Handball-ML\handball_data_processor.py --liga=herreligaen --sæson=2024-2025
+2025-03-23 17:32:21,381 - INFO -   Script handball_data_processor.py afsluttet på 588.13 sekunder
+2025-03-23 17:32:21,381 - INFO -   Output fra handball_data_processor.py:
+2025-03-23 17:32:21,384 - INFO -       > 
+2025-03-23 17:32:21,384 - INFO -       > Konvertering afsluttet!
+2025-03-23 17:32:21,386 - INFO -       > Vellykket: 6
+2025-03-23 17:32:21,386 - INFO -       > Mislykkedes: 0
+2025-03-23 17:32:21,387 - INFO -       > Sprunget over: 147
+2025-03-23 17:32:21,387 - INFO -       > Total: 153
+2025-03-23 17:32:21,468 - INFO -   Konverterede 0 TXT-filer til DB
+2025-03-23 17:32:21,485 - INFO - ===================================================
+2025-03-23 17:32:21,485 - INFO - 
+======= HERRELIGAEN PROCESSERING AFSLUTTET =======
+2025-03-23 17:32:21,485 - INFO - ===================================================
+2025-03-23 17:32:21,491 - INFO -   Total køretid: 920.54 sekunder
+2025-03-23 17:32:21,492 - INFO -   Filer efter processering:
+2025-03-23 17:32:21,492 - INFO -     PDF-filer: 152 (-30)
+2025-03-23 17:32:21,495 - INFO -     TXT-filer: 153 (+6)
+2025-03-23 17:32:21,496 - INFO -     DB-filer: 153 (+6)
+2025-03-23 17:32:21,496 - INFO - ==============
+2025-03-23 17:32:21,496 - INFO -   Opsummering:
+2025-03-23 17:32:21,496 - INFO - ==============
+2025-03-23 17:32:21,497 - INFO -     PDF: 152 downloadet, 0 sprunget over, 30 fejlet, 36 ugyldige fjernet
+2025-03-23 17:32:21,497 - INFO -     TXT: 6 konverteret, 0 sprunget over
+2025-03-23 17:32:21,499 - INFO -     DB: 0 behandlet, 0 sprunget over
+2025-03-23 17:32:21,515 - INFO - ==================================================================================
+2025-03-23 17:32:21,516 - INFO - 
+
+================================================================================
+2025-03-23 17:32:21,516 - INFO - ==================================================================================
+2025-03-23 17:32:21,516 - INFO - ==================
+2025-03-23 17:32:21,516 - INFO - WORKFLOW AFSLUTTET
+2025-03-23 17:32:21,516 - INFO - ==================
+2025-03-23 17:32:21,520 - INFO - ================================================================================
+2025-03-23 17:32:21,520 - INFO - ================================================================================
+2025-03-23 17:32:21,521 - INFO - ================================================================================
+2025-03-23 17:32:21,521 - INFO -   Liga: herreligaen, Sæson: 2024-2025
+2025-03-23 17:32:21,521 - INFO -   Total køretid: 920.57 sekunder (15.34 minutter)
+2025-03-23 17:32:21,522 - INFO - ==================
+2025-03-23 17:32:21,523 - INFO -   Samlet resultat:
+2025-03-23 17:32:21,523 - INFO - ==================
+2025-03-23 17:32:21,524 - INFO -     PDF: 152 downloadet, 0 sprunget over, 30 fejlet
+2025-03-23 17:32:21,524 - INFO -     PDF Validering: 36 ugyldige PDF-filer fjernet
+2025-03-23 17:32:21,524 - INFO -     TXT: 6 konverteret, 0 sprunget over
+2025-03-23 17:32:21,524 - INFO -     DB: 0 behandlet, 0 sprunget over
+2025-03-23 17:32:21,528 - INFO - =========================================================================
+2025-03-23 17:32:21,540 - INFO - =========================================================================
