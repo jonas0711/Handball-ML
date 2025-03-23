@@ -19248,3 +19248,1866 @@ Anders Kragh ...
 2025-03-13 05:06:09,226 - INFO - ==== Konverteringsproces afsluttet ====
 2025-03-13 05:06:09,226 - INFO - Behandlet 147 filer: 147 succesfulde, 0 fejlede
 2025-03-13 05:06:09,226 - INFO - Sprunget over 0 allerede behandlede filer
+2025-03-19 13:22:20,158 - INFO - ==== Starter konverteringsproces ====
+2025-03-19 13:22:20,162 - INFO - Fandt 147 tekstfiler til potentiel behandling
+2025-03-19 13:22:20,162 - INFO - Tjekker om match_748177_a.txt allerede er behandlet...
+2025-03-19 13:22:20,163 - INFO - Fil match_748177_a.txt med kamp_id 748177 er ikke tidligere behandlet.
+2025-03-19 13:22:20,163 - INFO - Tjekker om match_748178_a.txt allerede er behandlet...
+2025-03-19 13:22:20,164 - INFO - Fil match_748178_a.txt med kamp_id 748178 er ikke tidligere behandlet.
+2025-03-19 13:22:20,164 - INFO - Tjekker om match_748179_a.txt allerede er behandlet...
+2025-03-19 13:22:20,165 - INFO - Fil match_748179_a.txt med kamp_id 748179 er ikke tidligere behandlet.
+2025-03-19 13:22:20,165 - INFO - Tjekker om match_748180_a.txt allerede er behandlet...
+2025-03-19 13:22:20,166 - INFO - Fil match_748180_a.txt med kamp_id 748180 er ikke tidligere behandlet.
+2025-03-19 13:22:20,166 - INFO - Tjekker om match_748181_a.txt allerede er behandlet...
+2025-03-19 13:22:20,167 - INFO - Fil match_748181_a.txt med kamp_id 748181 er ikke tidligere behandlet.
+2025-03-19 13:22:20,167 - INFO - Tjekker om match_748182_a.txt allerede er behandlet...
+2025-03-19 13:22:20,168 - INFO - Fil match_748182_a.txt med kamp_id 748182 er ikke tidligere behandlet.
+2025-03-19 13:22:20,168 - INFO - Tjekker om match_748183_a.txt allerede er behandlet...
+2025-03-19 13:22:20,169 - INFO - Fil match_748183_a.txt med kamp_id 748183 er ikke tidligere behandlet.
+2025-03-19 13:22:20,169 - INFO - Tjekker om match_748184_a.txt allerede er behandlet...
+2025-03-19 13:22:20,170 - INFO - Fil match_748184_a.txt med kamp_id 748184 er ikke tidligere behandlet.
+2025-03-19 13:22:20,170 - INFO - Tjekker om match_748185_a.txt allerede er behandlet...
+2025-03-19 13:22:20,171 - INFO - Fil match_748185_a.txt med kamp_id 748185 er ikke tidligere behandlet.
+2025-03-19 13:22:20,171 - INFO - Tjekker om match_748186_a.txt allerede er behandlet...
+2025-03-19 13:22:20,172 - INFO - Fil match_748186_a.txt med kamp_id 748186 er ikke tidligere behandlet.
+2025-03-19 13:22:20,172 - INFO - Tjekker om match_748187_a.txt allerede er behandlet...
+2025-03-19 13:22:20,172 - INFO - Fil match_748187_a.txt med kamp_id 748187 er ikke tidligere behandlet.
+2025-03-19 13:22:20,172 - INFO - Tjekker om match_748188_a.txt allerede er behandlet...
+2025-03-19 13:22:20,173 - INFO - Fil match_748188_a.txt med kamp_id 748188 er ikke tidligere behandlet.
+2025-03-19 13:22:20,173 - INFO - Tjekker om match_748189_a.txt allerede er behandlet...
+2025-03-19 13:22:20,174 - INFO - Fil match_748189_a.txt med kamp_id 748189 er ikke tidligere behandlet.
+2025-03-19 13:22:20,174 - INFO - Tjekker om match_748190_a.txt allerede er behandlet...
+2025-03-19 13:22:20,175 - INFO - Fil match_748190_a.txt med kamp_id 748190 er ikke tidligere behandlet.
+2025-03-19 13:22:20,175 - INFO - Tjekker om match_748191_a.txt allerede er behandlet...
+2025-03-19 13:22:20,176 - INFO - Fil match_748191_a.txt med kamp_id 748191 er ikke tidligere behandlet.
+2025-03-19 13:22:20,176 - INFO - Tjekker om match_748192_a.txt allerede er behandlet...
+2025-03-19 13:22:20,177 - INFO - Fil match_748192_a.txt med kamp_id 748192 er ikke tidligere behandlet.
+2025-03-19 13:22:20,177 - INFO - Tjekker om match_748193_a.txt allerede er behandlet...
+2025-03-19 13:22:20,177 - INFO - Fil match_748193_a.txt med kamp_id 748193 er ikke tidligere behandlet.
+2025-03-19 13:22:20,177 - INFO - Tjekker om match_748194_a.txt allerede er behandlet...
+2025-03-19 13:22:20,178 - INFO - Fil match_748194_a.txt med kamp_id 748194 er ikke tidligere behandlet.
+2025-03-19 13:22:20,178 - INFO - Tjekker om match_748195_a.txt allerede er behandlet...
+2025-03-19 13:22:20,179 - INFO - Fil match_748195_a.txt med kamp_id 748195 er ikke tidligere behandlet.
+2025-03-19 13:22:20,179 - INFO - Tjekker om match_748196_a.txt allerede er behandlet...
+2025-03-19 13:22:20,179 - INFO - Fil match_748196_a.txt med kamp_id 748196 er ikke tidligere behandlet.
+2025-03-19 13:22:20,180 - INFO - Tjekker om match_748197_a.txt allerede er behandlet...
+2025-03-19 13:22:20,180 - INFO - Fil match_748197_a.txt med kamp_id 748197 er ikke tidligere behandlet.
+2025-03-19 13:22:20,180 - INFO - Tjekker om match_748198_a.txt allerede er behandlet...
+2025-03-19 13:22:20,181 - INFO - Fil match_748198_a.txt med kamp_id 748198 er ikke tidligere behandlet.
+2025-03-19 13:22:20,181 - INFO - Tjekker om match_748199_a.txt allerede er behandlet...
+2025-03-19 13:22:20,182 - INFO - Fil match_748199_a.txt med kamp_id 748199 er ikke tidligere behandlet.
+2025-03-19 13:22:20,182 - INFO - Tjekker om match_748200_a.txt allerede er behandlet...
+2025-03-19 13:22:20,184 - INFO - Fil match_748200_a.txt med kamp_id 748200 er ikke tidligere behandlet.
+2025-03-19 13:22:20,184 - INFO - Tjekker om match_748201_a.txt allerede er behandlet...
+2025-03-19 13:22:20,185 - INFO - Fil match_748201_a.txt med kamp_id 748201 er ikke tidligere behandlet.
+2025-03-19 13:22:20,185 - INFO - Tjekker om match_748202_a.txt allerede er behandlet...
+2025-03-19 13:22:20,186 - INFO - Fil match_748202_a.txt med kamp_id 748202 er ikke tidligere behandlet.
+2025-03-19 13:22:20,186 - INFO - Tjekker om match_748203_a.txt allerede er behandlet...
+2025-03-19 13:22:20,187 - INFO - Fil match_748203_a.txt med kamp_id 748203 er ikke tidligere behandlet.
+2025-03-19 13:22:20,187 - INFO - Tjekker om match_748204_a.txt allerede er behandlet...
+2025-03-19 13:22:20,187 - INFO - Fil match_748204_a.txt med kamp_id 748204 er ikke tidligere behandlet.
+2025-03-19 13:22:20,187 - INFO - Tjekker om match_748205_a.txt allerede er behandlet...
+2025-03-19 13:22:20,188 - INFO - Fil match_748205_a.txt med kamp_id 748205 er ikke tidligere behandlet.
+2025-03-19 13:22:20,188 - INFO - Tjekker om match_748206_a.txt allerede er behandlet...
+2025-03-19 13:22:20,189 - INFO - Fil match_748206_a.txt med kamp_id 748206 er ikke tidligere behandlet.
+2025-03-19 13:22:20,189 - INFO - Tjekker om match_748207_a.txt allerede er behandlet...
+2025-03-19 13:22:20,190 - INFO - Fil match_748207_a.txt med kamp_id 748207 er ikke tidligere behandlet.
+2025-03-19 13:22:20,190 - INFO - Tjekker om match_748208_a.txt allerede er behandlet...
+2025-03-19 13:22:20,191 - INFO - Fil match_748208_a.txt med kamp_id 748208 er ikke tidligere behandlet.
+2025-03-19 13:22:20,191 - INFO - Tjekker om match_748209_a.txt allerede er behandlet...
+2025-03-19 13:22:20,191 - INFO - Fil match_748209_a.txt med kamp_id 748209 er ikke tidligere behandlet.
+2025-03-19 13:22:20,191 - INFO - Tjekker om match_748210_a.txt allerede er behandlet...
+2025-03-19 13:22:20,192 - INFO - Fil match_748210_a.txt med kamp_id 748210 er ikke tidligere behandlet.
+2025-03-19 13:22:20,192 - INFO - Tjekker om match_748211_a.txt allerede er behandlet...
+2025-03-19 13:22:20,193 - INFO - Fil match_748211_a.txt med kamp_id 748211 er ikke tidligere behandlet.
+2025-03-19 13:22:20,193 - INFO - Tjekker om match_748212_a.txt allerede er behandlet...
+2025-03-19 13:22:20,195 - INFO - Fil match_748212_a.txt med kamp_id 748212 er ikke tidligere behandlet.
+2025-03-19 13:22:20,195 - INFO - Tjekker om match_748213_a.txt allerede er behandlet...
+2025-03-19 13:22:20,196 - INFO - Fil match_748213_a.txt med kamp_id 748213 er ikke tidligere behandlet.
+2025-03-19 13:22:20,196 - INFO - Tjekker om match_748214_a.txt allerede er behandlet...
+2025-03-19 13:22:20,197 - INFO - Fil match_748214_a.txt med kamp_id 748214 er ikke tidligere behandlet.
+2025-03-19 13:22:20,197 - INFO - Tjekker om match_748215_a.txt allerede er behandlet...
+2025-03-19 13:22:20,198 - INFO - Fil match_748215_a.txt med kamp_id 748215 er ikke tidligere behandlet.
+2025-03-19 13:22:20,198 - INFO - Tjekker om match_748216_a.txt allerede er behandlet...
+2025-03-19 13:22:20,199 - INFO - Fil match_748216_a.txt med kamp_id 748216 er ikke tidligere behandlet.
+2025-03-19 13:22:20,199 - INFO - Tjekker om match_748217_a.txt allerede er behandlet...
+2025-03-19 13:22:20,199 - INFO - Fil match_748217_a.txt med kamp_id 748217 er ikke tidligere behandlet.
+2025-03-19 13:22:20,200 - INFO - Tjekker om match_748218_a.txt allerede er behandlet...
+2025-03-19 13:22:20,200 - INFO - Fil match_748218_a.txt med kamp_id 748218 er ikke tidligere behandlet.
+2025-03-19 13:22:20,200 - INFO - Tjekker om match_748219_a.txt allerede er behandlet...
+2025-03-19 13:22:20,201 - INFO - Fil match_748219_a.txt med kamp_id 748219 er ikke tidligere behandlet.
+2025-03-19 13:22:20,201 - INFO - Tjekker om match_748220_a.txt allerede er behandlet...
+2025-03-19 13:22:20,202 - INFO - Fil match_748220_a.txt med kamp_id 748220 er ikke tidligere behandlet.
+2025-03-19 13:22:20,202 - INFO - Tjekker om match_748221_a.txt allerede er behandlet...
+2025-03-19 13:22:20,203 - INFO - Fil match_748221_a.txt med kamp_id 748221 er ikke tidligere behandlet.
+2025-03-19 13:22:20,203 - INFO - Tjekker om match_748222_a.txt allerede er behandlet...
+2025-03-19 13:22:20,204 - INFO - Fil match_748222_a.txt med kamp_id 748222 er ikke tidligere behandlet.
+2025-03-19 13:22:20,204 - INFO - Tjekker om match_748223_a.txt allerede er behandlet...
+2025-03-19 13:22:20,205 - INFO - Fil match_748223_a.txt med kamp_id 748223 er ikke tidligere behandlet.
+2025-03-19 13:22:20,205 - INFO - Tjekker om match_748224_a.txt allerede er behandlet...
+2025-03-19 13:22:20,206 - INFO - Fil match_748224_a.txt med kamp_id 748224 er ikke tidligere behandlet.
+2025-03-19 13:22:20,206 - INFO - Tjekker om match_748225_a.txt allerede er behandlet...
+2025-03-19 13:22:20,206 - INFO - Fil match_748225_a.txt med kamp_id 748225 er ikke tidligere behandlet.
+2025-03-19 13:22:20,206 - INFO - Tjekker om match_748226_a.txt allerede er behandlet...
+2025-03-19 13:22:20,207 - INFO - Fil match_748226_a.txt med kamp_id 748226 er ikke tidligere behandlet.
+2025-03-19 13:22:20,207 - INFO - Tjekker om match_748227_a.txt allerede er behandlet...
+2025-03-19 13:22:20,208 - INFO - Fil match_748227_a.txt med kamp_id 748227 er ikke tidligere behandlet.
+2025-03-19 13:22:20,208 - INFO - Tjekker om match_748228_a.txt allerede er behandlet...
+2025-03-19 13:22:20,209 - INFO - Fil match_748228_a.txt med kamp_id 748228 er ikke tidligere behandlet.
+2025-03-19 13:22:20,209 - INFO - Tjekker om match_748229_a.txt allerede er behandlet...
+2025-03-19 13:22:20,211 - INFO - Fil match_748229_a.txt med kamp_id 748229 er ikke tidligere behandlet.
+2025-03-19 13:22:20,211 - INFO - Tjekker om match_748230_a.txt allerede er behandlet...
+2025-03-19 13:22:20,211 - INFO - Fil match_748230_a.txt med kamp_id 748230 er ikke tidligere behandlet.
+2025-03-19 13:22:20,211 - INFO - Tjekker om match_748231_a.txt allerede er behandlet...
+2025-03-19 13:22:20,212 - INFO - Fil match_748231_a.txt med kamp_id 748231 er ikke tidligere behandlet.
+2025-03-19 13:22:20,212 - INFO - Tjekker om match_748232_a.txt allerede er behandlet...
+2025-03-19 13:22:20,213 - INFO - Fil match_748232_a.txt med kamp_id 748232 er ikke tidligere behandlet.
+2025-03-19 13:22:20,213 - INFO - Tjekker om match_748233_a.txt allerede er behandlet...
+2025-03-19 13:22:20,213 - INFO - Fil match_748233_a.txt med kamp_id 748233 er ikke tidligere behandlet.
+2025-03-19 13:22:20,213 - INFO - Tjekker om match_748234_a.txt allerede er behandlet...
+2025-03-19 13:22:20,214 - INFO - Fil match_748234_a.txt med kamp_id 748234 er ikke tidligere behandlet.
+2025-03-19 13:22:20,214 - INFO - Tjekker om match_748235_a.txt allerede er behandlet...
+2025-03-19 13:22:20,215 - INFO - Fil match_748235_a.txt med kamp_id 748235 er ikke tidligere behandlet.
+2025-03-19 13:22:20,216 - INFO - Tjekker om match_748236_a.txt allerede er behandlet...
+2025-03-19 13:22:20,217 - INFO - Fil match_748236_a.txt med kamp_id 748236 er ikke tidligere behandlet.
+2025-03-19 13:22:20,217 - INFO - Tjekker om match_748237_a.txt allerede er behandlet...
+2025-03-19 13:22:20,218 - INFO - Fil match_748237_a.txt med kamp_id 748237 er ikke tidligere behandlet.
+2025-03-19 13:22:20,218 - INFO - Tjekker om match_748238_a.txt allerede er behandlet...
+2025-03-19 13:22:20,218 - INFO - Fil match_748238_a.txt med kamp_id 748238 er ikke tidligere behandlet.
+2025-03-19 13:22:20,218 - INFO - Tjekker om match_748239_a.txt allerede er behandlet...
+2025-03-19 13:22:20,220 - INFO - Fil match_748239_a.txt med kamp_id 748239 er ikke tidligere behandlet.
+2025-03-19 13:22:20,220 - INFO - Tjekker om match_748240_a.txt allerede er behandlet...
+2025-03-19 13:22:20,220 - INFO - Fil match_748240_a.txt med kamp_id 748240 er ikke tidligere behandlet.
+2025-03-19 13:22:20,220 - INFO - Tjekker om match_748241_a.txt allerede er behandlet...
+2025-03-19 13:22:20,222 - INFO - Fil match_748241_a.txt med kamp_id 748241 er ikke tidligere behandlet.
+2025-03-19 13:22:20,222 - INFO - Tjekker om match_748242_a.txt allerede er behandlet...
+2025-03-19 13:22:20,222 - INFO - Fil match_748242_a.txt med kamp_id 748242 er ikke tidligere behandlet.
+2025-03-19 13:22:20,222 - INFO - Tjekker om match_748243_a.txt allerede er behandlet...
+2025-03-19 13:22:20,223 - INFO - Fil match_748243_a.txt med kamp_id 748243 er ikke tidligere behandlet.
+2025-03-19 13:22:20,223 - INFO - Tjekker om match_748244_a.txt allerede er behandlet...
+2025-03-19 13:22:20,224 - INFO - Fil match_748244_a.txt med kamp_id 748244 er ikke tidligere behandlet.
+2025-03-19 13:22:20,224 - INFO - Tjekker om match_748245_a.txt allerede er behandlet...
+2025-03-19 13:22:20,224 - INFO - Fil match_748245_a.txt med kamp_id 748245 er ikke tidligere behandlet.
+2025-03-19 13:22:20,225 - INFO - Tjekker om match_748246_a.txt allerede er behandlet...
+2025-03-19 13:22:20,225 - INFO - Fil match_748246_a.txt med kamp_id 748246 er ikke tidligere behandlet.
+2025-03-19 13:22:20,225 - INFO - Tjekker om match_748247_a.txt allerede er behandlet...
+2025-03-19 13:22:20,226 - INFO - Fil match_748247_a.txt med kamp_id 748247 er ikke tidligere behandlet.
+2025-03-19 13:22:20,226 - INFO - Tjekker om match_748248_a.txt allerede er behandlet...
+2025-03-19 13:22:20,227 - INFO - Fil match_748248_a.txt med kamp_id 748248 er ikke tidligere behandlet.
+2025-03-19 13:22:20,227 - INFO - Tjekker om match_748249_a.txt allerede er behandlet...
+2025-03-19 13:22:20,227 - INFO - Fil match_748249_a.txt med kamp_id 748249 er ikke tidligere behandlet.
+2025-03-19 13:22:20,227 - INFO - Tjekker om match_748250_a.txt allerede er behandlet...
+2025-03-19 13:22:20,229 - INFO - Fil match_748250_a.txt med kamp_id 748250 er ikke tidligere behandlet.
+2025-03-19 13:22:20,229 - INFO - Tjekker om match_748251_a.txt allerede er behandlet...
+2025-03-19 13:22:20,229 - INFO - Fil match_748251_a.txt med kamp_id 748251 er ikke tidligere behandlet.
+2025-03-19 13:22:20,229 - INFO - Tjekker om match_748252_a.txt allerede er behandlet...
+2025-03-19 13:22:20,230 - INFO - Fil match_748252_a.txt med kamp_id 748252 er ikke tidligere behandlet.
+2025-03-19 13:22:20,230 - INFO - Tjekker om match_748253_a.txt allerede er behandlet...
+2025-03-19 13:22:20,231 - INFO - Fil match_748253_a.txt med kamp_id 748253 er ikke tidligere behandlet.
+2025-03-19 13:22:20,231 - INFO - Tjekker om match_748254_a.txt allerede er behandlet...
+2025-03-19 13:22:20,232 - INFO - Fil match_748254_a.txt med kamp_id 748254 er ikke tidligere behandlet.
+2025-03-19 13:22:20,232 - INFO - Tjekker om match_748255_a.txt allerede er behandlet...
+2025-03-19 13:22:20,232 - INFO - Fil match_748255_a.txt med kamp_id 748255 er ikke tidligere behandlet.
+2025-03-19 13:22:20,232 - INFO - Tjekker om match_748256_a.txt allerede er behandlet...
+2025-03-19 13:22:20,234 - INFO - Fil match_748256_a.txt med kamp_id 748256 er ikke tidligere behandlet.
+2025-03-19 13:22:20,234 - INFO - Tjekker om match_748257_a.txt allerede er behandlet...
+2025-03-19 13:22:20,235 - INFO - Fil match_748257_a.txt med kamp_id 748257 er ikke tidligere behandlet.
+2025-03-19 13:22:20,235 - INFO - Tjekker om match_748258_a.txt allerede er behandlet...
+2025-03-19 13:22:20,236 - INFO - Fil match_748258_a.txt med kamp_id 748258 er ikke tidligere behandlet.
+2025-03-19 13:22:20,236 - INFO - Tjekker om match_748259_a.txt allerede er behandlet...
+2025-03-19 13:22:20,237 - INFO - Fil match_748259_a.txt med kamp_id 748259 er ikke tidligere behandlet.
+2025-03-19 13:22:20,237 - INFO - Tjekker om match_748260_a.txt allerede er behandlet...
+2025-03-19 13:22:20,237 - INFO - Fil match_748260_a.txt med kamp_id 748260 er ikke tidligere behandlet.
+2025-03-19 13:22:20,237 - INFO - Tjekker om match_748261_a.txt allerede er behandlet...
+2025-03-19 13:22:20,238 - INFO - Fil match_748261_a.txt med kamp_id 748261 er ikke tidligere behandlet.
+2025-03-19 13:22:20,238 - INFO - Tjekker om match_748262_a.txt allerede er behandlet...
+2025-03-19 13:22:20,239 - INFO - Fil match_748262_a.txt med kamp_id 748262 er ikke tidligere behandlet.
+2025-03-19 13:22:20,239 - INFO - Tjekker om match_748263_a.txt allerede er behandlet...
+2025-03-19 13:22:20,239 - INFO - Fil match_748263_a.txt med kamp_id 748263 er ikke tidligere behandlet.
+2025-03-19 13:22:20,239 - INFO - Tjekker om match_748264_a.txt allerede er behandlet...
+2025-03-19 13:22:20,240 - INFO - Fil match_748264_a.txt med kamp_id 748264 er ikke tidligere behandlet.
+2025-03-19 13:22:20,240 - INFO - Tjekker om match_748265_a.txt allerede er behandlet...
+2025-03-19 13:22:20,241 - INFO - Fil match_748265_a.txt med kamp_id 748265 er ikke tidligere behandlet.
+2025-03-19 13:22:20,241 - INFO - Tjekker om match_748266_a.txt allerede er behandlet...
+2025-03-19 13:22:20,242 - INFO - Fil match_748266_a.txt med kamp_id 748266 er ikke tidligere behandlet.
+2025-03-19 13:22:20,242 - INFO - Tjekker om match_748267_a.txt allerede er behandlet...
+2025-03-19 13:22:20,242 - INFO - Fil match_748267_a.txt med kamp_id 748267 er ikke tidligere behandlet.
+2025-03-19 13:22:20,243 - INFO - Tjekker om match_748268_a.txt allerede er behandlet...
+2025-03-19 13:22:20,243 - INFO - Fil match_748268_a.txt med kamp_id 748268 er ikke tidligere behandlet.
+2025-03-19 13:22:20,243 - INFO - Tjekker om match_748269_a.txt allerede er behandlet...
+2025-03-19 13:22:20,245 - INFO - Fil match_748269_a.txt med kamp_id 748269 er ikke tidligere behandlet.
+2025-03-19 13:22:20,245 - INFO - Tjekker om match_748270_a.txt allerede er behandlet...
+2025-03-19 13:22:20,245 - INFO - Fil match_748270_a.txt med kamp_id 748270 er ikke tidligere behandlet.
+2025-03-19 13:22:20,245 - INFO - Tjekker om match_748271_a.txt allerede er behandlet...
+2025-03-19 13:22:20,246 - INFO - Fil match_748271_a.txt med kamp_id 748271 er ikke tidligere behandlet.
+2025-03-19 13:22:20,246 - INFO - Tjekker om match_748272_a.txt allerede er behandlet...
+2025-03-19 13:22:20,247 - INFO - Fil match_748272_a.txt med kamp_id 748272 er ikke tidligere behandlet.
+2025-03-19 13:22:20,247 - INFO - Tjekker om match_748273_a.txt allerede er behandlet...
+2025-03-19 13:22:20,248 - INFO - Fil match_748273_a.txt med kamp_id 748273 er ikke tidligere behandlet.
+2025-03-19 13:22:20,248 - INFO - Tjekker om match_748274_a.txt allerede er behandlet...
+2025-03-19 13:22:20,248 - INFO - Fil match_748274_a.txt med kamp_id 748274 er ikke tidligere behandlet.
+2025-03-19 13:22:20,248 - INFO - Tjekker om match_748275_a.txt allerede er behandlet...
+2025-03-19 13:22:20,250 - INFO - Fil match_748275_a.txt med kamp_id 748275 er ikke tidligere behandlet.
+2025-03-19 13:22:20,250 - INFO - Tjekker om match_748276_a.txt allerede er behandlet...
+2025-03-19 13:22:20,251 - INFO - Fil match_748276_a.txt med kamp_id 748276 er ikke tidligere behandlet.
+2025-03-19 13:22:20,251 - INFO - Tjekker om match_748277_a.txt allerede er behandlet...
+2025-03-19 13:22:20,252 - INFO - Fil match_748277_a.txt med kamp_id 748277 er ikke tidligere behandlet.
+2025-03-19 13:22:20,252 - INFO - Tjekker om match_748278_a.txt allerede er behandlet...
+2025-03-19 13:22:20,252 - INFO - Fil match_748278_a.txt med kamp_id 748278 er ikke tidligere behandlet.
+2025-03-19 13:22:20,252 - INFO - Tjekker om match_748279_a.txt allerede er behandlet...
+2025-03-19 13:22:20,253 - INFO - Fil match_748279_a.txt med kamp_id 748279 er ikke tidligere behandlet.
+2025-03-19 13:22:20,253 - INFO - Tjekker om match_748280_a.txt allerede er behandlet...
+2025-03-19 13:22:20,254 - INFO - Fil match_748280_a.txt med kamp_id 748280 er ikke tidligere behandlet.
+2025-03-19 13:22:20,254 - INFO - Tjekker om match_748281_a.txt allerede er behandlet...
+2025-03-19 13:22:20,255 - INFO - Fil match_748281_a.txt med kamp_id 748281 er ikke tidligere behandlet.
+2025-03-19 13:22:20,255 - INFO - Tjekker om match_748282_a.txt allerede er behandlet...
+2025-03-19 13:22:20,256 - INFO - Fil match_748282_a.txt med kamp_id 748282 er ikke tidligere behandlet.
+2025-03-19 13:22:20,256 - INFO - Tjekker om match_748283_a.txt allerede er behandlet...
+2025-03-19 13:22:20,258 - INFO - Fil match_748283_a.txt med kamp_id 748283 er ikke tidligere behandlet.
+2025-03-19 13:22:20,258 - INFO - Tjekker om match_748284_a.txt allerede er behandlet...
+2025-03-19 13:22:20,258 - INFO - Fil match_748284_a.txt med kamp_id 748284 er ikke tidligere behandlet.
+2025-03-19 13:22:20,258 - INFO - Tjekker om match_748285_a.txt allerede er behandlet...
+2025-03-19 13:22:20,259 - INFO - Fil match_748285_a.txt med kamp_id 748285 er ikke tidligere behandlet.
+2025-03-19 13:22:20,259 - INFO - Tjekker om match_748286_a.txt allerede er behandlet...
+2025-03-19 13:22:20,260 - INFO - Fil match_748286_a.txt med kamp_id 748286 er ikke tidligere behandlet.
+2025-03-19 13:22:20,260 - INFO - Tjekker om match_748287_a.txt allerede er behandlet...
+2025-03-19 13:22:20,260 - INFO - Fil match_748287_a.txt med kamp_id 748287 er ikke tidligere behandlet.
+2025-03-19 13:22:20,260 - INFO - Tjekker om match_748288_a.txt allerede er behandlet...
+2025-03-19 13:22:20,261 - INFO - Fil match_748288_a.txt med kamp_id 748288 er ikke tidligere behandlet.
+2025-03-19 13:22:20,261 - INFO - Tjekker om match_748289_a.txt allerede er behandlet...
+2025-03-19 13:22:20,262 - INFO - Fil match_748289_a.txt med kamp_id 748289 er ikke tidligere behandlet.
+2025-03-19 13:22:20,262 - INFO - Tjekker om match_748290_a.txt allerede er behandlet...
+2025-03-19 13:22:20,263 - INFO - Fil match_748290_a.txt med kamp_id 748290 er ikke tidligere behandlet.
+2025-03-19 13:22:20,263 - INFO - Tjekker om match_748291_a.txt allerede er behandlet...
+2025-03-19 13:22:20,263 - INFO - Fil match_748291_a.txt med kamp_id 748291 er ikke tidligere behandlet.
+2025-03-19 13:22:20,264 - INFO - Tjekker om match_748292_a.txt allerede er behandlet...
+2025-03-19 13:22:20,264 - INFO - Fil match_748292_a.txt med kamp_id 748292 er ikke tidligere behandlet.
+2025-03-19 13:22:20,264 - INFO - Tjekker om match_748293_a.txt allerede er behandlet...
+2025-03-19 13:22:20,265 - INFO - Fil match_748293_a.txt med kamp_id 748293 er ikke tidligere behandlet.
+2025-03-19 13:22:20,265 - INFO - Tjekker om match_748294_a.txt allerede er behandlet...
+2025-03-19 13:22:20,266 - INFO - Fil match_748294_a.txt med kamp_id 748294 er ikke tidligere behandlet.
+2025-03-19 13:22:20,266 - INFO - Tjekker om match_748295_a.txt allerede er behandlet...
+2025-03-19 13:22:20,268 - INFO - Fil match_748295_a.txt med kamp_id 748295 er ikke tidligere behandlet.
+2025-03-19 13:22:20,268 - INFO - Tjekker om match_748296_a.txt allerede er behandlet...
+2025-03-19 13:22:20,268 - INFO - Fil match_748296_a.txt med kamp_id 748296 er ikke tidligere behandlet.
+2025-03-19 13:22:20,268 - INFO - Tjekker om match_748297_a.txt allerede er behandlet...
+2025-03-19 13:22:20,269 - INFO - Fil match_748297_a.txt med kamp_id 748297 er ikke tidligere behandlet.
+2025-03-19 13:22:20,269 - INFO - Tjekker om match_748298_a.txt allerede er behandlet...
+2025-03-19 13:22:20,269 - INFO - Fil match_748298_a.txt med kamp_id 748298 er ikke tidligere behandlet.
+2025-03-19 13:22:20,269 - INFO - Tjekker om match_748299_a.txt allerede er behandlet...
+2025-03-19 13:22:20,270 - INFO - Fil match_748299_a.txt med kamp_id 748299 er ikke tidligere behandlet.
+2025-03-19 13:22:20,270 - INFO - Tjekker om match_748300_a.txt allerede er behandlet...
+2025-03-19 13:22:20,271 - INFO - Fil match_748300_a.txt med kamp_id 748300 er ikke tidligere behandlet.
+2025-03-19 13:22:20,271 - INFO - Tjekker om match_748301_a.txt allerede er behandlet...
+2025-03-19 13:22:20,273 - INFO - Fil match_748301_a.txt med kamp_id 748301 er ikke tidligere behandlet.
+2025-03-19 13:22:20,273 - INFO - Tjekker om match_748302_a.txt allerede er behandlet...
+2025-03-19 13:22:20,274 - INFO - Fil match_748302_a.txt med kamp_id 748302 er ikke tidligere behandlet.
+2025-03-19 13:22:20,274 - INFO - Tjekker om match_748303_a.txt allerede er behandlet...
+2025-03-19 13:22:20,275 - INFO - Fil match_748303_a.txt med kamp_id 748303 er ikke tidligere behandlet.
+2025-03-19 13:22:20,275 - INFO - Tjekker om match_748304_a.txt allerede er behandlet...
+2025-03-19 13:22:20,276 - INFO - Fil match_748304_a.txt med kamp_id 748304 er ikke tidligere behandlet.
+2025-03-19 13:22:20,276 - INFO - Tjekker om match_748305_a.txt allerede er behandlet...
+2025-03-19 13:22:20,277 - INFO - Fil match_748305_a.txt med kamp_id 748305 er ikke tidligere behandlet.
+2025-03-19 13:22:20,277 - INFO - Tjekker om match_748306_a.txt allerede er behandlet...
+2025-03-19 13:22:20,278 - INFO - Fil match_748306_a.txt med kamp_id 748306 er ikke tidligere behandlet.
+2025-03-19 13:22:20,278 - INFO - Tjekker om match_748307_a.txt allerede er behandlet...
+2025-03-19 13:22:20,278 - INFO - Fil match_748307_a.txt med kamp_id 748307 er ikke tidligere behandlet.
+2025-03-19 13:22:20,279 - INFO - Tjekker om match_748308_a.txt allerede er behandlet...
+2025-03-19 13:22:20,279 - INFO - Fil match_748308_a.txt med kamp_id 748308 er ikke tidligere behandlet.
+2025-03-19 13:22:20,279 - INFO - Tjekker om match_748309_a.txt allerede er behandlet...
+2025-03-19 13:22:20,280 - INFO - Fil match_748309_a.txt med kamp_id 748309 er ikke tidligere behandlet.
+2025-03-19 13:22:20,280 - INFO - Tjekker om match_748310_a.txt allerede er behandlet...
+2025-03-19 13:22:20,281 - INFO - Fil match_748310_a.txt med kamp_id 748310 er ikke tidligere behandlet.
+2025-03-19 13:22:20,281 - INFO - Tjekker om match_748311_a.txt allerede er behandlet...
+2025-03-19 13:22:20,282 - INFO - Fil match_748311_a.txt med kamp_id 748311 er ikke tidligere behandlet.
+2025-03-19 13:22:20,282 - INFO - Tjekker om match_748312_a.txt allerede er behandlet...
+2025-03-19 13:22:20,283 - INFO - Fil match_748312_a.txt med kamp_id 748312 er ikke tidligere behandlet.
+2025-03-19 13:22:20,283 - INFO - Tjekker om match_748313_a.txt allerede er behandlet...
+2025-03-19 13:22:20,284 - INFO - Fil match_748313_a.txt med kamp_id 748313 er ikke tidligere behandlet.
+2025-03-19 13:22:20,284 - INFO - Tjekker om match_748314_a.txt allerede er behandlet...
+2025-03-19 13:22:20,285 - INFO - Fil match_748314_a.txt med kamp_id 748314 er ikke tidligere behandlet.
+2025-03-19 13:22:20,285 - INFO - Tjekker om match_748315_a.txt allerede er behandlet...
+2025-03-19 13:22:20,286 - INFO - Fil match_748315_a.txt med kamp_id 748315 er ikke tidligere behandlet.
+2025-03-19 13:22:20,286 - INFO - Tjekker om match_748316_a.txt allerede er behandlet...
+2025-03-19 13:22:20,286 - INFO - Fil match_748316_a.txt med kamp_id 748316 er ikke tidligere behandlet.
+2025-03-19 13:22:20,286 - INFO - Tjekker om match_748317_a.txt allerede er behandlet...
+2025-03-19 13:22:20,288 - INFO - Fil match_748317_a.txt med kamp_id 748317 er ikke tidligere behandlet.
+2025-03-19 13:22:20,288 - INFO - Tjekker om match_748318_a.txt allerede er behandlet...
+2025-03-19 13:22:20,288 - INFO - Fil match_748318_a.txt med kamp_id 748318 er ikke tidligere behandlet.
+2025-03-19 13:22:20,288 - INFO - Tjekker om match_748319_a.txt allerede er behandlet...
+2025-03-19 13:22:20,289 - INFO - Fil match_748319_a.txt med kamp_id 748319 er ikke tidligere behandlet.
+2025-03-19 13:22:20,289 - INFO - Tjekker om match_748320_a.txt allerede er behandlet...
+2025-03-19 13:22:20,290 - INFO - Fil match_748320_a.txt med kamp_id 748320 er ikke tidligere behandlet.
+2025-03-19 13:22:20,290 - INFO - Tjekker om match_748321_a.txt allerede er behandlet...
+2025-03-19 13:22:20,291 - INFO - Fil match_748321_a.txt med kamp_id 748321 er ikke tidligere behandlet.
+2025-03-19 13:22:20,291 - INFO - Tjekker om match_748322_a.txt allerede er behandlet...
+2025-03-19 13:22:20,292 - INFO - Fil match_748322_a.txt med kamp_id 748322 er ikke tidligere behandlet.
+2025-03-19 13:22:20,292 - INFO - Tjekker om match_748323_a.txt allerede er behandlet...
+2025-03-19 13:22:20,293 - INFO - Fil match_748323_a.txt med kamp_id 748323 er ikke tidligere behandlet.
+2025-03-19 13:22:20,293 - INFO - Fandt 0 allerede behandlede filer
+2025-03-19 13:22:20,293 - INFO - Skal behandle 147 nye filer
+2025-03-19 13:22:20,293 - INFO - Starter behandling af fil: match_748177_a.txt
+2025-03-19 13:22:20,293 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748177_a.txt
+2025-03-19 13:22:20,301 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:22:20,301 - INFO - Behandler chunk 1 af 3 for match_748177_a.txt
+2025-03-19 13:22:20,301 - INFO - Behandler første chunk
+2025-03-19 13:22:20,308 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3741 tegn
+2025-03-19 13:22:20,309 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:22:20,311 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:22:56,831 - INFO - AFC remote call 1 is done.
+2025-03-19 13:22:56,832 - INFO - Gemini API svar modtaget på 36.52 sekunder
+2025-03-19 13:22:56,834 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-19 13:22:56,834 - INFO - Modtog 54 match_events
+2025-03-19 13:22:56,834 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:22:56,835 - INFO - Match info fundet: 748177 - Bjerringbro FH vs Ikast Håndbold
+2025-03-19 13:22:56,835 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:22:56,835 - INFO - Behandler chunk 2 af 3 for match_748177_a.txt
+2025-03-19 13:22:56,835 - INFO - Behandler første chunk
+2025-03-19 13:22:56,836 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3146 tegn
+2025-03-19 13:22:56,836 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Bjerringbro FH - Ikast Håndbold   22 - 26  (11 - 16)
+748177 / 6-9-2024 / Bjerringbro I...
+2025-03-19 13:22:56,837 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:23:29,080 - INFO - AFC remote call 1 is done.
+2025-03-19 13:23:29,080 - INFO - Gemini API svar modtaget på 32.24 sekunder
+2025-03-19 13:23:29,080 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-19 13:23:29,080 - INFO - Modtog 50 match_events
+2025-03-19 13:23:29,080 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:23:29,080 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:23:29,080 - INFO - Behandler chunk 3 af 3 for match_748177_a.txt
+2025-03-19 13:23:29,080 - INFO - Behandler første chunk
+2025-03-19 13:23:29,081 - INFO - Sender anmodning til Gemini API - chunk størrelse: 1917 tegn
+2025-03-19 13:23:29,081 - DEBUG - Første 100 tegn af chunk: IKA
+Fejlaflevering
+19
+Amanda Loft HANSEN
+46.49 18-24 BFH Mål
+Gbr 11
+Arlinda HAJDARI
+Assist
+31
+Marian...
+2025-03-19 13:23:29,081 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:23:46,672 - INFO - AFC remote call 1 is done.
+2025-03-19 13:23:46,672 - INFO - Gemini API svar modtaget på 17.59 sekunder
+2025-03-19 13:23:46,672 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-19 13:23:46,672 - INFO - Modtog 26 match_events
+2025-03-19 13:23:46,672 - INFO - Tilføjet 26 hændelser fra chunk 3
+2025-03-19 13:23:46,672 - INFO - Opretter database: Kvindeliga-database\2024-2025\692024_Bjerringbro_FH_vs_Ikast_Håndbold.db
+2025-03-19 13:23:46,685 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\692024_Bjerringbro_FH_vs_Ikast_Håndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:23:46,685 - INFO - Behandling af match_748177_a.txt fuldført på 86.39 sekunder.
+2025-03-19 13:23:46,685 - INFO - Database gemt som: 692024_Bjerringbro_FH_vs_Ikast_Håndbold.db
+2025-03-19 13:23:46,685 - INFO - Total antal hændelser: 130
+2025-03-19 13:23:46,685 - INFO - Starter behandling af fil: match_748178_a.txt
+2025-03-19 13:23:46,685 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748178_a.txt
+2025-03-19 13:23:46,693 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:23:46,693 - INFO - Behandler chunk 1 af 3 for match_748178_a.txt
+2025-03-19 13:23:46,693 - INFO - Behandler første chunk
+2025-03-19 13:23:46,694 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3792 tegn
+2025-03-19 13:23:46,694 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:23:46,694 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:24:18,354 - INFO - AFC remote call 1 is done.
+2025-03-19 13:24:18,355 - INFO - Gemini API svar modtaget på 31.66 sekunder
+2025-03-19 13:24:18,355 - INFO - Modtog match_info data for kamp_id: 748178
+2025-03-19 13:24:18,355 - INFO - Modtog 54 match_events
+2025-03-19 13:24:18,356 - INFO - Korrigerede 2 hændelser med forkert placerede målvogtere
+2025-03-19 13:24:18,356 - INFO - Match info fundet: 748178 - Viborg HK vs SønderjyskE Kvindehåndbold
+2025-03-19 13:24:18,356 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:24:18,356 - INFO - Behandler chunk 2 af 3 for match_748178_a.txt
+2025-03-19 13:24:18,356 - INFO - Behandler første chunk
+2025-03-19 13:24:18,357 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3275 tegn
+2025-03-19 13:24:18,357 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Viborg HK - SønderjyskE Kvindehåndbold   28 - 22  (13 - 12)
+748178 / 6-9-2024 / BIOCIR...
+2025-03-19 13:24:18,357 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:24:51,636 - INFO - AFC remote call 1 is done.
+2025-03-19 13:24:51,636 - INFO - Gemini API svar modtaget på 33.28 sekunder
+2025-03-19 13:24:51,636 - INFO - Modtog match_info data for kamp_id: 748178
+2025-03-19 13:24:51,636 - INFO - Modtog 50 match_events
+2025-03-19 13:24:51,637 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:24:51,637 - INFO - Behandler chunk 3 af 3 for match_748178_a.txt
+2025-03-19 13:24:51,637 - INFO - Behandler første chunk
+2025-03-19 13:24:51,637 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2556 tegn
+2025-03-19 13:24:51,637 - DEBUG - Første 100 tegn af chunk: VF
+14
+Camilla DEGN
+Assist
+77
+Jana MITTÚN
+12
+Stine BROLØS
+43.20
+SJE
+Skud på stolpe
+VB
+14
+Louise ELLEB...
+2025-03-19 13:24:51,637 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:25:16,196 - INFO - AFC remote call 1 is done.
+2025-03-19 13:25:16,196 - INFO - Gemini API svar modtaget på 24.56 sekunder
+2025-03-19 13:25:16,196 - INFO - Modtog match_info data for kamp_id: 748178
+2025-03-19 13:25:16,198 - INFO - Modtog 37 match_events
+2025-03-19 13:25:16,198 - INFO - Tilføjet 37 hændelser fra chunk 3
+2025-03-19 13:25:16,198 - INFO - Opretter database: Kvindeliga-database\2024-2025\692024_Viborg_HK_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-19 13:25:16,202 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\692024_Viborg_HK_vs_SønderjyskE_Kvindehåndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:25:16,203 - INFO - Behandling af match_748178_a.txt fuldført på 89.52 sekunder.
+2025-03-19 13:25:16,203 - INFO - Database gemt som: 692024_Viborg_HK_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-19 13:25:16,203 - INFO - Total antal hændelser: 141
+2025-03-19 13:25:16,203 - INFO - Starter behandling af fil: match_748179_a.txt
+2025-03-19 13:25:16,203 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748179_a.txt
+2025-03-19 13:25:16,211 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:25:16,211 - INFO - Behandler chunk 1 af 3 for match_748179_a.txt
+2025-03-19 13:25:16,211 - INFO - Behandler første chunk
+2025-03-19 13:25:16,211 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3736 tegn
+2025-03-19 13:25:16,211 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Voel KFUM - T...
+2025-03-19 13:25:16,212 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:25:49,642 - INFO - AFC remote call 1 is done.
+2025-03-19 13:25:49,643 - INFO - Gemini API svar modtaget på 33.43 sekunder
+2025-03-19 13:25:49,644 - INFO - Modtog match_info data for kamp_id: 748179
+2025-03-19 13:25:49,644 - INFO - Modtog 54 match_events
+2025-03-19 13:25:49,644 - INFO - Match info fundet: 748179 - Voel KFUM vs Team Esbjerg
+2025-03-19 13:25:49,644 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:25:49,644 - INFO - Behandler chunk 2 af 3 for match_748179_a.txt
+2025-03-19 13:25:49,644 - INFO - Behandler første chunk
+2025-03-19 13:25:49,645 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3142 tegn
+2025-03-19 13:25:49,645 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Silkeborg-Voel KFUM - Team Esbjerg   28 - 34  (11 - 17)
+748179 / 4-9-2024 / JYSK Arena...
+2025-03-19 13:25:49,646 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:26:22,790 - INFO - AFC remote call 1 is done.
+2025-03-19 13:26:22,790 - INFO - Gemini API svar modtaget på 33.14 sekunder
+2025-03-19 13:26:22,791 - INFO - Modtog match_info data for kamp_id: 748179
+2025-03-19 13:26:22,791 - INFO - Modtog 50 match_events
+2025-03-19 13:26:22,792 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:26:22,792 - INFO - Behandler chunk 3 af 3 for match_748179_a.txt
+2025-03-19 13:26:22,792 - INFO - Behandler første chunk
+2025-03-19 13:26:22,793 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3002 tegn
+2025-03-19 13:26:22,793 - DEBUG - Første 100 tegn af chunk: SVK Skud reddet
+ST
+15
+Karen KLOKKER
+Retur
+0
+16
+Amalie MILLING
+43.55
+SVK Skud reddet
+VF
+21
+Maja EDLIN...
+2025-03-19 13:26:22,793 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:26:52,525 - INFO - AFC remote call 1 is done.
+2025-03-19 13:26:52,526 - INFO - Gemini API svar modtaget på 29.73 sekunder
+2025-03-19 13:26:52,526 - INFO - Modtog match_info data for kamp_id: 748179
+2025-03-19 13:26:52,527 - INFO - Modtog 47 match_events
+2025-03-19 13:26:52,527 - INFO - Tilføjet 47 hændelser fra chunk 3
+2025-03-19 13:26:52,527 - INFO - Opretter database: Kvindeliga-database\2024-2025\492024_Voel_KFUM_vs_Team_Esbjerg.db
+2025-03-19 13:26:52,550 - INFO - Database oprettet: Kvindeliga-database\2024-2025\492024_Voel_KFUM_vs_Team_Esbjerg.db med 151 hændelser
+2025-03-19 13:26:52,550 - INFO - Behandling af match_748179_a.txt fuldført på 96.35 sekunder.
+2025-03-19 13:26:52,550 - INFO - Database gemt som: 492024_Voel_KFUM_vs_Team_Esbjerg.db
+2025-03-19 13:26:52,550 - INFO - Total antal hændelser: 151
+2025-03-19 13:26:52,550 - INFO - Starter behandling af fil: match_748180_a.txt
+2025-03-19 13:26:52,550 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748180_a.txt
+2025-03-19 13:26:52,559 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:26:52,559 - INFO - Behandler chunk 1 af 3 for match_748180_a.txt
+2025-03-19 13:26:52,559 - INFO - Behandler første chunk
+2025-03-19 13:26:52,560 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3582 tegn
+2025-03-19 13:26:52,560 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:26:52,560 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:27:24,503 - INFO - AFC remote call 1 is done.
+2025-03-19 13:27:24,504 - INFO - Gemini API svar modtaget på 31.94 sekunder
+2025-03-19 13:27:24,504 - INFO - Modtog match_info data for kamp_id: 748180
+2025-03-19 13:27:24,504 - INFO - Modtog 54 match_events
+2025-03-19 13:27:24,504 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:27:24,505 - INFO - Match info fundet: 748180 - Aarhus Håndbold Kvinder vs Skanderborg Håndbold
+2025-03-19 13:27:24,505 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:27:24,505 - INFO - Behandler chunk 2 af 3 for match_748180_a.txt
+2025-03-19 13:27:24,505 - INFO - Behandler første chunk
+2025-03-19 13:27:24,505 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3461 tegn
+2025-03-19 13:27:24,506 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Aarhus Håndbold Kvinder - Skanderborg Håndbold   26 - 24  (12 - 10)
+748180 / 7-9-2024 ...
+2025-03-19 13:27:24,506 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:27:57,998 - INFO - AFC remote call 1 is done.
+2025-03-19 13:27:57,999 - INFO - Gemini API svar modtaget på 33.49 sekunder
+2025-03-19 13:27:57,999 - INFO - Modtog match_info data for kamp_id: 748180
+2025-03-19 13:27:58,000 - INFO - Modtog 50 match_events
+2025-03-19 13:27:58,000 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:27:58,000 - INFO - Behandler chunk 3 af 3 for match_748180_a.txt
+2025-03-19 13:27:58,000 - INFO - Behandler første chunk
+2025-03-19 13:27:58,013 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2487 tegn
+2025-03-19 13:27:58,013 - DEBUG - Første 100 tegn af chunk: 25
+Astrid LYNNERUP
+86
+Sabine ENGLERT
+46.13
+AHB Tilkendt straffe
+18
+Mathilde ØSTERGAARD
+Forårs. str.
+...
+2025-03-19 13:27:58,013 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:28:22,551 - INFO - AFC remote call 1 is done.
+2025-03-19 13:28:22,552 - INFO - Gemini API svar modtaget på 24.54 sekunder
+2025-03-19 13:28:22,553 - INFO - Modtog match_info data for kamp_id: 748180
+2025-03-19 13:28:22,553 - INFO - Modtog 36 match_events
+2025-03-19 13:28:22,553 - INFO - Tilføjet 36 hændelser fra chunk 3
+2025-03-19 13:28:22,553 - INFO - Opretter database: Kvindeliga-database\2024-2025\792024_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.db
+2025-03-19 13:28:22,562 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\792024_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:28:22,562 - INFO - Behandling af match_748180_a.txt fuldført på 90.01 sekunder.
+2025-03-19 13:28:22,563 - INFO - Database gemt som: 792024_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.db
+2025-03-19 13:28:22,563 - INFO - Total antal hændelser: 140
+2025-03-19 13:28:22,563 - INFO - Starter behandling af fil: match_748181_a.txt
+2025-03-19 13:28:22,563 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748181_a.txt
+2025-03-19 13:28:22,575 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:28:22,575 - INFO - Behandler chunk 1 af 3 for match_748181_a.txt
+2025-03-19 13:28:22,575 - INFO - Behandler første chunk
+2025-03-19 13:28:22,575 - INFO - Sender anmodning til Gemini API - chunk størrelse: 4113 tegn
+2025-03-19 13:28:22,575 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:28:22,576 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:28:54,587 - INFO - AFC remote call 1 is done.
+2025-03-19 13:28:54,588 - INFO - Gemini API svar modtaget på 32.01 sekunder
+2025-03-19 13:28:54,588 - INFO - Modtog match_info data for kamp_id: 748181
+2025-03-19 13:28:54,588 - INFO - Modtog 54 match_events
+2025-03-19 13:28:54,590 - INFO - Korrigerede 4 hændelser med forkert placerede målvogtere
+2025-03-19 13:28:54,590 - INFO - Match info fundet: 748181 - København Håndbold vs Horsens Håndbold Elite
+2025-03-19 13:28:54,590 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:28:54,590 - INFO - Behandler chunk 2 af 3 for match_748181_a.txt
+2025-03-19 13:28:54,590 - INFO - Behandler første chunk
+2025-03-19 13:28:54,591 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3102 tegn
+2025-03-19 13:28:54,591 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+København Håndbold - Horsens Håndbold Elite   31 - 27  (17 - 16)
+748181 / 7-9-2024 / F...
+2025-03-19 13:28:54,591 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:29:24,638 - INFO - AFC remote call 1 is done.
+2025-03-19 13:29:24,638 - INFO - Gemini API svar modtaget på 30.05 sekunder
+2025-03-19 13:29:24,638 - INFO - Modtog match_info data for kamp_id: 748181
+2025-03-19 13:29:24,638 - INFO - Modtog 50 match_events
+2025-03-19 13:29:24,638 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:29:24,638 - INFO - Behandler chunk 3 af 3 for match_748181_a.txt
+2025-03-19 13:29:24,638 - INFO - Behandler første chunk
+2025-03-19 13:29:24,639 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2233 tegn
+2025-03-19 13:29:24,639 - DEBUG - Første 100 tegn af chunk: HB 21
+Helene KINDBERG
+Assist
+22
+Stine JØRGENSEN
+1
+Mathilde BISGAARD
+45.56
+HHE Regelfejl
+39
+Melanie B...
+2025-03-19 13:29:24,639 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:29:43,757 - INFO - AFC remote call 1 is done.
+2025-03-19 13:29:43,757 - INFO - Gemini API svar modtaget på 19.12 sekunder
+2025-03-19 13:29:43,757 - INFO - Modtog match_info data for kamp_id: 748181
+2025-03-19 13:29:43,758 - INFO - Modtog 28 match_events
+2025-03-19 13:29:43,758 - INFO - Tilføjet 28 hændelser fra chunk 3
+2025-03-19 13:29:43,758 - INFO - Opretter database: Kvindeliga-database\2024-2025\792024_København_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-19 13:29:43,760 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\792024_København_Håndbold_vs_Horsens_Håndbold_Elite.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:29:43,760 - INFO - Behandling af match_748181_a.txt fuldført på 81.20 sekunder.
+2025-03-19 13:29:43,760 - INFO - Database gemt som: 792024_København_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-19 13:29:43,760 - INFO - Total antal hændelser: 132
+2025-03-19 13:29:43,760 - INFO - Starter behandling af fil: match_748182_a.txt
+2025-03-19 13:29:43,760 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748182_a.txt
+2025-03-19 13:29:43,768 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:29:43,769 - INFO - Behandler chunk 1 af 3 for match_748182_a.txt
+2025-03-19 13:29:43,769 - INFO - Behandler første chunk
+2025-03-19 13:29:43,769 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3819 tegn
+2025-03-19 13:29:43,769 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Dato: 4-9-2024
+====...
+2025-03-19 13:29:43,769 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:30:19,345 - INFO - AFC remote call 1 is done.
+2025-03-19 13:30:19,345 - INFO - Gemini API svar modtaget på 35.58 sekunder
+2025-03-19 13:30:19,346 - INFO - Modtog match_info data for kamp_id: 748182
+2025-03-19 13:30:19,346 - INFO - Modtog 54 match_events
+2025-03-19 13:30:19,346 - INFO - Match info fundet: 748182 - Ringkøbing Håndbold vs Nykøbing F. Håndbold
+2025-03-19 13:30:19,347 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:30:19,347 - INFO - Behandler chunk 2 af 3 for match_748182_a.txt
+2025-03-19 13:30:19,347 - INFO - Behandler første chunk
+2025-03-19 13:30:19,348 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3136 tegn
+2025-03-19 13:30:19,348 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ringkøbing Håndbold - Nykøbing F. Håndbold   30 - 32  (17 - 16)
+748182 / 4-9-2024 / Gr...
+2025-03-19 13:30:19,349 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:30:51,536 - INFO - AFC remote call 1 is done.
+2025-03-19 13:30:51,536 - INFO - Gemini API svar modtaget på 32.19 sekunder
+2025-03-19 13:30:51,537 - INFO - Modtog match_info data for kamp_id: 748182
+2025-03-19 13:30:51,537 - INFO - Modtog 50 match_events
+2025-03-19 13:30:51,537 - INFO - Korrigerede 2 hændelser med forkert placerede målvogtere
+2025-03-19 13:30:51,537 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:30:51,538 - INFO - Behandler chunk 3 af 3 for match_748182_a.txt
+2025-03-19 13:30:51,538 - INFO - Behandler første chunk
+2025-03-19 13:30:51,538 - INFO - Sender anmodning til Gemini API - chunk størrelse: 1977 tegn
+2025-03-19 13:30:51,539 - DEBUG - Første 100 tegn af chunk: Gbr 15
+Kalidiatou NIAKATE
+16
+Stephanie ANDERSEN
+48.41 26-26 RIN
+Mål
+Gbr
+3
+Maria Berger WIERZBA
+Assis...
+2025-03-19 13:30:51,539 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:31:09,046 - INFO - AFC remote call 1 is done.
+2025-03-19 13:31:09,046 - INFO - Gemini API svar modtaget på 17.51 sekunder
+2025-03-19 13:31:09,048 - INFO - Modtog match_info data for kamp_id: 748182
+2025-03-19 13:31:09,048 - INFO - Modtog 25 match_events
+2025-03-19 13:31:09,048 - INFO - Tilføjet 25 hændelser fra chunk 3
+2025-03-19 13:31:09,048 - INFO - Opretter database: Kvindeliga-database\2024-2025\492024_Ringkøbing_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-19 13:31:09,054 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\492024_Ringkøbing_Håndbold_vs_Nykøbing_F._Håndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:31:09,054 - INFO - Behandling af match_748182_a.txt fuldført på 85.29 sekunder.
+2025-03-19 13:31:09,054 - INFO - Database gemt som: 492024_Ringkøbing_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-19 13:31:09,054 - INFO - Total antal hændelser: 129
+2025-03-19 13:31:09,055 - INFO - Starter behandling af fil: match_748183_a.txt
+2025-03-19 13:31:09,055 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748183_a.txt
+2025-03-19 13:31:09,065 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:31:09,065 - INFO - Behandler chunk 1 af 3 for match_748183_a.txt
+2025-03-19 13:31:09,065 - INFO - Behandler første chunk
+2025-03-19 13:31:09,065 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3694 tegn
+2025-03-19 13:31:09,065 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:31:09,066 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:31:43,512 - INFO - AFC remote call 1 is done.
+2025-03-19 13:31:43,512 - INFO - Gemini API svar modtaget på 34.45 sekunder
+2025-03-19 13:31:43,513 - INFO - Modtog match_info data for kamp_id: 748183
+2025-03-19 13:31:43,513 - INFO - Modtog 54 match_events
+2025-03-19 13:31:43,513 - INFO - Match info fundet: 748183 - Odense Håndbold vs EH Aalborg
+2025-03-19 13:31:43,513 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:31:43,513 - INFO - Behandler chunk 2 af 3 for match_748183_a.txt
+2025-03-19 13:31:43,513 - INFO - Behandler første chunk
+2025-03-19 13:31:43,514 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2938 tegn
+2025-03-19 13:31:43,514 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Odense Håndbold - EH Aalborg   35 - 16  (19 - 7)
+748183 / 4-9-2024 / Sydbank Arena / K...
+2025-03-19 13:31:43,515 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:32:16,048 - INFO - AFC remote call 1 is done.
+2025-03-19 13:32:16,048 - INFO - Gemini API svar modtaget på 32.53 sekunder
+2025-03-19 13:32:16,049 - INFO - Modtog match_info data for kamp_id: 748183
+2025-03-19 13:32:16,049 - INFO - Modtog 50 match_events
+2025-03-19 13:32:16,049 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:32:16,049 - INFO - Behandler chunk 3 af 3 for match_748183_a.txt
+2025-03-19 13:32:16,049 - INFO - Behandler første chunk
+2025-03-19 13:32:16,051 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2322 tegn
+2025-03-19 13:32:16,051 - DEBUG - Første 100 tegn af chunk: ODE Time out
+45.04
+ODE Skud reddet
+VB
+8
+Helene FAUSKE
+Retur
+0
+16
+Johanne GRAUGAARD
+45.20
+ODE Fejlafl...
+2025-03-19 13:32:16,052 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:32:37,722 - INFO - AFC remote call 1 is done.
+2025-03-19 13:32:37,723 - INFO - Gemini API svar modtaget på 21.67 sekunder
+2025-03-19 13:32:37,723 - INFO - Modtog match_info data for kamp_id: 748183
+2025-03-19 13:32:37,723 - INFO - Modtog 35 match_events
+2025-03-19 13:32:37,723 - INFO - Tilføjet 35 hændelser fra chunk 3
+2025-03-19 13:32:37,723 - INFO - Opretter database: Kvindeliga-database\2024-2025\492024_Odense_Håndbold_vs_EH_Aalborg.db
+2025-03-19 13:32:37,732 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\492024_Odense_Håndbold_vs_EH_Aalborg.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:32:37,732 - INFO - Behandling af match_748183_a.txt fuldført på 88.68 sekunder.
+2025-03-19 13:32:37,732 - INFO - Database gemt som: 492024_Odense_Håndbold_vs_EH_Aalborg.db
+2025-03-19 13:32:37,732 - INFO - Total antal hændelser: 139
+2025-03-19 13:32:37,733 - INFO - Starter behandling af fil: match_748184_a.txt
+2025-03-19 13:32:37,733 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748184_a.txt
+2025-03-19 13:32:37,744 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:32:37,745 - INFO - Behandler chunk 1 af 3 for match_748184_a.txt
+2025-03-19 13:32:37,745 - INFO - Behandler første chunk
+2025-03-19 13:32:37,745 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3778 tegn
+2025-03-19 13:32:37,745 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:32:37,745 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:33:12,871 - INFO - AFC remote call 1 is done.
+2025-03-19 13:33:12,872 - INFO - Gemini API svar modtaget på 35.13 sekunder
+2025-03-19 13:33:12,872 - INFO - Modtog match_info data for kamp_id: 748184
+2025-03-19 13:33:12,872 - INFO - Modtog 54 match_events
+2025-03-19 13:33:12,874 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:33:12,874 - INFO - Match info fundet: 748184 - Ikast Håndbold vs Viborg HK
+2025-03-19 13:33:12,874 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:33:12,874 - INFO - Behandler chunk 2 af 3 for match_748184_a.txt
+2025-03-19 13:33:12,874 - INFO - Behandler første chunk
+2025-03-19 13:33:12,874 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3410 tegn
+2025-03-19 13:33:12,874 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ikast Håndbold - Viborg HK   38 - 23  (20 - 10)
+748184 / 10-9-2024 / IBF Arena Hal A /...
+2025-03-19 13:33:12,875 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:33:43,621 - INFO - AFC remote call 1 is done.
+2025-03-19 13:33:43,621 - INFO - Gemini API svar modtaget på 30.75 sekunder
+2025-03-19 13:33:43,622 - INFO - Modtog match_info data for kamp_id: 748184
+2025-03-19 13:33:43,622 - INFO - Modtog 50 match_events
+2025-03-19 13:33:43,622 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:33:43,622 - INFO - Behandler chunk 3 af 3 for match_748184_a.txt
+2025-03-19 13:33:43,622 - INFO - Behandler første chunk
+2025-03-19 13:33:43,623 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3260 tegn
+2025-03-19 13:33:43,623 - DEBUG - Første 100 tegn af chunk: PL
+77
+Jana MITTÚN
+12
+Filippa IDÉHN
+40.27
+IKA
+Fejlaflevering
+21
+Ingvild BAKKERUD
+40.32 28-15 VHK Mål
+...
+2025-03-19 13:33:43,623 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:34:13,941 - INFO - AFC remote call 1 is done.
+2025-03-19 13:34:13,942 - INFO - Gemini API svar modtaget på 30.32 sekunder
+2025-03-19 13:34:13,942 - INFO - Modtog match_info data for kamp_id: 748184
+2025-03-19 13:34:13,942 - INFO - Modtog 44 match_events
+2025-03-19 13:34:13,942 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:34:13,942 - INFO - Tilføjet 44 hændelser fra chunk 3
+2025-03-19 13:34:13,942 - INFO - Opretter database: Kvindeliga-database\2024-2025\1092024_Ikast_Håndbold_vs_Viborg_HK.db
+2025-03-19 13:34:13,980 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1092024_Ikast_Håndbold_vs_Viborg_HK.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:34:13,980 - INFO - Behandling af match_748184_a.txt fuldført på 96.25 sekunder.
+2025-03-19 13:34:13,980 - INFO - Database gemt som: 1092024_Ikast_Håndbold_vs_Viborg_HK.db
+2025-03-19 13:34:13,980 - INFO - Total antal hændelser: 148
+2025-03-19 13:34:13,981 - INFO - Starter behandling af fil: match_748185_a.txt
+2025-03-19 13:34:13,981 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748185_a.txt
+2025-03-19 13:34:13,996 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:34:13,997 - INFO - Behandler chunk 1 af 3 for match_748185_a.txt
+2025-03-19 13:34:13,997 - INFO - Behandler første chunk
+2025-03-19 13:34:13,997 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3596 tegn
+2025-03-19 13:34:13,997 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Håndbold - Od...
+2025-03-19 13:34:13,997 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:34:48,066 - INFO - AFC remote call 1 is done.
+2025-03-19 13:34:48,066 - INFO - Gemini API svar modtaget på 34.07 sekunder
+2025-03-19 13:34:48,067 - INFO - Modtog match_info data for kamp_id: 748185
+2025-03-19 13:34:48,067 - INFO - Modtog 54 match_events
+2025-03-19 13:34:48,067 - INFO - Match info fundet: 748185 - Nykøbing F. Håndbold vs Odense Håndbold
+2025-03-19 13:34:48,067 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:34:48,067 - INFO - Behandler chunk 2 af 3 for match_748185_a.txt
+2025-03-19 13:34:48,067 - INFO - Behandler første chunk
+2025-03-19 13:34:48,069 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3021 tegn
+2025-03-19 13:34:48,069 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Nykøbing F. Håndbold - Odense Håndbold   18 - 35  (8 - 18)
+748185 / 11-9-2024 / SPAR N...
+2025-03-19 13:34:48,070 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:35:21,205 - INFO - AFC remote call 1 is done.
+2025-03-19 13:35:21,205 - INFO - Gemini API svar modtaget på 33.14 sekunder
+2025-03-19 13:35:21,206 - INFO - Modtog match_info data for kamp_id: 748185
+2025-03-19 13:35:21,207 - INFO - Modtog 50 match_events
+2025-03-19 13:35:21,207 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:35:21,207 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:35:21,207 - INFO - Behandler chunk 3 af 3 for match_748185_a.txt
+2025-03-19 13:35:21,207 - INFO - Behandler første chunk
+2025-03-19 13:35:21,208 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2668 tegn
+2025-03-19 13:35:21,208 - DEBUG - Første 100 tegn af chunk: NFH Time out
+43.02
+NFH Regelfejl
+34
+Sofie BARDRUM
+43.45 13-26 ODE Mål
+Gbr 32
+Mie HØJLUND
+16
+Line CHR...
+2025-03-19 13:35:21,208 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:35:44,042 - INFO - AFC remote call 1 is done.
+2025-03-19 13:35:44,042 - INFO - Gemini API svar modtaget på 22.83 sekunder
+2025-03-19 13:35:44,043 - INFO - Modtog match_info data for kamp_id: 748185
+2025-03-19 13:35:44,043 - INFO - Modtog 38 match_events
+2025-03-19 13:35:44,043 - INFO - Tilføjet 38 hændelser fra chunk 3
+2025-03-19 13:35:44,044 - INFO - Opretter database: Kvindeliga-database\2024-2025\1192024_Nykøbing_F._Håndbold_vs_Odense_Håndbold.db
+2025-03-19 13:35:44,051 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1192024_Nykøbing_F._Håndbold_vs_Odense_Håndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:35:44,051 - INFO - Behandling af match_748185_a.txt fuldført på 90.07 sekunder.
+2025-03-19 13:35:44,051 - INFO - Database gemt som: 1192024_Nykøbing_F._Håndbold_vs_Odense_Håndbold.db
+2025-03-19 13:35:44,052 - INFO - Total antal hændelser: 142
+2025-03-19 13:35:44,052 - INFO - Starter behandling af fil: match_748186_a.txt
+2025-03-19 13:35:44,052 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748186_a.txt
+2025-03-19 13:35:44,062 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:35:44,063 - INFO - Behandler chunk 1 af 3 for match_748186_a.txt
+2025-03-19 13:35:44,063 - INFO - Behandler første chunk
+2025-03-19 13:35:44,063 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3862 tegn
+2025-03-19 13:35:44,063 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:35:44,063 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:36:13,997 - INFO - AFC remote call 1 is done.
+2025-03-19 13:36:13,997 - INFO - Gemini API svar modtaget på 29.93 sekunder
+2025-03-19 13:36:13,998 - INFO - Modtog match_info data for kamp_id: 748186
+2025-03-19 13:36:13,998 - INFO - Modtog 54 match_events
+2025-03-19 13:36:13,998 - INFO - Korrigerede 2 hændelser med forkert placerede målvogtere
+2025-03-19 13:36:13,999 - INFO - Match info fundet: 748186 - Horsens Håndbold Elite vs Ringkøbing Håndbold
+2025-03-19 13:36:13,999 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:36:13,999 - INFO - Behandler chunk 2 af 3 for match_748186_a.txt
+2025-03-19 13:36:13,999 - INFO - Behandler første chunk
+2025-03-19 13:36:14,000 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3201 tegn
+2025-03-19 13:36:14,000 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Horsens Håndbold Elite - Ringkøbing Håndbold   19 - 17  (11 - 9)
+748186 / 11-9-2024 / ...
+2025-03-19 13:36:14,001 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:36:45,686 - INFO - AFC remote call 1 is done.
+2025-03-19 13:36:45,688 - INFO - Gemini API svar modtaget på 31.69 sekunder
+2025-03-19 13:36:45,689 - INFO - Modtog match_info data for kamp_id: 748186
+2025-03-19 13:36:45,689 - INFO - Modtog 49 match_events
+2025-03-19 13:36:45,689 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:36:45,689 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-19 13:36:45,689 - INFO - Behandler chunk 3 af 3 for match_748186_a.txt
+2025-03-19 13:36:45,689 - INFO - Behandler første chunk
+2025-03-19 13:36:45,690 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2351 tegn
+2025-03-19 13:36:45,690 - DEBUG - Første 100 tegn af chunk: HHE Udvisning
+11
+Fanny ELOVSSON
+48.33 16-16 RIN
+Mål på straffe
+18
+Emilie ROSBORG
+1
+Mathilde BISGAARD...
+2025-03-19 13:36:45,691 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:37:05,014 - INFO - AFC remote call 1 is done.
+2025-03-19 13:37:05,016 - INFO - Gemini API svar modtaget på 19.33 sekunder
+2025-03-19 13:37:05,016 - INFO - Modtog match_info data for kamp_id: 748186
+2025-03-19 13:37:05,016 - INFO - Modtog 31 match_events
+2025-03-19 13:37:05,016 - INFO - Tilføjet 31 hændelser fra chunk 3
+2025-03-19 13:37:05,016 - INFO - Opretter database: Kvindeliga-database\2024-2025\1192024_Horsens_Håndbold_Elite_vs_Ringkøbing_Håndbold.db
+2025-03-19 13:37:05,024 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1192024_Horsens_Håndbold_Elite_vs_Ringkøbing_Håndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:37:05,025 - INFO - Behandling af match_748186_a.txt fuldført på 80.97 sekunder.
+2025-03-19 13:37:05,025 - INFO - Database gemt som: 1192024_Horsens_Håndbold_Elite_vs_Ringkøbing_Håndbold.db
+2025-03-19 13:37:05,025 - INFO - Total antal hændelser: 134
+2025-03-19 13:37:05,025 - INFO - Starter behandling af fil: match_748187_a.txt
+2025-03-19 13:37:05,025 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748187_a.txt
+2025-03-19 13:37:05,039 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:37:05,039 - INFO - Behandler chunk 1 af 3 for match_748187_a.txt
+2025-03-19 13:37:05,039 - INFO - Behandler første chunk
+2025-03-19 13:37:05,039 - INFO - Sender anmodning til Gemini API - chunk størrelse: 4106 tegn
+2025-03-19 13:37:05,040 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:37:05,040 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:37:40,374 - INFO - AFC remote call 1 is done.
+2025-03-19 13:37:40,375 - INFO - Gemini API svar modtaget på 35.33 sekunder
+2025-03-19 13:37:40,375 - INFO - Modtog match_info data for kamp_id: 748187
+2025-03-19 13:37:40,375 - INFO - Modtog 54 match_events
+2025-03-19 13:37:40,376 - INFO - Match info fundet: 748187 - Skanderborg Håndbold vs København Håndbold
+2025-03-19 13:37:40,376 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:37:40,376 - INFO - Behandler chunk 2 af 3 for match_748187_a.txt
+2025-03-19 13:37:40,376 - INFO - Behandler første chunk
+2025-03-19 13:37:40,376 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3209 tegn
+2025-03-19 13:37:40,376 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Skanderborg Håndbold - København Håndbold   33 - 35  (16 - 14)
+748187 / 13-9-2024 / Fæ...
+2025-03-19 13:37:40,377 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:38:12,408 - INFO - AFC remote call 1 is done.
+2025-03-19 13:38:12,408 - INFO - Gemini API svar modtaget på 32.03 sekunder
+2025-03-19 13:38:12,409 - INFO - Modtog match_info data for kamp_id: 748187
+2025-03-19 13:38:12,409 - INFO - Modtog 49 match_events
+2025-03-19 13:38:12,409 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:38:12,409 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-19 13:38:12,409 - INFO - Behandler chunk 3 af 3 for match_748187_a.txt
+2025-03-19 13:38:12,409 - INFO - Behandler første chunk
+2025-03-19 13:38:12,410 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3038 tegn
+2025-03-19 13:38:12,410 - DEBUG - Første 100 tegn af chunk: SKB Skud på stolpe
+ST
+2
+Boline LAURSEN
+2
+Bianca SCHANSSEMA
+44.06 24-22 KBH Mål
+ST
+10
+Pernille BRANDE...
+2025-03-19 13:38:12,411 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:38:41,367 - INFO - AFC remote call 1 is done.
+2025-03-19 13:38:41,367 - INFO - Gemini API svar modtaget på 28.96 sekunder
+2025-03-19 13:38:41,367 - INFO - Modtog match_info data for kamp_id: 748187
+2025-03-19 13:38:41,367 - INFO - Modtog 43 match_events
+2025-03-19 13:38:41,369 - INFO - Tilføjet 43 hændelser fra chunk 3
+2025-03-19 13:38:41,369 - INFO - Opretter database: Kvindeliga-database\2024-2025\1392024_Skanderborg_Håndbold_vs_København_Håndbold.db
+2025-03-19 13:38:41,376 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1392024_Skanderborg_Håndbold_vs_København_Håndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:38:41,377 - INFO - Behandling af match_748187_a.txt fuldført på 96.35 sekunder.
+2025-03-19 13:38:41,377 - INFO - Database gemt som: 1392024_Skanderborg_Håndbold_vs_København_Håndbold.db
+2025-03-19 13:38:41,377 - INFO - Total antal hændelser: 146
+2025-03-19 13:38:41,377 - INFO - Starter behandling af fil: match_748188_a.txt
+2025-03-19 13:38:41,377 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748188_a.txt
+2025-03-19 13:38:41,390 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:38:41,391 - INFO - Behandler chunk 1 af 3 for match_748188_a.txt
+2025-03-19 13:38:41,391 - INFO - Behandler første chunk
+2025-03-19 13:38:41,391 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3775 tegn
+2025-03-19 13:38:41,391 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:38:41,392 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:39:14,384 - INFO - AFC remote call 1 is done.
+2025-03-19 13:39:14,384 - INFO - Gemini API svar modtaget på 32.99 sekunder
+2025-03-19 13:39:14,384 - INFO - Modtog match_info data for kamp_id: 748188
+2025-03-19 13:39:14,384 - INFO - Modtog 54 match_events
+2025-03-19 13:39:14,385 - INFO - Match info fundet: 748188 - Team Esbjerg vs Aarhus Håndbold Kvinder
+2025-03-19 13:39:14,385 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:39:14,385 - INFO - Behandler chunk 2 af 3 for match_748188_a.txt
+2025-03-19 13:39:14,385 - INFO - Behandler første chunk
+2025-03-19 13:39:14,385 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3237 tegn
+2025-03-19 13:39:14,385 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Team Esbjerg - Aarhus Håndbold Kvinder   31 - 26  (17 - 16)
+748188 / 11-9-2024 / Blue ...
+2025-03-19 13:39:14,385 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:39:47,516 - INFO - AFC remote call 1 is done.
+2025-03-19 13:39:47,516 - INFO - Gemini API svar modtaget på 33.13 sekunder
+2025-03-19 13:39:47,517 - INFO - Modtog match_info data for kamp_id: 748188
+2025-03-19 13:39:47,518 - INFO - Modtog 50 match_events
+2025-03-19 13:39:47,518 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:39:47,518 - INFO - Behandler chunk 3 af 3 for match_748188_a.txt
+2025-03-19 13:39:47,518 - INFO - Behandler første chunk
+2025-03-19 13:39:47,519 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3158 tegn
+2025-03-19 13:39:47,519 - DEBUG - Første 100 tegn af chunk: Mål
+HF
+27
+Anne Tolstrup PETERSEN
+Assist
+4
+Michala MØLLER
+86
+Sabine ENGLERT
+41.49
+AHB Skud reddet
+HF
+...
+2025-03-19 13:39:47,520 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:40:17,583 - INFO - AFC remote call 1 is done.
+2025-03-19 13:40:17,584 - INFO - Gemini API svar modtaget på 30.06 sekunder
+2025-03-19 13:40:17,584 - INFO - Modtog match_info data for kamp_id: 748188
+2025-03-19 13:40:17,585 - INFO - Modtog 45 match_events
+2025-03-19 13:40:17,585 - INFO - Tilføjet 45 hændelser fra chunk 3
+2025-03-19 13:40:17,585 - INFO - Opretter database: Kvindeliga-database\2024-2025\1192024_Team_Esbjerg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-19 13:40:17,589 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1192024_Team_Esbjerg_vs_Aarhus_Håndbold_Kvinder.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:40:17,589 - INFO - Behandling af match_748188_a.txt fuldført på 96.21 sekunder.
+2025-03-19 13:40:17,589 - INFO - Database gemt som: 1192024_Team_Esbjerg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-19 13:40:17,589 - INFO - Total antal hændelser: 149
+2025-03-19 13:40:17,590 - INFO - Starter behandling af fil: match_748189_a.txt
+2025-03-19 13:40:17,590 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748189_a.txt
+2025-03-19 13:40:17,601 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:40:17,601 - INFO - Behandler chunk 1 af 3 for match_748189_a.txt
+2025-03-19 13:40:17,601 - INFO - Behandler første chunk
+2025-03-19 13:40:17,601 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3865 tegn
+2025-03-19 13:40:17,602 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Silkeborg - V...
+2025-03-19 13:40:17,602 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:40:51,211 - INFO - AFC remote call 1 is done.
+2025-03-19 13:40:51,212 - INFO - Gemini API svar modtaget på 33.61 sekunder
+2025-03-19 13:40:51,213 - INFO - Modtog match_info data for kamp_id: 748189
+2025-03-19 13:40:51,213 - INFO - Modtog 54 match_events
+2025-03-19 13:40:51,213 - INFO - Match info fundet: 748189 - SønderjyskE Kvindehåndbold vs Silkeborg-Voel KFUM
+2025-03-19 13:40:51,213 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:40:51,213 - INFO - Behandler chunk 2 af 3 for match_748189_a.txt
+2025-03-19 13:40:51,214 - INFO - Behandler første chunk
+2025-03-19 13:40:51,214 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3255 tegn
+2025-03-19 13:40:51,214 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+SønderjyskE Kvindehåndbold - Silkeborg-Voel KFUM   30 - 28  (16 - 12)
+748189 / 13-9-20...
+2025-03-19 13:40:51,215 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:41:25,121 - INFO - AFC remote call 1 is done.
+2025-03-19 13:41:25,121 - INFO - Gemini API svar modtaget på 33.91 sekunder
+2025-03-19 13:41:25,122 - INFO - Modtog match_info data for kamp_id: 748189
+2025-03-19 13:41:25,122 - INFO - Modtog 50 match_events
+2025-03-19 13:41:25,122 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:41:25,122 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:41:25,122 - INFO - Behandler chunk 3 af 3 for match_748189_a.txt
+2025-03-19 13:41:25,123 - INFO - Behandler første chunk
+2025-03-19 13:41:25,123 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2296 tegn
+2025-03-19 13:41:25,123 - DEBUG - Første 100 tegn af chunk: SVK Fejlaflevering
+27
+Marigona HAJDARI
+46.21
+SJE
+Skud forbi
+1:e
+12
+Stine BROLØS
+0
+46.43
+SVK Skud red...
+2025-03-19 13:41:25,124 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:41:45,006 - INFO - AFC remote call 1 is done.
+2025-03-19 13:41:45,007 - INFO - Gemini API svar modtaget på 19.88 sekunder
+2025-03-19 13:41:45,007 - INFO - Modtog match_info data for kamp_id: 748189
+2025-03-19 13:41:45,007 - INFO - Modtog 31 match_events
+2025-03-19 13:41:45,007 - INFO - Tilføjet 31 hændelser fra chunk 3
+2025-03-19 13:41:45,007 - INFO - Opretter database: Kvindeliga-database\2024-2025\1392024_SønderjyskE_Kvindehåndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-19 13:41:45,012 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1392024_SønderjyskE_Kvindehåndbold_vs_Silkeborg-Voel_KFUM.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:41:45,013 - INFO - Behandling af match_748189_a.txt fuldført på 87.42 sekunder.
+2025-03-19 13:41:45,013 - INFO - Database gemt som: 1392024_SønderjyskE_Kvindehåndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-19 13:41:45,013 - INFO - Total antal hændelser: 135
+2025-03-19 13:41:45,013 - INFO - Starter behandling af fil: match_748190_a.txt
+2025-03-19 13:41:45,013 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748190_a.txt
+2025-03-19 13:41:45,025 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:41:45,025 - INFO - Behandler chunk 1 af 3 for match_748190_a.txt
+2025-03-19 13:41:45,025 - INFO - Behandler første chunk
+2025-03-19 13:41:45,025 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3671 tegn
+2025-03-19 13:41:45,026 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:41:45,026 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:42:20,837 - INFO - AFC remote call 1 is done.
+2025-03-19 13:42:20,837 - INFO - Gemini API svar modtaget på 35.81 sekunder
+2025-03-19 13:42:20,837 - INFO - Modtog match_info data for kamp_id: 748190
+2025-03-19 13:42:20,837 - INFO - Modtog 54 match_events
+2025-03-19 13:42:20,837 - INFO - Match info fundet: 748190 - EH Aalborg vs Bjerringbro FH
+2025-03-19 13:42:20,837 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:42:20,837 - INFO - Behandler chunk 2 af 3 for match_748190_a.txt
+2025-03-19 13:42:20,837 - INFO - Behandler første chunk
+2025-03-19 13:42:20,838 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2878 tegn
+2025-03-19 13:42:20,838 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+EH Aalborg - Bjerringbro FH   23 - 18  (10 - 10)
+748190 / 15-9-2024 / Skansen Hal 1 / ...
+2025-03-19 13:42:20,838 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:42:53,346 - INFO - AFC remote call 1 is done.
+2025-03-19 13:42:53,347 - INFO - Gemini API svar modtaget på 32.51 sekunder
+2025-03-19 13:42:53,348 - INFO - Modtog match_info data for kamp_id: 748190
+2025-03-19 13:42:53,348 - INFO - Modtog 49 match_events
+2025-03-19 13:42:53,348 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-19 13:42:53,348 - INFO - Behandler chunk 3 af 3 for match_748190_a.txt
+2025-03-19 13:42:53,348 - INFO - Behandler første chunk
+2025-03-19 13:42:53,349 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2212 tegn
+2025-03-19 13:42:53,349 - DEBUG - Første 100 tegn af chunk: EHA Skud reddet
+VF
+30
+Clara LERBY
+20
+Clara BAK
+46.30
+BFH Skud forbi
+Gbr 21
+Emma ERNST
+16
+Johanne GRA...
+2025-03-19 13:42:53,349 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:43:16,464 - INFO - AFC remote call 1 is done.
+2025-03-19 13:43:16,464 - INFO - Gemini API svar modtaget på 23.11 sekunder
+2025-03-19 13:43:16,465 - INFO - Modtog match_info data for kamp_id: 748190
+2025-03-19 13:43:16,465 - INFO - Modtog 33 match_events
+2025-03-19 13:43:16,465 - INFO - Tilføjet 33 hændelser fra chunk 3
+2025-03-19 13:43:16,465 - INFO - Opretter database: Kvindeliga-database\2024-2025\1592024_EH_Aalborg_vs_Bjerringbro_FH.db
+2025-03-19 13:43:16,467 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1592024_EH_Aalborg_vs_Bjerringbro_FH.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:43:16,467 - INFO - Behandling af match_748190_a.txt fuldført på 91.45 sekunder.
+2025-03-19 13:43:16,467 - INFO - Database gemt som: 1592024_EH_Aalborg_vs_Bjerringbro_FH.db
+2025-03-19 13:43:16,467 - INFO - Total antal hændelser: 136
+2025-03-19 13:43:16,468 - INFO - Starter behandling af fil: match_748191_a.txt
+2025-03-19 13:43:16,468 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748191_a.txt
+2025-03-19 13:43:16,477 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:43:16,477 - INFO - Behandler chunk 1 af 3 for match_748191_a.txt
+2025-03-19 13:43:16,477 - INFO - Behandler første chunk
+2025-03-19 13:43:16,478 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3729 tegn
+2025-03-19 13:43:16,478 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:43:16,478 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:43:52,602 - INFO - AFC remote call 1 is done.
+2025-03-19 13:43:52,603 - INFO - Gemini API svar modtaget på 36.13 sekunder
+2025-03-19 13:43:52,603 - INFO - Modtog match_info data for kamp_id: 748191
+2025-03-19 13:43:52,603 - INFO - Modtog 54 match_events
+2025-03-19 13:43:52,603 - INFO - Match info fundet: 748191 - Viborg HK vs Bjerringbro FH
+2025-03-19 13:43:52,603 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:43:52,603 - INFO - Behandler chunk 2 af 3 for match_748191_a.txt
+2025-03-19 13:43:52,603 - INFO - Behandler første chunk
+2025-03-19 13:43:52,604 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3373 tegn
+2025-03-19 13:43:52,604 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Viborg HK - Bjerringbro FH   28 - 24  (10 - 12)
+748191 / 21-9-2024 / BIOCIRC Arena 1, ...
+2025-03-19 13:43:52,604 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:44:25,909 - INFO - AFC remote call 1 is done.
+2025-03-19 13:44:25,910 - INFO - Gemini API svar modtaget på 33.31 sekunder
+2025-03-19 13:44:25,910 - INFO - Modtog match_info data for kamp_id: 748191
+2025-03-19 13:44:25,910 - INFO - Modtog 50 match_events
+2025-03-19 13:44:25,910 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:44:25,912 - INFO - Behandler chunk 3 af 3 for match_748191_a.txt
+2025-03-19 13:44:25,912 - INFO - Behandler første chunk
+2025-03-19 13:44:25,912 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2682 tegn
+2025-03-19 13:44:25,913 - DEBUG - Første 100 tegn af chunk: ST
+19
+Rikke Dahl NIELSEN
+Assist
+31
+Marianne HAUGSTED
+16
+Louise Bak JENSEN
+46.36 20-18 VHK Mål
+2:e
+19...
+2025-03-19 13:44:25,913 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:44:51,934 - INFO - AFC remote call 1 is done.
+2025-03-19 13:44:51,934 - INFO - Gemini API svar modtaget på 26.02 sekunder
+2025-03-19 13:44:51,935 - INFO - Modtog match_info data for kamp_id: 748191
+2025-03-19 13:44:51,935 - INFO - Modtog 39 match_events
+2025-03-19 13:44:51,935 - INFO - Tilføjet 39 hændelser fra chunk 3
+2025-03-19 13:44:51,935 - INFO - Opretter database: Kvindeliga-database\2024-2025\2192024_Viborg_HK_vs_Bjerringbro_FH.db
+2025-03-19 13:44:51,940 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\2192024_Viborg_HK_vs_Bjerringbro_FH.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:44:51,940 - INFO - Behandling af match_748191_a.txt fuldført på 95.47 sekunder.
+2025-03-19 13:44:51,941 - INFO - Database gemt som: 2192024_Viborg_HK_vs_Bjerringbro_FH.db
+2025-03-19 13:44:51,941 - INFO - Total antal hændelser: 143
+2025-03-19 13:44:51,941 - INFO - Starter behandling af fil: match_748192_a.txt
+2025-03-19 13:44:51,941 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748192_a.txt
+2025-03-19 13:44:51,954 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:44:51,954 - INFO - Behandler chunk 1 af 3 for match_748192_a.txt
+2025-03-19 13:44:51,954 - INFO - Behandler første chunk
+2025-03-19 13:44:51,954 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3754 tegn
+2025-03-19 13:44:51,954 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Voel KFUM - I...
+2025-03-19 13:44:51,954 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:45:27,294 - INFO - AFC remote call 1 is done.
+2025-03-19 13:45:27,294 - INFO - Gemini API svar modtaget på 35.34 sekunder
+2025-03-19 13:45:27,295 - INFO - Modtog match_info data for kamp_id: 748192
+2025-03-19 13:45:27,295 - INFO - Modtog 54 match_events
+2025-03-19 13:45:27,295 - INFO - Match info fundet: 748192 - Silkeborg-Voel KFUM vs Ikast Håndbold
+2025-03-19 13:45:27,295 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:45:27,296 - INFO - Behandler chunk 2 af 3 for match_748192_a.txt
+2025-03-19 13:45:27,296 - INFO - Behandler første chunk
+2025-03-19 13:45:27,296 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3057 tegn
+2025-03-19 13:45:27,297 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Silkeborg-Voel KFUM - Ikast Håndbold   22 - 28  (12 - 14)
+748192 / 22-9-2024 / JYSK Ar...
+2025-03-19 13:45:27,297 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:45:57,876 - INFO - AFC remote call 1 is done.
+2025-03-19 13:45:57,876 - INFO - Gemini API svar modtaget på 30.58 sekunder
+2025-03-19 13:45:57,877 - INFO - Modtog match_info data for kamp_id: 748192
+2025-03-19 13:45:57,877 - INFO - Modtog 50 match_events
+2025-03-19 13:45:57,877 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:45:57,877 - INFO - Behandler chunk 3 af 3 for match_748192_a.txt
+2025-03-19 13:45:57,877 - INFO - Behandler første chunk
+2025-03-19 13:45:57,878 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2197 tegn
+2025-03-19 13:45:57,878 - DEBUG - Første 100 tegn af chunk: SVK Skud reddet
+HF
+23
+Thilde FRANDSEN
+12
+Filippa IDÉHN
+46.28
+IKA
+Regelfejl
+6
+Cecilie BRANDT
+46.50
+SV...
+2025-03-19 13:45:57,879 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:46:20,133 - INFO - AFC remote call 1 is done.
+2025-03-19 13:46:20,133 - INFO - Gemini API svar modtaget på 22.25 sekunder
+2025-03-19 13:46:20,134 - INFO - Modtog match_info data for kamp_id: 748192
+2025-03-19 13:46:20,134 - INFO - Modtog 33 match_events
+2025-03-19 13:46:20,134 - INFO - Tilføjet 33 hændelser fra chunk 3
+2025-03-19 13:46:20,134 - INFO - Opretter database: Kvindeliga-database\2024-2025\2292024_Silkeborg-Voel_KFUM_vs_Ikast_Håndbold.db
+2025-03-19 13:46:20,139 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\2292024_Silkeborg-Voel_KFUM_vs_Ikast_Håndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:46:20,139 - INFO - Behandling af match_748192_a.txt fuldført på 88.20 sekunder.
+2025-03-19 13:46:20,140 - INFO - Database gemt som: 2292024_Silkeborg-Voel_KFUM_vs_Ikast_Håndbold.db
+2025-03-19 13:46:20,140 - INFO - Total antal hændelser: 137
+2025-03-19 13:46:20,140 - INFO - Starter behandling af fil: match_748193_a.txt
+2025-03-19 13:46:20,140 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748193_a.txt
+2025-03-19 13:46:20,149 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:46:20,149 - INFO - Behandler chunk 1 af 3 for match_748193_a.txt
+2025-03-19 13:46:20,150 - INFO - Behandler første chunk
+2025-03-19 13:46:20,150 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3905 tegn
+2025-03-19 13:46:20,150 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:46:20,150 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:46:53,154 - INFO - AFC remote call 1 is done.
+2025-03-19 13:46:53,155 - INFO - Gemini API svar modtaget på 33.01 sekunder
+2025-03-19 13:46:53,155 - INFO - Modtog match_info data for kamp_id: 748193
+2025-03-19 13:46:53,155 - INFO - Modtog 54 match_events
+2025-03-19 13:46:53,156 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:46:53,156 - INFO - Match info fundet: 748193 - Aarhus Håndbold Kvinder vs SønderjyskE Kvindehåndbold
+2025-03-19 13:46:53,156 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:46:53,156 - INFO - Behandler chunk 2 af 3 for match_748193_a.txt
+2025-03-19 13:46:53,156 - INFO - Behandler første chunk
+2025-03-19 13:46:53,157 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3370 tegn
+2025-03-19 13:46:53,157 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Aarhus Håndbold Kvinder - SønderjyskE Kvindehåndbold   32 - 35  (15 - 20)
+748193 / 18-...
+2025-03-19 13:46:53,157 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:47:24,022 - INFO - AFC remote call 1 is done.
+2025-03-19 13:47:24,023 - INFO - Gemini API svar modtaget på 30.87 sekunder
+2025-03-19 13:47:24,023 - INFO - Modtog match_info data for kamp_id: 748193
+2025-03-19 13:47:24,023 - INFO - Modtog 50 match_events
+2025-03-19 13:47:24,023 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:47:24,023 - INFO - Behandler chunk 3 af 3 for match_748193_a.txt
+2025-03-19 13:47:24,024 - INFO - Behandler første chunk
+2025-03-19 13:47:24,024 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2949 tegn
+2025-03-19 13:47:24,024 - DEBUG - Første 100 tegn af chunk: HF
+25
+Ida GÖTZSCHE
+Assist
+14
+Anna Berger WIERZBA
+26
+Nora PERSSON
+42.46
+SJE
+Regelfejl
+31
+Ida-Marie DA...
+2025-03-19 13:47:24,024 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:47:52,686 - INFO - AFC remote call 1 is done.
+2025-03-19 13:47:52,686 - INFO - Gemini API svar modtaget på 28.66 sekunder
+2025-03-19 13:47:52,687 - INFO - Modtog match_info data for kamp_id: 748193
+2025-03-19 13:47:52,687 - INFO - Modtog 43 match_events
+2025-03-19 13:47:52,687 - INFO - Tilføjet 43 hændelser fra chunk 3
+2025-03-19 13:47:52,687 - INFO - Opretter database: Kvindeliga-database\2024-2025\1892024_Aarhus_Håndbold_Kvinder_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-19 13:47:52,692 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1892024_Aarhus_Håndbold_Kvinder_vs_SønderjyskE_Kvindehåndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:47:52,692 - INFO - Behandling af match_748193_a.txt fuldført på 92.55 sekunder.
+2025-03-19 13:47:52,692 - INFO - Database gemt som: 1892024_Aarhus_Håndbold_Kvinder_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-19 13:47:52,692 - INFO - Total antal hændelser: 147
+2025-03-19 13:47:52,692 - INFO - Starter behandling af fil: match_748194_a.txt
+2025-03-19 13:47:52,692 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748194_a.txt
+2025-03-19 13:47:52,704 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:47:52,704 - INFO - Behandler chunk 1 af 3 for match_748194_a.txt
+2025-03-19 13:47:52,704 - INFO - Behandler første chunk
+2025-03-19 13:47:52,704 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3982 tegn
+2025-03-19 13:47:52,704 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:47:52,704 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:48:26,842 - INFO - AFC remote call 1 is done.
+2025-03-19 13:48:26,842 - INFO - Gemini API svar modtaget på 34.14 sekunder
+2025-03-19 13:48:26,843 - INFO - Modtog match_info data for kamp_id: 748194
+2025-03-19 13:48:26,843 - INFO - Modtog 54 match_events
+2025-03-19 13:48:26,843 - INFO - Match info fundet: 748194 - København Håndbold vs Team Esbjerg
+2025-03-19 13:48:26,843 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:48:26,843 - INFO - Behandler chunk 2 af 3 for match_748194_a.txt
+2025-03-19 13:48:26,844 - INFO - Behandler første chunk
+2025-03-19 13:48:26,844 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3235 tegn
+2025-03-19 13:48:26,845 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+København Håndbold - Team Esbjerg   27 - 34  (14 - 15)
+748194 / 18-9-2024 / Frederiksb...
+2025-03-19 13:48:26,845 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:48:58,528 - INFO - AFC remote call 1 is done.
+2025-03-19 13:48:58,529 - INFO - Gemini API svar modtaget på 31.68 sekunder
+2025-03-19 13:48:58,529 - INFO - Modtog match_info data for kamp_id: 748194
+2025-03-19 13:48:58,530 - INFO - Modtog 49 match_events
+2025-03-19 13:48:58,530 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-19 13:48:58,530 - INFO - Behandler chunk 3 af 3 for match_748194_a.txt
+2025-03-19 13:48:58,530 - INFO - Behandler første chunk
+2025-03-19 13:48:58,531 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2592 tegn
+2025-03-19 13:48:58,531 - DEBUG - Første 100 tegn af chunk: KBH Fejlaflevering
+11
+Martha NICKELSEN
+Bold erobret 24
+Sanna SOLBERG
+44.26 18-26 TES
+Mål
+1:e
+24
+Sann...
+2025-03-19 13:48:58,532 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:49:23,890 - INFO - AFC remote call 1 is done.
+2025-03-19 13:49:23,890 - INFO - Gemini API svar modtaget på 25.36 sekunder
+2025-03-19 13:49:23,891 - INFO - Modtog match_info data for kamp_id: 748194
+2025-03-19 13:49:23,891 - INFO - Modtog 37 match_events
+2025-03-19 13:49:23,891 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-19 13:49:23,891 - INFO - Tilføjet 37 hændelser fra chunk 3
+2025-03-19 13:49:23,891 - INFO - Opretter database: Kvindeliga-database\2024-2025\1892024_København_Håndbold_vs_Team_Esbjerg.db
+2025-03-19 13:49:23,895 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1892024_København_Håndbold_vs_Team_Esbjerg.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:49:23,895 - INFO - Behandling af match_748194_a.txt fuldført på 91.20 sekunder.
+2025-03-19 13:49:23,896 - INFO - Database gemt som: 1892024_København_Håndbold_vs_Team_Esbjerg.db
+2025-03-19 13:49:23,896 - INFO - Total antal hændelser: 140
+2025-03-19 13:49:23,896 - INFO - Starter behandling af fil: match_748195_a.txt
+2025-03-19 13:49:23,896 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748195_a.txt
+2025-03-19 13:49:23,908 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:49:23,908 - INFO - Behandler chunk 1 af 3 for match_748195_a.txt
+2025-03-19 13:49:23,908 - INFO - Behandler første chunk
+2025-03-19 13:49:23,910 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3822 tegn
+2025-03-19 13:49:23,910 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:49:23,910 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:49:58,266 - INFO - AFC remote call 1 is done.
+2025-03-19 13:49:58,266 - INFO - Gemini API svar modtaget på 34.36 sekunder
+2025-03-19 13:49:58,267 - INFO - Modtog match_info data for kamp_id: 748195
+2025-03-19 13:49:58,267 - INFO - Modtog 54 match_events
+2025-03-19 13:49:58,267 - INFO - Match info fundet: 748195 - Ringkøbing Håndbold vs Skanderborg Håndbold
+2025-03-19 13:49:58,268 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:49:58,268 - INFO - Behandler chunk 2 af 3 for match_748195_a.txt
+2025-03-19 13:49:58,268 - INFO - Behandler første chunk
+2025-03-19 13:49:58,269 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3040 tegn
+2025-03-19 13:49:58,269 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ringkøbing Håndbold - Skanderborg Håndbold   28 - 34  (13 - 17)
+748195 / 22-9-2024 / G...
+2025-03-19 13:49:58,269 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:50:30,653 - INFO - AFC remote call 1 is done.
+2025-03-19 13:50:30,653 - INFO - Gemini API svar modtaget på 32.38 sekunder
+2025-03-19 13:50:30,654 - INFO - Modtog match_info data for kamp_id: 748195
+2025-03-19 13:50:30,654 - INFO - Modtog 50 match_events
+2025-03-19 13:50:30,655 - INFO - Korrigerede 20 hændelser med forkert placerede målvogtere
+2025-03-19 13:50:30,655 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:50:30,655 - INFO - Behandler chunk 3 af 3 for match_748195_a.txt
+2025-03-19 13:50:30,655 - INFO - Behandler første chunk
+2025-03-19 13:50:30,656 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2430 tegn
+2025-03-19 13:50:30,656 - DEBUG - Første 100 tegn af chunk: Mål
+2:e
+8
+Camilla PEDERSEN
+0
+44.41
+SKB Skud reddet
+Gbr 20
+Suna HANSEN
+16
+Stephanie ANDERSEN
+44.47 19...
+2025-03-19 13:50:30,657 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:50:52,121 - INFO - AFC remote call 1 is done.
+2025-03-19 13:50:52,122 - INFO - Gemini API svar modtaget på 21.47 sekunder
+2025-03-19 13:50:52,122 - INFO - Modtog match_info data for kamp_id: 748195
+2025-03-19 13:50:52,122 - INFO - Modtog 32 match_events
+2025-03-19 13:50:52,123 - INFO - Tilføjet 32 hændelser fra chunk 3
+2025-03-19 13:50:52,123 - INFO - Opretter database: Kvindeliga-database\2024-2025\2292024_Ringkøbing_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-19 13:50:52,130 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\2292024_Ringkøbing_Håndbold_vs_Skanderborg_Håndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:50:52,131 - INFO - Behandling af match_748195_a.txt fuldført på 88.23 sekunder.
+2025-03-19 13:50:52,131 - INFO - Database gemt som: 2292024_Ringkøbing_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-19 13:50:52,131 - INFO - Total antal hændelser: 136
+2025-03-19 13:50:52,131 - INFO - Starter behandling af fil: match_748196_a.txt
+2025-03-19 13:50:52,131 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748196_a.txt
+2025-03-19 13:50:52,143 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:50:52,143 - INFO - Behandler chunk 1 af 3 for match_748196_a.txt
+2025-03-19 13:50:52,144 - INFO - Behandler første chunk
+2025-03-19 13:50:52,144 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3711 tegn
+2025-03-19 13:50:52,144 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:50:52,144 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:51:26,980 - INFO - AFC remote call 1 is done.
+2025-03-19 13:51:26,980 - INFO - Gemini API svar modtaget på 34.84 sekunder
+2025-03-19 13:51:26,981 - INFO - Modtog match_info data for kamp_id: 748196
+2025-03-19 13:51:26,981 - INFO - Modtog 54 match_events
+2025-03-19 13:51:26,981 - INFO - Match info fundet: 748196 - Odense Håndbold vs Horsens Håndbold Elite
+2025-03-19 13:51:26,981 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:51:26,981 - INFO - Behandler chunk 2 af 3 for match_748196_a.txt
+2025-03-19 13:51:26,981 - INFO - Behandler første chunk
+2025-03-19 13:51:26,982 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3297 tegn
+2025-03-19 13:51:26,982 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Odense Håndbold - Horsens Håndbold Elite   32 - 22  (14 - 13)
+748196 / 18-9-2024 / Syd...
+2025-03-19 13:51:26,983 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:51:59,576 - INFO - AFC remote call 1 is done.
+2025-03-19 13:51:59,577 - INFO - Gemini API svar modtaget på 32.59 sekunder
+2025-03-19 13:51:59,577 - INFO - Modtog match_info data for kamp_id: 748196
+2025-03-19 13:51:59,578 - INFO - Modtog 50 match_events
+2025-03-19 13:51:59,578 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:51:59,578 - INFO - Behandler chunk 3 af 3 for match_748196_a.txt
+2025-03-19 13:51:59,578 - INFO - Behandler første chunk
+2025-03-19 13:51:59,578 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2908 tegn
+2025-03-19 13:51:59,579 - DEBUG - Første 100 tegn af chunk: HHE Fejlaflevering
+7
+Maria Palsdottir NÓLSOY
+43.01 24-18 ODE Mål
+1:e
+10
+Anna GRUNDTVIG
+Assist
+38
+Yar...
+2025-03-19 13:51:59,579 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:52:28,092 - INFO - AFC remote call 1 is done.
+2025-03-19 13:52:28,093 - INFO - Gemini API svar modtaget på 28.51 sekunder
+2025-03-19 13:52:28,093 - INFO - Modtog match_info data for kamp_id: 748196
+2025-03-19 13:52:28,094 - INFO - Modtog 45 match_events
+2025-03-19 13:52:28,094 - INFO - Korrigerede 2 hændelser med forkert placerede målvogtere
+2025-03-19 13:52:28,094 - INFO - Tilføjet 45 hændelser fra chunk 3
+2025-03-19 13:52:28,094 - INFO - Opretter database: Kvindeliga-database\2024-2025\1892024_Odense_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-19 13:52:28,102 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1892024_Odense_Håndbold_vs_Horsens_Håndbold_Elite.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:52:28,102 - INFO - Behandling af match_748196_a.txt fuldført på 95.97 sekunder.
+2025-03-19 13:52:28,102 - INFO - Database gemt som: 1892024_Odense_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-19 13:52:28,102 - INFO - Total antal hændelser: 149
+2025-03-19 13:52:28,102 - INFO - Starter behandling af fil: match_748197_a.txt
+2025-03-19 13:52:28,102 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748197_a.txt
+2025-03-19 13:52:28,112 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:52:28,112 - INFO - Behandler chunk 1 af 3 for match_748197_a.txt
+2025-03-19 13:52:28,112 - INFO - Behandler første chunk
+2025-03-19 13:52:28,113 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3693 tegn
+2025-03-19 13:52:28,113 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Håndbold - EH...
+2025-03-19 13:52:28,113 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:53:01,615 - INFO - AFC remote call 1 is done.
+2025-03-19 13:53:01,616 - INFO - Gemini API svar modtaget på 33.50 sekunder
+2025-03-19 13:53:01,616 - INFO - Modtog match_info data for kamp_id: 748197
+2025-03-19 13:53:01,617 - INFO - Modtog 54 match_events
+2025-03-19 13:53:01,617 - INFO - Match info fundet: 748197 - Nykøbing F. Håndbold vs EH Aalborg
+2025-03-19 13:53:01,617 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:53:01,617 - INFO - Behandler chunk 2 af 3 for match_748197_a.txt
+2025-03-19 13:53:01,617 - INFO - Behandler første chunk
+2025-03-19 13:53:01,618 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3318 tegn
+2025-03-19 13:53:01,618 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Nykøbing F. Håndbold - EH Aalborg   36 - 30  (16 - 14)
+748197 / 18-9-2024 / SPAR NORD ...
+2025-03-19 13:53:01,619 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:53:31,603 - INFO - AFC remote call 1 is done.
+2025-03-19 13:53:31,604 - INFO - Gemini API svar modtaget på 29.98 sekunder
+2025-03-19 13:53:31,605 - INFO - Modtog match_info data for kamp_id: 748197
+2025-03-19 13:53:31,605 - INFO - Modtog 50 match_events
+2025-03-19 13:53:31,605 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:53:31,605 - INFO - Behandler chunk 3 af 3 for match_748197_a.txt
+2025-03-19 13:53:31,605 - INFO - Behandler første chunk
+2025-03-19 13:53:31,606 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2879 tegn
+2025-03-19 13:53:31,606 - DEBUG - Første 100 tegn af chunk: NFH Fejlaflevering
+18
+Alberte KIELSTRUP
+45.07
+EHA Skud reddet
+Gbr
+3
+Liv SVEINBJØRNSDÓTTIR
+16
+Line CH...
+2025-03-19 13:53:31,607 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:53:56,440 - INFO - AFC remote call 1 is done.
+2025-03-19 13:53:56,441 - INFO - Gemini API svar modtaget på 24.83 sekunder
+2025-03-19 13:53:56,441 - INFO - Modtog match_info data for kamp_id: 748197
+2025-03-19 13:53:56,441 - INFO - Modtog 36 match_events
+2025-03-19 13:53:56,441 - INFO - Tilføjet 36 hændelser fra chunk 3
+2025-03-19 13:53:56,441 - INFO - Opretter database: Kvindeliga-database\2024-2025\1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db
+2025-03-19 13:53:56,447 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:53:56,447 - INFO - Behandling af match_748197_a.txt fuldført på 88.34 sekunder.
+2025-03-19 13:53:56,447 - INFO - Database gemt som: 1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db
+2025-03-19 13:53:56,447 - INFO - Total antal hændelser: 140
+2025-03-19 13:53:56,447 - INFO - Starter behandling af fil: match_748198_a.txt
+2025-03-19 13:53:56,447 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748198_a.txt
+2025-03-19 13:53:56,457 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:53:56,457 - INFO - Behandler chunk 1 af 3 for match_748198_a.txt
+2025-03-19 13:53:56,457 - INFO - Behandler første chunk
+2025-03-19 13:53:56,458 - INFO - Sender anmodning til Gemini API - chunk størrelse: 4059 tegn
+2025-03-19 13:53:56,458 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:53:56,458 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:54:30,479 - INFO - AFC remote call 1 is done.
+2025-03-19 13:54:30,479 - INFO - Gemini API svar modtaget på 34.02 sekunder
+2025-03-19 13:54:30,480 - INFO - Modtog match_info data for kamp_id: 748198
+2025-03-19 13:54:30,480 - INFO - Modtog 54 match_events
+2025-03-19 13:54:30,480 - INFO - Match info fundet: 748198 - Ikast Håndbold vs Aarhus Håndbold Kvinder
+2025-03-19 13:54:30,481 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-19 13:54:30,481 - INFO - Behandler chunk 2 af 3 for match_748198_a.txt
+2025-03-19 13:54:30,481 - INFO - Behandler første chunk
+2025-03-19 13:54:30,482 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3173 tegn
+2025-03-19 13:54:30,482 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ikast Håndbold - Aarhus Håndbold Kvinder   35 - 19  (19 - 8)
+748198 / 2-10-2024 / IBF ...
+2025-03-19 13:54:30,482 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:55:02,528 - INFO - AFC remote call 1 is done.
+2025-03-19 13:55:02,529 - INFO - Gemini API svar modtaget på 32.05 sekunder
+2025-03-19 13:55:02,529 - INFO - Modtog match_info data for kamp_id: 748198
+2025-03-19 13:55:02,530 - INFO - Modtog 50 match_events
+2025-03-19 13:55:02,530 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-19 13:55:02,530 - INFO - Behandler chunk 3 af 3 for match_748198_a.txt
+2025-03-19 13:55:02,530 - INFO - Behandler første chunk
+2025-03-19 13:55:02,531 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2571 tegn
+2025-03-19 13:55:02,531 - DEBUG - Første 100 tegn af chunk: 2:e
+14
+Anna Berger WIERZBA
+1
+Irma SCHJÖTT
+43.58 28-10 IKA
+Mål
+Gbr 10
+Sofia STENHOLT
+1
+Elin THORSTEIN...
+2025-03-19 13:55:02,532 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-19 13:55:24,035 - INFO - AFC remote call 1 is done.
+2025-03-19 13:55:24,035 - INFO - Gemini API svar modtaget på 21.50 sekunder
+2025-03-19 13:55:24,036 - INFO - Modtog match_info data for kamp_id: 748198
+2025-03-19 13:55:24,036 - INFO - Modtog 35 match_events
+2025-03-19 13:55:24,036 - INFO - Tilføjet 35 hændelser fra chunk 3
+2025-03-19 13:55:24,036 - INFO - Opretter database: Kvindeliga-database\2024-2025\2102024_Ikast_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-19 13:55:24,043 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\2102024_Ikast_Håndbold_vs_Aarhus_Håndbold_Kvinder.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-19 13:55:24,044 - INFO - Behandling af match_748198_a.txt fuldført på 87.60 sekunder.
+2025-03-19 13:55:24,044 - INFO - Database gemt som: 2102024_Ikast_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-19 13:55:24,044 - INFO - Total antal hændelser: 139
+2025-03-19 13:55:24,044 - INFO - Starter behandling af fil: match_748199_a.txt
+2025-03-19 13:55:24,044 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748199_a.txt
+2025-03-19 13:55:24,052 - INFO - Fil opdelt i 3 chunks
+2025-03-19 13:55:24,052 - INFO - Behandler chunk 1 af 3 for match_748199_a.txt
+2025-03-19 13:55:24,052 - INFO - Behandler første chunk
+2025-03-19 13:55:24,053 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3586 tegn
+2025-03-19 13:55:24,053 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Silkeborg - V...
+2025-03-19 13:55:24,053 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:30:15,923 - INFO - ==== Starter konverteringsproces ====
+2025-03-23 16:30:15,927 - INFO - Fandt 161 tekstfiler til potentiel behandling
+2025-03-23 16:30:15,927 - INFO - Tjekker om match_748177_a.txt allerede er behandlet...
+2025-03-23 16:30:15,928 - INFO - Fil match_748177_a.txt med kamp_id 748177 er ikke tidligere behandlet.
+2025-03-23 16:30:15,928 - INFO - Tjekker om match_748178_a.txt allerede er behandlet...
+2025-03-23 16:30:15,928 - INFO - Fil match_748178_a.txt med kamp_id 748178 er ikke tidligere behandlet.
+2025-03-23 16:30:15,928 - INFO - Tjekker om match_748179_a.txt allerede er behandlet...
+2025-03-23 16:30:15,928 - INFO - Fil match_748179_a.txt med kamp_id 748179 er ikke tidligere behandlet.
+2025-03-23 16:30:15,928 - INFO - Tjekker om match_748180_a.txt allerede er behandlet...
+2025-03-23 16:30:15,928 - INFO - Fil match_748180_a.txt med kamp_id 748180 er ikke tidligere behandlet.
+2025-03-23 16:30:15,928 - INFO - Tjekker om match_748181_a.txt allerede er behandlet...
+2025-03-23 16:30:15,928 - INFO - Fil match_748181_a.txt med kamp_id 748181 er ikke tidligere behandlet.
+2025-03-23 16:30:15,928 - INFO - Tjekker om match_748182_a.txt allerede er behandlet...
+2025-03-23 16:30:15,928 - INFO - Fil match_748182_a.txt med kamp_id 748182 er ikke tidligere behandlet.
+2025-03-23 16:30:15,928 - INFO - Tjekker om match_748183_a.txt allerede er behandlet...
+2025-03-23 16:30:15,935 - INFO - Fil match_748183_a.txt med kamp_id 748183 er ikke tidligere behandlet.
+2025-03-23 16:30:15,935 - INFO - Tjekker om match_748184_a.txt allerede er behandlet...
+2025-03-23 16:30:15,935 - INFO - Fil match_748184_a.txt med kamp_id 748184 er ikke tidligere behandlet.
+2025-03-23 16:30:15,935 - INFO - Tjekker om match_748185_a.txt allerede er behandlet...
+2025-03-23 16:30:15,936 - INFO - Fil match_748185_a.txt med kamp_id 748185 er ikke tidligere behandlet.
+2025-03-23 16:30:15,936 - INFO - Tjekker om match_748186_a.txt allerede er behandlet...
+2025-03-23 16:30:15,936 - INFO - Fil match_748186_a.txt med kamp_id 748186 er ikke tidligere behandlet.
+2025-03-23 16:30:15,936 - INFO - Tjekker om match_748187_a.txt allerede er behandlet...
+2025-03-23 16:30:15,936 - INFO - Fil match_748187_a.txt med kamp_id 748187 er ikke tidligere behandlet.
+2025-03-23 16:30:15,936 - INFO - Tjekker om match_748188_a.txt allerede er behandlet...
+2025-03-23 16:30:15,939 - INFO - Fil match_748188_a.txt med kamp_id 748188 er ikke tidligere behandlet.
+2025-03-23 16:30:15,939 - INFO - Tjekker om match_748189_a.txt allerede er behandlet...
+2025-03-23 16:30:15,940 - INFO - Fil match_748189_a.txt med kamp_id 748189 er ikke tidligere behandlet.
+2025-03-23 16:30:15,940 - INFO - Tjekker om match_748190_a.txt allerede er behandlet...
+2025-03-23 16:30:15,941 - INFO - Fil match_748190_a.txt med kamp_id 748190 er ikke tidligere behandlet.
+2025-03-23 16:30:15,941 - INFO - Tjekker om match_748191_a.txt allerede er behandlet...
+2025-03-23 16:30:15,943 - INFO - Fil match_748191_a.txt med kamp_id 748191 er ikke tidligere behandlet.
+2025-03-23 16:30:15,943 - INFO - Tjekker om match_748192_a.txt allerede er behandlet...
+2025-03-23 16:30:15,943 - INFO - Fil match_748192_a.txt med kamp_id 748192 er ikke tidligere behandlet.
+2025-03-23 16:30:15,943 - INFO - Tjekker om match_748193_a.txt allerede er behandlet...
+2025-03-23 16:30:15,943 - INFO - Fil match_748193_a.txt med kamp_id 748193 er ikke tidligere behandlet.
+2025-03-23 16:30:15,943 - INFO - Tjekker om match_748194_a.txt allerede er behandlet...
+2025-03-23 16:30:15,943 - INFO - Fil match_748194_a.txt med kamp_id 748194 er ikke tidligere behandlet.
+2025-03-23 16:30:15,943 - INFO - Tjekker om match_748195_a.txt allerede er behandlet...
+2025-03-23 16:30:15,943 - INFO - Fil match_748195_a.txt med kamp_id 748195 er ikke tidligere behandlet.
+2025-03-23 16:30:15,943 - INFO - Tjekker om match_748196_a.txt allerede er behandlet...
+2025-03-23 16:30:15,943 - INFO - Fil match_748196_a.txt med kamp_id 748196 er ikke tidligere behandlet.
+2025-03-23 16:30:15,943 - INFO - Tjekker om match_748197_a.txt allerede er behandlet...
+2025-03-23 16:30:15,948 - INFO - Fil match_748197_a.txt med kamp_id 748197 er ikke tidligere behandlet.
+2025-03-23 16:30:15,948 - INFO - Tjekker om match_748198_a.txt allerede er behandlet...
+2025-03-23 16:30:15,948 - INFO - Fil match_748198_a.txt med kamp_id 748198 er ikke tidligere behandlet.
+2025-03-23 16:30:15,948 - INFO - Tjekker om match_748199_a.txt allerede er behandlet...
+2025-03-23 16:30:15,950 - INFO - Fil match_748199_a.txt med kamp_id 748199 er ikke tidligere behandlet.
+2025-03-23 16:30:15,950 - INFO - Tjekker om match_748200_a.txt allerede er behandlet...
+2025-03-23 16:30:15,951 - INFO - Fil match_748200_a.txt med kamp_id 748200 er ikke tidligere behandlet.
+2025-03-23 16:30:15,951 - INFO - Tjekker om match_748201_a.txt allerede er behandlet...
+2025-03-23 16:30:15,953 - INFO - Fil match_748201_a.txt med kamp_id 748201 er ikke tidligere behandlet.
+2025-03-23 16:30:15,953 - INFO - Tjekker om match_748202_a.txt allerede er behandlet...
+2025-03-23 16:30:15,953 - INFO - Fil match_748202_a.txt med kamp_id 748202 er ikke tidligere behandlet.
+2025-03-23 16:30:15,953 - INFO - Tjekker om match_748203_a.txt allerede er behandlet...
+2025-03-23 16:30:15,955 - INFO - Fil match_748203_a.txt med kamp_id 748203 er ikke tidligere behandlet.
+2025-03-23 16:30:15,955 - INFO - Tjekker om match_748204_a.txt allerede er behandlet...
+2025-03-23 16:30:15,955 - INFO - Fil match_748204_a.txt med kamp_id 748204 er ikke tidligere behandlet.
+2025-03-23 16:30:15,955 - INFO - Tjekker om match_748205_a.txt allerede er behandlet...
+2025-03-23 16:30:15,957 - INFO - Fil match_748205_a.txt med kamp_id 748205 er ikke tidligere behandlet.
+2025-03-23 16:30:15,957 - INFO - Tjekker om match_748206_a.txt allerede er behandlet...
+2025-03-23 16:30:15,958 - INFO - Fil match_748206_a.txt med kamp_id 748206 er ikke tidligere behandlet.
+2025-03-23 16:30:15,958 - INFO - Tjekker om match_748207_a.txt allerede er behandlet...
+2025-03-23 16:30:15,959 - INFO - Fil match_748207_a.txt med kamp_id 748207 er ikke tidligere behandlet.
+2025-03-23 16:30:15,959 - INFO - Tjekker om match_748208_a.txt allerede er behandlet...
+2025-03-23 16:30:15,959 - INFO - Fil match_748208_a.txt med kamp_id 748208 er ikke tidligere behandlet.
+2025-03-23 16:30:15,959 - INFO - Tjekker om match_748209_a.txt allerede er behandlet...
+2025-03-23 16:30:15,959 - INFO - Fil match_748209_a.txt med kamp_id 748209 er ikke tidligere behandlet.
+2025-03-23 16:30:15,959 - INFO - Tjekker om match_748210_a.txt allerede er behandlet...
+2025-03-23 16:30:15,959 - INFO - Fil match_748210_a.txt med kamp_id 748210 er ikke tidligere behandlet.
+2025-03-23 16:30:15,959 - INFO - Tjekker om match_748211_a.txt allerede er behandlet...
+2025-03-23 16:30:15,959 - INFO - Fil match_748211_a.txt med kamp_id 748211 er ikke tidligere behandlet.
+2025-03-23 16:30:15,959 - INFO - Tjekker om match_748212_a.txt allerede er behandlet...
+2025-03-23 16:30:15,965 - INFO - Fil match_748212_a.txt med kamp_id 748212 er ikke tidligere behandlet.
+2025-03-23 16:30:15,965 - INFO - Tjekker om match_748213_a.txt allerede er behandlet...
+2025-03-23 16:30:15,966 - INFO - Fil match_748213_a.txt med kamp_id 748213 er ikke tidligere behandlet.
+2025-03-23 16:30:15,966 - INFO - Tjekker om match_748214_a.txt allerede er behandlet...
+2025-03-23 16:30:15,966 - INFO - Fil match_748214_a.txt med kamp_id 748214 er ikke tidligere behandlet.
+2025-03-23 16:30:15,966 - INFO - Tjekker om match_748215_a.txt allerede er behandlet...
+2025-03-23 16:30:15,968 - INFO - Fil match_748215_a.txt med kamp_id 748215 er ikke tidligere behandlet.
+2025-03-23 16:30:15,968 - INFO - Tjekker om match_748216_a.txt allerede er behandlet...
+2025-03-23 16:30:15,969 - INFO - Fil match_748216_a.txt med kamp_id 748216 er ikke tidligere behandlet.
+2025-03-23 16:30:15,969 - INFO - Tjekker om match_748217_a.txt allerede er behandlet...
+2025-03-23 16:30:15,969 - INFO - Fil match_748217_a.txt med kamp_id 748217 er ikke tidligere behandlet.
+2025-03-23 16:30:15,969 - INFO - Tjekker om match_748218_a.txt allerede er behandlet...
+2025-03-23 16:30:15,971 - INFO - Fil match_748218_a.txt med kamp_id 748218 er ikke tidligere behandlet.
+2025-03-23 16:30:15,971 - INFO - Tjekker om match_748219_a.txt allerede er behandlet...
+2025-03-23 16:30:15,971 - INFO - Fil match_748219_a.txt med kamp_id 748219 er ikke tidligere behandlet.
+2025-03-23 16:30:15,971 - INFO - Tjekker om match_748220_a.txt allerede er behandlet...
+2025-03-23 16:30:15,973 - INFO - Fil match_748220_a.txt med kamp_id 748220 er ikke tidligere behandlet.
+2025-03-23 16:30:15,973 - INFO - Tjekker om match_748221_a.txt allerede er behandlet...
+2025-03-23 16:30:15,973 - INFO - Fil match_748221_a.txt med kamp_id 748221 er ikke tidligere behandlet.
+2025-03-23 16:30:15,973 - INFO - Tjekker om match_748222_a.txt allerede er behandlet...
+2025-03-23 16:30:15,976 - INFO - Fil match_748222_a.txt med kamp_id 748222 er ikke tidligere behandlet.
+2025-03-23 16:30:15,976 - INFO - Tjekker om match_748223_a.txt allerede er behandlet...
+2025-03-23 16:30:15,976 - INFO - Fil match_748223_a.txt med kamp_id 748223 er ikke tidligere behandlet.
+2025-03-23 16:30:15,976 - INFO - Tjekker om match_748224_a.txt allerede er behandlet...
+2025-03-23 16:30:15,977 - INFO - Fil match_748224_a.txt med kamp_id 748224 er ikke tidligere behandlet.
+2025-03-23 16:30:15,977 - INFO - Tjekker om match_748225_a.txt allerede er behandlet...
+2025-03-23 16:30:15,977 - INFO - Fil match_748225_a.txt med kamp_id 748225 er ikke tidligere behandlet.
+2025-03-23 16:30:15,977 - INFO - Tjekker om match_748226_a.txt allerede er behandlet...
+2025-03-23 16:30:15,977 - INFO - Fil match_748226_a.txt med kamp_id 748226 er ikke tidligere behandlet.
+2025-03-23 16:30:15,977 - INFO - Tjekker om match_748227_a.txt allerede er behandlet...
+2025-03-23 16:30:15,977 - INFO - Fil match_748227_a.txt med kamp_id 748227 er ikke tidligere behandlet.
+2025-03-23 16:30:15,977 - INFO - Tjekker om match_748228_a.txt allerede er behandlet...
+2025-03-23 16:30:15,977 - INFO - Fil match_748228_a.txt med kamp_id 748228 er ikke tidligere behandlet.
+2025-03-23 16:30:15,977 - INFO - Tjekker om match_748229_a.txt allerede er behandlet...
+2025-03-23 16:30:15,977 - INFO - Fil match_748229_a.txt med kamp_id 748229 er ikke tidligere behandlet.
+2025-03-23 16:30:15,977 - INFO - Tjekker om match_748230_a.txt allerede er behandlet...
+2025-03-23 16:30:15,977 - INFO - Fil match_748230_a.txt med kamp_id 748230 er ikke tidligere behandlet.
+2025-03-23 16:30:15,977 - INFO - Tjekker om match_748231_a.txt allerede er behandlet...
+2025-03-23 16:30:15,985 - INFO - Fil match_748231_a.txt med kamp_id 748231 er ikke tidligere behandlet.
+2025-03-23 16:30:15,985 - INFO - Tjekker om match_748232_a.txt allerede er behandlet...
+2025-03-23 16:30:15,985 - INFO - Fil match_748232_a.txt med kamp_id 748232 er ikke tidligere behandlet.
+2025-03-23 16:30:15,987 - INFO - Tjekker om match_748233_a.txt allerede er behandlet...
+2025-03-23 16:30:15,987 - INFO - Fil match_748233_a.txt med kamp_id 748233 er ikke tidligere behandlet.
+2025-03-23 16:30:15,987 - INFO - Tjekker om match_748234_a.txt allerede er behandlet...
+2025-03-23 16:30:15,989 - INFO - Fil match_748234_a.txt med kamp_id 748234 er ikke tidligere behandlet.
+2025-03-23 16:30:15,989 - INFO - Tjekker om match_748235_a.txt allerede er behandlet...
+2025-03-23 16:30:15,989 - INFO - Fil match_748235_a.txt med kamp_id 748235 er ikke tidligere behandlet.
+2025-03-23 16:30:15,989 - INFO - Tjekker om match_748236_a.txt allerede er behandlet...
+2025-03-23 16:30:15,991 - INFO - Fil match_748236_a.txt med kamp_id 748236 er ikke tidligere behandlet.
+2025-03-23 16:30:15,991 - INFO - Tjekker om match_748237_a.txt allerede er behandlet...
+2025-03-23 16:30:15,991 - INFO - Fil match_748237_a.txt med kamp_id 748237 er ikke tidligere behandlet.
+2025-03-23 16:30:15,991 - INFO - Tjekker om match_748238_a.txt allerede er behandlet...
+2025-03-23 16:30:15,993 - INFO - Fil match_748238_a.txt med kamp_id 748238 er ikke tidligere behandlet.
+2025-03-23 16:30:15,993 - INFO - Tjekker om match_748239_a.txt allerede er behandlet...
+2025-03-23 16:30:15,993 - INFO - Fil match_748239_a.txt med kamp_id 748239 er ikke tidligere behandlet.
+2025-03-23 16:30:15,993 - INFO - Tjekker om match_748240_a.txt allerede er behandlet...
+2025-03-23 16:30:15,993 - INFO - Fil match_748240_a.txt med kamp_id 748240 er ikke tidligere behandlet.
+2025-03-23 16:30:15,993 - INFO - Tjekker om match_748241_a.txt allerede er behandlet...
+2025-03-23 16:30:15,996 - INFO - Fil match_748241_a.txt med kamp_id 748241 er ikke tidligere behandlet.
+2025-03-23 16:30:15,996 - INFO - Tjekker om match_748242_a.txt allerede er behandlet...
+2025-03-23 16:30:15,997 - INFO - Fil match_748242_a.txt med kamp_id 748242 er ikke tidligere behandlet.
+2025-03-23 16:30:15,997 - INFO - Tjekker om match_748243_a.txt allerede er behandlet...
+2025-03-23 16:30:15,997 - INFO - Fil match_748243_a.txt med kamp_id 748243 er ikke tidligere behandlet.
+2025-03-23 16:30:15,997 - INFO - Tjekker om match_748244_a.txt allerede er behandlet...
+2025-03-23 16:30:15,999 - INFO - Fil match_748244_a.txt med kamp_id 748244 er ikke tidligere behandlet.
+2025-03-23 16:30:15,999 - INFO - Tjekker om match_748245_a.txt allerede er behandlet...
+2025-03-23 16:30:15,999 - INFO - Fil match_748245_a.txt med kamp_id 748245 er ikke tidligere behandlet.
+2025-03-23 16:30:15,999 - INFO - Tjekker om match_748246_a.txt allerede er behandlet...
+2025-03-23 16:30:16,001 - INFO - Fil match_748246_a.txt med kamp_id 748246 er ikke tidligere behandlet.
+2025-03-23 16:30:16,001 - INFO - Tjekker om match_748247_a.txt allerede er behandlet...
+2025-03-23 16:30:16,001 - INFO - Fil match_748247_a.txt med kamp_id 748247 er ikke tidligere behandlet.
+2025-03-23 16:30:16,001 - INFO - Tjekker om match_748248_a.txt allerede er behandlet...
+2025-03-23 16:30:16,001 - INFO - Fil match_748248_a.txt med kamp_id 748248 er ikke tidligere behandlet.
+2025-03-23 16:30:16,001 - INFO - Tjekker om match_748249_a.txt allerede er behandlet...
+2025-03-23 16:30:16,001 - INFO - Fil match_748249_a.txt med kamp_id 748249 er ikke tidligere behandlet.
+2025-03-23 16:30:16,001 - INFO - Tjekker om match_748250_a.txt allerede er behandlet...
+2025-03-23 16:30:16,001 - INFO - Fil match_748250_a.txt med kamp_id 748250 er ikke tidligere behandlet.
+2025-03-23 16:30:16,001 - INFO - Tjekker om match_748251_a.txt allerede er behandlet...
+2025-03-23 16:30:16,001 - INFO - Fil match_748251_a.txt med kamp_id 748251 er ikke tidligere behandlet.
+2025-03-23 16:30:16,001 - INFO - Tjekker om match_748252_a.txt allerede er behandlet...
+2025-03-23 16:30:16,001 - INFO - Fil match_748252_a.txt med kamp_id 748252 er ikke tidligere behandlet.
+2025-03-23 16:30:16,001 - INFO - Tjekker om match_748253_a.txt allerede er behandlet...
+2025-03-23 16:30:16,008 - INFO - Fil match_748253_a.txt med kamp_id 748253 er ikke tidligere behandlet.
+2025-03-23 16:30:16,008 - INFO - Tjekker om match_748254_a.txt allerede er behandlet...
+2025-03-23 16:30:16,009 - INFO - Fil match_748254_a.txt med kamp_id 748254 er ikke tidligere behandlet.
+2025-03-23 16:30:16,009 - INFO - Tjekker om match_748255_a.txt allerede er behandlet...
+2025-03-23 16:30:16,009 - INFO - Fil match_748255_a.txt med kamp_id 748255 er ikke tidligere behandlet.
+2025-03-23 16:30:16,009 - INFO - Tjekker om match_748256_a.txt allerede er behandlet...
+2025-03-23 16:30:16,009 - INFO - Fil match_748256_a.txt med kamp_id 748256 er ikke tidligere behandlet.
+2025-03-23 16:30:16,009 - INFO - Tjekker om match_748257_a.txt allerede er behandlet...
+2025-03-23 16:30:16,012 - INFO - Fil match_748257_a.txt med kamp_id 748257 er ikke tidligere behandlet.
+2025-03-23 16:30:16,012 - INFO - Tjekker om match_748258_a.txt allerede er behandlet...
+2025-03-23 16:30:16,013 - INFO - Fil match_748258_a.txt med kamp_id 748258 er ikke tidligere behandlet.
+2025-03-23 16:30:16,013 - INFO - Tjekker om match_748259_a.txt allerede er behandlet...
+2025-03-23 16:30:16,013 - INFO - Fil match_748259_a.txt med kamp_id 748259 er ikke tidligere behandlet.
+2025-03-23 16:30:16,015 - INFO - Tjekker om match_748260_a.txt allerede er behandlet...
+2025-03-23 16:30:16,015 - INFO - Fil match_748260_a.txt med kamp_id 748260 er ikke tidligere behandlet.
+2025-03-23 16:30:16,016 - INFO - Tjekker om match_748261_a.txt allerede er behandlet...
+2025-03-23 16:30:16,017 - INFO - Fil match_748261_a.txt med kamp_id 748261 er ikke tidligere behandlet.
+2025-03-23 16:30:16,017 - INFO - Tjekker om match_748262_a.txt allerede er behandlet...
+2025-03-23 16:30:16,018 - INFO - Fil match_748262_a.txt med kamp_id 748262 er ikke tidligere behandlet.
+2025-03-23 16:30:16,018 - INFO - Tjekker om match_748263_a.txt allerede er behandlet...
+2025-03-23 16:30:16,019 - INFO - Fil match_748263_a.txt med kamp_id 748263 er ikke tidligere behandlet.
+2025-03-23 16:30:16,019 - INFO - Tjekker om match_748264_a.txt allerede er behandlet...
+2025-03-23 16:30:16,019 - INFO - Fil match_748264_a.txt med kamp_id 748264 er ikke tidligere behandlet.
+2025-03-23 16:30:16,019 - INFO - Tjekker om match_748265_a.txt allerede er behandlet...
+2025-03-23 16:30:16,019 - INFO - Fil match_748265_a.txt med kamp_id 748265 er ikke tidligere behandlet.
+2025-03-23 16:30:16,019 - INFO - Tjekker om match_748266_a.txt allerede er behandlet...
+2025-03-23 16:30:16,022 - INFO - Fil match_748266_a.txt med kamp_id 748266 er ikke tidligere behandlet.
+2025-03-23 16:30:16,022 - INFO - Tjekker om match_748267_a.txt allerede er behandlet...
+2025-03-23 16:30:16,023 - INFO - Fil match_748267_a.txt med kamp_id 748267 er ikke tidligere behandlet.
+2025-03-23 16:30:16,023 - INFO - Tjekker om match_748268_a.txt allerede er behandlet...
+2025-03-23 16:30:16,025 - INFO - Fil match_748268_a.txt med kamp_id 748268 er ikke tidligere behandlet.
+2025-03-23 16:30:16,025 - INFO - Tjekker om match_748269_a.txt allerede er behandlet...
+2025-03-23 16:30:16,026 - INFO - Fil match_748269_a.txt med kamp_id 748269 er ikke tidligere behandlet.
+2025-03-23 16:30:16,027 - INFO - Tjekker om match_748270_a.txt allerede er behandlet...
+2025-03-23 16:30:16,027 - INFO - Fil match_748270_a.txt med kamp_id 748270 er ikke tidligere behandlet.
+2025-03-23 16:30:16,027 - INFO - Tjekker om match_748271_a.txt allerede er behandlet...
+2025-03-23 16:30:16,027 - INFO - Fil match_748271_a.txt med kamp_id 748271 er ikke tidligere behandlet.
+2025-03-23 16:30:16,027 - INFO - Tjekker om match_748272_a.txt allerede er behandlet...
+2025-03-23 16:30:16,029 - INFO - Fil match_748272_a.txt med kamp_id 748272 er ikke tidligere behandlet.
+2025-03-23 16:30:16,029 - INFO - Tjekker om match_748273_a.txt allerede er behandlet...
+2025-03-23 16:30:16,029 - INFO - Fil match_748273_a.txt med kamp_id 748273 er ikke tidligere behandlet.
+2025-03-23 16:30:16,029 - INFO - Tjekker om match_748274_a.txt allerede er behandlet...
+2025-03-23 16:30:16,032 - INFO - Fil match_748274_a.txt med kamp_id 748274 er ikke tidligere behandlet.
+2025-03-23 16:30:16,032 - INFO - Tjekker om match_748275_a.txt allerede er behandlet...
+2025-03-23 16:30:16,032 - INFO - Fil match_748275_a.txt med kamp_id 748275 er ikke tidligere behandlet.
+2025-03-23 16:30:16,033 - INFO - Tjekker om match_748276_a.txt allerede er behandlet...
+2025-03-23 16:30:16,034 - INFO - Fil match_748276_a.txt med kamp_id 748276 er ikke tidligere behandlet.
+2025-03-23 16:30:16,034 - INFO - Tjekker om match_748277_a.txt allerede er behandlet...
+2025-03-23 16:30:16,034 - INFO - Fil match_748277_a.txt med kamp_id 748277 er ikke tidligere behandlet.
+2025-03-23 16:30:16,034 - INFO - Tjekker om match_748278_a.txt allerede er behandlet...
+2025-03-23 16:30:16,036 - INFO - Fil match_748278_a.txt med kamp_id 748278 er ikke tidligere behandlet.
+2025-03-23 16:30:16,036 - INFO - Tjekker om match_748279_a.txt allerede er behandlet...
+2025-03-23 16:30:16,036 - INFO - Fil match_748279_a.txt med kamp_id 748279 er ikke tidligere behandlet.
+2025-03-23 16:30:16,036 - INFO - Tjekker om match_748280_a.txt allerede er behandlet...
+2025-03-23 16:30:16,036 - INFO - Fil match_748280_a.txt med kamp_id 748280 er ikke tidligere behandlet.
+2025-03-23 16:30:16,036 - INFO - Tjekker om match_748281_a.txt allerede er behandlet...
+2025-03-23 16:30:16,036 - INFO - Fil match_748281_a.txt med kamp_id 748281 er ikke tidligere behandlet.
+2025-03-23 16:30:16,036 - INFO - Tjekker om match_748282_a.txt allerede er behandlet...
+2025-03-23 16:30:16,036 - INFO - Fil match_748282_a.txt med kamp_id 748282 er ikke tidligere behandlet.
+2025-03-23 16:30:16,036 - INFO - Tjekker om match_748283_a.txt allerede er behandlet...
+2025-03-23 16:30:16,041 - INFO - Fil match_748283_a.txt med kamp_id 748283 er ikke tidligere behandlet.
+2025-03-23 16:30:16,041 - INFO - Tjekker om match_748284_a.txt allerede er behandlet...
+2025-03-23 16:30:16,042 - INFO - Fil match_748284_a.txt med kamp_id 748284 er ikke tidligere behandlet.
+2025-03-23 16:30:16,042 - INFO - Tjekker om match_748285_a.txt allerede er behandlet...
+2025-03-23 16:30:16,044 - INFO - Fil match_748285_a.txt med kamp_id 748285 er ikke tidligere behandlet.
+2025-03-23 16:30:16,044 - INFO - Tjekker om match_748286_a.txt allerede er behandlet...
+2025-03-23 16:30:16,044 - INFO - Fil match_748286_a.txt med kamp_id 748286 er ikke tidligere behandlet.
+2025-03-23 16:30:16,044 - INFO - Tjekker om match_748287_a.txt allerede er behandlet...
+2025-03-23 16:30:16,047 - INFO - Fil match_748287_a.txt med kamp_id 748287 er ikke tidligere behandlet.
+2025-03-23 16:30:16,047 - INFO - Tjekker om match_748288_a.txt allerede er behandlet...
+2025-03-23 16:30:16,048 - INFO - Fil match_748288_a.txt med kamp_id 748288 er ikke tidligere behandlet.
+2025-03-23 16:30:16,048 - INFO - Tjekker om match_748289_a.txt allerede er behandlet...
+2025-03-23 16:30:16,050 - INFO - Fil match_748289_a.txt med kamp_id 748289 er ikke tidligere behandlet.
+2025-03-23 16:30:16,052 - INFO - Tjekker om match_748290_a.txt allerede er behandlet...
+2025-03-23 16:30:16,052 - INFO - Fil match_748290_a.txt med kamp_id 748290 er ikke tidligere behandlet.
+2025-03-23 16:30:16,053 - INFO - Tjekker om match_748291_a.txt allerede er behandlet...
+2025-03-23 16:30:16,053 - INFO - Fil match_748291_a.txt med kamp_id 748291 er ikke tidligere behandlet.
+2025-03-23 16:30:16,053 - INFO - Tjekker om match_748292_a.txt allerede er behandlet...
+2025-03-23 16:30:16,053 - INFO - Fil match_748292_a.txt med kamp_id 748292 er ikke tidligere behandlet.
+2025-03-23 16:30:16,053 - INFO - Tjekker om match_748293_a.txt allerede er behandlet...
+2025-03-23 16:30:16,053 - INFO - Fil match_748293_a.txt med kamp_id 748293 er ikke tidligere behandlet.
+2025-03-23 16:30:16,053 - INFO - Tjekker om match_748294_a.txt allerede er behandlet...
+2025-03-23 16:30:16,058 - INFO - Fil match_748294_a.txt med kamp_id 748294 er ikke tidligere behandlet.
+2025-03-23 16:30:16,058 - INFO - Tjekker om match_748295_a.txt allerede er behandlet...
+2025-03-23 16:30:16,060 - INFO - Fil match_748295_a.txt med kamp_id 748295 er ikke tidligere behandlet.
+2025-03-23 16:30:16,060 - INFO - Tjekker om match_748296_a.txt allerede er behandlet...
+2025-03-23 16:30:16,062 - INFO - Fil match_748296_a.txt med kamp_id 748296 er ikke tidligere behandlet.
+2025-03-23 16:30:16,062 - INFO - Tjekker om match_748297_a.txt allerede er behandlet...
+2025-03-23 16:30:16,064 - INFO - Fil match_748297_a.txt med kamp_id 748297 er ikke tidligere behandlet.
+2025-03-23 16:30:16,064 - INFO - Tjekker om match_748298_a.txt allerede er behandlet...
+2025-03-23 16:30:16,064 - INFO - Fil match_748298_a.txt med kamp_id 748298 er ikke tidligere behandlet.
+2025-03-23 16:30:16,064 - INFO - Tjekker om match_748299_a.txt allerede er behandlet...
+2025-03-23 16:30:16,066 - INFO - Fil match_748299_a.txt med kamp_id 748299 er ikke tidligere behandlet.
+2025-03-23 16:30:16,066 - INFO - Tjekker om match_748300_a.txt allerede er behandlet...
+2025-03-23 16:30:16,069 - INFO - Fil match_748300_a.txt med kamp_id 748300 er ikke tidligere behandlet.
+2025-03-23 16:30:16,069 - INFO - Tjekker om match_748301_a.txt allerede er behandlet...
+2025-03-23 16:30:16,070 - INFO - Fil match_748301_a.txt med kamp_id 748301 er ikke tidligere behandlet.
+2025-03-23 16:30:16,070 - INFO - Tjekker om match_748302_a.txt allerede er behandlet...
+2025-03-23 16:30:16,070 - INFO - Fil match_748302_a.txt med kamp_id 748302 er ikke tidligere behandlet.
+2025-03-23 16:30:16,070 - INFO - Tjekker om match_748303_a.txt allerede er behandlet...
+2025-03-23 16:30:16,074 - INFO - Fil match_748303_a.txt med kamp_id 748303 er ikke tidligere behandlet.
+2025-03-23 16:30:16,074 - INFO - Tjekker om match_748304_a.txt allerede er behandlet...
+2025-03-23 16:30:16,074 - INFO - Fil match_748304_a.txt med kamp_id 748304 er ikke tidligere behandlet.
+2025-03-23 16:30:16,076 - INFO - Tjekker om match_748305_a.txt allerede er behandlet...
+2025-03-23 16:30:16,076 - INFO - Fil match_748305_a.txt med kamp_id 748305 er ikke tidligere behandlet.
+2025-03-23 16:30:16,076 - INFO - Tjekker om match_748306_a.txt allerede er behandlet...
+2025-03-23 16:30:16,078 - INFO - Fil match_748306_a.txt med kamp_id 748306 er ikke tidligere behandlet.
+2025-03-23 16:30:16,078 - INFO - Tjekker om match_748307_a.txt allerede er behandlet...
+2025-03-23 16:30:16,079 - INFO - Fil match_748307_a.txt med kamp_id 748307 er ikke tidligere behandlet.
+2025-03-23 16:30:16,079 - INFO - Tjekker om match_748308_a.txt allerede er behandlet...
+2025-03-23 16:30:16,082 - INFO - Fil match_748308_a.txt med kamp_id 748308 er ikke tidligere behandlet.
+2025-03-23 16:30:16,082 - INFO - Tjekker om match_748309_a.txt allerede er behandlet...
+2025-03-23 16:30:16,083 - INFO - Fil match_748309_a.txt med kamp_id 748309 er ikke tidligere behandlet.
+2025-03-23 16:30:16,083 - INFO - Tjekker om match_748310_a.txt allerede er behandlet...
+2025-03-23 16:30:16,083 - INFO - Fil match_748310_a.txt med kamp_id 748310 er ikke tidligere behandlet.
+2025-03-23 16:30:16,083 - INFO - Tjekker om match_748311_a.txt allerede er behandlet...
+2025-03-23 16:30:16,086 - INFO - Fil match_748311_a.txt med kamp_id 748311 er ikke tidligere behandlet.
+2025-03-23 16:30:16,086 - INFO - Tjekker om match_748312_a.txt allerede er behandlet...
+2025-03-23 16:30:16,086 - INFO - Fil match_748312_a.txt med kamp_id 748312 er ikke tidligere behandlet.
+2025-03-23 16:30:16,086 - INFO - Tjekker om match_748313_a.txt allerede er behandlet...
+2025-03-23 16:30:16,086 - INFO - Fil match_748313_a.txt med kamp_id 748313 er ikke tidligere behandlet.
+2025-03-23 16:30:16,086 - INFO - Tjekker om match_748314_a.txt allerede er behandlet...
+2025-03-23 16:30:16,091 - INFO - Fil match_748314_a.txt med kamp_id 748314 er ikke tidligere behandlet.
+2025-03-23 16:30:16,091 - INFO - Tjekker om match_748315_a.txt allerede er behandlet...
+2025-03-23 16:30:16,091 - INFO - Fil match_748315_a.txt med kamp_id 748315 er ikke tidligere behandlet.
+2025-03-23 16:30:16,091 - INFO - Tjekker om match_748316_a.txt allerede er behandlet...
+2025-03-23 16:30:16,095 - INFO - Fil match_748316_a.txt med kamp_id 748316 er ikke tidligere behandlet.
+2025-03-23 16:30:16,095 - INFO - Tjekker om match_748317_a.txt allerede er behandlet...
+2025-03-23 16:30:16,095 - INFO - Fil match_748317_a.txt med kamp_id 748317 er ikke tidligere behandlet.
+2025-03-23 16:30:16,095 - INFO - Tjekker om match_748318_a.txt allerede er behandlet...
+2025-03-23 16:30:16,095 - INFO - Fil match_748318_a.txt med kamp_id 748318 er ikke tidligere behandlet.
+2025-03-23 16:30:16,095 - INFO - Tjekker om match_748319_a.txt allerede er behandlet...
+2025-03-23 16:30:16,099 - INFO - Fil match_748319_a.txt med kamp_id 748319 er ikke tidligere behandlet.
+2025-03-23 16:30:16,099 - INFO - Tjekker om match_748320_a.txt allerede er behandlet...
+2025-03-23 16:30:16,101 - INFO - Fil match_748320_a.txt med kamp_id 748320 er ikke tidligere behandlet.
+2025-03-23 16:30:16,101 - INFO - Tjekker om match_748321_a.txt allerede er behandlet...
+2025-03-23 16:30:16,101 - INFO - Fil match_748321_a.txt med kamp_id 748321 er ikke tidligere behandlet.
+2025-03-23 16:30:16,101 - INFO - Tjekker om match_748322_a.txt allerede er behandlet...
+2025-03-23 16:30:16,101 - INFO - Fil match_748322_a.txt med kamp_id 748322 er ikke tidligere behandlet.
+2025-03-23 16:30:16,101 - INFO - Tjekker om match_748323_a.txt allerede er behandlet...
+2025-03-23 16:30:16,105 - INFO - Fil match_748323_a.txt med kamp_id 748323 er ikke tidligere behandlet.
+2025-03-23 16:30:16,105 - INFO - Tjekker om match_748324_a.txt allerede er behandlet...
+2025-03-23 16:30:16,106 - INFO - Fil match_748324_a.txt med kamp_id 748324 er ikke tidligere behandlet.
+2025-03-23 16:30:16,106 - INFO - Tjekker om match_748325_a.txt allerede er behandlet...
+2025-03-23 16:30:16,108 - INFO - Fil match_748325_a.txt med kamp_id 748325 er ikke tidligere behandlet.
+2025-03-23 16:30:16,108 - INFO - Tjekker om match_748326_a.txt allerede er behandlet...
+2025-03-23 16:30:16,108 - INFO - Fil match_748326_a.txt med kamp_id 748326 er ikke tidligere behandlet.
+2025-03-23 16:30:16,108 - INFO - Tjekker om match_748327_a.txt allerede er behandlet...
+2025-03-23 16:30:16,108 - INFO - Fil match_748327_a.txt med kamp_id 748327 er ikke tidligere behandlet.
+2025-03-23 16:30:16,108 - INFO - Tjekker om match_748328_a.txt allerede er behandlet...
+2025-03-23 16:30:16,108 - INFO - Fil match_748328_a.txt med kamp_id 748328 er ikke tidligere behandlet.
+2025-03-23 16:30:16,108 - INFO - Tjekker om match_748329_a.txt allerede er behandlet...
+2025-03-23 16:30:16,108 - INFO - Fil match_748329_a.txt med kamp_id 748329 er ikke tidligere behandlet.
+2025-03-23 16:30:16,108 - INFO - Tjekker om match_748330_a.txt allerede er behandlet...
+2025-03-23 16:30:16,115 - INFO - Fil match_748330_a.txt med kamp_id 748330 er ikke tidligere behandlet.
+2025-03-23 16:30:16,115 - INFO - Tjekker om match_748331_a.txt allerede er behandlet...
+2025-03-23 16:30:16,117 - INFO - Fil match_748331_a.txt med kamp_id 748331 er ikke tidligere behandlet.
+2025-03-23 16:30:16,117 - INFO - Tjekker om match_748332_a.txt allerede er behandlet...
+2025-03-23 16:30:16,117 - INFO - Fil match_748332_a.txt med kamp_id 748332 er ikke tidligere behandlet.
+2025-03-23 16:30:16,119 - INFO - Tjekker om match_748333_a.txt allerede er behandlet...
+2025-03-23 16:30:16,121 - INFO - Fil match_748333_a.txt med kamp_id 748333 er ikke tidligere behandlet.
+2025-03-23 16:30:16,147 - INFO - Tjekker om match_748334_a.txt allerede er behandlet...
+2025-03-23 16:30:16,156 - INFO - Fil match_748334_a.txt med kamp_id 748334 er ikke tidligere behandlet.
+2025-03-23 16:30:16,156 - INFO - Tjekker om match_748335_a.txt allerede er behandlet...
+2025-03-23 16:30:16,160 - INFO - Fil match_748335_a.txt med kamp_id 748335 er ikke tidligere behandlet.
+2025-03-23 16:30:16,160 - INFO - Tjekker om match_748336_a.txt allerede er behandlet...
+2025-03-23 16:30:16,160 - INFO - Fil match_748336_a.txt med kamp_id 748336 er ikke tidligere behandlet.
+2025-03-23 16:30:16,162 - INFO - Tjekker om match_748337_a.txt allerede er behandlet...
+2025-03-23 16:30:16,162 - INFO - Fil match_748337_a.txt med kamp_id 748337 er ikke tidligere behandlet.
+2025-03-23 16:30:16,162 - INFO - Fandt 0 allerede behandlede filer
+2025-03-23 16:30:16,162 - INFO - Skal behandle 161 nye filer
+2025-03-23 16:30:16,162 - INFO - Starter behandling af fil: match_748177_a.txt
+2025-03-23 16:30:16,162 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748177_a.txt
+2025-03-23 16:30:16,168 - INFO - Fil opdelt i 3 chunks
+2025-03-23 16:30:16,168 - INFO - Behandler chunk 1 af 3 for match_748177_a.txt
+2025-03-23 16:30:16,168 - INFO - Behandler første chunk
+2025-03-23 16:30:16,168 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3741 tegn
+2025-03-23 16:30:16,168 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-23 16:30:16,171 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:30:54,785 - INFO - AFC remote call 1 is done.
+2025-03-23 16:30:54,785 - INFO - Gemini API svar modtaget på 38.61 sekunder
+2025-03-23 16:30:54,787 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-23 16:30:54,787 - INFO - Modtog 54 match_events
+2025-03-23 16:30:54,789 - INFO - Korrigerede 26 hændelser med forkert placerede målvogtere
+2025-03-23 16:30:54,789 - INFO - Match info fundet: 748177 - Bjerringbro FH vs Ikast Håndbold
+2025-03-23 16:30:54,789 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-23 16:30:54,789 - INFO - Behandler chunk 2 af 3 for match_748177_a.txt
+2025-03-23 16:30:54,789 - INFO - Behandler første chunk
+2025-03-23 16:30:54,791 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3146 tegn
+2025-03-23 16:30:54,791 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Bjerringbro FH - Ikast Håndbold   22 - 26  (11 - 16)
+748177 / 6-9-2024 / Bjerringbro I...
+2025-03-23 16:30:54,791 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:31:28,230 - INFO - AFC remote call 1 is done.
+2025-03-23 16:31:28,230 - INFO - Gemini API svar modtaget på 33.44 sekunder
+2025-03-23 16:31:28,236 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-23 16:31:28,237 - INFO - Modtog 50 match_events
+2025-03-23 16:31:28,238 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-23 16:31:28,238 - INFO - Tilføjet 50 hændelser fra chunk 2
+2025-03-23 16:31:28,238 - INFO - Behandler chunk 3 af 3 for match_748177_a.txt
+2025-03-23 16:31:28,238 - INFO - Behandler første chunk
+2025-03-23 16:31:28,240 - INFO - Sender anmodning til Gemini API - chunk størrelse: 1917 tegn
+2025-03-23 16:31:28,240 - DEBUG - Første 100 tegn af chunk: IKA
+Fejlaflevering
+19
+Amanda Loft HANSEN
+46.49 18-24 BFH Mål
+Gbr 11
+Arlinda HAJDARI
+Assist
+31
+Marian...
+2025-03-23 16:31:28,242 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-23 16:31:47,588 - INFO - AFC remote call 1 is done.
+2025-03-23 16:31:47,588 - INFO - Gemini API svar modtaget på 19.35 sekunder
+2025-03-23 16:31:47,590 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-23 16:31:47,591 - INFO - Modtog 26 match_events
+2025-03-23 16:31:47,591 - INFO - Tilføjet 26 hændelser fra chunk 3
+2025-03-23 16:31:47,591 - INFO - Opretter database: Kvindeliga-database\2024-2025\692024_Bjerringbro_FH_vs_Ikast_Håndbold.db
+2025-03-23 16:31:47,638 - ERROR - Fejl ved oprettelse af database Kvindeliga-database\2024-2025\692024_Bjerringbro_FH_vs_Ikast_Håndbold.db: UNIQUE constraint failed: match_info.kamp_id
+2025-03-23 16:31:47,640 - INFO - Behandling af match_748177_a.txt fuldført på 91.48 sekunder.
+2025-03-23 16:31:47,640 - INFO - Database gemt som: 692024_Bjerringbro_FH_vs_Ikast_Håndbold.db
+2025-03-23 16:31:47,640 - INFO - Total antal hændelser: 130
+2025-03-23 16:31:47,641 - INFO - Starter behandling af fil: match_748178_a.txt
+2025-03-23 16:31:47,641 - INFO - Opdeler fil i chunks: Kvindeliga-txt-tabel\2024-2025\match_748178_a.txt
+2025-03-23 16:31:47,643 - INFO - Fil opdelt i 3 chunks
+2025-03-23 16:31:47,643 - INFO - Behandler chunk 1 af 3 for match_748178_a.txt
+2025-03-23 16:31:47,646 - INFO - Behandler første chunk
+2025-03-23 16:31:47,647 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3792 tegn
+2025-03-23 16:31:47,647 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-23 16:31:47,648 - INFO - AFC is enabled with max remote calls: 10.

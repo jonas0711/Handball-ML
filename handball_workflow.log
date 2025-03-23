@@ -10857,3 +10857,372 @@
 2025-03-13 05:06:10,318 - INFO - Liga: herreligaen, Sæson: 2024-2025
 2025-03-13 05:06:10,318 - INFO - Total køretid: 12263.92 sekunder (204.40 minutter)
 2025-03-13 05:06:10,318 - INFO - Se separate logfiler for detaljerede resultater
+2025-03-19 13:22:14,125 - INFO - ======= STARTER HÅNDBOLDHÆNDELSER WORKFLOW =======
+2025-03-19 13:22:14,126 - INFO - Dato og tid: 2025-03-19 13:22:14
+2025-03-19 13:22:14,126 - INFO - Liga: kvindeligaen, Sæson: 2024-2025
+2025-03-19 13:22:14,126 - INFO - PDF-mappe: C:\Users\jonas\Desktop\Handball-ML\Kvindeliga\2024-2025
+2025-03-19 13:22:14,126 - INFO - TXT-mappe: C:\Users\jonas\Desktop\Handball-ML\Kvindeliga-txt-tabel\2024-2025
+2025-03-19 13:22:14,126 - INFO - Database-mappe: C:\Users\jonas\Desktop\Handball-ML\Kvindeliga-database\2024-2025
+2025-03-19 13:22:14,127 - INFO - ===== Starter PDF download (kvindeligaen, 2024-2025) =====
+2025-03-19 13:22:16,759 - INFO - Script handball_pdf_downloader.py afsluttet med success på 2.63 sekunder
+2025-03-19 13:22:16,759 - INFO - Output fra handball_pdf_downloader.py:
+2025-03-19 13:22:16,760 - INFO -   > Starter download af PDF-filer fra https://tophaandbold.dk/kampprogram/kvindeligaen?year=2024&team=&home_game=0&home_game=1&away_game=0&away_game=1
+2025-03-19 13:22:16,760 - INFO -   > Filer vil blive gemt i: C:\Users\jonas\Desktop\Handball-ML\Kvindeliga\2024-2025
+2025-03-19 13:22:16,760 - INFO -   > Ignorerer PDF-filer mindre end 1024 bytes
+2025-03-19 13:22:16,760 - INFO -   > Henter kampprogram-siden: https://tophaandbold.dk/kampprogram/kvindeligaen?year=2024&team=&home_game=0&home_game=1&away_game=0&away_game=1
+2025-03-19 13:22:16,760 - INFO -   > Status kode: 200
+2025-03-19 13:22:16,760 - INFO -   > HTML-side gemt som debug_page.html for debugging
+2025-03-19 13:22:16,760 - INFO -   > Debug: Fandt 182 direkte 'Alle hændelser' links i HTML
+2025-03-19 13:22:16,760 - INFO -   >   Link 1: /intranet/pdfs/game/2024/9020199/748183/a?download=0
+2025-03-19 13:22:16,762 - INFO -   >   Link 2: /intranet/pdfs/game/2024/9020199/748182/a?download=0
+2025-03-19 13:22:16,762 - INFO -   >   Link 3: /intranet/pdfs/game/2024/9020199/748179/a?download=0
+2025-03-19 13:22:16,762 - INFO -   >   Link 4: /intranet/pdfs/game/2024/9020199/748177/a?download=0
+2025-03-19 13:22:16,762 - INFO -   >   Link 5: /intranet/pdfs/game/2024/9020199/748178/a?download=0
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 182 dropdown-menuer
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 182 download sektioner
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,762 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,763 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,764 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,764 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,764 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,764 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,764 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,764 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,764 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,764 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,765 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,765 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,765 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,765 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,765 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,766 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,766 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,766 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,766 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,766 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,766 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,766 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,767 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,767 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,767 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,767 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,767 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,768 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,768 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,768 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,768 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,768 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,768 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,768 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,769 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,769 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,769 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,769 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,769 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,769 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,769 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,769 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,769 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,771 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,771 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,771 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,772 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,772 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,772 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,772 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,772 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,772 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,773 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,773 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,773 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,773 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,773 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,773 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,773 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,774 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,774 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,774 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,774 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,774 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,774 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,774 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,774 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,774 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,775 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,775 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,775 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,775 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,775 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,775 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,775 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,775 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,775 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,775 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,776 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,776 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,776 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,776 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,776 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,776 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,776 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,776 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,776 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,777 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,777 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,777 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,777 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,777 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,777 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,777 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,777 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,778 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,778 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,778 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,779 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,779 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,779 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,779 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,780 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,780 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,780 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,780 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,780 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,780 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,780 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,780 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,782 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,782 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,782 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,782 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,782 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,782 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,783 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,783 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,783 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,783 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,783 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,783 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,783 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,783 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,783 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,783 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,784 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,784 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,784 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,784 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,784 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,785 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,785 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,785 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,785 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,785 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,785 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,786 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,786 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,786 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,786 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,787 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,787 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,787 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,787 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,787 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,787 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,788 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,788 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,788 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,788 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,788 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,788 - INFO -   > Debug: Fandt 0 PDF-links i en download sektion
+2025-03-19 13:22:16,789 - INFO -   > Download afsluttet!
+2025-03-19 13:22:16,789 - INFO - ===== Starter PDF til TXT konvertering (kvindeligaen, 2024-2025) =====
+2025-03-19 13:22:18,503 - INFO - Script pdf_to_text_converter.py afsluttet med success på 1.71 sekunder
+2025-03-19 13:22:18,505 - INFO - Output fra pdf_to_text_converter.py:
+2025-03-19 13:22:18,505 - INFO -   > Starter konvertering af PDF-filer fra Kvindeliga\2024-2025
+2025-03-19 13:22:18,506 - INFO -   > Tekstfiler vil blive gemt i: C:\Users\jonas\Desktop\Handball-ML\Kvindeliga-txt-tabel\2024-2025
+2025-03-19 13:22:18,506 - INFO -   > Fandt 147 PDF-filer
+2025-03-19 13:22:18,506 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748177_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,506 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748178_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,506 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748179_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,506 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748180_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,506 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748181_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,507 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748182_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,507 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748183_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,507 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748184_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,507 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748185_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,507 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748186_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,507 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748187_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,507 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748188_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,507 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748189_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,507 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748190_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,508 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748191_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,508 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748192_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,508 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748193_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,508 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748194_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,509 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748195_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,509 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748196_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,509 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748197_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,509 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748198_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,510 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748199_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,510 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748200_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,510 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748201_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,510 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748202_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,510 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748203_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,511 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748204_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,511 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748205_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,511 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748206_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,512 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748207_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,512 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748208_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,514 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748209_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,514 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748210_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,514 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748211_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,514 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748212_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,515 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748213_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,515 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748214_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,516 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748215_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,517 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748216_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,517 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748217_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,517 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748218_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,518 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748219_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,518 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748220_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,518 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748221_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,518 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748222_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,519 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748223_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,519 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748224_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,519 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748225_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,519 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748226_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,520 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748227_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,520 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748228_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,520 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748229_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,520 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748230_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,520 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748231_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,520 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748232_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,522 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748233_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,522 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748234_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,522 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748235_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,522 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748236_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,522 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748237_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,522 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748238_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,522 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748239_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,523 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748240_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,523 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748241_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,523 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748242_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,523 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748243_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,523 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748244_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,523 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748245_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,524 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748246_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,524 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748247_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,524 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748248_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,524 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748249_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,524 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748250_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,524 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748251_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,524 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748252_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,524 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748253_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,524 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748254_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,524 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748255_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,525 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748256_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,525 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748257_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,525 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748258_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,525 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748259_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,525 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748260_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,525 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748261_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,525 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748262_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,526 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748263_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,526 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748264_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,526 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748265_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,526 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748266_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,526 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748267_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,526 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748268_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,526 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748269_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,527 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748270_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,527 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748271_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,527 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748272_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,527 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748273_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,527 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748274_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,527 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748275_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,527 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748276_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,527 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748277_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,527 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748278_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,529 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748279_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,529 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748280_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,529 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748281_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,529 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748282_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,529 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748283_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,529 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748284_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,529 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748285_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,529 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748286_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,530 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748287_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,530 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748288_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,530 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748289_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,530 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748290_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,530 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748291_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,530 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748292_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,530 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748293_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,530 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748294_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,531 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748295_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,531 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748296_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,531 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748297_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,531 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748298_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,531 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748299_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,531 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748300_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,531 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748301_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748302_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748303_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748304_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748305_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748306_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748307_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748308_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748309_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748310_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748311_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,532 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748312_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,533 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748313_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,533 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748314_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,533 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748315_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,533 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748316_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,533 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748317_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,533 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748318_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,533 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748319_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,533 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748320_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,533 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748321_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,534 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748322_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,534 - INFO -   > Filen Kvindeliga-txt-tabel\2024-2025\match_748323_a.txt findes allerede. Springer over.
+2025-03-19 13:22:18,534 - INFO -   > 
+2025-03-19 13:22:18,534 - INFO -   > Konvertering afsluttet!
+2025-03-19 13:22:18,534 - INFO -   > Vellykket: 0
+2025-03-19 13:22:18,534 - INFO -   > Mislykkedes: 0
+2025-03-19 13:22:18,534 - INFO -   > Sprunget over: 147
+2025-03-19 13:22:18,534 - INFO -   > Total: 147
+2025-03-19 13:22:18,535 - INFO -   > Tekstfiler blev gemt i: C:\Users\jonas\Desktop\Handball-ML\Kvindeliga-txt-tabel\2024-2025
+2025-03-19 13:22:18,535 - INFO -   > 
+2025-03-19 13:22:18,535 - INFO -   > Køretid: 1.25 sekunder
+2025-03-19 13:22:18,535 - INFO - ===== Starter TXT til database behandling (kvindeligaen, 2024-2025) =====

@@ -8849,3 +8849,659 @@ Anders Kragh ...
 2025-03-13 05:06:09,211 - INFO - Gemini API svar modtaget på 27.02 sekunder
 2025-03-13 05:06:09,211 - INFO - Modtog match_info data for kamp_id: 748777
 2025-03-13 05:06:09,211 - INFO - Modtog 42 match_events
+2025-03-19 13:22:20,308 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3741 tegn
+2025-03-19 13:22:20,309 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:22:56,832 - INFO - Gemini API svar modtaget på 36.52 sekunder
+2025-03-19 13:22:56,834 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-19 13:22:56,834 - INFO - Modtog 54 match_events
+2025-03-19 13:22:56,836 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3146 tegn
+2025-03-19 13:22:56,836 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Bjerringbro FH - Ikast Håndbold   22 - 26  (11 - 16)
+748177 / 6-9-2024 / Bjerringbro I...
+2025-03-19 13:23:29,080 - INFO - Gemini API svar modtaget på 32.24 sekunder
+2025-03-19 13:23:29,080 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-19 13:23:29,080 - INFO - Modtog 50 match_events
+2025-03-19 13:23:29,081 - INFO - Sender anmodning til Gemini API - chunk størrelse: 1917 tegn
+2025-03-19 13:23:29,081 - DEBUG - Første 100 tegn af chunk: IKA
+Fejlaflevering
+19
+Amanda Loft HANSEN
+46.49 18-24 BFH Mål
+Gbr 11
+Arlinda HAJDARI
+Assist
+31
+Marian...
+2025-03-19 13:23:46,672 - INFO - Gemini API svar modtaget på 17.59 sekunder
+2025-03-19 13:23:46,672 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-19 13:23:46,672 - INFO - Modtog 26 match_events
+2025-03-19 13:23:46,694 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3792 tegn
+2025-03-19 13:23:46,694 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:24:18,355 - INFO - Gemini API svar modtaget på 31.66 sekunder
+2025-03-19 13:24:18,355 - INFO - Modtog match_info data for kamp_id: 748178
+2025-03-19 13:24:18,355 - INFO - Modtog 54 match_events
+2025-03-19 13:24:18,357 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3275 tegn
+2025-03-19 13:24:18,357 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Viborg HK - SønderjyskE Kvindehåndbold   28 - 22  (13 - 12)
+748178 / 6-9-2024 / BIOCIR...
+2025-03-19 13:24:51,636 - INFO - Gemini API svar modtaget på 33.28 sekunder
+2025-03-19 13:24:51,636 - INFO - Modtog match_info data for kamp_id: 748178
+2025-03-19 13:24:51,636 - INFO - Modtog 50 match_events
+2025-03-19 13:24:51,637 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2556 tegn
+2025-03-19 13:24:51,637 - DEBUG - Første 100 tegn af chunk: VF
+14
+Camilla DEGN
+Assist
+77
+Jana MITTÚN
+12
+Stine BROLØS
+43.20
+SJE
+Skud på stolpe
+VB
+14
+Louise ELLEB...
+2025-03-19 13:25:16,196 - INFO - Gemini API svar modtaget på 24.56 sekunder
+2025-03-19 13:25:16,196 - INFO - Modtog match_info data for kamp_id: 748178
+2025-03-19 13:25:16,198 - INFO - Modtog 37 match_events
+2025-03-19 13:25:16,211 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3736 tegn
+2025-03-19 13:25:16,211 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Voel KFUM - T...
+2025-03-19 13:25:49,643 - INFO - Gemini API svar modtaget på 33.43 sekunder
+2025-03-19 13:25:49,644 - INFO - Modtog match_info data for kamp_id: 748179
+2025-03-19 13:25:49,644 - INFO - Modtog 54 match_events
+2025-03-19 13:25:49,645 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3142 tegn
+2025-03-19 13:25:49,645 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Silkeborg-Voel KFUM - Team Esbjerg   28 - 34  (11 - 17)
+748179 / 4-9-2024 / JYSK Arena...
+2025-03-19 13:26:22,790 - INFO - Gemini API svar modtaget på 33.14 sekunder
+2025-03-19 13:26:22,791 - INFO - Modtog match_info data for kamp_id: 748179
+2025-03-19 13:26:22,791 - INFO - Modtog 50 match_events
+2025-03-19 13:26:22,793 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3002 tegn
+2025-03-19 13:26:22,793 - DEBUG - Første 100 tegn af chunk: SVK Skud reddet
+ST
+15
+Karen KLOKKER
+Retur
+0
+16
+Amalie MILLING
+43.55
+SVK Skud reddet
+VF
+21
+Maja EDLIN...
+2025-03-19 13:26:52,526 - INFO - Gemini API svar modtaget på 29.73 sekunder
+2025-03-19 13:26:52,526 - INFO - Modtog match_info data for kamp_id: 748179
+2025-03-19 13:26:52,527 - INFO - Modtog 47 match_events
+2025-03-19 13:26:52,560 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3582 tegn
+2025-03-19 13:26:52,560 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:27:24,504 - INFO - Gemini API svar modtaget på 31.94 sekunder
+2025-03-19 13:27:24,504 - INFO - Modtog match_info data for kamp_id: 748180
+2025-03-19 13:27:24,504 - INFO - Modtog 54 match_events
+2025-03-19 13:27:24,505 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3461 tegn
+2025-03-19 13:27:24,506 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Aarhus Håndbold Kvinder - Skanderborg Håndbold   26 - 24  (12 - 10)
+748180 / 7-9-2024 ...
+2025-03-19 13:27:57,999 - INFO - Gemini API svar modtaget på 33.49 sekunder
+2025-03-19 13:27:57,999 - INFO - Modtog match_info data for kamp_id: 748180
+2025-03-19 13:27:58,000 - INFO - Modtog 50 match_events
+2025-03-19 13:27:58,013 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2487 tegn
+2025-03-19 13:27:58,013 - DEBUG - Første 100 tegn af chunk: 25
+Astrid LYNNERUP
+86
+Sabine ENGLERT
+46.13
+AHB Tilkendt straffe
+18
+Mathilde ØSTERGAARD
+Forårs. str.
+...
+2025-03-19 13:28:22,552 - INFO - Gemini API svar modtaget på 24.54 sekunder
+2025-03-19 13:28:22,553 - INFO - Modtog match_info data for kamp_id: 748180
+2025-03-19 13:28:22,553 - INFO - Modtog 36 match_events
+2025-03-19 13:28:22,575 - INFO - Sender anmodning til Gemini API - chunk størrelse: 4113 tegn
+2025-03-19 13:28:22,575 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:28:54,588 - INFO - Gemini API svar modtaget på 32.01 sekunder
+2025-03-19 13:28:54,588 - INFO - Modtog match_info data for kamp_id: 748181
+2025-03-19 13:28:54,588 - INFO - Modtog 54 match_events
+2025-03-19 13:28:54,591 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3102 tegn
+2025-03-19 13:28:54,591 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+København Håndbold - Horsens Håndbold Elite   31 - 27  (17 - 16)
+748181 / 7-9-2024 / F...
+2025-03-19 13:29:24,638 - INFO - Gemini API svar modtaget på 30.05 sekunder
+2025-03-19 13:29:24,638 - INFO - Modtog match_info data for kamp_id: 748181
+2025-03-19 13:29:24,638 - INFO - Modtog 50 match_events
+2025-03-19 13:29:24,639 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2233 tegn
+2025-03-19 13:29:24,639 - DEBUG - Første 100 tegn af chunk: HB 21
+Helene KINDBERG
+Assist
+22
+Stine JØRGENSEN
+1
+Mathilde BISGAARD
+45.56
+HHE Regelfejl
+39
+Melanie B...
+2025-03-19 13:29:43,757 - INFO - Gemini API svar modtaget på 19.12 sekunder
+2025-03-19 13:29:43,757 - INFO - Modtog match_info data for kamp_id: 748181
+2025-03-19 13:29:43,758 - INFO - Modtog 28 match_events
+2025-03-19 13:29:43,769 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3819 tegn
+2025-03-19 13:29:43,769 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Dato: 4-9-2024
+====...
+2025-03-19 13:30:19,345 - INFO - Gemini API svar modtaget på 35.58 sekunder
+2025-03-19 13:30:19,346 - INFO - Modtog match_info data for kamp_id: 748182
+2025-03-19 13:30:19,346 - INFO - Modtog 54 match_events
+2025-03-19 13:30:19,348 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3136 tegn
+2025-03-19 13:30:19,348 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ringkøbing Håndbold - Nykøbing F. Håndbold   30 - 32  (17 - 16)
+748182 / 4-9-2024 / Gr...
+2025-03-19 13:30:51,536 - INFO - Gemini API svar modtaget på 32.19 sekunder
+2025-03-19 13:30:51,537 - INFO - Modtog match_info data for kamp_id: 748182
+2025-03-19 13:30:51,537 - INFO - Modtog 50 match_events
+2025-03-19 13:30:51,538 - INFO - Sender anmodning til Gemini API - chunk størrelse: 1977 tegn
+2025-03-19 13:30:51,539 - DEBUG - Første 100 tegn af chunk: Gbr 15
+Kalidiatou NIAKATE
+16
+Stephanie ANDERSEN
+48.41 26-26 RIN
+Mål
+Gbr
+3
+Maria Berger WIERZBA
+Assis...
+2025-03-19 13:31:09,046 - INFO - Gemini API svar modtaget på 17.51 sekunder
+2025-03-19 13:31:09,048 - INFO - Modtog match_info data for kamp_id: 748182
+2025-03-19 13:31:09,048 - INFO - Modtog 25 match_events
+2025-03-19 13:31:09,065 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3694 tegn
+2025-03-19 13:31:09,065 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:31:43,512 - INFO - Gemini API svar modtaget på 34.45 sekunder
+2025-03-19 13:31:43,513 - INFO - Modtog match_info data for kamp_id: 748183
+2025-03-19 13:31:43,513 - INFO - Modtog 54 match_events
+2025-03-19 13:31:43,514 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2938 tegn
+2025-03-19 13:31:43,514 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Odense Håndbold - EH Aalborg   35 - 16  (19 - 7)
+748183 / 4-9-2024 / Sydbank Arena / K...
+2025-03-19 13:32:16,048 - INFO - Gemini API svar modtaget på 32.53 sekunder
+2025-03-19 13:32:16,049 - INFO - Modtog match_info data for kamp_id: 748183
+2025-03-19 13:32:16,049 - INFO - Modtog 50 match_events
+2025-03-19 13:32:16,051 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2322 tegn
+2025-03-19 13:32:16,051 - DEBUG - Første 100 tegn af chunk: ODE Time out
+45.04
+ODE Skud reddet
+VB
+8
+Helene FAUSKE
+Retur
+0
+16
+Johanne GRAUGAARD
+45.20
+ODE Fejlafl...
+2025-03-19 13:32:37,723 - INFO - Gemini API svar modtaget på 21.67 sekunder
+2025-03-19 13:32:37,723 - INFO - Modtog match_info data for kamp_id: 748183
+2025-03-19 13:32:37,723 - INFO - Modtog 35 match_events
+2025-03-19 13:32:37,745 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3778 tegn
+2025-03-19 13:32:37,745 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:33:12,872 - INFO - Gemini API svar modtaget på 35.13 sekunder
+2025-03-19 13:33:12,872 - INFO - Modtog match_info data for kamp_id: 748184
+2025-03-19 13:33:12,872 - INFO - Modtog 54 match_events
+2025-03-19 13:33:12,874 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3410 tegn
+2025-03-19 13:33:12,874 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ikast Håndbold - Viborg HK   38 - 23  (20 - 10)
+748184 / 10-9-2024 / IBF Arena Hal A /...
+2025-03-19 13:33:43,621 - INFO - Gemini API svar modtaget på 30.75 sekunder
+2025-03-19 13:33:43,622 - INFO - Modtog match_info data for kamp_id: 748184
+2025-03-19 13:33:43,622 - INFO - Modtog 50 match_events
+2025-03-19 13:33:43,623 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3260 tegn
+2025-03-19 13:33:43,623 - DEBUG - Første 100 tegn af chunk: PL
+77
+Jana MITTÚN
+12
+Filippa IDÉHN
+40.27
+IKA
+Fejlaflevering
+21
+Ingvild BAKKERUD
+40.32 28-15 VHK Mål
+...
+2025-03-19 13:34:13,942 - INFO - Gemini API svar modtaget på 30.32 sekunder
+2025-03-19 13:34:13,942 - INFO - Modtog match_info data for kamp_id: 748184
+2025-03-19 13:34:13,942 - INFO - Modtog 44 match_events
+2025-03-19 13:34:13,997 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3596 tegn
+2025-03-19 13:34:13,997 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Håndbold - Od...
+2025-03-19 13:34:48,066 - INFO - Gemini API svar modtaget på 34.07 sekunder
+2025-03-19 13:34:48,067 - INFO - Modtog match_info data for kamp_id: 748185
+2025-03-19 13:34:48,067 - INFO - Modtog 54 match_events
+2025-03-19 13:34:48,069 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3021 tegn
+2025-03-19 13:34:48,069 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Nykøbing F. Håndbold - Odense Håndbold   18 - 35  (8 - 18)
+748185 / 11-9-2024 / SPAR N...
+2025-03-19 13:35:21,205 - INFO - Gemini API svar modtaget på 33.14 sekunder
+2025-03-19 13:35:21,206 - INFO - Modtog match_info data for kamp_id: 748185
+2025-03-19 13:35:21,207 - INFO - Modtog 50 match_events
+2025-03-19 13:35:21,208 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2668 tegn
+2025-03-19 13:35:21,208 - DEBUG - Første 100 tegn af chunk: NFH Time out
+43.02
+NFH Regelfejl
+34
+Sofie BARDRUM
+43.45 13-26 ODE Mål
+Gbr 32
+Mie HØJLUND
+16
+Line CHR...
+2025-03-19 13:35:44,042 - INFO - Gemini API svar modtaget på 22.83 sekunder
+2025-03-19 13:35:44,043 - INFO - Modtog match_info data for kamp_id: 748185
+2025-03-19 13:35:44,043 - INFO - Modtog 38 match_events
+2025-03-19 13:35:44,063 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3862 tegn
+2025-03-19 13:35:44,063 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:36:13,997 - INFO - Gemini API svar modtaget på 29.93 sekunder
+2025-03-19 13:36:13,998 - INFO - Modtog match_info data for kamp_id: 748186
+2025-03-19 13:36:13,998 - INFO - Modtog 54 match_events
+2025-03-19 13:36:14,000 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3201 tegn
+2025-03-19 13:36:14,000 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Horsens Håndbold Elite - Ringkøbing Håndbold   19 - 17  (11 - 9)
+748186 / 11-9-2024 / ...
+2025-03-19 13:36:45,688 - INFO - Gemini API svar modtaget på 31.69 sekunder
+2025-03-19 13:36:45,689 - INFO - Modtog match_info data for kamp_id: 748186
+2025-03-19 13:36:45,689 - INFO - Modtog 49 match_events
+2025-03-19 13:36:45,690 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2351 tegn
+2025-03-19 13:36:45,690 - DEBUG - Første 100 tegn af chunk: HHE Udvisning
+11
+Fanny ELOVSSON
+48.33 16-16 RIN
+Mål på straffe
+18
+Emilie ROSBORG
+1
+Mathilde BISGAARD...
+2025-03-19 13:37:05,016 - INFO - Gemini API svar modtaget på 19.33 sekunder
+2025-03-19 13:37:05,016 - INFO - Modtog match_info data for kamp_id: 748186
+2025-03-19 13:37:05,016 - INFO - Modtog 31 match_events
+2025-03-19 13:37:05,039 - INFO - Sender anmodning til Gemini API - chunk størrelse: 4106 tegn
+2025-03-19 13:37:05,040 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:37:40,375 - INFO - Gemini API svar modtaget på 35.33 sekunder
+2025-03-19 13:37:40,375 - INFO - Modtog match_info data for kamp_id: 748187
+2025-03-19 13:37:40,375 - INFO - Modtog 54 match_events
+2025-03-19 13:37:40,376 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3209 tegn
+2025-03-19 13:37:40,376 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Skanderborg Håndbold - København Håndbold   33 - 35  (16 - 14)
+748187 / 13-9-2024 / Fæ...
+2025-03-19 13:38:12,408 - INFO - Gemini API svar modtaget på 32.03 sekunder
+2025-03-19 13:38:12,409 - INFO - Modtog match_info data for kamp_id: 748187
+2025-03-19 13:38:12,409 - INFO - Modtog 49 match_events
+2025-03-19 13:38:12,410 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3038 tegn
+2025-03-19 13:38:12,410 - DEBUG - Første 100 tegn af chunk: SKB Skud på stolpe
+ST
+2
+Boline LAURSEN
+2
+Bianca SCHANSSEMA
+44.06 24-22 KBH Mål
+ST
+10
+Pernille BRANDE...
+2025-03-19 13:38:41,367 - INFO - Gemini API svar modtaget på 28.96 sekunder
+2025-03-19 13:38:41,367 - INFO - Modtog match_info data for kamp_id: 748187
+2025-03-19 13:38:41,367 - INFO - Modtog 43 match_events
+2025-03-19 13:38:41,391 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3775 tegn
+2025-03-19 13:38:41,391 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:39:14,384 - INFO - Gemini API svar modtaget på 32.99 sekunder
+2025-03-19 13:39:14,384 - INFO - Modtog match_info data for kamp_id: 748188
+2025-03-19 13:39:14,384 - INFO - Modtog 54 match_events
+2025-03-19 13:39:14,385 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3237 tegn
+2025-03-19 13:39:14,385 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Team Esbjerg - Aarhus Håndbold Kvinder   31 - 26  (17 - 16)
+748188 / 11-9-2024 / Blue ...
+2025-03-19 13:39:47,516 - INFO - Gemini API svar modtaget på 33.13 sekunder
+2025-03-19 13:39:47,517 - INFO - Modtog match_info data for kamp_id: 748188
+2025-03-19 13:39:47,518 - INFO - Modtog 50 match_events
+2025-03-19 13:39:47,519 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3158 tegn
+2025-03-19 13:39:47,519 - DEBUG - Første 100 tegn af chunk: Mål
+HF
+27
+Anne Tolstrup PETERSEN
+Assist
+4
+Michala MØLLER
+86
+Sabine ENGLERT
+41.49
+AHB Skud reddet
+HF
+...
+2025-03-19 13:40:17,584 - INFO - Gemini API svar modtaget på 30.06 sekunder
+2025-03-19 13:40:17,584 - INFO - Modtog match_info data for kamp_id: 748188
+2025-03-19 13:40:17,585 - INFO - Modtog 45 match_events
+2025-03-19 13:40:17,601 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3865 tegn
+2025-03-19 13:40:17,602 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Silkeborg - V...
+2025-03-19 13:40:51,212 - INFO - Gemini API svar modtaget på 33.61 sekunder
+2025-03-19 13:40:51,213 - INFO - Modtog match_info data for kamp_id: 748189
+2025-03-19 13:40:51,213 - INFO - Modtog 54 match_events
+2025-03-19 13:40:51,214 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3255 tegn
+2025-03-19 13:40:51,214 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+SønderjyskE Kvindehåndbold - Silkeborg-Voel KFUM   30 - 28  (16 - 12)
+748189 / 13-9-20...
+2025-03-19 13:41:25,121 - INFO - Gemini API svar modtaget på 33.91 sekunder
+2025-03-19 13:41:25,122 - INFO - Modtog match_info data for kamp_id: 748189
+2025-03-19 13:41:25,122 - INFO - Modtog 50 match_events
+2025-03-19 13:41:25,123 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2296 tegn
+2025-03-19 13:41:25,123 - DEBUG - Første 100 tegn af chunk: SVK Fejlaflevering
+27
+Marigona HAJDARI
+46.21
+SJE
+Skud forbi
+1:e
+12
+Stine BROLØS
+0
+46.43
+SVK Skud red...
+2025-03-19 13:41:45,007 - INFO - Gemini API svar modtaget på 19.88 sekunder
+2025-03-19 13:41:45,007 - INFO - Modtog match_info data for kamp_id: 748189
+2025-03-19 13:41:45,007 - INFO - Modtog 31 match_events
+2025-03-19 13:41:45,025 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3671 tegn
+2025-03-19 13:41:45,026 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:42:20,837 - INFO - Gemini API svar modtaget på 35.81 sekunder
+2025-03-19 13:42:20,837 - INFO - Modtog match_info data for kamp_id: 748190
+2025-03-19 13:42:20,837 - INFO - Modtog 54 match_events
+2025-03-19 13:42:20,838 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2878 tegn
+2025-03-19 13:42:20,838 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+EH Aalborg - Bjerringbro FH   23 - 18  (10 - 10)
+748190 / 15-9-2024 / Skansen Hal 1 / ...
+2025-03-19 13:42:53,347 - INFO - Gemini API svar modtaget på 32.51 sekunder
+2025-03-19 13:42:53,348 - INFO - Modtog match_info data for kamp_id: 748190
+2025-03-19 13:42:53,348 - INFO - Modtog 49 match_events
+2025-03-19 13:42:53,349 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2212 tegn
+2025-03-19 13:42:53,349 - DEBUG - Første 100 tegn af chunk: EHA Skud reddet
+VF
+30
+Clara LERBY
+20
+Clara BAK
+46.30
+BFH Skud forbi
+Gbr 21
+Emma ERNST
+16
+Johanne GRA...
+2025-03-19 13:43:16,464 - INFO - Gemini API svar modtaget på 23.11 sekunder
+2025-03-19 13:43:16,465 - INFO - Modtog match_info data for kamp_id: 748190
+2025-03-19 13:43:16,465 - INFO - Modtog 33 match_events
+2025-03-19 13:43:16,478 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3729 tegn
+2025-03-19 13:43:16,478 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:43:52,603 - INFO - Gemini API svar modtaget på 36.13 sekunder
+2025-03-19 13:43:52,603 - INFO - Modtog match_info data for kamp_id: 748191
+2025-03-19 13:43:52,603 - INFO - Modtog 54 match_events
+2025-03-19 13:43:52,604 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3373 tegn
+2025-03-19 13:43:52,604 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Viborg HK - Bjerringbro FH   28 - 24  (10 - 12)
+748191 / 21-9-2024 / BIOCIRC Arena 1, ...
+2025-03-19 13:44:25,910 - INFO - Gemini API svar modtaget på 33.31 sekunder
+2025-03-19 13:44:25,910 - INFO - Modtog match_info data for kamp_id: 748191
+2025-03-19 13:44:25,910 - INFO - Modtog 50 match_events
+2025-03-19 13:44:25,912 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2682 tegn
+2025-03-19 13:44:25,913 - DEBUG - Første 100 tegn af chunk: ST
+19
+Rikke Dahl NIELSEN
+Assist
+31
+Marianne HAUGSTED
+16
+Louise Bak JENSEN
+46.36 20-18 VHK Mål
+2:e
+19...
+2025-03-19 13:44:51,934 - INFO - Gemini API svar modtaget på 26.02 sekunder
+2025-03-19 13:44:51,935 - INFO - Modtog match_info data for kamp_id: 748191
+2025-03-19 13:44:51,935 - INFO - Modtog 39 match_events
+2025-03-19 13:44:51,954 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3754 tegn
+2025-03-19 13:44:51,954 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Voel KFUM - I...
+2025-03-19 13:45:27,294 - INFO - Gemini API svar modtaget på 35.34 sekunder
+2025-03-19 13:45:27,295 - INFO - Modtog match_info data for kamp_id: 748192
+2025-03-19 13:45:27,295 - INFO - Modtog 54 match_events
+2025-03-19 13:45:27,296 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3057 tegn
+2025-03-19 13:45:27,297 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Silkeborg-Voel KFUM - Ikast Håndbold   22 - 28  (12 - 14)
+748192 / 22-9-2024 / JYSK Ar...
+2025-03-19 13:45:57,876 - INFO - Gemini API svar modtaget på 30.58 sekunder
+2025-03-19 13:45:57,877 - INFO - Modtog match_info data for kamp_id: 748192
+2025-03-19 13:45:57,877 - INFO - Modtog 50 match_events
+2025-03-19 13:45:57,878 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2197 tegn
+2025-03-19 13:45:57,878 - DEBUG - Første 100 tegn af chunk: SVK Skud reddet
+HF
+23
+Thilde FRANDSEN
+12
+Filippa IDÉHN
+46.28
+IKA
+Regelfejl
+6
+Cecilie BRANDT
+46.50
+SV...
+2025-03-19 13:46:20,133 - INFO - Gemini API svar modtaget på 22.25 sekunder
+2025-03-19 13:46:20,134 - INFO - Modtog match_info data for kamp_id: 748192
+2025-03-19 13:46:20,134 - INFO - Modtog 33 match_events
+2025-03-19 13:46:20,150 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3905 tegn
+2025-03-19 13:46:20,150 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:46:53,155 - INFO - Gemini API svar modtaget på 33.01 sekunder
+2025-03-19 13:46:53,155 - INFO - Modtog match_info data for kamp_id: 748193
+2025-03-19 13:46:53,155 - INFO - Modtog 54 match_events
+2025-03-19 13:46:53,157 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3370 tegn
+2025-03-19 13:46:53,157 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Aarhus Håndbold Kvinder - SønderjyskE Kvindehåndbold   32 - 35  (15 - 20)
+748193 / 18-...
+2025-03-19 13:47:24,023 - INFO - Gemini API svar modtaget på 30.87 sekunder
+2025-03-19 13:47:24,023 - INFO - Modtog match_info data for kamp_id: 748193
+2025-03-19 13:47:24,023 - INFO - Modtog 50 match_events
+2025-03-19 13:47:24,024 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2949 tegn
+2025-03-19 13:47:24,024 - DEBUG - Første 100 tegn af chunk: HF
+25
+Ida GÖTZSCHE
+Assist
+14
+Anna Berger WIERZBA
+26
+Nora PERSSON
+42.46
+SJE
+Regelfejl
+31
+Ida-Marie DA...
+2025-03-19 13:47:52,686 - INFO - Gemini API svar modtaget på 28.66 sekunder
+2025-03-19 13:47:52,687 - INFO - Modtog match_info data for kamp_id: 748193
+2025-03-19 13:47:52,687 - INFO - Modtog 43 match_events
+2025-03-19 13:47:52,704 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3982 tegn
+2025-03-19 13:47:52,704 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:48:26,842 - INFO - Gemini API svar modtaget på 34.14 sekunder
+2025-03-19 13:48:26,843 - INFO - Modtog match_info data for kamp_id: 748194
+2025-03-19 13:48:26,843 - INFO - Modtog 54 match_events
+2025-03-19 13:48:26,844 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3235 tegn
+2025-03-19 13:48:26,845 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+København Håndbold - Team Esbjerg   27 - 34  (14 - 15)
+748194 / 18-9-2024 / Frederiksb...
+2025-03-19 13:48:58,529 - INFO - Gemini API svar modtaget på 31.68 sekunder
+2025-03-19 13:48:58,529 - INFO - Modtog match_info data for kamp_id: 748194
+2025-03-19 13:48:58,530 - INFO - Modtog 49 match_events
+2025-03-19 13:48:58,531 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2592 tegn
+2025-03-19 13:48:58,531 - DEBUG - Første 100 tegn af chunk: KBH Fejlaflevering
+11
+Martha NICKELSEN
+Bold erobret 24
+Sanna SOLBERG
+44.26 18-26 TES
+Mål
+1:e
+24
+Sann...
+2025-03-19 13:49:23,890 - INFO - Gemini API svar modtaget på 25.36 sekunder
+2025-03-19 13:49:23,891 - INFO - Modtog match_info data for kamp_id: 748194
+2025-03-19 13:49:23,891 - INFO - Modtog 37 match_events
+2025-03-19 13:49:23,910 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3822 tegn
+2025-03-19 13:49:23,910 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:49:58,266 - INFO - Gemini API svar modtaget på 34.36 sekunder
+2025-03-19 13:49:58,267 - INFO - Modtog match_info data for kamp_id: 748195
+2025-03-19 13:49:58,267 - INFO - Modtog 54 match_events
+2025-03-19 13:49:58,269 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3040 tegn
+2025-03-19 13:49:58,269 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ringkøbing Håndbold - Skanderborg Håndbold   28 - 34  (13 - 17)
+748195 / 22-9-2024 / G...
+2025-03-19 13:50:30,653 - INFO - Gemini API svar modtaget på 32.38 sekunder
+2025-03-19 13:50:30,654 - INFO - Modtog match_info data for kamp_id: 748195
+2025-03-19 13:50:30,654 - INFO - Modtog 50 match_events
+2025-03-19 13:50:30,656 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2430 tegn
+2025-03-19 13:50:30,656 - DEBUG - Første 100 tegn af chunk: Mål
+2:e
+8
+Camilla PEDERSEN
+0
+44.41
+SKB Skud reddet
+Gbr 20
+Suna HANSEN
+16
+Stephanie ANDERSEN
+44.47 19...
+2025-03-19 13:50:52,122 - INFO - Gemini API svar modtaget på 21.47 sekunder
+2025-03-19 13:50:52,122 - INFO - Modtog match_info data for kamp_id: 748195
+2025-03-19 13:50:52,122 - INFO - Modtog 32 match_events
+2025-03-19 13:50:52,144 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3711 tegn
+2025-03-19 13:50:52,144 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:51:26,980 - INFO - Gemini API svar modtaget på 34.84 sekunder
+2025-03-19 13:51:26,981 - INFO - Modtog match_info data for kamp_id: 748196
+2025-03-19 13:51:26,981 - INFO - Modtog 54 match_events
+2025-03-19 13:51:26,982 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3297 tegn
+2025-03-19 13:51:26,982 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Odense Håndbold - Horsens Håndbold Elite   32 - 22  (14 - 13)
+748196 / 18-9-2024 / Syd...
+2025-03-19 13:51:59,577 - INFO - Gemini API svar modtaget på 32.59 sekunder
+2025-03-19 13:51:59,577 - INFO - Modtog match_info data for kamp_id: 748196
+2025-03-19 13:51:59,578 - INFO - Modtog 50 match_events
+2025-03-19 13:51:59,578 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2908 tegn
+2025-03-19 13:51:59,579 - DEBUG - Første 100 tegn af chunk: HHE Fejlaflevering
+7
+Maria Palsdottir NÓLSOY
+43.01 24-18 ODE Mål
+1:e
+10
+Anna GRUNDTVIG
+Assist
+38
+Yar...
+2025-03-19 13:52:28,093 - INFO - Gemini API svar modtaget på 28.51 sekunder
+2025-03-19 13:52:28,093 - INFO - Modtog match_info data for kamp_id: 748196
+2025-03-19 13:52:28,094 - INFO - Modtog 45 match_events
+2025-03-19 13:52:28,113 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3693 tegn
+2025-03-19 13:52:28,113 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Håndbold - EH...
+2025-03-19 13:53:01,616 - INFO - Gemini API svar modtaget på 33.50 sekunder
+2025-03-19 13:53:01,616 - INFO - Modtog match_info data for kamp_id: 748197
+2025-03-19 13:53:01,617 - INFO - Modtog 54 match_events
+2025-03-19 13:53:01,618 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3318 tegn
+2025-03-19 13:53:01,618 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Nykøbing F. Håndbold - EH Aalborg   36 - 30  (16 - 14)
+748197 / 18-9-2024 / SPAR NORD ...
+2025-03-19 13:53:31,604 - INFO - Gemini API svar modtaget på 29.98 sekunder
+2025-03-19 13:53:31,605 - INFO - Modtog match_info data for kamp_id: 748197
+2025-03-19 13:53:31,605 - INFO - Modtog 50 match_events
+2025-03-19 13:53:31,606 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2879 tegn
+2025-03-19 13:53:31,606 - DEBUG - Første 100 tegn af chunk: NFH Fejlaflevering
+18
+Alberte KIELSTRUP
+45.07
+EHA Skud reddet
+Gbr
+3
+Liv SVEINBJØRNSDÓTTIR
+16
+Line CH...
+2025-03-19 13:53:56,441 - INFO - Gemini API svar modtaget på 24.83 sekunder
+2025-03-19 13:53:56,441 - INFO - Modtog match_info data for kamp_id: 748197
+2025-03-19 13:53:56,441 - INFO - Modtog 36 match_events
+2025-03-19 13:53:56,458 - INFO - Sender anmodning til Gemini API - chunk størrelse: 4059 tegn
+2025-03-19 13:53:56,458 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-19 13:54:30,479 - INFO - Gemini API svar modtaget på 34.02 sekunder
+2025-03-19 13:54:30,480 - INFO - Modtog match_info data for kamp_id: 748198
+2025-03-19 13:54:30,480 - INFO - Modtog 54 match_events
+2025-03-19 13:54:30,482 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3173 tegn
+2025-03-19 13:54:30,482 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Ikast Håndbold - Aarhus Håndbold Kvinder   35 - 19  (19 - 8)
+748198 / 2-10-2024 / IBF ...
+2025-03-19 13:55:02,529 - INFO - Gemini API svar modtaget på 32.05 sekunder
+2025-03-19 13:55:02,529 - INFO - Modtog match_info data for kamp_id: 748198
+2025-03-19 13:55:02,530 - INFO - Modtog 50 match_events
+2025-03-19 13:55:02,531 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2571 tegn
+2025-03-19 13:55:02,531 - DEBUG - Første 100 tegn af chunk: 2:e
+14
+Anna Berger WIERZBA
+1
+Irma SCHJÖTT
+43.58 28-10 IKA
+Mål
+Gbr 10
+Sofia STENHOLT
+1
+Elin THORSTEIN...
+2025-03-19 13:55:24,035 - INFO - Gemini API svar modtaget på 21.50 sekunder
+2025-03-19 13:55:24,036 - INFO - Modtog match_info data for kamp_id: 748198
+2025-03-19 13:55:24,036 - INFO - Modtog 35 match_events
+2025-03-19 13:55:24,053 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3586 tegn
+2025-03-19 13:55:24,053 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: Silkeborg - V...
+2025-03-23 16:30:16,168 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3741 tegn
+2025-03-23 16:30:16,168 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...
+2025-03-23 16:30:54,785 - INFO - Gemini API svar modtaget på 38.61 sekunder
+2025-03-23 16:30:54,787 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-23 16:30:54,787 - INFO - Modtog 54 match_events
+2025-03-23 16:30:54,791 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3146 tegn
+2025-03-23 16:30:54,791 - DEBUG - Første 100 tegn af chunk: KAMPHÆNDELSER
+Bjerringbro FH - Ikast Håndbold   22 - 26  (11 - 16)
+748177 / 6-9-2024 / Bjerringbro I...
+2025-03-23 16:31:28,230 - INFO - Gemini API svar modtaget på 33.44 sekunder
+2025-03-23 16:31:28,236 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-23 16:31:28,237 - INFO - Modtog 50 match_events
+2025-03-23 16:31:28,240 - INFO - Sender anmodning til Gemini API - chunk størrelse: 1917 tegn
+2025-03-23 16:31:28,240 - DEBUG - Første 100 tegn af chunk: IKA
+Fejlaflevering
+19
+Amanda Loft HANSEN
+46.49 18-24 BFH Mål
+Gbr 11
+Arlinda HAJDARI
+Assist
+31
+Marian...
+2025-03-23 16:31:47,588 - INFO - Gemini API svar modtaget på 19.35 sekunder
+2025-03-23 16:31:47,590 - INFO - Modtog match_info data for kamp_id: 748177
+2025-03-23 16:31:47,591 - INFO - Modtog 26 match_events
+2025-03-23 16:31:47,647 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3792 tegn
+2025-03-23 16:31:47,647 - DEBUG - Første 100 tegn af chunk: ================================================================================
+Kamp: KAMPHÆNDELSER...

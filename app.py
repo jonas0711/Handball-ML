@@ -57,7 +57,8 @@ TEAM_CODE_MAP = {
     "NSH": "Nordsjælland Håndbold",
     "SAH": "SAH - Skanderborg AGF",
     "SKH": "Skjern Håndbold",
-    "GIF": "Grindsted GIF Håndbold"
+    "GIF": "Grindsted GIF Håndbold",
+    "SJE": "Sønderjyske Herrehåndbold"
 }
 
 # Kombiner mulige varianter af holdnavne (til normalisering)
@@ -72,6 +73,10 @@ if platform.system() == 'Windows':
 else:
     HERRELIGA_DB_DIR = os.path.join("Herreliga-database", "2024-2025")
     KVINDELIGA_DB_DIR = os.path.join("Kvindeliga-database", "2024-2025")
+
+# Sti til liga-databaser
+HERRELIGA_CENTRAL_DB = os.path.join("Herreliga-database", "herreliga_central.db")
+KVINDELIGA_CENTRAL_DB = os.path.join("Kvindeliga-database", "kvindeliga_central.db")
 
 def normalize_team_name(team_name):
     """
@@ -460,6 +465,436 @@ def update_player_name(old_name, new_name, team_code):
     logger.info(f"Opdaterede spillernavn {old_name} til {new_name} for hold {team_code}. Succes: {success}, Poster opdateret: {updated_count}")
     return success
 
+# Tilføj nye funktioner til at håndtere central spillerdatabase
+
+def create_or_update_central_db(league_type="herreliga"):
+    """
+    Opretter eller opdaterer den centrale spillerdatabase for den angivne liga
+    
+    Args:
+        league_type: Enten "herreliga" eller "kvindeliga"
+    """
+    if league_type.lower() == "herreliga":
+        central_db_path = HERRELIGA_CENTRAL_DB
+        db_dir = HERRELIGA_DB_DIR
+    else:
+        central_db_path = KVINDELIGA_CENTRAL_DB
+        db_dir = KVINDELIGA_DB_DIR
+    
+    logger.info(f"Opretter/opdaterer central database for {league_type} i {central_db_path}")
+    
+    # Opret forbindelse til den centrale database
+    try:
+        # Fjern den eksisterende database hvis den findes
+        if os.path.exists(central_db_path):
+            os.remove(central_db_path)
+            logger.info(f"Slettet eksisterende database: {central_db_path}")
+        
+        conn = sqlite3.connect(central_db_path)
+        cursor = conn.cursor()
+        
+        # Opretter tabeller hvis de ikke findes
+        cursor.execute("""
+        CREATE TABLE IF NOT EXISTS teams (
+            team_code TEXT PRIMARY KEY,
+            team_name TEXT NOT NULL,
+            league TEXT NOT NULL
+        )
+        """)
+        
+        cursor.execute("""
+        CREATE TABLE IF NOT EXISTS players (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            player_number INTEGER NOT NULL,
+            player_name TEXT NOT NULL,
+            team_code TEXT NOT NULL,
+            occurrence_count INTEGER NOT NULL DEFAULT 0,
+            FOREIGN KEY (team_code) REFERENCES teams (team_code),
+            UNIQUE (player_number, player_name, team_code)
+        )
+        """)
+        
+        # Indsæt alle kendte hold i teams tabellen
+        for code, name in TEAM_CODE_MAP.items():
+            cursor.execute("""
+            INSERT OR REPLACE INTO teams (team_code, team_name, league)
+            VALUES (?, ?, ?)
+            """, (code, name, league_type))
+        
+        conn.commit()
+        
+        # Dictionary til at holde styr på hvor mange gange en spiller optræder på hvert hold
+        # format: {(player_number, player_name): {team_code: count}}
+        player_team_counts = {}
+        
+        # Find alle databasefiler i den angivne mappe
+        if not os.path.exists(db_dir):
+            logger.error(f"Database mappe findes ikke: {db_dir}")
+            return False
+        
+        db_files = glob.glob(os.path.join(db_dir, "*.db"))
+        logger.info(f"Fandt {len(db_files)} databasefiler i {db_dir}")
+        
+        # Gennemgå hver database og tæl spillerforekomster
+        for db_file in db_files:
+            logger.info(f"Behandler kamp fra {os.path.basename(db_file)}")
+            
+            try:
+                # Brug en modificeret version af get_team_players til at finde spillere
+                for team_code in get_all_team_codes_from_db(db_file):
+                    if team_code not in TEAM_CODE_MAP:
+                        continue  # Spring over hold, vi ikke kender
+                    
+                    player_counts = get_player_counts_for_team(db_file, team_code)
+                    
+                    # Opdater den globale spillertælling
+                    for player_key, count in player_counts.items():
+                        if player_key not in player_team_counts:
+                            player_team_counts[player_key] = {}
+                        
+                        if team_code not in player_team_counts[player_key]:
+                            player_team_counts[player_key][team_code] = 0
+                        
+                        player_team_counts[player_key][team_code] += count
+            
+            except Exception as e:
+                logger.error(f"Fejl ved behandling af {db_file}: {e}")
+        
+        # Logning af FRANDSEN spillere før groupering
+        for (num, name), team_counts in player_team_counts.items():
+            if "FRANDSEN" in name:
+                logger.info(f"FØR GROUPERING: Spiller {name} (#{num}) fundet på hold: " + 
+                           ", ".join([f"{code}={count}" for code, count in team_counts.items()]))
+        
+        # For hver spiller, find det hold hvor de optræder hyppigst
+        # Dictionary til at tjekke om en spiller allerede er tilknyttet et hold
+        # Format: {(player_name): (team_code, count)}
+        player_primary_team = {}
+        
+        # Sorter alle spillere efter deres samlede antal forekomster (faldende)
+        # Dette sikrer at spillere der forekommer oftere (og derfor er mere "sikre") behandles først
+        all_players = []
+        for (player_number, player_name), team_counts in player_team_counts.items():
+            total_count = sum(team_counts.values())
+            all_players.append(((player_number, player_name), team_counts, total_count))
+        
+        all_players.sort(key=lambda x: x[2], reverse=True)
+        
+        # Tildel hver spiller til det hold, hvor de hyppigst optræder
+        for (player_number, player_name), team_counts, total_count in all_players:
+            # Ændring: Inkluder alle spillere, selv dem med kun 1 forekomst
+            if not team_counts:
+                continue  # Spring kun over, hvis der ikke er nogen forekomster overhovedet
+            
+            # Find det hold med højeste antal forekomster
+            primary_team = max(team_counts.items(), key=lambda x: x[1])
+            team_code, occurrence_count = primary_team
+            
+            # Tjek om spilleren allerede eksisterer med et andet nummer på et andet hold
+            if player_name in player_primary_team:
+                existing_team, existing_count = player_primary_team[player_name]
+                
+                # Hvis spilleren forekommer hyppigere på det nuværende hold, opdater tilknytningen
+                if occurrence_count > existing_count:
+                    logger.info(f"Spiller {player_name} findes hyppigere på {team_code} ({occurrence_count}) end på {existing_team} ({existing_count})")
+                    player_primary_team[player_name] = (team_code, occurrence_count)
+            else:
+                player_primary_team[player_name] = (team_code, occurrence_count)
+        
+        # Logning af FRANDSEN spillere efter tildeling til primære hold
+        for name, (team, count) in player_primary_team.items():
+            if "FRANDSEN" in name:
+                logger.info(f"EFTER TILDELING: Spiller {name} er tildelt til hold {team} med {count} forekomster")
+        
+        # Nu indsætter vi spillerne i databasen, kun på deres primære hold
+        for (player_number, player_name), team_counts, _ in all_players:
+            name_primary_team = player_primary_team.get(player_name)
+            if not name_primary_team:
+                continue
+                
+            primary_team_code, occurrence_count = name_primary_team
+            
+            # Ændring: Indsæt alle spillere på deres primære hold, uanset antallet af forekomster
+            if team_counts.get(primary_team_code, 0) > 0:  # Sikrer at spilleren har mindst 1 forekomst på holdet
+                try:
+                    cursor.execute("""
+                    INSERT INTO players 
+                    (player_number, player_name, team_code, occurrence_count) 
+                    VALUES (?, ?, ?, ?)
+                    """, (player_number, player_name, primary_team_code, occurrence_count))
+                    
+                    # Log indsættelse af TMS-spillere og FRANDSEN-spillere
+                    if "FRANDSEN" in player_name or primary_team_code == "TMS":
+                        logger.info(f"INDSÆTTELSE: Spiller {player_name} (#{player_number}) indsat i database på hold {primary_team_code} med {occurrence_count} forekomster")
+                        
+                except sqlite3.Error as e:
+                    logger.error(f"Fejl ved indsættelse af spiller {player_name}: {e}")
+        
+        conn.commit()
+        logger.info(f"Central database for {league_type} opdateret med succes")
+        return True
+    
+    except sqlite3.Error as e:
+        logger.error(f"Databasefejl ved oprettelse af central database: {e}")
+        return False
+    finally:
+        if 'conn' in locals():
+            conn.close()
+
+def get_all_team_codes_from_db(db_path):
+    """Henter alle holdkoder fra en database"""
+    team_codes = set()
+    try:
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        
+        # Find holdkoder fra match_events
+        cursor.execute("SELECT DISTINCT hold FROM match_events WHERE hold IS NOT NULL")
+        for row in cursor.fetchall():
+            if row[0] and row[0].strip():
+                team_codes.add(row[0].strip())
+        
+        conn.close()
+    except sqlite3.Error as e:
+        logger.error(f"Fejl ved hentning af holdkoder fra {db_path}: {e}")
+    
+    return team_codes
+
+def get_player_counts_for_team(db_path, team_code):
+    """
+    Henter antal forekomster for hver spiller for et givet hold i en database
+    
+    Returns:
+        dict: {(player_number, player_name): count}
+    """
+    player_counts = {}
+    
+    try:
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        
+        # 1. Hent kampinformation
+        try:
+            cursor.execute("SELECT kamp_id, hold_hjemme, hold_ude FROM match_info")
+            match_info = cursor.fetchone()
+            
+            if not match_info:
+                conn.close()
+                return player_counts
+            
+            kamp_id, hold_hjemme, hold_ude = match_info
+            
+            # Tjek om holdet er med i kampen (via TEAM_CODE_MAP)
+            team_in_match = False
+            team_name = TEAM_CODE_MAP.get(team_code)
+            
+            if team_name and (team_name == hold_hjemme or team_name == hold_ude):
+                team_in_match = True
+            
+            if not team_in_match:
+                conn.close()
+                return player_counts
+            
+            # Primære spillere
+            cursor.execute("""
+                SELECT nr_1, navn_1, COUNT(*) as count
+                FROM match_events 
+                WHERE hold = ? 
+                AND nr_1 IS NOT NULL AND nr_1 > 0 
+                AND navn_1 IS NOT NULL AND navn_1 != ''
+                AND haendelse_1 NOT IN ('Video Proof', 'Video Proof slut', 'Halvleg', 'Start 1:e halvleg', 'Start 2:e halvleg')
+                GROUP BY nr_1, navn_1
+            """, (team_code,))
+            
+            for nr, navn, count in cursor.fetchall():
+                if navn not in NOT_PLAYER_NAMES:
+                    player_key = (nr, navn)
+                    if player_key not in player_counts:
+                        player_counts[player_key] = 0
+                    player_counts[player_key] += count
+            
+            # Sekundære spillere - SAME_TEAM_EVENTS
+            for event_type in SAME_TEAM_EVENTS:
+                cursor.execute("""
+                    SELECT nr_2, navn_2, COUNT(*) as count
+                    FROM match_events 
+                    WHERE hold = ? 
+                    AND nr_2 IS NOT NULL AND nr_2 > 0 
+                    AND navn_2 IS NOT NULL AND navn_2 != ''
+                    AND haendelse_2 = ?
+                    GROUP BY nr_2, navn_2
+                """, (team_code, event_type))
+                
+                for nr, navn, count in cursor.fetchall():
+                    if navn not in NOT_PLAYER_NAMES:
+                        player_key = (nr, navn)
+                        if player_key not in player_counts:
+                            player_counts[player_key] = 0
+                        player_counts[player_key] += count
+            
+            # Målvogtere fra modstanderhændelser
+            cursor.execute("""
+                SELECT nr_mv, mv, COUNT(*) as count
+                FROM match_events 
+                WHERE hold != ? 
+                AND nr_mv IS NOT NULL AND nr_mv > 0
+                AND mv IS NOT NULL AND mv != ''
+                AND haendelse_1 IN ('Mål', 'Skud reddet', 'Skud forbi', 'Skud på stolpe', 
+                             'Mål på straffe', 'Straffekast reddet')
+                GROUP BY nr_mv, mv
+            """, (team_code,))
+            
+            for nr, navn, count in cursor.fetchall():
+                if navn not in NOT_PLAYER_NAMES:
+                    player_key = (nr, navn)
+                    if player_key not in player_counts:
+                        player_counts[player_key] = 0
+                    player_counts[player_key] += count
+        
+        except sqlite3.Error as e:
+            logger.error(f"SQL-fejl i get_player_counts_for_team: {e}")
+        
+        conn.close()
+    except sqlite3.Error as e:
+        logger.error(f"Fejl ved forbindelse til database {db_path}: {e}")
+    
+    return player_counts
+
+def get_players_from_central_db(team_code, league_type="herreliga"):
+    """
+    Henter spillere for et specifikt hold fra den centrale database
+    
+    Args:
+        team_code: Holdkoden
+        league_type: Enten "herreliga" eller "kvindeliga"
+        
+    Returns:
+        list: Liste over spillere for holdet
+    """
+    player_list = []
+    
+    if league_type.lower() == "herreliga":
+        central_db_path = HERRELIGA_CENTRAL_DB
+    else:
+        central_db_path = KVINDELIGA_CENTRAL_DB
+    
+    if not os.path.exists(central_db_path):
+        logger.error(f"Central database for {league_type} findes ikke: {central_db_path}")
+        return player_list
+    
+    try:
+        conn = sqlite3.connect(central_db_path)
+        cursor = conn.cursor()
+        
+        # Log alle spillere i databasen for at se, om Sebastian FRANDSEN er til stede
+        cursor.execute("SELECT player_name, team_code FROM players WHERE player_name LIKE '%FRANDSEN%'")
+        frandsen_players = cursor.fetchall()
+        for player, team in frandsen_players:
+            logger.info(f"Fandt FRANDSEN-spiller i central database: {player} på hold {team}")
+        
+        # Log antal spillere pr. hold
+        cursor.execute("SELECT team_code, COUNT(*) FROM players GROUP BY team_code")
+        team_counts = cursor.fetchall()
+        for tc, count in team_counts:
+            logger.info(f"Hold {tc} har {count} spillere i central database")
+        
+        # Hent spillere for det specifikke hold
+        cursor.execute("""
+            SELECT player_number, player_name, occurrence_count
+            FROM players
+            WHERE team_code = ?
+            ORDER BY player_number
+        """, (team_code,))
+        
+        for row in cursor.fetchall():
+            player_number, player_name, count = row
+            player_list.append({
+                "number": player_number,
+                "name": player_name,
+                "databases": count  # Vi beholder samme navn for at undgå at ændre skabelonen
+            })
+            
+            # Log hver spiller vi finder
+            logger.info(f"Fandt spiller {player_name} ({player_number}) på hold {team_code} med {count} forekomster")
+        
+        conn.close()
+    except sqlite3.Error as e:
+        logger.error(f"Fejl ved hentning af spillere fra central database: {e}")
+    
+    return player_list
+
+def update_player_in_central_db(old_name, new_name, team_code, league_type="herreliga"):
+    """
+    Opdaterer en spillers navn i den centrale database
+    
+    Args:
+        old_name: Det nuværende navn
+        new_name: Det nye navn
+        team_code: Holdkoden
+        league_type: Enten "herreliga" eller "kvindeliga"
+        
+    Returns:
+        bool: True hvis opdateringen var succesfuld
+    """
+    if league_type.lower() == "herreliga":
+        central_db_path = HERRELIGA_CENTRAL_DB
+    else:
+        central_db_path = KVINDELIGA_CENTRAL_DB
+    
+    if not os.path.exists(central_db_path):
+        logger.error(f"Central database for {league_type} findes ikke: {central_db_path}")
+        return False
+    
+    try:
+        conn = sqlite3.connect(central_db_path)
+        cursor = conn.cursor()
+        
+        # Find spilleren for at få nummeret og occurrence_count
+        cursor.execute("""
+            SELECT player_number, occurrence_count FROM players
+            WHERE player_name = ? AND team_code = ?
+        """, (old_name, team_code))
+        
+        result = cursor.fetchone()
+        if not result:
+            logger.error(f"Spiller {old_name} ikke fundet for hold {team_code}")
+            conn.close()
+            return False
+        
+        player_number, occurrence_count = result
+        
+        # Kontroller om der allerede findes en spiller med det nye navn og samme nummer
+        cursor.execute("""
+            SELECT id FROM players
+            WHERE player_name = ? AND team_code = ? AND player_number = ?
+        """, (new_name, team_code, player_number))
+        
+        existing_player = cursor.fetchone()
+        
+        if existing_player:
+            # Hvis der allerede findes en spiller med det nye navn, fjern den gamle spiller
+            cursor.execute("""
+                DELETE FROM players
+                WHERE player_name = ? AND team_code = ? AND player_number = ?
+            """, (old_name, team_code, player_number))
+        else:
+            # Ellers opdater den eksisterende spiller
+            cursor.execute("""
+                UPDATE players SET player_name = ?
+                WHERE player_name = ? AND team_code = ? AND player_number = ?
+            """, (new_name, old_name, team_code, player_number))
+        
+        # Opdater også i alle kampdata-databaser (eksisterende funktion)
+        conn.commit()
+        conn.close()
+        
+        # Kald den eksisterende funktion for at opdatere i alle kampdatabaser
+        return update_player_name(old_name, new_name, team_code)
+    
+    except sqlite3.Error as e:
+        logger.error(f"Fejl ved opdatering af spiller i central database: {e}")
+        return False
+
 # Ruter
 @app.route('/')
 def index():
@@ -544,8 +979,56 @@ def view_teams():
 @app.route('/teams/<team_name>')
 def view_team_players(team_name):
     """Se alle spillere for et specifikt hold"""
-    players = get_team_players(team_name)
-    return render_template('team_players.html', team_name=team_name, players=players)
+    # Bestem ligatype baseret på holdkoden
+    league_type = "herreliga"  # Standard
+    
+    # Tjek om teamkoden er i kvindeliga-mappede hold
+    women_teams = ["AHB", "BFH", "EHA", "HHE", "IKA", "KBH", "NFH", "ODE", 
+                  "RIN", "SVK", "SKB", "SJE", "TES", "VHK"]  # Fjernet TMS fra listen
+    
+    if team_name in women_teams:
+        league_type = "kvindeliga"
+    
+    # Tjek om den centrale database findes
+    central_db_exists = False
+    if league_type == "herreliga":
+        central_db_exists = os.path.exists(HERRELIGA_CENTRAL_DB)
+        if not central_db_exists:
+            logger.warning(f"Central herreliga database ikke fundet, opbygger den nu")
+            create_or_update_central_db("herreliga")
+    else:
+        central_db_exists = os.path.exists(KVINDELIGA_CENTRAL_DB)
+        if not central_db_exists:
+            logger.warning(f"Central kvindeliga database ikke fundet, opbygger den nu")
+            create_or_update_central_db("kvindeliga")
+    
+    # Tving opbygning af central database for at sikre, at den er opdateret
+    logger.info(f"Genopbygger central database for {league_type}")
+    create_or_update_central_db(league_type)
+        
+    # Forsøg at hente fra central database først
+    logger.info(f"Henter spillere fra central database for hold {team_name}")
+    players = get_players_from_central_db(team_name, league_type)
+    
+    logger.info(f"Fundet {len(players)} spillere i central database for {team_name}")
+    
+    # FJERNET: Vi bruger ikke længere fallback til get_team_players
+    # Vis en advarsel i stedet for at bruge den gamle metode
+    if not players:
+        logger.error(f"ADVARSEL: Ingen spillere fundet i central database for {team_name}")
+        # Returner en tom liste i stedet for at falde tilbage til den gamle metode
+        players = []
+    
+    # Log de første fem spillere (hvis der er nogen) for debugging
+    if players:
+        first_five = players[:5]
+        logger.info(f"Første fem spillere fundet for {team_name}: " + 
+                   ", ".join([f"{p['name']} (#{p['number']})" for p in first_five]))
+    
+    return render_template('team_players.html', 
+                          team_name=team_name, 
+                          team_full_name=TEAM_CODE_MAP.get(team_name, team_name),
+                          players=players)
 
 @app.route('/player/edit', methods=['POST'])
 def edit_player():
@@ -561,9 +1044,34 @@ def edit_player():
     if not all([old_name, new_name, team_name]):
         return jsonify({"success": False, "error": "Manglende påkrævede felter"})
     
-    success = update_player_name(old_name, new_name, team_name)
+    # Bestem ligatype baseret på holdkoden
+    league_type = "herreliga"  # Standard
+    women_teams = ["AHB", "BFH", "EHA", "HHE", "IKA", "KBH", "NFH", "ODE", 
+                  "RIN", "SVK", "SKB", "SJE", "TES", "VHK"]
+    
+    if team_name in women_teams:
+        league_type = "kvindeliga"
+    
+    # Opdater i både central database og kampdatabaser
+    success = update_player_in_central_db(old_name, new_name, team_name, league_type)
     
     return jsonify({"success": success})
+
+@app.route('/build_central_db/<league_type>')
+def build_central_db(league_type):
+    """Opbygger den centrale database for en liga"""
+    if league_type not in ['herreliga', 'kvindeliga']:
+        return render_template('error.html', message="Ugyldig ligatype. Brug 'herreliga' eller 'kvindeliga'.")
+    
+    success = create_or_update_central_db(league_type)
+    
+    if success:
+        return render_template('success.html', 
+                              message=f"Central database for {league_type} opbygget med succes",
+                              back_url=url_for('index'))
+    else:
+        return render_template('error.html', 
+                              message=f"Fejl ved opbygning af central database for {league_type}")
 
 @app.errorhandler(404)
 def page_not_found(e):
