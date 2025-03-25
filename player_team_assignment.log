@@ -1,0 +1,949 @@
+2025-03-25 23:10:29,485 - INFO - ==== Starter oprettelse af spiller-hold tilknytning ====
+2025-03-25 23:10:29,489 - INFO - Fandt 316 databaser i alt (154 i herreligaen, 162 i kvindeligaen)
+2025-03-25 23:10:29,489 - INFO - Behandler database: Herreliga-database\herreliga_central.db
+2025-03-25 23:10:29,502 - ERROR - Fejl ved behandling af Herreliga-database\herreliga_central.db: no such table: match_events
+2025-03-25 23:10:29,503 - INFO - Behandler database: Herreliga-database\2024-2025\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-25 23:10:29,509 - INFO - Holdkoder i kamp: MTH, NSH
+2025-03-25 23:10:29,518 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db med 25 spillere
+2025-03-25 23:10:29,519 - INFO - Behandler database: Herreliga-database\2024-2025\1102024_Skjern_Håndbold_vs_GOG.db
+2025-03-25 23:10:29,524 - INFO - Holdkoder i kamp: GOG, SKH
+2025-03-25 23:10:29,529 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1102024_Skjern_Håndbold_vs_GOG.db med 24 spillere
+2025-03-25 23:10:29,529 - INFO - Behandler database: Herreliga-database\2024-2025\11102024_KIF_Kolding_vs_GOG.db
+2025-03-25 23:10:29,534 - INFO - Holdkoder i kamp: GOG, KIF
+2025-03-25 23:10:29,542 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\11102024_KIF_Kolding_vs_GOG.db med 26 spillere
+2025-03-25 23:10:29,542 - INFO - Behandler database: Herreliga-database\2024-2025\11102024_Sønderjyske_Herrehåndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:29,547 - INFO - Holdkoder i kamp: BSH, SJE
+2025-03-25 23:10:29,553 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\11102024_Sønderjyske_Herrehåndbold_vs_Bjerringbro-Silkeborg.db med 25 spillere
+2025-03-25 23:10:29,554 - INFO - Behandler database: Herreliga-database\2024-2025\1112024_GOG_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:29,559 - INFO - Holdkoder i kamp: REH, GOG
+2025-03-25 23:10:29,564 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1112024_GOG_vs_Ribe-Esbjerg_HH.db med 28 spillere
+2025-03-25 23:10:29,565 - INFO - Behandler database: Herreliga-database\2024-2025\11122024_GOG_vs_Grindsted_GIF,_Håndbold.db
+2025-03-25 23:10:29,571 - INFO - Holdkoder i kamp: GIF, GOG
+2025-03-25 23:10:29,578 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\11122024_GOG_vs_Grindsted_GIF,_Håndbold.db med 28 spillere
+2025-03-25 23:10:29,578 - INFO - Behandler database: Herreliga-database\2024-2025\11122024_Grindsted_GIF,_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:29,583 - INFO - Holdkoder i kamp: GIF, BSH
+2025-03-25 23:10:29,590 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\11122024_Grindsted_GIF,_Håndbold_vs_Bjerringbro-Silkeborg.db med 25 spillere
+2025-03-25 23:10:29,590 - INFO - Behandler database: Herreliga-database\2024-2025\11122024_Grindsted_GIF,_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:29,595 - INFO - Holdkoder i kamp: GIF, SJE
+2025-03-25 23:10:29,599 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\11122024_Grindsted_GIF,_Håndbold_vs_Sønderjyske_Herrehåndbold.db med 30 spillere
+2025-03-25 23:10:29,600 - INFO - Behandler database: Herreliga-database\2024-2025\11122024_Ribe-Esbjerg_HH_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:29,605 - INFO - Holdkoder i kamp: REH, AAH
+2025-03-25 23:10:29,611 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\11122024_Ribe-Esbjerg_HH_vs_Aalborg_Håndbold.db med 24 spillere
+2025-03-25 23:10:29,611 - INFO - Behandler database: Herreliga-database\2024-2025\11122024_SAH_–_Skanderborg_AGF_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:29,615 - INFO - Holdkoder i kamp: SAH, BSH
+2025-03-25 23:10:29,622 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\11122024_SAH_–_Skanderborg_AGF_vs_Bjerringbro-Silkeborg.db med 25 spillere
+2025-03-25 23:10:29,622 - INFO - Behandler database: Herreliga-database\2024-2025\11122024_Skjern_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:29,628 - INFO - Holdkoder i kamp: FHK, SKH
+2025-03-25 23:10:29,632 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\11122024_Skjern_Håndbold_vs_Fredericia_Håndbold_Klub.db med 25 spillere
+2025-03-25 23:10:29,632 - INFO - Behandler database: Herreliga-database\2024-2025\11122024_Sønderjyske_Herrehåndbold_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:29,639 - INFO - Holdkoder i kamp: SJE, NSH
+2025-03-25 23:10:29,645 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\11122024_Sønderjyske_Herrehåndbold_vs_Nordsjælland_Håndbold.db med 27 spillere
+2025-03-25 23:10:29,645 - INFO - Behandler database: Herreliga-database\2024-2025\11122024_TTH_Holstebro_vs_Mors-Thy_Håndbold.db
+2025-03-25 23:10:29,650 - INFO - Holdkoder i kamp: TTH, MTH
+2025-03-25 23:10:29,655 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\11122024_TTH_Holstebro_vs_Mors-Thy_Håndbold.db med 29 spillere
+2025-03-25 23:10:29,657 - INFO - Behandler database: Herreliga-database\2024-2025\1122024_Fredericia_Håndbold_Klub_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:29,662 - INFO - Holdkoder i kamp: FHK, SAH
+2025-03-25 23:10:29,667 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1122024_Fredericia_Håndbold_Klub_vs_SAH_–_Skanderborg_AGF.db med 26 spillere
+2025-03-25 23:10:29,668 - INFO - Behandler database: Herreliga-database\2024-2025\1122024_Nordsjælland_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:29,673 - INFO - Holdkoder i kamp: AAH, NSH
+2025-03-25 23:10:29,680 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1122024_Nordsjælland_Håndbold_vs_Aalborg_Håndbold.db med 30 spillere
+2025-03-25 23:10:29,680 - INFO - Behandler database: Herreliga-database\2024-2025\12102024_Skjern_Håndbold_vs_TTH_Holstebro.db
+2025-03-25 23:10:29,685 - INFO - Holdkoder i kamp: SKH, TTH
+2025-03-25 23:10:29,691 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\12102024_Skjern_Håndbold_vs_TTH_Holstebro.db med 22 spillere
+2025-03-25 23:10:29,692 - INFO - Behandler database: Herreliga-database\2024-2025\12102024_TMS_Ringsted_vs_Grindsted_GIF.db
+2025-03-25 23:10:29,697 - INFO - Holdkoder i kamp: GIF, TMS
+2025-03-25 23:10:29,702 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\12102024_TMS_Ringsted_vs_Grindsted_GIF.db med 26 spillere
+2025-03-25 23:10:29,702 - INFO - Behandler database: Herreliga-database\2024-2025\12122024_Aalborg_Håndbold_vs_TMS_Ringsted.db
+2025-03-25 23:10:29,707 - INFO - Holdkoder i kamp: AAH, TMS
+2025-03-25 23:10:29,713 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\12122024_Aalborg_Håndbold_vs_TMS_Ringsted.db med 26 spillere
+2025-03-25 23:10:29,714 - INFO - Behandler database: Herreliga-database\2024-2025\1292024_Bjerringbro-Silkeborg_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:29,720 - INFO - Holdkoder i kamp: SAH, BSH
+2025-03-25 23:10:29,724 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1292024_Bjerringbro-Silkeborg_vs_SAH_–_Skanderborg_AGF.db med 24 spillere
+2025-03-25 23:10:29,725 - INFO - Behandler database: Herreliga-database\2024-2025\1292024_Mors-Thy_Håndbold_vs_TTH_Holstebro.db
+2025-03-25 23:10:29,729 - INFO - Holdkoder i kamp: MTH, TTH
+2025-03-25 23:10:29,735 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1292024_Mors-Thy_Håndbold_vs_TTH_Holstebro.db med 26 spillere
+2025-03-25 23:10:29,735 - INFO - Behandler database: Herreliga-database\2024-2025\1292024_Ribe-Esbjerg_HH_vs_KIF_Kolding.db
+2025-03-25 23:10:29,740 - INFO - Holdkoder i kamp: KIF, REH
+2025-03-25 23:10:29,745 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1292024_Ribe-Esbjerg_HH_vs_KIF_Kolding.db med 24 spillere
+2025-03-25 23:10:29,745 - INFO - Behandler database: Herreliga-database\2024-2025\13102024_Aalborg_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:29,752 - INFO - Holdkoder i kamp: SAH, AAH
+2025-03-25 23:10:29,756 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\13102024_Aalborg_Håndbold_vs_SAH_–_Skanderborg_AGF.db med 27 spillere
+2025-03-25 23:10:29,758 - INFO - Behandler database: Herreliga-database\2024-2025\13112024_Sønderjyske_Herrehåndbold_vs_Skjern_Håndbold.db
+2025-03-25 23:10:29,763 - INFO - Holdkoder i kamp: SJE, SKH
+2025-03-25 23:10:29,768 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\13112024_Sønderjyske_Herrehåndbold_vs_Skjern_Håndbold.db med 23 spillere
+2025-03-25 23:10:29,768 - INFO - Behandler database: Herreliga-database\2024-2025\13122024_KIF_Kolding_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:29,774 - INFO - Holdkoder i kamp: KIF, REH
+2025-03-25 23:10:29,779 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\13122024_KIF_Kolding_vs_Ribe-Esbjerg_HH.db med 24 spillere
+2025-03-25 23:10:29,779 - INFO - Behandler database: Herreliga-database\2024-2025\132025_Skanderborg_AGF_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:29,785 - INFO - Holdkoder i kamp: SAH, AAH
+2025-03-25 23:10:29,790 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\132025_Skanderborg_AGF_vs_Aalborg_Håndbold.db med 25 spillere
+2025-03-25 23:10:29,791 - INFO - Behandler database: Herreliga-database\2024-2025\1392024_Grindsted_GIF,_Håndbold_vs_GOG.db
+2025-03-25 23:10:29,795 - INFO - Holdkoder i kamp: GIF, GOG
+2025-03-25 23:10:29,800 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1392024_Grindsted_GIF,_Håndbold_vs_GOG.db med 26 spillere
+2025-03-25 23:10:29,800 - INFO - Behandler database: Herreliga-database\2024-2025\1392024_Nordsjælland_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:29,805 - INFO - Holdkoder i kamp: NSH, SJE
+2025-03-25 23:10:29,812 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1392024_Nordsjælland_Håndbold_vs_Sønderjyske_Herrehåndbold.db med 26 spillere
+2025-03-25 23:10:29,812 - INFO - Behandler database: Herreliga-database\2024-2025\14102024_Ribe-Esbjerg_HH_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:29,816 - INFO - Holdkoder i kamp: FHK, REH
+2025-03-25 23:10:29,822 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\14102024_Ribe-Esbjerg_HH_vs_Fredericia_Håndbold_Klub.db med 27 spillere
+2025-03-25 23:10:29,822 - INFO - Behandler database: Herreliga-database\2024-2025\14122024_Aalborg_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:29,826 - INFO - Holdkoder i kamp: AAH, FHK
+2025-03-25 23:10:29,832 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\14122024_Aalborg_Håndbold_vs_Fredericia_Håndbold_Klub.db med 27 spillere
+2025-03-25 23:10:29,832 - INFO - Behandler database: Herreliga-database\2024-2025\14122024_Bjerringbro-Silkeborg_vs_TTH_Holstebro.db
+2025-03-25 23:10:29,840 - INFO - Holdkoder i kamp: TTH, BSH
+2025-03-25 23:10:29,847 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\14122024_Bjerringbro-Silkeborg_vs_TTH_Holstebro.db med 31 spillere
+2025-03-25 23:10:29,847 - INFO - Behandler database: Herreliga-database\2024-2025\14122024_Mors-Thy_Håndbold_vs_Skjern_Håndbold.db
+2025-03-25 23:10:29,852 - INFO - Holdkoder i kamp: MTH, SKH
+2025-03-25 23:10:29,859 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\14122024_Mors-Thy_Håndbold_vs_Skjern_Håndbold.db med 26 spillere
+2025-03-25 23:10:29,859 - INFO - Behandler database: Herreliga-database\2024-2025\14122024_Ribe-Esbjerg_HH_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:29,863 - INFO - Holdkoder i kamp: SJE, REH
+2025-03-25 23:10:29,869 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\14122024_Ribe-Esbjerg_HH_vs_Sønderjyske_Herrehåndbold.db med 24 spillere
+2025-03-25 23:10:29,869 - INFO - Behandler database: Herreliga-database\2024-2025\1492024_TMS_Ringsted_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:29,874 - INFO - Holdkoder i kamp: TMS, AAH
+2025-03-25 23:10:29,880 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1492024_TMS_Ringsted_vs_Aalborg_Håndbold.db med 29 spillere
+2025-03-25 23:10:29,880 - INFO - Behandler database: Herreliga-database\2024-2025\15112024_Mors-Thy_Håndbold_vs_Grindsted_GIF.db
+2025-03-25 23:10:29,886 - INFO - Holdkoder i kamp: GIF, MTH
+2025-03-25 23:10:29,891 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\15112024_Mors-Thy_Håndbold_vs_Grindsted_GIF.db med 32 spillere
+2025-03-25 23:10:29,891 - INFO - Behandler database: Herreliga-database\2024-2025\15112024_Ribe-Esbjerg_HH_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:29,897 - INFO - Holdkoder i kamp: SAH, REH
+2025-03-25 23:10:29,902 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\15112024_Ribe-Esbjerg_HH_vs_SAH_–_Skanderborg_AGF.db med 25 spillere
+2025-03-25 23:10:29,903 - INFO - Behandler database: Herreliga-database\2024-2025\15122024_GOG_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:29,908 - INFO - Holdkoder i kamp: GOG, SAH
+2025-03-25 23:10:29,912 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\15122024_GOG_vs_SAH_–_Skanderborg_AGF.db med 25 spillere
+2025-03-25 23:10:29,913 - INFO - Behandler database: Herreliga-database\2024-2025\15122024_Grindsted_GIF,_Håndbold_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:29,917 - INFO - Holdkoder i kamp: GIF, NSH
+2025-03-25 23:10:29,923 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\15122024_Grindsted_GIF,_Håndbold_vs_Nordsjælland_Håndbold.db med 29 spillere
+2025-03-25 23:10:29,923 - INFO - Behandler database: Herreliga-database\2024-2025\15122024_TMS_Ringsted_vs_KIF_Kolding.db
+2025-03-25 23:10:29,929 - INFO - Holdkoder i kamp: TMS, KIF
+2025-03-25 23:10:29,935 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\15122024_TMS_Ringsted_vs_KIF_Kolding.db med 29 spillere
+2025-03-25 23:10:29,936 - INFO - Behandler database: Herreliga-database\2024-2025\1592024_Fredericia_Håndbold_Klub_vs_Skjern_Håndbold.db
+2025-03-25 23:10:29,941 - INFO - Holdkoder i kamp: SKH, FHK
+2025-03-25 23:10:29,946 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1592024_Fredericia_Håndbold_Klub_vs_Skjern_Håndbold.db med 23 spillere
+2025-03-25 23:10:29,946 - INFO - Behandler database: Herreliga-database\2024-2025\16112024_Fredericia_Håndbold_Klub_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:29,951 - INFO - Holdkoder i kamp: FHK, BSH
+2025-03-25 23:10:29,958 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\16112024_Fredericia_Håndbold_Klub_vs_Bjerringbro-Silkeborg.db med 25 spillere
+2025-03-25 23:10:29,958 - INFO - Behandler database: Herreliga-database\2024-2025\16112024_KIF_Kolding_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:29,964 - INFO - Holdkoder i kamp: KIF, AAH
+2025-03-25 23:10:29,968 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\16112024_KIF_Kolding_vs_Aalborg_Håndbold.db med 30 spillere
+2025-03-25 23:10:29,969 - INFO - Behandler database: Herreliga-database\2024-2025\17102024_SAH_–_Skanderborg_AGF_vs_KIF_Kolding.db
+2025-03-25 23:10:29,974 - INFO - Holdkoder i kamp: SAH, KIF
+2025-03-25 23:10:29,980 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\17102024_SAH_–_Skanderborg_AGF_vs_KIF_Kolding.db med 24 spillere
+2025-03-25 23:10:29,981 - INFO - Behandler database: Herreliga-database\2024-2025\17112024_TMS_Ringsted_vs_GOG.db
+2025-03-25 23:10:29,989 - INFO - Holdkoder i kamp: TMS, GOG
+2025-03-25 23:10:29,998 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\17112024_TMS_Ringsted_vs_GOG.db med 25 spillere
+2025-03-25 23:10:29,999 - INFO - Behandler database: Herreliga-database\2024-2025\1792024_SAH_–_Skanderborg_AGF_vs_GOG.db
+2025-03-25 23:10:30,005 - INFO - Holdkoder i kamp: GOG, SAH
+2025-03-25 23:10:30,011 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1792024_SAH_–_Skanderborg_AGF_vs_GOG.db med 24 spillere
+2025-03-25 23:10:30,012 - INFO - Behandler database: Herreliga-database\2024-2025\18102024_Bjerringbro-Silkeborg_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:30,017 - INFO - Holdkoder i kamp: NSH, BSH
+2025-03-25 23:10:30,024 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\18102024_Bjerringbro-Silkeborg_vs_Nordsjælland_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,024 - INFO - Behandler database: Herreliga-database\2024-2025\1822025_Skjern_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:30,030 - INFO - Holdkoder i kamp: SAH, SKH
+2025-03-25 23:10:30,036 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1822025_Skjern_Håndbold_vs_SAH_–_Skanderborg_AGF.db med 24 spillere
+2025-03-25 23:10:30,037 - INFO - Behandler database: Herreliga-database\2024-2025\19102024_GOG_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:30,041 - INFO - Holdkoder i kamp: GOG, SJE
+2025-03-25 23:10:30,046 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\19102024_GOG_vs_Sønderjyske_Herrehåndbold.db med 26 spillere
+2025-03-25 23:10:30,047 - INFO - Behandler database: Herreliga-database\2024-2025\19102024_Mors-Thy_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:30,052 - INFO - Holdkoder i kamp: MTH, REH
+2025-03-25 23:10:30,059 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\19102024_Mors-Thy_Håndbold_vs_Ribe-Esbjerg_HH.db med 27 spillere
+2025-03-25 23:10:30,059 - INFO - Behandler database: Herreliga-database\2024-2025\19102024_TTH_Holstebro_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:30,063 - INFO - Holdkoder i kamp: TTH, AAH
+2025-03-25 23:10:30,069 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\19102024_TTH_Holstebro_vs_Aalborg_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,070 - INFO - Behandler database: Herreliga-database\2024-2025\19112024_Nordsjælland_Håndbold_vs_TTH_Holstebro.db
+2025-03-25 23:10:30,076 - INFO - Holdkoder i kamp: NSH, TTH
+2025-03-25 23:10:30,082 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\19112024_Nordsjælland_Håndbold_vs_TTH_Holstebro.db med 27 spillere
+2025-03-25 23:10:30,083 - INFO - Behandler database: Herreliga-database\2024-2025\19122024_Nordsjælland_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:30,088 - INFO - Holdkoder i kamp: REH, NSH
+2025-03-25 23:10:30,094 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\19122024_Nordsjælland_Håndbold_vs_Ribe-Esbjerg_HH.db med 25 spillere
+2025-03-25 23:10:30,094 - INFO - Behandler database: Herreliga-database\2024-2025\1932025_Grindsted_GIF,_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:30,099 - INFO - Holdkoder i kamp: GIF, FHK
+2025-03-25 23:10:30,104 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1932025_Grindsted_GIF,_Håndbold_vs_Fredericia_Håndbold_Klub.db med 26 spillere
+2025-03-25 23:10:30,104 - INFO - Behandler database: Herreliga-database\2024-2025\1992024_KIF_Kolding_vs_TMS_Ringsted.db
+2025-03-25 23:10:30,108 - INFO - Holdkoder i kamp: KIF, TMS
+2025-03-25 23:10:30,114 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1992024_KIF_Kolding_vs_TMS_Ringsted.db med 28 spillere
+2025-03-25 23:10:30,115 - INFO - Behandler database: Herreliga-database\2024-2025\1992024_TTH_Holstebro_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:30,120 - INFO - Holdkoder i kamp: BSH, TTH
+2025-03-25 23:10:30,127 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\1992024_TTH_Holstebro_vs_Bjerringbro-Silkeborg.db med 26 spillere
+2025-03-25 23:10:30,127 - INFO - Behandler database: Herreliga-database\2024-2025\20102024_Fredericia_Håndbold_Klub_vs_TMS_Ringsted.db
+2025-03-25 23:10:30,131 - INFO - Holdkoder i kamp: FHK, TMS
+2025-03-25 23:10:30,138 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\20102024_Fredericia_Håndbold_Klub_vs_TMS_Ringsted.db med 25 spillere
+2025-03-25 23:10:30,138 - INFO - Behandler database: Herreliga-database\2024-2025\20112024_KIF_Kolding_vs_Grindsted_GIF.db
+2025-03-25 23:10:30,144 - INFO - Holdkoder i kamp: KIF, GIF
+2025-03-25 23:10:30,150 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\20112024_KIF_Kolding_vs_Grindsted_GIF.db med 26 spillere
+2025-03-25 23:10:30,150 - INFO - Behandler database: Herreliga-database\2024-2025\20112024_SAH_–_Skanderborg_AGF_vs_TMS_Ringsted.db
+2025-03-25 23:10:30,155 - INFO - Holdkoder i kamp: TMS, SAH
+2025-03-25 23:10:30,161 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\20112024_SAH_–_Skanderborg_AGF_vs_TMS_Ringsted.db med 26 spillere
+2025-03-25 23:10:30,161 - INFO - Behandler database: Herreliga-database\2024-2025\20122024_KIF_Kolding_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:30,166 - INFO - Holdkoder i kamp: FHK, KIF
+2025-03-25 23:10:30,172 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\20122024_KIF_Kolding_vs_Fredericia_Håndbold_Klub.db med 29 spillere
+2025-03-25 23:10:30,172 - INFO - Behandler database: Herreliga-database\2024-2025\2022025_Ribe-Esbjerg_HH_vs_TMS_Ringsted.db
+2025-03-25 23:10:30,178 - INFO - Holdkoder i kamp: REH, TMS
+2025-03-25 23:10:30,183 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2022025_Ribe-Esbjerg_HH_vs_TMS_Ringsted.db med 30 spillere
+2025-03-25 23:10:30,183 - INFO - Behandler database: Herreliga-database\2024-2025\2022025_Sønderjyske_Herrehåndbold_vs_Mors-Thy_Håndbold.db
+2025-03-25 23:10:30,187 - INFO - Holdkoder i kamp: SJE, MTH
+2025-03-25 23:10:30,193 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2022025_Sønderjyske_Herrehåndbold_vs_Mors-Thy_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,193 - INFO - Behandler database: Herreliga-database\2024-2025\2022025_TTH_Holstebro_vs_Grindsted_GIF.db
+2025-03-25 23:10:30,197 - INFO - Holdkoder i kamp: GIF, TTH
+2025-03-25 23:10:30,204 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2022025_TTH_Holstebro_vs_Grindsted_GIF.db med 32 spillere
+2025-03-25 23:10:30,204 - INFO - Behandler database: Herreliga-database\2024-2025\2032025_Bjerringbro-Silkeborg_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:30,209 - INFO - Holdkoder i kamp: BSH, REH
+2025-03-25 23:10:30,214 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2032025_Bjerringbro-Silkeborg_vs_Ribe-Esbjerg_HH.db med 27 spillere
+2025-03-25 23:10:30,214 - INFO - Behandler database: Herreliga-database\2024-2025\2032025_Skanderborg_AGF_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:30,219 - INFO - Holdkoder i kamp: SAH, SJE
+2025-03-25 23:10:30,224 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2032025_Skanderborg_AGF_vs_Sønderjyske_Herrehåndbold.db med 25 spillere
+2025-03-25 23:10:30,225 - INFO - Behandler database: Herreliga-database\2024-2025\2092024_Nordsjælland_Håndbold_vs_Grindsted_GIF.db
+2025-03-25 23:10:30,230 - INFO - Holdkoder i kamp: GIF, NSH
+2025-03-25 23:10:30,236 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2092024_Nordsjælland_Håndbold_vs_Grindsted_GIF.db med 29 spillere
+2025-03-25 23:10:30,237 - INFO - Behandler database: Herreliga-database\2024-2025\2092024_Skjern_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-25 23:10:30,241 - INFO - Holdkoder i kamp: SKH, MTH
+2025-03-25 23:10:30,247 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2092024_Skjern_Håndbold_vs_Mors-Thy_Håndbold.db med 28 spillere
+2025-03-25 23:10:30,248 - INFO - Behandler database: Herreliga-database\2024-2025\2092024_Sønderjyske_Herrehåndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:30,252 - INFO - Holdkoder i kamp: REH, SJE
+2025-03-25 23:10:30,260 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2092024_Sønderjyske_Herrehåndbold_vs_Ribe-Esbjerg_HH.db med 23 spillere
+2025-03-25 23:10:30,260 - INFO - Behandler database: Herreliga-database\2024-2025\2102024_Aalborg_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:30,265 - INFO - Holdkoder i kamp: BSH, AAH
+2025-03-25 23:10:30,270 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2102024_Aalborg_Håndbold_vs_Bjerringbro-Silkeborg.db med 26 spillere
+2025-03-25 23:10:30,271 - INFO - Behandler database: Herreliga-database\2024-2025\2102024_KIF_Kolding_vs_Mors-Thy_Håndbold.db
+2025-03-25 23:10:30,275 - INFO - Holdkoder i kamp: MTH, KIF
+2025-03-25 23:10:30,283 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2102024_KIF_Kolding_vs_Mors-Thy_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,284 - INFO - Behandler database: Herreliga-database\2024-2025\2102024_Nordsjælland_Håndbold_vs_TMS_Ringsted.db
+2025-03-25 23:10:30,294 - INFO - Holdkoder i kamp: NSH, TMS
+2025-03-25 23:10:30,302 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2102024_Nordsjælland_Håndbold_vs_TMS_Ringsted.db med 26 spillere
+2025-03-25 23:10:30,303 - INFO - Behandler database: Herreliga-database\2024-2025\2102024_Ribe-Esbjerg_HH_vs_Grindsted_GIF.db
+2025-03-25 23:10:30,309 - INFO - Holdkoder i kamp: GIF, REH
+2025-03-25 23:10:30,315 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2102024_Ribe-Esbjerg_HH_vs_Grindsted_GIF.db med 27 spillere
+2025-03-25 23:10:30,316 - INFO - Behandler database: Herreliga-database\2024-2025\2102024_TTH_Holstebro_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:30,322 - INFO - Holdkoder i kamp: SAH, TTH
+2025-03-25 23:10:30,328 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2102024_TTH_Holstebro_vs_SAH_–_Skanderborg_AGF.db med 27 spillere
+2025-03-25 23:10:30,329 - INFO - Behandler database: Herreliga-database\2024-2025\2112024_Skanderborg_AGF_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:30,334 - INFO - Holdkoder i kamp: NSH, SAH
+2025-03-25 23:10:30,342 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2112024_Skanderborg_AGF_vs_Nordsjælland_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,342 - INFO - Behandler database: Herreliga-database\2024-2025\21122024_Aalborg_Håndbold_vs_Mors-Thy_Håndbold.db
+2025-03-25 23:10:30,347 - INFO - Holdkoder i kamp: AAH, MTH
+2025-03-25 23:10:30,354 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\21122024_Aalborg_Håndbold_vs_Mors-Thy_Håndbold.db med 29 spillere
+2025-03-25 23:10:30,355 - INFO - Behandler database: Herreliga-database\2024-2025\21122024_SAH_–_Skanderborg_AGF_vs_Grindsted_GIF.db
+2025-03-25 23:10:30,360 - INFO - Holdkoder i kamp: GIF, SAH
+2025-03-25 23:10:30,365 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\21122024_SAH_–_Skanderborg_AGF_vs_Grindsted_GIF.db med 28 spillere
+2025-03-25 23:10:30,367 - INFO - Behandler database: Herreliga-database\2024-2025\21122024_Skjern_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:30,372 - INFO - Holdkoder i kamp: BSH, SKH
+2025-03-25 23:10:30,377 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\21122024_Skjern_Håndbold_vs_Bjerringbro-Silkeborg.db med 26 spillere
+2025-03-25 23:10:30,378 - INFO - Behandler database: Herreliga-database\2024-2025\21122024_Sønderjyske_Herrehåndbold_vs_TMS_Ringsted.db
+2025-03-25 23:10:30,384 - INFO - Holdkoder i kamp: TMS, SJE
+2025-03-25 23:10:30,390 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\21122024_Sønderjyske_Herrehåndbold_vs_TMS_Ringsted.db med 27 spillere
+2025-03-25 23:10:30,391 - INFO - Behandler database: Herreliga-database\2024-2025\2122025_KIF_Kolding_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:30,396 - INFO - Holdkoder i kamp: BSH, KIF
+2025-03-25 23:10:30,401 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2122025_KIF_Kolding_vs_Bjerringbro-Silkeborg.db med 25 spillere
+2025-03-25 23:10:30,401 - INFO - Behandler database: Herreliga-database\2024-2025\2192024_Fredericia_Håndbold_Klub_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:30,407 - INFO - Holdkoder i kamp: AAH, FHK
+2025-03-25 23:10:30,413 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2192024_Fredericia_Håndbold_Klub_vs_Aalborg_Håndbold.db med 30 spillere
+2025-03-25 23:10:30,414 - INFO - Behandler database: Herreliga-database\2024-2025\22112024_Bjerringbro-Silkeborg_vs_Mors-Thy_Håndbold.db
+2025-03-25 23:10:30,419 - INFO - Holdkoder i kamp: MTH, BSH
+2025-03-25 23:10:30,425 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\22112024_Bjerringbro-Silkeborg_vs_Mors-Thy_Håndbold.db med 27 spillere
+2025-03-25 23:10:30,425 - INFO - Behandler database: Herreliga-database\2024-2025\22122024_TTH_Holstebro_vs_GOG.db
+2025-03-25 23:10:30,430 - INFO - Holdkoder i kamp: TTH, GOG
+2025-03-25 23:10:30,436 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\22122024_TTH_Holstebro_vs_GOG.db med 25 spillere
+2025-03-25 23:10:30,436 - INFO - Behandler database: Herreliga-database\2024-2025\2222025_Aalborg_Håndbold_vs_GOG.db
+2025-03-25 23:10:30,442 - INFO - Holdkoder i kamp: AAH, GOG
+2025-03-25 23:10:30,447 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2222025_Aalborg_Håndbold_vs_GOG.db med 28 spillere
+2025-03-25 23:10:30,447 - INFO - Behandler database: Herreliga-database\2024-2025\2232025_GOG_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:30,452 - INFO - Holdkoder i kamp: GOG, NSH
+2025-03-25 23:10:30,456 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2232025_GOG_vs_Nordsjælland_Håndbold.db med 27 spillere
+2025-03-25 23:10:30,457 - INFO - Behandler database: Herreliga-database\2024-2025\2232025_Mors-Thy_Håndbold_vs_TMS_Ringsted.db
+2025-03-25 23:10:30,461 - INFO - Holdkoder i kamp: TMS, MTH
+2025-03-25 23:10:30,466 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2232025_Mors-Thy_Håndbold_vs_TMS_Ringsted.db med 28 spillere
+2025-03-25 23:10:30,467 - INFO - Behandler database: Herreliga-database\2024-2025\2232025_Skjern_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:30,472 - INFO - Holdkoder i kamp: AAH, SKH
+2025-03-25 23:10:30,477 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2232025_Skjern_Håndbold_vs_Aalborg_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,477 - INFO - Behandler database: Herreliga-database\2024-2025\23102024_Grindsted_GIF,_Håndbold_vs_Skjern_Håndbold.db
+2025-03-25 23:10:30,482 - INFO - Holdkoder i kamp: SKH, GIF
+2025-03-25 23:10:30,487 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\23102024_Grindsted_GIF,_Håndbold_vs_Skjern_Håndbold.db med 28 spillere
+2025-03-25 23:10:30,488 - INFO - Behandler database: Herreliga-database\2024-2025\23102024_KIF_Kolding_vs_TTH_Holstebro.db
+2025-03-25 23:10:30,493 - INFO - Holdkoder i kamp: TTH, KIF
+2025-03-25 23:10:30,498 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\23102024_KIF_Kolding_vs_TTH_Holstebro.db med 25 spillere
+2025-03-25 23:10:30,499 - INFO - Behandler database: Herreliga-database\2024-2025\23112024_Aalborg_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:30,504 - INFO - Holdkoder i kamp: SJE, AAH
+2025-03-25 23:10:30,509 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\23112024_Aalborg_Håndbold_vs_Sønderjyske_Herrehåndbold.db med 26 spillere
+2025-03-25 23:10:30,510 - INFO - Behandler database: Herreliga-database\2024-2025\23112024_GOG_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:30,514 - INFO - Holdkoder i kamp: GOG, FHK
+2025-03-25 23:10:30,520 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\23112024_GOG_vs_Fredericia_Håndbold_Klub.db med 23 spillere
+2025-03-25 23:10:30,521 - INFO - Behandler database: Herreliga-database\2024-2025\23112024_Skjern_Håndbold_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:30,526 - INFO - Holdkoder i kamp: NSH, SKH
+2025-03-25 23:10:30,532 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\23112024_Skjern_Håndbold_vs_Nordsjælland_Håndbold.db med 28 spillere
+2025-03-25 23:10:30,532 - INFO - Behandler database: Herreliga-database\2024-2025\232025_Fredericia_Håndbold_Klub_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:30,538 - INFO - Holdkoder i kamp: FHK, REH
+2025-03-25 23:10:30,543 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\232025_Fredericia_Håndbold_Klub_vs_Ribe-Esbjerg_HH.db med 26 spillere
+2025-03-25 23:10:30,544 - INFO - Behandler database: Herreliga-database\2024-2025\2322025_Nordsjælland_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:30,548 - INFO - Holdkoder i kamp: FHK, NSH
+2025-03-25 23:10:30,555 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2322025_Nordsjælland_Håndbold_vs_Fredericia_Håndbold_Klub.db med 26 spillere
+2025-03-25 23:10:30,555 - INFO - Behandler database: Herreliga-database\2024-2025\24112024_TTH_Holstebro_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:30,560 - INFO - Holdkoder i kamp: TTH, REH
+2025-03-25 23:10:30,566 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\24112024_TTH_Holstebro_vs_Ribe-Esbjerg_HH.db med 27 spillere
+2025-03-25 23:10:30,567 - INFO - Behandler database: Herreliga-database\2024-2025\2492024_TMS_Ringsted_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:30,572 - INFO - Holdkoder i kamp: TMS, SJE
+2025-03-25 23:10:30,579 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2492024_TMS_Ringsted_vs_Sønderjyske_Herrehåndbold.db med 25 spillere
+2025-03-25 23:10:30,580 - INFO - Behandler database: Herreliga-database\2024-2025\25102024_Nordsjælland_Håndbold_vs_GOG.db
+2025-03-25 23:10:30,585 - INFO - Holdkoder i kamp: NSH, GOG
+2025-03-25 23:10:30,590 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\25102024_Nordsjælland_Håndbold_vs_GOG.db med 26 spillere
+2025-03-25 23:10:30,591 - INFO - Behandler database: Herreliga-database\2024-2025\25102024_Ribe-Esbjerg_HH_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:30,597 - INFO - Holdkoder i kamp: BSH, REH
+2025-03-25 23:10:30,602 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\25102024_Ribe-Esbjerg_HH_vs_Bjerringbro-Silkeborg.db med 27 spillere
+2025-03-25 23:10:30,603 - INFO - Behandler database: Herreliga-database\2024-2025\2592024_Ribe-Esbjerg_HH_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:30,608 - INFO - Holdkoder i kamp: REH, NSH
+2025-03-25 23:10:30,614 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2592024_Ribe-Esbjerg_HH_vs_Nordsjælland_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,615 - INFO - Behandler database: Herreliga-database\2024-2025\26102024_Sønderjyske_Herrehåndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:30,620 - INFO - Holdkoder i kamp: SJE, SAH
+2025-03-25 23:10:30,625 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\26102024_Sønderjyske_Herrehåndbold_vs_SAH_–_Skanderborg_AGF.db med 28 spillere
+2025-03-25 23:10:30,626 - INFO - Behandler database: Herreliga-database\2024-2025\26102024_TMS_Ringsted_vs_Mors-Thy_Håndbold.db
+2025-03-25 23:10:30,632 - INFO - Holdkoder i kamp: TMS, MTH
+2025-03-25 23:10:30,639 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\26102024_TMS_Ringsted_vs_Mors-Thy_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,639 - INFO - Behandler database: Herreliga-database\2024-2025\2692024_Grindsted_GIF,_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:30,645 - INFO - Holdkoder i kamp: SAH, GIF
+2025-03-25 23:10:30,652 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2692024_Grindsted_GIF,_Håndbold_vs_SAH_–_Skanderborg_AGF.db med 28 spillere
+2025-03-25 23:10:30,652 - INFO - Behandler database: Herreliga-database\2024-2025\27112024_Sønderjyske_Herrehåndbold_vs_KIF_Kolding.db
+2025-03-25 23:10:30,657 - INFO - Holdkoder i kamp: KIF, SJE
+2025-03-25 23:10:30,663 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\27112024_Sønderjyske_Herrehåndbold_vs_KIF_Kolding.db med 25 spillere
+2025-03-25 23:10:30,663 - INFO - Behandler database: Herreliga-database\2024-2025\2722025_Bjerringbro-Silkeborg_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:30,668 - INFO - Holdkoder i kamp: SJE, BSH
+2025-03-25 23:10:30,673 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2722025_Bjerringbro-Silkeborg_vs_Sønderjyske_Herrehåndbold.db med 28 spillere
+2025-03-25 23:10:30,673 - INFO - Behandler database: Herreliga-database\2024-2025\2722025_Grindsted_GIF,_Håndbold_vs_TMS_Ringsted.db
+2025-03-25 23:10:30,679 - INFO - Holdkoder i kamp: TMS, GIF
+2025-03-25 23:10:30,684 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2722025_Grindsted_GIF,_Håndbold_vs_TMS_Ringsted.db med 26 spillere
+2025-03-25 23:10:30,685 - INFO - Behandler database: Herreliga-database\2024-2025\2722025_TTH_Holstebro_vs_Skjern_Håndbold.db
+2025-03-25 23:10:30,690 - INFO - Holdkoder i kamp: TTH, SKH
+2025-03-25 23:10:30,695 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2722025_TTH_Holstebro_vs_Skjern_Håndbold.db med 25 spillere
+2025-03-25 23:10:30,696 - INFO - Behandler database: Herreliga-database\2024-2025\2792024_GOG_vs_TTH_Holstebro.db
+2025-03-25 23:10:30,700 - INFO - Holdkoder i kamp: TTH, GOG
+2025-03-25 23:10:30,706 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2792024_GOG_vs_TTH_Holstebro.db med 24 spillere
+2025-03-25 23:10:30,706 - INFO - Behandler database: Herreliga-database\2024-2025\28102024_Aalborg_Håndbold_vs_Skjern_Håndbold.db
+2025-03-25 23:10:30,710 - INFO - Holdkoder i kamp: SKH, AAH
+2025-03-25 23:10:30,715 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\28102024_Aalborg_Håndbold_vs_Skjern_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,716 - INFO - Behandler database: Herreliga-database\2024-2025\28102024_Fredericia_Håndbold_Klub_vs_Grindsted_GIF,_Håndbold.db
+2025-03-25 23:10:30,722 - INFO - Holdkoder i kamp: FHK, GIF
+2025-03-25 23:10:30,727 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\28102024_Fredericia_Håndbold_Klub_vs_Grindsted_GIF,_Håndbold.db med 30 spillere
+2025-03-25 23:10:30,729 - INFO - Behandler database: Herreliga-database\2024-2025\28112024_Ribe-Esbjerg_HH_vs_Skjern_Håndbold.db
+2025-03-25 23:10:30,733 - INFO - Holdkoder i kamp: REH, SKH
+2025-03-25 23:10:30,740 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\28112024_Ribe-Esbjerg_HH_vs_Skjern_Håndbold.db med 21 spillere
+2025-03-25 23:10:30,740 - INFO - Behandler database: Herreliga-database\2024-2025\2822025_GOG_vs_KIF_Kolding.db
+2025-03-25 23:10:30,745 - INFO - Holdkoder i kamp: GOG, KIF
+2025-03-25 23:10:30,750 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2822025_GOG_vs_KIF_Kolding.db med 27 spillere
+2025-03-25 23:10:30,751 - INFO - Behandler database: Herreliga-database\2024-2025\2822025_Mors-Thy_Håndbold_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:30,756 - INFO - Holdkoder i kamp: MTH, NSH
+2025-03-25 23:10:30,762 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2822025_Mors-Thy_Håndbold_vs_Nordsjælland_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,762 - INFO - Behandler database: Herreliga-database\2024-2025\2892024_Bjerringbro-Silkeborg_vs_Skjern_Håndbold.db
+2025-03-25 23:10:30,767 - INFO - Holdkoder i kamp: SKH, BSH
+2025-03-25 23:10:30,773 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2892024_Bjerringbro-Silkeborg_vs_Skjern_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,773 - INFO - Behandler database: Herreliga-database\2024-2025\29102024_Skjern_Håndbold_vs_KIF_Kolding.db
+2025-03-25 23:10:30,778 - INFO - Holdkoder i kamp: KIF, SKH
+2025-03-25 23:10:30,782 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\29102024_Skjern_Håndbold_vs_KIF_Kolding.db med 30 spillere
+2025-03-25 23:10:30,783 - INFO - Behandler database: Herreliga-database\2024-2025\29112024_Mors-Thy_Håndbold_vs_GOG.db
+2025-03-25 23:10:30,788 - INFO - Holdkoder i kamp: GOG, MTH
+2025-03-25 23:10:30,793 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\29112024_Mors-Thy_Håndbold_vs_GOG.db med 28 spillere
+2025-03-25 23:10:30,794 - INFO - Behandler database: Herreliga-database\2024-2025\2992024_Fredericia_Håndbold_Klub_vs_KIF_Kolding.db
+2025-03-25 23:10:30,797 - INFO - Holdkoder i kamp: FHK, KIF
+2025-03-25 23:10:30,805 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2992024_Fredericia_Håndbold_Klub_vs_KIF_Kolding.db med 23 spillere
+2025-03-25 23:10:30,805 - INFO - Behandler database: Herreliga-database\2024-2025\2992024_Mors-Thy_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:30,810 - INFO - Holdkoder i kamp: AAH, MTH
+2025-03-25 23:10:30,815 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\2992024_Mors-Thy_Håndbold_vs_Aalborg_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,816 - INFO - Behandler database: Herreliga-database\2024-2025\3102024_Sønderjyske_Herrehåndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:30,821 - INFO - Holdkoder i kamp: FHK, SJE
+2025-03-25 23:10:30,827 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\3102024_Sønderjyske_Herrehåndbold_vs_Fredericia_Håndbold_Klub.db med 24 spillere
+2025-03-25 23:10:30,828 - INFO - Behandler database: Herreliga-database\2024-2025\31102024_TTH_Holstebro_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:30,831 - INFO - Holdkoder i kamp: SJE, TTH
+2025-03-25 23:10:30,837 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\31102024_TTH_Holstebro_vs_Sønderjyske_Herrehåndbold.db med 25 spillere
+2025-03-25 23:10:30,837 - INFO - Behandler database: Herreliga-database\2024-2025\3112024_Grindsted_GIF,_Håndbold_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:30,845 - INFO - Holdkoder i kamp: GIF, AAH
+2025-03-25 23:10:30,850 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\3112024_Grindsted_GIF,_Håndbold_vs_Aalborg_Håndbold.db med 26 spillere
+2025-03-25 23:10:30,850 - INFO - Behandler database: Herreliga-database\2024-2025\3112024_Mors-Thy_Håndbold_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:30,856 - INFO - Holdkoder i kamp: MTH, FHK
+2025-03-25 23:10:30,863 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\3112024_Mors-Thy_Håndbold_vs_Fredericia_Håndbold_Klub.db med 27 spillere
+2025-03-25 23:10:30,864 - INFO - Behandler database: Herreliga-database\2024-2025\392024_GOG_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:30,869 - INFO - Holdkoder i kamp: BSH, GOG, 
+2025-03-25 23:10:30,875 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\392024_GOG_vs_Bjerringbro-Silkeborg.db med 24 spillere
+2025-03-25 23:10:30,876 - INFO - Behandler database: Herreliga-database\2024-2025\4112024_Bjerringbro-Silkeborg_vs_KIF_Kolding.db
+2025-03-25 23:10:30,883 - INFO - Holdkoder i kamp: KIF, BSH
+2025-03-25 23:10:30,890 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\4112024_Bjerringbro-Silkeborg_vs_KIF_Kolding.db med 26 spillere
+2025-03-25 23:10:30,891 - INFO - Behandler database: Herreliga-database\2024-2025\4112024_Bjerringbro-Silkeborg_vs_TMS_Ringsted.db
+2025-03-25 23:10:30,896 - INFO - Holdkoder i kamp: TMS, BSH
+2025-03-25 23:10:30,903 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\4112024_Bjerringbro-Silkeborg_vs_TMS_Ringsted.db med 28 spillere
+2025-03-25 23:10:30,903 - INFO - Behandler database: Herreliga-database\2024-2025\4112024_Fredericia_Håndbold_Klub_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:30,909 - INFO - Holdkoder i kamp: FHK, NSH, Halvleg, Start 2:e halvleg
+2025-03-25 23:10:30,913 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\4112024_Fredericia_Håndbold_Klub_vs_Nordsjælland_Håndbold.db med 28 spillere
+2025-03-25 23:10:30,914 - INFO - Behandler database: Herreliga-database\2024-2025\4112024_GOG_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:30,920 - INFO - Holdkoder i kamp: AAH, GOG
+2025-03-25 23:10:30,926 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\4112024_GOG_vs_Aalborg_Håndbold.db med 28 spillere
+2025-03-25 23:10:30,927 - INFO - Behandler database: Herreliga-database\2024-2025\4112024_Grindsted_GIF,_Håndbold_vs_TTH_Holstebro.db
+2025-03-25 23:10:30,932 - INFO - Holdkoder i kamp: GIF, TTH
+2025-03-25 23:10:30,938 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\4112024_Grindsted_GIF,_Håndbold_vs_TTH_Holstebro.db med 27 spillere
+2025-03-25 23:10:30,939 - INFO - Behandler database: Herreliga-database\2024-2025\4112024_Mors-Thy_Håndbold_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:30,942 - INFO - Holdkoder i kamp: MTH, SJE
+2025-03-25 23:10:30,949 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\4112024_Mors-Thy_Håndbold_vs_Sønderjyske_Herrehåndbold.db med 28 spillere
+2025-03-25 23:10:30,950 - INFO - Behandler database: Herreliga-database\2024-2025\4112024_TMS_Ringsted_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:30,954 - INFO - Holdkoder i kamp: TMS, REH
+2025-03-25 23:10:30,959 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\4112024_TMS_Ringsted_vs_Ribe-Esbjerg_HH.db med 27 spillere
+2025-03-25 23:10:30,960 - INFO - Behandler database: Herreliga-database\2024-2025\4122024_Bjerringbro-Silkeborg_vs_GOG.db
+2025-03-25 23:10:30,968 - INFO - Holdkoder i kamp: BSH, GOG
+2025-03-25 23:10:30,974 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\4122024_Bjerringbro-Silkeborg_vs_GOG.db med 24 spillere
+2025-03-25 23:10:30,975 - INFO - Behandler database: Herreliga-database\2024-2025\4122024_TMS_Ringsted_vs_TTH_Holstebro.db
+2025-03-25 23:10:30,980 - INFO - Holdkoder i kamp: TTH, TMS
+2025-03-25 23:10:30,986 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\4122024_TMS_Ringsted_vs_TTH_Holstebro.db med 27 spillere
+2025-03-25 23:10:30,986 - INFO - Behandler database: Herreliga-database\2024-2025\432025_Nordsjælland_Håndbold_vs_Bjerringbro-Silkeborg.db
+2025-03-25 23:10:30,991 - INFO - Holdkoder i kamp: BSH, NSH
+2025-03-25 23:10:30,997 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\432025_Nordsjælland_Håndbold_vs_Bjerringbro-Silkeborg.db med 24 spillere
+2025-03-25 23:10:30,997 - INFO - Behandler database: Herreliga-database\2024-2025\492024_SAH_–_Skanderborg_AGF_vs_Mors-Thy_Håndbold.db
+2025-03-25 23:10:31,002 - INFO - Holdkoder i kamp: MTH, SAH
+2025-03-25 23:10:31,008 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\492024_SAH_–_Skanderborg_AGF_vs_Mors-Thy_Håndbold.db med 22 spillere
+2025-03-25 23:10:31,008 - INFO - Behandler database: Herreliga-database\2024-2025\532025_KIF_Kolding_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:31,013 - INFO - Holdkoder i kamp: SAH, KIF
+2025-03-25 23:10:31,020 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\532025_KIF_Kolding_vs_SAH_–_Skanderborg_AGF.db med 24 spillere
+2025-03-25 23:10:31,021 - INFO - Behandler database: Herreliga-database\2024-2025\592024_KIF_Kolding_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:31,025 - INFO - Holdkoder i kamp: KIF, NSH
+2025-03-25 23:10:31,030 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\592024_KIF_Kolding_vs_Nordsjælland_Håndbold.db med 27 spillere
+2025-03-25 23:10:31,031 - INFO - Behandler database: Herreliga-database\2024-2025\592024_Sønderjyske_Herrehåndbold_vs_Grindsted_GIF.db
+2025-03-25 23:10:31,036 - INFO - Holdkoder i kamp: SJE, GIF
+2025-03-25 23:10:31,041 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\592024_Sønderjyske_Herrehåndbold_vs_Grindsted_GIF.db med 30 spillere
+2025-03-25 23:10:31,041 - INFO - Behandler database: Herreliga-database\2024-2025\6102024_SAH_–_Skanderborg_AGF_vs_Skjern_Håndbold.db
+2025-03-25 23:10:31,047 - INFO - Holdkoder i kamp: SAH, SKH
+2025-03-25 23:10:31,056 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\6102024_SAH_–_Skanderborg_AGF_vs_Skjern_Håndbold.db med 23 spillere
+2025-03-25 23:10:31,056 - INFO - Behandler database: Herreliga-database\2024-2025\622025_TMS_Ringsted_vs_Nordsjælland_Håndbold.db
+2025-03-25 23:10:31,063 - INFO - Holdkoder i kamp: NSH, TMS
+2025-03-25 23:10:31,068 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\622025_TMS_Ringsted_vs_Nordsjælland_Håndbold.db med 25 spillere
+2025-03-25 23:10:31,069 - INFO - Behandler database: Herreliga-database\2024-2025\632025_Ribe-Esbjerg_HH_vs_Mors-Thy_Håndbold.db
+2025-03-25 23:10:31,075 - INFO - Holdkoder i kamp: MTH, REH
+2025-03-25 23:10:31,081 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\632025_Ribe-Esbjerg_HH_vs_Mors-Thy_Håndbold.db med 27 spillere
+2025-03-25 23:10:31,081 - INFO - Behandler database: Herreliga-database\2024-2025\632025_Skjern_Håndbold_vs_Grindsted_GIF.db
+2025-03-25 23:10:31,087 - INFO - Holdkoder i kamp: GIF, SKH
+2025-03-25 23:10:31,093 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\632025_Skjern_Håndbold_vs_Grindsted_GIF.db med 27 spillere
+2025-03-25 23:10:31,093 - INFO - Behandler database: Herreliga-database\2024-2025\692024_TTH_Holstebro_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:31,098 - INFO - Holdkoder i kamp: FHK, TTH
+2025-03-25 23:10:31,104 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\692024_TTH_Holstebro_vs_Fredericia_Håndbold_Klub.db med 29 spillere
+2025-03-25 23:10:31,104 - INFO - Behandler database: Herreliga-database\2024-2025\7122024_Fredericia_Håndbold_Klub_vs_TTH_Holstebro.db
+2025-03-25 23:10:31,110 - INFO - Holdkoder i kamp: FHK, TTH
+2025-03-25 23:10:31,114 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\7122024_Fredericia_Håndbold_Klub_vs_TTH_Holstebro.db med 29 spillere
+2025-03-25 23:10:31,114 - INFO - Behandler database: Herreliga-database\2024-2025\7122024_Mors-Thy_Håndbold_vs_SAH_–_Skanderborg_AGF.db
+2025-03-25 23:10:31,120 - INFO - Holdkoder i kamp: SAH, MTH
+2025-03-25 23:10:31,124 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\7122024_Mors-Thy_Håndbold_vs_SAH_–_Skanderborg_AGF.db med 27 spillere
+2025-03-25 23:10:31,126 - INFO - Behandler database: Herreliga-database\2024-2025\7122024_Nordsjælland_Håndbold_vs_KIF_Kolding.db
+2025-03-25 23:10:31,130 - INFO - Holdkoder i kamp: NSH, KIF
+2025-03-25 23:10:31,135 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\7122024_Nordsjælland_Håndbold_vs_KIF_Kolding.db med 28 spillere
+2025-03-25 23:10:31,136 - INFO - Behandler database: Herreliga-database\2024-2025\7122024_TMS_Ringsted_vs_Skjern_Håndbold.db
+2025-03-25 23:10:31,142 - INFO - Holdkoder i kamp: TMS, SKH
+2025-03-25 23:10:31,149 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\7122024_TMS_Ringsted_vs_Skjern_Håndbold.db med 28 spillere
+2025-03-25 23:10:31,149 - INFO - Behandler database: Herreliga-database\2024-2025\722025_Fredericia_Håndbold_Klub_vs_Sønderjyske_Herrehåndbold.db
+2025-03-25 23:10:31,155 - INFO - Holdkoder i kamp: FHK, SJE
+2025-03-25 23:10:31,159 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\722025_Fredericia_Håndbold_Klub_vs_Sønderjyske_Herrehåndbold.db med 25 spillere
+2025-03-25 23:10:31,160 - INFO - Behandler database: Herreliga-database\2024-2025\722025_Skanderborg_AGF_vs_TTH_Holstebro.db
+2025-03-25 23:10:31,166 - INFO - Holdkoder i kamp: TTH, SAH
+2025-03-25 23:10:31,171 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\722025_Skanderborg_AGF_vs_TTH_Holstebro.db med 32 spillere
+2025-03-25 23:10:31,171 - INFO - Behandler database: Herreliga-database\2024-2025\792024_Aalborg_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:31,177 - INFO - Holdkoder i kamp: REH, AAH
+2025-03-25 23:10:31,183 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\792024_Aalborg_Håndbold_vs_Ribe-Esbjerg_HH.db med 24 spillere
+2025-03-25 23:10:31,183 - INFO - Behandler database: Herreliga-database\2024-2025\822025_Bjerringbro-Silkeborg_vs_Aalborg_Håndbold.db
+2025-03-25 23:10:31,188 - INFO - Holdkoder i kamp: AAH, BSH
+2025-03-25 23:10:31,195 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\822025_Bjerringbro-Silkeborg_vs_Aalborg_Håndbold.db med 26 spillere
+2025-03-25 23:10:31,195 - INFO - Behandler database: Herreliga-database\2024-2025\822025_GOG_vs_Skjern_Håndbold.db
+2025-03-25 23:10:31,200 - INFO - Holdkoder i kamp: GOG, SKH
+2025-03-25 23:10:31,205 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\822025_GOG_vs_Skjern_Håndbold.db med 24 spillere
+2025-03-25 23:10:31,206 - INFO - Behandler database: Herreliga-database\2024-2025\822025_Grindsted_GIF,_Håndbold_vs_Ribe-Esbjerg_HH.db
+2025-03-25 23:10:31,210 - WARNING - Kunne ikke finde holdkoder i Herreliga-database\2024-2025\822025_Grindsted_GIF,_Håndbold_vs_Ribe-Esbjerg_HH.db, springer over
+2025-03-25 23:10:31,210 - INFO - Behandler database: Herreliga-database\2024-2025\832025_Aalborg_Håndbold_vs_TTH_Holstebro.db
+2025-03-25 23:10:31,215 - INFO - Holdkoder i kamp: AAH, TTH
+2025-03-25 23:10:31,220 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\832025_Aalborg_Håndbold_vs_TTH_Holstebro.db med 28 spillere
+2025-03-25 23:10:31,221 - INFO - Behandler database: Herreliga-database\2024-2025\832025_Sønderjyske_Herrehåndbold_vs_GOG.db
+2025-03-25 23:10:31,229 - INFO - Holdkoder i kamp: SJE, GOG
+2025-03-25 23:10:31,235 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\832025_Sønderjyske_Herrehåndbold_vs_GOG.db med 24 spillere
+2025-03-25 23:10:31,235 - INFO - Behandler database: Herreliga-database\2024-2025\922025_Mors-Thy_Håndbold_vs_KIF_Kolding.db
+2025-03-25 23:10:31,240 - INFO - Holdkoder i kamp: MTH, KIF
+2025-03-25 23:10:31,246 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\922025_Mors-Thy_Håndbold_vs_KIF_Kolding.db med 27 spillere
+2025-03-25 23:10:31,247 - INFO - Behandler database: Herreliga-database\2024-2025\932025_TMS_Ringsted_vs_Fredericia_Håndbold_Klub.db
+2025-03-25 23:10:31,251 - INFO - Holdkoder i kamp: TMS, FHK
+2025-03-25 23:10:31,257 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\932025_TMS_Ringsted_vs_Fredericia_Håndbold_Klub.db med 27 spillere
+2025-03-25 23:10:31,258 - INFO - Behandler database: Herreliga-database\2024-2025\992024_Skjern_Håndbold_vs_TMS_Ringsted.db
+2025-03-25 23:10:31,263 - INFO - Holdkoder i kamp: TMS, SKH
+2025-03-25 23:10:31,268 - INFO - Oprettet players_team tabel i Herreliga-database\2024-2025\992024_Skjern_Håndbold_vs_TMS_Ringsted.db med 27 spillere
+2025-03-25 23:10:31,268 - INFO - Behandler database: Kvindeliga-database\kvindeliga_central.db
+2025-03-25 23:10:31,274 - ERROR - Fejl ved behandling af Kvindeliga-database\kvindeliga_central.db: no such table: match_events
+2025-03-25 23:10:31,274 - INFO - Behandler database: Kvindeliga-database\2024-2025\1012025_Silkeborg-Voel_KFUM_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:31,279 - INFO - Holdkoder i kamp: SVK, HHE
+2025-03-25 23:10:31,285 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1012025_Silkeborg-Voel_KFUM_vs_Horsens_Håndbold_Elite.db med 23 spillere
+2025-03-25 23:10:31,285 - INFO - Behandler database: Kvindeliga-database\2024-2025\1092024_Ikast_Håndbold_vs_Viborg_HK.db
+2025-03-25 23:10:31,289 - INFO - Holdkoder i kamp: IKA, VHK
+2025-03-25 23:10:31,294 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1092024_Ikast_Håndbold_vs_Viborg_HK.db med 26 spillere
+2025-03-25 23:10:31,295 - INFO - Behandler database: Kvindeliga-database\2024-2025\11102024_Ringkøbing_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:31,299 - INFO - Holdkoder i kamp: SJE, RIN
+2025-03-25 23:10:31,307 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\11102024_Ringkøbing_Håndbold_vs_SønderjyskE_Kvindehåndbold.db med 24 spillere
+2025-03-25 23:10:31,307 - INFO - Behandler database: Kvindeliga-database\2024-2025\1112025_Viborg_HK_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:31,313 - INFO - Holdkoder i kamp: VHK, SKB
+2025-03-25 23:10:31,318 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1112025_Viborg_HK_vs_Skanderborg_Håndbold.db med 23 spillere
+2025-03-25 23:10:31,319 - INFO - Behandler database: Kvindeliga-database\2024-2025\1192024_Horsens_Håndbold_Elite_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:31,323 - INFO - Holdkoder i kamp: RIN, HHE
+2025-03-25 23:10:31,329 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1192024_Horsens_Håndbold_Elite_vs_Ringkøbing_Håndbold.db med 24 spillere
+2025-03-25 23:10:31,329 - INFO - Behandler database: Kvindeliga-database\2024-2025\1192024_Nykøbing_F._Håndbold_vs_Odense_Håndbold.db
+2025-03-25 23:10:31,334 - INFO - Holdkoder i kamp: ODE, NFH, Halvleg, Start 2:e halvleg
+2025-03-25 23:10:31,339 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1192024_Nykøbing_F._Håndbold_vs_Odense_Håndbold.db med 27 spillere
+2025-03-25 23:10:31,340 - INFO - Behandler database: Kvindeliga-database\2024-2025\1192024_Team_Esbjerg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:31,345 - INFO - Holdkoder i kamp: AHB, TES
+2025-03-25 23:10:31,351 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1192024_Team_Esbjerg_vs_Aarhus_Håndbold_Kvinder.db med 27 spillere
+2025-03-25 23:10:31,351 - INFO - Behandler database: Kvindeliga-database\2024-2025\12102024_Horsens_Håndbold_Elite_vs_EH_Aalborg.db
+2025-03-25 23:10:31,356 - INFO - Holdkoder i kamp: HHE, EHA
+2025-03-25 23:10:31,361 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\12102024_Horsens_Håndbold_Elite_vs_EH_Aalborg.db med 23 spillere
+2025-03-25 23:10:31,362 - INFO - Behandler database: Kvindeliga-database\2024-2025\12112024_Aarhus_Håndbold_Kvinder_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:31,367 - INFO - Holdkoder i kamp: SVK, AHB
+2025-03-25 23:10:31,372 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\12112024_Aarhus_Håndbold_Kvinder_vs_Silkeborg-Voel_KFUM.db med 26 spillere
+2025-03-25 23:10:31,373 - INFO - Behandler database: Kvindeliga-database\2024-2025\12112024_Bjerringbro_FH_vs_Odense_Håndbold.db
+2025-03-25 23:10:31,378 - INFO - Holdkoder i kamp: ODE, BFH
+2025-03-25 23:10:31,384 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\12112024_Bjerringbro_FH_vs_Odense_Håndbold.db med 26 spillere
+2025-03-25 23:10:31,385 - INFO - Behandler database: Kvindeliga-database\2024-2025\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:31,392 - INFO - Holdkoder i kamp: AHB, EHA
+2025-03-25 23:10:31,398 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db med 25 spillere
+2025-03-25 23:10:31,398 - INFO - Behandler database: Kvindeliga-database\2024-2025\12112024_Horsens_Håndbold_Elite_vs_Ikast_Håndbold.db
+2025-03-25 23:10:31,405 - INFO - Holdkoder i kamp: HHE, IKA
+2025-03-25 23:10:31,410 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\12112024_Horsens_Håndbold_Elite_vs_Ikast_Håndbold.db med 29 spillere
+2025-03-25 23:10:31,411 - INFO - Behandler database: Kvindeliga-database\2024-2025\12112024_Horsens_Håndbold_Elite_vs_Team_Esbjerg.db
+2025-03-25 23:10:31,416 - INFO - Holdkoder i kamp: TES, HHE
+2025-03-25 23:10:31,421 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\12112024_Horsens_Håndbold_Elite_vs_Team_Esbjerg.db med 25 spillere
+2025-03-25 23:10:31,421 - INFO - Behandler database: Kvindeliga-database\2024-2025\12112024_Ikast_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:31,427 - INFO - Holdkoder i kamp: NFH, IKA
+2025-03-25 23:10:31,431 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\12112024_Ikast_Håndbold_vs_Nykøbing_F._Håndbold.db med 22 spillere
+2025-03-25 23:10:31,431 - INFO - Behandler database: Kvindeliga-database\2024-2025\12112024_Nykøbing_F._Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:31,437 - INFO - Holdkoder i kamp: SJE, NFH
+2025-03-25 23:10:31,442 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\12112024_Nykøbing_F._Håndbold_vs_SønderjyskE_Kvindehåndbold.db med 23 spillere
+2025-03-25 23:10:31,443 - INFO - Behandler database: Kvindeliga-database\2024-2025\12112024_Silkeborg-Voel_KFUM_vs_København_Håndbold.db
+2025-03-25 23:10:31,447 - INFO - Holdkoder i kamp: KBH, SVK
+2025-03-25 23:10:31,451 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\12112024_Silkeborg-Voel_KFUM_vs_København_Håndbold.db med 24 spillere
+2025-03-25 23:10:31,453 - INFO - Behandler database: Kvindeliga-database\2024-2025\12112024_Skanderborg_Håndbold_vs_EH_Aalborg.db
+2025-03-25 23:10:31,457 - INFO - Holdkoder i kamp: SKB, EHA
+2025-03-25 23:10:31,463 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\12112024_Skanderborg_Håndbold_vs_EH_Aalborg.db med 27 spillere
+2025-03-25 23:10:31,463 - INFO - Behandler database: Kvindeliga-database\2024-2025\1212025_Ringkøbing_Håndbold_vs_EH_Aalborg.db
+2025-03-25 23:10:31,470 - INFO - Holdkoder i kamp: RIN, EHA
+2025-03-25 23:10:31,478 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1212025_Ringkøbing_Håndbold_vs_EH_Aalborg.db med 26 spillere
+2025-03-25 23:10:31,478 - INFO - Behandler database: Kvindeliga-database\2024-2025\122025_Bjerringbro_FH_vs_Viborg_HK.db
+2025-03-25 23:10:31,483 - INFO - Holdkoder i kamp: VHK, BFH
+2025-03-25 23:10:31,489 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\122025_Bjerringbro_FH_vs_Viborg_HK.db med 28 spillere
+2025-03-25 23:10:31,490 - INFO - Behandler database: Kvindeliga-database\2024-2025\122025_EH_Aalborg_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:31,494 - INFO - Holdkoder i kamp: NFH, EHA
+2025-03-25 23:10:31,499 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\122025_EH_Aalborg_vs_Nykøbing_F._Håndbold.db med 25 spillere
+2025-03-25 23:10:31,500 - INFO - Behandler database: Kvindeliga-database\2024-2025\122025_Ikast_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:31,506 - INFO - Holdkoder i kamp: IKA, SVK
+2025-03-25 23:10:31,511 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\122025_Ikast_Håndbold_vs_Silkeborg-Voel_KFUM.db med 26 spillere
+2025-03-25 23:10:31,511 - INFO - Behandler database: Kvindeliga-database\2024-2025\122025_Team_Esbjerg_vs_København_Håndbold.db
+2025-03-25 23:10:31,517 - INFO - Holdkoder i kamp: TES, KBH
+2025-03-25 23:10:31,523 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\122025_Team_Esbjerg_vs_København_Håndbold.db med 27 spillere
+2025-03-25 23:10:31,523 - INFO - Behandler database: Kvindeliga-database\2024-2025\1222025_Ikast_Håndbold_vs_København_Håndbold.db
+2025-03-25 23:10:31,527 - INFO - Holdkoder i kamp: KBH, IKA
+2025-03-25 23:10:31,532 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1222025_Ikast_Håndbold_vs_København_Håndbold.db med 21 spillere
+2025-03-25 23:10:31,533 - INFO - Behandler database: Kvindeliga-database\2024-2025\1222025_Skanderborg_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:31,537 - INFO - Holdkoder i kamp: NFH, SKB
+2025-03-25 23:10:31,542 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1222025_Skanderborg_Håndbold_vs_Nykøbing_F._Håndbold.db med 26 spillere
+2025-03-25 23:10:31,543 - INFO - Behandler database: Kvindeliga-database\2024-2025\1222025_Team_Esbjerg_vs_Odense_Håndbold.db
+2025-03-25 23:10:31,547 - INFO - Holdkoder i kamp: ODE, TES
+2025-03-25 23:10:31,553 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1222025_Team_Esbjerg_vs_Odense_Håndbold.db med 26 spillere
+2025-03-25 23:10:31,553 - INFO - Behandler database: Kvindeliga-database\2024-2025\13112024_Ringkøbing_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:31,560 - INFO - Holdkoder i kamp: RIN, SVK
+2025-03-25 23:10:31,565 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\13112024_Ringkøbing_Håndbold_vs_Silkeborg-Voel_KFUM.db med 27 spillere
+2025-03-25 23:10:31,566 - INFO - Behandler database: Kvindeliga-database\2024-2025\13112024_Skanderborg_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:31,571 - INFO - Holdkoder i kamp: SKB, SJE
+2025-03-25 23:10:31,577 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\13112024_Skanderborg_Håndbold_vs_SønderjyskE_Kvindehåndbold.db med 28 spillere
+2025-03-25 23:10:31,578 - INFO - Behandler database: Kvindeliga-database\2024-2025\13112024_Team_Esbjerg_vs_EH_Aalborg.db
+2025-03-25 23:10:31,584 - INFO - Holdkoder i kamp: TES, EHA
+2025-03-25 23:10:31,589 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\13112024_Team_Esbjerg_vs_EH_Aalborg.db med 29 spillere
+2025-03-25 23:10:31,590 - INFO - Behandler database: Kvindeliga-database\2024-2025\132025_København_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:31,594 - INFO - Holdkoder i kamp: KBH, SVK
+2025-03-25 23:10:31,600 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\132025_København_Håndbold_vs_Silkeborg-Voel_KFUM.db med 21 spillere
+2025-03-25 23:10:31,600 - INFO - Behandler database: Kvindeliga-database\2024-2025\132025_Odense_Håndbold_vs_Bjerringbro_FH.db
+2025-03-25 23:10:31,605 - INFO - Holdkoder i kamp: ODE, BFH
+2025-03-25 23:10:31,610 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\132025_Odense_Håndbold_vs_Bjerringbro_FH.db med 28 spillere
+2025-03-25 23:10:31,611 - INFO - Behandler database: Kvindeliga-database\2024-2025\132025_Skanderborg_Håndbold_vs_Team_Esbjerg.db
+2025-03-25 23:10:31,616 - INFO - Holdkoder i kamp: TES, SKB
+2025-03-25 23:10:31,620 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\132025_Skanderborg_Håndbold_vs_Team_Esbjerg.db med 25 spillere
+2025-03-25 23:10:31,622 - INFO - Behandler database: Kvindeliga-database\2024-2025\1332025_Silkeborg-Voel_KFUM_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:31,625 - INFO - Holdkoder i kamp: RIN, SVK
+2025-03-25 23:10:31,630 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1332025_Silkeborg-Voel_KFUM_vs_Ringkøbing_Håndbold.db med 24 spillere
+2025-03-25 23:10:31,630 - INFO - Behandler database: Kvindeliga-database\2024-2025\1332025_Viborg_HK_vs_Odense_Håndbold.db
+2025-03-25 23:10:31,636 - INFO - Holdkoder i kamp: ODE, VHK
+2025-03-25 23:10:31,642 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1332025_Viborg_HK_vs_Odense_Håndbold.db med 23 spillere
+2025-03-25 23:10:31,642 - INFO - Behandler database: Kvindeliga-database\2024-2025\1392024_Skanderborg_Håndbold_vs_København_Håndbold.db
+2025-03-25 23:10:31,647 - INFO - Holdkoder i kamp: SKB, KBH
+2025-03-25 23:10:31,653 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1392024_Skanderborg_Håndbold_vs_København_Håndbold.db med 23 spillere
+2025-03-25 23:10:31,653 - INFO - Behandler database: Kvindeliga-database\2024-2025\1392024_SønderjyskE_Kvindehåndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:31,659 - INFO - Holdkoder i kamp: SJE, SVK
+2025-03-25 23:10:31,665 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1392024_SønderjyskE_Kvindehåndbold_vs_Silkeborg-Voel_KFUM.db med 24 spillere
+2025-03-25 23:10:31,665 - INFO - Behandler database: Kvindeliga-database\2024-2025\14102024_Silkeborg-Voel_KFUM_vs_Viborg_HK.db
+2025-03-25 23:10:31,671 - INFO - Holdkoder i kamp: VHK, SVK
+2025-03-25 23:10:31,676 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\14102024_Silkeborg-Voel_KFUM_vs_Viborg_HK.db med 29 spillere
+2025-03-25 23:10:31,676 - INFO - Behandler database: Kvindeliga-database\2024-2025\14112024_Nykøbing_F._Håndbold_vs_Bjerringbro_FH.db
+2025-03-25 23:10:31,680 - INFO - Holdkoder i kamp: BFH, NFH
+2025-03-25 23:10:31,687 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\14112024_Nykøbing_F._Håndbold_vs_Bjerringbro_FH.db med 27 spillere
+2025-03-25 23:10:31,687 - INFO - Behandler database: Kvindeliga-database\2024-2025\14112024_Odense_Håndbold_vs_Viborg_HK.db
+2025-03-25 23:10:31,691 - INFO - Holdkoder i kamp: ODE, VHK
+2025-03-25 23:10:31,697 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\14112024_Odense_Håndbold_vs_Viborg_HK.db med 25 spillere
+2025-03-25 23:10:31,697 - INFO - Behandler database: Kvindeliga-database\2024-2025\1412025_Odense_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:31,700 - INFO - Holdkoder i kamp: ODE, RIN
+2025-03-25 23:10:31,705 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1412025_Odense_Håndbold_vs_Ringkøbing_Håndbold.db med 23 spillere
+2025-03-25 23:10:31,707 - INFO - Behandler database: Kvindeliga-database\2024-2025\1432025_Aarhus_Håndbold_Kvinder_vs_København_Håndbold.db
+2025-03-25 23:10:31,712 - INFO - Holdkoder i kamp: KBH, AHB
+2025-03-25 23:10:31,716 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1432025_Aarhus_Håndbold_Kvinder_vs_København_Håndbold.db med 25 spillere
+2025-03-25 23:10:31,716 - INFO - Behandler database: Kvindeliga-database\2024-2025\1432025_Bjerringbro_FH_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:31,721 - INFO - Holdkoder i kamp: NFH, BFH
+2025-03-25 23:10:31,727 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1432025_Bjerringbro_FH_vs_Nykøbing_F._Håndbold.db med 27 spillere
+2025-03-25 23:10:31,727 - INFO - Behandler database: Kvindeliga-database\2024-2025\1432025_Ikast_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:31,732 - INFO - Holdkoder i kamp: HHE, IKA
+2025-03-25 23:10:31,737 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1432025_Ikast_Håndbold_vs_Horsens_Håndbold_Elite.db med 30 spillere
+2025-03-25 23:10:31,737 - INFO - Behandler database: Kvindeliga-database\2024-2025\15112024_København_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:31,744 - INFO - Holdkoder i kamp: AHB, KBH
+2025-03-25 23:10:31,749 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\15112024_København_Håndbold_vs_Aarhus_Håndbold_Kvinder.db med 23 spillere
+2025-03-25 23:10:31,749 - INFO - Behandler database: Kvindeliga-database\2024-2025\1512025_EH_Aalborg_vs_Ikast_Håndbold.db
+2025-03-25 23:10:31,754 - INFO - Holdkoder i kamp: EHA, IKA
+2025-03-25 23:10:31,760 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1512025_EH_Aalborg_vs_Ikast_Håndbold.db med 31 spillere
+2025-03-25 23:10:31,760 - INFO - Behandler database: Kvindeliga-database\2024-2025\1512025_Horsens_Håndbold_Elite_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:31,764 - INFO - Holdkoder i kamp: HHE, AHB
+2025-03-25 23:10:31,770 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1512025_Horsens_Håndbold_Elite_vs_Aarhus_Håndbold_Kvinder.db med 24 spillere
+2025-03-25 23:10:31,770 - INFO - Behandler database: Kvindeliga-database\2024-2025\1512025_Nykøbing_F._Håndbold_vs_København_Håndbold.db
+2025-03-25 23:10:31,775 - INFO - Holdkoder i kamp: NFH, KBH
+2025-03-25 23:10:31,780 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1512025_Nykøbing_F._Håndbold_vs_København_Håndbold.db med 24 spillere
+2025-03-25 23:10:31,781 - INFO - Behandler database: Kvindeliga-database\2024-2025\1512025_Team_Esbjerg_vs_Viborg_HK.db
+2025-03-25 23:10:31,785 - INFO - Holdkoder i kamp: TES, VHK
+2025-03-25 23:10:31,791 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1512025_Team_Esbjerg_vs_Viborg_HK.db med 27 spillere
+2025-03-25 23:10:31,792 - INFO - Behandler database: Kvindeliga-database\2024-2025\1522025_EH_Aalborg_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:31,797 - INFO - Holdkoder i kamp: HHE, EHA
+2025-03-25 23:10:31,801 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1522025_EH_Aalborg_vs_Horsens_Håndbold_Elite.db med 25 spillere
+2025-03-25 23:10:31,802 - INFO - Behandler database: Kvindeliga-database\2024-2025\1522025_Viborg_HK_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:31,809 - INFO - Holdkoder i kamp: VHK, SVK
+2025-03-25 23:10:31,815 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1522025_Viborg_HK_vs_Silkeborg-Voel_KFUM.db med 22 spillere
+2025-03-25 23:10:31,815 - INFO - Behandler database: Kvindeliga-database\2024-2025\1532025_EH_Aalborg_vs_Team_Esbjerg.db
+2025-03-25 23:10:31,820 - INFO - Holdkoder i kamp: EHA, TES
+2025-03-25 23:10:31,825 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1532025_EH_Aalborg_vs_Team_Esbjerg.db med 25 spillere
+2025-03-25 23:10:31,825 - INFO - Behandler database: Kvindeliga-database\2024-2025\1532025_SønderjyskE_Kvindehåndbold_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:31,829 - INFO - Holdkoder i kamp: SJE, SKB
+2025-03-25 23:10:31,834 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1532025_SønderjyskE_Kvindehåndbold_vs_Skanderborg_Håndbold.db med 21 spillere
+2025-03-25 23:10:31,835 - INFO - Behandler database: Kvindeliga-database\2024-2025\1592024_EH_Aalborg_vs_Bjerringbro_FH.db
+2025-03-25 23:10:31,839 - INFO - Holdkoder i kamp: EHA, BFH
+2025-03-25 23:10:31,845 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1592024_EH_Aalborg_vs_Bjerringbro_FH.db med 27 spillere
+2025-03-25 23:10:31,845 - INFO - Behandler database: Kvindeliga-database\2024-2025\16102024_SønderjyskE_Kvindehåndbold_vs_Odense_Håndbold.db
+2025-03-25 23:10:31,850 - INFO - Holdkoder i kamp: SJE, ODE
+2025-03-25 23:10:31,855 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\16102024_SønderjyskE_Kvindehåndbold_vs_Odense_Håndbold.db med 26 spillere
+2025-03-25 23:10:31,856 - INFO - Behandler database: Kvindeliga-database\2024-2025\1612025_Skanderborg_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:31,861 - INFO - Holdkoder i kamp: SVK, SKB
+2025-03-25 23:10:31,866 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1612025_Skanderborg_Håndbold_vs_Silkeborg-Voel_KFUM.db med 26 spillere
+2025-03-25 23:10:31,866 - INFO - Behandler database: Kvindeliga-database\2024-2025\1622025_SønderjyskE_Kvindehåndbold_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:31,872 - INFO - Holdkoder i kamp: SJE, RIN
+2025-03-25 23:10:31,877 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1622025_SønderjyskE_Kvindehåndbold_vs_Ringkøbing_Håndbold.db med 24 spillere
+2025-03-25 23:10:31,877 - INFO - Behandler database: Kvindeliga-database\2024-2025\1712025_SønderjyskE_Kvindehåndbold_vs_Bjerringbro_FH.db
+2025-03-25 23:10:31,881 - INFO - Holdkoder i kamp: SJE, BFH
+2025-03-25 23:10:31,925 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1712025_SønderjyskE_Kvindehåndbold_vs_Bjerringbro_FH.db med 29 spillere
+2025-03-25 23:10:31,925 - INFO - Behandler database: Kvindeliga-database\2024-2025\1722025_Bjerringbro_FH_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:31,930 - INFO - Holdkoder i kamp: AHB, BFH
+2025-03-25 23:10:31,936 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1722025_Bjerringbro_FH_vs_Aarhus_Håndbold_Kvinder.db med 26 spillere
+2025-03-25 23:10:31,936 - INFO - Behandler database: Kvindeliga-database\2024-2025\1832025_Nykøbing_F._Håndbold_vs_Viborg_HK.db
+2025-03-25 23:10:31,942 - INFO - Holdkoder i kamp: VHK, NFH
+2025-03-25 23:10:31,946 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1832025_Nykøbing_F._Håndbold_vs_Viborg_HK.db med 23 spillere
+2025-03-25 23:10:31,946 - INFO - Behandler database: Kvindeliga-database\2024-2025\1832025_Odense_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:31,952 - INFO - Holdkoder i kamp: ODE, SVK
+2025-03-25 23:10:31,957 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1832025_Odense_Håndbold_vs_Silkeborg-Voel_KFUM.db med 29 spillere
+2025-03-25 23:10:31,957 - INFO - Behandler database: Kvindeliga-database\2024-2025\1892024_Aarhus_Håndbold_Kvinder_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:31,962 - INFO - Holdkoder i kamp: AHB, SJE
+2025-03-25 23:10:31,967 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1892024_Aarhus_Håndbold_Kvinder_vs_SønderjyskE_Kvindehåndbold.db med 22 spillere
+2025-03-25 23:10:31,967 - INFO - Behandler database: Kvindeliga-database\2024-2025\1892024_København_Håndbold_vs_Team_Esbjerg.db
+2025-03-25 23:10:31,973 - INFO - Holdkoder i kamp: TES, KBH
+2025-03-25 23:10:31,977 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1892024_København_Håndbold_vs_Team_Esbjerg.db med 29 spillere
+2025-03-25 23:10:31,978 - INFO - Behandler database: Kvindeliga-database\2024-2025\1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db
+2025-03-25 23:10:31,980 - INFO - Holdkoder i kamp: NFH, EHA
+2025-03-25 23:10:31,986 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db med 28 spillere
+2025-03-25 23:10:31,987 - INFO - Behandler database: Kvindeliga-database\2024-2025\1892024_Odense_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:31,991 - INFO - Holdkoder i kamp: HHE, ODE
+2025-03-25 23:10:31,996 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1892024_Odense_Håndbold_vs_Horsens_Håndbold_Elite.db med 27 spillere
+2025-03-25 23:10:31,996 - INFO - Behandler database: Kvindeliga-database\2024-2025\19102024_Viborg_HK_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:32,001 - INFO - Holdkoder i kamp: VHK, AHB
+2025-03-25 23:10:32,008 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\19102024_Viborg_HK_vs_Aarhus_Håndbold_Kvinder.db med 23 spillere
+2025-03-25 23:10:32,008 - INFO - Behandler database: Kvindeliga-database\2024-2025\1922025_Horsens_Håndbold_Elite_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:32,013 - INFO - Holdkoder i kamp: HHE, SKB
+2025-03-25 23:10:32,017 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1922025_Horsens_Håndbold_Elite_vs_Skanderborg_Håndbold.db med 24 spillere
+2025-03-25 23:10:32,018 - INFO - Behandler database: Kvindeliga-database\2024-2025\1922025_Nykøbing_F._Håndbold_vs_Team_Esbjerg.db
+2025-03-25 23:10:32,022 - INFO - Holdkoder i kamp: TES, NFH
+2025-03-25 23:10:32,027 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1922025_Nykøbing_F._Håndbold_vs_Team_Esbjerg.db med 23 spillere
+2025-03-25 23:10:32,028 - INFO - Behandler database: Kvindeliga-database\2024-2025\1922025_Odense_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:32,032 - INFO - Holdkoder i kamp: SJE, ODE
+2025-03-25 23:10:32,037 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1922025_Odense_Håndbold_vs_SønderjyskE_Kvindehåndbold.db med 26 spillere
+2025-03-25 23:10:32,038 - INFO - Behandler database: Kvindeliga-database\2024-2025\1922025_Ringkøbing_Håndbold_vs_Ikast_Håndbold.db
+2025-03-25 23:10:32,043 - INFO - Holdkoder i kamp: RIN, IKA
+2025-03-25 23:10:32,047 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1922025_Ringkøbing_Håndbold_vs_Ikast_Håndbold.db med 22 spillere
+2025-03-25 23:10:32,048 - INFO - Behandler database: Kvindeliga-database\2024-2025\1932025_Ringkøbing_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:32,052 - INFO - Holdkoder i kamp: RIN, AHB
+2025-03-25 23:10:32,070 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1932025_Ringkøbing_Håndbold_vs_Aarhus_Håndbold_Kvinder.db med 24 spillere
+2025-03-25 23:10:32,070 - INFO - Behandler database: Kvindeliga-database\2024-2025\1932025_Skanderborg_Håndbold_vs_Ikast_Håndbold.db
+2025-03-25 23:10:32,077 - INFO - Holdkoder i kamp: IKA, SKB
+2025-03-25 23:10:32,082 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1932025_Skanderborg_Håndbold_vs_Ikast_Håndbold.db med 25 spillere
+2025-03-25 23:10:32,083 - INFO - Behandler database: Kvindeliga-database\2024-2025\1932025_Team_Esbjerg_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:32,087 - INFO - Holdkoder i kamp: TES, SJE
+2025-03-25 23:10:32,093 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\1932025_Team_Esbjerg_vs_SønderjyskE_Kvindehåndbold.db med 25 spillere
+2025-03-25 23:10:32,093 - INFO - Behandler database: Kvindeliga-database\2024-2025\2032025_Horsens_Håndbold_Elite_vs_Bjerringbro_FH.db
+2025-03-25 23:10:32,099 - INFO - Holdkoder i kamp: BFH, HHE
+2025-03-25 23:10:32,104 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2032025_Horsens_Håndbold_Elite_vs_Bjerringbro_FH.db med 26 spillere
+2025-03-25 23:10:32,104 - INFO - Behandler database: Kvindeliga-database\2024-2025\2102024_Horsens_Håndbold_Elite_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:32,111 - INFO - Holdkoder i kamp: NFH, HHE
+2025-03-25 23:10:32,118 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2102024_Horsens_Håndbold_Elite_vs_Nykøbing_F._Håndbold.db med 28 spillere
+2025-03-25 23:10:32,118 - INFO - Behandler database: Kvindeliga-database\2024-2025\2102024_Ikast_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:32,124 - INFO - Holdkoder i kamp: IKA, AHB
+2025-03-25 23:10:32,129 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2102024_Ikast_Håndbold_vs_Aarhus_Håndbold_Kvinder.db med 27 spillere
+2025-03-25 23:10:32,129 - INFO - Behandler database: Kvindeliga-database\2024-2025\2102024_Skanderborg_Håndbold_vs_Odense_Håndbold.db
+2025-03-25 23:10:32,136 - INFO - Holdkoder i kamp: ODE, SKB
+2025-03-25 23:10:32,141 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2102024_Skanderborg_Håndbold_vs_Odense_Håndbold.db med 30 spillere
+2025-03-25 23:10:32,141 - INFO - Behandler database: Kvindeliga-database\2024-2025\2102024_Team_Esbjerg_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:32,146 - INFO - Holdkoder i kamp: RIN, TES
+2025-03-25 23:10:32,151 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2102024_Team_Esbjerg_vs_Ringkøbing_Håndbold.db med 27 spillere
+2025-03-25 23:10:32,151 - INFO - Behandler database: Kvindeliga-database\2024-2025\2112024_Odense_Håndbold_vs_Ikast_Håndbold.db
+2025-03-25 23:10:32,156 - INFO - Holdkoder i kamp: ODE, IKA
+2025-03-25 23:10:32,162 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2112024_Odense_Håndbold_vs_Ikast_Håndbold.db med 24 spillere
+2025-03-25 23:10:32,163 - INFO - Behandler database: Kvindeliga-database\2024-2025\212025_Aarhus_Håndbold_Kvinder_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:32,168 - INFO - Holdkoder i kamp: AHB, RIN
+2025-03-25 23:10:32,173 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\212025_Aarhus_Håndbold_Kvinder_vs_Ringkøbing_Håndbold.db med 23 spillere
+2025-03-25 23:10:32,173 - INFO - Behandler database: Kvindeliga-database\2024-2025\212025_Bjerringbro_FH_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:32,178 - INFO - Holdkoder i kamp: BFH, HHE
+2025-03-25 23:10:32,183 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\212025_Bjerringbro_FH_vs_Horsens_Håndbold_Elite.db med 24 spillere
+2025-03-25 23:10:32,183 - INFO - Behandler database: Kvindeliga-database\2024-2025\212025_EH_Aalborg_vs_København_Håndbold.db
+2025-03-25 23:10:32,187 - INFO - Holdkoder i kamp: KBH, EHA
+2025-03-25 23:10:32,193 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\212025_EH_Aalborg_vs_København_Håndbold.db med 26 spillere
+2025-03-25 23:10:32,194 - INFO - Behandler database: Kvindeliga-database\2024-2025\212025_Ikast_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:32,199 - INFO - Holdkoder i kamp: IKA, SKB
+2025-03-25 23:10:32,205 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\212025_Ikast_Håndbold_vs_Skanderborg_Håndbold.db med 30 spillere
+2025-03-25 23:10:32,206 - INFO - Behandler database: Kvindeliga-database\2024-2025\212025_Silkeborg-Voel_KFUM_vs_Odense_Håndbold.db
+2025-03-25 23:10:32,210 - INFO - Holdkoder i kamp: SVK, ODE
+2025-03-25 23:10:32,219 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\212025_Silkeborg-Voel_KFUM_vs_Odense_Håndbold.db med 29 spillere
+2025-03-25 23:10:32,220 - INFO - Behandler database: Kvindeliga-database\2024-2025\212025_SønderjyskE_Kvindehåndbold_vs_Team_Esbjerg.db
+2025-03-25 23:10:32,223 - INFO - Holdkoder i kamp: SJE, TES
+2025-03-25 23:10:32,229 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\212025_SønderjyskE_Kvindehåndbold_vs_Team_Esbjerg.db med 27 spillere
+2025-03-25 23:10:32,230 - INFO - Behandler database: Kvindeliga-database\2024-2025\212025_Viborg_HK_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:32,235 - INFO - Holdkoder i kamp: VHK, NFH
+2025-03-25 23:10:32,239 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\212025_Viborg_HK_vs_Nykøbing_F._Håndbold.db med 27 spillere
+2025-03-25 23:10:32,240 - INFO - Behandler database: Kvindeliga-database\2024-2025\2122025_København_Håndbold_vs_Bjerringbro_FH.db
+2025-03-25 23:10:32,245 - INFO - Holdkoder i kamp: BFH, KBH
+2025-03-25 23:10:32,250 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2122025_København_Håndbold_vs_Bjerringbro_FH.db med 27 spillere
+2025-03-25 23:10:32,250 - INFO - Behandler database: Kvindeliga-database\2024-2025\2122025_Silkeborg-Voel_KFUM_vs_EH_Aalborg.db
+2025-03-25 23:10:32,254 - INFO - Holdkoder i kamp: SVK, EHA
+2025-03-25 23:10:32,260 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2122025_Silkeborg-Voel_KFUM_vs_EH_Aalborg.db med 30 spillere
+2025-03-25 23:10:32,260 - INFO - Behandler database: Kvindeliga-database\2024-2025\2132025_København_Håndbold_vs_EH_Aalborg.db
+2025-03-25 23:10:32,265 - INFO - Holdkoder i kamp: KBH, EHA
+2025-03-25 23:10:32,270 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2132025_København_Håndbold_vs_EH_Aalborg.db med 24 spillere
+2025-03-25 23:10:32,270 - INFO - Behandler database: Kvindeliga-database\2024-2025\2192024_Viborg_HK_vs_Bjerringbro_FH.db
+2025-03-25 23:10:32,275 - INFO - Holdkoder i kamp: BFH, VHK
+2025-03-25 23:10:32,279 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2192024_Viborg_HK_vs_Bjerringbro_FH.db med 25 spillere
+2025-03-25 23:10:32,280 - INFO - Behandler database: Kvindeliga-database\2024-2025\2212025_EH_Aalborg_vs_Odense_Håndbold.db
+2025-03-25 23:10:32,284 - INFO - Holdkoder i kamp: ODE, EHA
+2025-03-25 23:10:32,289 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2212025_EH_Aalborg_vs_Odense_Håndbold.db med 28 spillere
+2025-03-25 23:10:32,290 - INFO - Behandler database: Kvindeliga-database\2024-2025\2212025_Ikast_Håndbold_vs_Bjerringbro_FH.db
+2025-03-25 23:10:32,294 - INFO - Holdkoder i kamp: BFH, IKA
+2025-03-25 23:10:32,299 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2212025_Ikast_Håndbold_vs_Bjerringbro_FH.db med 28 spillere
+2025-03-25 23:10:32,300 - INFO - Behandler database: Kvindeliga-database\2024-2025\2212025_Nykøbing_F._Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:32,305 - INFO - Holdkoder i kamp: NFH, RIN
+2025-03-25 23:10:32,309 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2212025_Nykøbing_F._Håndbold_vs_Ringkøbing_Håndbold.db med 25 spillere
+2025-03-25 23:10:32,310 - INFO - Behandler database: Kvindeliga-database\2024-2025\2212025_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:32,316 - INFO - Holdkoder i kamp: AHB, SKB
+2025-03-25 23:10:32,321 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2212025_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.db med 23 spillere
+2025-03-25 23:10:32,321 - INFO - Behandler database: Kvindeliga-database\2024-2025\2212025_SønderjyskE_Kvindehåndbold_vs_Viborg_HK.db
+2025-03-25 23:10:32,326 - INFO - Holdkoder i kamp: VHK, SJE
+2025-03-25 23:10:32,331 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2212025_SønderjyskE_Kvindehåndbold_vs_Viborg_HK.db med 26 spillere
+2025-03-25 23:10:32,331 - INFO - Behandler database: Kvindeliga-database\2024-2025\2212025_Team_Esbjerg_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:32,337 - INFO - Holdkoder i kamp: TES, SVK
+2025-03-25 23:10:32,341 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2212025_Team_Esbjerg_vs_Silkeborg-Voel_KFUM.db med 27 spillere
+2025-03-25 23:10:32,342 - INFO - Behandler database: Kvindeliga-database\2024-2025\222025_Horsens_Håndbold_Elite_vs_Odense_Håndbold.db
+2025-03-25 23:10:32,349 - INFO - Holdkoder i kamp: ODE, HHE
+2025-03-25 23:10:32,356 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\222025_Horsens_Håndbold_Elite_vs_Odense_Håndbold.db med 28 spillere
+2025-03-25 23:10:32,356 - INFO - Behandler database: Kvindeliga-database\2024-2025\222025_Skanderborg_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:32,361 - INFO - Holdkoder i kamp: SKB, RIN
+2025-03-25 23:10:32,366 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\222025_Skanderborg_Håndbold_vs_Ringkøbing_Håndbold.db med 23 spillere
+2025-03-25 23:10:32,366 - INFO - Behandler database: Kvindeliga-database\2024-2025\222025_SønderjyskE_Kvindehåndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:32,372 - INFO - Holdkoder i kamp: SJE, AHB
+2025-03-25 23:10:32,376 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\222025_SønderjyskE_Kvindehåndbold_vs_Aarhus_Håndbold_Kvinder.db med 23 spillere
+2025-03-25 23:10:32,377 - INFO - Behandler database: Kvindeliga-database\2024-2025\2222025_Aarhus_Håndbold_Kvinder_vs_Viborg_HK.db
+2025-03-25 23:10:32,381 - INFO - Holdkoder i kamp: VHK, AHB
+2025-03-25 23:10:32,387 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2222025_Aarhus_Håndbold_Kvinder_vs_Viborg_HK.db med 23 spillere
+2025-03-25 23:10:32,387 - INFO - Behandler database: Kvindeliga-database\2024-2025\2292024_Ringkøbing_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:32,392 - INFO - Holdkoder i kamp: SKB, RIN
+2025-03-25 23:10:32,397 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2292024_Ringkøbing_Håndbold_vs_Skanderborg_Håndbold.db med 26 spillere
+2025-03-25 23:10:32,397 - INFO - Behandler database: Kvindeliga-database\2024-2025\2292024_Silkeborg-Voel_KFUM_vs_Ikast_Håndbold.db
+2025-03-25 23:10:32,402 - INFO - Holdkoder i kamp: IKA, SVK
+2025-03-25 23:10:32,407 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2292024_Silkeborg-Voel_KFUM_vs_Ikast_Håndbold.db med 24 spillere
+2025-03-25 23:10:32,408 - INFO - Behandler database: Kvindeliga-database\2024-2025\2312025_Horsens_Håndbold_Elite_vs_København_Håndbold.db
+2025-03-25 23:10:32,412 - INFO - Holdkoder i kamp: HHE, KBH
+2025-03-25 23:10:32,417 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2312025_Horsens_Håndbold_Elite_vs_København_Håndbold.db med 22 spillere
+2025-03-25 23:10:32,418 - INFO - Behandler database: Kvindeliga-database\2024-2025\232025_Aarhus_Håndbold_Kvinder_vs_EH_Aalborg.db
+2025-03-25 23:10:32,422 - INFO - Holdkoder i kamp: AHB, EHA
+2025-03-25 23:10:32,429 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\232025_Aarhus_Håndbold_Kvinder_vs_EH_Aalborg.db med 24 spillere
+2025-03-25 23:10:32,429 - INFO - Behandler database: Kvindeliga-database\2024-2025\232025_Horsens_Håndbold_Elite_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:32,434 - INFO - Holdkoder i kamp: SJE, HHE
+2025-03-25 23:10:32,440 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\232025_Horsens_Håndbold_Elite_vs_SønderjyskE_Kvindehåndbold.db med 24 spillere
+2025-03-25 23:10:32,440 - INFO - Behandler database: Kvindeliga-database\2024-2025\232025_Nykøbing_F._Håndbold_vs_Ikast_Håndbold.db
+2025-03-25 23:10:32,445 - INFO - Holdkoder i kamp: NFH, IKA
+2025-03-25 23:10:32,450 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\232025_Nykøbing_F._Håndbold_vs_Ikast_Håndbold.db med 24 spillere
+2025-03-25 23:10:32,450 - INFO - Behandler database: Kvindeliga-database\2024-2025\232025_Ringkøbing_Håndbold_vs_Viborg_HK.db
+2025-03-25 23:10:32,455 - INFO - Holdkoder i kamp: RIN, VHK
+2025-03-25 23:10:32,459 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\232025_Ringkøbing_Håndbold_vs_Viborg_HK.db med 22 spillere
+2025-03-25 23:10:32,460 - INFO - Behandler database: Kvindeliga-database\2024-2025\2522025_Viborg_HK_vs_København_Håndbold.db
+2025-03-25 23:10:32,465 - INFO - Holdkoder i kamp: KBH, VHK
+2025-03-25 23:10:32,470 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2522025_Viborg_HK_vs_København_Håndbold.db med 22 spillere
+2025-03-25 23:10:32,470 - INFO - Behandler database: Kvindeliga-database\2024-2025\2622025_Bjerringbro_FH_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:32,474 - INFO - Holdkoder i kamp: RIN, BFH
+2025-03-25 23:10:32,480 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2622025_Bjerringbro_FH_vs_Ringkøbing_Håndbold.db med 26 spillere
+2025-03-25 23:10:32,480 - INFO - Behandler database: Kvindeliga-database\2024-2025\2622025_EH_Aalborg_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:32,484 - INFO - Holdkoder i kamp: EHA, SKB
+2025-03-25 23:10:32,490 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2622025_EH_Aalborg_vs_Skanderborg_Håndbold.db med 26 spillere
+2025-03-25 23:10:32,491 - INFO - Behandler database: Kvindeliga-database\2024-2025\2622025_Ikast_Håndbold_vs_Odense_Håndbold.db
+2025-03-25 23:10:32,494 - INFO - Holdkoder i kamp: ODE, IKA
+2025-03-25 23:10:32,499 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2622025_Ikast_Håndbold_vs_Odense_Håndbold.db med 26 spillere
+2025-03-25 23:10:32,500 - INFO - Behandler database: Kvindeliga-database\2024-2025\2622025_SønderjyskE_Kvindehåndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:32,610 - INFO - Holdkoder i kamp: SJE, NFH
+2025-03-25 23:10:32,618 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2622025_SønderjyskE_Kvindehåndbold_vs_Nykøbing_F._Håndbold.db med 25 spillere
+2025-03-25 23:10:32,618 - INFO - Behandler database: Kvindeliga-database\2024-2025\2622025_Team_Esbjerg_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:32,624 - INFO - Holdkoder i kamp: TES, HHE
+2025-03-25 23:10:32,630 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2622025_Team_Esbjerg_vs_Horsens_Håndbold_Elite.db med 26 spillere
+2025-03-25 23:10:32,631 - INFO - Behandler database: Kvindeliga-database\2024-2025\2622025_Voel_KFUM_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:32,636 - INFO - Holdkoder i kamp: AHB, SVK
+2025-03-25 23:10:32,641 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2622025_Voel_KFUM_vs_Aarhus_Håndbold_Kvinder.db med 29 spillere
+2025-03-25 23:10:32,642 - INFO - Behandler database: Kvindeliga-database\2024-2025\2812025_Bjerringbro_FH_vs_EH_Aalborg.db
+2025-03-25 23:10:32,647 - INFO - Holdkoder i kamp: BFH, EHA
+2025-03-25 23:10:32,652 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2812025_Bjerringbro_FH_vs_EH_Aalborg.db med 23 spillere
+2025-03-25 23:10:32,652 - INFO - Behandler database: Kvindeliga-database\2024-2025\2812025_Voel_KFUM_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:32,657 - INFO - Holdkoder i kamp: SJE, SVK
+2025-03-25 23:10:32,662 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2812025_Voel_KFUM_vs_SønderjyskE_Kvindehåndbold.db med 23 spillere
+2025-03-25 23:10:32,663 - INFO - Behandler database: Kvindeliga-database\2024-2025\2912025_Aarhus_Håndbold_Kvinder_vs_Team_Esbjerg.db
+2025-03-25 23:10:32,667 - INFO - Holdkoder i kamp: AHB, TES
+2025-03-25 23:10:32,672 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2912025_Aarhus_Håndbold_Kvinder_vs_Team_Esbjerg.db med 24 spillere
+2025-03-25 23:10:32,672 - INFO - Behandler database: Kvindeliga-database\2024-2025\2912025_København_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:32,677 - INFO - Holdkoder i kamp: SKB, KBH
+2025-03-25 23:10:32,681 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2912025_København_Håndbold_vs_Skanderborg_Håndbold.db med 28 spillere
+2025-03-25 23:10:32,681 - INFO - Behandler database: Kvindeliga-database\2024-2025\2912025_Odense_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:32,688 - INFO - Holdkoder i kamp: NFH, ODE
+2025-03-25 23:10:32,693 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2912025_Odense_Håndbold_vs_Nykøbing_F._Håndbold.db med 26 spillere
+2025-03-25 23:10:32,693 - INFO - Behandler database: Kvindeliga-database\2024-2025\2912025_Ringkøbing_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:32,698 - INFO - Holdkoder i kamp: HHE, RIN
+2025-03-25 23:10:32,704 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2912025_Ringkøbing_Håndbold_vs_Horsens_Håndbold_Elite.db med 21 spillere
+2025-03-25 23:10:32,704 - INFO - Behandler database: Kvindeliga-database\2024-2025\2912025_Viborg_HK_vs_Ikast_Håndbold.db
+2025-03-25 23:10:32,710 - INFO - Holdkoder i kamp: VHK, IKA
+2025-03-25 23:10:32,714 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\2912025_Viborg_HK_vs_Ikast_Håndbold.db med 24 spillere
+2025-03-25 23:10:32,715 - INFO - Behandler database: Kvindeliga-database\2024-2025\4102024_SønderjyskE_Kvindehåndbold_vs_København_Håndbold.db
+2025-03-25 23:10:32,721 - INFO - Holdkoder i kamp: SJE, KBH
+2025-03-25 23:10:32,726 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\4102024_SønderjyskE_Kvindehåndbold_vs_København_Håndbold.db med 21 spillere
+2025-03-25 23:10:32,727 - INFO - Behandler database: Kvindeliga-database\2024-2025\412025_Team_Esbjerg_vs_Ikast_Håndbold.db
+2025-03-25 23:10:32,731 - INFO - Holdkoder i kamp: IKA, TES
+2025-03-25 23:10:32,737 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\412025_Team_Esbjerg_vs_Ikast_Håndbold.db med 27 spillere
+2025-03-25 23:10:32,737 - INFO - Behandler database: Kvindeliga-database\2024-2025\492024_Odense_Håndbold_vs_EH_Aalborg.db
+2025-03-25 23:10:32,741 - INFO - Holdkoder i kamp: ODE, EHA
+2025-03-25 23:10:32,746 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\492024_Odense_Håndbold_vs_EH_Aalborg.db med 28 spillere
+2025-03-25 23:10:32,747 - INFO - Behandler database: Kvindeliga-database\2024-2025\492024_Ringkøbing_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:32,751 - INFO - Holdkoder i kamp: RIN, NFH
+2025-03-25 23:10:32,758 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\492024_Ringkøbing_Håndbold_vs_Nykøbing_F._Håndbold.db med 25 spillere
+2025-03-25 23:10:32,759 - INFO - Behandler database: Kvindeliga-database\2024-2025\492024_Silkeborg-Voel_KFUM_vs_Team_Esbjerg.db
+2025-03-25 23:10:32,765 - INFO - Holdkoder i kamp: SVK, TES
+2025-03-25 23:10:32,772 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\492024_Silkeborg-Voel_KFUM_vs_Team_Esbjerg.db med 28 spillere
+2025-03-25 23:10:32,772 - INFO - Behandler database: Kvindeliga-database\2024-2025\5102024_EH_Aalborg_vs_Viborg_HK.db
+2025-03-25 23:10:32,778 - INFO - Holdkoder i kamp: VHK, EHA
+2025-03-25 23:10:32,784 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\5102024_EH_Aalborg_vs_Viborg_HK.db med 22 spillere
+2025-03-25 23:10:32,784 - INFO - Behandler database: Kvindeliga-database\2024-2025\5112024_København_Håndbold_vs_Viborg_HK.db
+2025-03-25 23:10:32,789 - INFO - Holdkoder i kamp: VHK, KBH
+2025-03-25 23:10:32,794 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\5112024_København_Håndbold_vs_Viborg_HK.db med 24 spillere
+2025-03-25 23:10:32,795 - INFO - Behandler database: Kvindeliga-database\2024-2025\5112024_Ringkøbing_Håndbold_vs_Bjerringbro_FH.db
+2025-03-25 23:10:32,800 - INFO - Holdkoder i kamp: BFH, RIN
+2025-03-25 23:10:32,807 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\5112024_Ringkøbing_Håndbold_vs_Bjerringbro_FH.db med 24 spillere
+2025-03-25 23:10:32,807 - INFO - Behandler database: Kvindeliga-database\2024-2025\512025_Nykøbing_F._Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:32,812 - INFO - Holdkoder i kamp: SVK, NFH
+2025-03-25 23:10:32,816 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\512025_Nykøbing_F._Håndbold_vs_Silkeborg-Voel_KFUM.db med 28 spillere
+2025-03-25 23:10:32,818 - INFO - Behandler database: Kvindeliga-database\2024-2025\512025_Odense_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-03-25 23:10:32,822 - INFO - Holdkoder i kamp: ODE, AHB
+2025-03-25 23:10:32,827 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\512025_Odense_Håndbold_vs_Aarhus_Håndbold_Kvinder.db med 28 spillere
+2025-03-25 23:10:32,828 - INFO - Behandler database: Kvindeliga-database\2024-2025\512025_Ringkøbing_Håndbold_vs_København_Håndbold.db
+2025-03-25 23:10:32,832 - INFO - Holdkoder i kamp: RIN, KBH
+2025-03-25 23:10:32,838 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\512025_Ringkøbing_Håndbold_vs_København_Håndbold.db med 25 spillere
+2025-03-25 23:10:32,839 - INFO - Behandler database: Kvindeliga-database\2024-2025\512025_Skanderborg_Håndbold_vs_Bjerringbro_FH.db
+2025-03-25 23:10:32,844 - INFO - Holdkoder i kamp: BFH, SKB
+2025-03-25 23:10:32,848 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\512025_Skanderborg_Håndbold_vs_Bjerringbro_FH.db med 26 spillere
+2025-03-25 23:10:32,850 - INFO - Behandler database: Kvindeliga-database\2024-2025\512025_SønderjyskE_Kvindehåndbold_vs_EH_Aalborg.db
+2025-03-25 23:10:32,855 - INFO - Holdkoder i kamp: SJE, EHA
+2025-03-25 23:10:32,862 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\512025_SønderjyskE_Kvindehåndbold_vs_EH_Aalborg.db med 29 spillere
+2025-03-25 23:10:32,862 - INFO - Behandler database: Kvindeliga-database\2024-2025\522025_Aarhus_Håndbold_Kvinder_vs_Ikast_Håndbold.db
+2025-03-25 23:10:32,867 - INFO - Holdkoder i kamp: AHB, IKA
+2025-03-25 23:10:32,873 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\522025_Aarhus_Håndbold_Kvinder_vs_Ikast_Håndbold.db med 25 spillere
+2025-03-25 23:10:32,873 - INFO - Behandler database: Kvindeliga-database\2024-2025\522025_Nykøbing_F._Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:32,878 - INFO - Holdkoder i kamp: NFH, HHE
+2025-03-25 23:10:32,884 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\522025_Nykøbing_F._Håndbold_vs_Horsens_Håndbold_Elite.db med 24 spillere
+2025-03-25 23:10:32,885 - INFO - Behandler database: Kvindeliga-database\2024-2025\522025_Odense_Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:32,890 - INFO - Holdkoder i kamp: ODE, SKB
+2025-03-25 23:10:32,894 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\522025_Odense_Håndbold_vs_Skanderborg_Håndbold.db med 27 spillere
+2025-03-25 23:10:32,895 - INFO - Behandler database: Kvindeliga-database\2024-2025\522025_Ringkøbing_Håndbold_vs_Team_Esbjerg.db
+2025-03-25 23:10:32,900 - INFO - Holdkoder i kamp: TES, RIN
+2025-03-25 23:10:32,905 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\522025_Ringkøbing_Håndbold_vs_Team_Esbjerg.db med 25 spillere
+2025-03-25 23:10:32,906 - INFO - Behandler database: Kvindeliga-database\2024-2025\522025_Viborg_HK_vs_EH_Aalborg.db
+2025-03-25 23:10:32,910 - INFO - Holdkoder i kamp: VHK, EHA
+2025-03-25 23:10:32,915 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\522025_Viborg_HK_vs_EH_Aalborg.db med 26 spillere
+2025-03-25 23:10:32,916 - INFO - Behandler database: Kvindeliga-database\2024-2025\6112024_Team_Esbjerg_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:32,921 - INFO - Holdkoder i kamp: TES, SKB
+2025-03-25 23:10:32,925 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\6112024_Team_Esbjerg_vs_Skanderborg_Håndbold.db med 29 spillere
+2025-03-25 23:10:32,926 - INFO - Behandler database: Kvindeliga-database\2024-2025\612025_Horsens_Håndbold_Elite_vs_Viborg_HK.db
+2025-03-25 23:10:32,930 - INFO - Holdkoder i kamp: VHK, HHE
+2025-03-25 23:10:32,936 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\612025_Horsens_Håndbold_Elite_vs_Viborg_HK.db med 26 spillere
+2025-03-25 23:10:32,936 - INFO - Behandler database: Kvindeliga-database\2024-2025\692024_Bjerringbro_FH_vs_Ikast_Håndbold.db
+2025-03-25 23:10:32,940 - INFO - Holdkoder i kamp: IKA, BFH
+2025-03-25 23:10:32,947 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\692024_Bjerringbro_FH_vs_Ikast_Håndbold.db med 26 spillere
+2025-03-25 23:10:32,948 - INFO - Behandler database: Kvindeliga-database\2024-2025\692024_Viborg_HK_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:32,953 - INFO - Holdkoder i kamp: SJE, VHK
+2025-03-25 23:10:32,959 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\692024_Viborg_HK_vs_SønderjyskE_Kvindehåndbold.db med 23 spillere
+2025-03-25 23:10:32,959 - INFO - Behandler database: Kvindeliga-database\2024-2025\7112024_Aarhus_Håndbold_Kvinder_vs_Bjerringbro_FH.db
+2025-03-25 23:10:32,965 - INFO - Holdkoder i kamp: BFH, AHB
+2025-03-25 23:10:32,970 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\7112024_Aarhus_Håndbold_Kvinder_vs_Bjerringbro_FH.db med 23 spillere
+2025-03-25 23:10:32,971 - INFO - Behandler database: Kvindeliga-database\2024-2025\7112024_Bjerringbro_FH_vs_København_Håndbold.db
+2025-03-25 23:10:32,975 - INFO - Holdkoder i kamp: BFH, KBH
+2025-03-25 23:10:32,981 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\7112024_Bjerringbro_FH_vs_København_Håndbold.db med 23 spillere
+2025-03-25 23:10:32,982 - INFO - Behandler database: Kvindeliga-database\2024-2025\7112024_Bjerringbro_FH_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:32,987 - INFO - Holdkoder i kamp: BFH, SVK
+2025-03-25 23:10:32,992 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\7112024_Bjerringbro_FH_vs_Silkeborg-Voel_KFUM.db med 28 spillere
+2025-03-25 23:10:32,992 - INFO - Behandler database: Kvindeliga-database\2024-2025\7112024_EH_Aalborg_vs_Silkeborg-Voel_KFUM.db
+2025-03-25 23:10:32,997 - INFO - Holdkoder i kamp: SVK, EHA
+2025-03-25 23:10:33,003 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\7112024_EH_Aalborg_vs_Silkeborg-Voel_KFUM.db med 24 spillere
+2025-03-25 23:10:33,003 - INFO - Behandler database: Kvindeliga-database\2024-2025\7112024_Ikast_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:33,008 - INFO - Holdkoder i kamp: IKA, RIN
+2025-03-25 23:10:33,013 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\7112024_Ikast_Håndbold_vs_Ringkøbing_Håndbold.db med 26 spillere
+2025-03-25 23:10:33,013 - INFO - Behandler database: Kvindeliga-database\2024-2025\7112024_Skanderborg_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:33,018 - INFO - Holdkoder i kamp: SKB, HHE
+2025-03-25 23:10:33,024 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\7112024_Skanderborg_Håndbold_vs_Horsens_Håndbold_Elite.db med 26 spillere
+2025-03-25 23:10:33,024 - INFO - Behandler database: Kvindeliga-database\2024-2025\7112024_Team_Esbjerg_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:33,030 - INFO - Holdkoder i kamp: NFH, TES
+2025-03-25 23:10:33,035 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\7112024_Team_Esbjerg_vs_Nykøbing_F._Håndbold.db med 29 spillere
+2025-03-25 23:10:33,036 - INFO - Behandler database: Kvindeliga-database\2024-2025\722025_København_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:33,041 - INFO - Holdkoder i kamp: KBH, SJE
+2025-03-25 23:10:33,046 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\722025_København_Håndbold_vs_SønderjyskE_Kvindehåndbold.db med 23 spillere
+2025-03-25 23:10:33,047 - INFO - Behandler database: Kvindeliga-database\2024-2025\722025_Silkeborg-Voel_KFUM_vs_Bjerringbro_FH.db
+2025-03-25 23:10:33,053 - INFO - Holdkoder i kamp: SVK, BFH
+2025-03-25 23:10:33,058 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\722025_Silkeborg-Voel_KFUM_vs_Bjerringbro_FH.db med 26 spillere
+2025-03-25 23:10:33,059 - INFO - Behandler database: Kvindeliga-database\2024-2025\792024_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:33,063 - INFO - Holdkoder i kamp: AHB, SKB, Halvleg, Start 2:e halvleg
+2025-03-25 23:10:33,068 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\792024_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.db med 27 spillere
+2025-03-25 23:10:33,069 - INFO - Behandler database: Kvindeliga-database\2024-2025\792024_København_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:33,073 - INFO - Holdkoder i kamp: HHE, KBH
+2025-03-25 23:10:33,078 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\792024_København_Håndbold_vs_Horsens_Håndbold_Elite.db med 25 spillere
+2025-03-25 23:10:33,078 - INFO - Behandler database: Kvindeliga-database\2024-2025\8102024_København_Håndbold_vs_Ikast_Håndbold.db
+2025-03-25 23:10:33,082 - INFO - Holdkoder i kamp: KBH, IKA
+2025-03-25 23:10:33,089 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\8102024_København_Håndbold_vs_Ikast_Håndbold.db med 25 spillere
+2025-03-25 23:10:33,089 - INFO - Behandler database: Kvindeliga-database\2024-2025\8112024_SønderjyskE_Kvindehåndbold_vs_Horsens_Håndbold_Elite.db
+2025-03-25 23:10:33,093 - INFO - Holdkoder i kamp: SJE, HHE
+2025-03-25 23:10:33,098 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\8112024_SønderjyskE_Kvindehåndbold_vs_Horsens_Håndbold_Elite.db med 25 spillere
+2025-03-25 23:10:33,098 - INFO - Behandler database: Kvindeliga-database\2024-2025\812025_Aarhus_Håndbold_Kvinder_vs_Nykøbing_F._Håndbold.db
+2025-03-25 23:10:33,104 - INFO - Holdkoder i kamp: NFH, AHB
+2025-03-25 23:10:33,110 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\812025_Aarhus_Håndbold_Kvinder_vs_Nykøbing_F._Håndbold.db med 26 spillere
+2025-03-25 23:10:33,111 - INFO - Behandler database: Kvindeliga-database\2024-2025\812025_Bjerringbro_FH_vs_Team_Esbjerg.db
+2025-03-25 23:10:33,115 - INFO - Holdkoder i kamp: TES, BFH
+2025-03-25 23:10:33,121 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\812025_Bjerringbro_FH_vs_Team_Esbjerg.db med 27 spillere
+2025-03-25 23:10:33,121 - INFO - Behandler database: Kvindeliga-database\2024-2025\812025_Ikast_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-03-25 23:10:33,126 - INFO - Holdkoder i kamp: SJE, IKA
+2025-03-25 23:10:33,131 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\812025_Ikast_Håndbold_vs_SønderjyskE_Kvindehåndbold.db med 22 spillere
+2025-03-25 23:10:33,132 - INFO - Behandler database: Kvindeliga-database\2024-2025\812025_København_Håndbold_vs_Odense_Håndbold.db
+2025-03-25 23:10:33,137 - INFO - Holdkoder i kamp: ODE, KBH
+2025-03-25 23:10:33,147 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\812025_København_Håndbold_vs_Odense_Håndbold.db med 24 spillere
+2025-03-25 23:10:33,147 - INFO - Behandler database: Kvindeliga-database\2024-2025\9102024_Nykøbing_F._Håndbold_vs_Skanderborg_Håndbold.db
+2025-03-25 23:10:33,151 - INFO - Holdkoder i kamp: SKB, NFH
+2025-03-25 23:10:33,157 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\9102024_Nykøbing_F._Håndbold_vs_Skanderborg_Håndbold.db med 27 spillere
+2025-03-25 23:10:33,158 - INFO - Behandler database: Kvindeliga-database\2024-2025\9102024_Odense_Håndbold_vs_Team_Esbjerg.db
+2025-03-25 23:10:33,163 - INFO - Holdkoder i kamp: ODE, TES
+2025-03-25 23:10:33,167 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\9102024_Odense_Håndbold_vs_Team_Esbjerg.db med 28 spillere
+2025-03-25 23:10:33,169 - INFO - Behandler database: Kvindeliga-database\2024-2025\9112024_Viborg_HK_vs_Ringkøbing_Håndbold.db
+2025-03-25 23:10:33,173 - INFO - Holdkoder i kamp: RIN, VHK
+2025-03-25 23:10:33,178 - INFO - Oprettet players_team tabel i Kvindeliga-database\2024-2025\9112024_Viborg_HK_vs_Ringkøbing_Håndbold.db med 21 spillere
+2025-03-25 23:10:33,179 - INFO - ==== Oprettelse af spiller-hold tilknytning afsluttet ====
+2025-03-25 23:10:33,179 - INFO - Behandlet 316 databaser: 313 succesfulde, 3 fejlede
