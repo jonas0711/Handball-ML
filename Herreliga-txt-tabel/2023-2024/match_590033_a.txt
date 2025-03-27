@@ -1,0 +1,959 @@
+KAMPHÆNDELSER
+TTH Holstebro - TMS Ringsted   34 - 33  (14 - 19)
+590033 / 6-9-2023 / Gråkjær Arena Holstebro / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.53
+1-0
+TTH
+Mål
+Gbr 11
+Thomas DAMGAARD
+16
+Andreas HAAGEN
+1.24
+1-1
+TMS Mål
+Gbr 77
+Nicolai COLUNGA
+Assist
+44
+Frederik HORN
+12
+Josip CAVAR
+2.17
+2-1
+TTH
+Mål
+HB 21
+Jonas Gade NIELSEN
+16
+Andreas HAAGEN
+2.27
+TMS Fejlaflevering
+44
+Frederik HORN
+Bold erobret 21
+Jonas Gade NIELSEN
+2.36
+TTH
+Fejlaflevering
+17
+Thomas BOILESEN
+3.06
+2-2
+TMS Mål
+Gbr
+7
+Christoffer DREYER
+12
+Josip CAVAR
+3.16
+TTH
+Skud reddet
+2:e
+17
+Thomas BOILESEN
+16
+Andreas HAAGEN
+3.50
+2-3
+TMS Mål
+PL
+44
+Frederik HORN
+Assist
+77
+Nicolai COLUNGA
+12
+Josip CAVAR
+4.30
+TTH
+Skud reddet
+HB 17
+Thomas BOILESEN
+16
+Andreas HAAGEN
+4.36
+2-4
+TMS Mål
+1:e
+81
+Tobias NIELSEN
+Assist
+16
+Andreas HAAGEN
+12
+Josip CAVAR
+5.32
+3-4
+TTH
+Mål
+PL
+21
+Jonas Gade NIELSEN
+16
+Andreas HAAGEN
+5.40
+TMS Skud forbi
+2:e
+43
+Emil LA COUR
+12
+Josip CAVAR
+6.31
+TTH
+Skud blokeret
+HB 21
+Jonas Gade NIELSEN
+Blokeret af
+25
+Anders AGGER
+7.01
+TMS Regelfejl
+77
+Nicolai COLUNGA
+7.11
+4-4
+TTH
+Mål
+2:e
+6
+Frederik BJERRE
+Assist
+11
+Thomas DAMGAARD
+16
+Andreas HAAGEN
+7.49
+4-5
+TMS Mål
+PL
+44
+Frederik HORN
+12
+Josip CAVAR
+8.37
+TTH
+Regelfejl
+4
+Christoffer CICHOSZ
+8.45
+TMS Fejlaflevering
+44
+Frederik HORN
+9.22
+TTH
+Fejlaflevering
+17
+Thomas BOILESEN
+9.28
+4-6
+TMS Mål
+2:e
+17
+Oliver WOSNIAK
+12
+Josip CAVAR
+9.58
+TMS Advarsel
+25
+Anders AGGER
+10.15
+5-6
+TTH
+Mål
+PL
+14
+Nikolaj ENDERLEIT
+16
+Andreas HAAGEN
+11.33
+TMS Tilkendt straffe
+7
+Christoffer DREYER
+Forårs. str.
+17
+Thomas BOILESEN
+11.53
+5-7
+TMS Mål på straffe
+43
+Emil LA COUR
+12
+Josip CAVAR
+12.34
+TTH
+Skud forbi
+Gbr 11
+Thomas DAMGAARD
+16
+Andreas HAAGEN
+13.33
+5-8
+TMS Mål
+VF
+43
+Emil LA COUR
+Assist
+44
+Frederik HORN
+12
+Josip CAVAR
+13.43
+6-8
+TTH
+Mål
+ST
+4
+Christoffer CICHOSZ
+Assist
+14
+Nikolaj ENDERLEIT
+16
+Andreas HAAGEN
+13.57
+TMS Tilkendt straffe
+44
+Frederik HORN
+Forårs. str.
+14
+Nikolaj ENDERLEIT
+14.18
+6-9
+TMS Mål på straffe
+43
+Emil LA COUR
+12
+Josip CAVAR
+15.05
+TTH
+Skud forbi
+PL
+14
+Nikolaj ENDERLEIT
+16
+Andreas HAAGEN
+15.10
+TMS Tilkendt straffe
+81
+Tobias NIELSEN
+Forårs. str.
+28
+Kevin GULLIKSEN
+15.10
+TTH
+Udvisning
+28
+Kevin GULLIKSEN
+15.13
+6-10
+TMS Mål på straffe
+43
+Emil LA COUR
+16
+Sander Drange HEIEREN
+16.10
+TTH
+Skud på stolpe
+PL
+22
+Nikolaj MARKUSSEN
+16
+Andreas HAAGEN
+16.48
+6-11
+TMS Mål
+Gbr 17
+Oliver WOSNIAK
+12
+Josip CAVAR
+17.17
+7-11
+TTH
+Mål
+Gbr 22
+Nikolaj MARKUSSEN
+16
+Andreas HAAGEN
+18.07
+TTH
+Udvisning
+23
+Miha ZVIZEJ
+18.33
+TMS Tilkendt straffe
+25
+Anders AGGER
+Forårs. str.
+28
+Kevin GULLIKSEN
+18.47
+7-12
+TMS Mål på straffe
+43
+Emil LA COUR
+16
+Sander Drange HEIEREN
+19.18
+8-12
+TTH
+Mål
+Gbr 11
+Thomas DAMGAARD
+Assist
+28
+Kevin GULLIKSEN
+16
+Andreas HAAGEN
+19.46
+TMS Skud reddet
+VB
+17
+Oliver WOSNIAK
+16
+Sander Drange HEIEREN
+20.23
+9-12
+TTH
+Mål
+PL
+22
+Nikolaj MARKUSSEN
+16
+Andreas HAAGEN
+21.08
+9-13
+TMS Mål
+VB
+44
+Frederik HORN
+16
+Sander Drange HEIEREN
+21.42
+TTH
+Time out
+22.02 10-13 TTH
+Mål
+Gbr
+6
+Frederik BJERRE
+Assist
+11
+Thomas DAMGAARD
+16
+Andreas HAAGEN
+22.35
+TMS Fejlaflevering
+77
+Nicolai COLUNGA
+22.45
+TTH
+Tabt bold
+14
+Nikolaj ENDERLEIT
+22.48 10-14 TMS Mål
+1:e
+43
+Emil LA COUR
+16
+Sander Drange HEIEREN
+23.20 11-14 TTH
+Mål
+Gbr 11
+Thomas DAMGAARD
+16
+Andreas HAAGEN
+24.12 11-15 TMS Mål
+PL
+17
+Oliver WOSNIAK
+16
+Sander Drange HEIEREN
+24.20 12-15 TTH
+Mål
+Gbr 14
+Nikolaj ENDERLEIT
+16
+Andreas HAAGEN
+25.07 12-16 TMS Mål
+PL
+17
+Oliver WOSNIAK
+16
+Sander Drange HEIEREN
+25.16 13-16 TTH
+Mål
+VB
+22
+Nikolaj MARKUSSEN
+16
+Andreas HAAGEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+TTH Holstebro - TMS Ringsted   34 - 33  (14 - 19)
+590033 / 6-9-2023 / Gråkjær Arena Holstebro / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.55 13-17 TMS Mål
+Gbr 77
+Nicolai COLUNGA
+16
+Sander Drange HEIEREN
+26.05
+TTH
+Skud forbi
+HB 14
+Nikolaj ENDERLEIT
+1
+Tobias LANTZ
+26.38
+TMS Tabt bold
+9
+Hakan SAHIN
+Bold erobret 26
+Mathias SMED
+27.59
+TTH
+Skud reddet
+ST
+4
+Christoffer CICHOSZ
+1
+Tobias LANTZ
+28.34 13-18 TMS Mål
+PL
+17
+Oliver WOSNIAK
+16
+Sander Drange HEIEREN
+29.02 14-18 TTH
+Mål
+Gbr 11
+Thomas DAMGAARD
+1
+Tobias LANTZ
+29.39
+TMS Time out
+29.48 14-19 TMS Mål
+VB
+17
+Oliver WOSNIAK
+Assist
+5
+Mark NIKOLAJSEN
+16
+Sander Drange HEIEREN
+29.56
+TTH
+Skud forbi
+2:e
+17
+Thomas BOILESEN
+1
+Tobias LANTZ
+30.00 14-19
+Halvleg
+30.00
+Start 2:e halvleg
+30.51
+TMS Tilkendt straffe
+25
+Anders AGGER
+Forårs. str.
+4
+Christoffer CICHOSZ
+30.59 14-20 TMS Mål på straffe
+43
+Emil LA COUR
+16
+Sander Drange HEIEREN
+31.50 15-20 TTH
+Mål
+PL
+21
+Jonas Gade NIELSEN
+Assist
+22
+Nikolaj MARKUSSEN
+1
+Tobias LANTZ
+32.07
+TMS Fejlaflevering
+77
+Nicolai COLUNGA
+32.14 16-20 TTH
+Mål
+2:e
+21
+Jonas Gade NIELSEN
+1
+Tobias LANTZ
+32.54
+TMS Skud reddet
+VB
+17
+Oliver WOSNIAK
+16
+Sander Drange HEIEREN
+33.02 17-20 TTH
+Mål
+2:e
+17
+Thomas BOILESEN
+1
+Tobias LANTZ
+33.14
+TMS Time out
+33.53 17-21 TMS Mål
+ST
+25
+Anders AGGER
+Assist
+77
+Nicolai COLUNGA
+16
+Sander Drange HEIEREN
+34.16 18-21 TTH
+Mål
+ST
+4
+Christoffer CICHOSZ
+Assist
+22
+Nikolaj MARKUSSEN
+1
+Tobias LANTZ
+35.03 18-22 TMS Mål
+VB
+17
+Oliver WOSNIAK
+16
+Sander Drange HEIEREN
+35.10 19-22 TTH
+Mål
+2:e
+17
+Thomas BOILESEN
+1
+Tobias LANTZ
+35.52
+TMS Skud forbi
+PL
+44
+Frederik HORN
+16
+Sander Drange HEIEREN
+36.29 20-22 TTH
+Mål
+ST
+4
+Christoffer CICHOSZ
+Assist
+21
+Jonas Gade NIELSEN
+1
+Tobias LANTZ
+36.31
+TMS Udvisning
+17
+Oliver WOSNIAK
+37.27
+TMS Skud reddet
+PL
+7
+Christoffer DREYER
+Retur
+0
+16
+Sander Drange HEIEREN
+37.49
+TMS Tilkendt straffe
+2
+Joachim MØLLER
+Forårs. str.
+17
+Thomas BOILESEN
+37.59
+TMS Straffekast reddet
+43
+Emil LA COUR
+12
+Josip CAVAR
+38.20 21-22 TTH
+Mål
+Gbr 11
+Thomas DAMGAARD
+1
+Tobias LANTZ
+38.59
+TMS Tilkendt straffe
+44
+Frederik HORN
+Forårs. str.
+17
+Thomas BOILESEN
+39.11 21-23 TMS Mål på straffe
+81
+Tobias NIELSEN
+12
+Josip CAVAR
+39.41 22-23 TTH
+Mål
+ST
+4
+Christoffer CICHOSZ
+Assist
+22
+Nikolaj MARKUSSEN
+1
+Tobias LANTZ
+40.46
+TMS Skud reddet
+VB
+17
+Oliver WOSNIAK
+16
+Sander Drange HEIEREN
+40.57
+TMS Udvisning
+17
+Oliver WOSNIAK
+41.07 23-23 TTH
+Mål
+HF
+28
+Kevin GULLIKSEN
+Assist
+11
+Thomas DAMGAARD
+1
+Tobias LANTZ
+41.45
+TMS Skud reddet
+ST
+9
+Hakan SAHIN
+16
+Sander Drange HEIEREN
+41.51
+TTH
+Fejlaflevering
+26
+Mathias SMED
+42.29
+TMS Skud reddet
+ST
+9
+Hakan SAHIN
+16
+Sander Drange HEIEREN
+42.49 24-23 TTH
+Mål
+Gbr 11
+Thomas DAMGAARD
+1
+Tobias LANTZ
+42.59
+TMS Time out
+43.29
+TMS Regelfejl
+77
+Nicolai COLUNGA
+43.38
+TMS Advarsel
+B
+Marc UHD
+44.24
+TTH
+Skud reddet
+PL
+11
+Thomas DAMGAARD
+16
+Andreas HAAGEN
+45.04
+TMS Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+16
+Sander Drange HEIEREN
+45.10
+TTH
+Skud på stolpe
+1:e
+16
+Sander Drange HEIEREN
+0
+45.33 24-24 TMS Mål
+VB
+17
+Oliver WOSNIAK
+16
+Sander Drange HEIEREN
+46.08
+TTH
+Time out
+46.22
+TTH
+Fejlaflevering
+22
+Nikolaj MARKUSSEN
+46.27 24-25 TMS Mål
+1:e
+81
+Tobias NIELSEN
+16
+Sander Drange HEIEREN
+46.57 25-25 TTH
+Mål
+Gbr 11
+Thomas DAMGAARD
+16
+Andreas HAAGEN
+47.40 25-26 TMS Mål
+HF
+81
+Tobias NIELSEN
+Assist
+7
+Christoffer DREYER
+16
+Sander Drange HEIEREN
+48.18 26-26 TTH
+Mål
+ST
+10
+Magnus BRAMMING
+Assist
+21
+Jonas Gade NIELSEN
+16
+Andreas HAAGEN
+48.49
+TMS Skud blokeret
+VB
+17
+Oliver WOSNIAK
+Blok af (ret)
+21
+Jonas Gade NIELSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+TTH Holstebro - TMS Ringsted   34 - 33  (14 - 19)
+590033 / 6-9-2023 / Gråkjær Arena Holstebro / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+49.04
+TMS Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+16
+Sander Drange HEIEREN
+50.07 27-26 TTH
+Mål
+ST
+28
+Kevin GULLIKSEN
+Assist
+22
+Nikolaj MARKUSSEN
+16
+Andreas HAAGEN
+50.51 27-27 TMS Mål
+ST
+2
+Joachim MØLLER
+Assist
+17
+Oliver WOSNIAK
+16
+Sander Drange HEIEREN
+51.22
+TTH
+Regelfejl
+4
+Christoffer CICHOSZ
+51.26 27-28 TMS Mål
+1:e
+81
+Tobias NIELSEN
+Assist
+43
+Emil LA COUR
+16
+Sander Drange HEIEREN
+51.58
+TTH
+Tabt bold
+21
+Jonas Gade NIELSEN
+Bold erobret
+7
+Christoffer DREYER
+52.02 27-29 TMS Mål
+1:e
+81
+Tobias NIELSEN
+Assist
+7
+Christoffer DREYER
+16
+Sander Drange HEIEREN
+52.43
+TTH
+Skud på stolpe
+Gbr 21
+Jonas Gade NIELSEN
+16
+Andreas HAAGEN
+53.18 27-30 TMS Mål
+Gbr
+7
+Christoffer DREYER
+16
+Sander Drange HEIEREN
+53.26 28-30 TTH
+Mål
+2:e
+28
+Kevin GULLIKSEN
+Assist
+21
+Jonas Gade NIELSEN
+16
+Andreas HAAGEN
+54.01
+TMS Skud på stolpe
+HF
+81
+Tobias NIELSEN
+16
+Sander Drange HEIEREN
+54.29 29-30 TTH
+Mål
+HF
+28
+Kevin GULLIKSEN
+Assist
+21
+Jonas Gade NIELSEN
+16
+Andreas HAAGEN
+55.24 29-31 TMS Mål
+ST
+2
+Joachim MØLLER
+Assist
+5
+Mark NIKOLAJSEN
+16
+Sander Drange HEIEREN
+55.56 30-31 TTH
+Mål
+PL
+24
+Johan MEKLENBORG
+16
+Andreas HAAGEN
+56.05
+TTH
+Udvisning
+4
+Christoffer CICHOSZ
+56.27
+TMS Fejlaflevering
+5
+Mark NIKOLAJSEN
+56.32 31-31 TTH
+Mål
+1:e
+16
+Sander Drange HEIEREN
+0
+56.56 31-32 TMS Mål
+VF
+43
+Emil LA COUR
+16
+Sander Drange HEIEREN
+57.55 32-32 TTH
+Mål
+Gbr 21
+Jonas Gade NIELSEN
+Assist
+11
+Thomas DAMGAARD
+1
+Tobias LANTZ
+58.45 32-33 TMS Mål
+PL
+17
+Oliver WOSNIAK
+16
+Sander Drange HEIEREN
+59.13
+TTH
+Time out
+59.20 33-33 TTH
+Mål
+ST
+23
+Miha ZVIZEJ
+Assist
+22
+Nikolaj MARKUSSEN
+1
+Tobias LANTZ
+59.52
+TMS Fejlaflevering
+17
+Oliver WOSNIAK
+59.59 34-33 TTH
+Mål
+2:e
+23
+Miha ZVIZEJ
+Assist
+10
+Magnus BRAMMING
+1
+Tobias LANTZ
+60.00 34-33
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Eva Rebbe, Leif Paulsen,

@@ -14,7 +14,7 @@ app = Flask(__name__)
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename='handball_admin.log'
+    filename='Logs/handball_admin.log'
 )
 logger = logging.getLogger('handball_admin')
 

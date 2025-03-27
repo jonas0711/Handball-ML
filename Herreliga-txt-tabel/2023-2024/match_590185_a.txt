@@ -1,0 +1,885 @@
+KAMPHÆNDELSER
+Aalborg Håndbold - Nordsjælland Håndbold   30 - 28  (16 - 14)
+590185 / 9-3-2024 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+1.10
+NSH Skud forbi
+HB
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+1.52
+AAH Skud forbi
+HB 15
+Jack THURIN
+16
+Magnus PETERSEN
+2.03
+0-1
+NSH Mål
+PL
+17
+Nichlas HALD
+12
+Fabian NORSTEN
+2.47
+AAH Skud blokeret
+HB 15
+Jack THURIN
+Blok af (ret)
+17
+Nichlas HALD
+16
+Magnus PETERSEN
+3.14
+AAH Skud reddet
+PL
+7
+Thomas ARNOLDSEN
+16
+Magnus PETERSEN
+3.22
+0-2
+NSH Mål
+Gbr
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+4.03
+NSH Advarsel
+42
+Matias CAMPBELL
+4.03
+AAH Regelfejl
+15
+Jack THURIN
+4.08
+0-3
+NSH Mål
+Gbr 17
+Nichlas HALD
+12
+Fabian NORSTEN
+4.57
+AAH Skud reddet
+PL
+7
+Thomas ARNOLDSEN
+16
+Magnus PETERSEN
+5.09
+NSH Skud forbi
+HB
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+5.19
+1-3
+AAH Mål
+Gbr 21
+Henrik MØLLGAARD
+16
+Magnus PETERSEN
+6.51
+1-4
+NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+7.23
+AAH Skud reddet
+PL
+7
+Thomas ARNOLDSEN
+Retur
+4
+Patrick WIESMACH
+16
+Magnus PETERSEN
+7.35
+2-4
+AAH Mål
+ST
+4
+Patrick WIESMACH
+16
+Magnus PETERSEN
+7.50
+NSH Skud reddet
+PL
+17
+Nichlas HALD
+12
+Fabian NORSTEN
+7.57
+3-4
+AAH Mål
+ST
+11
+Simon HALD
+Assist
+7
+Thomas ARNOLDSEN
+16
+Magnus PETERSEN
+8.14
+NSH Skud reddet
+PL
+17
+Nichlas HALD
+12
+Fabian NORSTEN
+8.31
+AAH Regelfejl
+15
+Jack THURIN
+8.43
+3-5
+NSH Mål
+1:e
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+9.15
+AAH Regelfejl
+7
+Thomas ARNOLDSEN
+9.16
+AAH Udvisning
+7
+Thomas ARNOLDSEN
+9.47
+NSH Skud reddet
+Gbr 17
+Nichlas HALD
+Retur
+12
+Fabian NORSTEN
+10.52
+3-6
+NSH Mål
+PL
+17
+Nichlas HALD
+12
+Fabian NORSTEN
+11.22
+AAH Skud reddet
+Gbr
+3
+Lukas NILSSON
+Retur
+4
+Patrick WIESMACH
+16
+Magnus PETERSEN
+11.24
+4-6
+AAH Mål
+HB 15
+Jack THURIN
+16
+Magnus PETERSEN
+12.08
+4-7
+NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+2
+Justin MÜLLER
+12
+Fabian NORSTEN
+12.41
+AAH Skud reddet
+VB
+3
+Lukas NILSSON
+Retur
+4
+Patrick WIESMACH
+16
+Magnus PETERSEN
+13.13
+5-7
+AAH Mål
+ST
+11
+Simon HALD
+Assist
+7
+Thomas ARNOLDSEN
+16
+Magnus PETERSEN
+14.06
+5-8
+NSH Mål
+PL
+17
+Nichlas HALD
+12
+Fabian NORSTEN
+14.22
+AAH Skud blokeret
+PL
+15
+Jack THURIN
+Blok af (ret)
+0
+14.49
+AAH Skud reddet
+Gbr
+3
+Lukas NILSSON
+Retur
+4
+Patrick WIESMACH
+16
+Magnus PETERSEN
+15.11
+6-8
+AAH Mål
+HF
+4
+Patrick WIESMACH
+Assist
+3
+Lukas NILSSON
+16
+Magnus PETERSEN
+16.11
+6-9
+NSH Mål
+VF
+25
+Jeppe CIESLAK
+Assist
+17
+Nichlas HALD
+12
+Fabian NORSTEN
+16.39
+7-9
+AAH Mål
+HF
+4
+Patrick WIESMACH
+Assist
+7
+Thomas ARNOLDSEN
+16
+Magnus PETERSEN
+17.25
+NSH Skud reddet
+Gbr
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+17.34
+8-9
+AAH Mål
+Gbr
+3
+Lukas NILSSON
+16
+Magnus PETERSEN
+18.06
+8-10
+NSH Mål
+Gbr
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+18.43
+AAH Regelfejl
+3
+Lukas NILSSON
+18.52
+NSH Skud reddet
+1:e
+13
+Gustav BRUUN
+12
+Fabian NORSTEN
+19.01
+9-10
+AAH Mål
+VB
+3
+Lukas NILSSON
+16
+Magnus PETERSEN
+19.32
+9-11
+NSH Mål
+VF
+25
+Jeppe CIESLAK
+Assist
+2
+Justin MÜLLER
+12
+Fabian NORSTEN
+20.12 10-11 AAH Mål
+VB
+3
+Lukas NILSSON
+16
+Magnus PETERSEN
+20.52 10-12 NSH Mål
+PL
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+21.24 11-12 AAH Mål
+Gbr 18
+Aleks VLAH
+16
+Magnus PETERSEN
+21.44
+NSH Skud reddet
+HF
+3
+Carl-Emil HAUNSTRUP
+12
+Fabian NORSTEN
+22.12
+NSH Udvisning
+42
+Matias CAMPBELL
+22.31 12-12 AAH Mål
+Gbr
+7
+Thomas ARNOLDSEN
+Assist
+14
+Mads HOXER
+16
+Magnus PETERSEN
+23.13
+NSH Regelfejl
+17
+Nichlas HALD
+23.20 13-12 AAH Mål
+1:e
+7
+Thomas ARNOLDSEN
+0
+23.58
+NSH Skud reddet
+ST
+11
+Jonas RAUNDAHL
+12
+Fabian NORSTEN
+24.17 14-12 AAH Mål
+Gbr 14
+Mads HOXER
+16
+Magnus PETERSEN
+24.24
+NSH Time out
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - Nordsjælland Håndbold   30 - 28  (16 - 14)
+590185 / 9-3-2024 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.59 14-13 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+13
+Gustav BRUUN
+12
+Fabian NORSTEN
+25.32 15-13 AAH Mål
+ST
+11
+Simon HALD
+Assist
+14
+Mads HOXER
+16
+Magnus PETERSEN
+26.27
+NSH Regelfejl
+13
+Gustav BRUUN
+27.05
+AAH Fejlaflevering
+18
+Aleks VLAH
+27.08 15-14 NSH Mål
+ST
+5
+Julius MØRCH
+Assist
+42
+Matias CAMPBELL
+12
+Fabian NORSTEN
+27.38 16-14 AAH Mål
+Gbr
+3
+Lukas NILSSON
+Assist
+15
+Jack THURIN
+16
+Magnus PETERSEN
+28.24
+NSH Skud reddet
+Gbr 42
+Matias CAMPBELL
+12
+Fabian NORSTEN
+29.04
+AAH Fejlaflevering
+15
+Jack THURIN
+29.45
+NSH Skud reddet
+ST
+21
+Tim RANTALA
+12
+Fabian NORSTEN
+30.00 16-14
+Halvleg
+30.00
+Start 2:e halvleg
+30.43
+AAH Skud reddet
+PL
+25
+Marinus MUNK
+16
+Magnus PETERSEN
+30.52
+NSH Skud reddet
+ST
+5
+Julius MØRCH
+12
+Fabian NORSTEN
+31.49 17-14 AAH Mål
+PL
+14
+Mads HOXER
+16
+Magnus PETERSEN
+31.57 17-15 NSH Mål
+VB
+17
+Nichlas HALD
+12
+Fabian NORSTEN
+32.11 18-15 AAH Mål
+Gbr 25
+Marinus MUNK
+16
+Magnus PETERSEN
+32.22
+NSH Regelfejl
+7
+Kristian OLSEN
+32.26 19-15 AAH Mål
+1:e
+14
+Mads HOXER
+Assist
+25
+Marinus MUNK
+16
+Magnus PETERSEN
+32.58 19-16 NSH Mål
+PL
+17
+Nichlas HALD
+12
+Fabian NORSTEN
+33.14
+AAH Fejlaflevering
+25
+Marinus MUNK
+34.09
+NSH Skud reddet
+PL
+17
+Nichlas HALD
+12
+Fabian NORSTEN
+34.42 20-16 AAH Mål
+Gbr 25
+Marinus MUNK
+16
+Magnus PETERSEN
+35.53
+NSH Skud reddet
+PL
+2
+Justin MÜLLER
+12
+Fabian NORSTEN
+36.30
+AAH Fejlaflevering
+18
+Aleks VLAH
+37.14
+NSH Skud reddet
+PL
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+38.10 21-16 AAH Mål
+HB 15
+Jack THURIN
+29
+Jimmi ANDERSEN
+38.18
+NSH Time out
+38.45
+NSH Skud reddet
+PL
+42
+Matias CAMPBELL
+12
+Fabian NORSTEN
+38.59
+AAH Skud reddet
+ST
+23
+Buster JUUL
+29
+Jimmi ANDERSEN
+39.35 21-17 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+40.25
+AAH Fejlaflevering
+25
+Marinus MUNK
+41.14
+NSH Skud reddet
+HF
+3
+Carl-Emil HAUNSTRUP
+12
+Fabian NORSTEN
+41.22 22-17 AAH Mål
+Gbr 21
+Henrik MØLLGAARD
+29
+Jimmi ANDERSEN
+42.09 22-18 NSH Mål
+ST
+21
+Tim RANTALA
+Assist
+42
+Matias CAMPBELL
+12
+Fabian NORSTEN
+42.47 23-18 AAH Mål
+Gbr 25
+Marinus MUNK
+29
+Jimmi ANDERSEN
+43.03 23-19 NSH Mål
+ST
+11
+Jonas RAUNDAHL
+Assist
+42
+Matias CAMPBELL
+12
+Fabian NORSTEN
+43.35
+AAH Skud reddet
+VB
+3
+Lukas NILSSON
+29
+Jimmi ANDERSEN
+44.16 23-20 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+45.04
+AAH Tilkendt straffe
+11
+Simon HALD
+Forårs. str.
+11
+Jonas RAUNDAHL
+45.04
+NSH Udvisning
+11
+Jonas RAUNDAHL
+45.05 24-20 AAH Mål på straffe
+23
+Buster JUUL
+29
+Jimmi ANDERSEN
+45.45 24-21 NSH Mål
+Gbr
+7
+Kristian OLSEN
+12
+Fabian NORSTEN
+46.30 25-21 AAH Mål
+HB 15
+Jack THURIN
+29
+Jimmi ANDERSEN
+47.18
+NSH Fejlaflevering
+17
+Nichlas HALD
+47.36
+NSH Time out
+48.16
+AAH Skud reddet
+HB 15
+Jack THURIN
+29
+Jimmi ANDERSEN
+48.23
+NSH Skud reddet
+VF
+25
+Jeppe CIESLAK
+12
+Fabian NORSTEN
+48.51
+AAH Skud reddet
+Gbr
+3
+Lukas NILSSON
+29
+Jimmi ANDERSEN
+49.02
+NSH Skud reddet
+Gbr 42
+Matias CAMPBELL
+12
+Fabian NORSTEN
+49.54
+AAH Fejlaflevering
+25
+Marinus MUNK
+50.02 25-22 NSH Mål
+1:e
+25
+Jeppe CIESLAK
+Assist
+42
+Matias CAMPBELL
+12
+Fabian NORSTEN
+50.20 26-22 AAH Mål
+Gbr
+3
+Lukas NILSSON
+29
+Jimmi ANDERSEN
+50.30 26-23 NSH Mål
+2:e
+3
+Carl-Emil HAUNSTRUP
+12
+Fabian NORSTEN
+51.01
+AAH Skud reddet
+Gbr
+3
+Lukas NILSSON
+29
+Jimmi ANDERSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - Nordsjælland Håndbold   30 - 28  (16 - 14)
+590185 / 9-3-2024 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+51.24
+NSH Tilkendt straffe
+13
+Gustav BRUUN
+Forårs. str.
+27
+Benjamin JAKOBSEN
+51.38 26-24 NSH Mål på straffe
+25
+Jeppe CIESLAK
+12
+Fabian NORSTEN
+51.55 27-24 AAH Mål
+Gbr 18
+Aleks VLAH
+29
+Jimmi ANDERSEN
+52.47 27-25 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+42
+Matias CAMPBELL
+12
+Fabian NORSTEN
+54.03
+AAH Skud på stolpe
+Gbr 25
+Marinus MUNK
+29
+Jimmi ANDERSEN
+55.03
+NSH Skud forbi
+VB
+42
+Matias CAMPBELL
+12
+Fabian NORSTEN
+55.51
+AAH Skud forbi
+PL
+25
+Marinus MUNK
+29
+Jimmi ANDERSEN
+56.28
+NSH Fejlaflevering
+7
+Kristian OLSEN
+57.04 28-25 AAH Mål
+ST
+18
+Aleks VLAH
+Assist
+14
+Mads HOXER
+29
+Jimmi ANDERSEN
+57.06
+NSH Udvisning
+13
+Gustav BRUUN
+57.48
+NSH Tilkendt straffe
+2
+Justin MÜLLER
+Forårs. str.
+21
+Henrik MØLLGAARD
+57.48
+AAH Udvisning
+21
+Henrik MØLLGAARD
+57.51 28-26 NSH Mål på straffe
+25
+Jeppe CIESLAK
+12
+Fabian NORSTEN
+58.24 29-26 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+11
+Simon HALD
+29
+Jimmi ANDERSEN
+58.56 29-27 NSH Mål
+ST
+5
+Julius MØRCH
+Assist
+42
+Matias CAMPBELL
+12
+Fabian NORSTEN
+59.15
+AAH Time out
+59.28
+AAH Skud reddet
+Gbr 18
+Aleks VLAH
+29
+Jimmi ANDERSEN
+59.38 29-28 NSH Mål
+PL
+17
+Nichlas HALD
+12
+Fabian NORSTEN
+60.00 30-28 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+29
+Jimmi ANDERSEN
+60.00 30-28
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Lars Bo Ibsen, Frederik Nielsen,

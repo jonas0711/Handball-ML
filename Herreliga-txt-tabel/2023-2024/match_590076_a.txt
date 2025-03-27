@@ -1,0 +1,876 @@
+KAMPHÆNDELSER
+SAH - Aalborg Håndbold   19 - 26  (10 - 12)
+590076 / 15-10-2023 / Djurslands Bank Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.57
+SAH Skud reddet
+VF
+4
+Lars SKAARUP
+Retur
+0
+1
+Niklas LANDIN
+1.40
+SAH Skud reddet
+VB
+8
+Torben PETERSEN
+1
+Niklas LANDIN
+1.47
+AAH Skud reddet
+1:e
+4
+Patrick WIESMACH
+12
+Salah BOUTAF
+2.50
+SAH Skud blokeret
+PL
+23
+Morten Hempel JENSEN
+Blok af (ret)
+21
+Henrik MØLLGAARD
+3.02
+SAH Skud reddet
+HB 20
+Morten BALLING
+1
+Niklas LANDIN
+3.09
+AAH Regelfejl
+18
+Aleks VLAH
+3.19
+1-0
+SAH Mål
+2:e
+11
+Mikkel LANG
+Assist
+20
+Morten BALLING
+1
+Niklas LANDIN
+3.52
+1-1
+AAH Mål
+PL
+14
+Mads HOXER
+12
+Salah BOUTAF
+4.25
+SAH Skud reddet
+VF
+4
+Lars SKAARUP
+Retur
+0
+1
+Niklas LANDIN
+4.50
+2-1
+SAH Mål
+ST
+19
+Thor CHRISTENSEN
+Assist
+23
+Morten Hempel JENSEN
+1
+Niklas LANDIN
+5.27
+2-2
+AAH Mål
+PL
+14
+Mads HOXER
+12
+Salah BOUTAF
+5.35
+SAH Regelfejl
+19
+Thor CHRISTENSEN
+6.36
+AAH Tabt bold
+14
+Mads HOXER
+7.14
+SAH Skud reddet
+PL
+20
+Morten BALLING
+1
+Niklas LANDIN
+8.12
+AAH Skud på stolpe
+PL
+15
+Jack THURIN
+12
+Salah BOUTAF
+8.22
+3-2
+SAH Mål
+2:e
+11
+Mikkel LANG
+Assist
+20
+Morten BALLING
+1
+Niklas LANDIN
+8.32
+AAH Tilkendt straffe
+23
+Buster JUUL
+Forårs. str.
+6
+Kristian BONEFELD
+8.33
+SAH Udvisning
+6
+Kristian BONEFELD
+8.36
+3-3
+AAH Mål på straffe
+23
+Buster JUUL
+12
+Salah BOUTAF
+9.10
+AAH Rødt kort, direkte
+21
+Henrik MØLLGAARD
+9.45
+SAH Skud reddet
+PL
+32
+Fredrik OLSSON
+1
+Niklas LANDIN
+10.19
+3-4
+AAH Mål
+Gbr 18
+Aleks VLAH
+12
+Salah BOUTAF
+10.43
+SAH Skud reddet
+VF
+4
+Lars SKAARUP
+Retur
+32
+Fredrik OLSSON
+1
+Niklas LANDIN
+11.03
+4-4
+SAH Mål
+Gbr 23
+Morten Hempel JENSEN
+1
+Niklas LANDIN
+11.41
+4-5
+AAH Mål
+VF
+23
+Buster JUUL
+Assist
+18
+Aleks VLAH
+12
+Salah BOUTAF
+12.34
+SAH Tilkendt straffe
+32
+Fredrik OLSSON
+Forårs. str.
+11
+Simon HALD
+13.01
+SAH Straffekast reddet
+20
+Morten BALLING
+1
+Niklas LANDIN
+13.36
+4-6
+AAH Mål
+ST
+11
+Simon HALD
+Assist
+14
+Mads HOXER
+12
+Salah BOUTAF
+14.32
+5-6
+SAH Mål
+HF
+11
+Mikkel LANG
+Assist
+23
+Morten Hempel JENSEN
+1
+Niklas LANDIN
+14.39
+SAH Udvisning
+11
+Mikkel LANG
+15.05
+5-7
+AAH Mål
+ST
+11
+Simon HALD
+Assist
+24
+Mikkel HANSEN
+12
+Salah BOUTAF
+15.56
+SAH Fejlaflevering
+32
+Fredrik OLSSON
+16.03
+5-8
+AAH Mål
+1:e
+4
+Patrick WIESMACH
+Assist
+18
+Aleks VLAH
+0
+16.42
+6-8
+SAH Mål
+PL
+32
+Fredrik OLSSON
+1
+Niklas LANDIN
+17.31
+AAH Tilkendt straffe
+11
+Simon HALD
+Forårs. str.
+6
+Kristian BONEFELD
+17.31
+SAH Udvisning
+6
+Kristian BONEFELD
+17.35
+AAH Straffekast reddet
+23
+Buster JUUL
+12
+Salah BOUTAF
+18.00
+SAH Time out
+18.43
+7-8
+SAH Mål
+Gbr
+8
+Torben PETERSEN
+1
+Niklas LANDIN
+19.10
+7-9
+AAH Mål
+VF
+23
+Buster JUUL
+Assist
+24
+Mikkel HANSEN
+12
+Salah BOUTAF
+19.44
+8-9
+SAH Mål
+HF
+11
+Mikkel LANG
+Assist
+23
+Morten Hempel JENSEN
+1
+Niklas LANDIN
+20.04
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+12
+Salah BOUTAF
+20.11
+SAH Regelfejl
+8
+Torben PETERSEN
+20.45
+AAH Skud reddet
+HB 15
+Jack THURIN
+12
+Salah BOUTAF
+22.14
+SAH Skud reddet
+PL
+32
+Fredrik OLSSON
+1
+Niklas LANDIN
+22.27
+AAH Time out
+23.13
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+12
+Salah BOUTAF
+23.43
+SAH Fejlaflevering
+23
+Morten Hempel JENSEN
+Bold erobret 18
+Aleks VLAH
+23.49
+8-10
+AAH Mål
+1:e
+18
+Aleks VLAH
+12
+Salah BOUTAF
+24.53
+SAH Tilkendt straffe
+20
+Morten BALLING
+Forårs. str.
+23
+Buster JUUL
+25.20
+SAH Straffekast reddet
+23
+Morten Hempel JENSEN
+1
+Niklas LANDIN
+26.06
+8-11
+AAH Mål
+PL
+24
+Mikkel HANSEN
+12
+Salah BOUTAF
+26.14
+SAH Skud reddet
+2:e
+11
+Mikkel LANG
+1
+Niklas LANDIN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+SAH - Aalborg Håndbold   19 - 26  (10 - 12)
+590076 / 15-10-2023 / Djurslands Bank Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+26.44
+AAH Skud reddet
+Gbr 25
+Marinus MUNK
+12
+Salah BOUTAF
+27.20
+9-11
+SAH Mål
+Gbr 32
+Fredrik OLSSON
+1
+Niklas LANDIN
+28.07
+AAH Regelfejl
+17
+Martin LARSEN
+28.56 10-11 SAH Mål
+HF
+11
+Mikkel LANG
+Assist
+20
+Morten BALLING
+1
+Niklas LANDIN
+29.47 10-12 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+24
+Mikkel HANSEN
+12
+Salah BOUTAF
+29.55
+SAH Skud reddet
+2:e
+6
+Kristian BONEFELD
+1
+Niklas LANDIN
+30.00 10-12
+Halvleg
+30.00
+Start 2:e halvleg
+30.28
+AAH Skud reddet
+Gbr 14
+Mads HOXER
+12
+Salah BOUTAF
+31.04
+SAH Fejlaflevering
+32
+Fredrik OLSSON
+Bold erobret 11
+Simon HALD
+31.09 10-13 AAH Mål
+1:e
+23
+Buster JUUL
+Assist
+22
+Rene ANTONSEN
+12
+Salah BOUTAF
+31.42
+SAH Fejlaflevering
+32
+Fredrik OLSSON
+31.49
+SAH Udvisning
+20
+Morten BALLING
+32.25
+AAH Tilkendt straffe
+11
+Simon HALD
+Forårs. str.
+19
+Thor CHRISTENSEN
+32.49 10-14 AAH Mål på straffe
+24
+Mikkel HANSEN
+12
+Salah BOUTAF
+33.41
+SAH Skud reddet
+Gbr 23
+Morten Hempel JENSEN
+1
+Niklas LANDIN
+34.12
+AAH Skud reddet
+HB 14
+Mads HOXER
+12
+Salah BOUTAF
+34.19 11-14 SAH Mål
+1:e
+24
+Anton BRAMMING
+Assist
+32
+Fredrik OLSSON
+1
+Niklas LANDIN
+34.47 11-15 AAH Mål
+ST
+11
+Simon HALD
+Assist
+3
+Lukas NILSSON
+12
+Salah BOUTAF
+35.39
+SAH Skud reddet
+HB 20
+Morten BALLING
+1
+Niklas LANDIN
+35.44 11-16 AAH Mål
+1:e
+23
+Buster JUUL
+Assist
+1
+Niklas LANDIN
+12
+Salah BOUTAF
+35.48
+SAH Time out
+36.35
+SAH Skud reddet
+HB 20
+Morten BALLING
+1
+Niklas LANDIN
+37.11 11-17 AAH Mål
+PL
+14
+Mads HOXER
+12
+Salah BOUTAF
+37.51
+SAH Fejlaflevering
+8
+Torben PETERSEN
+Bold erobret 14
+Mads HOXER
+37.57
+AAH Skud reddet
+2:e
+18
+Aleks VLAH
+Retur
+0
+12
+Salah BOUTAF
+38.03 11-18 AAH Mål
+ST
+4
+Patrick WIESMACH
+12
+Salah BOUTAF
+38.58
+SAH Regelfejl
+3
+Lars MOUSING
+39.03 11-19 AAH Mål
+1:e
+4
+Patrick WIESMACH
+Assist
+1
+Niklas LANDIN
+12
+Salah BOUTAF
+39.34
+SAH Skud på stolpe
+PL
+32
+Fredrik OLSSON
+1
+Niklas LANDIN
+40.03
+AAH Fejlaflevering
+18
+Aleks VLAH
+40.12 12-19 SAH Mål
+2:e
+24
+Anton BRAMMING
+Assist
+32
+Fredrik OLSSON
+1
+Niklas LANDIN
+40.45 12-20 AAH Mål
+ST
+23
+Buster JUUL
+Assist
+14
+Mads HOXER
+12
+Salah BOUTAF
+41.26 13-20 SAH Mål
+VB
+8
+Torben PETERSEN
+1
+Niklas LANDIN
+41.57 13-21 AAH Mål
+HF
+4
+Patrick WIESMACH
+Assist
+23
+Buster JUUL
+12
+Salah BOUTAF
+42.35
+SAH Skud reddet
+PL
+32
+Fredrik OLSSON
+1
+Niklas LANDIN
+42.40 13-22 AAH Mål
+1:e
+4
+Patrick WIESMACH
+Assist
+22
+Rene ANTONSEN
+0
+42.46
+SAH Time out
+43.07
+SAH Fejlaflevering
+32
+Fredrik OLSSON
+43.12 13-23 AAH Mål
+1:e
+17
+Martin LARSEN
+Assist
+18
+Aleks VLAH
+0
+44.03
+SAH Skud reddet
+VF
+24
+Anton BRAMMING
+1
+Niklas LANDIN
+44.31
+AAH Fejlaflevering
+18
+Aleks VLAH
+45.06
+SAH Skud reddet
+VB
+23
+Morten Hempel JENSEN
+1
+Niklas LANDIN
+45.37
+AAH Skud forbi
+PL
+18
+Aleks VLAH
+12
+Salah BOUTAF
+45.46
+SAH Skud reddet
+2:e
+11
+Mikkel LANG
+Retur
+0
+1
+Niklas LANDIN
+46.06
+SAH Tabt bold
+3
+Lars MOUSING
+46.11 13-24 AAH Mål
+1:e
+4
+Patrick WIESMACH
+Assist
+22
+Rene ANTONSEN
+0
+46.50 14-24 SAH Mål
+HF
+11
+Mikkel LANG
+Assist
+20
+Morten BALLING
+1
+Niklas LANDIN
+47.42
+AAH Regelfejl
+17
+Martin LARSEN
+47.54 15-24 SAH Mål
+2:e
+6
+Kristian BONEFELD
+12
+Fabian NORSTEN
+48.42
+AAH Tabt bold
+25
+Marinus MUNK
+49.31
+SAH Regelfejl
+5
+Frederik ARNOLDSEN
+50.21
+AAH Skud reddet
+PL
+25
+Marinus MUNK
+12
+Salah BOUTAF
+50.33 16-24 SAH Mål
+2:e
+6
+Kristian BONEFELD
+12
+Fabian NORSTEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+SAH - Aalborg Håndbold   19 - 26  (10 - 12)
+590076 / 15-10-2023 / Djurslands Bank Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+50.42
+AAH Time out
+51.08
+AAH Tilkendt straffe
+14
+Mads HOXER
+Forårs. str.
+8
+Torben PETERSEN
+51.30 16-25 AAH Mål på straffe
+24
+Mikkel HANSEN
+12
+Salah BOUTAF
+52.06 17-25 SAH Mål
+Gbr 23
+Morten Hempel JENSEN
+12
+Fabian NORSTEN
+52.33 17-26 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+14
+Mads HOXER
+12
+Salah BOUTAF
+53.02 18-26 SAH Mål
+HF
+25
+Silas Aarestrup FRANK
+Assist
+20
+Morten BALLING
+12
+Fabian NORSTEN
+54.07
+AAH Skud reddet
+PL
+17
+Martin LARSEN
+12
+Salah BOUTAF
+55.12
+SAH Skud blokeret
+PL
+32
+Fredrik OLSSON
+Blok af (ret)
+14
+Mads HOXER
+55.20
+SAH Passivt spil
+0
+55.45
+AAH Tabt bold
+17
+Martin LARSEN
+56.24
+SAH Skud reddet
+HF
+25
+Silas Aarestrup FRANK
+12
+Fabian NORSTEN
+57.12
+AAH Skud forbi
+VB
+25
+Marinus MUNK
+12
+Salah BOUTAF
+57.52 19-26 SAH Mål
+PL
+23
+Morten Hempel JENSEN
+12
+Fabian NORSTEN
+58.26
+AAH Skud forbi
+Gbr 25
+Marinus MUNK
+12
+Salah BOUTAF
+58.59
+SAH Regelfejl
+3
+Lars MOUSING
+59.41
+AAH Skud reddet
+ST
+11
+Simon HALD
+12
+Salah BOUTAF
+59.59
+SAH Skud reddet
+VF
+24
+Anton BRAMMING
+12
+Fabian NORSTEN
+60.00 19-26
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Anne Sofie Vindstrup, Christian Emil Vindstrup,

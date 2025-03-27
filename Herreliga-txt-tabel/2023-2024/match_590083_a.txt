@@ -1,0 +1,956 @@
+KAMPHÆNDELSER
+SønderjyskE Herrer - Skjern Håndbold   29 - 25  (16 - 12)
+590083 / 20-10-2023 / Broager Sparekasse SKANSEN 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.56
+SKH Skud reddet
+PL
+9
+Simen PETTERSEN
+12
+Kasper LARSEN
+1.31
+SJE
+Skud reddet
+HF
+24
+Sebastian AUGUSTINUSSEN Retur
+0
+1
+Christoffer BONDE
+1.51
+SJE
+Skud reddet
+PL
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+2.02
+SKH Skud reddet
+2:e
+26
+Jonathan WÜRTZ
+12
+Kasper LARSEN
+2.34
+SJE
+Skud reddet
+HB
+4
+Andreas LANG
+1
+Christoffer BONDE
+3.08
+SKH Skud blokeret
+PL
+13
+Noah GAUDIN
+Blok af (ret)
+3
+Oliver EGGERT
+3.21
+0-1
+SKH Mål
+HB 25
+Eivind TANGEN
+12
+Kasper LARSEN
+3.30
+1-1
+SJE
+Mål
+2:e
+4
+Andreas LANG
+1
+Christoffer BONDE
+4.08
+SKH Fejlaflevering
+13
+Noah GAUDIN
+4.38
+SJE
+Skud på stolpe
+PL
+3
+Oliver EGGERT
+1
+Christoffer BONDE
+4.48
+SKH Tabt bold
+9
+Simen PETTERSEN
+5.05
+SKH Advarsel
+25
+Eivind TANGEN
+5.31
+SJE
+Tilkendt straffe
+18
+Morten BJØRNSHAUGE
+Forårs. str.
+25
+Eivind TANGEN
+6.02
+2-1
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+1
+Christoffer BONDE
+6.31
+SKH Regelfejl
+13
+Noah GAUDIN
+7.11
+3-1
+SJE
+Mål
+HF
+24
+Sebastian AUGUSTINUSSEN Assist
+4
+Andreas LANG
+1
+Christoffer BONDE
+7.24
+SKH Tilkendt straffe
+9
+Simen PETTERSEN
+Forårs. str.
+4
+Andreas LANG
+7.55
+SKH Straffekast reddet
+18
+Alfred JÖNSSON
+12
+Kasper LARSEN
+8.27
+4-1
+SJE
+Mål
+HB
+4
+Andreas LANG
+Assist
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+8.37
+SJE
+Advarsel
+18
+Morten BJØRNSHAUGE
+9.09
+4-2
+SKH Mål
+VB
+9
+Simen PETTERSEN
+12
+Kasper LARSEN
+9.18
+SKH Udvisning
+26
+Jonathan WÜRTZ
+9.28
+5-2
+SJE
+Mål
+HF
+24
+Sebastian AUGUSTINUSSEN Assist
+4
+Andreas LANG
+1
+Christoffer BONDE
+10.34
+5-3
+SKH Mål
+VB
+9
+Simen PETTERSEN
+12
+Kasper LARSEN
+10.41
+6-3
+SJE
+Mål
+1:e
+25
+Kristian STRANDEN
+0
+11.11
+6-4
+SKH Mål
+HB 25
+Eivind TANGEN
+12
+Kasper LARSEN
+11.19
+SJE
+Skud forbi
+1:e
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+12.11
+6-5
+SKH Mål
+PL
+22
+Jakob RASMUSSEN
+12
+Kasper LARSEN
+12.47
+7-5
+SJE
+Mål
+Gbr
+4
+Andreas LANG
+Assist
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+13.00
+SKH Skud reddet
+PL
+9
+Simen PETTERSEN
+12
+Kasper LARSEN
+13.37
+SJE
+Tilkendt straffe
+3
+Oliver EGGERT
+Forårs. str.
+26
+Jonathan WÜRTZ
+14.10
+SJE
+Straffekast reddet
+11
+Nicolaj JØRGENSEN
+1
+Christoffer BONDE
+14.40
+7-6
+SKH Mål
+PL
+25
+Eivind TANGEN
+12
+Kasper LARSEN
+15.11
+8-6
+SJE
+Mål
+Gbr 27
+Alec SMIT
+1
+Christoffer BONDE
+15.44
+SKH Fejlaflevering
+9
+Simen PETTERSEN
+16.17
+SJE
+Skud reddet
+PL
+4
+Andreas LANG
+Retur
+6
+Nikolaj SVALASTOG
+1
+Christoffer BONDE
+16.43
+9-6
+SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+17.22
+SJE
+Udvisning
+27
+Alec SMIT
+17.44
+SKH Skud blokeret
+HB 25
+Eivind TANGEN
+Blok af (ret)
+18
+Morten BJØRNSHAUGE
+18.02
+9-7
+SKH Mål
+ST
+17
+Dan BECK-HANSEN
+Assist
+13
+Noah GAUDIN
+12
+Kasper LARSEN
+18.42
+SJE
+Skud reddet
+HF
+24
+Sebastian AUGUSTINUSSEN
+0
+19.25
+SKH Skud blokeret
+PL
+25
+Eivind TANGEN
+Blok af (ret)
+14
+Jacob BAGERSTED
+19.43
+SKH Skud blokeret
+PL
+22
+Jakob RASMUSSEN
+Blok af (ret)
+14
+Jacob BAGERSTED
+20.00
+SKH Skud blokeret
+PL
+13
+Noah GAUDIN
+Blok af (ret)
+25
+Kristian STRANDEN
+20.15
+9-8
+SKH Mål
+PL
+22
+Jakob RASMUSSEN
+12
+Kasper LARSEN
+20.50 10-8
+SJE
+Mål
+ST
+14
+Jacob BAGERSTED
+Assist
+3
+Oliver EGGERT
+1
+Christoffer BONDE
+21.31
+SKH Time out
+21.53
+SJE
+Udvisning
+18
+Morten BJØRNSHAUGE
+22.04
+SKH Skud forbi
+PL
+13
+Noah GAUDIN
+12
+Kasper LARSEN
+22.45 11-8
+SJE
+Mål
+Gbr
+4
+Andreas LANG
+Assist
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+23.11 11-9
+SKH Mål
+PL
+13
+Noah GAUDIN
+12
+Kasper LARSEN
+23.39
+SJE
+Fejlaflevering
+4
+Andreas LANG
+23.47
+SKH Skud forbi
+1:e
+1
+Christoffer BONDE
+0
+
+--- Side 2 ---
+KAMPHÆNDELSER
+SønderjyskE Herrer - Skjern Håndbold   29 - 25  (16 - 12)
+590083 / 20-10-2023 / Broager Sparekasse SKANSEN 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.15 12-9
+SJE
+Mål
+VB
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+24.59
+SKH Skud reddet
+VF
+5
+Viktor BERGHOLT
+12
+Kasper LARSEN
+25.40 13-9
+SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+3
+Oliver EGGERT
+1
+Christoffer BONDE
+26.10 13-10 SKH Mål
+VB
+25
+Eivind TANGEN
+12
+Kasper LARSEN
+26.38 14-10 SJE
+Mål
+PL
+4
+Andreas LANG
+Assist
+3
+Oliver EGGERT
+1
+Christoffer BONDE
+27.12 14-11 SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+25
+Eivind TANGEN
+12
+Kasper LARSEN
+27.20
+SKH Udvisning
+25
+Eivind TANGEN
+27.32 15-11 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+1
+Christoffer BONDE
+28.26
+SKH Regelfejl
+22
+Jakob RASMUSSEN
+28.50
+SJE
+Skud reddet
+Gbr
+3
+Oliver EGGERT
+1
+Christoffer BONDE
+29.28 15-12 SKH Mål
+PL
+22
+Jakob RASMUSSEN
+12
+Kasper LARSEN
+29.35
+SJE
+Time out
+29.55 16-12 SJE
+Mål
+HF
+27
+Alec SMIT
+Assist
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+29.59
+SKH Skud reddet
+1:e
+26
+Jonathan WÜRTZ
+12
+Kasper LARSEN
+30.00 16-12
+Halvleg
+30.00
+Start 2:e halvleg
+30.55 17-12 SJE
+Mål
+VB
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+31.39 17-13 SKH Mål
+PL
+22
+Jakob RASMUSSEN
+12
+Kasper LARSEN
+32.10
+SJE
+Skud reddet
+PL
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+32.22
+SKH Tilkendt straffe
+7
+Senjamin BURIC
+Forårs. str.
+4
+Andreas LANG
+32.29 17-14 SKH Mål på straffe
+18
+Alfred JÖNSSON
+12
+Kasper LARSEN
+33.06
+SJE
+Skud blokeret
+PL
+25
+Kristian STRANDEN
+Blok af (ret)
+7
+Senjamin BURIC
+33.36
+SJE
+Skud forbi
+PL
+3
+Oliver EGGERT
+1
+Christoffer BONDE
+34.13
+SKH Skud blokeret
+PL
+9
+Simen PETTERSEN
+Blok af (ret)
+4
+Andreas LANG
+34.26 17-15 SKH Mål
+HB 25
+Eivind TANGEN
+Assist
+22
+Jakob RASMUSSEN
+12
+Kasper LARSEN
+34.59 18-15 SJE
+Mål
+PL
+4
+Andreas LANG
+Assist
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+35.28 18-16 SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+25
+Eivind TANGEN
+12
+Kasper LARSEN
+36.17
+SJE
+Fejlaflevering
+25
+Kristian STRANDEN
+36.48
+SKH Skud reddet
+HB 25
+Eivind TANGEN
+12
+Kasper LARSEN
+36.59 19-16 SJE
+Mål
+1:e
+6
+Nikolaj SVALASTOG
+0
+37.35
+SKH Skud blokeret
+PL
+9
+Simen PETTERSEN
+Blok af (ret)
+18
+Morten BJØRNSHAUGE
+37.57
+SKH Skud reddet
+PL
+22
+Jakob RASMUSSEN
+12
+Kasper LARSEN
+38.55
+SJE
+Regelfejl
+18
+Morten BJØRNSHAUGE
+39.41
+SKH Skud blokeret
+PL
+25
+Eivind TANGEN
+Blokeret af
+0
+39.52
+SJE
+Skud reddet
+2:e
+6
+Nikolaj SVALASTOG
+Retur
+0
+1
+Christoffer BONDE
+40.23
+SJE
+Skud reddet
+VB
+25
+Kristian STRANDEN
+1
+Christoffer BONDE
+40.32
+SKH Time out
+41.17
+SKH Skud reddet
+HB 25
+Eivind TANGEN
+12
+Kasper LARSEN
+41.51
+SJE
+Regelfejl
+25
+Kristian STRANDEN
+41.51
+SJE
+Udvisning
+25
+Kristian STRANDEN
+42.14
+SJE
+Advarsel
+A
+Rasmus Glad VANDBÆK
+42.25 19-17 SKH Mål
+ST
+17
+Dan BECK-HANSEN
+Assist
+13
+Noah GAUDIN
+12
+Kasper LARSEN
+43.02 20-17 SJE
+Mål
+Gbr 11
+Nicolaj JØRGENSEN
+Assist
+3
+Oliver EGGERT
+1
+Christoffer BONDE
+43.34 20-18 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+13
+Noah GAUDIN
+12
+Kasper LARSEN
+44.06 21-18 SJE
+Mål
+PL
+4
+Andreas LANG
+1
+Christoffer BONDE
+44.47
+SKH Regelfejl
+7
+Senjamin BURIC
+45.18 22-18 SJE
+Mål
+PL
+4
+Andreas LANG
+Assist
+3
+Oliver EGGERT
+1
+Christoffer BONDE
+45.56
+SKH Skud blokeret
+PL
+25
+Eivind TANGEN
+Blok af (ret)
+3
+Oliver EGGERT
+46.28 22-19 SKH Mål
+HB 25
+Eivind TANGEN
+12
+Kasper LARSEN
+47.19
+SJE
+Skud reddet
+Gbr 11
+Nicolaj JØRGENSEN
+1
+Christoffer BONDE
+47.54
+SKH Fejlaflevering
+25
+Eivind TANGEN
+48.41 23-19 SJE
+Mål
+Gbr
+4
+Andreas LANG
+1
+Christoffer BONDE
+49.18
+SKH Skud blokeret
+PL
+25
+Eivind TANGEN
+Blok af (ret)
+14
+Jacob BAGERSTED
+49.39 23-20 SKH Mål
+VB
+22
+Jakob RASMUSSEN
+12
+Kasper LARSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+SønderjyskE Herrer - Skjern Håndbold   29 - 25  (16 - 12)
+590083 / 20-10-2023 / Broager Sparekasse SKANSEN 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+50.04
+SJE
+Time out
+50.19 24-20 SJE
+Mål
+Gbr
+4
+Andreas LANG
+1
+Christoffer BONDE
+51.24
+SKH Skud reddet
+PL
+25
+Eivind TANGEN
+12
+Kasper LARSEN
+51.59 25-20 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+1
+Christoffer BONDE
+52.10
+SKH Time out
+52.46 25-21 SKH Mål
+HB 25
+Eivind TANGEN
+12
+Kasper LARSEN
+53.18
+SJE
+Fejlaflevering
+6
+Nikolaj SVALASTOG
+53.57
+SKH Skud reddet
+PL
+13
+Noah GAUDIN
+12
+Kasper LARSEN
+54.05 26-21 SJE
+Mål
+1:e
+3
+Oliver EGGERT
+0
+54.47 26-22 SKH Mål
+HB 25
+Eivind TANGEN
+12
+Kasper LARSEN
+55.30
+SJE
+Tabt bold
+4
+Andreas LANG
+55.38 26-23 SKH Mål
+1:e
+5
+Viktor BERGHOLT
+Assist
+9
+Simen PETTERSEN
+12
+Kasper LARSEN
+56.15
+SJE
+Tilkendt straffe
+18
+Morten BJØRNSHAUGE
+Forårs. str.
+13
+Noah GAUDIN
+56.33 27-23 SJE
+Mål på straffe
+67
+Tobias MØLLER
+1
+Christoffer BONDE
+57.02 27-24 SKH Mål
+PL
+13
+Noah GAUDIN
+12
+Kasper LARSEN
+57.39
+SJE
+Skud reddet
+VB
+3
+Oliver EGGERT
+1
+Christoffer BONDE
+57.51
+SKH Skud forbi
+2:e
+13
+Noah GAUDIN
+12
+Kasper LARSEN
+58.12
+SJE
+Time out
+58.22 28-24 SJE
+Mål
+PL
+4
+Andreas LANG
+1
+Christoffer BONDE
+59.09
+SKH Skud forbi
+PL
+25
+Eivind TANGEN
+12
+Kasper LARSEN
+59.26
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+59.33 28-25 SKH Mål
+2:e
+13
+Noah GAUDIN
+12
+Kasper LARSEN
+59.57 29-25 SJE
+Mål
+Gbr 27
+Alec SMIT
+1
+Christoffer BONDE
+60.00 29-25
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Bjarne Nielsen, Torben Gravlund, Mads Zoega

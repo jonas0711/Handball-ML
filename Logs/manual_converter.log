@@ -1,0 +1,52 @@
+2025-03-26 12:09:14,339 - INFO - Bruger konfiguration fra scriptet
+2025-03-26 12:09:14,340 - INFO - ==== Starter manuel TXT til DB konvertering ====
+2025-03-26 12:09:14,341 - INFO - Input sti: Herreliga-txt-tabel/2023-2024
+2025-03-26 12:09:14,342 - INFO - Output mappe: Herreliga-database/2023-2024
+2025-03-26 12:09:14,342 - INFO - Tving overskrivning: False
+2025-03-26 12:09:14,343 - INFO - Detaljeret output: True
+2025-03-26 12:09:14,351 - INFO - Fandt 229 TXT filer i mappen: Herreliga-txt-tabel/2023-2024
+2025-03-26 12:09:14,352 - INFO - Starter behandling af fil: match_590020_a.txt
+2025-03-26 12:09:14,353 - INFO - Opdeler fil i chunks: Herreliga-txt-tabel/2023-2024\match_590020_a.txt
+2025-03-26 12:09:14,357 - INFO - Fil opdelt i 3 chunks
+2025-03-26 12:09:14,358 - INFO - Behandler chunk 1 af 3 for match_590020_a.txt
+2025-03-26 12:09:14,358 - INFO - Behandler første chunk
+2025-03-26 12:09:14,360 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3227 tegn
+2025-03-26 12:09:14,364 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-26 12:09:49,166 - INFO - AFC remote call 1 is done.
+2025-03-26 12:09:49,168 - INFO - Gemini API svar modtaget på 34.80 sekunder
+2025-03-26 12:09:49,170 - INFO - Modtog match_info data for kamp_id: 590020
+2025-03-26 12:09:49,170 - INFO - Modtog 54 match_events
+2025-03-26 12:09:49,171 - INFO - Match info fundet: 590020 - TMS Ringsted vs SønderjyskE Herrer
+2025-03-26 12:09:49,171 - INFO - Tilføjet 54 hændelser fra chunk 1
+2025-03-26 12:09:49,174 - INFO - Behandler chunk 2 af 3 for match_590020_a.txt
+2025-03-26 12:09:49,175 - INFO - Behandler første chunk
+2025-03-26 12:09:49,178 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3135 tegn
+2025-03-26 12:09:49,180 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-26 12:10:21,630 - INFO - AFC remote call 1 is done.
+2025-03-26 12:10:21,631 - INFO - Gemini API svar modtaget på 32.45 sekunder
+2025-03-26 12:10:21,632 - INFO - Modtog match_info data for kamp_id: 590020
+2025-03-26 12:10:21,633 - INFO - Modtog 49 match_events
+2025-03-26 12:10:21,633 - DEBUG - Korrigerede målvogterplacering baseret på kendt målvogter: 31.38 - Mål
+2025-03-26 12:10:21,634 - INFO - Korrigerede 1 hændelser med forkert placerede målvogtere
+2025-03-26 12:10:21,635 - INFO - Tilføjet 49 hændelser fra chunk 2
+2025-03-26 12:10:21,636 - INFO - Behandler chunk 3 af 3 for match_590020_a.txt
+2025-03-26 12:10:21,637 - INFO - Behandler første chunk
+2025-03-26 12:10:21,639 - INFO - Sender anmodning til Gemini API - chunk størrelse: 2038 tegn
+2025-03-26 12:10:21,641 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-26 12:10:42,887 - INFO - AFC remote call 1 is done.
+2025-03-26 12:10:42,889 - INFO - Gemini API svar modtaget på 21.25 sekunder
+2025-03-26 12:10:42,890 - INFO - Modtog match_info data for kamp_id: 590020
+2025-03-26 12:10:42,891 - INFO - Modtog 31 match_events
+2025-03-26 12:10:42,892 - INFO - Tilføjet 31 hændelser fra chunk 3
+2025-03-26 12:10:42,893 - INFO - Opretter database: Herreliga-database/2023-2024\292023_TMS_Ringsted_vs_SønderjyskE_Herrer.db
+2025-03-26 12:10:42,956 - INFO - Database oprettet: Herreliga-database/2023-2024\292023_TMS_Ringsted_vs_SønderjyskE_Herrer.db med 134 hændelser
+2025-03-26 12:10:42,958 - INFO - Behandling af match_590020_a.txt fuldført på 88.60 sekunder.
+2025-03-26 12:10:42,958 - INFO - Database gemt som: 292023_TMS_Ringsted_vs_SønderjyskE_Herrer.db
+2025-03-26 12:10:42,959 - INFO - Total antal hændelser: 134
+2025-03-26 12:10:42,960 - INFO - Starter behandling af fil: match_590021_a.txt
+2025-03-26 12:10:42,960 - INFO - Opdeler fil i chunks: Herreliga-txt-tabel/2023-2024\match_590021_a.txt
+2025-03-26 12:10:42,963 - INFO - Fil opdelt i 3 chunks
+2025-03-26 12:10:42,964 - INFO - Behandler chunk 1 af 3 for match_590021_a.txt
+2025-03-26 12:10:42,965 - INFO - Behandler første chunk
+2025-03-26 12:10:42,966 - INFO - Sender anmodning til Gemini API - chunk størrelse: 3275 tegn
+2025-03-26 12:10:42,968 - INFO - AFC is enabled with max remote calls: 10.

@@ -1,0 +1,813 @@
+KAMPHÆNDELSER
+SAH - Nordsjælland Håndbold   27 - 23  (14 - 14)
+590102 / 11-11-2023 / Fælledhallen - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.44
+0-1
+NSH Mål
+Gbr
+2
+Justin MÜLLER
+12
+Salah BOUTAF
+1.17
+1-1
+SAH Mål
+Gbr
+7
+Jonatan MOLLERUP
+16
+Magnus PETERSEN
+1.27
+1-2
+NSH Mål
+2:e
+17
+Nichlas HALD
+12
+Salah BOUTAF
+1.57
+SAH Skud blokeret
+PL
+23
+Morten Hempel JENSEN
+Blok af (ret)
+5
+Julius MØRCH
+2.09
+2-2
+SAH Mål
+PL
+32
+Fredrik OLSSON
+16
+Magnus PETERSEN
+3.11
+NSH Fejlaflevering
+2
+Justin MÜLLER
+Bold erobret 23
+Morten Hempel JENSEN
+3.17
+3-2
+SAH Mål
+1:e
+24
+Anton BRAMMING
+Assist
+23
+Morten Hempel JENSEN
+16
+Magnus PETERSEN
+3.27
+NSH Skud på stolpe
+2:e
+25
+Jeppe CIESLAK
+12
+Salah BOUTAF
+3.44
+NSH Advarsel
+5
+Julius MØRCH
+4.21
+4-2
+SAH Mål
+ST
+19
+Thor CHRISTENSEN
+Assist
+32
+Fredrik OLSSON
+16
+Magnus PETERSEN
+4.57
+NSH Skud blokeret
+PL
+7
+Kristian OLSEN
+Blokeret af
+6
+Kristian BONEFELD
+5.33
+5-2
+SAH Mål
+PL
+23
+Morten Hempel JENSEN
+16
+Magnus PETERSEN
+6.03
+NSH Skud forbi
+HB
+7
+Kristian OLSEN
+12
+Salah BOUTAF
+6.45
+SAH Skud reddet
+VB
+32
+Fredrik OLSSON
+16
+Magnus PETERSEN
+6.59
+NSH Regelfejl
+7
+Kristian OLSEN
+7.36
+6-2
+SAH Mål
+Gbr 32
+Fredrik OLSSON
+16
+Magnus PETERSEN
+7.56
+NSH Time out
+8.28
+NSH Skud reddet
+HB 57
+Nikolaj LARSSON
+12
+Salah BOUTAF
+9.31
+SAH Skud reddet
+ST
+19
+Thor CHRISTENSEN
+16
+Magnus PETERSEN
+9.35
+NSH Advarsel
+B
+Laurids Søgaard PETERSEN
+10.11
+NSH Regelfejl
+57
+Nikolaj LARSSON
+11.01
+7-2
+SAH Mål
+Gbr 23
+Morten Hempel JENSEN
+16
+Magnus PETERSEN
+11.08
+7-3
+NSH Mål
+2:e
+17
+Nichlas HALD
+12
+Salah BOUTAF
+11.45
+8-3
+SAH Mål
+Gbr 32
+Fredrik OLSSON
+16
+Magnus PETERSEN
+11.57
+NSH Tilkendt straffe
+13
+Gustav BRUUN
+Forårs. str.
+7
+Jonatan MOLLERUP
+12.04
+SAH Advarsel
+7
+Jonatan MOLLERUP
+12.17
+NSH Straffekast reddet
+25
+Jeppe CIESLAK
+12
+Salah BOUTAF
+13.16
+9-3
+SAH Mål
+PL
+23
+Morten Hempel JENSEN
+16
+Magnus PETERSEN
+13.50
+9-4
+NSH Mål
+VB
+17
+Nichlas HALD
+12
+Salah BOUTAF
+14.06
+NSH Udvisning
+5
+Julius MØRCH
+14.16
+SAH Fejlaflevering
+23
+Morten Hempel JENSEN
+Bold erobret 25
+Jeppe CIESLAK
+14.57
+9-5
+NSH Mål
+PL
+2
+Justin MÜLLER
+12
+Salah BOUTAF
+15.36
+SAH Regelfejl
+5
+Frederik ARNOLDSEN
+16.11
+NSH Skud reddet
+PL
+17
+Nichlas HALD
+Retur
+21
+Tim RANTALA
+12
+Salah BOUTAF
+16.18
+9-6
+NSH Mål
+ST
+21
+Tim RANTALA
+12
+Salah BOUTAF
+17.02
+SAH Regelfejl
+3
+Lars MOUSING
+17.51
+SAH Udvisning
+3
+Lars MOUSING
+18.11
+9-7
+NSH Mål
+Gbr 13
+Gustav BRUUN
+Assist
+42
+Matias CAMPBELL
+12
+Salah BOUTAF
+19.08
+SAH Regelfejl
+8
+Torben PETERSEN
+19.34
+NSH Skud reddet
+Gbr 13
+Gustav BRUUN
+12
+Salah BOUTAF
+19.47
+SAH Time out
+20.15 10-7
+SAH Mål
+PL
+8
+Torben PETERSEN
+16
+Magnus PETERSEN
+20.54 10-8
+NSH Mål
+PL
+7
+Kristian OLSEN
+12
+Salah BOUTAF
+21.00 11-8
+SAH Mål
+2:e
+24
+Anton BRAMMING
+16
+Magnus PETERSEN
+22.10 11-9
+NSH Mål
+PL
+42
+Matias CAMPBELL
+12
+Salah BOUTAF
+22.59
+SAH Tabt bold
+7
+Jonatan MOLLERUP
+23.04 11-10 NSH Mål
+1:e
+7
+Kristian OLSEN
+Assist
+13
+Gustav BRUUN
+12
+Salah BOUTAF
+23.32
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+23.38
+NSH Skud reddet
+2:e
+7
+Kristian OLSEN
+12
+Salah BOUTAF
+24.09
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+24.21 11-11 NSH Mål
+PL
+42
+Matias CAMPBELL
+12
+Salah BOUTAF
+24.57
+SAH Skud reddet
+PL
+8
+Torben PETERSEN
+16
+Magnus PETERSEN
+25.03 11-12 NSH Mål
+1:e
+3
+Carl-Emil HAUNSTRUP
+Assist
+16
+Magnus PETERSEN
+12
+Salah BOUTAF
+
+--- Side 2 ---
+KAMPHÆNDELSER
+SAH - Nordsjælland Håndbold   27 - 23  (14 - 14)
+590102 / 11-11-2023 / Fælledhallen - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.59 12-12 SAH Mål
+PL
+8
+Torben PETERSEN
+16
+Magnus PETERSEN
+26.34 12-13 NSH Mål
+ST
+21
+Tim RANTALA
+Assist
+17
+Nichlas HALD
+12
+Salah BOUTAF
+27.16 13-13 SAH Mål
+HF
+11
+Mikkel LANG
+Assist
+32
+Fredrik OLSSON
+16
+Magnus PETERSEN
+27.56
+NSH Skud blokeret
+PL
+7
+Kristian OLSEN
+Blokeret af
+19
+Thor CHRISTENSEN
+28.04 14-13 SAH Mål
+1:e
+24
+Anton BRAMMING
+Assist
+12
+Salah BOUTAF
+16
+Magnus PETERSEN
+28.11 14-14 NSH Mål
+2:e
+3
+Carl-Emil HAUNSTRUP
+Assist
+7
+Kristian OLSEN
+12
+Salah BOUTAF
+28.54
+SAH Skud reddet
+PL
+8
+Torben PETERSEN
+16
+Magnus PETERSEN
+29.32
+NSH Skud reddet
+PL
+2
+Justin MÜLLER
+12
+Salah BOUTAF
+30.00
+SAH Skud blokeret
+PL
+23
+Morten Hempel JENSEN
+Blokeret af
+21
+Tim RANTALA
+30.00 14-14
+Halvleg
+30.00
+Start 2:e halvleg
+30.45
+SAH Tabt bold
+23
+Morten Hempel JENSEN
+30.54 14-15 NSH Mål
+2:e
+3
+Carl-Emil HAUNSTRUP
+Assist
+42
+Matias CAMPBELL
+12
+Salah BOUTAF
+31.26 15-15 SAH Mål
+Gbr 23
+Morten Hempel JENSEN
+29
+Jimmi ANDERSEN
+32.02
+NSH Skud reddet
+PL
+17
+Nichlas HALD
+12
+Salah BOUTAF
+32.12
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+32.54 15-16 NSH Mål
+ST
+5
+Julius MØRCH
+Assist
+17
+Nichlas HALD
+12
+Salah BOUTAF
+33.03 16-16 SAH Mål
+2:e
+6
+Kristian BONEFELD
+29
+Jimmi ANDERSEN
+33.44
+NSH Skud på stolpe
+HF
+3
+Carl-Emil HAUNSTRUP
+12
+Salah BOUTAF
+34.34
+SAH Skud blokeret
+PL
+23
+Morten Hempel JENSEN
+Blok af (ret)
+5
+Julius MØRCH
+34.53
+SAH Skud blokeret
+PL
+23
+Morten Hempel JENSEN
+Blokeret af
+5
+Julius MØRCH
+35.04 16-17 NSH Mål
+Gbr
+7
+Kristian OLSEN
+0
+35.42 17-17 SAH Mål
+Gbr
+8
+Torben PETERSEN
+29
+Jimmi ANDERSEN
+36.18
+NSH Skud forbi
+PL
+17
+Nichlas HALD
+12
+Salah BOUTAF
+36.52 18-17 SAH Mål
+PL
+23
+Morten Hempel JENSEN
+29
+Jimmi ANDERSEN
+37.51
+NSH Passivt spil
+0
+38.20 19-17 SAH Mål
+PL
+8
+Torben PETERSEN
+29
+Jimmi ANDERSEN
+38.30
+NSH Skud reddet
+2:e
+42
+Matias CAMPBELL
+Retur
+0
+12
+Salah BOUTAF
+39.03 19-18 NSH Mål
+PL
+7
+Kristian OLSEN
+12
+Salah BOUTAF
+39.40
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+41.08
+NSH Skud blokeret
+PL
+17
+Nichlas HALD
+Blok af (ret)
+6
+Kristian BONEFELD
+41.34
+NSH Skud forbi
+HB 17
+Nichlas HALD
+12
+Salah BOUTAF
+42.27
+SAH Skud forbi
+PL
+8
+Torben PETERSEN
+29
+Jimmi ANDERSEN
+43.25
+NSH Skud blokeret
+PL
+57
+Nikolaj LARSSON
+Blok af (ret)
+6
+Kristian BONEFELD
+43.41
+NSH Passivt spil
+0
+44.20
+SAH Time out
+44.49
+SAH Skud på stolpe
+VF
+24
+Anton BRAMMING
+29
+Jimmi ANDERSEN
+45.03 19-19 NSH Mål
+ST
+21
+Tim RANTALA
+Assist
+42
+Matias CAMPBELL
+12
+Salah BOUTAF
+45.36
+SAH Skud forbi
+PL
+23
+Morten Hempel JENSEN
+29
+Jimmi ANDERSEN
+45.44
+NSH Skud reddet
+2:e
+3
+Carl-Emil HAUNSTRUP
+12
+Salah BOUTAF
+46.32 20-19 SAH Mål
+PL
+32
+Fredrik OLSSON
+29
+Jimmi ANDERSEN
+47.44 20-20 NSH Mål
+ST
+21
+Tim RANTALA
+Assist
+2
+Justin MÜLLER
+12
+Salah BOUTAF
+48.12
+SAH Skud på stolpe
+Gbr
+7
+Jonatan MOLLERUP
+29
+Jimmi ANDERSEN
+49.04
+NSH Skud reddet
+PL
+42
+Matias CAMPBELL
+12
+Salah BOUTAF
+49.59 21-20 SAH Mål
+Gbr 32
+Fredrik OLSSON
+29
+Jimmi ANDERSEN
+50.11
+NSH Skud forbi
+2:e
+7
+Kristian OLSEN
+12
+Salah BOUTAF
+50.59
+SAH Skud reddet
+HB
+7
+Jonatan MOLLERUP
+29
+Jimmi ANDERSEN
+51.13
+NSH Regelfejl
+7
+Kristian OLSEN
+51.40 22-20 SAH Mål
+PL
+23
+Morten Hempel JENSEN
+29
+Jimmi ANDERSEN
+51.48
+NSH Time out
+52.11 22-21 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+7
+Kristian OLSEN
+12
+Salah BOUTAF
+53.14
+SAH Tilkendt straffe
+23
+Morten Hempel JENSEN
+Forårs. str.
+17
+Nichlas HALD
+53.14
+NSH Udvisning
+17
+Nichlas HALD
+53.17 23-21 SAH Mål på straffe
+32
+Fredrik OLSSON
+16
+Magnus PETERSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+SAH - Nordsjælland Håndbold   27 - 23  (14 - 14)
+590102 / 11-11-2023 / Fælledhallen - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+53.50
+NSH Skud reddet
+Gbr 42
+Matias CAMPBELL
+12
+Salah BOUTAF
+54.27 24-21 SAH Mål
+HF
+11
+Mikkel LANG
+Assist
+32
+Fredrik OLSSON
+16
+Magnus PETERSEN
+55.31
+NSH Skud forbi
+HB
+7
+Kristian OLSEN
+12
+Salah BOUTAF
+56.13 25-21 SAH Mål
+ST
+19
+Thor CHRISTENSEN
+Assist
+7
+Jonatan MOLLERUP
+16
+Magnus PETERSEN
+56.25
+NSH Time out
+56.49 25-22 NSH Mål
+ST
+21
+Tim RANTALA
+Assist
+17
+Nichlas HALD
+12
+Salah BOUTAF
+57.53 26-22 SAH Mål
+Gbr
+7
+Jonatan MOLLERUP
+16
+Magnus PETERSEN
+58.18
+NSH Skud reddet
+ST
+21
+Tim RANTALA
+12
+Salah BOUTAF
+59.14 27-22 SAH Mål
+PL
+23
+Morten Hempel JENSEN
+16
+Magnus PETERSEN
+59.45 27-23 NSH Mål
+ST
+21
+Tim RANTALA
+Assist
+17
+Nichlas HALD
+12
+Salah BOUTAF
+60.00 27-23
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Anne Sofie Vindstrup, Christian Emil Vindstrup,

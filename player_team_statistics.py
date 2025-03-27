@@ -24,7 +24,7 @@ from collections import defaultdict, Counter
 # Konfiguration
 HERRELIGA_DB_DIR = "Herreliga-database"
 KVINDELIGA_DB_DIR = "Kvindeliga-database"
-LOG_FILE = "player_team_assignment.log"
+LOG_FILE = "Logs/player_team_assignment.log"
 
 # Hændelser hvor nr_2/navn_2 tilhører det MODSATTE hold af 'hold'
 OPPOSITE_TEAM_EVENTS = ["Bold erobret", "Forårs. str.", "Blokeret af", "Blok af (ret)"]

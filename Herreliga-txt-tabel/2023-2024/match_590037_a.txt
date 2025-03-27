@@ -1,0 +1,882 @@
+KAMPHÆNDELSER
+SAH - Mors-Thy Håndbold   26 - 36  (13 - 17)
+590037 / 11-9-2023 / Fælledhallen - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.48
+MTH Tilkendt straffe
+8
+Frederik TILSTED
+Forårs. str.
+7
+Jonatan MOLLERUP
+1.08
+0-1
+MTH Mål på straffe
+8
+Frederik TILSTED
+12
+Salah BOUTAF
+1.42
+SAH Skud reddet
+HF
+11
+Mikkel LANG
+30
+Svend RUGHAVE
+1.51
+MTH Tabt bold
+4
+Kasper LINDGREN
+2.03
+1-1
+SAH Mål
+2:e
+24
+Anton BRAMMING
+Assist
+23
+Morten Hempel JENSEN
+30
+Svend RUGHAVE
+2.55
+1-2
+MTH Mål
+Gbr 21
+Marcus MIDTGAARD
+12
+Salah BOUTAF
+3.46
+2-2
+SAH Mål
+VF
+24
+Anton BRAMMING
+Assist
+32
+Fredrik OLSSON
+30
+Svend RUGHAVE
+4.23
+MTH Skud på stolpe
+PL
+8
+Frederik TILSTED
+Retur
+0
+12
+Salah BOUTAF
+4.44
+MTH Tilkendt straffe
+21
+Marcus MIDTGAARD
+Forårs. str.
+19
+Thor CHRISTENSEN
+5.02
+2-3
+MTH Mål på straffe
+8
+Frederik TILSTED
+12
+Salah BOUTAF
+5.33
+MTH Udvisning
+9
+Nicolaj SPANGGAARD
+6.05
+3-3
+SAH Mål
+VF
+24
+Anton BRAMMING
+Assist
+32
+Fredrik OLSSON
+30
+Svend RUGHAVE
+6.44
+MTH Tilkendt straffe
+8
+Frederik TILSTED
+Forårs. str.
+19
+Thor CHRISTENSEN
+6.44
+SAH Udvisning
+19
+Thor CHRISTENSEN
+6.47
+3-4
+MTH Mål på straffe
+8
+Frederik TILSTED
+1
+Kristoffer LAURSEN
+7.10
+4-4
+SAH Mål
+HF
+11
+Mikkel LANG
+Assist
+32
+Fredrik OLSSON
+30
+Svend RUGHAVE
+7.42
+MTH Skud reddet
+PL
+15
+Henrik Toft HANSEN
+12
+Salah BOUTAF
+8.17
+5-4
+SAH Mål
+Gbr
+7
+Jonatan MOLLERUP
+30
+Svend RUGHAVE
+8.20
+MTH Skud forbi
+1:e
+15
+Henrik Toft HANSEN
+0
+9.24
+6-4
+SAH Mål
+HF
+11
+Mikkel LANG
+Assist
+7
+Jonatan MOLLERUP
+30
+Svend RUGHAVE
+9.56
+MTH Skud på stolpe
+PL
+8
+Frederik TILSTED
+12
+Salah BOUTAF
+10.02
+SAH Skud reddet
+1:e
+3
+Lars MOUSING
+30
+Svend RUGHAVE
+10.37
+MTH Tilkendt straffe
+17
+Malthe Rolighed BULL
+Forårs. str.
+24
+Anton BRAMMING
+11.04
+6-5
+MTH Mål på straffe
+8
+Frederik TILSTED
+12
+Salah BOUTAF
+11.34
+SAH Skud reddet
+PL
+7
+Jonatan MOLLERUP
+30
+Svend RUGHAVE
+12.13
+6-6
+MTH Mål
+PL
+9
+Nicolaj SPANGGAARD
+12
+Salah BOUTAF
+12.28
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+Bold erobret
+4
+Kasper LINDGREN
+12.40
+6-7
+MTH Mål
+2:e
+21
+Marcus MIDTGAARD
+Assist
+8
+Frederik TILSTED
+1
+Kristoffer LAURSEN
+13.15
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+13.22
+6-8
+MTH Mål
+2:e
+21
+Marcus MIDTGAARD
+1
+Kristoffer LAURSEN
+14.00
+SAH Time out
+14.11
+7-8
+SAH Mål
+Gbr 32
+Fredrik OLSSON
+30
+Svend RUGHAVE
+15.05
+MTH Skud reddet
+ST
+4
+Kasper LINDGREN
+1
+Kristoffer LAURSEN
+15.14
+SAH Regelfejl
+32
+Fredrik OLSSON
+16.02
+MTH Tilkendt straffe
+21
+Marcus MIDTGAARD
+Forårs. str.
+5
+Frederik ARNOLDSEN
+16.24
+7-9
+MTH Mål på straffe
+8
+Frederik TILSTED
+1
+Kristoffer LAURSEN
+17.24
+8-9
+SAH Mål
+HB
+7
+Jonatan MOLLERUP
+30
+Svend RUGHAVE
+18.23
+8-10
+MTH Mål
+PL
+9
+Nicolaj SPANGGAARD
+1
+Kristoffer LAURSEN
+19.01
+SAH Skud reddet
+HF
+11
+Mikkel LANG
+30
+Svend RUGHAVE
+19.49
+MTH Skud reddet
+ST
+15
+Henrik Toft HANSEN
+1
+Kristoffer LAURSEN
+20.00
+SAH Tilkendt straffe
+11
+Mikkel LANG
+Forårs. str.
+23
+Henrik TILSTED
+20.00
+MTH Rødt kort, direkte
+23
+Henrik TILSTED
+20.03
+9-10
+SAH Mål på straffe
+32
+Fredrik OLSSON
+30
+Svend RUGHAVE
+20.56
+9-11
+MTH Mål
+PL
+21
+Marcus MIDTGAARD
+1
+Kristoffer LAURSEN
+21.19
+SAH Skud reddet
+VB
+32
+Fredrik OLSSON
+Retur
+0
+30
+Svend RUGHAVE
+21.27
+MTH Advarsel
+B
+Allan DAMGAARD
+21.36 10-11 SAH Mål
+HF
+25
+Magnus VEJSGAARD
+Assist
+32
+Fredrik OLSSON
+30
+Svend RUGHAVE
+22.29 10-12 MTH Mål
+PL
+8
+Frederik TILSTED
+1
+Kristoffer LAURSEN
+23.01
+SAH Skud reddet
+PL
+7
+Jonatan MOLLERUP
+30
+Svend RUGHAVE
+23.36 10-13 MTH Mål
+Gbr 21
+Marcus MIDTGAARD
+Assist
+8
+Frederik TILSTED
+1
+Kristoffer LAURSEN
+23.43 11-13 SAH Mål
+2:e
+6
+Kristian BONEFELD
+30
+Svend RUGHAVE
+23.53
+MTH Tilkendt straffe
+8
+Frederik TILSTED
+Forårs. str.
+25
+Magnus VEJSGAARD
+24.14 11-14 MTH Mål på straffe
+8
+Frederik TILSTED
+1
+Kristoffer LAURSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+SAH - Mors-Thy Håndbold   26 - 36  (13 - 17)
+590037 / 11-9-2023 / Fælledhallen - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.52
+SAH Skud reddet
+VB
+8
+Torben PETERSEN
+30
+Svend RUGHAVE
+25.04 11-15 MTH Mål
+2:e
+8
+Frederik TILSTED
+1
+Kristoffer LAURSEN
+26.05
+SAH Skud blokeret
+PL
+32
+Fredrik OLSSON
+Blok af (ret)
+9
+Nicolaj SPANGGAARD
+26.12 12-15 SAH Mål
+ST
+24
+Anton BRAMMING
+30
+Svend RUGHAVE
+26.48
+MTH Regelfejl
+9
+Nicolaj SPANGGAARD
+27.27 13-15 SAH Mål
+ST
+3
+Lars MOUSING
+Assist
+32
+Fredrik OLSSON
+30
+Svend RUGHAVE
+27.36
+MTH Time out
+28.12 13-16 MTH Mål
+VB
+21
+Marcus MIDTGAARD
+1
+Kristoffer LAURSEN
+28.54
+SAH Skud reddet
+PL
+23
+Morten Hempel JENSEN
+30
+Svend RUGHAVE
+29.36 13-17 MTH Mål
+Gbr
+9
+Nicolaj SPANGGAARD
+1
+Kristoffer LAURSEN
+29.59
+SAH Skud reddet
+VB
+8
+Torben PETERSEN
+30
+Svend RUGHAVE
+30.00 13-17
+Halvleg
+30.00
+Start 2:e halvleg
+30.36 14-17 SAH Mål
+ST
+3
+Lars MOUSING
+Assist
+23
+Morten Hempel JENSEN
+30
+Svend RUGHAVE
+31.11
+MTH Skud reddet
+PL
+8
+Frederik TILSTED
+12
+Salah BOUTAF
+31.46 15-17 SAH Mål
+Gbr
+7
+Jonatan MOLLERUP
+30
+Svend RUGHAVE
+31.55 15-18 MTH Mål
+2:e
+8
+Frederik TILSTED
+12
+Salah BOUTAF
+32.24
+SAH Tabt bold
+8
+Torben PETERSEN
+32.29 15-19 MTH Mål
+1:e
+8
+Frederik TILSTED
+Assist
+17
+Malthe Rolighed BULL
+12
+Salah BOUTAF
+32.57 16-19 SAH Mål
+Gbr 23
+Morten Hempel JENSEN
+30
+Svend RUGHAVE
+34.01
+SAH Udvisning
+6
+Kristian BONEFELD
+34.13 16-20 MTH Mål
+ST
+4
+Kasper LINDGREN
+Assist
+8
+Frederik TILSTED
+12
+Salah BOUTAF
+35.05
+SAH Skud blokeret
+HB
+7
+Jonatan MOLLERUP
+Blok af (ret)
+4
+Kasper LINDGREN
+35.29
+SAH Tabt bold
+8
+Torben PETERSEN
+35.34 16-21 MTH Mål
+1:e
+30
+Svend RUGHAVE
+0
+36.31
+SAH Skud forbi
+Gbr
+8
+Torben PETERSEN
+30
+Svend RUGHAVE
+37.17 16-22 MTH Mål
+PL
+8
+Frederik TILSTED
+12
+Salah BOUTAF
+37.32 17-22 SAH Mål
+ST
+3
+Lars MOUSING
+Assist
+24
+Anton BRAMMING
+30
+Svend RUGHAVE
+38.10
+MTH Skud reddet
+VF
+25
+Magnus NORLYK
+Retur
+15
+Henrik Toft HANSEN
+12
+Salah BOUTAF
+38.30 17-23 MTH Mål
+PL
+8
+Frederik TILSTED
+12
+Salah BOUTAF
+39.16
+SAH Skud forbi
+Gbr
+7
+Jonatan MOLLERUP
+30
+Svend RUGHAVE
+40.15 17-24 MTH Mål
+HF
+17
+Malthe Rolighed BULL
+Assist
+9
+Nicolaj SPANGGAARD
+12
+Salah BOUTAF
+40.57
+SAH Fejlaflevering
+32
+Fredrik OLSSON
+Bold erobret 25
+Magnus NORLYK
+41.04 17-25 MTH Mål
+1:e
+25
+Magnus NORLYK
+0
+41.30 18-25 SAH Mål
+VF
+4
+Lars SKAARUP
+Assist
+7
+Jonatan MOLLERUP
+30
+Svend RUGHAVE
+42.07
+MTH Regelfejl
+17
+Malthe Rolighed BULL
+42.24
+SAH Time out
+42.36 19-25 SAH Mål
+ST
+3
+Lars MOUSING
+Assist
+32
+Fredrik OLSSON
+30
+Svend RUGHAVE
+43.12 19-26 MTH Mål
+PL
+8
+Frederik TILSTED
+12
+Salah BOUTAF
+43.42
+SAH Tabt bold
+25
+Magnus VEJSGAARD
+44.23 19-27 MTH Mål
+Gbr 21
+Marcus MIDTGAARD
+12
+Salah BOUTAF
+45.03
+SAH Regelfejl
+19
+Thor CHRISTENSEN
+45.28
+MTH Skud reddet
+Gbr 25
+Magnus NORLYK
+1
+Kristoffer LAURSEN
+45.36 20-27 SAH Mål
+2:e
+8
+Torben PETERSEN
+30
+Svend RUGHAVE
+45.42
+MTH Time out
+46.21
+MTH Skud reddet
+HF
+17
+Malthe Rolighed BULL
+1
+Kristoffer LAURSEN
+47.04
+SAH Skud på stolpe
+HF
+25
+Magnus VEJSGAARD
+30
+Svend RUGHAVE
+47.29 20-28 MTH Mål
+Gbr 21
+Marcus MIDTGAARD
+1
+Kristoffer LAURSEN
+47.59 21-28 SAH Mål
+HF
+25
+Magnus VEJSGAARD
+Assist
+7
+Jonatan MOLLERUP
+30
+Svend RUGHAVE
+48.37
+MTH Tilkendt straffe
+21
+Marcus MIDTGAARD
+Forårs. str.
+3
+Lars MOUSING
+48.56 21-29 MTH Mål på straffe
+8
+Frederik TILSTED
+1
+Kristoffer LAURSEN
+49.30
+SAH Regelfejl
+23
+Morten Hempel JENSEN
+49.57 21-30 MTH Mål
+PL
+21
+Marcus MIDTGAARD
+1
+Kristoffer LAURSEN
+50.20
+SAH Skud reddet
+Gbr 32
+Fredrik OLSSON
+30
+Svend RUGHAVE
+
+--- Side 3 ---
+KAMPHÆNDELSER
+SAH - Mors-Thy Håndbold   26 - 36  (13 - 17)
+590037 / 11-9-2023 / Fælledhallen - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+50.50
+MTH Skud forbi
+ST
+15
+Henrik Toft HANSEN
+1
+Kristoffer LAURSEN
+51.01
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+Bold erobret
+8
+Frederik TILSTED
+51.07 21-31 MTH Mål
+1:e
+25
+Magnus NORLYK
+Assist
+8
+Frederik TILSTED
+0
+51.54 22-31 SAH Mål
+Gbr 26
+Anders THOMASSEN
+30
+Svend RUGHAVE
+52.24
+MTH Skud reddet
+VB
+8
+Frederik TILSTED
+1
+Kristoffer LAURSEN
+53.05 23-31 SAH Mål
+HF
+25
+Magnus VEJSGAARD
+Assist
+26
+Anders THOMASSEN
+30
+Svend RUGHAVE
+53.40 23-32 MTH Mål
+Gbr 21
+Marcus MIDTGAARD
+1
+Kristoffer LAURSEN
+54.13
+SAH Tabt bold
+26
+Anders THOMASSEN
+54.42
+MTH Skud reddet
+Gbr 21
+Marcus MIDTGAARD
+1
+Kristoffer LAURSEN
+54.58 24-32 SAH Mål
+2:e
+25
+Magnus VEJSGAARD
+Assist
+26
+Anders THOMASSEN
+30
+Svend RUGHAVE
+55.39
+MTH Skud reddet
+VB
+19
+Victor NORLYK
+1
+Kristoffer LAURSEN
+56.18
+SAH Tabt bold
+19
+Thor CHRISTENSEN
+56.23 24-33 MTH Mål
+1:e
+9
+Nicolaj SPANGGAARD
+Assist
+7
+Johan NILSSON
+0
+56.52
+SAH Skud på stolpe
+VB
+23
+Morten Hempel JENSEN
+30
+Svend RUGHAVE
+57.19 24-34 MTH Mål
+VB
+7
+Johan NILSSON
+1
+Kristoffer LAURSEN
+57.58 25-34 SAH Mål
+PL
+23
+Morten Hempel JENSEN
+30
+Svend RUGHAVE
+58.29 25-35 MTH Mål
+VB
+7
+Johan NILSSON
+1
+Kristoffer LAURSEN
+58.58 26-35 SAH Mål
+PL
+32
+Fredrik OLSSON
+30
+Svend RUGHAVE
+59.28 26-36 MTH Mål
+ST
+33
+Kasper DIDRIKSEN
+Assist
+19
+Victor NORLYK
+1
+Kristoffer LAURSEN
+60.00 26-36
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Anne Sofie Vindstrup, Christian Emil Vindstrup,

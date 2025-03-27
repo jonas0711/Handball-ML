@@ -1,0 +1,887 @@
+KAMPHÆNDELSER
+Aalborg Håndbold - GOG   30 - 28  (17 - 12)
+590147 / 3-2-2024 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.45
+AAH Advarsel
+22
+Rene ANTONSEN
+0.57
+0-1
+GOG Mål
+HB 33
+Aaron MENSING
+12
+Fabian NORSTEN
+2.06
+AAH Skud forbi
+PL
+14
+Mads HOXER
+16
+Tobias THULIN
+2.22
+0-2
+GOG Mål
+2:e
+71
+Alexander BLONZ
+Assist
+3
+Nicolai PEDERSEN
+12
+Fabian NORSTEN
+3.13
+AAH Tilkendt straffe
+22
+Rene ANTONSEN
+Forårs. str.
+9
+Henrik JAKOBSEN
+3.16
+GOG Advarsel
+9
+Henrik JAKOBSEN
+3.34
+1-2
+AAH Mål på straffe
+24
+Mikkel HANSEN
+16
+Tobias THULIN
+4.11
+GOG Skud reddet
+PL
+11
+Emil MADSEN
+12
+Fabian NORSTEN
+4.50
+2-2
+AAH Mål
+Gbr
+7
+Thomas ARNOLDSEN
+16
+Tobias THULIN
+5.00
+GOG Skud reddet
+2:e
+3
+Nicolai PEDERSEN
+12
+Fabian NORSTEN
+6.00
+AAH Tilkendt straffe
+7
+Thomas ARNOLDSEN
+Forårs. str.
+33
+Aaron MENSING
+6.31
+AAH Straffekast forbi
+24
+Mikkel HANSEN
+16
+Tobias THULIN
+7.33
+GOG Skud reddet
+HB 11
+Emil MADSEN
+12
+Fabian NORSTEN
+7.47
+3-2
+AAH Mål
+2:e
+7
+Thomas ARNOLDSEN
+16
+Tobias THULIN
+7.51
+AAH Udvisning
+14
+Mads HOXER
+8.15
+3-3
+GOG Mål
+ST
+9
+Henrik JAKOBSEN
+Assist
+11
+Emil MADSEN
+12
+Fabian NORSTEN
+8.59
+GOG Udvisning
+77
+Frederik CLAUSEN
+9.11
+4-3
+AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+24
+Mikkel HANSEN
+16
+Tobias THULIN
+9.36
+4-4
+GOG Mål
+Gbr 33
+Aaron MENSING
+Assist
+11
+Emil MADSEN
+12
+Fabian NORSTEN
+10.02
+5-4
+AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+24
+Mikkel HANSEN
+16
+Tobias THULIN
+10.42
+5-5
+GOG Mål
+PL
+11
+Emil MADSEN
+12
+Fabian NORSTEN
+10.58
+6-5
+AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+14
+Mads HOXER
+16
+Tobias THULIN
+11.57
+GOG Skud reddet
+PL
+33
+Aaron MENSING
+12
+Fabian NORSTEN
+12.35
+AAH Skud blokeret
+PL
+24
+Mikkel HANSEN
+Blokeret af
+9
+Henrik JAKOBSEN
+12.43
+6-6
+GOG Mål
+2:e
+71
+Alexander BLONZ
+Assist
+33
+Aaron MENSING
+12
+Fabian NORSTEN
+13.39
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+Retur
+0
+16
+Tobias THULIN
+14.01
+7-6
+AAH Mål
+Gbr 14
+Mads HOXER
+16
+Tobias THULIN
+14.42
+GOG Skud reddet
+VF
+71
+Alexander BLONZ
+12
+Fabian NORSTEN
+14.50
+AAH Regelfejl
+14
+Mads HOXER
+14.57
+7-7
+GOG Mål
+2:e
+71
+Alexander BLONZ
+12
+Fabian NORSTEN
+15.35
+8-7
+AAH Mål
+ST
+6
+Sebastian BARTHOLD
+Assist
+14
+Mads HOXER
+16
+Tobias THULIN
+16.38
+GOG Skud på stolpe
+HF
+19
+Oskar VIND
+12
+Fabian NORSTEN
+17.17
+AAH Fejlaflevering
+25
+Marinus MUNK
+17.24
+GOG Skud på stolpe
+2:e
+19
+Oskar VIND
+Retur
+0
+12
+Fabian NORSTEN
+18.23
+GOG Regelfejl
+33
+Aaron MENSING
+18.29
+9-7
+AAH Mål
+1:e
+21
+Henrik MØLLGAARD
+Assist
+24
+Mikkel HANSEN
+16
+Tobias THULIN
+18.39
+GOG Time out
+19.10
+GOG Skud reddet
+VB
+33
+Aaron MENSING
+12
+Fabian NORSTEN
+19.46 10-7
+AAH Mål
+Gbr 25
+Marinus MUNK
+16
+Tobias THULIN
+20.25
+GOG Skud reddet
+HB
+3
+Nicolai PEDERSEN
+12
+Fabian NORSTEN
+20.58
+AAH Time out
+21.11
+AAH Fejlaflevering
+25
+Marinus MUNK
+21.18
+GOG Skud reddet
+1:e
+22
+Anders ZACHARIASSEN
+12
+Fabian NORSTEN
+21.44 11-7
+AAH Mål
+ST
+6
+Sebastian BARTHOLD
+Assist
+15
+Jack THURIN
+16
+Tobias THULIN
+22.39 11-8
+GOG Mål
+Gbr 37
+Linus PERSSON
+Assist
+22
+Anders ZACHARIASSEN
+12
+Fabian NORSTEN
+23.12 12-8
+AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+15
+Jack THURIN
+16
+Tobias THULIN
+23.21 12-9
+GOG Mål
+2:e
+3
+Nicolai PEDERSEN
+12
+Fabian NORSTEN
+23.53 13-9
+AAH Mål
+PL
+7
+Thomas ARNOLDSEN
+16
+Tobias THULIN
+24.49
+GOG Skud reddet
+ST
+22
+Anders ZACHARIASSEN
+12
+Fabian NORSTEN
+24.56 14-9
+AAH Mål
+2:e
+15
+Jack THURIN
+Assist
+7
+Thomas ARNOLDSEN
+16
+Tobias THULIN
+25.35 14-10 GOG Mål
+ST
+21
+Kasper KILDELUND
+Assist
+3
+Nicolai PEDERSEN
+12
+Fabian NORSTEN
+26.09
+AAH Skud reddet
+PL
+15
+Jack THURIN
+Retur
+0
+12
+Matthias DORGELO
+26.13 15-10 AAH Mål
+VF
+6
+Sebastian BARTHOLD
+12
+Matthias DORGELO
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - GOG   30 - 28  (17 - 12)
+590147 / 3-2-2024 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+27.07 15-11 GOG Mål
+PL
+3
+Nicolai PEDERSEN
+12
+Fabian NORSTEN
+28.05 16-11 AAH Mål
+Gbr
+7
+Thomas ARNOLDSEN
+12
+Matthias DORGELO
+28.41
+GOG Regelfejl
+9
+Henrik JAKOBSEN
+29.18
+AAH Skud reddet
+Gbr 15
+Jack THURIN
+12
+Matthias DORGELO
+29.50 16-12 GOG Mål
+PL
+33
+Aaron MENSING
+12
+Fabian NORSTEN
+29.59 17-12 AAH Mål
+2:e
+7
+Thomas ARNOLDSEN
+Assist
+15
+Jack THURIN
+12
+Matthias DORGELO
+30.00 17-12
+Halvleg
+30.00
+Start 2:e halvleg
+30.34
+AAH Skud reddet
+Gbr 14
+Mads HOXER
+12
+Matthias DORGELO
+30.48
+GOG Fejlaflevering
+11
+Emil MADSEN
+31.02 18-12 AAH Mål
+PL
+24
+Mikkel HANSEN
+12
+Matthias DORGELO
+31.11 18-13 GOG Mål
+2:e
+71
+Alexander BLONZ
+0
+31.44
+AAH Fejlaflevering
+7
+Thomas ARNOLDSEN
+Bold erobret 21
+Kasper KILDELUND
+31.52
+GOG Skud reddet
+2:e
+77
+Frederik CLAUSEN
+12
+Fabian NORSTEN
+32.01
+AAH Skud reddet
+1:e
+19
+Kristian BJØRNSEN
+12
+Matthias DORGELO
+32.55
+GOG Skud reddet
+VB
+33
+Aaron MENSING
+12
+Fabian NORSTEN
+33.40 19-13 AAH Mål
+Gbr
+7
+Thomas ARNOLDSEN
+12
+Matthias DORGELO
+33.50
+GOG Skud reddet
+2:e
+33
+Aaron MENSING
+12
+Fabian NORSTEN
+34.28
+AAH Skud forbi
+PL
+24
+Mikkel HANSEN
+12
+Matthias DORGELO
+35.05 19-14 GOG Mål
+PL
+11
+Emil MADSEN
+12
+Fabian NORSTEN
+35.53 20-14 AAH Mål
+HB 14
+Mads HOXER
+12
+Matthias DORGELO
+36.05
+GOG Skud reddet
+2:e
+77
+Frederik CLAUSEN
+12
+Fabian NORSTEN
+36.41
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+12
+Matthias DORGELO
+37.20 20-15 GOG Mål
+HF
+21
+Kasper KILDELUND
+Assist
+11
+Emil MADSEN
+12
+Fabian NORSTEN
+38.09
+AAH Fejlaflevering
+25
+Marinus MUNK
+38.13 20-16 GOG Mål
+1:e
+11
+Emil MADSEN
+Assist
+3
+Nicolai PEDERSEN
+12
+Fabian NORSTEN
+38.52
+AAH Skud reddet
+VB
+24
+Mikkel HANSEN
+12
+Matthias DORGELO
+39.26 20-17 GOG Mål
+PL
+11
+Emil MADSEN
+12
+Fabian NORSTEN
+40.01
+AAH Skud reddet
+Gbr 14
+Mads HOXER
+12
+Matthias DORGELO
+41.15 20-18 GOG Mål
+VB
+3
+Nicolai PEDERSEN
+12
+Fabian NORSTEN
+42.17
+AAH Tilkendt straffe
+17
+Martin LARSEN
+Forårs. str.
+3
+Nicolai PEDERSEN
+42.28 21-18 AAH Mål på straffe
+24
+Mikkel HANSEN
+16
+Tobias THULIN
+43.21
+GOG Tilkendt straffe
+9
+Henrik JAKOBSEN
+Forårs. str.
+17
+Martin LARSEN
+43.33 21-19 GOG Mål på straffe
+11
+Emil MADSEN
+12
+Fabian NORSTEN
+44.08
+AAH Tilkendt straffe
+24
+Mikkel HANSEN
+Forårs. str.
+77
+Frederik CLAUSEN
+44.30 22-19 AAH Mål på straffe
+24
+Mikkel HANSEN
+12
+Matthias DORGELO
+45.40
+GOG Skud reddet
+PL
+11
+Emil MADSEN
+12
+Fabian NORSTEN
+45.46 23-19 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+21
+Henrik MØLLGAARD
+12
+Matthias DORGELO
+45.53
+GOG Time out
+46.30 23-20 GOG Mål
+Gbr 29
+Hjalte LYKKE
+12
+Fabian NORSTEN
+47.22 24-20 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+24
+Mikkel HANSEN
+12
+Matthias DORGELO
+47.54 24-21 GOG Mål
+Gbr
+3
+Nicolai PEDERSEN
+Assist
+11
+Emil MADSEN
+12
+Fabian NORSTEN
+48.50 25-21 AAH Mål
+Gbr 24
+Mikkel HANSEN
+Assist
+7
+Thomas ARNOLDSEN
+12
+Matthias DORGELO
+49.03
+GOG Skud på stolpe
+2:e
+11
+Emil MADSEN
+1
+Niklas LANDIN
+49.37
+AAH Regelfejl
+22
+Rene ANTONSEN
+49.42
+GOG Skud reddet
+1:e
+21
+Kasper KILDELUND
+1
+Niklas LANDIN
+49.48
+AAH Skud reddet
+1:e
+6
+Sebastian BARTHOLD
+12
+Matthias DORGELO
+49.54 25-22 GOG Mål
+1:e
+71
+Alexander BLONZ
+Assist
+3
+Nicolai PEDERSEN
+1
+Niklas LANDIN
+50.34 26-22 AAH Mål
+Gbr 14
+Mads HOXER
+12
+Matthias DORGELO
+51.31 26-23 GOG Mål
+Gbr 11
+Emil MADSEN
+1
+Niklas LANDIN
+52.12
+AAH Skud på stolpe
+PL
+14
+Mads HOXER
+12
+Matthias DORGELO
+52.28 26-24 GOG Mål
+2:e
+29
+Hjalte LYKKE
+1
+Niklas LANDIN
+52.49
+AAH Time out
+53.05 27-24 AAH Mål
+Gbr
+7
+Thomas ARNOLDSEN
+12
+Matthias DORGELO
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - GOG   30 - 28  (17 - 12)
+590147 / 3-2-2024 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+53.12 27-25 GOG Mål
+2:e
+22
+Anders ZACHARIASSEN
+0
+53.59
+GOG Advarsel
+A
+Mikkel Voigt FREDERIKSEN
+54.08 28-25 AAH Mål
+PL
+24
+Mikkel HANSEN
+12
+Matthias DORGELO
+54.38 28-26 GOG Mål
+PL
+11
+Emil MADSEN
+1
+Niklas LANDIN
+55.24
+AAH Skud blokeret
+PL
+24
+Mikkel HANSEN
+Blokeret af
+77
+Frederik CLAUSEN
+55.58
+GOG Skud reddet
+VB
+11
+Emil MADSEN
+1
+Niklas LANDIN
+56.30
+AAH Skud reddet
+PL
+7
+Thomas ARNOLDSEN
+Retur
+0
+12
+Matthias DORGELO
+57.32 29-26 AAH Mål
+Gbr 14
+Mads HOXER
+12
+Matthias DORGELO
+57.46
+GOG Skud blokeret
+2:e
+11
+Emil MADSEN
+Blok af (ret)
+17
+Martin LARSEN
+57.56 29-27 GOG Mål
+VF
+71
+Alexander BLONZ
+Assist
+3
+Nicolai PEDERSEN
+1
+Niklas LANDIN
+58.35
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+Retur
+0
+12
+Matthias DORGELO
+59.03
+AAH Skud forbi
+PL
+7
+Thomas ARNOLDSEN
+12
+Matthias DORGELO
+59.14
+GOG Time out
+59.21 29-28 GOG Mål
+ST
+9
+Henrik JAKOBSEN
+Assist
+11
+Emil MADSEN
+1
+Niklas LANDIN
+59.44
+AAH Time out
+59.58
+AAH Skud reddet
+VF
+6
+Sebastian BARTHOLD
+Retur
+0
+12
+Matthias DORGELO
+59.59 30-28 AAH Mål
+Gbr
+7
+Thomas ARNOLDSEN
+12
+Matthias DORGELO
+60.00 30-28
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Anne-Marie Paasch Almar, Daniel Hansen,

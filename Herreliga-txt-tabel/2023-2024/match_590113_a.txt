@@ -1,0 +1,951 @@
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - Aalborg Håndbold   30 - 30  (17 - 13)
+590113 / 25-11-2023 / Jysk Energi Arena Lemvig / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.38
+LTH
+Tilkendt straffe
+32
+Christian HOLM
+Forårs. str.
+21
+Henrik MØLLGAARD
+1.02
+1-0
+LTH
+Mål på straffe
+8
+Jeppe GADE
+12
+Fabian NORSTEN
+2.05
+AAH Skud reddet
+Gbr 14
+Mads HOXER
+Retur
+0
+1
+Emil TELLERUP
+2.09
+1-1
+AAH Mål
+HF
+22
+Rene ANTONSEN
+1
+Emil TELLERUP
+2.47
+AAH Udvisning
+18
+Aleks VLAH
+3.03
+2-1
+LTH
+Mål
+ST
+14
+Fredrik CLEMENTSEN
+Assist
+8
+Jeppe GADE
+12
+Fabian NORSTEN
+3.57
+2-2
+AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+4.32
+LTH
+Skud reddet
+PL
+8
+Jeppe GADE
+Retur
+0
+12
+Fabian NORSTEN
+4.35
+3-2
+LTH
+Mål
+ST
+8
+Jeppe GADE
+12
+Fabian NORSTEN
+5.34
+3-3
+AAH Mål
+PL
+25
+Marinus MUNK
+1
+Emil TELLERUP
+5.39
+LTH
+Udvisning
+21
+Jorn SMITS
+6.01
+LTH
+Skud reddet
+Gbr
+2
+Lasse PEDERSEN
+12
+Fabian NORSTEN
+6.25
+3-4
+AAH Mål
+Gbr 18
+Aleks VLAH
+1
+Emil TELLERUP
+6.54
+4-4
+LTH
+Mål
+Gbr 32
+Christian HOLM
+12
+Fabian NORSTEN
+7.11
+AAH Tilkendt straffe
+11
+Simon HALD
+Forårs. str.
+32
+Christian HOLM
+7.21
+4-5
+AAH Mål på straffe
+23
+Buster JUUL
+1
+Emil TELLERUP
+7.54
+5-5
+LTH
+Mål
+VF
+5
+Mats GORDON
+Assist
+2
+Lasse PEDERSEN
+12
+Fabian NORSTEN
+8.52
+5-6
+AAH Mål
+Gbr 25
+Marinus MUNK
+1
+Emil TELLERUP
+9.54
+LTH
+Skud på stolpe
+Gbr 32
+Christian HOLM
+12
+Fabian NORSTEN
+10.02
+AAH Skud reddet
+2:e
+23
+Buster JUUL
+1
+Emil TELLERUP
+10.36
+6-6
+LTH
+Mål
+VF
+5
+Mats GORDON
+Assist
+2
+Lasse PEDERSEN
+12
+Fabian NORSTEN
+11.12
+AAH Skud reddet
+HB 14
+Mads HOXER
+1
+Emil TELLERUP
+12.05
+7-6
+LTH
+Mål
+PL
+32
+Christian HOLM
+12
+Fabian NORSTEN
+12.46
+AAH Skud på stolpe
+VB
+18
+Aleks VLAH
+1
+Emil TELLERUP
+13.36
+8-6
+LTH
+Mål
+PL
+8
+Jeppe GADE
+12
+Fabian NORSTEN
+14.33
+AAH Tabt bold
+25
+Marinus MUNK
+14.39
+LTH
+Skud reddet
+1:e
+5
+Mats GORDON
+Retur
+0
+12
+Fabian NORSTEN
+15.28
+9-6
+LTH
+Mål
+HB 10
+Vilhelm POULSEN
+12
+Fabian NORSTEN
+15.56
+AAH Skud reddet
+PL
+25
+Marinus MUNK
+1
+Emil TELLERUP
+16.02 10-6
+LTH
+Mål
+2:e
+32
+Christian HOLM
+12
+Fabian NORSTEN
+16.08
+AAH Time out
+16.44
+AAH Fejlaflevering
+18
+Aleks VLAH
+Bold erobret 32
+Christian HOLM
+16.49
+LTH
+Skud reddet
+1:e
+32
+Christian HOLM
+12
+Fabian NORSTEN
+16.56 10-7
+AAH Mål
+2:e
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+17.27
+LTH
+Skud forbi
+PL
+10
+Vilhelm POULSEN
+12
+Fabian NORSTEN
+18.07
+AAH Regelfejl
+18
+Aleks VLAH
+18.11 11-7
+LTH
+Mål
+1:e
+10
+Vilhelm POULSEN
+Assist
+32
+Christian HOLM
+12
+Fabian NORSTEN
+18.41
+LTH
+Udvisning
+9
+Nicolai PUGHOLM
+18.55
+AAH Fejlaflevering
+17
+Martin LARSEN
+19.55 12-7
+LTH
+Mål
+HB 10
+Vilhelm POULSEN
+12
+Fabian NORSTEN
+20.22 12-8
+AAH Mål
+ST
+11
+Simon HALD
+Assist
+17
+Martin LARSEN
+1
+Emil TELLERUP
+21.11
+LTH
+Fejlaflevering
+2
+Lasse PEDERSEN
+21.16 12-9
+AAH Mål
+1:e
+17
+Martin LARSEN
+1
+Emil TELLERUP
+22.20 13-9
+LTH
+Mål
+PL
+8
+Jeppe GADE
+12
+Fabian NORSTEN
+23.13 13-10 AAH Mål
+Gbr
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+23.23
+LTH
+Skud reddet
+PL
+25
+Emil JESSEN
+12
+Fabian NORSTEN
+23.34 13-11 AAH Mål
+HB 14
+Mads HOXER
+1
+Emil TELLERUP
+23.44
+LTH
+Tabt bold
+5
+Mats GORDON
+23.49
+AAH Regelfejl
+4
+Patrick WIESMACH
+23.51
+LTH
+Time out
+24.05 14-11 LTH
+Mål
+PL
+8
+Jeppe GADE
+12
+Fabian NORSTEN
+24.46
+AAH Tilkendt straffe
+14
+Mads HOXER
+Forårs. str.
+9
+Nicolai PUGHOLM
+24.46
+LTH
+Udvisning
+9
+Nicolai PUGHOLM
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - Aalborg Håndbold   30 - 30  (17 - 13)
+590113 / 25-11-2023 / Jysk Energi Arena Lemvig / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.46
+LTH
+Udvisning
+A
+Dennis Bo JENSEN
+24.49 14-12 AAH Mål på straffe
+23
+Buster JUUL
+1
+Emil TELLERUP
+25.35
+LTH
+Skud reddet
+Gbr
+6
+Jon KATBALLE
+12
+Fabian NORSTEN
+26.05
+AAH Skud reddet
+PL
+14
+Mads HOXER
+1
+Emil TELLERUP
+26.37 15-12 LTH
+Mål
+PL
+8
+Jeppe GADE
+12
+Fabian NORSTEN
+26.52
+AAH Skud på stolpe
+HF
+4
+Patrick WIESMACH
+1
+Emil TELLERUP
+27.31
+AAH Udvisning
+14
+Mads HOXER
+27.46 16-12 LTH
+Mål
+ST
+21
+Jorn SMITS
+Assist
+8
+Jeppe GADE
+12
+Fabian NORSTEN
+28.17 16-13 AAH Mål
+PL
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+28.46 17-13 LTH
+Mål
+PL
+8
+Jeppe GADE
+12
+Fabian NORSTEN
+29.30
+AAH Skud reddet
+VB
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+29.58
+LTH
+Tabt bold
+14
+Fredrik CLEMENTSEN
+30.00 17-13
+Halvleg
+30.00
+Start 2:e halvleg
+30.31
+LTH
+Udvisning
+2
+Lasse PEDERSEN
+30.51 17-14 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+14
+Mads HOXER
+1
+Emil TELLERUP
+31.49
+LTH
+Fejlaflevering
+32
+Christian HOLM
+32.13 17-15 AAH Mål
+PL
+24
+Mikkel HANSEN
+1
+Emil TELLERUP
+32.43
+LTH
+Fejlaflevering
+10
+Vilhelm POULSEN
+Bold erobret 19
+Kristian BJØRNSEN
+33.18
+AAH Tilkendt straffe
+22
+Rene ANTONSEN
+Forårs. str.
+8
+Jeppe GADE
+33.26 17-16 AAH Mål på straffe
+23
+Buster JUUL
+1
+Emil TELLERUP
+34.13 18-16 LTH
+Mål
+VF
+11
+Tobias BAY
+Assist
+10
+Vilhelm POULSEN
+1
+Niklas LANDIN
+34.52 18-17 AAH Mål
+PL
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+35.32
+LTH
+Regelfejl
+11
+Tobias BAY
+36.19
+AAH Skud reddet
+VB
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+36.55 19-17 LTH
+Mål
+Gbr 32
+Christian HOLM
+1
+Niklas LANDIN
+37.06
+LTH
+Udvisning
+32
+Christian HOLM
+37.25 19-18 AAH Mål
+PL
+24
+Mikkel HANSEN
+1
+Emil TELLERUP
+38.13
+LTH
+Skud blokeret
+PL
+10
+Vilhelm POULSEN
+Blok af (ret)
+3
+Lukas NILSSON
+38.38 20-18 LTH
+Mål
+HB 10
+Vilhelm POULSEN
+1
+Niklas LANDIN
+38.58
+AAH Skud reddet
+Gbr
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+39.53 21-18 LTH
+Mål
+PL
+8
+Jeppe GADE
+1
+Niklas LANDIN
+40.24 21-19 AAH Mål
+Gbr 24
+Mikkel HANSEN
+Assist
+14
+Mads HOXER
+1
+Emil TELLERUP
+41.01
+LTH
+Skud reddet
+HF
+20
+Tobias MYSSING
+1
+Niklas LANDIN
+41.41 21-20 AAH Mål
+HB 14
+Mads HOXER
+1
+Emil TELLERUP
+42.24 22-20 LTH
+Mål
+HF
+20
+Tobias MYSSING
+Assist
+8
+Jeppe GADE
+1
+Niklas LANDIN
+43.28
+AAH Skud på stolpe
+PL
+14
+Mads HOXER
+1
+Emil TELLERUP
+43.56 23-20 LTH
+Mål
+PL
+8
+Jeppe GADE
+1
+Niklas LANDIN
+44.13
+AAH Fejlaflevering
+18
+Aleks VLAH
+44.26
+LTH
+Tilkendt straffe
+20
+Tobias MYSSING
+Forårs. str.
+24
+Mikkel HANSEN
+44.26
+AAH Udvisning
+24
+Mikkel HANSEN
+44.30 24-20 LTH
+Mål på straffe
+8
+Jeppe GADE
+1
+Niklas LANDIN
+45.34
+AAH Skud reddet
+PL
+14
+Mads HOXER
+Retur
+0
+1
+Emil TELLERUP
+45.54
+LTH
+Udvisning
+2
+Lasse PEDERSEN
+46.11 24-21 AAH Mål
+VF
+23
+Buster JUUL
+Assist
+14
+Mads HOXER
+1
+Emil TELLERUP
+46.50
+LTH
+Tilkendt straffe
+6
+Jon KATBALLE
+Forårs. str.
+3
+Lukas NILSSON
+46.57
+LTH
+Straffekast reddet
+8
+Jeppe GADE
+1
+Niklas LANDIN
+47.24 24-22 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+22
+Rene ANTONSEN
+1
+Emil TELLERUP
+48.17
+LTH
+Skud reddet
+Gbr 32
+Christian HOLM
+Retur
+0
+1
+Niklas LANDIN
+48.22 25-22 LTH
+Mål
+VF
+5
+Mats GORDON
+1
+Niklas LANDIN
+48.34 25-23 AAH Mål
+Gbr
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+49.11
+LTH
+Skud blokeret
+PL
+32
+Christian HOLM
+Blok af (ret)
+11
+Simon HALD
+49.25
+LTH
+Skud blokeret
+PL
+8
+Jeppe GADE
+Blokeret af
+21
+Henrik MØLLGAARD
+49.32 25-24 AAH Mål
+1:e
+14
+Mads HOXER
+1
+Emil TELLERUP
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - Aalborg Håndbold   30 - 30  (17 - 13)
+590113 / 25-11-2023 / Jysk Energi Arena Lemvig / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+49.37
+LTH
+Time out
+49.50
+LTH
+Skud reddet
+Gbr 32
+Christian HOLM
+1
+Niklas LANDIN
+50.13 25-25 AAH Mål
+Gbr 24
+Mikkel HANSEN
+Assist
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+50.54 26-25 LTH
+Mål
+Gbr 32
+Christian HOLM
+Assist
+8
+Jeppe GADE
+1
+Niklas LANDIN
+51.09 26-26 AAH Mål
+Gbr 24
+Mikkel HANSEN
+Assist
+18
+Aleks VLAH
+1
+Emil TELLERUP
+51.54 27-26 LTH
+Mål
+PL
+8
+Jeppe GADE
+1
+Niklas LANDIN
+52.01 27-27 AAH Mål
+2:e
+23
+Buster JUUL
+1
+Emil TELLERUP
+52.50 28-27 LTH
+Mål
+ST
+14
+Fredrik CLEMENTSEN
+Assist
+10
+Vilhelm POULSEN
+1
+Niklas LANDIN
+53.22 28-28 AAH Mål
+PL
+14
+Mads HOXER
+1
+Emil TELLERUP
+54.01
+LTH
+Fejlaflevering
+10
+Vilhelm POULSEN
+Bold erobret 19
+Kristian BJØRNSEN
+54.31 28-29 AAH Mål
+Gbr 14
+Mads HOXER
+1
+Emil TELLERUP
+55.10
+LTH
+Fejlaflevering
+32
+Christian HOLM
+55.41
+AAH Skud reddet
+HB 14
+Mads HOXER
+1
+Emil TELLERUP
+56.11 29-29 LTH
+Mål
+PL
+8
+Jeppe GADE
+1
+Niklas LANDIN
+57.19 29-30 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+14
+Mads HOXER
+1
+Emil TELLERUP
+57.49
+LTH
+Skud reddet
+ST
+14
+Fredrik CLEMENTSEN
+1
+Niklas LANDIN
+58.29
+AAH Regelfejl
+14
+Mads HOXER
+58.35 30-30 LTH
+Mål
+2:e
+9
+Nicolai PUGHOLM
+Assist
+32
+Christian HOLM
+1
+Niklas LANDIN
+59.00
+AAH Time out
+59.30
+LTH
+Udvisning
+9
+Nicolai PUGHOLM
+59.30
+LTH
+Rødt kort
+9
+Nicolai PUGHOLM
+59.53
+AAH Skud reddet
+PL
+14
+Mads HOXER
+1
+Emil TELLERUP
+59.53
+LTH
+Time out
+60.00
+LTH
+Skud blokeret
+HB
+8
+Jeppe GADE
+Blokeret af
+0
+60.00 30-30
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Eva Rebbe, Leif Paulsen,

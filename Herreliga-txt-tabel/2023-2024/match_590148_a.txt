@@ -1,0 +1,857 @@
+KAMPHÆNDELSER
+SAH - TMS Ringsted   27 - 29  (13 - 17)
+590148 / 3-2-2024 / Fælledhallen - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.41
+SAH Skud reddet
+PL
+23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+1.14
+0-1
+TMS Mål
+PL
+17
+Oliver WOSNIAK
+12
+Salah BOUTAF
+1.56
+1-1
+SAH Mål
+VB
+23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+2.28
+1-2
+TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+12
+Salah BOUTAF
+2.38
+2-2
+SAH Mål
+2:e
+7
+Jonatan MOLLERUP
+16
+Andreas HAAGEN
+3.06
+2-3
+TMS Mål
+VB
+17
+Oliver WOSNIAK
+12
+Salah BOUTAF
+3.37
+SAH Skud reddet
+PL
+7
+Jonatan MOLLERUP
+16
+Andreas HAAGEN
+4.03
+TMS Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+12
+Salah BOUTAF
+4.09
+3-3
+SAH Mål
+1:e
+4
+Lars SKAARUP
+Assist
+12
+Salah BOUTAF
+16
+Andreas HAAGEN
+4.56
+3-4
+TMS Mål
+ST
+2
+Joachim MØLLER
+Assist
+5
+Mark NIKOLAJSEN
+12
+Salah BOUTAF
+5.36
+SAH Tilkendt straffe
+23
+Morten Hempel JENSEN
+Forårs. str.
+17
+Oliver WOSNIAK
+5.46
+4-4
+SAH Mål på straffe
+32
+Fredrik OLSSON
+16
+Andreas HAAGEN
+6.16
+TMS Skud forbi
+VB
+19
+Benjamin HALLGREN
+12
+Salah BOUTAF
+7.08
+SAH Tilkendt straffe
+7
+Jonatan MOLLERUP
+Forårs. str.
+7
+Christoffer DREYER
+7.26
+5-4
+SAH Mål på straffe
+23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+7.52
+5-5
+TMS Mål
+Gbr 17
+Oliver WOSNIAK
+12
+Salah BOUTAF
+8.01
+SAH Regelfejl
+7
+Jonatan MOLLERUP
+8.39
+5-6
+TMS Mål
+VF
+27
+Victor WOLF
+Assist
+19
+Benjamin HALLGREN
+12
+Salah BOUTAF
+9.39
+TMS Advarsel
+2
+Joachim MØLLER
+10.08
+6-6
+SAH Mål
+VB
+8
+Torben PETERSEN
+16
+Andreas HAAGEN
+10.42
+6-7
+TMS Mål
+PL
+17
+Oliver WOSNIAK
+12
+Salah BOUTAF
+11.18
+7-7
+SAH Mål
+HB
+7
+Jonatan MOLLERUP
+16
+Andreas HAAGEN
+11.53
+TMS Tabt bold
+19
+Benjamin HALLGREN
+Bold erobret
+7
+Jonatan MOLLERUP
+11.59
+8-7
+SAH Mål
+1:e
+4
+Lars SKAARUP
+16
+Andreas HAAGEN
+12.29
+8-8
+TMS Mål
+VB
+17
+Oliver WOSNIAK
+12
+Salah BOUTAF
+12.36
+SAH Fejlaflevering
+11
+Mikkel LANG
+Bold erobret
+7
+Christoffer DREYER
+13.06
+8-9
+TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+12
+Salah BOUTAF
+13.45
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+Bold erobret 81
+Tobias NIELSEN
+13.53
+8-10
+TMS Mål
+1:e
+7
+Christoffer DREYER
+Assist
+81
+Tobias NIELSEN
+1
+Kristoffer LAURSEN
+14.02
+SAH Tilkendt straffe
+8
+Torben PETERSEN
+Forårs. str.
+2
+Joachim MØLLER
+14.05
+TMS Udvisning
+2
+Joachim MØLLER
+14.11
+9-10
+SAH Mål på straffe
+23
+Morten Hempel JENSEN
+1
+Tobias LANTZ
+15.05
+TMS Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+1
+Kristoffer LAURSEN
+15.31 10-10 SAH Mål
+ST
+5
+Frederik ARNOLDSEN
+Assist
+32
+Fredrik OLSSON
+16
+Andreas HAAGEN
+16.05 10-11 TMS Mål
+PL
+19
+Benjamin HALLGREN
+1
+Kristoffer LAURSEN
+16.07
+SAH Udvisning
+19
+Thor CHRISTENSEN
+16.59
+SAH Skud blokeret
+VB
+23
+Morten Hempel JENSEN
+Blok af (ret)
+2
+Joachim MØLLER
+17.16
+SAH Skud blokeret
+VB
+23
+Morten Hempel JENSEN
+Blok af (ret)
+81
+Tobias NIELSEN
+17.25 11-11 SAH Mål
+Gbr
+7
+Jonatan MOLLERUP
+Assist
+23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+17.55 11-12 TMS Mål
+ST
+2
+Joachim MØLLER
+Assist
+77
+Nicolai COLUNGA
+1
+Kristoffer LAURSEN
+18.53
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+19.42 11-13 TMS Mål
+PL
+17
+Oliver WOSNIAK
+1
+Kristoffer LAURSEN
+20.17
+SAH Fejlaflevering
+23
+Morten Hempel JENSEN
+20.28 11-14 TMS Mål
+2:e
+19
+Benjamin HALLGREN
+1
+Kristoffer LAURSEN
+20.36
+SAH Time out
+20.52
+SAH Skud reddet
+PL
+8
+Torben PETERSEN
+16
+Andreas HAAGEN
+21.36
+SAH Udvisning
+5
+Frederik ARNOLDSEN
+21.45 11-15 TMS Mål
+PL
+77
+Nicolai COLUNGA
+1
+Kristoffer LAURSEN
+22.23
+SAH Tilkendt straffe
+4
+Lars SKAARUP
+Forårs. str.
+5
+Mark NIKOLAJSEN
+22.23
+TMS Udvisning
+5
+Mark NIKOLAJSEN
+22.28 12-15 SAH Mål på straffe
+23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+23.21
+TMS Skud reddet
+HF
+81
+Tobias NIELSEN
+1
+Kristoffer LAURSEN
+23.48 13-15 SAH Mål
+VF
+4
+Lars SKAARUP
+Assist
+32
+Fredrik OLSSON
+16
+Andreas HAAGEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+SAH - TMS Ringsted   27 - 29  (13 - 17)
+590148 / 3-2-2024 / Fælledhallen - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+23.55
+TMS Advarsel
+B
+Marc UHD
+24.18 13-16 TMS Mål
+ST
+25
+Anders AGGER
+Assist
+17
+Oliver WOSNIAK
+1
+Kristoffer LAURSEN
+24.51
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+25.30
+TMS Tabt bold
+77
+Nicolai COLUNGA
+Bold erobret 23
+Morten Hempel JENSEN
+26.27
+TMS Udvisning
+17
+Oliver WOSNIAK
+26.51
+SAH Fejlaflevering
+32
+Fredrik OLSSON
+Bold erobret 81
+Tobias NIELSEN
+27.21
+TMS Skud forbi
+PL
+19
+Benjamin HALLGREN
+1
+Kristoffer LAURSEN
+27.48
+SAH Skud på stolpe
+Gbr 23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+28.37 13-17 TMS Mål
+Gbr 19
+Benjamin HALLGREN
+1
+Kristoffer LAURSEN
+29.08
+SAH Skud reddet
+PL
+23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+29.41
+TMS Time out
+29.53
+TMS Skud blokeret
+VB
+5
+Mark NIKOLAJSEN
+Blok af (ret)
+5
+Frederik ARNOLDSEN
+29.59
+TMS Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+1
+Kristoffer LAURSEN
+30.00 13-17
+Halvleg
+30.00
+Start 2:e halvleg
+30.41 13-18 TMS Mål
+HF
+81
+Tobias NIELSEN
+Assist
+19
+Benjamin HALLGREN
+1
+Kristoffer LAURSEN
+31.29 14-18 SAH Mål
+HF
+11
+Mikkel LANG
+Assist
+23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+32.00
+TMS Skud blokeret
+PL
+17
+Oliver WOSNIAK
+Blokeret af
+6
+Kristian BONEFELD
+32.52
+SAH Skud reddet
+PL
+8
+Torben PETERSEN
+16
+Andreas HAAGEN
+33.26
+TMS Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+1
+Kristoffer LAURSEN
+33.33 15-18 SAH Mål
+1:e
+32
+Fredrik OLSSON
+0
+34.05
+TMS Skud reddet
+Gbr 19
+Benjamin HALLGREN
+1
+Kristoffer LAURSEN
+34.14
+SAH Skud reddet
+2:e
+8
+Torben PETERSEN
+Retur
+16
+Andreas HAAGEN
+35.45 16-18 SAH Mål
+HB
+8
+Torben PETERSEN
+16
+Andreas HAAGEN
+36.08
+TMS Skud forbi
+VB
+17
+Oliver WOSNIAK
+1
+Kristoffer LAURSEN
+36.38 17-18 SAH Mål
+VB
+23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+37.33 17-19 TMS Mål
+Gbr 77
+Nicolai COLUNGA
+1
+Kristoffer LAURSEN
+38.03 18-19 SAH Mål
+PL
+8
+Torben PETERSEN
+16
+Andreas HAAGEN
+38.40 18-20 TMS Mål
+PL
+7
+Christoffer DREYER
+1
+Kristoffer LAURSEN
+39.40
+SAH Tilkendt straffe
+32
+Fredrik OLSSON
+Forårs. str.
+17
+Oliver WOSNIAK
+39.42
+TMS Udvisning
+9
+Hakan SAHIN
+39.46 19-20 SAH Mål på straffe
+23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+40.25
+TMS Tilkendt straffe
+7
+Christoffer DREYER
+Forårs. str.
+7
+Jonatan MOLLERUP
+40.33 19-21 TMS Mål på straffe
+81
+Tobias NIELSEN
+1
+Kristoffer LAURSEN
+40.57 20-21 SAH Mål
+PL
+32
+Fredrik OLSSON
+16
+Andreas HAAGEN
+42.07 20-22 TMS Mål
+VB
+17
+Oliver WOSNIAK
+1
+Kristoffer LAURSEN
+42.37
+SAH Regelfejl
+8
+Torben PETERSEN
+43.11 20-23 TMS Mål
+HF
+81
+Tobias NIELSEN
+Assist
+7
+Christoffer DREYER
+1
+Kristoffer LAURSEN
+43.44
+TMS Rødt kort, direkte
+2
+Joachim MØLLER
+43.54
+SAH Skud reddet
+ST
+19
+Thor CHRISTENSEN
+Retur
+0
+16
+Andreas HAAGEN
+44.11 21-23 SAH Mål
+Gbr 23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+44.51
+TMS Tilkendt straffe
+7
+Christoffer DREYER
+Forårs. str.
+4
+Lars SKAARUP
+44.57 21-24 TMS Mål på straffe
+81
+Tobias NIELSEN
+1
+Kristoffer LAURSEN
+45.19
+SAH Skud reddet
+ST
+19
+Thor CHRISTENSEN
+16
+Andreas HAAGEN
+46.22 21-25 TMS Mål
+ST
+25
+Anders AGGER
+Assist
+17
+Oliver WOSNIAK
+1
+Kristoffer LAURSEN
+47.03
+SAH Skud reddet
+VB
+8
+Torben PETERSEN
+16
+Andreas HAAGEN
+47.50 21-26 TMS Mål
+Gbr
+7
+Christoffer DREYER
+12
+Salah BOUTAF
+48.03
+SAH Time out
+48.38
+SAH Skud reddet
+Gbr
+7
+Jonatan MOLLERUP
+16
+Andreas HAAGEN
+49.20
+TMS Skud reddet
+Gbr 77
+Nicolai COLUNGA
+12
+Salah BOUTAF
+49.29 22-26 SAH Mål
+2:e
+32
+Fredrik OLSSON
+16
+Andreas HAAGEN
+50.30
+TMS Time out
+50.33
+TMS Fejlaflevering
+5
+Mark NIKOLAJSEN
+Bold erobret 11
+Mikkel LANG
+51.09 23-26 SAH Mål
+PL
+7
+Jonatan MOLLERUP
+16
+Andreas HAAGEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+SAH - TMS Ringsted   27 - 29  (13 - 17)
+590148 / 3-2-2024 / Fælledhallen - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+52.00
+TMS Skud reddet
+Gbr 44
+Frederik HORN
+Retur
+0
+12
+Salah BOUTAF
+52.39
+TMS Fejlaflevering
+7
+Christoffer DREYER
+Bold erobret
+4
+Lars SKAARUP
+53.04
+SAH Fejlaflevering
+23
+Morten Hempel JENSEN
+Bold erobret
+0
+53.47
+TMS Skud reddet
+Gbr 17
+Oliver WOSNIAK
+12
+Salah BOUTAF
+54.09
+SAH Time out
+54.25
+SAH Tilkendt straffe
+7
+Jonatan MOLLERUP
+Forårs. str.
+17
+Oliver WOSNIAK
+54.34 24-26 SAH Mål på straffe
+23
+Morten Hempel JENSEN
+1
+Tobias LANTZ
+55.36 24-27 TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+12
+Salah BOUTAF
+56.12 25-27 SAH Mål
+PL
+32
+Fredrik OLSSON
+16
+Andreas HAAGEN
+56.18 25-28 TMS Mål
+2:e
+7
+Christoffer DREYER
+0
+56.48
+SAH Skud reddet
+VB
+23
+Morten Hempel JENSEN
+16
+Andreas HAAGEN
+57.21
+TMS Skud reddet
+PL
+17
+Oliver WOSNIAK
+12
+Salah BOUTAF
+57.51 26-28 SAH Mål
+VF
+4
+Lars SKAARUP
+Assist
+32
+Fredrik OLSSON
+16
+Andreas HAAGEN
+58.47
+TMS Skud reddet
+HF
+81
+Tobias NIELSEN
+Retur
+9
+Hakan SAHIN
+12
+Salah BOUTAF
+58.53
+TMS Skud reddet
+ST
+9
+Hakan SAHIN
+12
+Salah BOUTAF
+59.09 27-28 SAH Mål
+Gbr
+7
+Jonatan MOLLERUP
+16
+Andreas HAAGEN
+59.33
+TMS Time out
+59.54 27-29 TMS Mål
+HB 77
+Nicolai COLUNGA
+12
+Salah BOUTAF
+60.00 27-29
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Anne Sofie Vindstrup, Christian Emil Vindstrup,

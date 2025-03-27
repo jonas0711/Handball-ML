@@ -1,0 +1,878 @@
+KAMPHÆNDELSER
+TMS Ringsted - Aalborg Håndbold   31 - 27  (17 - 15)
+590140 / 16-12-2023 / Poul Christensen Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.56
+TMS Fejlaflevering
+17
+Oliver WOSNIAK
+1.02
+0-1
+AAH Mål
+VB
+3
+Lukas NILSSON
+16
+Andreas HAAGEN
+1.18
+1-1
+TMS Mål
+PL
+19
+Benjamin HALLGREN
+1
+Niklas LANDIN
+1.52
+TMS Advarsel
+2
+Joachim MØLLER
+2.08
+AAH Skud reddet
+PL
+14
+Mads HOXER
+16
+Andreas HAAGEN
+2.42
+2-1
+TMS Mål
+Gbr 19
+Benjamin HALLGREN
+1
+Niklas LANDIN
+3.20
+AAH Skud reddet
+Gbr 24
+Mikkel HANSEN
+16
+Andreas HAAGEN
+3.20
+AAH Udvisning
+24
+Mikkel HANSEN
+3.43
+TMS Skud på stolpe
+PL
+17
+Oliver WOSNIAK
+Retur
+0
+1
+Niklas LANDIN
+3.55
+TMS Tabt bold
+2
+Joachim MØLLER
+4.02
+AAH Tabt bold
+6
+Sebastian BARTHOLD
+4.23
+TMS Skud reddet
+HF
+81
+Tobias NIELSEN
+1
+Niklas LANDIN
+4.49
+2-2
+AAH Mål
+Gbr
+3
+Lukas NILSSON
+16
+Andreas HAAGEN
+5.06
+3-2
+TMS Mål
+ST
+2
+Joachim MØLLER
+Assist
+17
+Oliver WOSNIAK
+1
+Niklas LANDIN
+6.12
+AAH Fejlaflevering
+18
+Aleks VLAH
+Bold erobret 27
+Victor WOLF
+7.02
+4-2
+TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+1
+Niklas LANDIN
+7.17
+AAH Skud reddet
+PL
+18
+Aleks VLAH
+16
+Andreas HAAGEN
+7.49
+TMS Skud forbi
+VB
+17
+Oliver WOSNIAK
+1
+Niklas LANDIN
+8.20
+4-3
+AAH Mål
+Gbr 14
+Mads HOXER
+16
+Andreas HAAGEN
+8.56
+TMS Skud reddet
+Gbr 17
+Oliver WOSNIAK
+Retur
+0
+1
+Niklas LANDIN
+9.40
+TMS Skud reddet
+VB
+7
+Christoffer DREYER
+1
+Niklas LANDIN
+10.40
+AAH Skud reddet
+PL
+3
+Lukas NILSSON
+16
+Andreas HAAGEN
+11.17
+TMS Tabt bold
+19
+Benjamin HALLGREN
+Bold erobret
+3
+Lukas NILSSON
+11.26
+4-4
+AAH Mål
+2:e
+21
+Henrik MØLLGAARD
+16
+Andreas HAAGEN
+12.00
+TMS Skud blokeret
+PL
+5
+Mark NIKOLAJSEN
+Blok af (ret)
+11
+Simon HALD
+12.12
+5-4
+TMS Mål
+PL
+7
+Christoffer DREYER
+1
+Niklas LANDIN
+13.10
+AAH Tilkendt straffe
+4
+Patrick WIESMACH
+Forårs. str.
+9
+Hakan SAHIN
+13.10
+TMS Udvisning
+9
+Hakan SAHIN
+13.10
+5-5
+AAH Mål på straffe
+24
+Mikkel HANSEN
+16
+Andreas HAAGEN
+13.50
+6-5
+TMS Mål
+VF
+27
+Victor WOLF
+Assist
+7
+Christoffer DREYER
+1
+Niklas LANDIN
+14.20
+6-6
+AAH Mål
+ST
+11
+Simon HALD
+Assist
+24
+Mikkel HANSEN
+16
+Andreas HAAGEN
+15.15
+TMS Regelfejl
+25
+Anders AGGER
+15.28
+6-7
+AAH Mål
+Gbr 14
+Mads HOXER
+16
+Andreas HAAGEN
+15.59
+TMS Skud reddet
+Gbr 77
+Nicolai COLUNGA
+1
+Niklas LANDIN
+16.04
+6-8
+AAH Mål
+1:e
+4
+Patrick WIESMACH
+Assist
+3
+Lukas NILSSON
+16
+Andreas HAAGEN
+16.44
+TMS Skud forbi
+VF
+27
+Victor WOLF
+1
+Niklas LANDIN
+17.14
+6-9
+AAH Mål
+Gbr 14
+Mads HOXER
+16
+Andreas HAAGEN
+17.21
+TMS Time out
+18.09
+7-9
+TMS Mål
+PL
+77
+Nicolai COLUNGA
+1
+Niklas LANDIN
+19.00
+7-10
+AAH Mål
+Gbr
+3
+Lukas NILSSON
+Assist
+18
+Aleks VLAH
+16
+Andreas HAAGEN
+19.08
+8-10
+TMS Mål
+VB
+7
+Christoffer DREYER
+1
+Niklas LANDIN
+19.40
+AAH Skud reddet
+PL
+3
+Lukas NILSSON
+16
+Andreas HAAGEN
+20.15
+9-10
+TMS Mål
+VB
+17
+Oliver WOSNIAK
+1
+Niklas LANDIN
+20.46
+9-11
+AAH Mål
+Gbr 18
+Aleks VLAH
+16
+Andreas HAAGEN
+21.20 10-11 TMS Mål
+Gbr 19
+Benjamin HALLGREN
+Assist
+81
+Tobias NIELSEN
+1
+Niklas LANDIN
+21.45
+AAH Fejlaflevering
+7
+Thomas ARNOLDSEN
+21.51 11-11 TMS Mål
+2:e
+5
+Mark NIKOLAJSEN
+1
+Niklas LANDIN
+22.04
+AAH Time out
+23.00
+AAH Skud reddet
+VB
+15
+Jack THURIN
+16
+Andreas HAAGEN
+23.07 12-11 TMS Mål
+1:e
+81
+Tobias NIELSEN
+Assist
+77
+Nicolai COLUNGA
+1
+Niklas LANDIN
+23.30
+AAH Skud forbi
+HB
+7
+Thomas ARNOLDSEN
+16
+Andreas HAAGEN
+23.51 13-11 TMS Mål
+HF
+81
+Tobias NIELSEN
+Assist
+19
+Benjamin HALLGREN
+1
+Niklas LANDIN
+24.18
+AAH Skud reddet
+VB
+7
+Thomas ARNOLDSEN
+16
+Andreas HAAGEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+TMS Ringsted - Aalborg Håndbold   31 - 27  (17 - 15)
+590140 / 16-12-2023 / Poul Christensen Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.23 14-11 TMS Mål
+1:e
+81
+Tobias NIELSEN
+Assist
+16
+Andreas HAAGEN
+1
+Niklas LANDIN
+24.50
+TMS Udvisning
+9
+Hakan SAHIN
+25.03
+AAH Skud reddet
+ST
+11
+Simon HALD
+16
+Andreas HAAGEN
+25.48 15-11 TMS Mål
+HF
+81
+Tobias NIELSEN
+1
+Niklas LANDIN
+26.07 15-12 AAH Mål
+ST
+11
+Simon HALD
+Assist
+24
+Mikkel HANSEN
+16
+Andreas HAAGEN
+26.41 16-12 TMS Mål
+Gbr 77
+Nicolai COLUNGA
+1
+Niklas LANDIN
+26.51 16-13 AAH Mål
+Gbr 18
+Aleks VLAH
+16
+Andreas HAAGEN
+27.26
+TMS Regelfejl
+77
+Nicolai COLUNGA
+27.50 16-14 AAH Mål
+ST
+11
+Simon HALD
+Assist
+18
+Aleks VLAH
+16
+Andreas HAAGEN
+28.27
+TMS Tilkendt straffe
+25
+Anders AGGER
+Forårs. str.
+11
+Simon HALD
+28.47
+TMS Straffekast reddet
+81
+Tobias NIELSEN
+1
+Niklas LANDIN
+29.16 16-15 AAH Mål
+ST
+11
+Simon HALD
+Assist
+7
+Thomas ARNOLDSEN
+16
+Andreas HAAGEN
+29.56 17-15 TMS Mål
+VB
+17
+Oliver WOSNIAK
+1
+Niklas LANDIN
+30.00 17-15
+Halvleg
+30.00
+Start 2:e halvleg
+30.26 17-16 AAH Mål
+HB 14
+Mads HOXER
+16
+Andreas HAAGEN
+31.20
+TMS Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+12
+Fabian NORSTEN
+32.18
+AAH Passivt spil
+0
+32.21 18-16 TMS Mål
+1:e
+81
+Tobias NIELSEN
+12
+Fabian NORSTEN
+32.58
+TMS Rødt kort, direkte
+25
+Anders AGGER
+33.13
+AAH Skud reddet
+Gbr 15
+Jack THURIN
+16
+Andreas HAAGEN
+33.59
+TMS Skud reddet
+PL
+77
+Nicolai COLUNGA
+12
+Fabian NORSTEN
+34.06
+AAH Fejlaflevering
+12
+Fabian NORSTEN
+Bold erobret 19
+Benjamin HALLGREN
+34.42 19-16 TMS Mål
+Gbr 77
+Nicolai COLUNGA
+12
+Fabian NORSTEN
+35.43 19-17 AAH Mål
+PL
+15
+Jack THURIN
+16
+Andreas HAAGEN
+36.15
+TMS Regelfejl
+19
+Benjamin HALLGREN
+36.46
+TMS Rødt kort, direkte
+2
+Joachim MØLLER
+36.46
+TMS Advarsel
+B
+Marc UHD
+37.16 19-18 AAH Mål
+PL
+24
+Mikkel HANSEN
+16
+Andreas HAAGEN
+37.51 20-18 TMS Mål
+Gbr 19
+Benjamin HALLGREN
+12
+Fabian NORSTEN
+38.05
+AAH Skud reddet
+VF
+6
+Sebastian BARTHOLD
+16
+Andreas HAAGEN
+38.32
+TMS Time out
+38.55 21-18 TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+12
+Fabian NORSTEN
+39.41 21-19 AAH Mål
+ST
+6
+Sebastian BARTHOLD
+Assist
+14
+Mads HOXER
+16
+Andreas HAAGEN
+40.20
+TMS Skud blokeret
+PL
+19
+Benjamin HALLGREN
+Blok af (ret)
+21
+Henrik MØLLGAARD
+41.03
+TMS Skud blokeret
+PL
+44
+Frederik HORN
+Blok af (ret)
+22
+Rene ANTONSEN
+41.09 22-19 TMS Mål
+ST
+81
+Tobias NIELSEN
+12
+Fabian NORSTEN
+41.36 22-20 AAH Mål
+Gbr
+7
+Thomas ARNOLDSEN
+Assist
+14
+Mads HOXER
+16
+Andreas HAAGEN
+41.56
+TMS Skud blokeret
+PL
+5
+Mark NIKOLAJSEN
+Blokeret af
+22
+Rene ANTONSEN
+42.58 22-21 AAH Mål
+VB
+7
+Thomas ARNOLDSEN
+16
+Andreas HAAGEN
+43.36 23-21 TMS Mål
+Gbr 19
+Benjamin HALLGREN
+12
+Fabian NORSTEN
+44.10 23-22 AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+11
+Simon HALD
+16
+Andreas HAAGEN
+45.00
+TMS Regelfejl
+77
+Nicolai COLUNGA
+45.06 23-23 AAH Mål
+2:e
+7
+Thomas ARNOLDSEN
+16
+Andreas HAAGEN
+45.56
+TMS Fejlaflevering
+19
+Benjamin HALLGREN
+46.43
+AAH Time out
+47.25
+AAH Skud reddet
+PL
+24
+Mikkel HANSEN
+16
+Andreas HAAGEN
+47.58 24-23 TMS Mål
+PL
+17
+Oliver WOSNIAK
+Assist
+19
+Benjamin HALLGREN
+1
+Niklas LANDIN
+48.09
+AAH Skud reddet
+PL
+14
+Mads HOXER
+16
+Andreas HAAGEN
+48.44
+TMS Skud reddet
+ST
+9
+Hakan SAHIN
+1
+Niklas LANDIN
+48.53
+AAH Skud på stolpe
+2:e
+7
+Thomas ARNOLDSEN
+16
+Andreas HAAGEN
+49.46
+TMS Skud reddet
+ST
+9
+Hakan SAHIN
+1
+Niklas LANDIN
+49.59 24-24 AAH Mål
+Gbr
+7
+Thomas ARNOLDSEN
+16
+Andreas HAAGEN
+50.37
+TMS Regelfejl
+19
+Benjamin HALLGREN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+TMS Ringsted - Aalborg Håndbold   31 - 27  (17 - 15)
+590140 / 16-12-2023 / Poul Christensen Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+51.30 24-25 AAH Mål
+Gbr 24
+Mikkel HANSEN
+16
+Andreas HAAGEN
+52.05
+TMS Regelfejl
+5
+Mark NIKOLAJSEN
+52.42
+AAH Fejlaflevering
+7
+Thomas ARNOLDSEN
+Bold erobret 81
+Tobias NIELSEN
+52.46 25-25 TMS Mål
+1:e
+17
+Oliver WOSNIAK
+Assist
+81
+Tobias NIELSEN
+1
+Niklas LANDIN
+53.19
+AAH Skud reddet
+PL
+7
+Thomas ARNOLDSEN
+16
+Andreas HAAGEN
+54.05 26-25 TMS Mål
+VB
+5
+Mark NIKOLAJSEN
+1
+Niklas LANDIN
+54.14 26-26 AAH Mål
+Gbr
+3
+Lukas NILSSON
+Assist
+14
+Mads HOXER
+16
+Andreas HAAGEN
+54.58
+TMS Tabt bold
+19
+Benjamin HALLGREN
+Bold erobret 23
+Buster JUUL
+55.01
+TMS Udvisning
+5
+Mark NIKOLAJSEN
+55.31
+AAH Skud reddet
+Gbr
+3
+Lukas NILSSON
+16
+Andreas HAAGEN
+55.55 27-26 TMS Mål
+VB
+17
+Oliver WOSNIAK
+1
+Niklas LANDIN
+56.12 27-27 AAH Mål
+Gbr 14
+Mads HOXER
+16
+Andreas HAAGEN
+56.46
+TMS Time out
+57.25 28-27 TMS Mål
+PL
+17
+Oliver WOSNIAK
+1
+Niklas LANDIN
+57.36
+AAH Skud reddet
+Gbr
+3
+Lukas NILSSON
+16
+Andreas HAAGEN
+58.24 29-27 TMS Mål
+HF
+81
+Tobias NIELSEN
+Assist
+5
+Mark NIKOLAJSEN
+1
+Niklas LANDIN
+58.37
+AAH Skud på stolpe
+PL
+14
+Mads HOXER
+16
+Andreas HAAGEN
+58.58 30-27 TMS Mål
+Gbr
+5
+Mark NIKOLAJSEN
+1
+Niklas LANDIN
+59.18
+AAH Tabt bold
+24
+Mikkel HANSEN
+59.24 31-27 TMS Mål
+1:e
+17
+Oliver WOSNIAK
+0
+59.41
+AAH Skud reddet
+PL
+3
+Lukas NILSSON
+16
+Andreas HAAGEN
+59.59
+TMS Skud reddet
+HB 81
+Tobias NIELSEN
+1
+Niklas LANDIN
+60.00 31-27
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Hauge Havndrup, Marcus Christensen,

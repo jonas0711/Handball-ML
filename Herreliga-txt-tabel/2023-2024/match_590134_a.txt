@@ -1,0 +1,925 @@
+KAMPHÆNDELSER
+Aalborg Håndbold - SønderjyskE Herrer   32 - 24  (15 - 12)
+590134 / 13-12-2023 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.43
+1-0
+AAH Mål
+Gbr
+3
+Lukas NILSSON
+Assist
+14
+Mads HOXER
+30
+Julius STEN
+1.19
+SJE
+Skud reddet
+HB
+4
+Andreas LANG
+1
+Niklas LANDIN
+2.03
+2-0
+AAH Mål
+PL
+14
+Mads HOXER
+30
+Julius STEN
+2.44
+SJE
+Skud blokeret
+PL
+11
+Nicolaj JØRGENSEN
+Blok af (ret)
+22
+Rene ANTONSEN
+2.56
+SJE
+Skud reddet
+VB
+3
+Oliver EGGERT
+1
+Niklas LANDIN
+3.40
+3-0
+AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+24
+Mikkel HANSEN
+30
+Julius STEN
+4.11
+3-1
+SJE
+Mål
+PL
+3
+Oliver EGGERT
+1
+Niklas LANDIN
+4.44
+AAH Fejlaflevering
+3
+Lukas NILSSON
+4.53
+3-2
+SJE
+Mål
+Gbr
+4
+Andreas LANG
+1
+Niklas LANDIN
+5.45
+4-2
+AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+22
+Rene ANTONSEN
+30
+Julius STEN
+6.41
+4-3
+SJE
+Mål
+ST
+14
+Jacob BAGERSTED
+Assist
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+6.52
+5-3
+AAH Mål
+Gbr
+3
+Lukas NILSSON
+Assist
+23
+Buster JUUL
+30
+Julius STEN
+7.43
+5-4
+SJE
+Mål
+PL
+3
+Oliver EGGERT
+1
+Niklas LANDIN
+8.20
+AAH Skud reddet
+Gbr 14
+Mads HOXER
+30
+Julius STEN
+9.42
+SJE
+Passivt spil
+0
+10.12
+AAH Fejlaflevering
+24
+Mikkel HANSEN
+10.55
+SJE
+Skud reddet
+VB
+25
+Kristian STRANDEN
+1
+Niklas LANDIN
+11.31
+6-4
+AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+3
+Lukas NILSSON
+30
+Julius STEN
+12.38
+6-5
+SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+13.04
+SJE
+Advarsel
+18
+Morten BJØRNSHAUGE
+13.30
+7-5
+AAH Mål
+PL
+14
+Mads HOXER
+30
+Julius STEN
+14.08
+SJE
+Skud reddet
+VF
+6
+Nikolaj SVALASTOG
+1
+Niklas LANDIN
+14.27
+8-5
+AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+14
+Mads HOXER
+30
+Julius STEN
+15.04
+SJE
+Tilkendt straffe
+14
+Jacob BAGERSTED
+Forårs. str.
+19
+Kristian BJØRNSEN
+15.29
+8-6
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+16.09
+AAH Skud reddet
+PL
+3
+Lukas NILSSON
+Retur
+19
+Kristian BJØRNSEN
+30
+Julius STEN
+16.18
+9-6
+AAH Mål
+ST
+19
+Kristian BJØRNSEN
+30
+Julius STEN
+16.27
+AAH Advarsel
+22
+Rene ANTONSEN
+16.46
+SJE
+Skud reddet
+Gbr 25
+Kristian STRANDEN
+1
+Niklas LANDIN
+17.18
+SJE
+Rødt kort, direkte
+18
+Morten BJØRNSHAUGE
+17.33 10-6
+AAH Mål
+ST
+11
+Simon HALD
+Assist
+24
+Mikkel HANSEN
+30
+Julius STEN
+18.09 10-7
+SJE
+Mål
+Gbr 11
+Nicolaj JØRGENSEN
+Assist
+4
+Andreas LANG
+1
+Niklas LANDIN
+18.20 11-7
+AAH Mål
+VF
+23
+Buster JUUL
+Assist
+18
+Aleks VLAH
+30
+Julius STEN
+18.55
+SJE
+Skud reddet
+PL
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+19.15 12-7
+AAH Mål
+VF
+23
+Buster JUUL
+Assist
+14
+Mads HOXER
+30
+Julius STEN
+19.50
+SJE
+Skud reddet
+PL
+4
+Andreas LANG
+1
+Niklas LANDIN
+20.30 13-7
+AAH Mål
+Gbr 18
+Aleks VLAH
+30
+Julius STEN
+21.00 13-8
+SJE
+Mål
+HF
+27
+Alec SMIT
+Assist
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+22.28 14-8
+AAH Mål
+PL
+3
+Lukas NILSSON
+12
+Kasper LARSEN
+23.18 14-9
+SJE
+Mål
+HF
+27
+Alec SMIT
+Assist
+4
+Andreas LANG
+1
+Niklas LANDIN
+23.55
+AAH Tilkendt straffe
+11
+Simon HALD
+Forårs. str.
+4
+Andreas LANG
+24.21
+AAH Straffekast reddet
+24
+Mikkel HANSEN
+12
+Kasper LARSEN
+24.58
+SJE
+Skud reddet
+VB
+3
+Oliver EGGERT
+1
+Niklas LANDIN
+25.09 15-9
+AAH Mål
+1:e
+11
+Simon HALD
+Assist
+19
+Kristian BJØRNSEN
+0
+25.35 15-10 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+26.02
+SJE
+Udvisning
+25
+Kristian STRANDEN
+26.23
+AAH Skud reddet
+Gbr 18
+Aleks VLAH
+Retur
+0
+12
+Kasper LARSEN
+27.00
+AAH Fejlaflevering
+15
+Jack THURIN
+27.30
+SJE
+Time out
+27.40 15-11 SJE
+Mål
+Gbr
+4
+Andreas LANG
+1
+Niklas LANDIN
+27.52
+AAH Time out
+28.00
+AAH Skud reddet
+ST
+11
+Simon HALD
+12
+Kasper LARSEN
+28.29
+SJE
+Skud reddet
+HF
+27
+Alec SMIT
+1
+Niklas LANDIN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - SønderjyskE Herrer   32 - 24  (15 - 12)
+590134 / 13-12-2023 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+29.04
+AAH Fejlaflevering
+3
+Lukas NILSSON
+29.37 15-12 SJE
+Mål
+ST
+2
+Tobias Gregers SCHMIDT
+Assist
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+30.00
+AAH Skud reddet
+ST
+11
+Simon HALD
+12
+Kasper LARSEN
+30.00 15-12
+Halvleg
+30.00
+Start 2:e halvleg
+30.40
+SJE
+Skud reddet
+VB
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+31.05 16-12 AAH Mål
+PL
+7
+Thomas ARNOLDSEN
+12
+Kasper LARSEN
+31.17 16-13 SJE
+Mål
+Gbr
+3
+Oliver EGGERT
+1
+Niklas LANDIN
+31.30
+AAH Skud reddet
+VF
+6
+Sebastian BARTHOLD
+12
+Kasper LARSEN
+32.12
+SJE
+Fejlaflevering
+3
+Oliver EGGERT
+32.18 17-13 AAH Mål
+1:e
+7
+Thomas ARNOLDSEN
+12
+Kasper LARSEN
+32.19
+SJE
+Udvisning
+4
+Andreas LANG
+32.52 17-14 SJE
+Mål
+Gbr
+3
+Oliver EGGERT
+1
+Niklas LANDIN
+33.40 18-14 AAH Mål
+HB 14
+Mads HOXER
+12
+Kasper LARSEN
+34.13
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+Bold erobret 11
+Simon HALD
+34.18 19-14 AAH Mål
+1:e
+4
+Patrick WIESMACH
+Assist
+14
+Mads HOXER
+0
+34.54
+SJE
+Skud reddet
+PL
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+35.33 20-14 AAH Mål
+PL
+14
+Mads HOXER
+12
+Kasper LARSEN
+36.05 20-15 SJE
+Mål
+Gbr
+4
+Andreas LANG
+1
+Niklas LANDIN
+36.45
+AAH Skud reddet
+PL
+3
+Lukas NILSSON
+12
+Kasper LARSEN
+37.13
+SJE
+Regelfejl
+2
+Tobias Gregers SCHMIDT
+37.25
+AAH Tilkendt straffe
+22
+Rene ANTONSEN
+Forårs. str.
+24
+Sebastian AUGUSTINUSSEN
+37.53
+AAH Straffekast reddet
+23
+Buster JUUL
+12
+Kasper LARSEN
+38.37
+SJE
+Regelfejl
+2
+Tobias Gregers SCHMIDT
+38.48 21-15 AAH Mål
+Gbr 14
+Mads HOXER
+12
+Kasper LARSEN
+38.52
+SJE
+Udvisning
+2
+Tobias Gregers SCHMIDT
+39.15 21-16 SJE
+Mål
+HB
+4
+Andreas LANG
+1
+Niklas LANDIN
+39.46 22-16 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+14
+Mads HOXER
+12
+Kasper LARSEN
+40.30
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+Bold erobret 22
+Rene ANTONSEN
+40.40 23-16 AAH Mål
+1:e
+7
+Thomas ARNOLDSEN
+Assist
+22
+Rene ANTONSEN
+0
+40.52
+SJE
+Time out
+41.11
+SJE
+Fejlaflevering
+4
+Andreas LANG
+41.43 24-16 AAH Mål
+PL
+14
+Mads HOXER
+Assist
+7
+Thomas ARNOLDSEN
+12
+Kasper LARSEN
+42.20
+SJE
+Skud reddet
+HF
+27
+Alec SMIT
+1
+Niklas LANDIN
+42.49 25-16 AAH Mål
+Gbr
+7
+Thomas ARNOLDSEN
+12
+Kasper LARSEN
+43.34
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+Bold erobret
+6
+Sebastian BARTHOLD
+43.39 26-16 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+7
+Thomas ARNOLDSEN
+12
+Kasper LARSEN
+43.46
+SJE
+Time out
+44.15
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+Bold erobret 14
+Mads HOXER
+44.21
+AAH Skud reddet
+1:e
+3
+Lukas NILSSON
+12
+Kasper LARSEN
+44.31
+SJE
+Skud reddet
+2:e
+6
+Nikolaj SVALASTOG
+1
+Niklas LANDIN
+45.08 27-16 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+3
+Lukas NILSSON
+12
+Kasper LARSEN
+45.42 27-17 SJE
+Mål
+Gbr 23
+Tobias OLSEN
+1
+Niklas LANDIN
+46.23 28-17 AAH Mål
+Gbr
+3
+Lukas NILSSON
+12
+Kasper LARSEN
+46.53
+SJE
+Tilkendt straffe
+2
+Tobias Gregers SCHMIDT
+Forårs. str.
+11
+Simon HALD
+47.20
+SJE
+Straffekast forbi
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+48.06
+AAH Tilkendt straffe
+3
+Lukas NILSSON
+Forårs. str.
+27
+Alec SMIT
+48.23
+AAH Straffekast på stolpe
+23
+Buster JUUL
+12
+Kasper LARSEN
+49.30
+SJE
+Skud blokeret
+PL
+23
+Tobias OLSEN
+Blokeret af
+11
+Simon HALD
+50.02 29-17 AAH Mål
+Gbr
+3
+Lukas NILSSON
+12
+Kasper LARSEN
+51.06
+SJE
+Tilkendt straffe
+23
+Tobias OLSEN
+Forårs. str.
+21
+Henrik MØLLGAARD
+51.30 29-18 SJE
+Mål på straffe
+67
+Tobias MØLLER
+12
+Fabian NORSTEN
+52.15
+AAH Tilkendt straffe
+11
+Simon HALD
+Forårs. str.
+24
+Sebastian AUGUSTINUSSEN
+52.23 30-18 AAH Mål på straffe
+7
+Thomas ARNOLDSEN
+12
+Kasper LARSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - SønderjyskE Herrer   32 - 24  (15 - 12)
+590134 / 13-12-2023 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+52.57
+SJE
+Skud blokeret
+PL
+7
+Peter LAUSTEN
+Blok af (ret)
+22
+Rene ANTONSEN
+53.09
+SJE
+Skud reddet
+VB
+11
+Nicolaj JØRGENSEN
+Retur
+0
+12
+Fabian NORSTEN
+53.37 30-19 SJE
+Mål
+PL
+3
+Oliver EGGERT
+12
+Fabian NORSTEN
+54.03
+AAH Regelfejl
+11
+Simon HALD
+54.59 30-20 SJE
+Mål
+Gbr
+7
+Peter LAUSTEN
+12
+Fabian NORSTEN
+55.14
+AAH Fejlaflevering
+7
+Thomas ARNOLDSEN
+Bold erobret 27
+Alec SMIT
+55.22 30-21 SJE
+Mål
+1:e
+27
+Alec SMIT
+12
+Fabian NORSTEN
+55.29
+AAH Time out
+55.56
+AAH Fejlaflevering
+18
+Aleks VLAH
+Bold erobret
+2
+Tobias Gregers SCHMIDT
+56.21 30-22 SJE
+Mål
+PL
+6
+Nikolaj SVALASTOG
+12
+Fabian NORSTEN
+57.16
+AAH Skud forbi
+PL
+7
+Thomas ARNOLDSEN
+12
+Kasper LARSEN
+57.55 30-23 SJE
+Mål
+PL
+3
+Oliver EGGERT
+12
+Fabian NORSTEN
+58.35 31-23 AAH Mål
+PL
+7
+Thomas ARNOLDSEN
+12
+Kasper LARSEN
+59.02 31-24 SJE
+Mål
+Gbr
+3
+Oliver EGGERT
+12
+Fabian NORSTEN
+59.44 32-24 AAH Mål
+ST
+11
+Simon HALD
+Assist
+7
+Thomas ARNOLDSEN
+12
+Kasper LARSEN
+60.00 32-24
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Lars Bo Ibsen, Andreas Nielsen,

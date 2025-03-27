@@ -1,0 +1,944 @@
+KAMPHÆNDELSER
+SønderjyskE Herrer - Nordsjælland Håndbold   32 - 24  (18 - 12)
+590153 / 7-2-2024 / Arena Aabenraa Hal 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.33
+0-1
+NSH Mål
+PL
+17
+Nichlas HALD
+30
+Julius STEN
+1.08
+SJE
+Skud reddet
+Gbr
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+1.20
+NSH Regelfejl
+5
+Julius MØRCH
+1.50
+1-1
+SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+29
+Jimmi ANDERSEN
+2.45
+NSH Fejlaflevering
+2
+Justin MÜLLER
+2.51
+2-1
+SJE
+Mål
+1:e
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+3.25
+2-2
+NSH Mål
+PL
+17
+Nichlas HALD
+30
+Julius STEN
+4.12
+3-2
+SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+3
+Oliver EGGERT
+29
+Jimmi ANDERSEN
+4.24
+NSH Skud forbi
+PL
+17
+Nichlas HALD
+30
+Julius STEN
+4.26
+SJE
+Udvisning
+18
+Morten BJØRNSHAUGE
+4.56
+4-2
+SJE
+Mål
+ST
+14
+Jacob BAGERSTED
+Assist
+3
+Oliver EGGERT
+29
+Jimmi ANDERSEN
+5.28
+4-3
+NSH Mål
+Gbr 79
+Oliver KLARSKOV
+30
+Julius STEN
+6.11
+SJE
+Skud reddet
+ST
+24
+Sebastian AUGUSTINUSSEN
+29
+Jimmi ANDERSEN
+6.23
+NSH Skud reddet
+HF
+3
+Carl-Emil HAUNSTRUP
+30
+Julius STEN
+6.56
+SJE
+Skud blokeret
+PL
+3
+Oliver EGGERT
+Blokeret af
+0
+7.09
+4-4
+NSH Mål
+2:e
+5
+Julius MØRCH
+Assist
+17
+Nichlas HALD
+30
+Julius STEN
+7.23
+5-4
+SJE
+Mål
+2:e
+3
+Oliver EGGERT
+29
+Jimmi ANDERSEN
+7.53
+NSH Regelfejl
+2
+Justin MÜLLER
+8.22
+NSH Advarsel
+5
+Julius MØRCH
+8.52
+6-4
+SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+29
+Jimmi ANDERSEN
+9.22
+NSH Regelfejl
+0
+9.22
+NSH Advarsel
+B
+Laurids Søgaard PETERSEN
+9.44
+SJE
+Skud forbi
+HB
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+9.53
+NSH Skud reddet
+HB 17
+Nichlas HALD
+30
+Julius STEN
+10.02
+7-4
+SJE
+Mål
+2:e
+11
+Nicolaj JØRGENSEN
+29
+Jimmi ANDERSEN
+10.46
+NSH Fejlaflevering
+7
+Kristian OLSEN
+11.43
+SJE
+Regelfejl
+24
+Sebastian AUGUSTINUSSEN
+12.00
+NSH Tilkendt straffe
+7
+Kristian OLSEN
+Forårs. str.
+6
+Nikolaj SVALASTOG
+12.06
+7-5
+NSH Mål på straffe
+25
+Jeppe CIESLAK
+12
+Kasper LARSEN
+12.41
+SJE
+Tilkendt straffe
+4
+Andreas LANG
+Forårs. str.
+11
+Jonas RAUNDAHL
+12.42
+NSH Udvisning
+11
+Jonas RAUNDAHL
+12.44
+8-5
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+29
+Jimmi ANDERSEN
+13.28
+NSH Fejlaflevering
+2
+Justin MÜLLER
+13.52
+SJE
+Skud reddet
+Gbr 25
+Kristian STRANDEN
+Retur
+18
+Morten BJØRNSHAUGE
+29
+Jimmi ANDERSEN
+14.08
+SJE
+Skud reddet
+ST
+18
+Morten BJØRNSHAUGE
+29
+Jimmi ANDERSEN
+14.47
+SJE
+Udvisning
+18
+Morten BJØRNSHAUGE
+15.02
+8-6
+NSH Mål
+PL
+17
+Nichlas HALD
+30
+Julius STEN
+15.38
+9-6
+SJE
+Mål
+ST
+14
+Jacob BAGERSTED
+Assist
+11
+Nicolaj JØRGENSEN
+29
+Jimmi ANDERSEN
+16.24
+NSH Fejlaflevering
+17
+Nichlas HALD
+16.42
+SJE
+Tilkendt straffe
+4
+Andreas LANG
+Forårs. str.
+11
+Jonas RAUNDAHL
+16.51 10-6
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+29
+Jimmi ANDERSEN
+16.59
+NSH Time out
+17.34
+NSH Skud reddet
+HB 21
+Tim RANTALA
+30
+Julius STEN
+18.35 11-6
+SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+3
+Oliver EGGERT
+29
+Jimmi ANDERSEN
+19.14 11-7
+NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+0
+30
+Julius STEN
+19.48 12-7
+SJE
+Mål
+PL
+3
+Oliver EGGERT
+Assist
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+19.48
+NSH Udvisning
+21
+Tim RANTALA
+20.12
+NSH Fejlaflevering
+79
+Oliver KLARSKOV
+20.37 13-7
+SJE
+Mål
+Gbr 25
+Kristian STRANDEN
+16
+Magnus PETERSEN
+21.13 13-8
+NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+7
+Kristian OLSEN
+30
+Julius STEN
+21.43 14-8
+SJE
+Mål
+Gbr 25
+Kristian STRANDEN
+29
+Jimmi ANDERSEN
+22.11 14-9
+NSH Mål
+HB
+7
+Kristian OLSEN
+Assist
+79
+Oliver KLARSKOV
+30
+Julius STEN
+22.45
+SJE
+Skud reddet
+HB
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+SønderjyskE Herrer - Nordsjælland Håndbold   32 - 24  (18 - 12)
+590153 / 7-2-2024 / Arena Aabenraa Hal 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+23.29
+NSH Skud reddet
+VB
+79
+Oliver KLARSKOV
+12
+Kasper LARSEN
+23.41 15-9
+SJE
+Mål
+Gbr
+3
+Oliver EGGERT
+29
+Jimmi ANDERSEN
+24.23
+NSH Skud på stolpe
+HB 13
+Gustav BRUUN
+12
+Kasper LARSEN
+24.57 16-9
+SJE
+Mål
+Gbr 11
+Nicolaj JØRGENSEN
+Assist
+3
+Oliver EGGERT
+16
+Magnus PETERSEN
+25.40 16-10 NSH Mål
+ST
+25
+Jeppe CIESLAK
+Assist
+13
+Gustav BRUUN
+12
+Kasper LARSEN
+26.14
+SJE
+Tilkendt straffe
+14
+Jacob BAGERSTED
+Forårs. str.
+21
+Tim RANTALA
+26.24 17-10 SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+16
+Magnus PETERSEN
+26.58 17-11 NSH Mål
+ST
+21
+Tim RANTALA
+Assist
+42
+Matias CAMPBELL
+12
+Kasper LARSEN
+27.49 18-11 SJE
+Mål
+VF
+5
+Pelle SCHILLING
+Assist
+3
+Oliver EGGERT
+16
+Magnus PETERSEN
+28.31 18-12 NSH Mål
+ST
+11
+Jonas RAUNDAHL
+Assist
+79
+Oliver KLARSKOV
+12
+Kasper LARSEN
+28.56
+SJE
+Time out
+29.12
+SJE
+Tilkendt straffe
+3
+Oliver EGGERT
+Forårs. str.
+11
+Jonas RAUNDAHL
+29.24
+SJE
+Straffekast på stolpe
+11
+Nicolaj JØRGENSEN
+16
+Magnus PETERSEN
+29.59
+NSH Skud blokeret
+PL
+42
+Matias CAMPBELL
+Blokeret af
+18
+Morten BJØRNSHAUGE
+30.00 18-12
+Halvleg
+30.00
+Start 2:e halvleg
+30.47 19-12 SJE
+Mål
+Gbr
+4
+Andreas LANG
+16
+Magnus PETERSEN
+31.19
+NSH Skud reddet
+Gbr 17
+Nichlas HALD
+12
+Kasper LARSEN
+31.52 20-12 SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+3
+Oliver EGGERT
+16
+Magnus PETERSEN
+32.30
+NSH Regelfejl
+5
+Julius MØRCH
+32.57 21-12 SJE
+Mål
+HB 11
+Nicolaj JØRGENSEN
+16
+Magnus PETERSEN
+33.28
+NSH Skud blokeret
+PL
+7
+Kristian OLSEN
+Blokeret af
+0
+33.46 22-12 SJE
+Mål
+1:e
+6
+Nikolaj SVALASTOG
+Assist
+12
+Kasper LARSEN
+16
+Magnus PETERSEN
+33.46
+NSH Time out
+34.01 22-13 NSH Mål
+Gbr 79
+Oliver KLARSKOV
+12
+Kasper LARSEN
+34.39 23-13 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+29
+Jimmi ANDERSEN
+35.31
+NSH Tilkendt straffe
+79
+Oliver KLARSKOV
+Forårs. str.
+24
+Sebastian AUGUSTINUSSEN
+35.42 23-14 NSH Mål på straffe
+25
+Jeppe CIESLAK
+12
+Kasper LARSEN
+36.18 24-14 SJE
+Mål
+VB
+11
+Nicolaj JØRGENSEN
+29
+Jimmi ANDERSEN
+37.20
+NSH Tilkendt straffe
+21
+Tim RANTALA
+Forårs. str.
+3
+Oliver EGGERT
+37.20
+SJE
+Udvisning
+3
+Oliver EGGERT
+37.21 24-15 NSH Mål på straffe
+25
+Jeppe CIESLAK
+30
+Julius STEN
+38.06 25-15 SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+38.35
+NSH Tabt bold
+79
+Oliver KLARSKOV
+39.08 26-15 SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+39.48 26-16 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+79
+Oliver KLARSKOV
+12
+Kasper LARSEN
+40.41
+SJE
+Skud reddet
+PL
+25
+Kristian STRANDEN
+29
+Jimmi ANDERSEN
+40.53
+NSH Skud reddet
+Gbr 79
+Oliver KLARSKOV
+12
+Kasper LARSEN
+41.42
+SJE
+Skud reddet
+Gbr
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+42.29 26-17 NSH Mål
+Gbr
+7
+Kristian OLSEN
+12
+Kasper LARSEN
+42.56 27-17 SJE
+Mål
+PL
+25
+Kristian STRANDEN
+29
+Jimmi ANDERSEN
+43.09
+NSH Skud blokeret
+PL
+42
+Matias CAMPBELL
+Blokeret af
+14
+Jacob BAGERSTED
+43.56
+SJE
+Fejlaflevering
+23
+Tobias OLSEN
+44.05 27-18 NSH Mål
+2:e
+13
+Gustav BRUUN
+12
+Kasper LARSEN
+44.35
+SJE
+Regelfejl
+3
+Oliver EGGERT
+44.47 27-19 NSH Mål
+Gbr
+7
+Kristian OLSEN
+12
+Kasper LARSEN
+45.20
+SJE
+Skud blokeret
+PL
+3
+Oliver EGGERT
+Blok af (ret)
+7
+Kristian OLSEN
+45.41
+SJE
+Tilkendt straffe
+3
+Oliver EGGERT
+Forårs. str.
+42
+Matias CAMPBELL
+46.14
+SJE
+Straffekast forbi
+11
+Nicolaj JØRGENSEN
+29
+Jimmi ANDERSEN
+46.41 27-20 NSH Mål
+PL
+7
+Kristian OLSEN
+12
+Kasper LARSEN
+48.00
+NSH Udvisning
+13
+Gustav BRUUN
+48.17 28-20 SJE
+Mål
+Gbr 25
+Kristian STRANDEN
+29
+Jimmi ANDERSEN
+48.53
+NSH Skud reddet
+ST
+7
+Kristian OLSEN
+30
+Julius STEN
+49.19 29-20 SJE
+Mål
+VF
+6
+Nikolaj SVALASTOG
+Assist
+25
+Kristian STRANDEN
+29
+Jimmi ANDERSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+SønderjyskE Herrer - Nordsjælland Håndbold   32 - 24  (18 - 12)
+590153 / 7-2-2024 / Arena Aabenraa Hal 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+49.44 29-21 NSH Mål
+HB
+7
+Kristian OLSEN
+30
+Julius STEN
+50.32 30-21 SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+3
+Oliver EGGERT
+29
+Jimmi ANDERSEN
+51.01
+NSH Skud reddet
+PL
+17
+Nichlas HALD
+30
+Julius STEN
+52.07
+SJE
+Skud på stolpe
+ST
+18
+Morten BJØRNSHAUGE
+29
+Jimmi ANDERSEN
+52.18
+NSH Tabt bold
+2
+Justin MÜLLER
+52.53
+SJE
+Tilkendt straffe
+3
+Oliver EGGERT
+Forårs. str.
+5
+Julius MØRCH
+53.09 31-21 SJE
+Mål på straffe
+27
+Alec SMIT
+29
+Jimmi ANDERSEN
+53.12
+NSH Time out
+53.43 31-22 NSH Mål
+HB
+7
+Kristian OLSEN
+30
+Julius STEN
+54.35
+SJE
+Skud reddet
+PL
+11
+Nicolaj JØRGENSEN
+16
+Magnus PETERSEN
+55.08 31-23 NSH Mål
+PL
+7
+Kristian OLSEN
+30
+Julius STEN
+55.58
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+56.07
+NSH Skud reddet
+PL
+13
+Gustav BRUUN
+30
+Julius STEN
+56.58
+SJE
+Regelfejl
+2
+Tobias Gregers SCHMIDT
+57.11
+SJE
+Advarsel
+A
+Rasmus Glad VANDBÆK
+57.23 31-24 NSH Mål
+PL
+7
+Kristian OLSEN
+30
+Julius STEN
+57.58
+SJE
+Skud blokeret
+2:e
+25
+Kristian STRANDEN
+Blok af (ret)
+13
+Gustav BRUUN
+58.27
+SJE
+Passivt spil
+0
+58.52
+NSH Fejlaflevering
+2
+Justin MÜLLER
+59.03
+SJE
+Tilkendt straffe
+2
+Tobias Gregers SCHMIDT
+Forårs. str.
+13
+Gustav BRUUN
+59.27 32-24 SJE
+Mål på straffe
+27
+Alec SMIT
+16
+Magnus PETERSEN
+59.59
+NSH Tilkendt straffe
+13
+Gustav BRUUN
+Forårs. str.
+14
+Jacob BAGERSTED
+59.59
+NSH Straffekast reddet
+18
+Nikolai Max KLØIGAARD
+30
+Julius STEN
+60.00 32-24
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Bjarne Nielsen, Mads Zoega,

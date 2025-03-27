@@ -46,16 +46,16 @@ except ImportError:
 DEFAULT_LIGA = 'herreligaen'
 
 # Vælg sæson (format: 'ÅÅÅÅ-ÅÅÅÅ')
-DEFAULT_SAESON = '2024-2025'
+DEFAULT_SAESON = '2023-2024'
 
 # Detaljeret logging til terminal
 VERBOSE_OUTPUT = True
 
 # Log-filnavn
-LOG_FILE = "handball_workflow_detailed.log"
+LOG_FILE = "Logs/handball_workflow_detailed.log"
 
 # Tracking-fil for at holde styr på processerede filer
-TRACKING_FILE = "processed_files.json"
+TRACKING_FILE = "JSON/processed_files.json"
 
 # Tærskelværdier for PDF-validering
 MIN_PDF_SIZE = 50000        # 50KB - små filer er ofte tomme
@@ -70,6 +70,11 @@ MIN_TEXT_CONTENT = 500      # Minimum antal tegn af indhold i en gyldig PDF
 log_dir = os.path.dirname(LOG_FILE)
 if log_dir:  # Kun kald makedirs hvis der faktisk er en sti
     os.makedirs(log_dir, exist_ok=True)
+
+# Sikr at JSON-mappen eksisterer
+json_dir = os.path.dirname(TRACKING_FILE)
+if json_dir:  # Kun kald makedirs hvis der faktisk er en sti
+    os.makedirs(json_dir, exist_ok=True)
 
 # Konfigurer logging
 logging.basicConfig(
@@ -828,7 +833,6 @@ def process_unfinished_files(unprocessed_info, args, tracking_data):
                                 if os.path.getsize(db_path) > 1000:  # DB skal være over 1KB
                                     mark_file_processed(db_path, 'db', tracking_data)
                                     db_processed_count += 1
-                                    break
                 
                 results["db_processed"] = db_processed_count
                 log(f"Konverterede {db_processed_count} TXT-filer til DB", level=1)
@@ -1007,7 +1011,13 @@ def download_liga_pdf_files(args, liga_name, tracking_data):
         soup = BeautifulSoup(response.text, 'html.parser')
         
         # Gem en kopi af HTML for debugging
-        debug_file = f'debug_page_{liga_name}.html'
+        debug_file = f'HTML/debug_page_{liga_name}.html'
+        
+        # Sikr at HTML-mappen eksisterer
+        html_dir = os.path.dirname(debug_file)
+        if html_dir:  # Kun kald makedirs hvis der faktisk er en sti
+            os.makedirs(html_dir, exist_ok=True)
+            
         with open(debug_file, 'w', encoding='utf-8') as f:
             f.write(response.text)
         log(f"HTML-side gemt som {debug_file} for debugging", level=1)

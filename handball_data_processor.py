@@ -37,7 +37,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Tracking-fil for at holde styr på processerede filer (samme som i workflow)
-TRACKING_FILE = "processed_files.json"
+TRACKING_FILE = "JSON/processed_files.json"
+
+# Sikr at JSON-mappen eksisterer
+json_dir = os.path.dirname(TRACKING_FILE)
+if json_dir:  # Kun kald makedirs hvis der faktisk er en sti
+    os.makedirs(json_dir, exist_ok=True)
 
 # --------------
 # TRACKING-SYSTEM FUNKTIONER
@@ -300,7 +305,7 @@ def setup_configuration(args):
 
 # Konfiguration for system prompt og logging
 SYSTEM_PROMPT_PATH = "gemini_api_instructions.txt"
-LOG_FILE = "handball_converter.log"
+LOG_FILE = "Logs/handball_converter.log"
 
 # Sikrer at de nødvendige mapper eksisterer
 log_dir = os.path.dirname(LOG_FILE)
@@ -322,7 +327,7 @@ logger = logging.getLogger(__name__)
 # Opret en separat logger for API kald
 api_logger = logging.getLogger('api_calls')
 api_logger.setLevel(logging.DEBUG)
-api_handler = logging.FileHandler('api_calls.log')
+api_handler = logging.FileHandler('Logs/api_calls.log')
 api_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
 api_logger.addHandler(api_handler)
 
