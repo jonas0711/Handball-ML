@@ -1,0 +1,878 @@
+KAMPHÆNDELSER
+SønderjyskE Herrer - Nordsjælland Håndbold   26 - 26  (13 - 15)
+327297 / 16-2-2022 / Broager Sparekasse SKANSEN 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.46
+1-0
+SJE
+Mål
+HF
+27
+Alec SMIT
+Assist
+4
+Andreas LANG
+1
+Frederik ANDERSSON
+0.57
+NSH Tabt bold
+42
+Matias CAMPBELL
+1.08
+2-0
+SJE
+Mål
+PL
+25
+Kristian STRANDEN
+1
+Frederik ANDERSSON
+2.04
+2-1
+NSH Mål
+Gbr 17
+Nichlas HALD
+12
+Kasper LARSEN
+2.41
+3-1
+SJE
+Mål
+Gbr 66
+Noah GAUDIN
+1
+Frederik ANDERSSON
+3.36
+SJE
+Advarsel
+18
+Morten BJØRNSHAUGE
+3.58
+3-2
+NSH Mål
+PL
+17
+Nichlas HALD
+12
+Kasper LARSEN
+4.40
+4-2
+SJE
+Mål
+VB
+25
+Kristian STRANDEN
+1
+Frederik ANDERSSON
+5.20
+NSH Skud reddet
+ST
+5
+Julius MØRCH-RASMUSSEN
+12
+Kasper LARSEN
+5.59
+5-2
+SJE
+Mål
+Gbr
+4
+Andreas LANG
+1
+Frederik ANDERSSON
+6.11
+5-3
+NSH Mål
+VF
+14
+Rasmus Madsbøll WENNEKE Assist
+23
+Kasper KISUM
+12
+Kasper LARSEN
+6.38
+6-3
+SJE
+Mål
+ST
+14
+Frederik LADEFOGED
+Assist
+25
+Kristian STRANDEN
+1
+Frederik ANDERSSON
+7.13
+NSH Skud reddet
+HF
+3
+Carl-Emil HAUNSTRUP
+12
+Kasper LARSEN
+7.49
+SJE
+Skud reddet
+Gbr
+4
+Andreas LANG
+1
+Frederik ANDERSSON
+8.00
+6-4
+NSH Mål
+VF
+14
+Rasmus Madsbøll WENNEKE Assist
+23
+Kasper KISUM
+12
+Kasper LARSEN
+8.31
+7-4
+SJE
+Mål
+VB
+4
+Andreas LANG
+1
+Frederik ANDERSSON
+8.41
+7-5
+NSH Mål
+HB 20
+Jesper DAHL
+12
+Kasper LARSEN
+9.12
+8-5
+SJE
+Mål
+PL
+66
+Noah GAUDIN
+Assist
+4
+Andreas LANG
+1
+Frederik ANDERSSON
+10.03
+8-6
+NSH Mål
+PL
+2
+Tobias JØRGENSEN
+12
+Kasper LARSEN
+10.31
+9-6
+SJE
+Mål
+Gbr
+4
+Andreas LANG
+1
+Frederik ANDERSSON
+11.09
+9-7
+NSH Mål
+PL
+17
+Nichlas HALD
+12
+Kasper LARSEN
+11.38
+SJE
+Skud reddet
+VB
+25
+Kristian STRANDEN
+29
+Jimmi ANDERSEN
+12.25
+9-8
+NSH Mål
+VF
+14
+Rasmus Madsbøll WENNEKE Assist
+17
+Nichlas HALD
+12
+Kasper LARSEN
+13.00
+SJE
+Regelfejl
+25
+Kristian STRANDEN
+13.12
+NSH Skud reddet
+Gbr 42
+Matias CAMPBELL
+Retur
+0
+12
+Kasper LARSEN
+14.14
+9-9
+NSH Mål
+HB 17
+Nichlas HALD
+12
+Kasper LARSEN
+14.52
+SJE
+Fejlaflevering
+4
+Andreas LANG
+14.59
+9-10
+NSH Mål
+2:e
+42
+Matias CAMPBELL
+12
+Kasper LARSEN
+15.45
+SJE
+Skud blokeret
+PL
+66
+Noah GAUDIN
+Blokeret af
+0
+16.31
+NSH Tilkendt straffe
+17
+Nichlas HALD
+Forårs. str.
+4
+Andreas LANG
+17.00
+NSH Straffekast reddet
+42
+Matias CAMPBELL
+Retur
+42
+Matias CAMPBELL
+12
+Kasper LARSEN
+17.07
+9-11
+NSH Mål
+ST
+42
+Matias CAMPBELL
+12
+Kasper LARSEN
+17.54
+NSH Udvisning
+19
+Thomas KJÆRGAARD
+18.05 10-11 SJE
+Mål
+PL
+4
+Andreas LANG
+Assist
+66
+Noah GAUDIN
+29
+Jimmi ANDERSEN
+18.59
+NSH Regelfejl
+4
+Andreas MAGAARD
+19.25
+SJE
+Skud reddet
+VF
+67
+Tobias MØLLER
+29
+Jimmi ANDERSEN
+19.56
+NSH Tilkendt straffe
+2
+Tobias JØRGENSEN
+Forårs. str.
+2
+Thomas MOGENSEN
+20.17
+NSH Straffekast reddet
+3
+Carl-Emil HAUNSTRUP
+12
+Kasper LARSEN
+20.55
+SJE
+Skud reddet
+PL
+66
+Noah GAUDIN
+29
+Jimmi ANDERSEN
+21.38
+NSH Regelfejl
+14
+Rasmus Madsbøll WENNEKE
+21.38
+SJE
+Udvisning
+27
+Alec SMIT
+22.07
+SJE
+Skud reddet
+PL
+24
+Marcus DAHLIN
+29
+Jimmi ANDERSEN
+22.36 10-12 NSH Mål
+Gbr
+2
+Tobias JØRGENSEN
+12
+Kasper LARSEN
+23.12
+SJE
+Skud reddet
+ST
+18
+Morten BJØRNSHAUGE
+29
+Jimmi ANDERSEN
+23.23
+NSH Skud forbi
+ST
+25
+Jeppe CIESLAK
+12
+Kasper LARSEN
+23.58 11-12 SJE
+Mål
+HF
+29
+Viktor NEVERS
+Assist
+24
+Marcus DAHLIN
+29
+Jimmi ANDERSEN
+24.27 11-13 NSH Mål
+Gbr 17
+Nichlas HALD
+12
+Kasper LARSEN
+24.51
+SJE
+Time out
+25.30
+SJE
+Skud reddet
+Gbr 24
+Marcus DAHLIN
+29
+Jimmi ANDERSEN
+26.10 11-14 NSH Mål
+VF
+25
+Jeppe CIESLAK
+Assist
+2
+Tobias JØRGENSEN
+12
+Kasper LARSEN
+26.58
+SJE
+Skud på stolpe
+PL
+7
+Oliver NØDDESBO EGGERT
+29
+Jimmi ANDERSEN
+27.53
+NSH Skud blokeret
+PL
+17
+Nichlas HALD
+Blok af (ret)
+14
+Frederik LADEFOGED
+28.06
+NSH Skud reddet
+HB 17
+Nichlas HALD
+16
+Malthe KRONBORG EBSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+SønderjyskE Herrer - Nordsjælland Håndbold   26 - 26  (13 - 15)
+327297 / 16-2-2022 / Broager Sparekasse SKANSEN 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+28.56 12-14 SJE
+Mål
+VF
+67
+Tobias MØLLER
+Assist
+20
+August WIGER
+29
+Jimmi ANDERSEN
+29.22
+NSH Time out
+29.40 12-15 NSH Mål
+PL
+2
+Tobias JØRGENSEN
+16
+Malthe KRONBORG EBSEN
+29.55 13-15 SJE
+Mål
+ST
+14
+Frederik LADEFOGED
+Assist
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+30.00 13-15
+Halvleg
+30.00
+Start 2:e halvleg
+30.29 13-16 NSH Mål
+ST
+4
+Andreas MAGAARD
+Assist
+17
+Nichlas HALD
+16
+Malthe KRONBORG EBSEN
+31.10
+SJE
+Skud reddet
+HB
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+32.17 13-17 NSH Mål
+VB
+17
+Nichlas HALD
+16
+Malthe KRONBORG EBSEN
+32.56 14-17 SJE
+Mål
+VB
+7
+Oliver NØDDESBO EGGERT
+29
+Jimmi ANDERSEN
+33.32 14-18 NSH Mål
+PL
+17
+Nichlas HALD
+Assist
+20
+Jesper DAHL
+12
+Kasper LARSEN
+33.46
+SJE
+Skud reddet
+ST
+14
+Frederik LADEFOGED
+29
+Jimmi ANDERSEN
+34.19
+NSH Regelfejl
+20
+Jesper DAHL
+34.22
+SJE
+Skud blokeret
+VB
+7
+Oliver NØDDESBO EGGERT
+Blok af (ret)
+0
+34.32 15-18 SJE
+Mål
+Gbr
+7
+Oliver NØDDESBO EGGERT
+29
+Jimmi ANDERSEN
+35.26
+NSH Skud reddet
+ST
+4
+Andreas MAGAARD
+12
+Kasper LARSEN
+35.56
+SJE
+Skud reddet
+Gbr
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+36.05
+NSH Skud på stolpe
+1:e
+17
+Nichlas HALD
+12
+Kasper LARSEN
+36.16 16-18 SJE
+Mål
+1:e
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+36.55 16-19 NSH Mål
+ST
+4
+Andreas MAGAARD
+Assist
+20
+Jesper DAHL
+12
+Kasper LARSEN
+37.46
+SJE
+Skud reddet
+Gbr 20
+August WIGER
+29
+Jimmi ANDERSEN
+37.58
+NSH Regelfejl
+19
+Thomas KJÆRGAARD
+38.37
+SJE
+Fejlaflevering
+4
+Andreas LANG
+Bold erobret
+4
+Andreas MAGAARD
+39.18 16-20 NSH Mål
+Gbr 17
+Nichlas HALD
+12
+Kasper LARSEN
+39.54
+SJE
+Skud reddet
+ST
+18
+Morten BJØRNSHAUGE
+29
+Jimmi ANDERSEN
+40.37
+NSH Skud reddet
+PL
+42
+Matias CAMPBELL
+12
+Kasper LARSEN
+41.17 17-20 SJE
+Mål
+HF
+29
+Viktor NEVERS
+Assist
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+42.11
+SJE
+Udvisning
+14
+Frederik LADEFOGED
+42.38 17-21 NSH Mål
+VF
+14
+Rasmus Madsbøll WENNEKE Assist
+2
+Tobias JØRGENSEN
+12
+Kasper LARSEN
+43.33
+SJE
+Skud reddet
+PL
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+43.57 17-22 NSH Mål
+Gbr
+2
+Tobias JØRGENSEN
+Assist
+20
+Jesper DAHL
+12
+Kasper LARSEN
+44.45 18-22 SJE
+Mål
+HB 66
+Noah GAUDIN
+29
+Jimmi ANDERSEN
+45.20
+NSH Skud reddet
+ST
+4
+Andreas MAGAARD
+12
+Kasper LARSEN
+45.27 19-22 SJE
+Mål
+1:e
+66
+Noah GAUDIN
+29
+Jimmi ANDERSEN
+46.15
+NSH Skud reddet
+Gbr 23
+Kasper KISUM
+12
+Kasper LARSEN
+46.51 20-22 SJE
+Mål
+PL
+4
+Andreas LANG
+Assist
+66
+Noah GAUDIN
+29
+Jimmi ANDERSEN
+47.30 20-23 NSH Mål
+PL
+17
+Nichlas HALD
+12
+Kasper LARSEN
+47.42
+SJE
+Skud reddet
+Gbr
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+48.25 20-24 NSH Mål
+PL
+17
+Nichlas HALD
+12
+Kasper LARSEN
+48.59 21-24 SJE
+Mål
+Gbr
+4
+Andreas LANG
+29
+Jimmi ANDERSEN
+50.07 21-25 NSH Mål
+ST
+4
+Andreas MAGAARD
+Assist
+20
+Jesper DAHL
+12
+Kasper LARSEN
+50.35 22-25 SJE
+Mål
+HB 66
+Noah GAUDIN
+Assist
+20
+August WIGER
+29
+Jimmi ANDERSEN
+51.38
+NSH Skud på stolpe
+PL
+17
+Nichlas HALD
+12
+Kasper LARSEN
+52.15
+SJE
+Tilkendt straffe
+4
+Andreas LANG
+Forårs. str.
+4
+Andreas MAGAARD
+52.21 23-25 SJE
+Mål på straffe
+67
+Tobias MØLLER
+29
+Jimmi ANDERSEN
+52.56
+NSH Skud reddet
+VB
+17
+Nichlas HALD
+12
+Kasper LARSEN
+53.48
+SJE
+Tilkendt straffe
+4
+Andreas LANG
+Forårs. str.
+2
+Tobias JØRGENSEN
+53.49
+NSH Udvisning
+2
+Tobias JØRGENSEN
+53.52 24-25 SJE
+Mål på straffe
+67
+Tobias MØLLER
+29
+Jimmi ANDERSEN
+54.15
+NSH Time out
+54.46
+NSH Skud på stolpe
+PL
+17
+Nichlas HALD
+12
+Kasper LARSEN
+55.25 25-25 SJE
+Mål
+HB 66
+Noah GAUDIN
+29
+Jimmi ANDERSEN
+56.05
+NSH Regelfejl
+9
+Hakan SAHIN
+56.05
+NSH Udvisning
+9
+Hakan SAHIN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+SønderjyskE Herrer - Nordsjælland Håndbold   26 - 26  (13 - 15)
+327297 / 16-2-2022 / Broager Sparekasse SKANSEN 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+56.21 26-25 SJE
+Mål
+Gbr
+4
+Andreas LANG
+Assist
+66
+Noah GAUDIN
+29
+Jimmi ANDERSEN
+57.28
+NSH Skud reddet
+PL
+17
+Nichlas HALD
+12
+Kasper LARSEN
+58.06
+SJE
+Skud reddet
+VF
+67
+Tobias MØLLER
+29
+Jimmi ANDERSEN
+58.40
+NSH Fejlaflevering
+20
+Jesper DAHL
+59.20
+SJE
+Skud reddet
+PL
+66
+Noah GAUDIN
+29
+Jimmi ANDERSEN
+59.41
+NSH Time out
+59.55 26-26 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+42
+Matias CAMPBELL
+12
+Kasper LARSEN
+59.55
+SJE
+Time out
+59.58
+SJE
+Skud reddet
+HB 66
+Noah GAUDIN
+29
+Jimmi ANDERSEN
+60.00 26-26
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Bjarne Nielsen, Torben Gravlund,

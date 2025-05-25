@@ -1,0 +1,990 @@
+KAMPHÆNDELSER
+Skjern Håndbold - TTH Holstebro   28 - 21  (16 - 11)
+790661 / 17-4-2019 / Skjern Bank Arena bane 1 / Herre Håndbold Ligaen - slutspil Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+1.09
+1-0
+SKH Mål
+Gbr 10
+Jesper KONRADSSON
+Assist
+25
+Eivind TANGEN
+1
+Simon GADE
+2.02
+1-1
+TTH
+Mål
+ST
+5
+Lars MOUSING
+Assist
+23
+Kay Evert SMITS
+1
+Emil NIELSEN
+2.16
+SKH Skud blokeret
+PL
+25
+Eivind TANGEN
+Retur
+0
+2.23
+2-1
+SKH Mål
+ST
+21
+René RASMUSSEN
+1
+Simon GADE
+3.01
+2-2
+TTH
+Mål
+ST
+5
+Lars MOUSING
+Assist
+23
+Kay Evert SMITS
+1
+Emil NIELSEN
+3.11
+SKH Fejlaflevering
+25
+Eivind TANGEN
+3.15
+2-3
+TTH
+Mål
+1:e
+21
+Kasper Emil KILDELUND
+Assist
+5
+Lars MOUSING
+1
+Emil NIELSEN
+3.57
+SKH Tilkendt straffe
+10
+Jesper KONRADSSON
+Forårsagede straffe
+7
+Niels LINDHOLT
+4.05
+TTH
+Advarsel
+7
+Niels LINDHOLT
+4.23
+SKH Straffekast på stolpe
+7
+Anders EGGERT
+1
+Simon GADE
+5.10
+2-4
+TTH
+Mål
+PL
+23
+Kay Evert SMITS
+1
+Emil NIELSEN
+5.59
+SKH Skud reddet
+Gbr 25
+Eivind TANGEN
+1
+Simon GADE
+6.55
+TTH
+Skud på stolpe
+Gbr 25
+Jonas PORUP
+1
+Emil NIELSEN
+7.28
+SKH Tilkendt straffe
+18
+Bjarte MYRHOL
+Forårsagede straffe
+5
+Lars MOUSING
+7.49
+3-4
+SKH Mål på straffekast
+7
+Anders EGGERT
+1
+Simon GADE
+8.21
+TTH
+Skud forbi
+VB
+25
+Jonas PORUP
+1
+Emil NIELSEN
+8.53
+4-4
+SKH Mål
+Gbr
+2
+Thomas MOGENSEN
+1
+Simon GADE
+9.27
+SKH Advarsel
+2
+Thomas MOGENSEN
+9.51
+TTH
+Skud reddet
+HB 23
+Kay Evert SMITS
+Retur
+5
+Lars MOUSING
+1
+Emil NIELSEN
+10.09
+4-5
+TTH
+Mål
+HB 23
+Kay Evert SMITS
+1
+Emil NIELSEN
+10.23
+TTH
+Advarsel
+23
+Kay Evert SMITS
+10.55
+TTH
+Udvisning
+5
+Lars MOUSING
+11.07
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+11.39
+TTH
+Skud reddet
+PL
+8
+Jac KARLSSON
+1
+Emil NIELSEN
+11.45
+5-5
+SKH Mål
+1:e
+7
+Anders EGGERT
+1
+Simon GADE
+12.14
+5-6
+TTH
+Mål
+Gbr
+8
+Jac KARLSSON
+1
+Emil NIELSEN
+12.42
+SKH Tilkendt straffe
+10
+Jesper KONRADSSON
+Forårsagede straffe
+21
+Kasper Emil KILDELUND
+12.51
+6-6
+SKH Mål på straffekast
+7
+Anders EGGERT
+1
+Simon GADE
+13.25
+6-7
+TTH
+Mål
+HB 23
+Kay Evert SMITS
+1
+Emil NIELSEN
+13.34
+SKH Skud reddet
+2:e
+2
+Thomas MOGENSEN
+1
+Simon GADE
+13.41
+6-8
+TTH
+Mål
+1:e
+7
+Niels LINDHOLT
+Assist
+8
+Jac KARLSSON
+1
+Emil NIELSEN
+14.24
+SKH Skud reddet
+VB
+10
+Jesper KONRADSSON
+1
+Simon GADE
+14.30
+TTH
+Skud forbi
+1:e
+5
+Lars MOUSING
+1
+Emil NIELSEN
+14.44
+7-8
+SKH Mål
+VF
+7
+Anders EGGERT
+Assist
+18
+Bjarte MYRHOL
+1
+Simon GADE
+15.25
+TTH
+Skud reddet
+VB
+15
+Viktor ÖSTLUND
+1
+Emil NIELSEN
+15.40
+SKH Regelfejl
+10
+Jesper KONRADSSON
+16.10
+TTH
+Tabt bold
+23
+Kay Evert SMITS
+16.23
+SKH Time out
+16.41
+SKH Skud blokeret
+PL
+22
+Kasper SØNDERGAARD
+Retur
+0
+17.24
+SKH Skud reddet
+VB
+2
+Thomas MOGENSEN
+1
+Simon GADE
+17.31
+TTH
+Skud på stolpe
+1:e
+10
+Magnus BRAMMING
+1
+Emil NIELSEN
+18.03
+SKH Skud reddet
+ST
+18
+Bjarte MYRHOL
+1
+Simon GADE
+18.50
+TTH
+Regelfejl
+5
+Lars MOUSING
+19.55
+8-8
+SKH Mål
+Gbr 22
+Kasper SØNDERGAARD
+1
+Simon GADE
+20.03
+8-9
+TTH
+Mål
+2:e
+8
+Jac KARLSSON
+1
+Emil NIELSEN
+20.08
+9-9
+SKH Mål
+2:e
+21
+René RASMUSSEN
+1
+Simon GADE
+21.04
+TTH
+Skud reddet
+Gbr 15
+Viktor ÖSTLUND
+Retur
+0
+1
+Emil NIELSEN
+21.24
+TTH
+Skud forbi
+PL
+8
+Jac KARLSSON
+1
+Emil NIELSEN
+21.37
+TTH
+Udvisning
+23
+Kay Evert SMITS
+21.52 10-9
+SKH Mål
+ST
+18
+Bjarte MYRHOL
+Assist
+22
+Kasper SØNDERGAARD
+1
+Simon GADE
+22.31
+TTH
+Skud reddet
+Gbr 21
+Kasper Emil KILDELUND
+1
+Emil NIELSEN
+22.58 11-9
+SKH Mål
+Gbr
+2
+Thomas MOGENSEN
+Assist
+22
+Kasper SØNDERGAARD
+1
+Simon GADE
+23.45
+TTH
+Time out
+24.19
+TTH
+Skud forbi
+VB
+4
+Thomas Bohl DAMGAARD
+1
+Emil NIELSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skjern Håndbold - TTH Holstebro   28 - 21  (16 - 11)
+790661 / 17-4-2019 / Skjern Bank Arena bane 1 / Herre Håndbold Ligaen - slutspil Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.53
+SKH Skud forbi
+ST
+9
+Christoffer CICHOSZ
+1
+Simon GADE
+25.28
+SKH Udvisning
+11
+Jonathan STENBÄCKEN
+25.42 11-10 TTH
+Mål
+Gbr 23
+Kay Evert SMITS
+1
+Emil NIELSEN
+26.38 12-10 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+22
+Kasper SØNDERGAARD
+1
+Simon GADE
+26.46
+TTH
+Regelfejl
+7
+Niels LINDHOLT
+27.41 13-10 SKH Mål
+ST
+18
+Bjarte MYRHOL
+Assist
+22
+Kasper SØNDERGAARD
+1
+Simon GADE
+28.16
+TTH
+Fejlaflevering
+4
+Thomas Bohl DAMGAARD
+28.22 14-10 SKH Mål
+1:e
+2
+Thomas MOGENSEN
+Assist
+1
+Emil NIELSEN
+1
+Simon GADE
+28.50 14-11 TTH
+Mål
+HB 23
+Kay Evert SMITS
+1
+Emil NIELSEN
+28.57 15-11 SKH Mål
+2:e
+21
+René RASMUSSEN
+1
+Simon GADE
+29.01
+TTH
+Udvisning
+23
+Kay Evert SMITS
+29.35
+TTH
+Tabt bold
+4
+Thomas Bohl DAMGAARD
+29.39 16-11 SKH Mål
+1:e
+10
+Jesper KONRADSSON
+Assist
+18
+Bjarte MYRHOL
+0
+29.59
+TTH
+Skud forbi
+VB
+4
+Thomas Bohl DAMGAARD
+1
+Emil NIELSEN
+30.00 16-11
+Halvleg
+30.55
+TTH
+Regelfejl
+8
+Jac KARLSSON
+31.06 17-11 SKH Mål
+1:e
+7
+Anders EGGERT
+Assist
+11
+Jonathan STENBÄCKEN
+30
+Sebastian FRANDSEN
+31.42
+TTH
+Fejlaflevering
+23
+Kay Evert SMITS
+32.29 18-11 SKH Mål
+Gbr 10
+Jesper KONRADSSON
+30
+Sebastian FRANDSEN
+32.40
+TTH
+Fejlaflevering
+25
+Jonas PORUP
+33.24
+SKH Skud reddet
+Gbr 22
+Kasper SØNDERGAARD
+30
+Sebastian FRANDSEN
+34.03
+TTH
+Skud på stolpe
+ST
+5
+Lars MOUSING
+1
+Emil NIELSEN
+34.13 19-11 SKH Mål
+2:e
+2
+Thomas MOGENSEN
+30
+Sebastian FRANDSEN
+34.47
+TTH
+Skud på stolpe
+HF
+21
+Kasper Emil KILDELUND
+1
+Emil NIELSEN
+34.52
+SKH Regelfejl
+18
+Bjarte MYRHOL
+35.23
+TTH
+Skud på stolpe
+HF
+21
+Kasper Emil KILDELUND
+1
+Emil NIELSEN
+36.24
+SKH Tabt bold
+22
+Kasper SØNDERGAARD
+36.31
+TTH
+Skud på stolpe
+2:e
+21
+Kasper Emil KILDELUND
+Retur
+0
+1
+Emil NIELSEN
+36.42
+TTH
+Skud reddet
+ST
+5
+Lars MOUSING
+Retur
+0
+1
+Emil NIELSEN
+37.21 19-12 TTH
+Mål
+ST
+5
+Lars MOUSING
+Assist
+8
+Jac KARLSSON
+1
+Emil NIELSEN
+38.08
+SKH Tilkendt straffe
+2
+Thomas MOGENSEN
+Forårsagede straffe
+7
+Niels LINDHOLT
+38.32 20-12 SKH Mål på straffekast
+7
+Anders EGGERT
+30
+Sebastian FRANDSEN
+38.40
+TTH
+Time out
+38.53 20-13 TTH
+Mål
+HB 23
+Kay Evert SMITS
+1
+Emil NIELSEN
+39.12 21-13 SKH Mål
+2:e
+18
+Bjarte MYRHOL
+0
+39.44 21-14 TTH
+Mål
+VF
+10
+Magnus BRAMMING
+Assist
+25
+Jonas PORUP
+1
+Emil NIELSEN
+40.37
+SKH Skud på stolpe
+Gbr 22
+Kasper SØNDERGAARD
+30
+Sebastian FRANDSEN
+40.43
+TTH
+Skud reddet
+1:e
+7
+Niels LINDHOLT
+Retur
+0
+1
+Emil NIELSEN
+41.12
+TTH
+Skud reddet
+HF
+9
+Emil BLIGAARD
+1
+Emil NIELSEN
+41.57 22-14 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+10
+Jesper KONRADSSON
+30
+Sebastian FRANDSEN
+42.32 22-15 TTH
+Mål
+PL
+8
+Jac KARLSSON
+1
+Emil NIELSEN
+43.09
+SKH Skud reddet
+PL
+25
+Eivind TANGEN
+30
+Sebastian FRANDSEN
+43.20
+TTH
+Skud reddet
+Gbr 25
+Jonas PORUP
+1
+Emil NIELSEN
+44.23
+SKH Skud forbi
+Gbr 25
+Eivind TANGEN
+30
+Sebastian FRANDSEN
+44.34
+TTH
+Skud reddet
+2:e
+25
+Jonas PORUP
+1
+Emil NIELSEN
+45.02
+SKH Skud reddet
+ST
+18
+Bjarte MYRHOL
+30
+Sebastian FRANDSEN
+45.11 22-16 TTH
+Mål
+2:e
+7
+Niels LINDHOLT
+Assist
+25
+Jonas PORUP
+1
+Emil NIELSEN
+45.52
+SKH Time out
+46.12
+SKH Skud reddet
+Gbr 25
+Eivind TANGEN
+Retur
+0
+30
+Sebastian FRANDSEN
+46.16
+SKH Tilkendt straffe
+21
+René RASMUSSEN
+Forårsagede straffe
+15
+Viktor ÖSTLUND
+46.16
+TTH
+Udvisning
+15
+Viktor ÖSTLUND
+46.18 23-16 SKH Mål på straffekast
+7
+Anders EGGERT
+30
+Sebastian FRANDSEN
+47.15
+TTH
+Skud reddet
+PL
+25
+Jonas PORUP
+1
+Emil NIELSEN
+47.43 24-16 SKH Mål
+PL
+2
+Thomas MOGENSEN
+30
+Sebastian FRANDSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skjern Håndbold - TTH Holstebro   28 - 21  (16 - 11)
+790661 / 17-4-2019 / Skjern Bank Arena bane 1 / Herre Håndbold Ligaen - slutspil Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+48.50
+TTH
+Skud reddet
+HB 23
+Kay Evert SMITS
+1
+Emil NIELSEN
+48.58
+SKH Skud forbi
+1:e
+1
+Emil NIELSEN
+0
+49.40
+TTH
+Regelfejl
+21
+Kasper Emil KILDELUND
+50.27 25-16 SKH Mål
+ST
+9
+Christoffer CICHOSZ
+Assist
+10
+Jesper KONRADSSON
+30
+Sebastian FRANDSEN
+50.37 25-17 TTH
+Mål
+2:e
+5
+Lars MOUSING
+Assist
+8
+Jac KARLSSON
+1
+Emil NIELSEN
+51.03
+SKH Skud reddet
+PL
+25
+Eivind TANGEN
+30
+Sebastian FRANDSEN
+51.15 25-18 TTH
+Mål
+ST
+7
+Niels LINDHOLT
+Assist
+8
+Jac KARLSSON
+1
+Emil NIELSEN
+51.44 26-18 SKH Mål
+Gbr 10
+Jesper KONRADSSON
+30
+Sebastian FRANDSEN
+52.15
+TTH
+Skud reddet
+VB
+15
+Viktor ÖSTLUND
+1
+Emil NIELSEN
+52.56
+SKH Skud reddet
+HF
+21
+René RASMUSSEN
+30
+Sebastian FRANDSEN
+53.37
+TTH
+Fejlaflevering
+8
+Jac KARLSSON
+54.15
+SKH Fejlaflevering
+13
+Jan GREBENC
+54.20
+TTH
+Regelfejl
+10
+Magnus BRAMMING
+54.26 27-18 SKH Mål
+2:e
+22
+Kasper SØNDERGAARD
+Assist
+10
+Jesper KONRADSSON
+30
+Sebastian FRANDSEN
+55.15
+TTH
+Skud reddet
+VB
+15
+Viktor ÖSTLUND
+1
+Emil NIELSEN
+55.44
+SKH Skud reddet
+VB
+13
+Jan GREBENC
+30
+Sebastian FRANDSEN
+56.22
+TTH
+Skud reddet
+PL
+4
+Thomas Bohl DAMGAARD
+1
+Emil NIELSEN
+57.03 28-18 SKH Mål
+PL
+6
+Tandri Már KONRÁÐSSON
+30
+Sebastian FRANDSEN
+57.38 28-19 TTH
+Mål
+ST
+5
+Lars MOUSING
+Assist
+23
+Kay Evert SMITS
+1
+Emil NIELSEN
+58.07
+SKH Skud reddet
+PL
+22
+Kasper SØNDERGAARD
+30
+Sebastian FRANDSEN
+58.45
+TTH
+Skud reddet
+PL
+4
+Thomas Bohl DAMGAARD
+1
+Emil NIELSEN
+59.11
+SKH Skud reddet
+PL
+6
+Tandri Már KONRÁÐSSON
+30
+Sebastian FRANDSEN
+59.21 28-20 TTH
+Mål
+2:e
+15
+Viktor ÖSTLUND
+Assist
+19
+Malte JUSTESEN
+1
+Emil NIELSEN
+59.52
+SKH Fejlaflevering
+6
+Tandri Már KONRÁÐSSON
+59.57 28-21 TTH
+Mål
+1:e
+19
+Malte JUSTESEN
+Assist
+25
+Jonas PORUP
+1
+Emil NIELSEN
+60.00 28-21
+Fuld tid
+Software: Jilsén System AB. Logget af: Lars Johannessen, Thomas Knudsen,

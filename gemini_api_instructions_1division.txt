@@ -1,0 +1,272 @@
+# Gemini API Instructions - 1. Division Kampe (Detaljeret kamprapport)
+
+## KAMPTYPE: 1. DIVISION KAMPE
+Dette script håndterer **kun** 1. Division kampe med "Detaljeret kamprapport" header og simpel tabelstruktur.
+
+## CHUNK-SPECIFIK INSTRUKTION
+
+Dette input er et chunk af en større tekstfil med 1. Division håndboldkampdata.
+
+**Hvis første chunk (indeholder "Detaljeret kamprapport"):**
+- Ekstraher BÅDE match_info OG match_events
+- match_info indeholder kampdetaljer som kamp-id, hold, resultat osv.
+
+**Hvis efterfølgende chunk:**
+- Ekstraher KUN match_events
+- Returner tomt match_info objekt: "match_info": {}
+
+## OUTPUT DATASTRUKTUR
+
+```json
+{
+  "match_info": {
+    "kamp_id": "string",
+    "hold_hjemme": "string", 
+    "hold_ude": "string",
+    "resultat": "string",
+    "halvleg_resultat": "string",
+    "dato": "string",
+    "sted": "string",
+    "turnering": "string"
+  },
+  "match_events": [
+    {
+      "tid": "string",
+      "maal": "string", 
+      "hold": "string",
+      "haendelse_1": "string",
+      "pos": null,
+      "nr_1": "integer",
+      "navn_1": "string",
+      "haendelse_2": null,
+      "nr_2": null,
+      "navn_2": null,
+      "nr_mv": null,
+      "mv": null
+    }
+  ]
+}
+```
+
+## 1. DIVISION PARSING REGLER
+
+### Header Parsing (Match Info)
+Fra billedet kan jeg se header formatet:
+
+```
+Detaljeret kamprapport
+Kamp nr: 742 841  Række: 1. Division Kvinder (M)
+Dato: 5/4-2025  Kl: 15:00
+Hal: Ølstykke-hallerne, Ølstykke-hallerne
+
+HØJ - Gudme HK
+```
+
+### Match Info Felter
+- **kamp_id**: Tag "Kamp nr:" værdi og fjern mellemrum (f.eks. "742 841" → "742841")
+- **hold_hjemme**: Første hold fra "HØJ - Gudme HK" linjen (f.eks. "HØJ")
+- **hold_ude**: Andet hold fra "HØJ - Gudme HK" linjen (f.eks. "Gudme HK")
+- **resultat**: Slutresultatet - find det højeste måltal i tabellen (f.eks. hvis højeste mål er "27-36" så er slutresultatet "27-36")
+- **halvleg_resultat**: Find linjen med "Halvtid" i Hændelse kolonnen og tag Mål værdien (f.eks. "17-15")
+- **dato**: Tag "Dato:" værdi og konverter format (f.eks. "5/4-2025" → "5-4-2025")
+- **sted**: Tag "Hal:" værdi (f.eks. "Ølstykke-hallerne, Ølstykke-hallerne")
+- **turnering**: Tag "Række:" værdi (f.eks. "1. Division Kvinder (M)")
+
+### Tabel Struktur (Match Events)
+Tabellen har 7 kolonner:
+| Linje | Tid | Mål | Hold | Hændelse | Nr | Spiller |
+
+### Match Events Felter (Forenklede sammenlignet med Liga)
+- **tid**: Fra "Tid" kolonnen (f.eks. "0.39", "21.12") - null hvis tom
+- **maal**: Fra "Mål" kolonnen (f.eks. "0-1", "17-15") - null hvis tom - FJERN MELLEMRUM OMKRING BINDESTREG
+- **hold**: Fra "Hold" kolonnen (f.eks. "HØJ", "GHK") - null hvis tom
+- **haendelse_1**: Fra "Hændelse" kolonnen (f.eks. "Mål", "Advarsel", "Team Time Out") - null hvis tom
+- **pos**: **ALTID null** (1. Division har ikke position-kolonne)
+- **nr_1**: Fra "Nr" kolonnen - konverter til integer, brug null hvis "0", tom eller ikke angivet
+- **navn_1**: Fra "Spiller" kolonnen - null hvis tom
+- **haendelse_2**: **ALTID null** (1. Division har ikke sekundære hændelser)
+- **nr_2**: **ALTID null**
+- **navn_2**: **ALTID null** 
+- **nr_mv**: **ALTID null** (1. Division sporer ikke målvogtere)
+- **mv**: **ALTID null**
+
+## 1. DIVISION LINJE PARSING PROCES
+
+**Fra billedet ser eksempler ud som:**
+```
+2   0.39         GHK  Advarsel   10  ØXENBERG Hedvig
+3   1.18  0-1    GHK  Mål        6   PERSSON Julie Groth
+18  13.41        GHK  Team Time Out
+45  30.00 17-15  Halvtid
+```
+
+**1. Division parsing trin:**
+1. **Ignorer første kolonne** (Linje nummer) - denne bruges ikke
+2. **Kolonne 2** = tid (kan være tom)
+3. **Kolonne 3** = mål (kan være tom)  
+4. **Kolonne 4** = hold (kan være tom)
+5. **Kolonne 5** = haendelse_1 
+6. **Kolonne 6** = nr_1 (konverter "0" eller tom til null)
+7. **Kolonne 7** = navn_1 (kan være tom)
+8. **Alle andre felter** = **ALTID null**
+
+### 1. Division Kritiske Regler
+
+#### Simplicitet:
+- **Kun 7 kolonner** i tabellen - meget simplere end Liga
+- **Ingen position** (pos = null)
+- **Ingen sekundær hændelse** (haendelse_2, nr_2, navn_2 = null)
+- **Ingen målvogter sporing** (nr_mv, mv = null)
+
+#### Linje Nummer:
+**IGNORER HELT** den første kolonne med linjenummeret - den bruges til intet.
+
+#### Hold Koder:
+Fra billedet: HØJ (hjemme) og GHK (ude) - kortere koder end Liga.
+
+#### Specielle Hændelser:
+- **"Team Time Out"** - kun hold angivet, ingen spiller
+- **"Halvtid"** - tid og mål angivet, intet hold eller spiller
+- **"Advarsel"** - hold og spiller angivet
+- **"Mål"** - tid, mål, hold og spiller angivet
+
+#### Måltal Format:
+Fra billedet: "0-1", "17-15" - FJERN altid mellemrum omkring bindestreg.
+
+## VALIDERING REGLER
+
+### Før Aflevering - Tjek Præcist:
+1. **Er kamp_id** formateret uden mellemrum (f.eks. "742841")?
+2. **Er linjenummeret** ignoreret og ikke brugt til noget?
+3. **Er alle null-felter** korrekt sat (pos, haendelse_2, nr_2, navn_2, nr_mv, mv)?
+4. **Er numeriske felter** konverteret til tal eller null?
+5. **Er resultater** formateret uden mellemrum omkring bindestreg?
+6. **Er "0" værdier** i nr_1 konverteret til null?
+
+### Specielle Regler:
+- **Tomme felter** = `null` i JSON, ikke tomme strenge ("")
+- **Numeriske felter** = heltal eller null
+- **Mellemrum fjernelse** i alle resultater (mål-felter)
+- **Linje nummer ignorering** - det er kun reference i rapporten
+
+## EKSEMPEL PÅ KORREKT 1. DIVISION OUTPUT
+
+**Input header:**
+```
+Detaljeret kamprapport
+Kamp nr: 742 841  Række: 1. Division Kvinder (M)
+Dato: 5/4-2025  Kl: 15:00
+Hal: Ølstykke-hallerne, Ølstykke-hallerne
+
+HØJ - Gudme HK
+```
+
+**Korrekt match_info:**
+```json
+{
+  "kamp_id": "742841",
+  "hold_hjemme": "HØJ",
+  "hold_ude": "Gudme HK",
+  "resultat": "27-36",
+  "halvleg_resultat": "17-15",
+  "dato": "5-4-2025", 
+  "sted": "Ølstykke-hallerne, Ølstykke-hallerne",
+  "turnering": "1. Division Kvinder (M)"
+}
+```
+
+**Input linje med mål:**
+```
+3  1.18  0-1  GHK  Mål  6  PERSSON Julie Groth
+```
+
+**Korrekt JSON:**
+```json
+{
+  "tid": "1.18",
+  "maal": "0-1",
+  "hold": "GHK", 
+  "haendelse_1": "Mål",
+  "pos": null,
+  "nr_1": 6,
+  "navn_1": "PERSSON Julie Groth",
+  "haendelse_2": null,
+  "nr_2": null,
+  "navn_2": null,
+  "nr_mv": null,
+  "mv": null
+}
+```
+
+**Input Team Time Out:**
+```
+18  13.41        GHK  Team Time Out
+```
+
+**Korrekt JSON:**
+```json
+{
+  "tid": "13.41",
+  "maal": null,
+  "hold": "GHK",
+  "haendelse_1": "Team Time Out", 
+  "pos": null,
+  "nr_1": null,
+  "navn_1": null,
+  "haendelse_2": null,
+  "nr_2": null,
+  "navn_2": null,
+  "nr_mv": null,
+  "mv": null
+}
+```
+
+**Input Halvtid:**
+```
+45  30.00  17-15  Halvtid
+```
+
+**Korrekt JSON:**
+```json
+{
+  "tid": "30.00",
+  "maal": "17-15",
+  "hold": null,
+  "haendelse_1": "Halvtid",
+  "pos": null,
+  "nr_1": null,
+  "navn_1": null,
+  "haendelse_2": null,
+  "nr_2": null,
+  "navn_2": null,
+  "nr_mv": null,
+  "mv": null
+}
+```
+
+**Input med nr = 0 (ingen spiller):**
+```
+12  8.34  4-2  HØJ  Regelfejl  0
+```
+
+**Korrekt JSON:**
+```json
+{
+  "tid": "8.34",
+  "maal": "4-2",
+  "hold": "HØJ",
+  "haendelse_1": "Regelfejl",
+  "pos": null,
+  "nr_1": null,
+  "navn_1": null,
+  "haendelse_2": null,
+  "nr_2": null,
+  "navn_2": null,
+  "nr_mv": null,
+  "mv": null
+}
+```
+
+---
+
+**FOKUS**: Dette er kun til 1. Division kampe med simpel 7-kolonne tabelstruktur. Parsing skal være meget mere direkte end Liga kampe! 

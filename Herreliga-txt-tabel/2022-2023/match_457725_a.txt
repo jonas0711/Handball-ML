@@ -1,0 +1,938 @@
+KAMPHÆNDELSER
+Skanderborg Aarhus Håndbold - TTH Holstebro   34 - 24  (15 - 11)
+457725 / 3-12-2022 / Fælledhallen - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+1.09
+0-1
+TTH
+Mål
+HB 21
+Jonas Gade NIELSEN
+12
+Salah BOUTAF
+2.25
+1-1
+SAH Mål
+PL
+11
+Thomas ARNOLDSEN
+12
+Josip CAVAR
+3.34
+1-2
+TTH
+Mål
+ST
+23
+Miha ZVIZEJ
+Assist
+22
+Nikolaj MARKUSSEN
+12
+Salah BOUTAF
+4.23
+SAH Regelfejl
+20
+Morten BALLING
+5.03
+TTH
+Skud reddet
+PL
+22
+Nikolaj MARKUSSEN
+12
+Salah BOUTAF
+5.17
+TTH
+Advarsel
+9
+Dan BECK-HANSEN
+6.30
+2-2
+SAH Mål
+VF
+4
+Lars SKAARUP
+Assist
+11
+Thomas ARNOLDSEN
+12
+Josip CAVAR
+7.22
+TTH
+Skud reddet
+Gbr
+8
+Emil JENSEN
+Retur
+0
+12
+Salah BOUTAF
+7.47
+TTH
+Fejlaflevering
+22
+Nikolaj MARKUSSEN
+Bold erobret 17
+Hákun West Av TEIGUM
+7.50
+3-2
+SAH Mål
+1:e
+4
+Lars SKAARUP
+Assist
+17
+Hákun West Av TEIGUM
+12
+Josip CAVAR
+8.28
+SAH Udvisning
+6
+Kristian BONEFELD
+8.43
+3-3
+TTH
+Mål
+VF
+10
+Magnus BRAMMING
+Assist
+9
+Dan BECK-HANSEN
+12
+Salah BOUTAF
+9.50
+SAH Skud reddet
+VB
+8
+Torben PETERSEN
+12
+Josip CAVAR
+10.06
+3-4
+TTH
+Mål
+ST
+9
+Dan BECK-HANSEN
+Assist
+22
+Nikolaj MARKUSSEN
+12
+Salah BOUTAF
+10.49
+4-4
+SAH Mål
+HF
+17
+Hákun West Av TEIGUM
+Assist
+11
+Thomas ARNOLDSEN
+12
+Josip CAVAR
+11.58
+TTH
+Skud på stolpe
+VB
+22
+Nikolaj MARKUSSEN
+12
+Salah BOUTAF
+12.28
+SAH Skud på stolpe
+PL
+8
+Torben PETERSEN
+12
+Josip CAVAR
+12.59
+4-5
+TTH
+Mål
+PL
+21
+Jonas Gade NIELSEN
+12
+Salah BOUTAF
+13.43
+5-5
+SAH Mål
+Gbr 11
+Thomas ARNOLDSEN
+12
+Josip CAVAR
+14.15
+TTH
+Regelfejl
+8
+Emil JENSEN
+15.12
+6-5
+SAH Mål
+PL
+11
+Thomas ARNOLDSEN
+12
+Josip CAVAR
+15.52
+6-6
+TTH
+Mål
+PL
+21
+Jonas Gade NIELSEN
+12
+Salah BOUTAF
+16.09
+7-6
+SAH Mål
+PL
+8
+Torben PETERSEN
+12
+Josip CAVAR
+16.57
+TTH
+Skud reddet
+HB 21
+Jonas Gade NIELSEN
+12
+Salah BOUTAF
+17.37
+8-6
+SAH Mål
+Gbr
+8
+Torben PETERSEN
+12
+Josip CAVAR
+17.51
+TTH
+Skud reddet
+2:e
+26
+Mathias SMED
+12
+Salah BOUTAF
+17.56
+9-6
+SAH Mål
+2:e
+6
+Kristian BONEFELD
+12
+Josip CAVAR
+18.00
+TTH
+Time out
+18.34
+9-7
+TTH
+Mål
+VB
+22
+Nikolaj MARKUSSEN
+12
+Salah BOUTAF
+18.40 10-7
+SAH Mål
+2:e
+3
+Lars MOUSING
+0
+19.34 10-8
+TTH
+Mål
+PL
+24
+Johan MEKLENBORG
+12
+Salah BOUTAF
+20.06 11-8
+SAH Mål
+Gbr
+7
+Jonatan MOLLERUP
+16
+Sander Drange HEIEREN
+21.07
+TTH
+Skud reddet
+HF
+19
+Rasmus KIER
+12
+Salah BOUTAF
+21.37
+TTH
+Udvisning
+9
+Dan BECK-HANSEN
+21.52 12-8
+SAH Mål
+Gbr 20
+Morten BALLING
+16
+Sander Drange HEIEREN
+22.45 12-9
+TTH
+Mål
+VF
+10
+Magnus BRAMMING
+Assist
+7
+Allan DAMGAARD
+12
+Salah BOUTAF
+23.07 13-9
+SAH Mål
+VB
+11
+Thomas ARNOLDSEN
+16
+Sander Drange HEIEREN
+24.04
+TTH
+Skud reddet
+ST
+23
+Miha ZVIZEJ
+12
+Salah BOUTAF
+24.16
+SAH Skud reddet
+1:e
+7
+Jonatan MOLLERUP
+16
+Sander Drange HEIEREN
+24.54
+TTH
+Skud reddet
+ST
+9
+Dan BECK-HANSEN
+12
+Salah BOUTAF
+25.30
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+26.13
+TTH
+Tabt bold
+23
+Miha ZVIZEJ
+26.53 14-9
+SAH Mål
+ST
+3
+Lars MOUSING
+Assist
+7
+Jonatan MOLLERUP
+16
+Sander Drange HEIEREN
+27.26
+TTH
+Skud reddet
+VF
+10
+Magnus BRAMMING
+12
+Salah BOUTAF
+27.35
+SAH Skud blokeret
+1:e
+7
+Jonatan MOLLERUP
+Blokeret af
+16
+Sander Drange HEIEREN
+28.02 14-10 TTH
+Mål
+ST
+23
+Miha ZVIZEJ
+Assist
+22
+Nikolaj MARKUSSEN
+12
+Salah BOUTAF
+28.41
+SAH Skud på stolpe
+PL
+20
+Morten BALLING
+16
+Sander Drange HEIEREN
+29.11
+TTH
+Tilkendt straffe
+9
+Dan BECK-HANSEN
+Forårs. str.
+3
+Lars MOUSING
+29.11
+SAH Udvisning
+3
+Lars MOUSING
+29.15 14-11 TTH
+Mål på straffe
+10
+Magnus BRAMMING
+12
+Salah BOUTAF
+29.43
+SAH Time out
+29.58 15-11 SAH Mål
+VB
+8
+Torben PETERSEN
+16
+Sander Drange HEIEREN
+30.00 15-11
+Halvleg
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skanderborg Aarhus Håndbold - TTH Holstebro   34 - 24  (15 - 11)
+457725 / 3-12-2022 / Fælledhallen - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+30.00
+Start 2:e halvleg
+31.03 16-11 SAH Mål
+PL
+11
+Thomas ARNOLDSEN
+16
+Sander Drange HEIEREN
+31.18
+TTH
+Skud reddet
+2:e
+25
+Jonas PORUP
+12
+Salah BOUTAF
+31.24
+SAH Skud reddet
+1:e
+17
+Hákun West Av TEIGUM
+16
+Sander Drange HEIEREN
+31.57
+TTH
+Regelfejl
+8
+Emil JENSEN
+32.47 17-11 SAH Mål
+HB
+7
+Jonatan MOLLERUP
+16
+Sander Drange HEIEREN
+33.24 17-12 TTH
+Mål
+Gbr 22
+Nikolaj MARKUSSEN
+Assist
+23
+Miha ZVIZEJ
+12
+Salah BOUTAF
+33.58
+SAH Skud reddet
+Gbr
+7
+Jonatan MOLLERUP
+16
+Sander Drange HEIEREN
+34.05 17-13 TTH
+Mål
+2:e
+21
+Jonas Gade NIELSEN
+Assist
+25
+Jonas PORUP
+12
+Salah BOUTAF
+34.45
+SAH Fejlaflevering
+8
+Torben PETERSEN
+34.52 17-14 TTH
+Mål
+1:e
+17
+Christian JENSEN
+Assist
+10
+Magnus BRAMMING
+12
+Salah BOUTAF
+35.24 18-14 SAH Mål
+ST
+20
+Morten BALLING
+Assist
+11
+Thomas ARNOLDSEN
+16
+Sander Drange HEIEREN
+35.34
+TTH
+Fejlaflevering
+25
+Jonas PORUP
+Bold erobret 11
+Thomas ARNOLDSEN
+35.39 19-14 SAH Mål
+1:e
+11
+Thomas ARNOLDSEN
+16
+Sander Drange HEIEREN
+36.08
+TTH
+Skud reddet
+PL
+22
+Nikolaj MARKUSSEN
+12
+Salah BOUTAF
+36.45 20-14 SAH Mål
+Gbr 20
+Morten BALLING
+16
+Sander Drange HEIEREN
+37.00 20-15 TTH
+Mål
+2:e
+21
+Jonas Gade NIELSEN
+12
+Salah BOUTAF
+37.40 21-15 SAH Mål
+PL
+11
+Thomas ARNOLDSEN
+16
+Sander Drange HEIEREN
+38.42
+SAH Udvisning
+7
+Jonatan MOLLERUP
+38.57 21-16 TTH
+Mål
+ST
+9
+Dan BECK-HANSEN
+Assist
+22
+Nikolaj MARKUSSEN
+12
+Salah BOUTAF
+38.57
+SAH Udvisning
+5
+Frederik ARNOLDSEN
+39.36 22-16 SAH Mål
+Gbr 20
+Morten BALLING
+16
+Sander Drange HEIEREN
+39.54 22-17 TTH
+Mål
+HF
+17
+Christian JENSEN
+Assist
+7
+Allan DAMGAARD
+12
+Salah BOUTAF
+40.27 23-17 SAH Mål
+Gbr 11
+Thomas ARNOLDSEN
+16
+Sander Drange HEIEREN
+40.47 23-18 TTH
+Mål
+HF
+17
+Christian JENSEN
+Assist
+7
+Allan DAMGAARD
+12
+Salah BOUTAF
+41.28
+SAH Tabt bold
+11
+Thomas ARNOLDSEN
+41.33 23-19 TTH
+Mål
+1:e
+7
+Allan DAMGAARD
+Assist
+25
+Jonas PORUP
+12
+Salah BOUTAF
+42.06 24-19 SAH Mål
+VB
+11
+Thomas ARNOLDSEN
+16
+Sander Drange HEIEREN
+42.19 24-20 TTH
+Mål
+2:e
+7
+Allan DAMGAARD
+12
+Salah BOUTAF
+42.51
+SAH Tilkendt straffe
+20
+Morten BALLING
+Forårs. str.
+25
+Jonas PORUP
+42.51
+TTH
+Udvisning
+25
+Jonas PORUP
+42.56 25-20 SAH Mål på straffe
+11
+Thomas ARNOLDSEN
+16
+Sander Drange HEIEREN
+43.59
+TTH
+Skud reddet
+PL
+21
+Jonas Gade NIELSEN
+12
+Salah BOUTAF
+44.19 26-20 SAH Mål
+VF
+4
+Lars SKAARUP
+Assist
+3
+Lars MOUSING
+16
+Sander Drange HEIEREN
+44.57
+SAH Udvisning
+5
+Frederik ARNOLDSEN
+45.21
+TTH
+Skud reddet
+ST
+9
+Dan BECK-HANSEN
+12
+Salah BOUTAF
+46.08 27-20 SAH Mål
+Gbr
+7
+Jonatan MOLLERUP
+Assist
+11
+Thomas ARNOLDSEN
+16
+Sander Drange HEIEREN
+46.18
+TTH
+Skud reddet
+2:e
+17
+Christian JENSEN
+12
+Salah BOUTAF
+46.56
+SAH Tilkendt straffe
+7
+Jonatan MOLLERUP
+Forårs. str.
+26
+Mathias SMED
+46.59 28-20 SAH Mål på straffe
+20
+Morten BALLING
+12
+Josip CAVAR
+47.00
+TTH
+Time out
+47.50
+TTH
+Tilkendt straffe
+9
+Dan BECK-HANSEN
+Forårs. str.
+3
+Lars MOUSING
+47.52
+TTH
+Straffekast reddet
+10
+Magnus BRAMMING
+12
+Salah BOUTAF
+48.23 29-20 SAH Mål
+Gbr 11
+Thomas ARNOLDSEN
+12
+Josip CAVAR
+48.36
+TTH
+Skud reddet
+2:e
+24
+Johan MEKLENBORG
+12
+Salah BOUTAF
+49.19
+SAH Skud reddet
+PL
+7
+Jonatan MOLLERUP
+12
+Josip CAVAR
+49.46
+TTH
+Skud på stolpe
+HF
+17
+Christian JENSEN
+12
+Salah BOUTAF
+49.55
+SAH Skud reddet
+2:e
+3
+Lars MOUSING
+Retur
+0
+12
+Josip CAVAR
+50.38 30-20 SAH Mål
+Gbr
+8
+Torben PETERSEN
+12
+Josip CAVAR
+50.48
+TTH
+Skud forbi
+2:e
+17
+Christian JENSEN
+12
+Salah BOUTAF
+51.32
+SAH Skud reddet
+PL
+23
+Morten Hempel JENSEN
+12
+Josip CAVAR
+52.08
+TTH
+Skud reddet
+VF
+10
+Magnus BRAMMING
+12
+Salah BOUTAF
+52.40
+SAH Skud blokeret
+PL
+7
+Jonatan MOLLERUP
+Blokeret af
+23
+Miha ZVIZEJ
+12
+Josip CAVAR
+53.27 30-21 TTH
+Mål
+VF
+10
+Magnus BRAMMING
+Assist
+8
+Emil JENSEN
+12
+Salah BOUTAF
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skanderborg Aarhus Håndbold - TTH Holstebro   34 - 24  (15 - 11)
+457725 / 3-12-2022 / Fælledhallen - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+53.27
+SAH Udvisning
+25
+Magnus Vejsgaard BUGTRUP
+54.23 31-21 SAH Mål
+HF
+17
+Hákun West Av TEIGUM
+Assist
+7
+Jonatan MOLLERUP
+12
+Josip CAVAR
+54.45 31-22 TTH
+Mål
+ST
+9
+Dan BECK-HANSEN
+Assist
+7
+Allan DAMGAARD
+12
+Salah BOUTAF
+55.18
+TTH
+Udvisning
+9
+Dan BECK-HANSEN
+55.37
+SAH Skud reddet
+VB
+23
+Morten Hempel JENSEN
+Retur
+0
+12
+Josip CAVAR
+55.50 32-22 SAH Mål
+VF
+24
+Anton BRAMMING
+Assist
+3
+Lars MOUSING
+12
+Josip CAVAR
+56.38
+TTH
+Time out
+56.53
+TTH
+Skud på stolpe
+HF
+19
+Rasmus KIER
+12
+Salah BOUTAF
+57.05
+Video Proof
+0
+57.05
+TTH
+Udvisning
+7
+Allan DAMGAARD
+57.05
+Video Proof slut
+0
+57.22 33-22 SAH Mål
+HF
+25
+Magnus Vejsgaard BUGTRUP Assist
+20
+Morten BALLING
+12
+Josip CAVAR
+58.03 33-23 TTH
+Mål
+VF
+6
+Simon JENSEN
+Assist
+24
+Johan MEKLENBORG
+12
+Salah BOUTAF
+58.42 34-23 SAH Mål
+Gbr
+7
+Jonatan MOLLERUP
+12
+Josip CAVAR
+59.13 34-24 TTH
+Mål
+HF
+19
+Rasmus KIER
+Assist
+21
+Jonas Gade NIELSEN
+12
+Salah BOUTAF
+59.52
+SAH Fejlaflevering
+20
+Morten BALLING
+60.00
+TTH
+Skud reddet
+2:e
+25
+Jonas PORUP
+12
+Salah BOUTAF
+60.00 34-24
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Anne-Marie Paasch Almar, Daniel Hansen,

@@ -1,0 +1,971 @@
+KAMPHÆNDELSER
+TTH Holstebro - TMS Ringsted   32 - 23  (15 - 13)
+679220 / 13-2-2019 / Gråkjær Arena - Holstebro / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.47
+0-1
+TMS Mål
+Gbr 88
+Nicolai NØRAGER
+1
+Simon GADE
+0.55
+TTH
+Regelfejl
+25
+Jonas PORUP
+1.32
+TTH
+Advarsel
+21
+Kasper Emil KILDELUND
+1.48
+TMS Fejlaflevering
+28
+Michael RIIS
+2.23
+TTH
+Skud forbi
+HB 26
+Peter BALLING
+11
+Mikkel TØNNERS
+2.56
+0-2
+TMS Mål
+PL
+88
+Nicolai NØRAGER
+1
+Simon GADE
+3.17
+1-2
+TTH
+Mål
+ST
+5
+Lars MOUSING
+Assist
+8
+Jac KARLSSON
+11
+Mikkel TØNNERS
+4.06
+TMS Skud blokeret
+PL
+88
+Nicolai NØRAGER
+Retur
+0
+4.12
+1-3
+TMS Mål
+VB
+28
+Michael RIIS
+1
+Simon GADE
+4.23
+TTH
+Regelfejl
+21
+Kasper Emil KILDELUND
+4.59
+TMS Skud reddet
+PL
+31
+Morten NYBERG
+1
+Simon GADE
+5.04
+TTH
+Skud reddet
+1:e
+21
+Kasper Emil KILDELUND
+11
+Mikkel TØNNERS
+5.44
+TMS Skud på stolpe
+PL
+28
+Michael RIIS
+1
+Simon GADE
+5.53
+TTH
+Fejlaflevering
+26
+Peter BALLING
+6.20
+TMS Skud reddet
+PL
+28
+Michael RIIS
+1
+Simon GADE
+6.39
+TTH
+Time out
+7.04
+2-3
+TTH
+Mål
+HF
+21
+Kasper Emil KILDELUND
+11
+Mikkel TØNNERS
+7.37
+2-4
+TMS Mål
+VF
+10
+Mads DUDEK
+1
+Simon GADE
+8.07
+TTH
+Tilkendt straffe
+8
+Jac KARLSSON
+Forårsagede straffe
+6
+Sebastian Reimer THOR
+8.07
+TMS Udvisning
+6
+Sebastian Reimer THOR
+8.10
+3-4
+TTH
+Mål på straffekast
+10
+Magnus BRAMMING
+11
+Mikkel TØNNERS
+9.00
+TMS Skud reddet
+Gbr 88
+Nicolai NØRAGER
+1
+Simon GADE
+9.32
+TTH
+Skud reddet
+ST
+5
+Lars MOUSING
+11
+Mikkel TØNNERS
+10.10
+TMS Skud forbi
+PL
+28
+Michael RIIS
+1
+Simon GADE
+10.17
+TTH
+Skud reddet
+1:e
+5
+Lars MOUSING
+11
+Mikkel TØNNERS
+10.49
+3-5
+TMS Mål
+HB 88
+Nicolai NØRAGER
+1
+Simon GADE
+11.03
+TTH
+Skud forbi
+PL
+26
+Peter BALLING
+11
+Mikkel TØNNERS
+11.40
+TMS Fejlaflevering
+88
+Nicolai NØRAGER
+Bold erobret
+10
+Magnus BRAMMING
+11.44
+4-5
+TTH
+Mål
+1:e
+10
+Magnus BRAMMING
+11
+Mikkel TØNNERS
+12.17
+4-6
+TMS Mål
+HF
+18
+Benjamin B PEDERSEN
+1
+Simon GADE
+13.04
+5-6
+TTH
+Mål
+ST
+10
+Magnus BRAMMING
+Assist
+26
+Peter BALLING
+11
+Mikkel TØNNERS
+13.53
+5-7
+TMS Mål
+VB
+88
+Nicolai NØRAGER
+1
+Simon GADE
+14.27
+TTH
+Skud reddet
+PL
+25
+Jonas PORUP
+11
+Mikkel TØNNERS
+14.33
+TMS Tabt bold
+31
+Morten NYBERG
+14.38
+6-7
+TTH
+Mål
+1:e
+25
+Jonas PORUP
+11
+Mikkel TØNNERS
+15.23
+6-8
+TMS Mål
+HF
+5
+Anders MØLLER
+1
+Simon GADE
+16.03
+7-8
+TTH
+Mål
+Gbr 15
+Viktor ÖSTLUND
+11
+Mikkel TØNNERS
+16.55
+TTH
+Advarsel
+15
+Viktor ÖSTLUND
+16.56
+TMS Time out
+17.17
+TMS Tilkendt straffe
+88
+Nicolai NØRAGER
+Forårsagede straffe
+15
+Viktor ÖSTLUND
+17.17
+TTH
+Udvisning
+15
+Viktor ÖSTLUND
+17.19
+7-9
+TMS Mål på straffekast
+21
+Simon OMME
+30
+Sebastian FRANDSEN
+18.06
+8-9
+TTH
+Mål
+VF
+10
+Magnus BRAMMING
+11
+Mikkel TØNNERS
+18.38
+8-10
+TMS Mål
+VB
+25
+Morten Hempel JENSEN
+30
+Sebastian FRANDSEN
+19.09
+TTH
+Skud forbi
+PL
+26
+Peter BALLING
+11
+Mikkel TØNNERS
+19.21
+8-11
+TMS Mål
+Gbr 88
+Nicolai NØRAGER
+30
+Sebastian FRANDSEN
+20.22
+TTH
+Skud reddet
+HB 26
+Peter BALLING
+11
+Mikkel TØNNERS
+20.50
+TTH
+Udvisning
+25
+Jonas PORUP
+21.05
+8-12
+TMS Mål
+HF
+5
+Anders MØLLER
+30
+Sebastian FRANDSEN
+21.34
+TMS Udvisning
+21
+Simon OMME
+21.52
+9-12
+TTH
+Mål
+Gbr 26
+Peter BALLING
+11
+Mikkel TØNNERS
+22.15
+TMS Skud reddet
+VF
+10
+Mads DUDEK
+30
+Sebastian FRANDSEN
+22.19 10-12 TTH
+Mål
+1:e
+10
+Magnus BRAMMING
+0
+22.54
+TMS Skud reddet
+ST
+4
+Andreas MAGAARD
+Retur
+0
+30
+Sebastian FRANDSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+TTH Holstebro - TMS Ringsted   32 - 23  (15 - 13)
+679220 / 13-2-2019 / Gråkjær Arena - Holstebro / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+23.23
+TMS Skud reddet
+VB
+25
+Morten Hempel JENSEN
+30
+Sebastian FRANDSEN
+23.40 11-12 TTH
+Mål
+2:e
+10
+Magnus BRAMMING
+Assist
+26
+Peter BALLING
+11
+Mikkel TØNNERS
+23.41
+TMS Udvisning
+88
+Nicolai NØRAGER
+24.28
+TMS Skud reddet
+VF
+10
+Mads DUDEK
+30
+Sebastian FRANDSEN
+25.00
+TTH
+Skud reddet
+HB 26
+Peter BALLING
+1
+Frederik Kjær ANDERSSON
+25.40
+TTH
+Udvisning
+15
+Viktor ÖSTLUND
+26.00
+TMS Regelfejl
+4
+Andreas MAGAARD
+26.37 12-12 TTH
+Mål
+ST
+7
+Niels LINDHOLT
+Assist
+25
+Jonas PORUP
+1
+Frederik Kjær ANDERSSON
+27.17 12-13 TMS Mål
+Gbr 88
+Nicolai NØRAGER
+30
+Sebastian FRANDSEN
+27.48 13-13 TTH
+Mål
+Gbr 26
+Peter BALLING
+1
+Frederik Kjær ANDERSSON
+28.28
+TMS Skud forbi
+ST
+18
+Benjamin B PEDERSEN
+30
+Sebastian FRANDSEN
+28.59 14-13 TTH
+Mål
+VB
+25
+Jonas PORUP
+1
+Frederik Kjær ANDERSSON
+29.45
+TMS Tabt bold
+25
+Morten Hempel JENSEN
+29.49 15-13 TTH
+Mål
+1:e
+25
+Jonas PORUP
+0
+29.58
+TMS Skud forbi
+HB 25
+Morten Hempel JENSEN
+30
+Sebastian FRANDSEN
+30.00 15-13
+Halvleg
+30.39 16-13 TTH
+Mål
+VF
+10
+Magnus BRAMMING
+Assist
+25
+Jonas PORUP
+1
+Frederik Kjær ANDERSSON
+31.17
+TMS Skud reddet
+VB
+28
+Michael RIIS
+Retur
+0
+30
+Sebastian FRANDSEN
+31.21 16-14 TMS Mål
+ST
+5
+Anders MØLLER
+30
+Sebastian FRANDSEN
+31.31
+TTH
+Tilkendt straffe
+26
+Peter BALLING
+Forårsagede straffe
+88
+Nicolai NØRAGER
+31.59
+TTH
+Straffekast på stolpe
+10
+Magnus BRAMMING
+1
+Frederik Kjær ANDERSSON
+32.56
+TMS Fejlaflevering
+5
+Anders MØLLER
+33.08
+TTH
+Skud på stolpe
+HF
+21
+Kasper Emil KILDELUND
+1
+Frederik Kjær ANDERSSON
+33.40 16-15 TMS Mål
+ST
+10
+Mads DUDEK
+Assist
+31
+Morten NYBERG
+30
+Sebastian FRANDSEN
+33.50 17-15 TTH
+Mål
+2:e
+25
+Jonas PORUP
+1
+Frederik Kjær ANDERSSON
+34.22 17-16 TMS Mål
+Gbr 88
+Nicolai NØRAGER
+30
+Sebastian FRANDSEN
+34.52
+TTH
+Regelfejl
+5
+Lars MOUSING
+35.19
+TMS Skud forbi
+PL
+88
+Nicolai NØRAGER
+30
+Sebastian FRANDSEN
+35.35
+TTH
+Regelfejl
+21
+Kasper Emil KILDELUND
+36.05
+TMS Skud reddet
+HF
+5
+Anders MØLLER
+30
+Sebastian FRANDSEN
+36.32 18-16 TTH
+Mål
+VB
+25
+Jonas PORUP
+1
+Frederik Kjær ANDERSSON
+37.26
+TMS Skud forbi
+VF
+10
+Mads DUDEK
+30
+Sebastian FRANDSEN
+38.18
+TTH
+Regelfejl
+7
+Niels LINDHOLT
+38.25 18-17 TMS Mål
+2:e
+7
+Nicolai Koch HANSEN
+30
+Sebastian FRANDSEN
+38.28
+TTH
+Advarsel
+A
+Arne DAMGAARD
+38.59
+TMS Udvisning
+5
+Anders MØLLER
+39.14
+TTH
+Tilkendt straffe
+25
+Jonas PORUP
+Forårsagede straffe
+7
+Nicolai Koch HANSEN
+39.20 19-17 TTH
+Mål på straffekast
+10
+Magnus BRAMMING
+1
+Frederik Kjær ANDERSSON
+40.01
+TMS Skud forbi
+VF
+28
+Michael RIIS
+30
+Sebastian FRANDSEN
+40.13 20-17 TTH
+Mål
+2:e
+25
+Jonas PORUP
+1
+Frederik Kjær ANDERSSON
+41.21 20-18 TMS Mål
+VB
+25
+Morten Hempel JENSEN
+30
+Sebastian FRANDSEN
+41.28
+TTH
+Tilkendt straffe
+7
+Niels LINDHOLT
+Forårsagede straffe
+6
+Sebastian Reimer THOR
+41.37 21-18 TTH
+Mål på straffekast
+10
+Magnus BRAMMING
+1
+Frederik Kjær ANDERSSON
+42.13 21-19 TMS Mål
+PL
+88
+Nicolai NØRAGER
+30
+Sebastian FRANDSEN
+42.25 22-19 TTH
+Mål
+VF
+10
+Magnus BRAMMING
+1
+Frederik Kjær ANDERSSON
+42.31
+TMS Time out
+43.04
+TMS Fejlaflevering
+31
+Morten NYBERG
+Bold erobret 25
+Jonas PORUP
+43.08 23-19 TTH
+Mål
+1:e
+25
+Jonas PORUP
+0
+43.34
+TMS Skud på stolpe
+VB
+25
+Morten Hempel JENSEN
+30
+Sebastian FRANDSEN
+43.43
+TTH
+Skud forbi
+1:e
+10
+Magnus BRAMMING
+0
+44.18
+TMS Fejlaflevering
+25
+Morten Hempel JENSEN
+Bold erobret 10
+Magnus BRAMMING
+44.22 24-19 TTH
+Mål
+1:e
+10
+Magnus BRAMMING
+0
+45.18
+TMS Skud reddet
+VB
+7
+Nicolai Koch HANSEN
+30
+Sebastian FRANDSEN
+45.31 25-19 TTH
+Mål
+2:e
+26
+Peter BALLING
+1
+Frederik Kjær ANDERSSON
+
+--- Side 3 ---
+KAMPHÆNDELSER
+TTH Holstebro - TMS Ringsted   32 - 23  (15 - 13)
+679220 / 13-2-2019 / Gråkjær Arena - Holstebro / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+46.06
+TMS Skud reddet
+ST
+6
+Sebastian Reimer THOR
+30
+Sebastian FRANDSEN
+46.10 26-19 TTH
+Mål
+1:e
+10
+Magnus BRAMMING
+Assist
+26
+Peter BALLING
+1
+Frederik Kjær ANDERSSON
+46.41
+TMS Tilkendt straffe
+6
+Sebastian Reimer THOR
+Forårsagede straffe
+26
+Peter BALLING
+47.02 26-20 TMS Mål på straffekast
+25
+Morten Hempel JENSEN
+30
+Sebastian FRANDSEN
+47.41 27-20 TTH
+Mål
+Gbr 26
+Peter BALLING
+1
+Frederik Kjær ANDERSSON
+48.17
+TMS Fejlaflevering
+7
+Nicolai Koch HANSEN
+48.22
+TTH
+Skud forbi
+1:e
+30
+Sebastian FRANDSEN
+0
+48.54
+TMS Skud reddet
+VF
+10
+Mads DUDEK
+30
+Sebastian FRANDSEN
+49.05
+TTH
+Regelfejl
+26
+Peter BALLING
+50.18 27-21 TMS Mål
+VB
+7
+Nicolai Koch HANSEN
+30
+Sebastian FRANDSEN
+50.45 28-21 TTH
+Mål
+ST
+7
+Niels LINDHOLT
+Assist
+26
+Peter BALLING
+1
+Frederik Kjær ANDERSSON
+51.47
+TMS Skud blokeret
+PL
+7
+Nicolai Koch HANSEN
+51.54
+TTH
+Tabt bold
+8
+Jac KARLSSON
+52.22
+TMS Tilkendt straffe
+6
+Sebastian Reimer THOR
+Forårsagede straffe
+5
+Lars MOUSING
+52.22
+TTH
+Udvisning
+5
+Lars MOUSING
+52.28
+TMS Straffekast reddet
+7
+Nicolai Koch HANSEN
+30
+Sebastian FRANDSEN
+53.06 29-21 TTH
+Mål
+HF
+9
+Mikkel Sandholm MORTENSENAssist
+19
+Malte JUSTESEN
+1
+Frederik Kjær ANDERSSON
+53.42 29-22 TMS Mål
+ST
+6
+Sebastian Reimer THOR
+Assist
+7
+Nicolai Koch HANSEN
+30
+Sebastian FRANDSEN
+54.18
+TTH
+Tilkendt straffe
+7
+Niels LINDHOLT
+Forårsagede straffe
+7
+Nicolai Koch HANSEN
+54.43 30-22 TTH
+Mål på straffekast
+10
+Magnus BRAMMING
+1
+Frederik Kjær ANDERSSON
+55.16
+TMS Regelfejl
+4
+Andreas MAGAARD
+55.46
+TTH
+Skud reddet
+VF
+19
+Malte JUSTESEN
+1
+Frederik Kjær ANDERSSON
+56.31
+TMS Skud reddet
+PL
+7
+Nicolai Koch HANSEN
+30
+Sebastian FRANDSEN
+57.13
+TTH
+Skud på stolpe
+PL
+15
+Viktor ÖSTLUND
+1
+Frederik Kjær ANDERSSON
+57.42
+TMS Regelfejl
+4
+Andreas MAGAARD
+58.18
+TTH
+Fejlaflevering
+26
+Peter BALLING
+Bold erobret
+5
+Anders MØLLER
+58.23 30-23 TMS Mål
+1:e
+5
+Anders MØLLER
+Assist
+25
+Morten Hempel JENSEN
+30
+Sebastian FRANDSEN
+58.56 31-23 TTH
+Mål
+Gbr 15
+Viktor ÖSTLUND
+1
+Frederik Kjær ANDERSSON
+59.26
+TMS Fejlaflevering
+14
+Lasse Sinding JENSEN
+Bold erobret 19
+Malte JUSTESEN
+59.31 32-23 TTH
+Mål
+1:e
+19
+Malte JUSTESEN
+0
+60.00 32-23
+Fuld tid
+Software: Jilsén System AB. Logget af: Kenneth Alf Kristiansen, Søren Bork,

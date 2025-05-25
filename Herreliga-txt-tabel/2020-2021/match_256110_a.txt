@@ -1,0 +1,935 @@
+KAMPHÆNDELSER
+Skanderborg Håndbold - Bjerringbro-Silkeborg   25 - 33  (13 - 18)
+256110 / 4-4-2021 / Fælledhallen - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.32
+SKB Skud reddet
+PL
+23
+Cornelius KRAGH
+12
+Johan SJÖSTRAND
+1.41
+0-1
+BSH Mål
+PL
+11
+Sebastian SKUBE
+12
+Salah BOUTAF
+2.28
+1-1
+SKB Mål
+HF
+15
+Mike HAACK
+Assist
+24
+Mathias BITSCH
+12
+Johan SJÖSTRAND
+2.38
+BSH Skud reddet
+VB
+20
+William BOGOJEVIC
+12
+Salah BOUTAF
+2.49
+2-1
+SKB Mål
+Gbr 23
+Cornelius KRAGH
+12
+Johan SJÖSTRAND
+3.41
+2-2
+BSH Mål
+PL
+11
+Sebastian SKUBE
+12
+Salah BOUTAF
+3.51
+SKB Regelfejl
+6
+Kristian BONEFELD
+4.03
+2-3
+BSH Mål
+ST
+19
+René Toft HANSEN
+Assist
+9
+Jacob LASSEN
+12
+Salah BOUTAF
+4.40
+SKB Skud forbi
+VF
+4
+Lars SKAARUP
+12
+Johan SJÖSTRAND
+4.46
+2-4
+BSH Mål
+2:e
+19
+René Toft HANSEN
+Assist
+20
+William BOGOJEVIC
+12
+Salah BOUTAF
+5.14
+3-4
+SKB Mål
+VB
+23
+Cornelius KRAGH
+12
+Johan SJÖSTRAND
+5.27
+3-5
+BSH Mål
+HF
+22
+Aksel HORGEN
+Assist
+11
+Sebastian SKUBE
+12
+Salah BOUTAF
+6.03
+SKB Skud reddet
+Gbr 20
+Morten BALLING
+12
+Johan SJÖSTRAND
+6.08
+BSH Fejlaflevering
+9
+Jacob LASSEN
+Bold erobret 23
+Cornelius KRAGH
+6.56
+SKB Skud reddet
+VF
+4
+Lars SKAARUP
+12
+Johan SJÖSTRAND
+7.05
+BSH Tilkendt straffe
+19
+René Toft HANSEN
+Forårs. str.
+23
+Cornelius KRAGH
+7.16
+3-6
+BSH Mål på straffe
+9
+Jacob LASSEN
+12
+Salah BOUTAF
+7.47
+4-6
+SKB Mål
+PL
+24
+Mathias BITSCH
+12
+Johan SJÖSTRAND
+8.18
+4-7
+BSH Mål
+VB
+20
+William BOGOJEVIC
+12
+Salah BOUTAF
+8.32
+SKB Skud forbi
+ST
+2
+Nikolaj NIELSEN
+12
+Johan SJÖSTRAND
+9.13
+BSH Skud reddet
+PL
+11
+Sebastian SKUBE
+12
+Salah BOUTAF
+9.41
+SKB Tilkendt straffe
+2
+Nikolaj NIELSEN
+Forårs. str.
+19
+René Toft HANSEN
+9.53
+5-7
+SKB Mål på straffe
+20
+Morten BALLING
+12
+Johan SJÖSTRAND
+10.33
+BSH Tilkendt straffe
+11
+Sebastian SKUBE
+Forårs. str.
+23
+Cornelius KRAGH
+10.33
+SKB Udvisning
+23
+Cornelius KRAGH
+10.38
+BSH Straffekast reddet
+9
+Jacob LASSEN
+Retur
+0
+12
+Salah BOUTAF
+10.41
+5-8
+BSH Mål
+ST
+9
+Jacob LASSEN
+12
+Salah BOUTAF
+11.14
+SKB Skud blokeret
+PL
+24
+Mathias BITSCH
+Blokeret af
+4
+Klaus THOMSEN
+11.23
+5-9
+BSH Mål
+1:e
+22
+Aksel HORGEN
+Assist
+20
+William BOGOJEVIC
+0
+11.48
+6-9
+SKB Mål
+Gbr 20
+Morten BALLING
+12
+Johan SJÖSTRAND
+12.15
+6-10
+BSH Mål
+HF
+22
+Aksel HORGEN
+Assist
+9
+Jacob LASSEN
+12
+Salah BOUTAF
+12.49
+SKB Skud blokeret
+PL
+20
+Morten BALLING
+Blok af (ret)
+9
+Jacob LASSEN
+12.56
+SKB Time out
+13.18
+SKB Tabt bold
+23
+Cornelius KRAGH
+14.06
+6-11
+BSH Mål
+PL
+11
+Sebastian SKUBE
+1
+Kristoffer LAURSEN
+14.50
+7-11
+SKB Mål
+Gbr 20
+Morten BALLING
+12
+Johan SJÖSTRAND
+15.53
+7-12
+BSH Mål
+HB
+9
+Jacob LASSEN
+1
+Kristoffer LAURSEN
+16.36
+SKB Skud på stolpe
+PL
+18
+Marcus MØRK
+Retur
+0
+12
+Johan SJÖSTRAND
+16.43
+8-12
+SKB Mål
+VF
+10
+Lasse HØJGAARD
+12
+Johan SJÖSTRAND
+17.32
+8-13
+BSH Mål
+ST
+14
+Alexander LYNGGAARD
+Assist
+11
+Sebastian SKUBE
+1
+Kristoffer LAURSEN
+18.37
+SKB Skud blokeret
+VB
+11
+Thomas ARNOLDSEN
+Blok af (ret)
+20
+William BOGOJEVIC
+18.51
+9-13
+SKB Mål
+ST
+2
+Nikolaj NIELSEN
+Assist
+11
+Thomas ARNOLDSEN
+12
+Johan SJÖSTRAND
+19.01
+9-14
+BSH Mål
+2:e
+14
+Alexander LYNGGAARD
+Assist
+9
+Jacob LASSEN
+1
+Kristoffer LAURSEN
+19.37
+SKB Tilkendt straffe
+7
+Mads KALSTRUP
+Forårs. str.
+20
+William BOGOJEVIC
+19.58 10-14 SKB Mål på straffe
+20
+Morten BALLING
+12
+Johan SJÖSTRAND
+20.39
+BSH Time out
+21.09
+BSH Skud reddet
+HF
+22
+Aksel HORGEN
+1
+Kristoffer LAURSEN
+22.02
+SKB Fejlaflevering
+11
+Thomas ARNOLDSEN
+22.07 10-15 BSH Mål
+1:e
+2
+August Baskår PEDERSEN
+Assist
+12
+Johan SJÖSTRAND
+1
+Kristoffer LAURSEN
+22.18
+SKB Skud reddet
+2:e
+11
+Thomas ARNOLDSEN
+12
+Johan SJÖSTRAND
+22.28
+BSH Skud reddet
+VF
+2
+August Baskår PEDERSEN
+1
+Kristoffer LAURSEN
+23.07
+SKB Tilkendt straffe
+7
+Mads KALSTRUP
+Forårs. str.
+4
+Klaus THOMSEN
+23.19
+SKB Straffekast reddet
+20
+Morten BALLING
+12
+Johan SJÖSTRAND
+23.57
+BSH Tilkendt straffe
+11
+Sebastian SKUBE
+Forårs. str.
+15
+Mike HAACK
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skanderborg Håndbold - Bjerringbro-Silkeborg   25 - 33  (13 - 18)
+256110 / 4-4-2021 / Fælledhallen - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.12 10-16 BSH Mål på straffe
+22
+Aksel HORGEN
+1
+Kristoffer LAURSEN
+24.58
+SKB Skud reddet
+VB
+23
+Cornelius KRAGH
+Retur
+0
+12
+Johan SJÖSTRAND
+25.28
+SKB Skud reddet
+VB
+23
+Cornelius KRAGH
+Retur
+0
+12
+Johan SJÖSTRAND
+25.42
+SKB Tilkendt straffe
+23
+Cornelius KRAGH
+Forårs. str.
+9
+Jacob LASSEN
+25.53 11-16 SKB Mål på straffe
+11
+Thomas ARNOLDSEN
+12
+Johan SJÖSTRAND
+26.26 11-17 BSH Mål
+ST
+18
+Jesper NØDDESBO
+Assist
+8
+Mads Øris NIELSEN
+1
+Kristoffer LAURSEN
+26.40 12-17 SKB Mål
+PL
+18
+Marcus MØRK
+12
+Johan SJÖSTRAND
+26.53
+BSH Skud reddet
+PL
+8
+Mads Øris NIELSEN
+1
+Kristoffer LAURSEN
+26.59 13-17 SKB Mål
+1:e
+3
+Hákun West Av TEIGUM
+Assist
+23
+Cornelius KRAGH
+12
+Johan SJÖSTRAND
+28.24
+BSH Tilkendt straffe
+18
+Jesper NØDDESBO
+Forårs. str.
+23
+Cornelius KRAGH
+28.39 13-18 BSH Mål på straffe
+22
+Aksel HORGEN
+1
+Kristoffer LAURSEN
+29.13
+SKB Skud forbi
+PL
+18
+Marcus MØRK
+12
+Johan SJÖSTRAND
+29.46
+BSH Regelfejl
+18
+Jesper NØDDESBO
+29.56
+SKB Skud på stolpe
+1:e
+10
+Lasse HØJGAARD
+12
+Johan SJÖSTRAND
+29.59
+BSH Skud reddet
+HB
+9
+Jacob LASSEN
+1
+Kristoffer LAURSEN
+30.00 13-18
+Halvleg
+30.25 13-19 BSH Mål
+VB
+20
+William BOGOJEVIC
+1
+Kristoffer LAURSEN
+30.41
+SKB Tilkendt straffe
+2
+Nikolaj NIELSEN
+Forårs. str.
+19
+René Toft HANSEN
+30.59 14-19 SKB Mål på straffe
+11
+Thomas ARNOLDSEN
+1
+Kasper LARSEN
+32.05
+BSH Tilkendt straffe
+2
+August Baskår PEDERSEN
+Forårs. str.
+2
+Nikolaj NIELSEN
+32.17 14-20 BSH Mål på straffe
+22
+Aksel HORGEN
+12
+Salah BOUTAF
+33.24
+SKB Skud blokeret
+PL
+18
+Marcus MØRK
+Blokeret af
+4
+Klaus THOMSEN
+33.52
+BSH Skud på stolpe
+VB
+20
+William BOGOJEVIC
+1
+Kristoffer LAURSEN
+34.01
+SKB Tilkendt straffe
+18
+Marcus MØRK
+Forårs. str.
+2
+August Baskår PEDERSEN
+34.19 15-20 SKB Mål på straffe
+11
+Thomas ARNOLDSEN
+1
+Kasper LARSEN
+35.15
+BSH Skud reddet
+Gbr
+9
+Jacob LASSEN
+1
+Kristoffer LAURSEN
+36.24 16-20 SKB Mål
+PL
+18
+Marcus MØRK
+1
+Kasper LARSEN
+37.00 16-21 BSH Mål
+ST
+2
+August Baskår PEDERSEN
+Assist
+20
+William BOGOJEVIC
+1
+Kristoffer LAURSEN
+37.33
+BSH Udvisning
+20
+William BOGOJEVIC
+37.46 17-21 SKB Mål
+VF
+4
+Lars SKAARUP
+Assist
+11
+Thomas ARNOLDSEN
+1
+Kasper LARSEN
+38.21 17-22 BSH Mål
+ST
+19
+René Toft HANSEN
+Assist
+9
+Jacob LASSEN
+1
+Kristoffer LAURSEN
+38.46
+SKB Regelfejl
+4
+Lars SKAARUP
+39.36 17-23 BSH Mål
+VF
+2
+August Baskår PEDERSEN
+Assist
+11
+Sebastian SKUBE
+1
+Kristoffer LAURSEN
+40.12
+SKB Skud forbi
+ST
+2
+Nikolaj NIELSEN
+1
+Kasper LARSEN
+40.45 17-24 BSH Mål
+PL
+9
+Jacob LASSEN
+1
+Kristoffer LAURSEN
+41.58
+SKB Skud blokeret
+PL
+20
+Morten BALLING
+Blokeret af
+4
+Klaus THOMSEN
+42.43 17-25 BSH Mål
+ST
+9
+Jacob LASSEN
+Assist
+11
+Sebastian SKUBE
+1
+Kristoffer LAURSEN
+42.49
+SKB Time out
+43.17 18-25 SKB Mål
+HF
+3
+Hákun West Av TEIGUM
+1
+Kasper LARSEN
+43.43 18-26 BSH Mål
+ST
+19
+René Toft HANSEN
+Assist
+11
+Sebastian SKUBE
+1
+Kristoffer LAURSEN
+44.14
+SKB Regelfejl
+6
+Kristian BONEFELD
+44.42 18-27 BSH Mål
+PL
+9
+Jacob LASSEN
+Assist
+2
+August Baskår PEDERSEN
+1
+Kristoffer LAURSEN
+44.51
+SKB Skud reddet
+Gbr 23
+Cornelius KRAGH
+1
+Kasper LARSEN
+45.34 18-28 BSH Mål
+Gbr 11
+Sebastian SKUBE
+1
+Kristoffer LAURSEN
+46.07
+SKB Skud reddet
+Gbr 11
+Thomas ARNOLDSEN
+1
+Kasper LARSEN
+47.22
+BSH Udvisning
+20
+William BOGOJEVIC
+47.22
+BSH Regelfejl
+20
+William BOGOJEVIC
+47.39 19-28 SKB Mål
+Gbr 11
+Thomas ARNOLDSEN
+1
+Kasper LARSEN
+48.33
+BSH Tilkendt straffe
+18
+Jesper NØDDESBO
+Forårs. str.
+4
+Lars SKAARUP
+48.42
+BSH Straffekast reddet
+22
+Aksel HORGEN
+12
+Salah BOUTAF
+49.03 20-28 SKB Mål
+HF
+3
+Hákun West Av TEIGUM
+Assist
+11
+Thomas ARNOLDSEN
+1
+Kasper LARSEN
+49.38 20-29 BSH Mål
+HF
+22
+Aksel HORGEN
+Assist
+11
+Sebastian SKUBE
+12
+Salah BOUTAF
+49.46
+SKB Skud på stolpe
+2:e
+23
+Cornelius KRAGH
+1
+Kasper LARSEN
+50.37
+SKB Udvisning
+21
+Mathias SMED
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skanderborg Håndbold - Bjerringbro-Silkeborg   25 - 33  (13 - 18)
+256110 / 4-4-2021 / Fælledhallen - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+50.57
+BSH Skud reddet
+HF
+22
+Aksel HORGEN
+12
+Salah BOUTAF
+52.02
+SKB Skud på stolpe
+HF
+3
+Hákun West Av TEIGUM
+1
+Kasper LARSEN
+52.34 20-30 BSH Mål
+VF
+21
+Sebastian SKØTT
+Assist
+8
+Mads Øris NIELSEN
+12
+Salah BOUTAF
+53.24 21-30 SKB Mål
+ST
+2
+Nikolaj NIELSEN
+Assist
+20
+Morten BALLING
+1
+Kasper LARSEN
+54.02
+BSH Fejlaflevering
+11
+Sebastian SKUBE
+54.07
+SKB Skud reddet
+1:e
+3
+Hákun West Av TEIGUM
+1
+Kasper LARSEN
+54.16
+BSH Skud reddet
+Gbr
+9
+Jacob LASSEN
+Retur
+0
+12
+Salah BOUTAF
+54.49
+BSH Skud forbi
+PL
+8
+Mads Øris NIELSEN
+12
+Salah BOUTAF
+55.01 22-30 SKB Mål
+VF
+4
+Lars SKAARUP
+Assist
+11
+Thomas ARNOLDSEN
+1
+Kasper LARSEN
+55.53 22-31 BSH Mål
+ST
+18
+Jesper NØDDESBO
+Assist
+11
+Sebastian SKUBE
+12
+Salah BOUTAF
+56.29 23-31 SKB Mål
+VF
+4
+Lars SKAARUP
+Assist
+11
+Thomas ARNOLDSEN
+1
+Kasper LARSEN
+57.35
+BSH Tilkendt straffe
+17
+Matthias Birkkjær PEDERSEN Forårs. str.
+23
+Cornelius KRAGH
+57.49 23-32 BSH Mål på straffe
+18
+Jesper NØDDESBO
+12
+Salah BOUTAF
+58.17 24-32 SKB Mål
+VF
+4
+Lars SKAARUP
+Assist
+11
+Thomas ARNOLDSEN
+1
+Kasper LARSEN
+58.54
+BSH Regelfejl
+8
+Mads Øris NIELSEN
+59.02 25-32 SKB Mål
+2:e
+2
+Nikolaj NIELSEN
+Assist
+23
+Cornelius KRAGH
+1
+Kasper LARSEN
+59.12 25-33 BSH Mål
+PL
+17
+Matthias Birkkjær PEDERSEN
+12
+Salah BOUTAF
+59.58
+SKB Skud på stolpe
+VB
+11
+Thomas ARNOLDSEN
+1
+Kasper LARSEN
+60.00 25-33
+Fuld tid
+Software: Jilsén System AB. Logget af: Eva Rebbe, Søren Noesgaard,

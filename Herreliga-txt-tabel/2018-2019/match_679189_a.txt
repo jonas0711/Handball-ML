@@ -1,0 +1,909 @@
+KAMPHÆNDELSER
+Nordsjælland Håndbold - Aalborg Håndbold   25 - 29  (11 - 16)
+679189 / 8-12-2018 / Helsingør-hallen 1 / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.36
+AAH Skud reddet
+HB 21
+Henrik MØLLGAARD
+Retur
+0
+1
+Mike JENSEN
+1.07
+AAH Skud reddet
+Gbr 11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+1.18
+NSH Tabt bold
+23
+Kasper KISUM
+2.02
+0-1
+AAH Mål
+VB
+21
+Henrik MØLLGAARD
+1
+Mike JENSEN
+2.14
+NSH Skud reddet
+PL
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+2.25
+AAH Skud reddet
+2:e
+6
+Sebastian BARTHOLD
+1
+Mike JENSEN
+2.59
+NSH Fejlaflevering
+24
+Johan MEKLENBORG
+3.07
+AAH Skud på stolpe
+2:e
+6
+Sebastian BARTHOLD
+1
+Mike JENSEN
+3.16
+NSH Fejlaflevering
+29
+Nicolas Lundbye KRISTIANSEN
+3.21
+AAH Fejlaflevering
+19
+Mark STRANDGAARD
+3.50
+1-1
+NSH Mål
+ST
+5
+Dan Beck HANSEN
+Assist
+29
+Nicolas Lundbye KRISTIANSEN16
+Mikael AGGEFORS
+3.58
+AAH Fejlaflevering
+15
+Andreas Holst JENSEN
+4.06
+NSH Skud blokeret
+2:e
+17
+Akutaaneq KREUTZMANN
+4.12
+1-2
+AAH Mål
+1:e
+19
+Mark STRANDGAARD
+Assist
+0
+1
+Mike JENSEN
+4.48
+NSH Skud reddet
+PL
+23
+Kasper KISUM
+16
+Mikael AGGEFORS
+4.53
+1-3
+AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+5.25
+2-3
+NSH Mål
+PL
+29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+5.56
+AAH Fejlaflevering
+15
+Andreas Holst JENSEN
+6.01
+NSH Skud på stolpe
+1:e
+20
+Jesper DAHL
+16
+Mikael AGGEFORS
+7.14
+AAH Tilkendt straffe
+11
+Omar Ingi MAGNUSSON
+Forårsagede straffe
+17
+Akutaaneq KREUTZMANN
+7.23
+2-4
+AAH Mål på straffekast
+21
+Henrik MØLLGAARD
+1
+Mike JENSEN
+7.51
+3-4
+NSH Mål
+VB
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+8.27
+3-5
+AAH Mål
+ST
+22
+René ANTONSEN
+Assist
+11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+9.05
+4-5
+NSH Mål
+HB 29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+9.34
+4-6
+AAH Mål
+VB
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+10.18
+NSH Tilkendt straffe
+24
+Johan MEKLENBORG
+Forårsagede straffe
+11
+Omar Ingi MAGNUSSON
+10.42
+NSH Straffekast reddet
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+11.08
+AAH Skud på stolpe
+VB
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+12.12
+NSH Fejlaflevering
+24
+Johan MEKLENBORG
+12.18
+AAH Skud reddet
+1:e
+19
+Mark STRANDGAARD
+1
+Mike JENSEN
+12.55
+5-6
+NSH Mål
+ST
+5
+Dan Beck HANSEN
+Assist
+29
+Nicolas Lundbye KRISTIANSEN16
+Mikael AGGEFORS
+13.03
+5-7
+AAH Mål
+2:e
+22
+René ANTONSEN
+Assist
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+13.03
+NSH Udvisning
+23
+Kasper KISUM
+13.37
+6-7
+NSH Mål
+PL
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+13.53
+AAH Skud blokeret
+1:e
+22
+René ANTONSEN
+Retur
+0
+14.01
+6-8
+AAH Mål
+HB 11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+14.49
+7-8
+NSH Mål
+ST
+5
+Dan Beck HANSEN
+Assist
+29
+Nicolas Lundbye KRISTIANSEN16
+Mikael AGGEFORS
+15.07
+7-9
+AAH Mål
+ST
+22
+René ANTONSEN
+Assist
+11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+15.53
+AAH Udvisning
+21
+Henrik MØLLGAARD
+16.14
+8-9
+NSH Mål
+Gbr 29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+16.51
+AAH Skud reddet
+HF
+19
+Mark STRANDGAARD
+1
+Mike JENSEN
+17.24
+NSH Skud på stolpe
+VB
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+17.56
+8-10
+AAH Mål
+VB
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+18.43
+NSH Skud på stolpe
+PL
+23
+Kasper KISUM
+Retur
+0
+16
+Mikael AGGEFORS
+18.48
+NSH Time out
+19.10
+NSH Skud reddet
+PL
+29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+20.27
+8-11
+AAH Mål
+PL
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+21.05
+NSH Fejlaflevering
+24
+Johan MEKLENBORG
+21.16
+AAH Tabt bold
+20
+Jesper Meinby PEDERSEN
+21.23
+NSH Skud reddet
+2:e
+29
+Nicolas Lundbye KRISTIANSENRetur
+0
+16
+Mikael AGGEFORS
+21.51
+9-11
+NSH Mål
+ST
+13
+Andreas Johann NIELSEN
+Assist
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+22.31
+9-12
+AAH Mål
+VB
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+23.08 10-12 NSH Mål
+PL
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+23.18 10-13 AAH Mål
+VB
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Nordsjælland Håndbold - Aalborg Håndbold   25 - 29  (11 - 16)
+679189 / 8-12-2018 / Helsingør-hallen 1 / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.14
+NSH Skud reddet
+Gbr 24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+24.24
+AAH Skud blokeret
+2:e
+20
+Jesper Meinby PEDERSEN
+Retur
+0
+24.59
+NSH Udvisning
+13
+Andreas Johann NIELSEN
+25.12
+AAH Skud reddet
+HB 11
+Omar Ingi MAGNUSSON
+Retur
+0
+1
+Mike JENSEN
+25.30 10-14 AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+26.29
+NSH Skud reddet
+ST
+20
+Jesper DAHL
+16
+Mikael AGGEFORS
+26.38 10-15 AAH Mål
+2:e
+19
+Mark STRANDGAARD
+Assist
+20
+Jesper Meinby PEDERSEN
+1
+Mike JENSEN
+27.16
+NSH Skud reddet
+HB 29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+28.20
+AAH Skud reddet
+PL
+3
+Janus SMARÁSON
+Retur
+0
+1
+Mike JENSEN
+28.44 10-16 AAH Mål
+PL
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+29.29
+NSH Skud reddet
+PL
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+29.36
+AAH Tabt bold
+7
+Frederik Bech JENSEN
+29.55
+NSH Tilkendt straffe
+5
+Dan Beck HANSEN
+Forårsagede straffe
+3
+Janus SMARÁSON
+29.55
+AAH Udvisning
+3
+Janus SMARÁSON
+29.57 11-16 NSH Mål på straffekast
+3
+Carl-Emil HAUNSTRUP
+16
+Mikael AGGEFORS
+29.57
+AAH Time out
+30.00
+AAH Skud reddet
+VB
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+30.00 11-16
+Halvleg
+30.39 12-16 NSH Mål
+ST
+13
+Andreas Johann NIELSEN
+Assist
+29
+Nicolas Lundbye KRISTIANSEN16
+Mikael AGGEFORS
+31.15 12-17 AAH Mål
+HB 11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+32.01
+NSH Skud blokeret
+VB
+23
+Kasper KISUM
+33.11
+AAH Skud på stolpe
+HB 11
+Omar Ingi MAGNUSSON
+Retur
+0
+1
+Mike JENSEN
+33.47
+AAH Skud reddet
+PL
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+34.18 13-17 NSH Mål
+ST
+13
+Andreas Johann NIELSEN
+Assist
+29
+Nicolas Lundbye KRISTIANSEN16
+Mikael AGGEFORS
+34.53 13-18 AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+35.56
+NSH Skud reddet
+ST
+13
+Andreas Johann NIELSEN
+16
+Mikael AGGEFORS
+36.05
+AAH Tilkendt straffe
+14
+Magnus SAUGSTRUP
+Forårsagede straffe
+7
+Mikkel PALMER
+36.05
+NSH Udvisning
+7
+Mikkel PALMER
+36.06 13-19 AAH Mål på straffekast
+21
+Henrik MØLLGAARD
+1
+Mike JENSEN
+36.58
+NSH Skud blokeret
+PL
+24
+Johan MEKLENBORG
+37.17
+AAH Fejlaflevering
+11
+Omar Ingi MAGNUSSON
+37.57 14-19 NSH Mål
+HB 29
+Nicolas Lundbye KRISTIANSENAssist
+13
+Andreas Johann NIELSEN
+16
+Mikael AGGEFORS
+38.13
+AAH Skud reddet
+HF
+20
+Jesper Meinby PEDERSEN
+1
+Mike JENSEN
+38.24 15-19 NSH Mål
+2:e
+23
+Kasper KISUM
+16
+Mikael AGGEFORS
+39.02
+AAH Regelfejl
+11
+Omar Ingi MAGNUSSON
+39.19
+NSH Time out
+39.54
+NSH Skud på stolpe
+HF
+3
+Carl-Emil HAUNSTRUP
+16
+Mikael AGGEFORS
+40.20
+AAH Fejlaflevering
+3
+Janus SMARÁSON
+Bold erobret 13
+Andreas Johann NIELSEN
+40.48
+NSH Fejlaflevering
+29
+Nicolas Lundbye KRISTIANSENBold erobret 19
+Mark STRANDGAARD
+40.53 15-20 AAH Mål
+1:e
+19
+Mark STRANDGAARD
+0
+41.21
+NSH Tabt bold
+20
+Jesper DAHL
+41.49
+AAH Skud på stolpe
+VB
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+41.54 16-20 NSH Mål
+1:e
+3
+Carl-Emil HAUNSTRUP
+Assist
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+42.51
+AAH Skud reddet
+PL
+11
+Omar Ingi MAGNUSSON
+Retur
+0
+1
+Mike JENSEN
+43.28
+AAH Tilkendt straffe
+14
+Magnus SAUGSTRUP
+Forårsagede straffe
+13
+Andreas Johann NIELSEN
+43.32 16-21 AAH Mål på straffekast
+21
+Henrik MØLLGAARD
+26
+Kristian ASMUSSEN
+44.02 17-21 NSH Mål
+ST
+13
+Andreas Johann NIELSEN
+Assist
+29
+Nicolas Lundbye KRISTIANSEN16
+Mikael AGGEFORS
+44.36
+AAH Fejlaflevering
+11
+Omar Ingi MAGNUSSON
+44.49
+NSH Regelfejl
+7
+Mikkel PALMER
+44.52 17-22 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+22
+René ANTONSEN
+1
+Mike JENSEN
+45.58
+AAH Udvisning
+22
+René ANTONSEN
+46.03 18-22 NSH Mål
+Gbr 29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+46.34
+AAH Skud reddet
+ST
+14
+Magnus SAUGSTRUP
+1
+Mike JENSEN
+47.03 19-22 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+29
+Nicolas Lundbye KRISTIANSEN16
+Mikael AGGEFORS
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Nordsjælland Håndbold - Aalborg Håndbold   25 - 29  (11 - 16)
+679189 / 8-12-2018 / Helsingør-hallen 1 / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+47.50
+NSH Udvisning
+5
+Dan Beck HANSEN
+48.02 19-23 AAH Mål
+HF
+19
+Mark STRANDGAARD
+Assist
+11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+48.58
+NSH Skud reddet
+PL
+29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+49.22 19-24 AAH Mål
+Gbr 11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+50.07 20-24 NSH Mål
+VB
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+50.36 20-25 AAH Mål
+Gbr 11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+51.08
+NSH Skud reddet
+VF
+11
+Lasse UTH
+Retur
+0
+16
+Mikael AGGEFORS
+51.29
+AAH Udvisning
+11
+Omar Ingi MAGNUSSON
+51.45 21-25 NSH Mål
+Gbr 24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+52.47 21-26 AAH Mål
+PL
+21
+Henrik MØLLGAARD
+1
+Mike JENSEN
+53.08 22-26 NSH Mål
+ST
+5
+Dan Beck HANSEN
+Assist
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+53.36
+AAH Fejlaflevering
+11
+Omar Ingi MAGNUSSON
+54.04 23-26 NSH Mål
+PL
+29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+54.11
+AAH Time out
+54.52 23-27 AAH Mål
+Gbr 11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+55.52
+NSH Skud reddet
+PL
+29
+Nicolas Lundbye KRISTIANSENRetur
+0
+16
+Mikael AGGEFORS
+56.27
+NSH Skud reddet
+VB
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+56.35 23-28 AAH Mål
+1:e
+16
+Mikael AGGEFORS
+0
+56.49
+NSH Time out
+57.23
+NSH Skud blokeret
+VB
+17
+Akutaaneq KREUTZMANN
+Retur
+0
+57.38
+NSH Tilkendt straffe
+29
+Nicolas Lundbye KRISTIANSENForårsagede straffe
+15
+Andreas Holst JENSEN
+57.46 24-28 NSH Mål på straffekast
+3
+Carl-Emil HAUNSTRUP
+1
+Søren Hansen BRUNSBORG
+58.02
+NSH Udvisning
+11
+Lasse UTH
+58.19 24-29 AAH Mål
+VF
+3
+Janus SMARÁSON
+Assist
+21
+Henrik MØLLGAARD
+1
+Mike JENSEN
+59.12
+AAH Udvisning
+18
+Knud RONAU
+59.27 25-29 NSH Mål
+ST
+13
+Andreas Johann NIELSEN
+Assist
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+60.00 25-29
+Fuld tid
+Software: Jilsén System AB. Logget af: Jesper Bruhns, Thomas Kjærgaard,

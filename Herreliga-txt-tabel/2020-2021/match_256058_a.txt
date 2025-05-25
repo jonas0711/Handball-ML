@@ -1,0 +1,920 @@
+KAMPHÆNDELSER
+Skanderborg Håndbold - Aalborg Håndbold   33 - 29  (16 - 16)
+256058 / 4-2-2021 / Fælledhallen - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.39
+0-1
+AAH Mål
+PL
+13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+1.27
+1-1
+SKB Mål
+PL
+24
+Mathias BITSCH
+1
+Simon GADE
+2.35
+SKB Advarsel
+23
+Cornelius KRAGH
+3.02
+SKB Udvisning
+6
+Kristian BONEFELD
+3.28
+1-2
+AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+4.19
+2-2
+SKB Mål
+Gbr 23
+Cornelius KRAGH
+1
+Simon GADE
+4.56
+AAH Skud reddet
+Gbr 11
+Lukas SANDELL
+12
+Salah BOUTAF
+5.33
+3-2
+SKB Mål
+Gbr 23
+Cornelius KRAGH
+1
+Simon GADE
+5.46
+3-3
+AAH Mål
+Gbr 11
+Lukas SANDELL
+12
+Salah BOUTAF
+6.20
+4-3
+SKB Mål
+PL
+23
+Cornelius KRAGH
+1
+Simon GADE
+6.31
+4-4
+AAH Mål
+2:e
+14
+Magnus SAUGSTRUP
+Assist
+21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+7.04
+SKB Skud reddet
+VF
+4
+Lars SKAARUP
+1
+Simon GADE
+7.11
+4-5
+AAH Mål
+2:e
+14
+Magnus SAUGSTRUP
+Assist
+11
+Lukas SANDELL
+12
+Salah BOUTAF
+7.50
+SKB Tilkendt straffe
+2
+Nikolaj NIELSEN
+Forårs. str.
+19
+Mark STRANDGAARD
+7.50
+AAH Udvisning
+19
+Mark STRANDGAARD
+7.53
+5-5
+SKB Mål på straffe
+20
+Morten BALLING
+1
+Simon GADE
+8.30
+AAH Skud reddet
+PL
+11
+Lukas SANDELL
+12
+Salah BOUTAF
+8.57
+6-5
+SKB Mål
+ST
+7
+Mads KALSTRUP
+Assist
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+9.51
+AAH Skud på stolpe
+VB
+7
+Felix CLAAR
+12
+Salah BOUTAF
+10.30
+SKB Skud blokeret
+VB
+23
+Cornelius KRAGH
+Blok af (ret)
+14
+Magnus SAUGSTRUP
+10.47
+SKB Skud blokeret
+PL
+20
+Morten BALLING
+Blok af (ret)
+14
+Magnus SAUGSTRUP
+11.04
+7-5
+SKB Mål
+PL
+20
+Morten BALLING
+1
+Simon GADE
+11.32
+7-6
+AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+11
+Lukas SANDELL
+12
+Salah BOUTAF
+11.38
+8-6
+SKB Mål
+2:e
+23
+Cornelius KRAGH
+Assist
+6
+Kristian BONEFELD
+1
+Simon GADE
+12.34
+8-7
+AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+7
+Felix CLAAR
+12
+Salah BOUTAF
+12.46
+SKB Skud reddet
+ST
+2
+Nikolaj NIELSEN
+Retur
+4
+Lars SKAARUP
+1
+Simon GADE
+13.16
+SKB Skud reddet
+PL
+23
+Cornelius KRAGH
+1
+Simon GADE
+14.16
+8-8
+AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+20
+Mads CHRISTIANSEN
+12
+Salah BOUTAF
+14.49
+AAH Udvisning
+20
+Mads CHRISTIANSEN
+15.07
+9-8
+SKB Mål
+Gbr 20
+Morten BALLING
+Assist
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+15.39
+9-9
+AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+11
+Lukas SANDELL
+12
+Salah BOUTAF
+16.07
+SKB Regelfejl
+20
+Morten BALLING
+17.08
+AAH Skud på stolpe
+HB 20
+Mads CHRISTIANSEN
+12
+Salah BOUTAF
+17.16 10-9
+SKB Mål
+2:e
+15
+Mike HAACK
+Assist
+24
+Mathias BITSCH
+1
+Simon GADE
+18.02
+SKB Udvisning
+6
+Kristian BONEFELD
+18.20
+AAH Skud blokeret
+VB
+13
+Nikolaj LÆSØ
+Blok af (ret)
+2
+Nikolaj NIELSEN
+18.31
+AAH Skud reddet
+Gbr 20
+Mads CHRISTIANSEN
+12
+Salah BOUTAF
+19.18 11-9
+SKB Mål
+PL
+20
+Morten BALLING
+1
+Simon GADE
+20.04
+AAH Skud forbi
+VB
+13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+20.39
+SKB Skud reddet
+PL
+24
+Mathias BITSCH
+1
+Simon GADE
+20.49 11-10 AAH Mål
+2:e
+21
+Henrik MØLLGAARD
+Assist
+13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+21.23 12-10 SKB Mål
+PL
+24
+Mathias BITSCH
+1
+Simon GADE
+21.56
+AAH Tilkendt straffe
+7
+Felix CLAAR
+Forårs. str.
+21
+Mathias SMED
+21.56
+SKB Udvisning
+21
+Mathias SMED
+21.58 12-11 AAH Mål på straffe
+6
+Sebastian BARTHOLD
+12
+Salah BOUTAF
+22.58
+SKB Fejlaflevering
+23
+Cornelius KRAGH
+Bold erobret 22
+Rene ANTONSEN
+23.03 12-12 AAH Mål
+1:e
+19
+Mark STRANDGAARD
+Assist
+22
+Rene ANTONSEN
+12
+Salah BOUTAF
+23.03
+SKB Time out
+23.29
+SKB Fejlaflevering
+6
+Kristian BONEFELD
+23.51
+AAH Fejlaflevering
+21
+Henrik MØLLGAARD
+23.54 13-12 SKB Mål
+1:e
+4
+Lars SKAARUP
+Assist
+23
+Cornelius KRAGH
+1
+Simon GADE
+24.36
+AAH Skud reddet
+PL
+7
+Felix CLAAR
+12
+Salah BOUTAF
+25.14
+SKB Skud reddet
+PL
+23
+Cornelius KRAGH
+1
+Simon GADE
+25.19 13-13 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+12
+Salah BOUTAF
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skanderborg Håndbold - Aalborg Håndbold   33 - 29  (16 - 16)
+256058 / 4-2-2021 / Fælledhallen - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.57
+SKB Tilkendt straffe
+18
+Marcus MØRK
+Forårs. str.
+20
+Mads CHRISTIANSEN
+25.57
+AAH Udvisning
+20
+Mads CHRISTIANSEN
+26.01 14-13 SKB Mål på straffe
+20
+Morten BALLING
+1
+Simon GADE
+26.37 14-14 AAH Mål
+Gbr
+7
+Felix CLAAR
+12
+Salah BOUTAF
+27.01 15-14 SKB Mål
+VF
+4
+Lars SKAARUP
+1
+Simon GADE
+27.49
+AAH Skud reddet
+PL
+7
+Felix CLAAR
+12
+Salah BOUTAF
+27.56
+SKB Fejlaflevering
+6
+Kristian BONEFELD
+28.34 15-15 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+15
+Andreas Holst JENSEN
+12
+Salah BOUTAF
+29.30
+SKB Tabt bold
+11
+Thomas ARNOLDSEN
+Bold erobret
+7
+Felix CLAAR
+29.34 15-16 AAH Mål
+1:e
+19
+Mark STRANDGAARD
+Assist
+7
+Felix CLAAR
+12
+Salah BOUTAF
+29.57 16-16 SKB Mål
+VF
+4
+Lars SKAARUP
+Assist
+18
+Marcus MØRK
+1
+Simon GADE
+29.58
+AAH Time out
+29.59
+AAH Skud forbi
+PL
+21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+30.00 16-16
+Halvleg
+30.31 17-16 SKB Mål
+PL
+23
+Cornelius KRAGH
+16
+Mikael AGGEFORS
+31.04 17-17 AAH Mål
+Gbr 21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+31.45 18-17 SKB Mål
+PL
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+32.27
+AAH Fejlaflevering
+21
+Henrik MØLLGAARD
+32.38
+SKB Fejlaflevering
+23
+Cornelius KRAGH
+Bold erobret 21
+Henrik MØLLGAARD
+32.43
+AAH Skud reddet
+1:e
+19
+Mark STRANDGAARD
+Retur
+6
+Sebastian BARTHOLD
+12
+Salah BOUTAF
+32.49 18-18 AAH Mål
+2:e
+6
+Sebastian BARTHOLD
+12
+Salah BOUTAF
+33.24 19-18 SKB Mål
+VB
+23
+Cornelius KRAGH
+16
+Mikael AGGEFORS
+34.28 19-19 AAH Mål
+PL
+21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+35.00 20-19 SKB Mål
+PL
+23
+Cornelius KRAGH
+16
+Mikael AGGEFORS
+35.49
+AAH Fejlaflevering
+21
+Henrik MØLLGAARD
+Bold erobret 15
+Mike HAACK
+35.54 21-19 SKB Mål
+1:e
+4
+Lars SKAARUP
+Assist
+21
+Mathias SMED
+16
+Mikael AGGEFORS
+36.28
+SKB Udvisning
+6
+Kristian BONEFELD
+36.28
+SKB Rødt kort
+6
+Kristian BONEFELD
+36.53 21-20 AAH Mål
+Gbr 11
+Lukas SANDELL
+12
+Salah BOUTAF
+37.29
+AAH Udvisning
+21
+Henrik MØLLGAARD
+37.41 22-20 SKB Mål
+HF
+15
+Mike HAACK
+Assist
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+38.12 22-21 AAH Mål
+HB 11
+Lukas SANDELL
+12
+Salah BOUTAF
+38.42
+SKB Skud reddet
+VF
+4
+Lars SKAARUP
+16
+Mikael AGGEFORS
+39.42 22-22 AAH Mål
+Gbr 13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+40.14
+SKB Fejlaflevering
+23
+Cornelius KRAGH
+Bold erobret 19
+Mark STRANDGAARD
+40.14
+SKB Udvisning
+23
+Cornelius KRAGH
+40.46 22-23 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+7
+Felix CLAAR
+12
+Salah BOUTAF
+40.46
+SKB Udvisning
+4
+Lars SKAARUP
+41.35
+AAH Udvisning
+19
+Mark STRANDGAARD
+42.12
+SKB Skud reddet
+PL
+11
+Thomas ARNOLDSEN
+16
+Mikael AGGEFORS
+42.42
+AAH Skud reddet
+Gbr 21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+42.46 23-23 SKB Mål
+1:e
+2
+Nikolaj NIELSEN
+0
+43.35 23-24 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+7
+Felix CLAAR
+12
+Salah BOUTAF
+44.13 24-24 SKB Mål
+VF
+4
+Lars SKAARUP
+Assist
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+44.13
+AAH Udvisning
+4
+Mikkel Lang RASMUSSEN
+44.45 24-25 AAH Mål
+Gbr 11
+Lukas SANDELL
+Assist
+7
+Felix CLAAR
+12
+Salah BOUTAF
+44.53
+SKB Skud forbi
+2:e
+2
+Nikolaj NIELSEN
+0
+45.50
+AAH Fejlaflevering
+21
+Henrik MØLLGAARD
+46.11
+SKB Skud reddet
+VF
+4
+Lars SKAARUP
+16
+Mikael AGGEFORS
+46.19
+AAH Time out
+46.40
+AAH Skud reddet
+ST
+6
+Sebastian BARTHOLD
+12
+Salah BOUTAF
+47.16 25-25 SKB Mål
+Gbr 20
+Morten BALLING
+16
+Mikael AGGEFORS
+47.24
+AAH Skud reddet
+2:e
+13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+47.54
+SKB Fejlaflevering
+20
+Morten BALLING
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skanderborg Håndbold - Aalborg Håndbold   33 - 29  (16 - 16)
+256058 / 4-2-2021 / Fælledhallen - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+48.03
+AAH Fejlaflevering
+7
+Felix CLAAR
+Bold erobret 21
+Mathias SMED
+48.47
+SKB Time out
+49.12 26-25 SKB Mål
+Gbr 11
+Thomas ARNOLDSEN
+16
+Mikael AGGEFORS
+49.44
+AAH Tilkendt straffe
+11
+Lukas SANDELL
+Forårs. str.
+11
+Thomas ARNOLDSEN
+50.03
+AAH Straffekast reddet
+6
+Sebastian BARTHOLD
+12
+Salah BOUTAF
+50.46 27-25 SKB Mål
+Gbr 18
+Marcus MØRK
+16
+Mikael AGGEFORS
+50.57 27-26 AAH Mål
+2:e
+11
+Lukas SANDELL
+12
+Salah BOUTAF
+51.39
+SKB Skud på stolpe
+Gbr 11
+Thomas ARNOLDSEN
+Retur
+4
+Lars SKAARUP
+16
+Mikael AGGEFORS
+51.46 28-26 SKB Mål
+Gbr
+4
+Lars SKAARUP
+16
+Mikael AGGEFORS
+52.02 28-27 AAH Mål
+2:e
+11
+Lukas SANDELL
+12
+Salah BOUTAF
+52.30 29-27 SKB Mål
+HB 20
+Morten BALLING
+16
+Mikael AGGEFORS
+52.47
+AAH Tilkendt straffe
+7
+Felix CLAAR
+Forårs. str.
+7
+Mads KALSTRUP
+53.03
+AAH Straffekast reddet
+6
+Sebastian BARTHOLD
+12
+Salah BOUTAF
+53.40 30-27 SKB Mål
+ST
+2
+Nikolaj NIELSEN
+Assist
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+54.08 30-28 AAH Mål
+Gbr 13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+55.02
+SKB Skud reddet
+Gbr 18
+Marcus MØRK
+1
+Simon GADE
+55.43
+AAH Tabt bold
+11
+Lukas SANDELL
+56.19 31-28 SKB Mål
+HF
+15
+Mike HAACK
+Assist
+20
+Morten BALLING
+1
+Simon GADE
+56.51 31-29 AAH Mål
+VB
+13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+57.38
+SKB Skud reddet
+VB
+18
+Marcus MØRK
+1
+Simon GADE
+58.22
+SKB Udvisning
+2
+Nikolaj NIELSEN
+58.34
+AAH Skud på stolpe
+HB 11
+Lukas SANDELL
+12
+Salah BOUTAF
+58.56 32-29 SKB Mål
+Gbr 11
+Thomas ARNOLDSEN
+1
+Simon GADE
+59.14
+AAH Tilkendt straffe
+11
+Lukas SANDELL
+Forårs. str.
+4
+Lars SKAARUP
+59.21
+AAH Straffekast reddet
+21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+59.59 33-29 SKB Mål
+Gbr 23
+Cornelius KRAGH
+1
+Simon GADE
+60.00 33-29
+Fuld tid
+Software: Jilsén System AB. Logget af: Magnus Runge, Andreas Bernhardt,

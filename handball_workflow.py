@@ -43,10 +43,10 @@ except ImportError:
 # KONFIGURATION
 #---------------------------
 # Vælg liga: 'kvindeligaen', 'herreligaen', eller 'begge'
-DEFAULT_LIGA = 'herreligaen'
+DEFAULT_LIGA = 'kvindeligaen'
 
 # Vælg sæson (format: 'ÅÅÅÅ-ÅÅÅÅ')
-DEFAULT_SAESON = '2023-2024'
+DEFAULT_SAESON = '2024-2025'
 
 # Detaljeret logging til terminal
 VERBOSE_OUTPUT = True
@@ -81,10 +81,48 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler(LOG_FILE),
-        logging.StreamHandler()
+        logging.FileHandler(LOG_FILE, encoding='utf-8'),
+        logging.StreamHandler(stream=sys.stdout)
     ]
 )
+
+# Sæt encoding for StreamHandler's stream (stdout) hvis muligt for at forbedre konsol output
+if hasattr(sys.stdout, 'reconfigure') and hasattr(sys.stdout, 'encoding') and sys.stdout.encoding != 'utf-8':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+        # Initialiser StreamHandler igen for at bruge den rekonfigurerede stdout
+        # Fjern først den gamle StreamHandler hvis den findes
+        logger = logging.getLogger("workflow")
+        for handler in logger.handlers[:]: # Iterer over en kopi
+            if isinstance(handler, logging.StreamHandler) and handler.stream == sys.stdout:
+                logger.removeHandler(handler)
+        
+        # Tilføj ny StreamHandler med potentielt rekonfigureret sys.stdout
+        # Vi skal genskabe loggeren eller i hvert fald dens handlers for at dette slår igennem korrekt.
+        # For simpelhedens skyld, da basicConfig allerede er kaldt, tilføjer vi en ny korrekt konfigureret StreamHandler.
+        # Det er vigtigt at fjerne den gamle for at undgå dobbelt logning til konsollen.
+        # En mere robust løsning kunne være at omstrukturere logging setup helt.
+
+        # Gen-initialiser root logger handlers for at sikre stdout encoding
+        # Dette er en lidt mere aggressiv måde, men sikrer at StreamHandler bruger den nye encoding.
+        # Først, fjern eksisterende handlers for root loggeren
+        for handler in logging.root.handlers[:]:
+            logging.root.removeHandler(handler)
+        
+        # Gen-konfigurer basicConfig med den opdaterede sys.stdout
+        logging.basicConfig(
+            level=logging.INFO,
+            format='%(asctime)s - %(levelname)s - %(message)s',
+            handlers=[
+                logging.FileHandler(LOG_FILE, encoding='utf-8'),
+                logging.StreamHandler(stream=sys.stdout) # sys.stdout bør nu være utf-8
+            ]
+        )
+        logger = logging.getLogger("workflow") # Genhent loggeren
+        log("UTF-8 encoding for konsol forsøgt aktiveret.", level=1)
+    except Exception as e:
+        log(f"Kunne ikke rekonfigurere sys.stdout til UTF-8: {e}", level=1)
+
 logger = logging.getLogger("workflow")
 
 # Få aktuel arbejdsmappe
@@ -361,48 +399,36 @@ def parse_arguments():
 
 def setup_configuration(args, liga_name=None):
     """
-    Opsætter konfiguration baseret på kommandolinje-argumenter og liga
-    
-    Args:
-        args: Kommandolinje-argumenter
-        liga_name: Liganavn (hvis None, bruges args.liga)
-        
-    Returns:
-        tuple: Tupler med stier til input, output og øvrige mappeinformationer
+    Udvidet til at understøtte 1. division (mapper og url-slugs)
     """
-    # Brug liga fra argumenter hvis ikke specifikt angivet
     if liga_name is None:
         liga_name = args.liga
-    
-    # Konverter liga-navn til mappenavn (fjern 'en' fra slutningen)
-    liga_mappe = liga_name
-    if liga_mappe.endswith('en'):
-        liga_mappe = liga_mappe[:-2]
-    liga_mappe = liga_mappe.capitalize()
-    
-    # Oprette basisstinavne for mapper
+    # Map til korrekt url-slug hvis nødvendigt
+    url_slug = LIGA_URL_MAP.get(liga_name, liga_name)
+    # Mapper til mappenavne
+    if liga_name == 'kvindeligaen':
+        liga_mappe = 'Kvindeliga'
+    elif liga_name == 'herreligaen':
+        liga_mappe = 'Herreliga'
+    elif liga_name == '1divisionkvinder':
+        liga_mappe = '1-Division-Kvinder'
+    elif liga_name == '1divisionherrer':
+        liga_mappe = '1-Division-Herrer'
+    else:
+        liga_mappe = liga_name.capitalize()
     pdf_dir = os.path.join(liga_mappe, args.sæson)
     txt_dir = os.path.join(f"{liga_mappe}-txt-tabel", args.sæson)
     db_dir = os.path.join(f"{liga_mappe}-database", args.sæson)
-    
-    # Vis de opsatte stier
     log(f"Opsætter mappestruktur for {liga_mappe}:", level=1)
     log(f"PDF-mappe: {pdf_dir}", level=2)
     log(f"TXT-mappe: {txt_dir}", level=2)
     log(f"DB-mappe: {db_dir}", level=2)
-    
-    # Sørg for at alle mapper eksisterer
     os.makedirs(pdf_dir, exist_ok=True)
     os.makedirs(txt_dir, exist_ok=True)
     os.makedirs(db_dir, exist_ok=True)
-    
-    # Første år i sæsonen, bruges i URL
     year = args.sæson.split('-')[0]
-    
-    # Opret URL til liga
     base_url = "https://tophaandbold.dk"
-    kampprogram_url = f"{base_url}/kampprogram/{liga_name}?year={year}&team=&home_game=0&home_game=1&away_game=0&away_game=1"
-    
+    kampprogram_url = f"{base_url}/kampprogram/{url_slug}?year={year}&team=&home_game=0&home_game=1&away_game=0&away_game=1"
     return pdf_dir, txt_dir, db_dir, base_url, kampprogram_url
 
 #---------------------------
@@ -770,77 +796,143 @@ def process_unfinished_files(unprocessed_info, args, tracking_data):
     
     # 2. Konverter PDF-filer der mangler TXT-konvertering
     if unprocessed_info["pdfs_need_txt"]:
-        log(f"Fandt {len(unprocessed_info['pdfs_need_txt'])} PDF-filer der mangler TXT-konvertering", level=1)
+        log(f"Fandt {len(unprocessed_info['pdfs_need_txt'])} PDF-filer der potentielt mangler TXT-konvertering:", level=1)
+        for pdf_f in unprocessed_info["pdfs_need_txt"]:
+            log(f"  - {os.path.basename(pdf_f)}", level=2)
+            
         pdf_to_text_script = get_script_path("pdf_to_text_converter.py")
         
         if os.path.exists(pdf_to_text_script):
-            log(f"Kører PDF til TXT konvertering...", level=1)
+            log(f"Kører PDF til TXT konvertering (Script: {pdf_to_text_script})...", level=1)
+            # Det er vigtigt at videregive de korrekte argumenter, hvis pdf_to_text_converter.py forventer specifikke filer.
+            # Lige nu kaldes det generisk for liga/sæson, hvilket er standard opførsel.
             success = run_script("pdf_to_text_converter.py", "PDF til TXT konvertering", args)
             
             if success:
-                # Kontroller hvilke TXT-filer der er blevet genereret
+                log("PDF til TXT konverteringsscript kørt succesfuldt (exit code 0). Kontrollerer output...", level=1)
                 converted_count = 0
                 for pdf_path in unprocessed_info["pdfs_need_txt"]:
                     pdf_filename = os.path.basename(pdf_path)
                     pdf_dir = os.path.dirname(pdf_path)
-                    liga_mappe = os.path.basename(os.path.dirname(os.path.dirname(pdf_path))) if os.path.dirname(os.path.dirname(pdf_path)) else ""
+                    # Antager standard mappestruktur. Vær sikker på at dette stemmer overens med pdf_to_text_converter.py's output.
+                    liga_folder_name_in_pdf_path = os.path.basename(os.path.dirname(pdf_dir)) # F.eks. Kvindeliga, Herreliga
+                    txt_root_folder_name = f"{liga_folder_name_in_pdf_path}-txt-tabel"
+                    season_folder_name = os.path.basename(pdf_dir) # F.eks. 2024-2025
                     
-                    # Find den tilsvarende TXT-mappe
-                    txt_dir = pdf_dir.replace(liga_mappe, f"{liga_mappe}-txt-tabel")
-                    txt_path = os.path.join(txt_dir, pdf_filename.replace('.pdf', '.txt'))
-                    
-                    # Hvis TXT-filen blev oprettet, marker den som behandlet
-                    if os.path.exists(txt_path) and os.path.getsize(txt_path) > 100:
-                        mark_file_processed(txt_path, 'txt', tracking_data)
-                        converted_count += 1
+                    # Korrekt måde at finde TXT-mappen på, baseret på setup_configuration
+                    # Dette kræver at args (liga, sæson) er konsistent med pdf_path
+                    # For at være robust, udled liga og sæson fra pdf_path hvis muligt, eller brug de globale args.
+                    # Her bruger vi en simplificeret tilgang baseret på den eksisterende logik.
+                    # Overvej at gøre dette mere robust hvis mappestrukturerne kan variere meget.
+                    current_pdf_liga_name = args.liga # Antager at den process_liga kalder med korrekt liga for de filer der er i unprocessed_info.
+                    current_pdf_saeson = args.sæson # Samme antagelse for sæson
+
+                    # Brug setup_configuration til at få den korrekte txt_dir for den specifikke pdf
+                    # Dette er en smule komplekst her, da setup_configuration tager args objekt.
+                    # Vi forsøger at rekonstruere det.
+                    # Find den korrekte liga-mappe for TXT-filen
+                    # Dette er en forenkling og kan have brug for justering afhængig af den præcise logik i setup_configuration
+                    # og hvordan `unprocessed_info["pdfs_need_txt"]` er befolket på tværs af forskellige liga/sæson kald.
+                    # Den oprindelige kode var: txt_dir = pdf_dir.replace(liga_mappe, f"{liga_mappe}-txt-tabel")
+                    # Vi forsøger at være lidt mere eksplicitte
+                    # Dette er stadig en smule problematisk hvis `process_unfinished_files` kaldes med filer fra forskellige `args.liga` kontekster.
+                    # For nu, bibeholder vi den oprindelige logik for TXT-mappens sti for konsistens.
+                    liga_mappe_raw = os.path.basename(os.path.dirname(os.path.dirname(pdf_path))) 
+                    txt_dir_path = os.path.join(os.path.dirname(os.path.dirname(pdf_dir)), f"{liga_mappe_raw}-txt-tabel", season_folder_name)
+                    txt_path = os.path.join(txt_dir_path, pdf_filename.replace('.pdf', '.txt'))
+
+                    log(f"  Tjekker for TXT-fil for {pdf_filename}: {txt_path}", level=2)
+                    if os.path.exists(txt_path):
+                        txt_size = os.path.getsize(txt_path)
+                        log(f"    TXT-fil fundet. Størrelse: {txt_size} bytes.", level=3)
+                        if txt_size > 100:
+                            mark_file_processed(txt_path, 'txt', tracking_data)
+                            converted_count += 1
+                            log(f"      Markeret {os.path.basename(txt_path)} som behandlet (TXT) og talt med.", level=3)
+                        else:
+                            log(f"      TXT-fil er for lille ({txt_size} bytes <= 100 bytes). Ikke markeret eller talt med.", level=3)
+                    else:
+                        log(f"    TXT-fil IKKE fundet: {txt_path}", level=3)
                 
                 results["txt_converted"] = converted_count
-                log(f"Konverterede {converted_count} PDF-filer til TXT", level=1)
+                log(f"Antal PDF-filer succesfuldt verificeret som konverteret til TXT: {converted_count}", level=1)
                 
             else:
-                log(f"PDF til TXT konvertering fejlede", level=1)
+                log(f"PDF til TXT konverteringsscript fejlede (non-zero exit code).", level=1)
         else:
-            log(f"PDF til TXT konverteringsscript ikke fundet: {pdf_to_text_script}", level=1)
+            log(f"PDF til TXT konverteringsscript IKKE fundet: {pdf_to_text_script}", level=1)
     
     # 3. Konverter TXT-filer der mangler DB-konvertering
     if unprocessed_info["txts_need_db"]:
-        log(f"Fandt {len(unprocessed_info['txts_need_db'])} TXT-filer der mangler DB-konvertering", level=1)
+        log(f"Fandt {len(unprocessed_info['txts_need_db'])} TXT-filer der potentielt mangler DB-konvertering:", level=1)
+        for txt_f in unprocessed_info["txts_need_db"]:
+            log(f"  - {os.path.basename(txt_f)}", level=2)
+
         db_processor_script = get_script_path("handball_data_processor.py")
         
         if os.path.exists(db_processor_script):
-            log(f"Kører TXT til DB konvertering...", level=1)
+            log(f"Kører TXT til DB konvertering (Script: {db_processor_script})...", level=1)
+            # Ligesom med PDF->TXT, kaldes dette generisk for liga/sæson.
             success = run_script("handball_data_processor.py", "TXT til DB konvertering", args)
             
             if success:
-                # Efter konvertering, find nyoprettede DB-filer
+                log("TXT til DB konverteringsscript kørt succesfuldt (exit code 0). Kontrollerer output...", level=1)
                 db_processed_count = 0
-                
-                # For hver TXT-fil, find tilsvarende DB-fil
                 for txt_path in unprocessed_info["txts_need_db"]:
                     txt_filename = os.path.basename(txt_path)
+                    log(f"  Tjekker for DB-fil relateret til {txt_filename}", level=2)
                     match_id_match = re.search(r'match_(\d+)', txt_filename)
                     
                     if match_id_match:
                         match_id = match_id_match.group(1)
-                        db_dir = os.path.dirname(txt_path).replace("-txt-tabel", "-database")
-                        
-                        # Søg efter DB-filer med dette match_id
-                        for db_filename in os.listdir(db_dir):
+                        # Udled DB mappe baseret på TXT mappens sti
+                        # Oprindelig logik: db_dir_path = os.path.dirname(txt_path).replace("-txt-tabel", "-database")
+                        # Dette antager en konsistent navngivning og struktur.
+                        txt_dir_actual = os.path.dirname(txt_path)
+                        # Eksempel: /path/til/Kvindeliga-txt-tabel/2024-2025 -> /path/til/Kvindeliga-database/2024-2025
+                        # Vi skal være forsigtige med replace, hvis "-txt-tabel" kunne optræde andre steder i stien.
+                        # En mere robust måde er at gå op og så ned igen.
+                        # parent_of_txt_dir = os.path.dirname(txt_dir_actual) # /path/til/
+                        # base_name_of_txt_dir = os.path.basename(txt_dir_actual) # Kvindeliga-txt-tabel
+                        # base_name_of_db_dir = base_name_of_txt_dir.replace("-txt-tabel", "-database")
+                        # db_dir_path = os.path.join(parent_of_txt_dir, base_name_of_db_dir)
+                        # Den oprindelige metode er dog simplere, hvis navngivningskonventionen er streng.
+                        # For nu, bibeholder vi den oprindelige logik for DB-mappens sti.
+                        # Dette er en kritisk del - stien til DB-mappen skal være korrekt.
+                        db_dir_for_match = os.path.dirname(txt_path).replace("-txt-tabel", "-database")
+                        log(f"    Søger efter DB-fil for match_id {match_id} i mappen: {db_dir_for_match}", level=3)
+
+                        if not os.path.isdir(db_dir_for_match):
+                            log(f"      ADVARSEL: Forventet DB-mappe findes ikke: {db_dir_for_match}. Kan ikke finde DB-fil.", level=4)
+                            continue # Gå til næste TXT-fil
+                            
+                        db_file_found_for_txt = False
+                        for db_filename in os.listdir(db_dir_for_match):
                             if db_filename.endswith('.db') and match_id in db_filename:
-                                db_path = os.path.join(db_dir, db_filename)
-                                
-                                # Marker DB-filen som behandlet
-                                if os.path.getsize(db_path) > 1000:  # DB skal være over 1KB
+                                db_path = os.path.join(db_dir_for_match, db_filename)
+                                log(f"      Potentiel DB-fil fundet: {db_path}", level=4)
+                                db_size = os.path.getsize(db_path)
+                                log(f"        Størrelse: {db_size} bytes.", level=5)
+                                if db_size > 1000:  # DB skal være over 1KB
                                     mark_file_processed(db_path, 'db', tracking_data)
                                     db_processed_count += 1
+                                    db_file_found_for_txt = True
+                                    log(f"          Markeret {db_filename} som behandlet (DB) og talt med.", level=5)
+                                    break # Fundet DB for denne TXT, gå videre
+                                else:
+                                    log(f"        DB-fil er for lille ({db_size} bytes <= 1000 bytes). Ikke markeret eller talt med.", level=5)
+                        if not db_file_found_for_txt:
+                            log(f"      Ingen gyldig DB-fil fundet for match_id {match_id} i {db_dir_for_match}", level=4)
+                    else:
+                        log(f"    Kunne ikke udtrække match_id fra TXT-filnavn: {txt_filename}. Kan ikke finde DB-fil.", level=3)
                 
                 results["db_processed"] = db_processed_count
-                log(f"Konverterede {db_processed_count} TXT-filer til DB", level=1)
+                log(f"Antal TXT-filer succesfuldt verificeret som konverteret til DB: {db_processed_count}", level=1)
                 
             else:
-                log(f"TXT til DB konvertering fejlede", level=1)
+                log(f"TXT til DB konverteringsscript fejlede (non-zero exit code).", level=1)
         else:
-            log(f"TXT til DB konverteringsscript ikke fundet: {db_processor_script}", level=1)
+            log(f"TXT til DB konverteringsscript IKKE fundet: {db_processor_script}", level=1)
     
     # Gem tracking data
     save_tracking_data(tracking_data)
@@ -1235,26 +1327,18 @@ def process_liga(args, liga_name, tracking_data):
 
 def main():
     """
-    Kører hele workflowet i rækkefølge for de valgte ligaer
+    Kører hele workflowet i rækkefølge for de valgte ligaer og sæsoner
     """
-    # Vis velkomst
     log("=" * 80, is_important=True)
     log("HÅNDBOLDHÆNDELSER WORKFLOW", is_important=True)
     log(f"Dato og tid: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}", is_important=True)
     log(f"Script version: 2.2 (forbedret processeringskæde-tracking)", is_important=True)
     log("=" * 80, is_important=True)
-    
-    # Parse argumenter
     args = parse_arguments()
-    
-    # Indlæs tracking data
     tracking_data = load_tracking_data()
     log(f"Indlæst tracking data for {len(tracking_data['pdf_files'])} PDF-filer, " +
         f"{len(tracking_data['txt_files'])} TXT-filer og {len(tracking_data['db_files'])} DB-filer", level=1)
-    
     workflow_start = time.time()
-    
-    # Total resultater
     total_results = {
         "pdf_downloaded": 0,
         "pdf_skipped": 0,
@@ -1265,54 +1349,102 @@ def main():
         "db_processed": 0,
         "db_skipped": 0
     }
-    
-    # Proces de valgte ligaer
-    if args.liga == 'herreligaen' or args.liga == 'begge':
-        log("\n\n" + "=" * 80, is_important=True)
-        log("PROCESSERER HERRELIGAEN", is_important=True)
-        log("=" * 80, is_important=True)
-        
-        herreliga_results, invalid_removed = process_liga(args, 'herreligaen', tracking_data)
-        # Opdater total resultater
-        for key in herreliga_results:
-            total_results[key] += herreliga_results[key]
-        total_results["pdf_invalid_removed"] += invalid_removed
-    
-    if args.liga == 'kvindeligaen' or args.liga == 'begge':
-        log("\n\n" + "=" * 80, is_important=True)
-        log("PROCESSERER KVINDELIGAEN", is_important=True)
-        log("=" * 80, is_important=True)
-        
-        kvindeliga_results, invalid_removed = process_liga(args, 'kvindeligaen', tracking_data)
-        # Opdater total resultater
-        for key in kvindeliga_results:
-            total_results[key] += kvindeliga_results[key]
-        total_results["pdf_invalid_removed"] += invalid_removed
-    
+    # --- Fase 1: Topligaer ---
+    topliga_nyeste = args.sæson
+    topliga_historiske = generate_season_list(args.sæson, '2017-2018')[1:] # ekskluder nyeste
+    topliga_seasons = [topliga_nyeste] + topliga_historiske
+    # Først nyeste sæson: Kvindeligaen -> Herreligaen
+    for liga in ['kvindeligaen', 'herreligaen']:
+        log(f"\n{'='*80}", is_important=True)
+        log(f"PROCESSERER {liga.upper()} {topliga_nyeste}", is_important=True)
+        log(f"{'='*80}", is_important=True)
+        res, invalid = process_liga(argparse.Namespace(liga=liga, sæson=topliga_nyeste, verbose=args.verbose), liga, tracking_data)
+        for key in res:
+            total_results[key] += res[key]
+        total_results["pdf_invalid_removed"] += invalid
+    # Derefter historiske sæsoner: Herreligaen -> Kvindeligaen
+    for season in topliga_historiske:
+        for liga in ['herreligaen', 'kvindeligaen']:
+            log(f"\n{'='*80}", is_important=True)
+            log(f"PROCESSERER {liga.upper()} {season}", is_important=True)
+            log(f"{'='*80}", is_important=True)
+            res, invalid = process_liga(argparse.Namespace(liga=liga, sæson=season, verbose=args.verbose), liga, tracking_data)
+            for key in res:
+                total_results[key] += res[key]
+            total_results["pdf_invalid_removed"] += invalid
+    # --- Fase 2: 1. Division ---
+    # Tjek om alle topligaer er færdigbehandlet
+    if not all_top_leagues_processed(tracking_data, topliga_seasons):
+        log("ADVARSEL: Fase 2 (1. division) starter, selvom ikke alle topligaer ser ud til at være færdigbehandlet. Der kan være ubehandlede filer fra Fase 1.", is_important=True)
+
+    # Kør altid Fase 2
+    division_seasons = generate_season_list(args.sæson, '2018-2019')
+    for season in division_seasons:
+        for liga in ['1divisionherrer', '1divisionkvinder']:
+            log(f"\n{'='*80}", is_important=True)
+            log(f"PROCESSERER {liga.upper()} {season}", is_important=True)
+            log(f"{'='*80}", is_important=True)
+            res, invalid = process_liga(argparse.Namespace(liga=liga, sæson=season, verbose=args.verbose), liga, tracking_data)
+            for key in res:
+                total_results[key] += res[key]
+            total_results["pdf_invalid_removed"] += invalid
+            
     workflow_end = time.time()
     duration = workflow_end - workflow_start
-    
-    # Gem tracking data en sidste gang
     save_tracking_data(tracking_data)
-    
-    # Vis samlet opsummering
     log("\n\n" + "=" * 80, is_important=True)
     log("WORKFLOW AFSLUTTET", is_important=True)
     log("=" * 80, is_important=True)
-    
     log(f"Liga: {args.liga}, Sæson: {args.sæson}", level=1)
     log(f"Total køretid: {duration:.2f} sekunder ({duration/60:.2f} minutter)", level=1)
-    
     log(f"Samlet resultat:", level=1, is_important=True)
     log(f"  PDF: {total_results['pdf_downloaded']} downloadet, {total_results['pdf_skipped']} sprunget over, {total_results['pdf_failed']} fejlet", level=1)
     log(f"  PDF Validering: {total_results['pdf_invalid_removed']} ugyldige PDF-filer fjernet", level=1)
     log(f"  TXT: {total_results['txt_converted']} konverteret, {total_results['txt_skipped']} sprunget over", level=1)
     log(f"  DB: {total_results['db_processed']} behandlet, {total_results['db_skipped']} sprunget over", level=1)
-    
     log(f"\nAlle filer er nu behandlet gennem hele processerings-kæden (PDF→TXT→DB).", level=0, is_important=True)
-    
-    # Returnér 0 for succes
     return 0
+
+# Hjælpefunktion til at generere sæsonlister
+
+def generate_season_list(start_season, end_season):
+    """
+    Genererer en liste af sæsoner fra start_season til end_season (inklusive), nyeste først.
+    Eksempel: generate_season_list('2024-2025', '2017-2018')
+    Returnerer: ['2024-2025', '2023-2024', ..., '2017-2018']
+    """
+    start_year = int(start_season.split('-')[0])
+    end_year = int(end_season.split('-')[0])
+    return [f"{y}-{y+1}" for y in range(start_year, end_year-1, -1)]
+
+# Hjælpefunktion til at tjekke om alle topligaer er færdigbehandlet
+
+def all_top_leagues_processed(tracking_data, topliga_seasons):
+    """
+    Tjekker om alle topliga-sæsoner (kvinde/herre) er færdigbehandlet (PDF->TXT->DB)
+    """
+    for season in topliga_seasons:
+        for liga in ['kvindeligaen', 'herreligaen']:
+            args = argparse.Namespace(liga=liga, sæson=season, verbose=False)
+            pdf_dir, txt_dir, db_dir, _, _ = setup_configuration(args, liga)
+            # Tjek om der er nogen ubehandlede filer
+            unprocessed = find_unprocessed_files(pdf_dir, txt_dir, db_dir, tracking_data)
+            if unprocessed['invalid_pdfs'] or unprocessed['pdfs_need_txt'] or unprocessed['txts_need_db']:
+                print(f"[DEBUG] Ikke færdig: {liga} {season}")
+                return False
+    return True
+
+# Udvidet liga-slug mapping for 1. division
+LIGA_URL_MAP = {
+    'kvindeligaen': 'kvindeligaen',
+    'herreligaen': 'herreligaen',
+    '1divisionkvinder': '1-division-kvinder',
+    '1divisionherrer': '1-division-herrer',
+}
+
+# Overskriv den gamle setup_configuration
+import builtins
+builtins.setup_configuration = setup_configuration
 
 if __name__ == "__main__":
     exit_code = main()

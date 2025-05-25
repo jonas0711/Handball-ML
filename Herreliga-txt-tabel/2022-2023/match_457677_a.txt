@@ -1,0 +1,944 @@
+KAMPHÆNDELSER
+Nordsjælland Håndbold - Bjerringbro-Silkeborg   28 - 30  (12 - 16)
+457677 / 29-10-2022 / Helsingør-hallen 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.43
+NSH Skud reddet
+HB 57
+Nikolaj LARSSON
+Retur
+0
+16
+Mikkel Møller LØVKVIST
+1.07
+1-0
+NSH Mål
+ST
+5
+Julius MØRCH
+Assist
+57
+Nikolaj LARSSON
+16
+Mikkel Møller LØVKVIST
+1.56
+1-1
+BSH Mål
+HB 26
+Peter BALLING
+1
+Frederik ANDERSSON
+2.28
+2-1
+NSH Mål
+PL
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+4.10
+2-2
+BSH Mål
+HB 26
+Peter BALLING
+1
+Frederik ANDERSSON
+4.42
+NSH Skud på stolpe
+VB
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+4.49
+2-3
+BSH Mål
+2:e
+15
+Mads Kjeldgaard ANDERSEN
+1
+Frederik ANDERSSON
+5.26
+3-3
+NSH Mål
+PL
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+5.36
+3-4
+BSH Mål
+2:e
+26
+Peter BALLING
+1
+Frederik ANDERSSON
+5.42
+NSH Udvisning
+5
+Julius MØRCH
+6.28
+NSH Fejlaflevering
+17
+Nichlas HALD
+6.34
+3-5
+BSH Mål
+1:e
+22
+Aksel HORGEN
+Assist
+26
+Peter BALLING
+1
+Frederik ANDERSSON
+7.03
+NSH Skud blokeret
+PL
+2
+Tobias JØRGENSEN
+Blok af (ret)
+44
+Thomas Alfred SOLSTAD
+7.21
+NSH Regelfejl
+57
+Nikolaj LARSSON
+7.36
+3-6
+BSH Mål
+VB
+15
+Mads Kjeldgaard ANDERSEN
+1
+Frederik ANDERSSON
+8.13
+NSH Skud reddet
+Gbr
+2
+Tobias JØRGENSEN
+16
+Mikkel Møller LØVKVIST
+8.13
+NSH Udvisning
+2
+Tobias JØRGENSEN
+8.42
+3-7
+BSH Mål
+Gbr 26
+Peter BALLING
+1
+Frederik ANDERSSON
+9.18
+NSH Skud reddet
+Gbr 17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+9.40
+BSH Skud reddet
+VB
+15
+Mads Kjeldgaard ANDERSEN
+1
+Frederik ANDERSSON
+10.12
+NSH Regelfejl
+5
+Julius MØRCH
+10.46
+BSH Skud reddet
+ST
+22
+Aksel HORGEN
+1
+Frederik ANDERSSON
+11.34
+4-7
+NSH Mål
+VB
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+11.46
+NSH Advarsel
+17
+Nichlas HALD
+12.18
+BSH Regelfejl
+44
+Thomas Alfred SOLSTAD
+12.22
+5-7
+NSH Mål
+2:e
+57
+Nikolaj LARSSON
+16
+Mikkel Møller LØVKVIST
+12.37
+BSH Tilkendt straffe
+19
+René Toft HANSEN
+Forårs. str.
+44
+Jeppe VILLUMSEN
+12.59
+5-8
+BSH Mål på straffe
+26
+Peter BALLING
+1
+Frederik ANDERSSON
+13.40
+NSH Skud reddet
+PL
+42
+Matias CAMPBELL
+Retur
+5
+Julius MØRCH
+16
+Mikkel Møller LØVKVIST
+13.45
+6-8
+NSH Mål
+ST
+5
+Julius MØRCH
+16
+Mikkel Møller LØVKVIST
+14.15
+6-9
+BSH Mål
+PL
+2
+Ludvig HALLBÄCK
+1
+Frederik ANDERSSON
+15.09
+BSH Advarsel
+26
+Peter BALLING
+15.41
+NSH Skud blokeret
+HB 57
+Nikolaj LARSSON
+Blok af (ret)
+44
+Thomas Alfred SOLSTAD
+15.53
+NSH Fejlaflevering
+17
+Nichlas HALD
+Bold erobret 15
+Mads Kjeldgaard ANDERSEN
+15.57
+6-10
+BSH Mål
+1:e
+44
+Thomas Alfred SOLSTAD
+Assist
+15
+Mads Kjeldgaard ANDERSEN
+1
+Frederik ANDERSSON
+16.33
+NSH Tilkendt straffe
+57
+Nikolaj LARSSON
+Forårs. str.
+15
+Mads Kjeldgaard ANDERSEN
+16.33
+BSH Udvisning
+15
+Mads Kjeldgaard ANDERSEN
+16.37
+7-10
+NSH Mål på straffe
+25
+Jeppe CIESLAK
+16
+Mikkel Møller LØVKVIST
+17.29
+BSH Skud blokeret
+HB 26
+Peter BALLING
+Blokeret af
+42
+Matias CAMPBELL
+17.36
+8-10
+NSH Mål
+1:e
+25
+Jeppe CIESLAK
+Assist
+1
+Frederik ANDERSSON
+16
+Mikkel Møller LØVKVIST
+18.22
+BSH Skud blokeret
+PL
+25
+Emil JESSEN
+Blok af (ret)
+42
+Matias CAMPBELL
+18.37
+BSH Skud reddet
+PL
+25
+Emil JESSEN
+1
+Frederik ANDERSSON
+19.09
+NSH Tilkendt straffe
+42
+Matias CAMPBELL
+Forårs. str.
+26
+Peter BALLING
+19.15
+9-10
+NSH Mål på straffe
+25
+Jeppe CIESLAK
+16
+Mikkel Møller LØVKVIST
+19.47
+BSH Skud reddet
+PL
+15
+Mads Kjeldgaard ANDERSEN
+1
+Frederik ANDERSSON
+19.53 10-10 NSH Mål
+2:e
+9
+Hakan SAHIN
+Assist
+42
+Matias CAMPBELL
+16
+Mikkel Møller LØVKVIST
+20.10 10-11 BSH Mål
+HF
+22
+Aksel HORGEN
+Assist
+26
+Peter BALLING
+1
+Frederik ANDERSSON
+20.43
+NSH Skud reddet
+VB
+42
+Matias CAMPBELL
+16
+Mikkel Møller LØVKVIST
+20.49 10-12 BSH Mål
+2:e
+26
+Peter BALLING
+1
+Frederik ANDERSSON
+21.28
+NSH Skud på stolpe
+PL
+42
+Matias CAMPBELL
+16
+Mikkel Møller LØVKVIST
+22.03
+BSH Skud på stolpe
+HB 26
+Peter BALLING
+1
+Frederik ANDERSSON
+22.29
+NSH Skud reddet
+PL
+18
+Magnus KRONBORG
+16
+Mikkel Møller LØVKVIST
+23.05
+BSH Skud forbi
+HB 26
+Peter BALLING
+1
+Frederik ANDERSSON
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Nordsjælland Håndbold - Bjerringbro-Silkeborg   28 - 30  (12 - 16)
+457677 / 29-10-2022 / Helsingør-hallen 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+23.17
+NSH Skud reddet
+2:e
+9
+Hakan SAHIN
+16
+Mikkel Møller LØVKVIST
+23.25 10-13 BSH Mål
+2:e
+14
+Alexander LYNGGAARD
+Assist
+7
+Nikolaj Øris NIELSEN
+1
+Frederik ANDERSSON
+23.57
+NSH Regelfejl
+9
+Hakan SAHIN
+24.29
+NSH Advarsel
+9
+Hakan SAHIN
+24.52
+BSH Skud reddet
+PL
+7
+Nikolaj Øris NIELSEN
+1
+Frederik ANDERSSON
+25.51
+NSH Skud forbi
+PL
+18
+Magnus KRONBORG
+16
+Mikkel Møller LØVKVIST
+25.55 10-14 BSH Mål
+1:e
+23
+Henrik TILSTED
+Assist
+26
+Peter BALLING
+1
+Frederik ANDERSSON
+25.55
+NSH Time out
+26.31
+NSH Fejlaflevering
+57
+Nikolaj LARSSON
+27.05 10-15 BSH Mål
+ST
+14
+Alexander LYNGGAARD
+Assist
+26
+Peter BALLING
+1
+Frederik ANDERSSON
+27.14 11-15 NSH Mål
+2:e
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+27.46
+BSH Regelfejl
+22
+Aksel HORGEN
+28.16
+NSH Skud forbi
+PL
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+28.30
+BSH Skud forbi
+PL
+26
+Peter BALLING
+1
+Frederik ANDERSSON
+28.36 12-15 NSH Mål
+1:e
+57
+Nikolaj LARSSON
+Assist
+2
+Tobias JØRGENSEN
+16
+Mikkel Møller LØVKVIST
+28.59
+BSH Time out
+29.19
+BSH Skud reddet
+HB
+7
+Nikolaj Øris NIELSEN
+1
+Frederik ANDERSSON
+29.57
+NSH Regelfejl
+57
+Nikolaj LARSSON
+29.59 12-16 BSH Mål
+1:e
+7
+Nikolaj Øris NIELSEN
+Assist
+2
+Ludvig HALLBÄCK
+1
+Frederik ANDERSSON
+30.00 12-16
+Halvleg
+30.00
+Start 2:e halvleg
+30.44 12-17 BSH Mål
+PL
+15
+Mads Kjeldgaard ANDERSEN
+16
+Magnus Kjærsgaard PETERSEN
+31.27
+NSH Skud forbi
+VB
+42
+Matias CAMPBELL
+16
+Mikkel Møller LØVKVIST
+32.01 12-18 BSH Mål
+ST
+23
+Henrik TILSTED
+Assist
+15
+Mads Kjeldgaard ANDERSEN 16
+Magnus Kjærsgaard PETERSEN
+32.12 13-18 NSH Mål
+2:e
+5
+Julius MØRCH
+Assist
+13
+Gustav Wedel BRUUN
+16
+Mikkel Møller LØVKVIST
+32.43
+BSH Skud reddet
+VB
+2
+Ludvig HALLBÄCK
+16
+Magnus Kjærsgaard PETERSEN
+32.47 14-18 NSH Mål
+1:e
+25
+Jeppe CIESLAK
+Assist
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+33.48
+BSH Skud forbi
+PL
+7
+Nikolaj Øris NIELSEN
+16
+Magnus Kjærsgaard PETERSEN
+33.54 15-18 NSH Mål
+2:e
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+34.32
+BSH Fejlaflevering
+15
+Mads Kjeldgaard ANDERSEN
+34.39 16-18 NSH Mål
+2:e
+25
+Jeppe CIESLAK
+Assist
+13
+Gustav Wedel BRUUN
+16
+Mikkel Møller LØVKVIST
+35.16
+BSH Skud på stolpe
+ST
+14
+Alexander LYNGGAARD
+16
+Magnus Kjærsgaard PETERSEN
+36.12
+NSH Skud reddet
+VB
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+36.26 16-19 BSH Mål
+Gbr 15
+Mads Kjeldgaard ANDERSEN
+16
+Magnus Kjærsgaard PETERSEN
+37.27
+NSH Fejlaflevering
+2
+Tobias JØRGENSEN
+38.24 16-20 BSH Mål
+ST
+14
+Alexander LYNGGAARD
+Assist
+2
+Ludvig HALLBÄCK
+16
+Magnus Kjærsgaard PETERSEN
+39.26
+NSH Skud reddet
+VF
+25
+Jeppe CIESLAK
+16
+Mikkel Møller LØVKVIST
+39.59 16-21 BSH Mål
+Gbr 15
+Mads Kjeldgaard ANDERSEN
+16
+Magnus Kjærsgaard PETERSEN
+40.07 17-21 NSH Mål
+2:e
+13
+Gustav Wedel BRUUN
+16
+Mikkel Møller LØVKVIST
+40.19
+NSH Udvisning
+42
+Matias CAMPBELL
+40.38
+BSH Skud reddet
+ST
+14
+Alexander LYNGGAARD
+16
+Magnus Kjærsgaard PETERSEN
+41.07 18-21 NSH Mål
+VB
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+41.32 18-22 BSH Mål
+Gbr 15
+Mads Kjeldgaard ANDERSEN
+16
+Magnus Kjærsgaard PETERSEN
+42.08
+NSH Fejlaflevering
+17
+Nichlas HALD
+Bold erobret 19
+René Toft HANSEN
+42.12 18-23 BSH Mål
+1:e
+23
+Henrik TILSTED
+0
+42.23
+NSH Time out
+43.07
+NSH Tilkendt straffe
+17
+Nichlas HALD
+Forårs. str.
+7
+Nikolaj Øris NIELSEN
+43.14
+NSH Straffekast reddet
+25
+Jeppe CIESLAK
+16
+Mikkel Møller LØVKVIST
+44.07
+BSH Skud reddet
+HB
+2
+Ludvig HALLBÄCK
+16
+Magnus Kjærsgaard PETERSEN
+44.33
+NSH Skud reddet
+PL
+42
+Matias CAMPBELL
+16
+Mikkel Møller LØVKVIST
+45.11
+BSH Skud på stolpe
+PL
+25
+Emil JESSEN
+16
+Magnus Kjærsgaard PETERSEN
+45.16 19-23 NSH Mål
+1:e
+25
+Jeppe CIESLAK
+Assist
+42
+Matias CAMPBELL
+16
+Mikkel Møller LØVKVIST
+45.29 19-24 BSH Mål
+VF
+23
+Henrik TILSTED
+Assist
+25
+Emil JESSEN
+16
+Magnus Kjærsgaard PETERSEN
+46.14
+NSH Fejlaflevering
+42
+Matias CAMPBELL
+Bold erobret 25
+Emil JESSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Nordsjælland Håndbold - Bjerringbro-Silkeborg   28 - 30  (12 - 16)
+457677 / 29-10-2022 / Helsingør-hallen 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+46.23 19-25 BSH Mål
+1:e
+44
+Thomas Alfred SOLSTAD
+Assist
+25
+Emil JESSEN
+0
+47.16 20-25 NSH Mål
+ST
+5
+Julius MØRCH
+Assist
+2
+Tobias JØRGENSEN
+16
+Mikkel Møller LØVKVIST
+48.06
+BSH Fejlaflevering
+25
+Emil JESSEN
+48.16 21-25 NSH Mål
+Gbr 13
+Gustav Wedel BRUUN
+16
+Mikkel Møller LØVKVIST
+49.02
+BSH Skud blokeret
+PL
+26
+Peter BALLING
+Blokeret af
+5
+Julius MØRCH
+49.37
+NSH Tilkendt straffe
+13
+Gustav Wedel BRUUN
+Forårs. str.
+23
+Henrik TILSTED
+49.42 22-25 NSH Mål på straffe
+18
+Magnus KRONBORG
+16
+Mikkel Møller LØVKVIST
+50.25
+BSH Time out
+50.52 22-26 BSH Mål
+PL
+7
+Nikolaj Øris NIELSEN
+16
+Magnus Kjærsgaard PETERSEN
+51.13 23-26 NSH Mål
+PL
+17
+Nichlas HALD
+16
+Mikkel Møller LØVKVIST
+51.51
+BSH Skud reddet
+Gbr 15
+Mads Kjeldgaard ANDERSEN
+16
+Magnus Kjærsgaard PETERSEN
+52.01
+NSH Tabt bold
+25
+Jeppe CIESLAK
+52.33 23-27 BSH Mål
+Gbr 26
+Peter BALLING
+16
+Magnus Kjærsgaard PETERSEN
+52.56 24-27 NSH Mål
+VF
+25
+Jeppe CIESLAK
+Assist
+21
+Tim RANTALA
+16
+Mikkel Møller LØVKVIST
+53.47
+BSH Regelfejl
+15
+Mads Kjeldgaard ANDERSEN
+54.17
+BSH Udvisning
+15
+Mads Kjeldgaard ANDERSEN
+54.30
+NSH Fejlaflevering
+17
+Nichlas HALD
+Bold erobret 19
+René Toft HANSEN
+55.30
+BSH Skud reddet
+Gbr 26
+Peter BALLING
+16
+Magnus Kjærsgaard PETERSEN
+55.39
+NSH Tilkendt straffe
+25
+Jeppe CIESLAK
+Forårs. str.
+7
+Nikolaj Øris NIELSEN
+55.39
+BSH Udvisning
+7
+Nikolaj Øris NIELSEN
+55.42 25-27 NSH Mål på straffe
+18
+Magnus KRONBORG
+16
+Mikkel Møller LØVKVIST
+56.09
+BSH Fejlaflevering
+26
+Peter BALLING
+Bold erobret
+9
+Hakan SAHIN
+56.21 26-27 NSH Mål
+1:e
+13
+Gustav Wedel BRUUN
+0
+57.00 26-28 BSH Mål
+PL
+15
+Mads Kjeldgaard ANDERSEN
+16
+Magnus Kjærsgaard PETERSEN
+57.24 27-28 NSH Mål
+VF
+25
+Jeppe CIESLAK
+Assist
+3
+Carl-Emil HAUNSTRUP
+16
+Mikkel Møller LØVKVIST
+58.29 27-29 BSH Mål
+ST
+14
+Alexander LYNGGAARD
+Assist
+26
+Peter BALLING
+16
+Magnus Kjærsgaard PETERSEN
+58.32
+NSH Time out
+58.48 28-29 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+13
+Gustav Wedel BRUUN
+16
+Mikkel Møller LØVKVIST
+59.28
+BSH Time out
+59.49
+NSH Udvisning
+5
+Julius MØRCH
+59.58 28-30 BSH Mål
+ST
+19
+René Toft HANSEN
+Assist
+15
+Mads Kjeldgaard ANDERSEN 16
+Magnus Kjærsgaard PETERSEN
+60.00 28-30
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Jesper Bruhns, Thomas Kjærgaard,

@@ -1,0 +1,944 @@
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - TMS Ringsted   27 - 23  (12 - 12)
+256083 / 24-2-2021 / Arena Vestjylland Forsikring Lemvig / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.34
+TMS Skud på stolpe
+HB 15
+Lauritz LEGÉR
+Retur
+10
+Mads DUDEK
+12
+Ronnie NICOLAISEN
+0.44
+0-1
+TMS Mål
+VF
+10
+Mads DUDEK
+12
+Ronnie NICOLAISEN
+1.16
+LTH
+Skud forbi
+VF
+20
+Søren NØRGAARD
+12
+Frank MIKKELSEN
+2.24
+0-2
+TMS Mål
+VB
+7
+Morten Hempel JENSEN
+Assist
+79
+Oliver Klarskov KNUDSEN
+12
+Ronnie NICOLAISEN
+2.57
+LTH
+Tilkendt straffe
+6
+Mads Thymann HANSEN
+Forårs. str.
+4
+Andreas MAGAARD
+2.57
+TMS Advarsel
+4
+Andreas MAGAARD
+2.57
+1-2
+LTH
+Mål på straffe
+20
+Søren NØRGAARD
+12
+Frank MIKKELSEN
+3.52
+TMS Tabt bold
+79
+Oliver Klarskov KNUDSEN
+3.56
+2-2
+LTH
+Mål
+1:e
+23
+Jesper KOKHOLM
+Assist
+10
+Jonas LANGERHUUS
+0
+4.26
+2-3
+TMS Mål
+VF
+10
+Mads DUDEK
+Assist
+79
+Oliver Klarskov KNUDSEN
+12
+Ronnie NICOLAISEN
+4.38
+3-3
+LTH
+Mål
+PL
+5
+Mark NIKOLAJSEN
+Assist
+10
+Jonas LANGERHUUS
+12
+Frank MIKKELSEN
+5.21
+TMS Skud forbi
+VF
+10
+Mads DUDEK
+12
+Ronnie NICOLAISEN
+5.32
+LTH
+Skud på stolpe
+PL
+5
+Mark NIKOLAJSEN
+12
+Frank MIKKELSEN
+5.42
+TMS Skud reddet
+PL
+4
+Andreas MAGAARD
+Retur
+4
+Andreas MAGAARD
+12
+Ronnie NICOLAISEN
+6.12
+TMS Skud på stolpe
+PL
+79
+Oliver Klarskov KNUDSEN
+12
+Ronnie NICOLAISEN
+6.16
+4-3
+LTH
+Mål
+1:e
+23
+Jesper KOKHOLM
+Assist
+10
+Jonas LANGERHUUS
+0
+6.52
+LTH
+Udvisning
+2
+Jacob ØSTERGAARD
+7.06
+TMS Skud forbi
+HB 18
+Martin Risom CHRISTENSEN
+12
+Ronnie NICOLAISEN
+7.43
+LTH
+Tilkendt straffe
+6
+Mads Thymann HANSEN
+Forårs. str.
+10
+Mads DUDEK
+7.59
+5-3
+LTH
+Mål på straffe
+20
+Søren NØRGAARD
+12
+Frank MIKKELSEN
+8.24
+5-4
+TMS Mål
+ST
+4
+Andreas MAGAARD
+Assist
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+9.14
+6-4
+LTH
+Mål
+ST
+9
+Nicolai Pugholm HVID
+Assist
+6
+Mads Thymann HANSEN
+12
+Frank MIKKELSEN
+10.11
+TMS Skud reddet
+Gbr 15
+Lauritz LEGÉR
+12
+Ronnie NICOLAISEN
+11.08
+LTH
+Tabt bold
+5
+Mark NIKOLAJSEN
+11.13
+TMS Time out
+11.34
+6-5
+TMS Mål
+VB
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+12.27
+LTH
+Skud reddet
+HB 10
+Jonas LANGERHUUS
+12
+Frank MIKKELSEN
+13.24
+TMS Skud på stolpe
+VF
+10
+Mads DUDEK
+12
+Ronnie NICOLAISEN
+13.33
+TMS Udvisning
+33
+Minik Dahl HØEGH
+13.54
+7-5
+LTH
+Mål
+ST
+7
+Niels LINDHOLT
+Assist
+6
+Mads Thymann HANSEN
+12
+Frank MIKKELSEN
+14.40
+TMS Tilkendt straffe
+24
+Anton BRAMMING
+Forårs. str.
+20
+Søren NØRGAARD
+14.40
+LTH
+Udvisning
+20
+Søren NØRGAARD
+14.42
+TMS Straffekast reddet
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+15.13
+LTH
+Skud reddet
+HF
+23
+Jesper KOKHOLM
+12
+Frank MIKKELSEN
+15.21
+LTH
+Udvisning
+6
+Mads Thymann HANSEN
+15.54
+7-6
+TMS Mål
+VF
+24
+Anton BRAMMING
+Assist
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+16.21
+LTH
+Time out
+16.24
+LTH
+Skud forbi
+PL
+10
+Jonas LANGERHUUS
+12
+Frank MIKKELSEN
+17.19
+7-7
+TMS Mål
+VF
+24
+Anton BRAMMING
+Assist
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+18.17
+LTH
+Fejlaflevering
+5
+Mark NIKOLAJSEN
+19.16
+TMS Skud reddet
+PL
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+19.53
+LTH
+Tilkendt straffe
+7
+Niels LINDHOLT
+Forårs. str.
+6
+Sebastian Reimer THOR
+20.04
+LTH
+Straffekast reddet
+20
+Søren NØRGAARD
+12
+Frank MIKKELSEN
+20.35
+7-8
+TMS Mål
+ST
+2
+Joachim Møller JACOBSEN
+Assist
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+21.04
+LTH
+Tilkendt straffe
+52
+Rasmus PORUP
+Forårs. str.
+7
+Morten Hempel JENSEN
+21.09
+8-8
+LTH
+Mål på straffe
+23
+Jesper KOKHOLM
+12
+Frank MIKKELSEN
+21.44
+8-9
+TMS Mål
+PL
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+22.20
+LTH
+Regelfejl
+52
+Rasmus PORUP
+22.50
+TMS Fejlaflevering
+18
+Martin Risom CHRISTENSEN
+22.57
+9-9
+LTH
+Mål
+1:e
+19
+Mikkel SANDHOLM
+Assist
+12
+Ronnie NICOLAISEN
+0
+23.32
+9-10
+TMS Mål
+VF
+24
+Anton BRAMMING
+Assist
+18
+Martin Risom CHRISTENSEN 12
+Ronnie NICOLAISEN
+23.44
+LTH
+Skud reddet
+ST
+7
+Niels LINDHOLT
+12
+Frank MIKKELSEN
+24.17
+9-11
+TMS Mål
+VB
+33
+Minik Dahl HØEGH
+12
+Ronnie NICOLAISEN
+24.50 10-11 LTH
+Mål
+VF
+73
+Pelle SCHILLING
+Assist
+52
+Rasmus PORUP
+12
+Frank MIKKELSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - TMS Ringsted   27 - 23  (12 - 12)
+256083 / 24-2-2021 / Arena Vestjylland Forsikring Lemvig / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.58 10-12 TMS Mål
+1:e
+19
+Oskar Vind RASMUSSEN
+Assist
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+25.44
+LTH
+Skud reddet
+PL
+52
+Rasmus PORUP
+12
+Frank MIKKELSEN
+26.28
+TMS Skud på stolpe
+HB 18
+Martin Risom CHRISTENSEN
+12
+Ronnie NICOLAISEN
+26.33 11-12 LTH
+Mål
+1:e
+5
+Mark NIKOLAJSEN
+Assist
+12
+Ronnie NICOLAISEN
+0
+27.14
+TMS Tabt bold
+18
+Martin Risom CHRISTENSEN
+27.18 12-12 LTH
+Mål
+1:e
+73
+Pelle SCHILLING
+0
+28.12
+TMS Regelfejl
+15
+Lauritz LEGÉR
+28.19
+LTH
+Skud forbi
+1:e
+73
+Pelle SCHILLING
+0
+28.49
+TMS Skud reddet
+PL
+79
+Oliver Klarskov KNUDSEN
+12
+Ronnie NICOLAISEN
+29.51
+LTH
+Fejlaflevering
+6
+Mads Thymann HANSEN
+30.00 12-12
+Halvleg
+31.04
+LTH
+Skud reddet
+Gbr 10
+Jonas LANGERHUUS
+12
+Frank MIKKELSEN
+31.39
+TMS Skud forbi
+HF
+19
+Oskar Vind RASMUSSEN
+12
+Ronnie NICOLAISEN
+31.59 13-12 LTH
+Mål
+PL
+6
+Mads Thymann HANSEN
+12
+Frank MIKKELSEN
+32.46
+TMS Skud reddet
+VF
+24
+Anton BRAMMING
+12
+Ronnie NICOLAISEN
+33.24
+LTH
+Fejlaflevering
+10
+Jonas LANGERHUUS
+33.31 13-13 TMS Mål
+1:e
+24
+Anton BRAMMING
+Assist
+12
+Frank MIKKELSEN
+12
+Ronnie NICOLAISEN
+33.42
+LTH
+Fejlaflevering
+5
+Mark NIKOLAJSEN
+33.46 13-14 TMS Mål
+1:e
+19
+Oskar Vind RASMUSSEN
+Assist
+4
+Andreas MAGAARD
+12
+Ronnie NICOLAISEN
+34.44
+LTH
+Skud reddet
+Gbr 10
+Jonas LANGERHUUS
+12
+Frank MIKKELSEN
+35.30 13-15 TMS Mål
+PL
+79
+Oliver Klarskov KNUDSEN
+12
+Ronnie NICOLAISEN
+36.04
+LTH
+Tilkendt straffe
+5
+Mark NIKOLAJSEN
+Forårs. str.
+2
+Joachim Møller JACOBSEN
+36.04
+TMS Udvisning
+2
+Joachim Møller JACOBSEN
+36.06 14-15 LTH
+Mål på straffe
+23
+Jesper KOKHOLM
+12
+Frank MIKKELSEN
+36.43
+TMS Skud på stolpe
+Gbr 33
+Minik Dahl HØEGH
+12
+Ronnie NICOLAISEN
+37.09
+LTH
+Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+12
+Frank MIKKELSEN
+37.39
+TMS Fejlaflevering
+7
+Morten Hempel JENSEN
+37.45
+LTH
+Time out
+37.57
+LTH
+Fejlaflevering
+11
+Thomas Bohl DAMGAARD
+38.46
+TMS Regelfejl
+4
+Andreas MAGAARD
+39.51
+LTH
+Tilkendt straffe
+11
+Thomas Bohl DAMGAARD
+Forårs. str.
+19
+Oskar Vind RASMUSSEN
+40.13 15-15 LTH
+Mål på straffe
+23
+Jesper KOKHOLM
+12
+Frank MIKKELSEN
+40.48
+TMS Skud reddet
+VB
+15
+Lauritz LEGÉR
+Retur
+19
+Oskar Vind RASMUSSEN
+12
+Ronnie NICOLAISEN
+41.45
+TMS Tilkendt straffe
+15
+Lauritz LEGÉR
+Forårs. str.
+19
+Mikkel SANDHOLM
+42.04 15-16 TMS Mål på straffe
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+42.53
+LTH
+Tilkendt straffe
+5
+Mark NIKOLAJSEN
+Forårs. str.
+4
+Andreas MAGAARD
+42.57 16-16 LTH
+Mål på straffe
+23
+Jesper KOKHOLM
+84
+Brian JØRGENSEN
+43.39
+TMS Time out
+44.03
+TMS Fejlaflevering
+7
+Morten Hempel JENSEN
+44.36 17-16 LTH
+Mål
+VB
+5
+Mark NIKOLAJSEN
+12
+Frank MIKKELSEN
+45.19 17-17 TMS Mål
+PL
+18
+Martin Risom CHRISTENSEN
+12
+Ronnie NICOLAISEN
+46.02
+LTH
+Regelfejl
+11
+Thomas Bohl DAMGAARD
+46.39
+TMS Skud reddet
+PL
+7
+Morten Hempel JENSEN
+Retur
+19
+Oskar Vind RASMUSSEN
+12
+Ronnie NICOLAISEN
+47.05
+TMS Skud reddet
+PL
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+47.12 18-17 LTH
+Mål
+1:e
+5
+Mark NIKOLAJSEN
+Assist
+73
+Pelle SCHILLING
+0
+47.46
+LTH
+Udvisning
+5
+Mark NIKOLAJSEN
+48.08
+TMS Tilkendt straffe
+15
+Lauritz LEGÉR
+Forårs. str.
+9
+Nicolai Pugholm HVID
+48.15 18-18 TMS Mål på straffe
+7
+Morten Hempel JENSEN
+30
+Shadrach-Amie NSONI
+48.51 19-18 LTH
+Mål
+PL
+6
+Mads Thymann HANSEN
+12
+Frank MIKKELSEN
+49.24
+TMS Skud reddet
+VF
+24
+Anton BRAMMING
+12
+Ronnie NICOLAISEN
+50.03
+LTH
+Regelfejl
+10
+Jonas LANGERHUUS
+50.45
+TMS Regelfejl
+18
+Martin Risom CHRISTENSEN
+50.49 20-18 LTH
+Mål
+1:e
+73
+Pelle SCHILLING
+Assist
+6
+Mads Thymann HANSEN
+12
+Frank MIKKELSEN
+51.23
+TMS Skud på stolpe
+PL
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - TMS Ringsted   27 - 23  (12 - 12)
+256083 / 24-2-2021 / Arena Vestjylland Forsikring Lemvig / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+52.01 21-18 LTH
+Mål
+Gbr
+5
+Mark NIKOLAJSEN
+Assist
+10
+Jonas LANGERHUUS
+12
+Frank MIKKELSEN
+52.11 21-19 TMS Mål
+2:e
+24
+Anton BRAMMING
+Assist
+2
+Joachim Møller JACOBSEN
+12
+Ronnie NICOLAISEN
+53.00
+LTH
+Skud reddet
+VB
+6
+Mads Thymann HANSEN
+12
+Frank MIKKELSEN
+53.36
+TMS Skud forbi
+HF
+19
+Oskar Vind RASMUSSEN
+12
+Ronnie NICOLAISEN
+54.27 22-19 LTH
+Mål
+VB
+6
+Mads Thymann HANSEN
+Assist
+5
+Mark NIKOLAJSEN
+12
+Frank MIKKELSEN
+54.33
+TMS Time out
+54.53 22-20 TMS Mål
+ST
+4
+Andreas MAGAARD
+Assist
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+55.30 23-20 LTH
+Mål
+VB
+5
+Mark NIKOLAJSEN
+84
+Brian JØRGENSEN
+55.45
+TMS Fejlaflevering
+24
+Anton BRAMMING
+56.18 24-20 LTH
+Mål
+Gbr 10
+Jonas LANGERHUUS
+84
+Brian JØRGENSEN
+56.30 24-21 TMS Mål
+HF
+19
+Oskar Vind RASMUSSEN
+Assist
+79
+Oliver Klarskov KNUDSEN
+12
+Ronnie NICOLAISEN
+57.08 25-21 LTH
+Mål
+Gbr
+6
+Mads Thymann HANSEN
+84
+Brian JØRGENSEN
+57.49 25-22 TMS Mål
+ST
+6
+Sebastian Reimer THOR
+Assist
+33
+Minik Dahl HØEGH
+12
+Ronnie NICOLAISEN
+58.34 26-22 LTH
+Mål
+VB
+6
+Mads Thymann HANSEN
+84
+Brian JØRGENSEN
+58.45
+LTH
+Udvisning
+7
+Niels LINDHOLT
+58.45
+TMS Skud på stolpe
+Gbr
+7
+Morten Hempel JENSEN
+12
+Ronnie NICOLAISEN
+59.19
+LTH
+Time out
+59.26 27-22 LTH
+Mål
+ST
+73
+Pelle SCHILLING
+Assist
+10
+Jonas LANGERHUUS
+84
+Brian JØRGENSEN
+59.45 27-23 TMS Mål
+Gbr 79
+Oliver Klarskov KNUDSEN
+12
+Ronnie NICOLAISEN
+60.00 27-23
+Fuld tid
+Software: Jilsén System AB. Logget af: Stine Visholm, Ane Heilig, Lars Visholm

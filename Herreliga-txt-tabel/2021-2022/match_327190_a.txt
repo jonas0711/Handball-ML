@@ -1,0 +1,913 @@
+KAMPHÆNDELSER
+Skanderborg Aarhus Håndbold - Aalborg Håndbold   24 - 33  (13 - 19)
+327190 / 25-9-2021 / Ceres Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+1.08
+0-1
+AAH Mål
+PL
+11
+Lukas SANDELL
+1
+Kristoffer LAURSEN
+1.35
+1-1
+SAH Mål
+PL
+24
+Mathias BITSCH
+1
+Simon GADE
+1.56
+1-2
+AAH Mål
+2:e
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+2.09
+2-2
+SAH Mål
+VB
+23
+Morten Hempel JENSEN
+1
+Simon GADE
+2.35
+AAH Skud reddet
+2:e
+11
+Lukas SANDELL
+Retur
+0
+1
+Kristoffer LAURSEN
+2.39
+2-3
+AAH Mål
+HF
+3
+Jonas SAMUELSSON
+1
+Kristoffer LAURSEN
+3.10
+3-3
+SAH Mål
+PL
+24
+Mathias BITSCH
+1
+Simon GADE
+3.21
+3-4
+AAH Mål
+2:e
+13
+Nikolaj LÆSØ
+1
+Kristoffer LAURSEN
+4.14
+SAH Skud reddet
+HB 24
+Mathias BITSCH
+1
+Simon GADE
+4.31
+SAH Advarsel
+19
+Thor CHRISTENSEN
+5.37
+AAH Skud blokeret
+PL
+7
+Felix CLAAR
+Blok af (ret)
+6
+Kristian BONEFELD
+5.48
+AAH Skud reddet
+PL
+13
+Nikolaj LÆSØ
+Retur
+0
+1
+Kristoffer LAURSEN
+6.10
+AAH Skud blokeret
+PL
+13
+Nikolaj LÆSØ
+Blok af (ret)
+21
+Mathias SMED
+6.23
+3-5
+AAH Mål
+HB 11
+Lukas SANDELL
+1
+Kristoffer LAURSEN
+6.35
+4-5
+SAH Mål
+2:e
+24
+Mathias BITSCH
+Assist
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+7.10
+SAH Advarsel
+11
+Thomas ARNOLDSEN
+7.28
+SAH Udvisning
+6
+Kristian BONEFELD
+7.43
+4-6
+AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+13
+Nikolaj LÆSØ
+1
+Kristoffer LAURSEN
+8.36
+SAH Skud blokeret
+PL
+11
+Thomas ARNOLDSEN
+Blokeret af
+22
+Rene ANTONSEN
+8.44
+4-7
+AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+13
+Nikolaj LÆSØ
+1
+Kristoffer LAURSEN
+9.16
+5-7
+SAH Mål
+PL
+23
+Morten Hempel JENSEN
+Assist
+24
+Mathias BITSCH
+1
+Simon GADE
+9.31
+AAH Skud på stolpe
+PL
+7
+Felix CLAAR
+Retur
+0
+1
+Kristoffer LAURSEN
+9.42
+5-8
+AAH Mål
+VF
+6
+Sebastian BARTHOLD
+1
+Kristoffer LAURSEN
+10.09
+AAH Udvisning
+13
+Nikolaj LÆSØ
+10.47
+6-8
+SAH Mål
+HF
+15
+Mike HAACK
+Assist
+20
+Morten BALLING
+1
+Simon GADE
+11.21
+6-9
+AAH Mål
+PL
+11
+Lukas SANDELL
+Assist
+7
+Felix CLAAR
+1
+Kristoffer LAURSEN
+11.45
+7-9
+SAH Mål
+VF
+4
+Lars SKAARUP
+Assist
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+12.18
+SAH Udvisning
+19
+Thor CHRISTENSEN
+12.35
+7-10
+AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+22
+Rene ANTONSEN
+1
+Kristoffer LAURSEN
+13.17
+8-10
+SAH Mål
+HB 24
+Mathias BITSCH
+1
+Simon GADE
+13.38
+AAH Tilkendt straffe
+7
+Felix CLAAR
+Forårs. str.
+2
+Allan Toft HANSEN
+13.40
+8-11
+AAH Mål på straffe
+6
+Sebastian BARTHOLD
+12
+Salah BOUTAF
+14.20
+9-11
+SAH Mål
+PL
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+14.29
+AAH Skud reddet
+2:e
+11
+Lukas SANDELL
+12
+Salah BOUTAF
+15.11
+SAH Skud blokeret
+PL
+23
+Morten Hempel JENSEN
+Blok af (ret)
+22
+Rene ANTONSEN
+15.17
+SAH Time out
+15.18
+AAH Udvisning
+11
+Lukas SANDELL
+15.52 10-11 SAH Mål
+ST
+2
+Allan Toft HANSEN
+Assist
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+16.56
+AAH Regelfejl
+13
+Nikolaj LÆSØ
+17.03
+SAH Skud reddet
+2:e
+4
+Lars SKAARUP
+1
+Simon GADE
+18.00 10-12 AAH Mål
+ST
+8
+Jesper NIELSEN
+Assist
+13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+18.38
+SAH Fejlaflevering
+24
+Mathias BITSCH
+20.00 10-13 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+7
+Felix CLAAR
+12
+Salah BOUTAF
+20.41
+SAH Tilkendt straffe
+23
+Morten Hempel JENSEN
+Forårs. str.
+17
+Martin LARSEN
+21.02
+SAH Straffekast på stolpe
+20
+Morten BALLING
+1
+Simon GADE
+21.39 10-14 AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+21.54 11-14 SAH Mål
+2:e
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+22.26 11-15 AAH Mål
+Gbr
+7
+Felix CLAAR
+12
+Salah BOUTAF
+23.01 12-15 SAH Mål
+PL
+24
+Mathias BITSCH
+1
+Simon GADE
+23.20
+AAH Time out
+23.57 12-16 AAH Mål
+Gbr 15
+Andreas Holst JENSEN
+12
+Salah BOUTAF
+24.31
+SAH Skud reddet
+HF
+3
+Hákun West Av TEIGUM
+12
+Nichlas Kristian LUDVIGSEN
+24.59 12-17 AAH Mål
+PL
+7
+Felix CLAAR
+12
+Salah BOUTAF
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skanderborg Aarhus Håndbold - Aalborg Håndbold   24 - 33  (13 - 19)
+327190 / 25-9-2021 / Ceres Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.31
+AAH Udvisning
+22
+Rene ANTONSEN
+25.46 13-17 SAH Mål
+HF
+3
+Hákun West Av TEIGUM
+Assist
+11
+Thomas ARNOLDSEN
+12
+Nichlas Kristian LUDVIGSEN
+26.35
+AAH Skud reddet
+HF
+3
+Jonas SAMUELSSON
+Retur
+0
+12
+Salah BOUTAF
+26.53 13-18 AAH Mål
+PL
+7
+Felix CLAAR
+12
+Salah BOUTAF
+27.16
+SAH Skud reddet
+PL
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+28.15
+AAH Regelfejl
+8
+Jesper NIELSEN
+28.27
+SAH Regelfejl
+20
+Morten BALLING
+29.01
+AAH Tilkendt straffe
+8
+Jesper NIELSEN
+Forårs. str.
+2
+Allan Toft HANSEN
+29.01
+SAH Udvisning
+2
+Allan Toft HANSEN
+29.03 13-19 AAH Mål på straffe
+6
+Sebastian BARTHOLD
+12
+Salah BOUTAF
+29.56
+SAH Skud blokeret
+PL
+24
+Mathias BITSCH
+Blokeret af
+17
+Martin LARSEN
+30.00 13-19
+Halvleg
+30.00
+Start 2:e halvleg
+30.29 14-19 SAH Mål
+Gbr 11
+Thomas ARNOLDSEN
+1
+Simon GADE
+30.47 14-20 AAH Mål
+HF
+3
+Jonas SAMUELSSON
+Assist
+11
+Lukas SANDELL
+12
+Salah BOUTAF
+31.20 15-20 SAH Mål
+PL
+23
+Morten Hempel JENSEN
+1
+Simon GADE
+31.53 15-21 AAH Mål
+Gbr
+7
+Felix CLAAR
+12
+Salah BOUTAF
+31.55
+SAH Udvisning
+21
+Mathias SMED
+33.11
+SAH Skud reddet
+PL
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+33.33
+AAH Skud reddet
+VF
+6
+Sebastian BARTHOLD
+12
+Salah BOUTAF
+33.38
+SAH Regelfejl
+19
+Thor CHRISTENSEN
+33.43 15-22 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+34.20
+AAH Udvisning
+21
+Henrik MØLLGAARD
+34.35 16-22 SAH Mål
+HF
+3
+Hákun West Av TEIGUM
+Assist
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+35.27
+AAH Skud reddet
+HB 11
+Lukas SANDELL
+12
+Salah BOUTAF
+35.39
+SAH Skud på stolpe
+2:e
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+36.21
+AAH Skud reddet
+PL
+7
+Felix CLAAR
+12
+Salah BOUTAF
+36.30
+SAH Skud reddet
+2:e
+6
+Kristian BONEFELD
+1
+Simon GADE
+37.02 16-23 AAH Mål
+Gbr 11
+Lukas SANDELL
+12
+Salah BOUTAF
+37.53
+SAH Regelfejl
+19
+Thor CHRISTENSEN
+37.59 16-24 AAH Mål
+2:e
+6
+Sebastian BARTHOLD
+Assist
+13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+38.03
+SAH Time out
+38.51 17-24 SAH Mål
+ST
+19
+Thor CHRISTENSEN
+Assist
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+39.21
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+12
+Salah BOUTAF
+39.37
+SAH Skud reddet
+Gbr 23
+Morten Hempel JENSEN
+1
+Simon GADE
+40.13
+AAH Tilkendt straffe
+6
+Sebastian BARTHOLD
+Forårs. str.
+21
+Mathias SMED
+40.28 17-25 AAH Mål på straffe
+23
+Buster JUUL
+12
+Salah BOUTAF
+41.09
+SAH Skud på stolpe
+VB
+11
+Thomas ARNOLDSEN
+Retur
+0
+1
+Simon GADE
+41.17
+SAH Skud reddet
+ST
+19
+Thor CHRISTENSEN
+1
+Simon GADE
+41.21 17-26 AAH Mål
+2:e
+6
+Sebastian BARTHOLD
+Assist
+21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+42.17
+SAH Skud reddet
+VF
+4
+Lars SKAARUP
+Retur
+19
+Thor CHRISTENSEN
+1
+Simon GADE
+42.43
+SAH Tabt bold
+23
+Morten Hempel JENSEN
+42.51
+AAH Skud reddet
+ST
+3
+Jonas SAMUELSSON
+12
+Salah BOUTAF
+43.04
+SAH Tilkendt straffe
+23
+Morten Hempel JENSEN
+Forårs. str.
+13
+Nikolaj LÆSØ
+43.25
+SAH Straffekast reddet
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+44.19
+AAH Fejlaflevering
+7
+Felix CLAAR
+44.27
+SAH Fejlaflevering
+23
+Morten Hempel JENSEN
+44.31 17-27 AAH Mål
+1:e
+3
+Jonas SAMUELSSON
+Assist
+1
+Simon GADE
+12
+Salah BOUTAF
+45.18
+SAH Skud reddet
+HB 24
+Mathias BITSCH
+1
+Simon GADE
+45.59
+AAH Regelfejl
+11
+Lukas SANDELL
+46.14
+SAH Time out
+47.43
+SAH Skud forbi
+Gbr 14
+Jon KATBALLE
+1
+Simon GADE
+48.14
+AAH Skud på stolpe
+VF
+6
+Sebastian BARTHOLD
+Retur
+0
+12
+Salah BOUTAF
+48.18 17-28 AAH Mål
+ST
+14
+Valdemar HERMANSEN
+12
+Salah BOUTAF
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skanderborg Aarhus Håndbold - Aalborg Håndbold   24 - 33  (13 - 19)
+327190 / 25-9-2021 / Ceres Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+49.00 18-28 SAH Mål
+HF
+15
+Mike HAACK
+Assist
+14
+Jon KATBALLE
+1
+Simon GADE
+49.36
+AAH Skud forbi
+ST
+14
+Valdemar HERMANSEN
+12
+Salah BOUTAF
+50.31
+SAH Tilkendt straffe
+20
+Morten BALLING
+Forårs. str.
+21
+Henrik MØLLGAARD
+50.34 19-28 SAH Mål på straffe
+23
+Morten Hempel JENSEN
+1
+Simon GADE
+51.22 19-29 AAH Mål
+PL
+13
+Nikolaj LÆSØ
+12
+Salah BOUTAF
+51.30
+SAH Skud blokeret
+2:e
+6
+Kristian BONEFELD
+Blok af (ret)
+17
+Martin LARSEN
+52.06
+AAH Udvisning
+14
+Valdemar HERMANSEN
+52.31 20-29 SAH Mål
+Gbr 20
+Morten BALLING
+Assist
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+53.10
+AAH Skud reddet
+HB 17
+Martin LARSEN
+12
+Salah BOUTAF
+53.16 21-29 SAH Mål
+1:e
+15
+Mike HAACK
+Assist
+12
+Salah BOUTAF
+0
+53.46 21-30 AAH Mål
+Gbr
+7
+Felix CLAAR
+12
+Salah BOUTAF
+54.08 22-30 SAH Mål
+VF
+10
+Lasse HØJGAARD
+Assist
+11
+Thomas ARNOLDSEN
+1
+Simon GADE
+54.14
+AAH Udvisning
+21
+Henrik MØLLGAARD
+54.14
+AAH Time out
+54.42 22-31 AAH Mål
+Gbr
+7
+Felix CLAAR
+12
+Salah BOUTAF
+55.08 23-31 SAH Mål
+ST
+7
+Mads KALSTRUP
+Assist
+11
+Thomas ARNOLDSEN
+12
+Nichlas Kristian LUDVIGSEN
+55.41
+AAH Regelfejl
+17
+Martin LARSEN
+55.44
+SAH Fejlaflevering
+12
+Salah BOUTAF
+Bold erobret 15
+Andreas Holst JENSEN
+56.15 23-32 AAH Mål
+HB 17
+Martin LARSEN
+12
+Salah BOUTAF
+57.09
+SAH Fejlaflevering
+20
+Morten BALLING
+57.46
+AAH Skud reddet
+HB 17
+Martin LARSEN
+12
+Salah BOUTAF
+58.50 24-32 SAH Mål
+PL
+20
+Morten BALLING
+12
+Nichlas Kristian LUDVIGSEN
+59.19 24-33 AAH Mål
+VB
+15
+Andreas Holst JENSEN
+12
+Salah BOUTAF
+60.00 24-33
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Kasper Knak sørensen, Anne Sofie Vindstrup,

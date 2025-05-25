@@ -1,0 +1,957 @@
+KAMPHÆNDELSER
+KIF Kolding - Sønderjyske Herrehåndbold   27 - 27  (14 - 15)
+748812 / 12-4-2025 / Sydbank Arena 1 - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.40
+0-1
+SJE
+Mål
+Gbr 29
+Magnus FREDRIKSEN
+12
+Josip CAVAR
+1.36
+KIF
+Skud reddet
+ST
+6
+Jonas TIDEMAND
+30
+Julius STEN
+1.46
+0-2
+SJE
+Mål
+PL
+29
+Magnus FREDRIKSEN
+0
+2.18
+1-2
+KIF
+Mål
+Gbr
+5
+Oliver NORLYK
+30
+Julius STEN
+2.59
+SJE
+Skud reddet
+VF
+28
+Patrick VOLZ
+12
+Josip CAVAR
+3.36
+2-2
+KIF
+Mål
+Gbr 28
+Lauritz LEGÉR
+Assist
+21
+Kristian STOKLUND
+30
+Julius STEN
+4.13
+2-3
+SJE
+Mål
+Gbr 24
+Sebastian AUGUSTINUSSEN
+12
+Josip CAVAR
+4.19
+3-3
+KIF
+Mål
+Gbr
+5
+Oliver NORLYK
+Assist
+28
+Lauritz LEGÉR
+30
+Julius STEN
+4.51
+3-4
+SJE
+Mål
+Gbr 29
+Magnus FREDRIKSEN
+12
+Josip CAVAR
+5.25
+KIF
+Skud reddet
+ST
+6
+Jonas TIDEMAND
+30
+Julius STEN
+5.30
+3-5
+SJE
+Mål
+PL
+29
+Magnus FREDRIKSEN
+0
+6.23
+KIF
+Skud blokeret
+PL
+21
+Kristian STOKLUND
+Blokeret af
+14
+Jacob BAGERSTED
+6.53
+3-6
+SJE
+Mål
+VF
+28
+Patrick VOLZ
+Assist
+29
+Magnus FREDRIKSEN
+12
+Josip CAVAR
+7.31
+4-6
+KIF
+Mål
+Gbr
+5
+Oliver NORLYK
+Assist
+21
+Kristian STOKLUND
+30
+Julius STEN
+8.11
+SJE
+Regelfejl
+28
+Patrick VOLZ
+8.18
+KIF
+Skud forbi
+ST
+12
+Josip CAVAR
+0
+8.54
+4-7
+SJE
+Mål
+ST
+2
+Tobias Gregers SCHMIDT
+Assist
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+9.22
+5-7
+KIF
+Mål
+ST
+6
+Jonas TIDEMAND
+Assist
+5
+Oliver NORLYK
+30
+Julius STEN
+9.53
+SJE
+Tilkendt straffe
+11
+Nicolaj JØRGENSEN
+Forårs. str.
+6
+Jonas TIDEMAND
+10.14
+5-8
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+10.54
+KIF
+Skud reddet
+HF
+27
+Sebastian BERTELSEN
+30
+Julius STEN
+11.34
+SJE
+Skud reddet
+PL
+11
+Nicolaj JØRGENSEN
+Retur
+14
+Jacob BAGERSTED
+12
+Josip CAVAR
+11.38
+SJE
+Skud reddet
+ST
+14
+Jacob BAGERSTED
+12
+Josip CAVAR
+12.08
+KIF
+Fejlaflevering
+28
+Lauritz LEGÉR
+Bold erobret
+3
+Lucas REHFUS
+12.10
+5-9
+SJE
+Mål
+PL
+3
+Lucas REHFUS
+0
+12.37
+6-9
+KIF
+Mål
+PL
+21
+Kristian STOKLUND
+30
+Julius STEN
+13.41
+SJE
+Skud reddet
+ST
+14
+Jacob BAGERSTED
+12
+Josip CAVAR
+13.48
+7-9
+KIF
+Mål
+2:e
+28
+Lauritz LEGÉR
+Assist
+5
+Oliver NORLYK
+30
+Julius STEN
+14.27
+7-10
+SJE
+Mål
+VF
+28
+Patrick VOLZ
+Assist
+29
+Magnus FREDRIKSEN
+12
+Josip CAVAR
+15.17
+KIF
+Fejlaflevering
+21
+Kristian STOKLUND
+15.23
+SJE
+Skud forbi
+PL
+30
+Julius STEN
+0
+15.56
+KIF
+Skud reddet
+Gbr 21
+Kristian STOKLUND
+30
+Julius STEN
+16.30
+SJE
+Skud reddet
+HF
+33
+Ebbe STANKIEWICZ
+12
+Josip CAVAR
+17.06
+8-10
+KIF
+Mål
+ST
+13
+Mathias HEDEGAARD
+Assist
+5
+Oliver NORLYK
+30
+Julius STEN
+17.10
+SJE
+Udvisning
+28
+Patrick VOLZ
+17.47
+SJE
+Tabt bold
+29
+Magnus FREDRIKSEN
+Bold erobret 15
+Jens SVANE
+18.11
+9-10
+KIF
+Mål
+VB
+28
+Lauritz LEGÉR
+30
+Julius STEN
+18.21
+9-11
+SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+0
+19.09 10-11 KIF
+Mål
+HF
+24
+Diogo SILVA
+Assist
+15
+Jens SVANE
+30
+Julius STEN
+19.50
+KIF
+Advarsel
+13
+Mathias HEDEGAARD
+20.05 10-12 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+20.40
+SJE
+Advarsel
+2
+Tobias Gregers SCHMIDT
+21.09 11-12 KIF
+Mål
+VF
+4
+Lars SKAARUP
+Assist
+15
+Jens SVANE
+30
+Julius STEN
+21.45 11-13 SJE
+Mål
+HB 11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+22.32
+KIF
+Fejlaflevering
+21
+Kristian STOKLUND
+23.26
+SJE
+Skud reddet
+VB
+29
+Magnus FREDRIKSEN
+Retur
+0
+12
+Josip CAVAR
+23.26
+KIF
+Udvisning
+5
+Oliver NORLYK
+23.41 11-14 SJE
+Mål
+Gbr 11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+24.37 12-14 KIF
+Mål
+PL
+11
+Magnus KRONBORG
+30
+Julius STEN
+25.06 12-15 SJE
+Mål
+ST
+24
+Sebastian AUGUSTINUSSEN Assist
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+26.23
+KIF
+Skud reddet
+HB 11
+Magnus KRONBORG
+Retur
+0
+30
+Julius STEN
+26.55
+KIF
+Tilkendt straffe
+11
+Magnus KRONBORG
+Forårs. str.
+24
+Sebastian AUGUSTINUSSEN
+27.03 13-15 KIF
+Mål på straffe
+21
+Kristian STOKLUND
+30
+Julius STEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+KIF Kolding - Sønderjyske Herrehåndbold   27 - 27  (14 - 15)
+748812 / 12-4-2025 / Sydbank Arena 1 - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+27.53
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+28.04
+KIF
+Time out
+28.17
+KIF
+Fejlaflevering
+21
+Kristian STOKLUND
+28.44
+SJE
+Skud reddet
+VF
+28
+Patrick VOLZ
+12
+Josip CAVAR
+29.30 14-15 KIF
+Mål
+HF
+24
+Diogo SILVA
+Assist
+6
+Jonas TIDEMAND
+30
+Julius STEN
+29.46
+SJE
+Time out
+30.00
+SJE
+Skud forbi
+VB
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+30.00 14-15
+Halvleg
+30.00
+Start 2:e halvleg
+31.06 15-15 KIF
+Mål
+HB
+5
+Oliver NORLYK
+30
+Julius STEN
+31.46 15-16 SJE
+Mål
+HF
+33
+Ebbe STANKIEWICZ
+Assist
+24
+Sebastian AUGUSTINUSSEN 12
+Josip CAVAR
+32.36 16-16 KIF
+Mål
+PL
+21
+Kristian STOKLUND
+30
+Julius STEN
+33.17
+SJE
+Skud reddet
+Gbr 29
+Magnus FREDRIKSEN
+12
+Josip CAVAR
+33.32
+KIF
+Skud på stolpe
+ST
+5
+Oliver NORLYK
+0
+34.14
+SJE
+Skud reddet
+PL
+29
+Magnus FREDRIKSEN
+12
+Josip CAVAR
+34.46
+KIF
+Skud reddet
+HB
+5
+Oliver NORLYK
+Retur
+0
+30
+Julius STEN
+35.14
+KIF
+Skud reddet
+ST
+18
+Benjamin PEDERSEN
+30
+Julius STEN
+35.49
+SJE
+Tilkendt straffe
+28
+Patrick VOLZ
+Forårs. str.
+24
+Diogo SILVA
+35.49
+KIF
+Udvisning
+24
+Diogo SILVA
+35.55
+SJE
+Straffekast forbi
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+36.32 17-16 KIF
+Mål
+Gbr 28
+Lauritz LEGÉR
+Assist
+11
+Magnus KRONBORG
+30
+Julius STEN
+37.01
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+Bold erobret
+4
+Lars SKAARUP
+37.52
+KIF
+Tilkendt straffe
+28
+Lauritz LEGÉR
+Forårs. str.
+3
+Lucas REHFUS
+38.19 18-16 KIF
+Mål på straffe
+21
+Kristian STOKLUND
+30
+Julius STEN
+38.50
+SJE
+Regelfejl
+24
+Sebastian AUGUSTINUSSEN
+39.38
+KIF
+Tilkendt straffe
+28
+Lauritz LEGÉR
+Forårs. str.
+3
+Lucas REHFUS
+40.00
+KIF
+Straffekast på stolpe
+21
+Kristian STOKLUND
+30
+Julius STEN
+40.31
+SJE
+Fejlaflevering
+22
+Magnus HOLPERT
+41.02
+KIF
+Skud forbi
+ST
+6
+Jonas TIDEMAND
+30
+Julius STEN
+41.44 18-17 SJE
+Mål
+PL
+22
+Magnus HOLPERT
+12
+Josip CAVAR
+42.45 19-17 KIF
+Mål
+PL
+21
+Kristian STOKLUND
+30
+Julius STEN
+43.17 19-18 SJE
+Mål
+PL
+29
+Magnus FREDRIKSEN
+12
+Josip CAVAR
+44.11 20-18 KIF
+Mål
+HF
+24
+Diogo SILVA
+Assist
+15
+Jens SVANE
+30
+Julius STEN
+44.44
+SJE
+Skud reddet
+PL
+22
+Magnus HOLPERT
+12
+Josip CAVAR
+45.28
+KIF
+Skud reddet
+HF
+24
+Diogo SILVA
+30
+Julius STEN
+45.58
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+Bold erobret 13
+Mathias HEDEGAARD
+45.58
+SJE
+Udvisning
+33
+Ebbe STANKIEWICZ
+46.49
+KIF
+Skud reddet
+Gbr
+5
+Oliver NORLYK
+30
+Julius STEN
+46.54 20-19 SJE
+Mål
+1:e
+11
+Nicolaj JØRGENSEN
+0
+47.15 21-19 KIF
+Mål
+PL
+21
+Kristian STOKLUND
+30
+Julius STEN
+48.10
+SJE
+Tilkendt straffe
+11
+Nicolaj JØRGENSEN
+Forårs. str.
+4
+Lars SKAARUP
+48.14 21-20 SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+49.15 22-20 KIF
+Mål
+ST
+13
+Mathias HEDEGAARD
+Assist
+21
+Kristian STOKLUND
+30
+Julius STEN
+49.50
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+Bold erobret 24
+Diogo SILVA
+49.55 23-20 KIF
+Mål
+HB 15
+Jens SVANE
+0
+50.00
+SJE
+Time out
+50.23 23-21 SJE
+Mål
+Gbr 24
+Sebastian AUGUSTINUSSEN Assist
+29
+Magnus FREDRIKSEN
+12
+Josip CAVAR
+51.24
+KIF
+Skud reddet
+HB
+5
+Oliver NORLYK
+30
+Julius STEN
+52.33
+SJE
+Skud blokeret
+PL
+11
+Nicolaj JØRGENSEN
+Blok af (ret)
+18
+Benjamin PEDERSEN
+52.49 23-22 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+53.41 24-22 KIF
+Mål
+HF
+24
+Diogo SILVA
+Assist
+21
+Kristian STOKLUND
+30
+Julius STEN
+54.20
+SJE
+Skud blokeret
+VB
+3
+Lucas REHFUS
+Blok af (ret)
+15
+Jens SVANE
+54.46
+SJE
+Tilkendt straffe
+2
+Tobias Gregers SCHMIDT
+Forårs. str.
+13
+Mathias HEDEGAARD
+54.49 24-23 SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+
+--- Side 3 ---
+KAMPHÆNDELSER
+KIF Kolding - Sønderjyske Herrehåndbold   27 - 27  (14 - 15)
+748812 / 12-4-2025 / Sydbank Arena 1 - bane 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+54.52
+KIF
+Time out
+56.00
+KIF
+Skud reddet
+PL
+21
+Kristian STOKLUND
+30
+Julius STEN
+56.44 24-24 SJE
+Mål
+HF
+28
+Patrick VOLZ
+Assist
+29
+Magnus FREDRIKSEN
+12
+Josip CAVAR
+57.17 25-24 KIF
+Mål
+Gbr 28
+Lauritz LEGÉR
+Assist
+21
+Kristian STOKLUND
+30
+Julius STEN
+57.49 25-25 SJE
+Mål
+ST
+11
+Nicolaj JØRGENSEN
+Assist
+33
+Ebbe STANKIEWICZ
+12
+Josip CAVAR
+58.25 26-25 KIF
+Mål
+ST
+13
+Mathias HEDEGAARD
+Assist
+21
+Kristian STOKLUND
+30
+Julius STEN
+59.02 26-26 SJE
+Mål
+ST
+2
+Tobias Gregers SCHMIDT
+Assist
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+59.28
+KIF
+Time out
+59.45 27-26 KIF
+Mål
+ST
+6
+Jonas TIDEMAND
+Assist
+21
+Kristian STOKLUND
+30
+Julius STEN
+59.48
+SJE
+Time out
+60.00 27-27 SJE
+Mål
+HF
+33
+Ebbe STANKIEWICZ
+Assist
+11
+Nicolaj JØRGENSEN
+12
+Josip CAVAR
+60.00 27-27
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: henrik, sK,

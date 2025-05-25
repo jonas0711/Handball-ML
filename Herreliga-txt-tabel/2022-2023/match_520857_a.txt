@@ -1,0 +1,929 @@
+KAMPHÆNDELSER
+GOG - Aalborg Håndbold   29 - 34  (14 - 20)
+520857 / 4-6-2023 / Jyske Bank Arena Fyn / HTH Herreligaen - Finaler
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.38
+GOG Skud blokeret
+PL
+2
+Simon PYTLICK
+Blok af (ret)
+22
+Rene ANTONSEN
+0.59
+GOG Skud reddet
+PL
+11
+Emil MADSEN
+1
+Simon GADE
+2.03
+AAH Tilkendt straffe
+7
+Felix CLAAR
+Forårs. str.
+77
+Frederik CLAUSEN
+2.07
+GOG Advarsel
+77
+Frederik CLAUSEN
+2.32
+0-1
+AAH Mål på straffe
+23
+Buster JUUL
+16
+Tobias THULIN
+3.20
+GOG Skud forbi
+HB 11
+Emil MADSEN
+1
+Simon GADE
+3.53
+0-2
+AAH Mål
+Gbr 11
+Lukas SANDELL
+16
+Tobias THULIN
+4.01
+1-2
+GOG Mål
+2:e
+9
+Jerry TOLLBRING
+Assist
+34
+Morten OLSEN
+1
+Simon GADE
+4.30
+1-3
+AAH Mål
+PL
+7
+Felix CLAAR
+16
+Tobias THULIN
+4.44
+GOG Skud reddet
+2:e
+2
+Simon PYTLICK
+1
+Simon GADE
+4.55
+1-4
+AAH Mål
+2:e
+6
+Sebastian BARTHOLD
+Assist
+21
+Henrik MØLLGAARD
+16
+Tobias THULIN
+5.09
+Video Proof
+0
+5.09
+GOG Tilkendt straffe
+14
+Lukas JØRGENSEN
+Forårs. str.
+21
+Henrik MØLLGAARD
+5.09
+AAH Udvisning
+21
+Henrik MØLLGAARD
+5.10
+Video Proof slut
+0
+5.11
+2-4
+GOG Mål på straffe
+11
+Emil MADSEN
+1
+Simon GADE
+5.46
+AAH Skud reddet
+PL
+7
+Felix CLAAR
+16
+Tobias THULIN
+5.57
+GOG Skud forbi
+2:e
+34
+Morten OLSEN
+1
+Simon GADE
+6.55
+AAH Skud blokeret
+HB
+7
+Felix CLAAR
+Blok af (ret)
+77
+Frederik CLAUSEN
+7.03
+AAH Passivt spil
+0
+7.08
+3-4
+GOG Mål
+1:e
+9
+Jerry TOLLBRING
+Assist
+14
+Lukas JØRGENSEN
+1
+Simon GADE
+7.40
+3-5
+AAH Mål
+ST
+6
+Sebastian BARTHOLD
+Assist
+7
+Felix CLAAR
+16
+Tobias THULIN
+8.33
+4-5
+GOG Mål
+Gbr
+2
+Simon PYTLICK
+1
+Simon GADE
+8.44
+4-6
+AAH Mål
+2:e
+21
+Henrik MØLLGAARD
+Assist
+7
+Felix CLAAR
+16
+Tobias THULIN
+9.06
+5-6
+GOG Mål
+PL
+34
+Morten OLSEN
+1
+Simon GADE
+10.15
+5-7
+AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+7
+Felix CLAAR
+16
+Tobias THULIN
+11.15
+GOG Tilkendt straffe
+14
+Lukas JØRGENSEN
+Forårs. str.
+19
+Kristian BJØRNSEN
+11.24
+6-7
+GOG Mål på straffe
+11
+Emil MADSEN
+1
+Simon GADE
+11.56
+6-8
+AAH Mål
+ST
+19
+Kristian BJØRNSEN
+Assist
+21
+Henrik MØLLGAARD
+16
+Tobias THULIN
+12.07
+GOG Skud reddet
+2:e
+9
+Jerry TOLLBRING
+1
+Simon GADE
+12.58
+6-9
+AAH Mål
+PL
+7
+Felix CLAAR
+16
+Tobias THULIN
+13.09
+GOG Tilkendt straffe
+33
+Nejc CEHTE
+Forårs. str.
+6
+Sebastian BARTHOLD
+13.09
+AAH Udvisning
+6
+Sebastian BARTHOLD
+13.10
+7-9
+GOG Mål på straffe
+11
+Emil MADSEN
+16
+Mikael AGGEFORS
+13.55
+7-10
+AAH Mål
+Gbr 11
+Lukas SANDELL
+16
+Tobias THULIN
+14.27
+GOG Skud reddet
+Gbr 11
+Emil MADSEN
+1
+Simon GADE
+15.23
+7-11
+AAH Mål
+PL
+11
+Lukas SANDELL
+16
+Tobias THULIN
+15.39
+AAH Udvisning
+21
+Henrik MØLLGAARD
+15.50
+8-11
+GOG Mål
+HF
+19
+Oskar Vind RASMUSSEN
+Assist
+11
+Emil MADSEN
+1
+Simon GADE
+16.25
+8-12
+AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+11
+Lukas SANDELL
+16
+Tobias THULIN
+16.49
+9-12
+GOG Mål
+HF
+19
+Oskar Vind RASMUSSEN
+Assist
+11
+Emil MADSEN
+1
+Simon GADE
+17.36
+9-13
+AAH Mål
+PL
+11
+Lukas SANDELL
+Assist
+7
+Felix CLAAR
+16
+Tobias THULIN
+17.49
+GOG Time out
+18.09 10-13 GOG Mål
+PL
+34
+Morten OLSEN
+1
+Simon GADE
+18.39
+AAH Fejlaflevering
+11
+Lukas SANDELL
+19.10 11-13 GOG Mål
+PL
+11
+Emil MADSEN
+1
+Simon GADE
+19.21
+AAH Time out
+19.51
+AAH Tilkendt straffe
+6
+Sebastian BARTHOLD
+Forårs. str.
+11
+Emil MADSEN
+19.51
+GOG Udvisning
+11
+Emil MADSEN
+19.55
+AAH Straffekast reddet
+23
+Buster JUUL
+Retur
+0
+16
+Tobias THULIN
+20.27 11-14 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+22
+Rene ANTONSEN
+16
+Tobias THULIN
+21.15
+GOG Skud reddet
+Gbr 15
+Lauritz LEGÉR
+1
+Simon GADE
+21.21 11-15 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+0
+
+--- Side 2 ---
+KAMPHÆNDELSER
+GOG - Aalborg Håndbold   29 - 34  (14 - 20)
+520857 / 4-6-2023 / Jyske Bank Arena Fyn / HTH Herreligaen - Finaler
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+21.56
+GOG Skud reddet
+Gbr 15
+Lauritz LEGÉR
+1
+Simon GADE
+22.17 11-16 AAH Mål
+PL
+7
+Felix CLAAR
+16
+Tobias THULIN
+22.53
+GOG Skud på stolpe
+PL
+2
+Simon PYTLICK
+1
+Simon GADE
+23.19 11-17 AAH Mål
+ST
+8
+Jesper NIELSEN
+Assist
+7
+Felix CLAAR
+16
+Tobias THULIN
+24.27
+GOG Regelfejl
+9
+Jerry TOLLBRING
+24.49 11-18 AAH Mål
+PL
+7
+Felix CLAAR
+12
+Matthias DORGELO
+25.22
+GOG Tilkendt straffe
+11
+Emil MADSEN
+Forårs. str.
+5
+Victor KLØVE
+25.35
+GOG Straffekast reddet
+11
+Emil MADSEN
+1
+Simon GADE
+26.11
+AAH Skud reddet
+VB
+5
+Victor KLØVE
+12
+Matthias DORGELO
+26.17
+Video Proof
+0
+26.17
+AAH Udvisning
+5
+Victor KLØVE
+26.17
+Video Proof slut
+0
+26.26 12-18 GOG Mål
+Gbr 11
+Emil MADSEN
+1
+Simon GADE
+26.59 12-19 AAH Mål
+Gbr 14
+Mads Hoxer HANGAARD
+12
+Matthias DORGELO
+27.07 13-19 GOG Mål
+2:e
+14
+Lukas JØRGENSEN
+0
+28.37
+AAH Skud blokeret
+PL
+21
+Henrik MØLLGAARD
+Blokeret af
+33
+Nejc CEHTE
+29.33 14-19 GOG Mål
+Gbr 11
+Emil MADSEN
+1
+Simon GADE
+29.53
+AAH Tilkendt straffe
+14
+Mads Hoxer HANGAARD
+Forårs. str.
+77
+Frederik CLAUSEN
+30.00 14-20 AAH Mål på straffe
+23
+Buster JUUL
+16
+Tobias THULIN
+30.00 14-20
+Halvleg
+30.00
+Start 2:e halvleg
+30.38 14-21 AAH Mål
+HB 11
+Lukas SANDELL
+16
+Tobias THULIN
+31.29
+GOG Skud blokeret
+PL
+11
+Emil MADSEN
+Blok af (ret)
+22
+Rene ANTONSEN
+31.36
+GOG Skud reddet
+HB 11
+Emil MADSEN
+1
+Simon GADE
+32.10
+AAH Skud reddet
+PL
+21
+Henrik MØLLGAARD
+16
+Tobias THULIN
+32.51
+GOG Tilkendt straffe
+2
+Simon PYTLICK
+Forårs. str.
+22
+Rene ANTONSEN
+33.02 15-21 GOG Mål på straffe
+9
+Jerry TOLLBRING
+1
+Simon GADE
+33.51 15-22 AAH Mål
+Gbr 11
+Lukas SANDELL
+16
+Tobias THULIN
+34.10
+GOG Skud reddet
+PL
+11
+Emil MADSEN
+1
+Simon GADE
+34.44
+AAH Skud blokeret
+PL
+7
+Felix CLAAR
+Blokeret af
+77
+Frederik CLAUSEN
+36.05 16-22 GOG Mål
+Gbr 19
+Oskar Vind RASMUSSEN
+Assist
+14
+Lukas JØRGENSEN
+1
+Simon GADE
+37.07
+AAH Regelfejl
+6
+Sebastian BARTHOLD
+37.07
+Video Proof
+0
+37.07
+AAH Udvisning
+6
+Sebastian BARTHOLD
+37.07
+Video Proof slut
+0
+37.25
+GOG Skud reddet
+Gbr 11
+Emil MADSEN
+Retur
+0
+1
+Simon GADE
+37.31 17-22 GOG Mål
+ST
+14
+Lukas JØRGENSEN
+1
+Simon GADE
+38.05
+AAH Skud reddet
+PL
+11
+Lukas SANDELL
+16
+Tobias THULIN
+38.20 18-22 GOG Mål
+1:e
+2
+Simon PYTLICK
+0
+38.44
+AAH Tilkendt straffe
+21
+Henrik MØLLGAARD
+Forårs. str.
+34
+Morten OLSEN
+38.48 18-23 AAH Mål på straffe
+23
+Buster JUUL
+16
+Tobias THULIN
+39.13 19-23 GOG Mål
+Gbr 11
+Emil MADSEN
+1
+Simon GADE
+40.37
+AAH Skud reddet
+PL
+21
+Henrik MØLLGAARD
+16
+Tobias THULIN
+40.55
+GOG Tilkendt straffe
+14
+Lukas JØRGENSEN
+Forårs. str.
+7
+Felix CLAAR
+40.59 20-23 GOG Mål på straffe
+9
+Jerry TOLLBRING
+1
+Simon GADE
+41.07
+AAH Time out
+41.34 20-24 AAH Mål
+Gbr 14
+Mads Hoxer HANGAARD
+16
+Tobias THULIN
+41.36
+Video Proof
+0
+41.36
+GOG Udvisning
+14
+Lukas JØRGENSEN
+41.36
+Video Proof slut
+0
+42.22
+GOG Skud reddet
+PL
+11
+Emil MADSEN
+Retur
+0
+1
+Simon GADE
+43.06
+GOG Fejlaflevering
+34
+Morten OLSEN
+43.10 20-25 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+7
+Felix CLAAR
+0
+43.42
+GOG Tilkendt straffe
+6
+Henrik JAKOBSEN
+Forårs. str.
+7
+Felix CLAAR
+
+--- Side 3 ---
+KAMPHÆNDELSER
+GOG - Aalborg Håndbold   29 - 34  (14 - 20)
+520857 / 4-6-2023 / Jyske Bank Arena Fyn / HTH Herreligaen - Finaler
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+43.53 21-25 GOG Mål på straffe
+9
+Jerry TOLLBRING
+16
+Mikael AGGEFORS
+44.29
+AAH Skud reddet
+PL
+14
+Mads Hoxer HANGAARD
+16
+Tobias THULIN
+45.01 22-25 GOG Mål
+ST
+14
+Lukas JØRGENSEN
+Assist
+2
+Simon PYTLICK
+1
+Simon GADE
+46.09 22-26 AAH Mål
+PL
+21
+Henrik MØLLGAARD
+16
+Tobias THULIN
+46.27 23-26 GOG Mål
+PL
+34
+Morten OLSEN
+1
+Simon GADE
+47.10 23-27 AAH Mål
+Gbr 21
+Henrik MØLLGAARD
+16
+Tobias THULIN
+47.20 24-27 GOG Mål
+2:e
+11
+Emil MADSEN
+1
+Simon GADE
+48.08 24-28 AAH Mål
+HB 14
+Mads Hoxer HANGAARD
+16
+Tobias THULIN
+48.36
+GOG Regelfejl
+14
+Lukas JØRGENSEN
+49.18
+AAH Tilkendt straffe
+14
+Mads Hoxer HANGAARD
+Forårs. str.
+14
+Lukas JØRGENSEN
+49.18
+GOG Udvisning
+14
+Lukas JØRGENSEN
+49.22
+AAH Straffekast reddet
+23
+Buster JUUL
+16
+Tobias THULIN
+50.20
+GOG Skud reddet
+PL
+34
+Morten OLSEN
+1
+Simon GADE
+50.51 24-29 AAH Mål
+ST
+2
+Benjamin JAKOBSEN
+Assist
+14
+Mads Hoxer HANGAARD
+16
+Tobias THULIN
+51.23
+GOG Time out
+51.32 25-29 GOG Mål
+PL
+2
+Simon PYTLICK
+1
+Simon GADE
+52.15 25-30 AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+14
+Mads Hoxer HANGAARD
+16
+Tobias THULIN
+52.55
+GOG Tilkendt straffe
+11
+Emil MADSEN
+Forårs. str.
+7
+Felix CLAAR
+53.07 26-30 GOG Mål på straffe
+9
+Jerry TOLLBRING
+1
+Simon GADE
+54.13
+AAH Skud reddet
+PL
+21
+Henrik MØLLGAARD
+16
+Tobias THULIN
+54.38 27-30 GOG Mål
+ST
+14
+Lukas JØRGENSEN
+Assist
+2
+Simon PYTLICK
+1
+Simon GADE
+55.44 27-31 AAH Mål
+VB
+7
+Felix CLAAR
+16
+Tobias THULIN
+56.13 28-31 GOG Mål
+ST
+14
+Lukas JØRGENSEN
+Assist
+2
+Simon PYTLICK
+1
+Simon GADE
+56.47 28-32 AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+14
+Mads Hoxer HANGAARD
+16
+Tobias THULIN
+56.58 29-32 GOG Mål
+2:e
+11
+Emil MADSEN
+1
+Simon GADE
+57.47
+AAH Skud reddet
+Gbr 22
+Rene ANTONSEN
+16
+Tobias THULIN
+57.57
+GOG Regelfejl
+14
+Lukas JØRGENSEN
+58.49 29-33 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+21
+Henrik MØLLGAARD
+16
+Tobias THULIN
+59.02
+GOG Skud forbi
+Gbr 19
+Oskar Vind RASMUSSEN
+1
+Simon GADE
+59.28 29-34 AAH Mål
+Gbr
+6
+Sebastian BARTHOLD
+16
+Tobias THULIN
+59.54
+GOG Skud reddet
+PL
+2
+Simon PYTLICK
+1
+Simon GADE
+60.00 29-34
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Michael Steenholdt, Anders Thoke, +

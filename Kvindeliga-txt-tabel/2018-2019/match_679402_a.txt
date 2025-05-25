@@ -1,0 +1,911 @@
+KAMPHÆNDELSER
+Viborg HK - Ajax København   23 - 19  (13 - 10)
+679402 / 13-2-2019 / Vibocold Arena 1, Viborg / HTH Ligaen Damer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.38
+AJX
+Regelfejl
+7
+Simone Monsrud PEDERSEN
+1.12
+1-0
+VHK Mål
+VB
+10
+Kristina JØRGENSEN
+1
+Sarah NØRKLIT
+1.53
+AJX
+Skud reddet
+PL
+15
+Cecilie WOLLER
+12
+Rikke POULSEN
+1.58
+2-0
+VHK Mål
+1:e
+7
+Stine ANDERSEN
+Assist
+12
+Rikke POULSEN
+1
+Sarah NØRKLIT
+2.35
+2-1
+AJX
+Mål
+ST
+7
+Simone Monsrud PEDERSEN Assist
+8
+Stine EIBERG JØRGENSEN
+12
+Rikke POULSEN
+2.47
+VHK Skud reddet
+VB
+11
+Line HAUGSTED
+1
+Sarah NØRKLIT
+3.00
+AJX
+Fejlaflevering
+7
+Simone Monsrud PEDERSEN
+3.15
+3-1
+VHK Mål
+VF
+23
+Ann Grete NØRGAARD
+Assist
+10
+Kristina JØRGENSEN
+1
+Sarah NØRKLIT
+3.51
+AJX
+Fejlaflevering
+8
+Stine EIBERG JØRGENSEN
+4.03
+VHK Fejlaflevering
+10
+Kristina JØRGENSEN
+4.30
+3-2
+AJX
+Mål
+ST
+7
+Simone Monsrud PEDERSEN Assist
+20
+Eva Bjørk DAVIDSDOTTIR
+12
+Rikke POULSEN
+5.05
+4-2
+VHK Mål
+PL
+8
+Carin STRÖMBERG
+1
+Sarah NØRKLIT
+5.20
+4-3
+AJX
+Mål
+HF
+19
+Anne Tolstrup PETERSEN
+Assist
+20
+Eva Bjørk DAVIDSDOTTIR
+12
+Rikke POULSEN
+5.51
+VHK Skud forbi
+HF
+7
+Stine ANDERSEN
+1
+Sarah NØRKLIT
+6.24
+AJX
+Skud på stolpe
+Gbr 20
+Eva Bjørk DAVIDSDOTTIR
+12
+Rikke POULSEN
+6.36
+VHK Skud reddet
+ST
+31
+Ida-Marie Moesgaard DAHL
+1
+Sarah NØRKLIT
+7.05
+VHK Advarsel
+11
+Line HAUGSTED
+7.34
+4-4
+AJX
+Mål
+Gbr 20
+Eva Bjørk DAVIDSDOTTIR
+12
+Rikke POULSEN
+8.06
+5-4
+VHK Mål
+PL
+11
+Line HAUGSTED
+1
+Sarah NØRKLIT
+8.37
+5-5
+AJX
+Mål
+VB
+8
+Stine EIBERG JØRGENSEN
+12
+Rikke POULSEN
+8.46
+6-5
+VHK Mål
+2:e
+8
+Carin STRÖMBERG
+1
+Sarah NØRKLIT
+9.33
+AJX
+Skud reddet
+HB 15
+Cecilie WOLLER
+12
+Rikke POULSEN
+9.44
+VHK Skud reddet
+2:e
+8
+Carin STRÖMBERG
+1
+Sarah NØRKLIT
+10.21
+AJX
+Fejlaflevering
+24
+Nikoline BRØNS
+10.34
+7-5
+VHK Mål
+VF
+23
+Ann Grete NØRGAARD
+Assist
+11
+Line HAUGSTED
+1
+Sarah NØRKLIT
+11.38
+AJX
+Tilkendt straffe
+24
+Nikoline BRØNS
+Forårsagede straffe
+7
+Stine ANDERSEN
+12.05
+7-6
+AJX
+Mål på straffekast
+26
+Nadia KONGSTED
+12
+Rikke POULSEN
+12.32
+8-6
+VHK Mål
+PL
+11
+Line HAUGSTED
+1
+Sarah NØRKLIT
+13.11
+AJX
+Skud reddet
+HF
+19
+Anne Tolstrup PETERSEN
+12
+Rikke POULSEN
+13.38
+VHK Tilkendt straffe
+8
+Carin STRÖMBERG
+Forårsagede straffe
+19
+Anne Tolstrup PETERSEN
+14.01
+9-6
+VHK Mål på straffekast
+23
+Ann Grete NØRGAARD
+1
+Sarah NØRKLIT
+14.09
+AJX
+Time out
+15.07
+9-7
+AJX
+Mål
+PL
+15
+Cecilie WOLLER
+12
+Rikke POULSEN
+15.47 10-7
+VHK Mål
+Gbr 23
+Ann Grete NØRGAARD
+Assist
+10
+Kristina JØRGENSEN
+1
+Sarah NØRKLIT
+16.29
+AJX
+Skud reddet
+HF
+26
+Nadia KONGSTED
+12
+Rikke POULSEN
+16.38
+AJX
+Udvisning
+20
+Eva Bjørk DAVIDSDOTTIR
+17.15
+VHK Skud reddet
+Gbr 10
+Kristina JØRGENSEN
+1
+Sarah NØRKLIT
+18.02
+AJX
+Skud reddet
+PL
+8
+Stine EIBERG JØRGENSEN
+Retur
+0
+12
+Rikke POULSEN
+18.34
+VHK Advarsel
+10
+Kristina JØRGENSEN
+18.58
+AJX
+Skud forbi
+PL
+8
+Stine EIBERG JØRGENSEN
+12
+Rikke POULSEN
+19.10
+VHK Tabt bold
+93
+Line UNO
+19.55 10-8
+AJX
+Mål
+HF
+26
+Nadia KONGSTED
+Assist
+8
+Stine EIBERG JØRGENSEN
+12
+Rikke POULSEN
+20.02
+VHK Time out
+20.40
+AJX
+Advarsel
+15
+Cecilie WOLLER
+21.01
+VHK Regelfejl
+43
+Anne Kjelstrup HYKKELBJERG
+21.13
+AJX
+Fejlaflevering
+20
+Eva Bjørk DAVIDSDOTTIR
+22.01
+VHK Tabt bold
+10
+Kristina JØRGENSEN
+Bold erobret 15
+Cecilie WOLLER
+22.03 10-9
+AJX
+Mål
+1:e
+2
+Sylvia GAMYS
+12
+Rikke POULSEN
+22.36 11-9
+VHK Mål
+HF
+7
+Stine ANDERSEN
+Assist
+6
+Moa HÖGDAHL
+1
+Sarah NØRKLIT
+23.10
+AJX
+Skud reddet
+PL
+23
+Amit IZAK
+12
+Rikke POULSEN
+23.14 12-9
+VHK Mål
+1:e
+7
+Stine ANDERSEN
+Assist
+12
+Rikke POULSEN
+1
+Sarah NØRKLIT
+23.53 12-10 AJX
+Mål
+Gbr 23
+Amit IZAK
+12
+Rikke POULSEN
+24.26
+VHK Skud reddet
+PL
+6
+Moa HÖGDAHL
+1
+Sarah NØRKLIT
+25.02
+AJX
+Skud reddet
+VB
+23
+Amit IZAK
+12
+Rikke POULSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Viborg HK - Ajax København   23 - 19  (13 - 10)
+679402 / 13-2-2019 / Vibocold Arena 1, Viborg / HTH Ligaen Damer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.08
+AJX
+Udvisning
+23
+Amit IZAK
+25.31
+VHK Fejlaflevering
+10
+Kristina JØRGENSEN
+26.08
+AJX
+Regelfejl
+24
+Nikoline BRØNS
+26.31
+VHK Fejlaflevering
+10
+Kristina JØRGENSEN
+27.17
+AJX
+Skud forbi
+PL
+8
+Stine EIBERG JØRGENSEN
+12
+Rikke POULSEN
+27.42 13-10 VHK Mål
+PL
+11
+Line HAUGSTED
+1
+Sarah NØRKLIT
+28.33
+AJX
+Fejlaflevering
+24
+Nikoline BRØNS
+28.42
+VHK Tabt bold
+7
+Stine ANDERSEN
+29.18
+AJX
+Regelfejl
+7
+Simone Monsrud PEDERSEN
+29.58
+VHK Skud på stolpe
+PL
+11
+Line HAUGSTED
+1
+Sarah NØRKLIT
+30.00 13-10
+Halvleg
+30.56
+VHK Skud reddet
+VB
+11
+Line HAUGSTED
+1
+Sarah NØRKLIT
+31.54
+AJX
+Skud reddet
+VB
+15
+Cecilie WOLLER
+12
+Rikke POULSEN
+31.59
+VHK Fejlaflevering
+11
+Line HAUGSTED
+32.56
+VHK Udvisning
+11
+Line HAUGSTED
+33.33 13-11 AJX
+Mål
+VF
+2
+Sylvia GAMYS
+Assist
+15
+Cecilie WOLLER
+12
+Rikke POULSEN
+34.08
+VHK Tilkendt straffe
+93
+Line UNO
+Forårsagede straffe
+20
+Eva Bjørk DAVIDSDOTTIR
+34.08
+AJX
+Udvisning
+20
+Eva Bjørk DAVIDSDOTTIR
+34.13
+VHK Straffekast reddet
+23
+Ann Grete NØRGAARD
+1
+Sarah NØRKLIT
+34.56
+AJX
+Skud forbi
+HF
+26
+Nadia KONGSTED
+12
+Rikke POULSEN
+35.56 14-11 VHK Mål
+Gbr
+6
+Moa HÖGDAHL
+1
+Sarah NØRKLIT
+37.07
+AJX
+Fejlaflevering
+8
+Stine EIBERG JØRGENSEN
+Bold erobret 10
+Kristina JØRGENSEN
+37.12
+VHK Regelfejl
+10
+Kristina JØRGENSEN
+37.40
+AJX
+Regelfejl
+8
+Stine EIBERG JØRGENSEN
+37.46
+VHK Skud forbi
+1:e
+93
+Line UNO
+1
+Sarah NØRKLIT
+38.27 14-12 AJX
+Mål
+Gbr 11
+Amanda DAHL
+12
+Rikke POULSEN
+39.03
+AJX
+Udvisning
+5
+Maja Eiberg JØRGENSEN
+39.41
+VHK Skud reddet
+PL
+10
+Kristina JØRGENSEN
+Retur
+31
+Ida-Marie Moesgaard DAHL
+1
+Sarah NØRKLIT
+39.52 15-12 VHK Mål
+ST
+31
+Ida-Marie Moesgaard DAHL
+1
+Sarah NØRKLIT
+40.26
+AJX
+Skud på stolpe
+HF
+26
+Nadia KONGSTED
+12
+Rikke POULSEN
+40.55
+VHK Skud reddet
+ST
+31
+Ida-Marie Moesgaard DAHL
+1
+Sarah NØRKLIT
+41.34 15-13 AJX
+Mål
+HB 19
+Anne Tolstrup PETERSEN
+12
+Rikke POULSEN
+41.45 16-13 VHK Mål
+2:e
+93
+Line UNO
+1
+Sarah NØRKLIT
+42.18 16-14 AJX
+Mål
+PL
+15
+Cecilie WOLLER
+12
+Rikke POULSEN
+42.25 17-14 VHK Mål
+2:e
+93
+Line UNO
+1
+Sarah NØRKLIT
+43.05 17-15 AJX
+Mål
+Gbr 11
+Amanda DAHL
+12
+Rikke POULSEN
+43.16
+VHK Tabt bold
+93
+Line UNO
+44.07
+AJX
+Skud blokeret
+PL
+11
+Amanda DAHL
+Retur
+0
+44.24
+AJX
+Skud på stolpe
+HF
+19
+Anne Tolstrup PETERSEN
+12
+Rikke POULSEN
+45.04 18-15 VHK Mål
+ST
+23
+Ann Grete NØRGAARD
+Assist
+11
+Line HAUGSTED
+1
+Sarah NØRKLIT
+45.11
+AJX
+Time out
+45.42 18-16 AJX
+Mål
+ST
+7
+Simone Monsrud PEDERSEN Assist
+23
+Amit IZAK
+1
+Hanna DAGLUND
+46.11 19-16 VHK Mål
+HB 10
+Kristina JØRGENSEN
+1
+Sarah NØRKLIT
+46.56 19-17 AJX
+Mål
+PL
+15
+Cecilie WOLLER
+1
+Hanna DAGLUND
+47.07 20-17 VHK Mål
+2:e
+7
+Stine ANDERSEN
+Assist
+8
+Carin STRÖMBERG
+12
+Emilie JACOBSEN
+47.51
+AJX
+Regelfejl
+15
+Cecilie WOLLER
+48.21
+VHK Time out
+48.41
+VHK Tabt bold
+7
+Stine ANDERSEN
+49.21
+AJX
+Skud på stolpe
+HF
+19
+Anne Tolstrup PETERSEN
+1
+Hanna DAGLUND
+49.30 21-17 VHK Mål
+1:e
+23
+Ann Grete NØRGAARD
+12
+Emilie JACOBSEN
+50.01
+AJX
+Skud blokeret
+PL
+20
+Eva Bjørk DAVIDSDOTTIR
+Retur
+0
+50.18
+AJX
+Skud reddet
+PL
+20
+Eva Bjørk DAVIDSDOTTIR
+Retur
+0
+1
+Hanna DAGLUND
+50.59
+AJX
+Skud forbi
+VB
+15
+Cecilie WOLLER
+1
+Hanna DAGLUND
+51.34
+VHK Regelfejl
+31
+Ida-Marie Moesgaard DAHL
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Viborg HK - Ajax København   23 - 19  (13 - 10)
+679402 / 13-2-2019 / Vibocold Arena 1, Viborg / HTH Ligaen Damer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+51.39
+AJX
+Skud reddet
+1:e
+15
+Cecilie WOLLER
+1
+Hanna DAGLUND
+52.16
+VHK Fejlaflevering
+8
+Carin STRÖMBERG
+52.21
+AJX
+Time out
+52.43
+AJX
+Skud reddet
+HF
+19
+Anne Tolstrup PETERSEN
+1
+Hanna DAGLUND
+53.35
+VHK Tilkendt straffe
+8
+Carin STRÖMBERG
+Forårsagede straffe
+20
+Eva Bjørk DAVIDSDOTTIR
+53.59
+VHK Straffekast forbi
+93
+Line UNO
+12
+Emilie JACOBSEN
+54.14
+AJX
+Regelfejl
+15
+Cecilie WOLLER
+54.41 22-17 VHK Mål
+ST
+31
+Ida-Marie Moesgaard DAHL
+Assist
+11
+Line HAUGSTED
+12
+Emilie JACOBSEN
+55.06 22-18 AJX
+Mål
+Gbr 15
+Cecilie WOLLER
+1
+Hanna DAGLUND
+55.36
+VHK Tilkendt straffe
+8
+Carin STRÖMBERG
+Forårsagede straffe
+7
+Simone Monsrud PEDERSEN
+55.47
+VHK Straffekast reddet
+10
+Kristina JØRGENSEN
+12
+Emilie JACOBSEN
+56.19
+AJX
+Regelfejl
+7
+Simone Monsrud PEDERSEN
+56.38 23-18 VHK Mål
+PL
+11
+Line HAUGSTED
+12
+Emilie JACOBSEN
+57.07
+AJX
+Skud reddet
+Gbr 20
+Eva Bjørk DAVIDSDOTTIR
+1
+Hanna DAGLUND
+57.44
+VHK Tabt bold
+7
+Stine ANDERSEN
+57.55 23-19 AJX
+Mål
+HF
+19
+Anne Tolstrup PETERSEN
+Assist
+15
+Cecilie WOLLER
+1
+Hanna DAGLUND
+58.09
+VHK Time out
+58.34
+VHK Fejlaflevering
+10
+Kristina JØRGENSEN
+Bold erobret 15
+Cecilie WOLLER
+59.07
+AJX
+Regelfejl
+24
+Nikoline BRØNS
+59.30
+VHK Skud forbi
+PL
+11
+Line HAUGSTED
+12
+Emilie JACOBSEN
+59.57
+AJX
+Skud blokeret
+PL
+15
+Cecilie WOLLER
+59.58
+VHK Skud forbi
+1:e
+1
+Hanna DAGLUND
+0
+60.00 23-19
+Fuld tid
+Software: Jilsén System AB. Logget af: Brian Juelsgaard, Michael Holst-Olese,

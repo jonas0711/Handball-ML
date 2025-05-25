@@ -1,0 +1,938 @@
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - Århus Håndbold   24 - 33  (11 - 12)
+679120 / 29-9-2018 / Blue Water Dokken / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.31
+0-1
+ARH Mål
+Gbr 93
+Anders Kragh MARTINUSEN
+12
+Søren RASMUSSEN
+1.24
+REH Skud blokeret
+VB
+19
+Nicolai PEDERSEN
+Retur
+0
+1.42
+REH Skud reddet
+ST
+21
+Miha ZVIZEJ
+12
+Jens FREDSGAARD
+1.50
+ARH Skud på stolpe
+2:e
+32
+Nikolaj LÆSØ
+Retur
+7
+Nikolai Skovmand VINTHER
+12
+Søren RASMUSSEN
+2.10
+0-2
+ARH Mål
+HF
+7
+Nikolai Skovmand VINTHER
+12
+Søren RASMUSSEN
+2.28
+REH Skud på stolpe
+PL
+6
+Lukas KARLSSON
+12
+Jens FREDSGAARD
+2.58
+ARH Skud på stolpe
+Gbr
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+4.04
+REH Tilkendt straffe
+21
+Miha ZVIZEJ
+Forårsagede straffe
+3
+Besard HAKAJ
+4.19
+1-2
+REH Mål på straffekast
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+5.29
+ARH Skud på stolpe
+PL
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+5.40
+2-2
+REH Mål
+PL
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+5.56
+REH Advarsel
+19
+Nicolai PEDERSEN
+6.41
+ARH Skud reddet
+VF
+67
+Tobias Torpegaard MØLLER
+12
+Søren RASMUSSEN
+6.47
+REH Skud blokeret
+PL
+5
+Runar KARASON
+7.10
+REH Advarsel
+6
+Lukas KARLSSON
+7.32
+2-3
+ARH Mål
+VB
+32
+Nikolaj LÆSØ
+12
+Søren RASMUSSEN
+7.39
+REH Skud forbi
+PL
+19
+Nicolai PEDERSEN
+12
+Jens FREDSGAARD
+7.54
+2-4
+ARH Mål
+VF
+67
+Tobias Torpegaard MØLLER
+Assist
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+7.54
+REH Udvisning
+21
+Miha ZVIZEJ
+8.31
+REH Regelfejl
+6
+Lukas KARLSSON
+8.55
+2-5
+ARH Mål
+ST
+5
+Kristian RAMMEL
+Assist
+10
+Jonas LANGERHUUS
+12
+Søren RASMUSSEN
+9.56
+REH Skud reddet
+ST
+8
+Jonas Bruus TIDEMAND
+12
+Jens FREDSGAARD
+10.42
+ARH Fejlaflevering
+8
+Torben PETERSEN
+10.53
+REH Skud blokeret
+PL
+19
+Nicolai PEDERSEN
+Retur
+0
+11.50
+ARH Udvisning
+93
+Anders Kragh MARTINUSEN
+12.00
+REH Tilkendt straffe
+31
+Jacob HEINL
+Forårsagede straffe
+32
+Nikolaj LÆSØ
+12.13
+3-5
+REH Mål på straffekast
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+13.23
+ARH Skud forbi
+HF
+7
+Nikolai Skovmand VINTHER
+12
+Søren RASMUSSEN
+13.38
+REH Skud reddet
+ST
+31
+Jacob HEINL
+12
+Jens FREDSGAARD
+14.09
+ARH Regelfejl
+8
+Torben PETERSEN
+14.44
+REH Skud reddet
+Gbr 19
+Nicolai PEDERSEN
+12
+Jens FREDSGAARD
+14.52
+ARH Fejlaflevering
+32
+Nikolaj LÆSØ
+15.34
+REH Regelfejl
+5
+Runar KARASON
+15.40
+ARH Fejlaflevering
+32
+Nikolaj LÆSØ
+Bold erobret
+2
+Magnus SØNDENÅ
+16.14
+4-5
+REH Mål
+PL
+19
+Nicolai PEDERSEN
+12
+Jens FREDSGAARD
+16.45
+ARH Regelfejl
+3
+Besard HAKAJ
+17.49
+5-5
+REH Mål
+HB
+5
+Runar KARASON
+Assist
+19
+Nicolai PEDERSEN
+12
+Jens FREDSGAARD
+17.59
+ARH Skud på stolpe
+2:e
+93
+Anders Kragh MARTINUSEN
+12
+Søren RASMUSSEN
+18.08
+REH Fejlaflevering
+2
+Magnus SØNDENÅ
+18.46
+5-6
+ARH Mål
+HB 93
+Anders Kragh MARTINUSEN
+Assist
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+19.23
+REH Tilkendt straffe
+21
+Miha ZVIZEJ
+Forårsagede straffe
+32
+Nikolaj LÆSØ
+19.33
+REH Straffekast reddet
+5
+Runar KARASON
+20
+Christoffer Hoffmann BONDE
+20.03
+ARH Skud reddet
+PL
+32
+Nikolaj LÆSØ
+Retur
+5
+Kristian RAMMEL
+12
+Søren RASMUSSEN
+20.15
+ARH Skud reddet
+ST
+5
+Kristian RAMMEL
+12
+Søren RASMUSSEN
+20.19
+6-6
+REH Mål
+2:e
+19
+Nicolai PEDERSEN
+12
+Jens FREDSGAARD
+20.36
+6-7
+ARH Mål
+ST
+3
+Besard HAKAJ
+Assist
+32
+Nikolaj LÆSØ
+12
+Søren RASMUSSEN
+21.17
+7-7
+REH Mål
+Gbr 19
+Nicolai PEDERSEN
+12
+Jens FREDSGAARD
+21.30
+7-8
+ARH Mål
+ST
+5
+Kristian RAMMEL
+Assist
+93
+Anders Kragh MARTINUSEN
+12
+Søren RASMUSSEN
+21.34
+REH Advarsel
+B
+Lars Lynge WALTHER
+22.03
+REH Time out
+22.38
+8-8
+REH Mål
+PL
+6
+Lukas KARLSSON
+12
+Jens FREDSGAARD
+23.16
+ARH Tilkendt straffe
+5
+Kristian RAMMEL
+Forårsagede straffe
+2
+Magnus SØNDENÅ
+23.33
+8-9
+ARH Mål på straffekast
+67
+Tobias Torpegaard MØLLER
+12
+Søren RASMUSSEN
+24.09
+REH Skud reddet
+PL
+7
+Simen Nicolay SCHØNNINGSEN
+Retur
+23
+Pelle Schilling GULDAGER
+12
+Jens FREDSGAARD
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - Århus Håndbold   24 - 33  (11 - 12)
+679120 / 29-9-2018 / Blue Water Dokken / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.28
+9-9
+REH Mål
+Gbr
+6
+Lukas KARLSSON
+12
+Jens FREDSGAARD
+25.02
+9-10
+ARH Mål
+PL
+32
+Nikolaj LÆSØ
+12
+Søren RASMUSSEN
+26.05 10-10 REH Mål
+HB
+7
+Simen Nicolay SCHØNNINGSEN
+12
+Jens FREDSGAARD
+26.22 10-11 ARH Mål
+PL
+32
+Nikolaj LÆSØ
+12
+Søren RASMUSSEN
+26.35
+ARH Advarsel
+2
+Peter LUND
+27.35
+REH Skud blokeret
+PL
+6
+Lukas KARLSSON
+Retur
+0
+27.45
+REH Skud forbi
+PL
+27
+Gunnar STEINN JÓNSSON
+12
+Jens FREDSGAARD
+28.07
+ARH Skud reddet
+HB 93
+Anders Kragh MARTINUSEN
+Retur
+3
+Besard HAKAJ
+12
+Søren RASMUSSEN
+28.22
+ARH Skud reddet
+PL
+32
+Nikolaj LÆSØ
+12
+Søren RASMUSSEN
+29.02 11-11 REH Mål
+Gbr
+7
+Simen Nicolay SCHØNNINGSEN
+12
+Jens FREDSGAARD
+29.06
+ARH Advarsel
+5
+Kristian RAMMEL
+29.36
+ARH Time out
+29.47 11-12 ARH Mål
+Gbr 93
+Anders Kragh MARTINUSEN
+12
+Søren RASMUSSEN
+29.54
+REH Skud på stolpe
+1:e
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+30.00 11-12
+Halvleg
+30.38 12-12 REH Mål
+HB
+6
+Lukas KARLSSON
+12
+Jens FREDSGAARD
+31.10
+ARH Regelfejl
+8
+Torben PETERSEN
+31.11
+ARH Udvisning
+5
+Kristian RAMMEL
+31.34 13-12 REH Mål
+HF
+2
+Magnus SØNDENÅ
+Assist
+27
+Gunnar STEINN JÓNSSON
+12
+Jens FREDSGAARD
+32.31 13-13 ARH Mål
+PL
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+32.51
+REH Skud på stolpe
+ST
+8
+Jonas Bruus TIDEMAND
+Retur
+23
+Pelle Schilling GULDAGER
+12
+Jens FREDSGAARD
+33.03
+REH Fejlaflevering
+27
+Gunnar STEINN JÓNSSON
+33.32
+ARH Skud blokeret
+HB 93
+Anders Kragh MARTINUSEN
+33.38 14-13 REH Mål
+2:e
+27
+Gunnar STEINN JÓNSSON
+Assist
+7
+Simen Nicolay SCHØNNINGSEN
+12
+Jens FREDSGAARD
+34.05 14-14 ARH Mål
+VB
+32
+Nikolaj LÆSØ
+12
+Søren RASMUSSEN
+34.58 15-14 REH Mål
+HF
+2
+Magnus SØNDENÅ
+Assist
+7
+Simen Nicolay SCHØNNINGSEN
+12
+Jens FREDSGAARD
+35.22 15-15 ARH Mål
+PL
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+35.27 16-15 REH Mål
+2:e
+2
+Magnus SØNDENÅ
+12
+Jens FREDSGAARD
+35.57
+ARH Skud forbi
+ST
+3
+Besard HAKAJ
+12
+Søren RASMUSSEN
+36.08
+REH Skud reddet
+Gbr
+6
+Lukas KARLSSON
+12
+Jens FREDSGAARD
+36.26 16-16 ARH Mål
+HF
+7
+Nikolai Skovmand VINTHER
+Assist
+93
+Anders Kragh MARTINUSEN
+12
+Søren RASMUSSEN
+37.03 17-16 REH Mål
+PL
+27
+Gunnar STEINN JÓNSSON
+12
+Jens FREDSGAARD
+37.39 17-17 ARH Mål
+PL
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+38.24
+REH Regelfejl
+27
+Gunnar STEINN JÓNSSON
+38.34 17-18 ARH Mål
+VB
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+39.11
+REH Skud reddet
+PL
+7
+Simen Nicolay SCHØNNINGSEN
+12
+Jens FREDSGAARD
+40.11
+ARH Skud blokeret
+HB 93
+Anders Kragh MARTINUSEN
+40.17 18-18 REH Mål
+1:e
+23
+Pelle Schilling GULDAGER
+Assist
+2
+Magnus SØNDENÅ
+12
+Jens FREDSGAARD
+41.02 18-19 ARH Mål
+PL
+8
+Torben PETERSEN
+1
+Tim WINKLER
+41.38 19-19 REH Mål
+ST
+8
+Jonas Bruus TIDEMAND
+Assist
+6
+Lukas KARLSSON
+12
+Jens FREDSGAARD
+41.49 19-20 ARH Mål
+VB
+8
+Torben PETERSEN
+1
+Tim WINKLER
+42.01
+REH Regelfejl
+23
+Pelle Schilling GULDAGER
+42.09 19-21 ARH Mål
+Gbr 32
+Nikolaj LÆSØ
+1
+Tim WINKLER
+42.17
+REH Time out
+42.59 20-21 REH Mål
+PL
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+43.44 20-22 ARH Mål
+VB
+32
+Nikolaj LÆSØ
+1
+Tim WINKLER
+44.10
+REH Skud reddet
+ST
+21
+Miha ZVIZEJ
+12
+Jens FREDSGAARD
+44.44 20-23 ARH Mål
+VB
+32
+Nikolaj LÆSØ
+12
+Søren RASMUSSEN
+45.11
+REH Skud reddet
+HB
+5
+Runar KARASON
+Retur
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+45.15 21-23 REH Mål
+ST
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+45.46
+ARH Skud reddet
+HB 93
+Anders Kragh MARTINUSEN
+12
+Søren RASMUSSEN
+46.26
+REH Fejlaflevering
+6
+Lukas KARLSSON
+46.29 21-24 ARH Mål
+1:e
+31
+Fredrik Schilling SØRENSEN
+Assist
+3
+Besard HAKAJ
+12
+Søren RASMUSSEN
+47.04
+REH Fejlaflevering
+27
+Gunnar STEINN JÓNSSON
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - Århus Håndbold   24 - 33  (11 - 12)
+679120 / 29-9-2018 / Blue Water Dokken / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+47.10 21-25 ARH Mål
+VF
+31
+Fredrik Schilling SØRENSEN
+Assist
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+47.14
+REH Time out
+47.59
+REH Skud blokeret
+PL
+6
+Lukas KARLSSON
+Retur
+0
+48.07
+REH Passivt spil
+0
+48.51
+ARH Tabt bold
+93
+Anders Kragh MARTINUSEN
+49.00 22-25 REH Mål
+HB
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+49.35
+ARH Tilkendt straffe
+3
+Besard HAKAJ
+Forårsagede straffe
+21
+Miha ZVIZEJ
+49.39 22-26 ARH Mål på straffekast
+67
+Tobias Torpegaard MØLLER
+12
+Søren RASMUSSEN
+50.26
+REH Skud forbi
+PL
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+50.53 22-27 ARH Mål
+PL
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+51.01
+ARH Udvisning
+5
+Kristian RAMMEL
+51.11
+REH Skud forbi
+VF
+23
+Pelle Schilling GULDAGER
+12
+Jens FREDSGAARD
+52.20 22-28 ARH Mål
+HF
+15
+Mads Peter LØNBORG
+12
+Søren RASMUSSEN
+52.43
+REH Skud reddet
+VF
+23
+Pelle Schilling GULDAGER
+12
+Jens FREDSGAARD
+53.13
+ARH Skud reddet
+PL
+8
+Torben PETERSEN
+12
+Søren RASMUSSEN
+53.21
+REH Skud på stolpe
+PL
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+53.53 22-29 ARH Mål
+VF
+31
+Fredrik Schilling SØRENSEN
+Assist
+32
+Nikolaj LÆSØ
+12
+Søren RASMUSSEN
+54.27
+REH Fejlaflevering
+19
+Nicolai PEDERSEN
+55.15
+ARH Skud reddet
+VB
+32
+Nikolaj LÆSØ
+12
+Søren RASMUSSEN
+55.29 23-29 REH Mål
+ST
+31
+Jacob HEINL
+Assist
+5
+Runar KARASON
+12
+Jens FREDSGAARD
+55.59
+ARH Skud reddet
+HB 93
+Anders Kragh MARTINUSEN
+12
+Søren RASMUSSEN
+56.10
+REH Skud reddet
+ST
+31
+Jacob HEINL
+12
+Jens FREDSGAARD
+57.03
+REH Udvisning
+2
+Magnus SØNDENÅ
+57.24 23-30 ARH Mål
+VF
+31
+Fredrik Schilling SØRENSEN
+Assist
+10
+Jonas LANGERHUUS
+12
+Søren RASMUSSEN
+58.11
+REH Skud blokeret
+PL
+6
+Lukas KARLSSON
+58.20 23-31 ARH Mål
+1:e
+2
+Peter LUND
+0
+58.42 24-31 REH Mål
+PL
+19
+Nicolai PEDERSEN
+12
+Jens FREDSGAARD
+59.05 24-32 ARH Mål
+ST
+5
+Kristian RAMMEL
+Assist
+0
+12
+Søren RASMUSSEN
+59.33
+REH Skud forbi
+VB
+19
+Nicolai PEDERSEN
+12
+Jens FREDSGAARD
+60.00 24-33 ARH Mål
+PL
+32
+Nikolaj LÆSØ
+12
+Søren RASMUSSEN
+60.00 24-33
+Fuld tid
+Software: Jilsén System AB. Logget af: Casper Schmidt, Anette Knudsen,

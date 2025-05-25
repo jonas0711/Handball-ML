@@ -1,0 +1,873 @@
+KAMPHÆNDELSER
+Bjerringbro-Silkeborg - Fredericia Håndboldklub   25 - 36  (11 - 17)
+111268 / 20-4-2025 / JYSK Arena A / Slutspil Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.53
+FHK
+Skud reddet
+Gbr 31
+William ANDERSSON MOBERG
+12
+Kasper LARSEN
+1.34
+1-0
+BSH Mål
+Gbr 34
+Morten OLSEN
+1
+Sebastian FRANDSEN
+2.08
+FHK
+Skud blokeret
+VB
+15
+Mads KJELDGAARD
+Blokeret af
+22
+Anders ZACHARIASSEN
+2.41
+BSH Skud forbi
+HF
+4
+Patrick BOLDSEN
+1
+Sebastian FRANDSEN
+3.19
+FHK
+Skud reddet
+PL
+15
+Mads KJELDGAARD
+12
+Kasper LARSEN
+3.23
+BSH Fejlaflevering
+13
+Lasse SUNDE LID
+4.13
+1-1
+FHK Mål
+PL
+15
+Mads KJELDGAARD
+12
+Kasper LARSEN
+4.59
+BSH Tabt bold
+13
+Lasse SUNDE LID
+5.03
+1-2
+FHK Mål
+1:e
+23
+Einar ÓLAFSSON
+12
+Kasper LARSEN
+5.37
+BSH Skud reddet
+VB
+32
+Nikolaj LÆSØ
+1
+Sebastian FRANDSEN
+6.15
+1-3
+FHK Mål
+HB 93
+Anders Kragh MARTINUSEN
+12
+Kasper LARSEN
+6.55
+BSH Skud forbi
+PL
+34
+Morten OLSEN
+1
+Sebastian FRANDSEN
+7.26
+1-4
+FHK Mål
+PL
+15
+Mads KJELDGAARD
+Assist
+93
+Anders Kragh MARTINUSEN
+12
+Kasper LARSEN
+7.57
+BSH Tilkendt straffe
+22
+Anders ZACHARIASSEN
+Forårs. str.
+93
+Anders Kragh MARTINUSEN
+8.02
+2-4
+BSH Mål på straffe
+9
+Gudmundur Bragi ASTPARSSON
+1
+Sebastian FRANDSEN
+8.46
+FHK
+Skud reddet
+HF
+20
+Fredrik MOSSESTAD
+12
+Kasper LARSEN
+9.39
+BSH Tilkendt straffe
+2
+Benjamin JAKOBSEN
+Forårs. str.
+15
+Mads KJELDGAARD
+9.45
+3-4
+BSH Mål på straffe
+9
+Gudmundur Bragi ASTPARSSON
+1
+Sebastian FRANDSEN
+10.33
+3-5
+FHK Mål
+VB
+15
+Mads KJELDGAARD
+12
+Kasper LARSEN
+10.49
+4-5
+BSH Mål
+2:e
+4
+Patrick BOLDSEN
+Assist
+34
+Morten OLSEN
+1
+Sebastian FRANDSEN
+11.23
+FHK Fejlaflevering
+93
+Anders Kragh MARTINUSEN
+11.45
+FHK Advarsel
+9
+Martin BISGAARD
+12.00
+5-5
+BSH Mål
+VF
+23
+Mads LENBROCH
+Assist
+34
+Morten OLSEN
+1
+Sebastian FRANDSEN
+12.57
+FHK Fejlaflevering
+93
+Anders Kragh MARTINUSEN
+13.02
+6-5
+BSH Mål
+1:e
+19
+René Toft HANSEN
+Assist
+32
+Nikolaj LÆSØ
+1
+Sebastian FRANDSEN
+13.49
+BSH Advarsel
+4
+Patrick BOLDSEN
+14.17
+6-6
+FHK Mål
+ST
+9
+Martin BISGAARD
+Assist
+93
+Anders Kragh MARTINUSEN
+12
+Kasper LARSEN
+14.54
+BSH Skud reddet
+ST
+2
+Benjamin JAKOBSEN
+1
+Sebastian FRANDSEN
+15.48
+6-7
+FHK Mål
+ST
+41
+Evgeni PEVNOV
+Assist
+15
+Mads KJELDGAARD
+12
+Kasper LARSEN
+16.44
+BSH Fejlaflevering
+34
+Morten OLSEN
+16.48
+6-8
+FHK Mål
+1:e
+1
+Sebastian FRANDSEN
+0
+16.51
+BSH Time out
+17.18
+BSH Fejlaflevering
+34
+Morten OLSEN
+17.28
+FHK Skud blokeret
+2:e
+23
+Einar ÓLAFSSON
+Blok af (ret)
+32
+Nikolaj LÆSØ
+18.03
+6-9
+FHK Mål
+Gbr 97
+Reinier TABOADA
+12
+Kasper LARSEN
+18.12
+BSH Skud på stolpe
+2:e
+14
+Alexander LYNGGAARD
+1
+Sebastian FRANDSEN
+19.03
+6-10
+FHK Mål
+PL
+97
+Reinier TABOADA
+12
+Kasper LARSEN
+19.41
+BSH Fejlaflevering
+34
+Morten OLSEN
+19.44
+6-11
+FHK Mål
+1:e
+97
+Reinier TABOADA
+0
+20.22
+BSH Skud reddet
+PL
+32
+Nikolaj LÆSØ
+1
+Sebastian FRANDSEN
+20.48
+FHK Fejlaflevering
+97
+Reinier TABOADA
+21.21
+7-11
+BSH Mål
+PL
+32
+Nikolaj LÆSØ
+1
+Sebastian FRANDSEN
+21.53
+FHK Tabt bold
+9
+Martin BISGAARD
+21.57
+BSH Fejlaflevering
+32
+Nikolaj LÆSØ
+Bold erobret 97
+Reinier TABOADA
+21.59
+7-12
+FHK Mål
+1:e
+97
+Reinier TABOADA
+0
+22.32
+FHK Advarsel
+13
+Lasse BALSTAD
+22.49
+8-12
+BSH Mål
+Gbr 26
+Peter BALLING
+Assist
+2
+Benjamin JAKOBSEN
+1
+Sebastian FRANDSEN
+22.54
+8-13
+FHK Mål
+2:e
+93
+Anders Kragh MARTINUSEN
+0
+23.19
+BSH Fejlaflevering
+9
+Gudmundur Bragi ASTPARSSON
+23.22
+8-14
+FHK Mål
+1:e
+97
+Reinier TABOADA
+0
+24.19
+9-14
+BSH Mål
+ST
+2
+Benjamin JAKOBSEN
+Assist
+9
+Gudmundur Bragi ASTPARSSON1
+Sebastian FRANDSEN
+25.06
+9-15
+FHK Mål
+Gbr 97
+Reinier TABOADA
+1
+Mikkel LØVKVIST
+25.12
+BSH Tabt bold
+2
+Benjamin JAKOBSEN
+Bold erobret 23
+Einar ÓLAFSSON
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Bjerringbro-Silkeborg - Fredericia Håndboldklub   25 - 36  (11 - 17)
+111268 / 20-4-2025 / JYSK Arena A / Slutspil Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.51
+BSH Advarsel
+14
+Alexander LYNGGAARD
+26.10
+9-16
+FHK Mål
+VB
+97
+Reinier TABOADA
+1
+Mikkel LØVKVIST
+26.44 10-16 BSH Mål
+HF
+4
+Patrick BOLDSEN
+Assist
+26
+Peter BALLING
+1
+Sebastian FRANDSEN
+27.14
+FHK Skud på stolpe
+Gbr 31
+William ANDERSSON MOBERG
+1
+Mikkel LØVKVIST
+27.38 11-16 BSH Mål
+ST
+22
+Anders ZACHARIASSEN
+Assist
+26
+Peter BALLING
+1
+Sebastian FRANDSEN
+28.25
+FHK Tilkendt straffe
+97
+Reinier TABOADA
+Forårs. str.
+4
+Patrick BOLDSEN
+28.31 11-17 FHK Mål på straffe
+31
+William ANDERSSON MOBERG
+1
+Mikkel LØVKVIST
+29.05
+FHK Udvisning
+23
+Einar ÓLAFSSON
+29.31
+BSH Skud reddet
+HF
+4
+Patrick BOLDSEN
+1
+Sebastian FRANDSEN
+29.43
+FHK Time out
+30.00
+FHK Skud blokeret
+PL
+15
+Mads KJELDGAARD
+Blokeret af
+19
+René Toft HANSEN
+30.00 11-17
+Halvleg
+30.00
+Start 2:e halvleg
+30.23 12-17 BSH Mål
+Gbr 13
+Lasse SUNDE LID
+Assist
+34
+Morten OLSEN
+1
+Sebastian FRANDSEN
+31.15 12-18 FHK Mål
+Gbr 97
+Reinier TABOADA
+1
+Mikkel LØVKVIST
+31.51
+BSH Skud forbi
+ST
+2
+Benjamin JAKOBSEN
+1
+Sebastian FRANDSEN
+32.28
+FHK Skud forbi
+PL
+97
+Reinier TABOADA
+1
+Mikkel LØVKVIST
+32.35
+BSH Regelfejl
+22
+Anders ZACHARIASSEN
+32.46
+FHK Skud reddet
+2:e
+20
+Fredrik MOSSESTAD
+1
+Mikkel LØVKVIST
+33.12
+BSH Skud reddet
+Gbr
+9
+Gudmundur Bragi ASTPARSSON
+1
+Sebastian FRANDSEN
+33.54 12-19 FHK Mål
+ST
+41
+Evgeni PEVNOV
+Assist
+31
+William ANDERSSON MOBERG1
+Mikkel LØVKVIST
+34.20 13-19 BSH Mål
+VF
+23
+Mads LENBROCH
+Assist
+9
+Gudmundur Bragi ASTPARSSON1
+Sebastian FRANDSEN
+35.18 13-20 FHK Mål
+Gbr 31
+William ANDERSSON MOBERGAssist
+93
+Anders Kragh MARTINUSEN
+1
+Mikkel LØVKVIST
+36.05
+BSH Tabt bold
+32
+Nikolaj LÆSØ
+Bold erobret 93
+Anders Kragh MARTINUSEN
+36.08 13-21 FHK Mål
+1:e
+23
+Einar ÓLAFSSON
+Assist
+93
+Anders Kragh MARTINUSEN
+0
+36.44 14-21 BSH Mål
+PL
+32
+Nikolaj LÆSØ
+1
+Sebastian FRANDSEN
+37.22
+FHK Skud reddet
+Gbr 31
+William ANDERSSON MOBERG
+1
+Mikkel LØVKVIST
+37.35
+BSH Tabt bold
+13
+Lasse SUNDE LID
+37.37 14-22 FHK Mål
+1:e
+93
+Anders Kragh MARTINUSEN
+0
+37.37
+FHK Time out
+37.59 15-22 BSH Mål
+Gbr
+9
+Gudmundur Bragi ASTPARSSON
+1
+Sebastian FRANDSEN
+38.12
+BSH Udvisning
+22
+Anders ZACHARIASSEN
+38.39 15-23 FHK Mål
+ST
+41
+Evgeni PEVNOV
+Assist
+93
+Anders Kragh MARTINUSEN
+1
+Mikkel LØVKVIST
+39.25
+BSH Skud reddet
+Gbr 14
+Alexander LYNGGAARD
+1
+Sebastian FRANDSEN
+39.50 15-24 FHK Mål
+Gbr 97
+Reinier TABOADA
+Assist
+93
+Anders Kragh MARTINUSEN
+1
+Mikkel LØVKVIST
+39.50
+Video Proof
+0
+40.23
+FHK Udvisning
+97
+Reinier TABOADA
+40.26
+Video Proof slut
+0
+40.50 16-24 BSH Mål
+Gbr 26
+Peter BALLING
+1
+Sebastian FRANDSEN
+41.29 16-25 FHK Mål
+ST
+41
+Evgeni PEVNOV
+Assist
+93
+Anders Kragh MARTINUSEN
+1
+Mikkel LØVKVIST
+42.05
+BSH Regelfejl
+26
+Peter BALLING
+42.40 16-26 FHK Mål
+Gbr 31
+William ANDERSSON MOBERG
+12
+Kasper LARSEN
+42.48
+BSH Fejlaflevering
+26
+Peter BALLING
+42.54 16-27 FHK Mål
+1:e
+31
+William ANDERSSON MOBERGAssist
+15
+Mads KJELDGAARD
+12
+Kasper LARSEN
+43.36
+BSH Tilkendt straffe
+97
+Magnus RAHBEK
+Forårs. str.
+9
+Martin BISGAARD
+43.39 17-27 BSH Mål på straffe
+9
+Gudmundur Bragi ASTPARSSON
+16
+Thorsten FRIES
+44.26
+FHK Tilkendt straffe
+41
+Evgeni PEVNOV
+Forårs. str.
+22
+Anders ZACHARIASSEN
+44.29
+FHK Straffekast reddet
+31
+William ANDERSSON MOBERG
+12
+Kasper LARSEN
+45.01 18-27 BSH Mål
+VB
+34
+Morten OLSEN
+1
+Sebastian FRANDSEN
+45.40
+BSH Udvisning
+97
+Magnus RAHBEK
+46.26
+FHK Regelfejl
+15
+Mads KJELDGAARD
+47.02
+BSH Tilkendt straffe
+22
+Anders ZACHARIASSEN
+Forårs. str.
+13
+Lasse BALSTAD
+47.06 19-27 BSH Mål på straffe
+9
+Gudmundur Bragi ASTPARSSON
+16
+Thorsten FRIES
+47.39 19-28 FHK Mål
+Gbr 31
+William ANDERSSON MOBERG
+12
+Kasper LARSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Bjerringbro-Silkeborg - Fredericia Håndboldklub   25 - 36  (11 - 17)
+111268 / 20-4-2025 / JYSK Arena A / Slutspil Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+47.53
+BSH Time out
+48.06 20-28 BSH Mål
+Gbr 26
+Peter BALLING
+1
+Sebastian FRANDSEN
+48.46 20-29 FHK Mål
+Gbr 93
+Anders Kragh MARTINUSEN
+12
+Kasper LARSEN
+48.55 21-29 BSH Mål
+2:e
+26
+Peter BALLING
+1
+Sebastian FRANDSEN
+49.40
+FHK Time out
+50.04
+FHK Skud reddet
+VF
+9
+Martin BISGAARD
+Retur
+0
+12
+Kasper LARSEN
+50.25 21-30 FHK Mål
+PL
+15
+Mads KJELDGAARD
+12
+Kasper LARSEN
+51.03
+BSH Tilkendt straffe
+97
+Magnus RAHBEK
+Forårs. str.
+93
+Anders Kragh MARTINUSEN
+51.09
+BSH Straffekast reddet
+9
+Gudmundur Bragi ASTPARSSON
+1
+Sebastian FRANDSEN
+51.57
+FHK Skud reddet
+Gbr 31
+William ANDERSSON MOBERGRetur
+0
+12
+Kasper LARSEN
+52.23 21-31 FHK Mål
+VF
+9
+Martin BISGAARD
+Assist
+15
+Mads KJELDGAARD
+12
+Kasper LARSEN
+52.34 22-31 BSH Mål
+2:e
+97
+Magnus RAHBEK
+1
+Sebastian FRANDSEN
+53.14 22-32 FHK Mål
+Gbr 31
+William ANDERSSON MOBERG
+12
+Kasper LARSEN
+53.14
+BSH Udvisning
+22
+Anders ZACHARIASSEN
+53.40
+BSH Skud reddet
+PL
+97
+Magnus RAHBEK
+1
+Sebastian FRANDSEN
+54.19 22-33 FHK Mål
+Gbr 15
+Mads KJELDGAARD
+12
+Kasper LARSEN
+54.54
+BSH Fejlaflevering
+34
+Morten OLSEN
+54.57 22-34 FHK Mål
+1:e
+93
+Anders Kragh MARTINUSEN
+0
+55.37 23-34 BSH Mål
+PL
+13
+Lasse SUNDE LID
+1
+Sebastian FRANDSEN
+56.19 23-35 FHK Mål
+PL
+97
+Reinier TABOADA
+12
+Kasper LARSEN
+56.47 24-35 BSH Mål
+VF
+17
+August FRIDÉN
+Assist
+97
+Magnus RAHBEK
+1
+Sebastian FRANDSEN
+57.19 24-36 FHK Mål
+PL
+97
+Reinier TABOADA
+12
+Kasper LARSEN
+57.49 25-36 BSH Mål
+Gbr 13
+Lasse SUNDE LID
+1
+Sebastian FRANDSEN
+58.45
+FHK Skud på stolpe
+VF
+14
+Frederik JÆGERUM
+12
+Kasper LARSEN
+59.16
+BSH Fejlaflevering
+13
+Lasse SUNDE LID
+60.00 25-36
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Daniel, Hansen,

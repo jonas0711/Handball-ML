@@ -1,0 +1,956 @@
+KAMPHÆNDELSER
+København Håndbold - Ikast Håndbold   21 - 32  (9 - 19)
+458434 / 11-3-2023 / Frederiksberg Opvisning / Kvindeligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.34
+0-1
+IKA
+Mål
+ST
+11
+Sarah IVERSEN
+Assist
+17
+Simone PETERSEN
+1
+Katharina FILTER
+1.36
+KBH Skud reddet
+HB 15
+Emma NAVNE
+1
+Jessica RYDE
+2.31
+0-2
+IKA
+Mål
+ST
+11
+Sarah IVERSEN
+Assist
+21
+Ingvild BAKKERUD
+1
+Katharina FILTER
+2.39
+1-2
+KBH Mål
+2:e
+22
+Stine JØRGENSEN
+1
+Jessica RYDE
+3.22
+IKA
+Skud forbi
+VB
+21
+Ingvild BAKKERUD
+1
+Katharina FILTER
+3.33
+2-2
+KBH Mål
+VF
+24
+Fie WOLLER
+Assist
+15
+Emma NAVNE
+1
+Jessica RYDE
+4.09
+2-3
+IKA
+Mål
+PL
+17
+Simone PETERSEN
+1
+Katharina FILTER
+4.37
+KBH Skud reddet
+PL
+22
+Stine JØRGENSEN
+1
+Jessica RYDE
+4.52
+2-4
+IKA
+Mål
+Gbr
+7
+Stine SKOGRAND
+1
+Katharina FILTER
+5.00
+KBH Skud reddet
+HB 23
+Silje BRØNS
+1
+Jessica RYDE
+5.07
+IKA
+Tabt bold
+11
+Sarah IVERSEN
+5.38
+3-4
+KBH Mål
+ST
+21
+Sofia HVENFELT
+Assist
+22
+Stine JØRGENSEN
+1
+Jessica RYDE
+6.14
+IKA
+Skud reddet
+Gbr 21
+Ingvild BAKKERUD
+Retur
+0
+1
+Katharina FILTER
+6.30
+3-5
+IKA
+Mål
+VF
+15
+Emma FRIIS
+Assist
+21
+Ingvild BAKKERUD
+1
+Katharina FILTER
+7.34
+4-5
+KBH Mål
+VF
+24
+Fie WOLLER
+Assist
+22
+Stine JØRGENSEN
+1
+Jessica RYDE
+8.06
+4-6
+IKA
+Mål
+Gbr
+7
+Stine SKOGRAND
+1
+Katharina FILTER
+8.17
+KBH Regelfejl
+24
+Fie WOLLER
+8.44
+IKA
+Fejlaflevering
+17
+Simone PETERSEN
+8.56
+KBH Fejlaflevering
+21
+Sofia HVENFELT
+9.44
+4-7
+IKA
+Mål
+HB
+7
+Stine SKOGRAND
+1
+Katharina FILTER
+10.37
+KBH Tilkendt straffe
+23
+Silje BRØNS
+Forårs. str.
+93
+Line UNO
+10.52
+5-7
+KBH Mål på straffe
+22
+Stine JØRGENSEN
+1
+Jessica RYDE
+11.25
+IKA
+Fejlaflevering
+21
+Ingvild BAKKERUD
+11.31
+KBH Fejlaflevering
+1
+Katharina FILTER
+11.56
+IKA
+Skud reddet
+VF
+15
+Emma FRIIS
+1
+Katharina FILTER
+12.28
+6-7
+KBH Mål
+Gbr 22
+Stine JØRGENSEN
+Assist
+34
+Andrea HANSEN
+1
+Jessica RYDE
+13.16
+6-8
+IKA
+Mål
+VF
+15
+Emma FRIIS
+Assist
+21
+Ingvild BAKKERUD
+1
+Katharina FILTER
+13.32
+7-8
+KBH Mål
+HF
+34
+Andrea HANSEN
+Assist
+23
+Silje BRØNS
+1
+Jessica RYDE
+13.59
+7-9
+IKA
+Mål
+Gbr 17
+Simone PETERSEN
+1
+Katharina FILTER
+14.40
+KBH Time out
+15.37
+KBH Skud blokeret
+PL
+15
+Emma NAVNE
+Blok af (ret)
+11
+Sarah IVERSEN
+15.47
+KBH Skud reddet
+HB 28
+Clara Skyum THOMSEN
+1
+Jessica RYDE
+16.12
+7-10
+IKA
+Mål
+VB
+21
+Ingvild BAKKERUD
+1
+Katharina FILTER
+17.02
+8-10
+KBH Mål
+ST
+21
+Sofia HVENFELT
+Assist
+15
+Emma NAVNE
+1
+Jessica RYDE
+17.50
+8-11
+IKA
+Mål
+Gbr 17
+Simone PETERSEN
+1
+Katharina FILTER
+18.51
+KBH Skud blokeret
+HB 28
+Clara Skyum THOMSEN
+Blok af (ret)
+11
+Sarah IVERSEN
+19.16
+KBH Passivt spil
+0
+19.47
+IKA
+Skud reddet
+Gbr
+7
+Stine SKOGRAND
+1
+Katharina FILTER
+20.01
+KBH Fejlaflevering
+22
+Stine JØRGENSEN
+20.30
+8-12
+IKA
+Mål
+HF
+77
+Line HOUGAARD
+Assist
+21
+Ingvild BAKKERUD
+1
+Katharina FILTER
+21.25
+KBH Skud reddet
+PL
+15
+Emma NAVNE
+1
+Jessica RYDE
+21.56
+8-13
+IKA
+Mål
+HF
+77
+Line HOUGAARD
+Assist
+19
+Alberte EBLER
+1
+Katharina FILTER
+22.53
+KBH Skud reddet
+HF
+34
+Andrea HANSEN
+1
+Jessica RYDE
+23.23
+8-14
+IKA
+Mål
+VB
+21
+Ingvild BAKKERUD
+1
+Katharina FILTER
+23.36
+KBH Fejlaflevering
+23
+Silje BRØNS
+24.10
+8-15
+IKA
+Mål
+ST
+13
+Julie GANTZEL
+Assist
+21
+Ingvild BAKKERUD
+1
+Katharina FILTER
+24.16
+KBH Time out
+24.29
+KBH Regelfejl
+24
+Fie WOLLER
+24.58
+8-16
+IKA
+Mål
+Gbr 19
+Alberte EBLER
+1
+Katharina FILTER
+25.48
+KBH Fejlaflevering
+23
+Silje BRØNS
+Bold erobret 77
+Line HOUGAARD
+25.58
+8-17
+IKA
+Mål
+1:e
+77
+Line HOUGAARD
+Assist
+21
+Ingvild BAKKERUD
+1
+Katharina FILTER
+26.30
+KBH Fejlaflevering
+15
+Emma NAVNE
+Bold erobret 15
+Emma FRIIS
+26.36
+8-18
+IKA
+Mål
+1:e
+15
+Emma FRIIS
+0
+
+--- Side 2 ---
+KAMPHÆNDELSER
+København Håndbold - Ikast Håndbold   21 - 32  (9 - 19)
+458434 / 11-3-2023 / Frederiksberg Opvisning / Kvindeligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+27.17
+KBH Fejlaflevering
+23
+Silje BRØNS
+27.53
+IKA
+Skud reddet
+ST
+5
+Vilde Ingeborg JOHANSEN
+1
+Katharina FILTER
+28.04
+KBH Fejlaflevering
+1
+Katharina FILTER
+28.25
+IKA
+Skud reddet
+PL
+17
+Simone PETERSEN
+1
+Katharina FILTER
+28.56
+KBH Fejlaflevering
+15
+Emma NAVNE
+29.20
+IKA
+Time out
+29.42
+8-19
+IKA
+Mål
+Gbr 17
+Simone PETERSEN
+1
+Katharina FILTER
+30.00
+KBH Tilkendt straffe
+22
+Stine JØRGENSEN
+Forårs. str.
+17
+Simone PETERSEN
+30.00
+9-19
+KBH Mål på straffe
+22
+Stine JØRGENSEN
+1
+Jessica RYDE
+30.00
+9-19
+Halvleg
+30.00
+Start 2:e halvleg
+30.53
+KBH Skud reddet
+PL
+4
+Catharina MOLENAAR
+1
+Jessica RYDE
+31.34
+9-20
+IKA
+Mål
+PL
+21
+Ingvild BAKKERUD
+14
+Anne Christine BOSSEN
+31.52
+KBH Skud reddet
+Gbr
+4
+Catharina MOLENAAR
+1
+Jessica RYDE
+32.01
+9-21
+IKA
+Mål
+2:e
+17
+Simone PETERSEN
+Assist
+7
+Stine SKOGRAND
+14
+Anne Christine BOSSEN
+32.22
+KBH Skud forbi
+HB 28
+Clara Skyum THOMSEN
+1
+Jessica RYDE
+32.30
+IKA
+Fejlaflevering
+1
+Jessica RYDE
+32.45
+KBH Skud på stolpe
+VB
+4
+Catharina MOLENAAR
+1
+Jessica RYDE
+33.21
+IKA
+Skud reddet
+PL
+7
+Stine SKOGRAND
+14
+Anne Christine BOSSEN
+33.56
+KBH Fejlaflevering
+23
+Silje BRØNS
+34.33
+9-22
+IKA
+Mål
+ST
+11
+Sarah IVERSEN
+Assist
+17
+Simone PETERSEN
+14
+Anne Christine BOSSEN
+35.09
+KBH Fejlaflevering
+4
+Catharina MOLENAAR
+35.15
+9-23
+IKA
+Mål
+1:e
+93
+Line UNO
+14
+Anne Christine BOSSEN
+35.19
+KBH Time out
+36.10 10-23 KBH Mål
+HB 15
+Emma NAVNE
+Assist
+23
+Silje BRØNS
+1
+Jessica RYDE
+36.47
+IKA
+Skud reddet
+PL
+21
+Ingvild BAKKERUD
+14
+Anne Christine BOSSEN
+36.56 11-23 KBH Mål
+VF
+3
+Louise FØNS
+Assist
+23
+Silje BRØNS
+1
+Jessica RYDE
+37.36 11-24 IKA
+Mål
+ST
+11
+Sarah IVERSEN
+Assist
+21
+Ingvild BAKKERUD
+14
+Anne Christine BOSSEN
+38.09 12-24 KBH Mål
+Gbr 15
+Emma NAVNE
+1
+Jessica RYDE
+38.43
+IKA
+Skud reddet
+Gbr 17
+Simone PETERSEN
+14
+Anne Christine BOSSEN
+38.50 13-24 KBH Mål
+2:e
+5
+Clara SKØTT
+Assist
+15
+Emma NAVNE
+1
+Jessica RYDE
+38.56
+IKA
+Time out
+39.31 13-25 IKA
+Mål
+Gbr 17
+Simone PETERSEN
+14
+Anne Christine BOSSEN
+40.23
+KBH Skud reddet
+PL
+22
+Stine JØRGENSEN
+1
+Jessica RYDE
+40.57
+IKA
+Fejlaflevering
+4
+Julie SCAGLIONE
+41.16
+KBH Fejlaflevering
+3
+Louise FØNS
+Bold erobret 15
+Emma FRIIS
+41.44 13-26 IKA
+Mål
+Gbr 17
+Simone PETERSEN
+14
+Anne Christine BOSSEN
+41.51 14-26 KBH Mål
+1:e
+18
+Maria LYKKEGAARD
+Assist
+15
+Emma NAVNE
+1
+Jessica RYDE
+42.38 14-27 IKA
+Mål
+VB
+4
+Julie SCAGLIONE
+14
+Anne Christine BOSSEN
+43.13
+KBH Skud forbi
+VB
+8
+Karoline LUND
+1
+Jessica RYDE
+43.40 14-28 IKA
+Mål
+HB 17
+Simone PETERSEN
+14
+Anne Christine BOSSEN
+43.51 15-28 KBH Mål
+2:e
+8
+Karoline LUND
+Assist
+15
+Emma NAVNE
+1
+Jessica RYDE
+44.31
+IKA
+Fejlaflevering
+4
+Julie SCAGLIONE
+44.39 16-28 KBH Mål
+2:e
+22
+Stine JØRGENSEN
+1
+Jessica RYDE
+45.09
+IKA
+Skud reddet
+PL
+4
+Julie SCAGLIONE
+14
+Anne Christine BOSSEN
+45.33
+KBH Skud forbi
+PL
+8
+Karoline LUND
+1
+Jessica RYDE
+46.30
+IKA
+Skud reddet
+Gbr 17
+Simone PETERSEN
+14
+Anne Christine BOSSEN
+46.37 17-28 KBH Mål
+2:e
+18
+Maria LYKKEGAARD
+Assist
+15
+Emma NAVNE
+1
+Jessica RYDE
+46.43
+IKA
+Time out
+47.07
+IKA
+Skud reddet
+PL
+21
+Ingvild BAKKERUD
+14
+Anne Christine BOSSEN
+47.19
+KBH Skud forbi
+PL
+22
+Stine JØRGENSEN
+1
+Jessica RYDE
+47.40 17-29 IKA
+Mål
+Gbr 21
+Ingvild BAKKERUD
+14
+Anne Christine BOSSEN
+48.25
+KBH Fejlaflevering
+8
+Karoline LUND
+Bold erobret 23
+Trine MORTENSEN
+49.00 17-30 IKA
+Mål
+PL
+7
+Stine SKOGRAND
+14
+Anne Christine BOSSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+København Håndbold - Ikast Håndbold   21 - 32  (9 - 19)
+458434 / 11-3-2023 / Frederiksberg Opvisning / Kvindeligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+49.44 18-30 KBH Mål
+Gbr 23
+Silje BRØNS
+1
+Jessica RYDE
+50.29
+IKA
+Skud forbi
+PL
+21
+Ingvild BAKKERUD
+14
+Anne Christine BOSSEN
+51.31
+KBH Tabt bold
+15
+Emma NAVNE
+51.38
+IKA
+Skud reddet
+1:e
+23
+Trine MORTENSEN
+14
+Anne Christine BOSSEN
+52.04
+KBH Fejlaflevering
+8
+Karoline LUND
+52.29
+IKA
+Skud reddet
+Gbr
+4
+Julie SCAGLIONE
+14
+Anne Christine BOSSEN
+53.20
+KBH Fejlaflevering
+15
+Emma NAVNE
+Bold erobret 23
+Trine MORTENSEN
+53.49
+IKA
+Skud forbi
+Gbr
+4
+Julie SCAGLIONE
+14
+Anne Christine BOSSEN
+54.25
+KBH Fejlaflevering
+18
+Maria LYKKEGAARD
+54.55 18-31 IKA
+Mål
+HF
+19
+Alberte EBLER
+Assist
+4
+Julie SCAGLIONE
+14
+Anne Christine BOSSEN
+55.40
+KBH Skud på stolpe
+PL
+28
+Clara Skyum THOMSEN
+16
+Andrea AUSTMO
+55.49
+IKA
+Skud på stolpe
+2:e
+21
+Ingvild BAKKERUD
+14
+Anne Christine BOSSEN
+55.54 19-31 KBH Mål
+1:e
+5
+Clara SKØTT
+16
+Andrea AUSTMO
+56.24
+IKA
+Skud reddet
+ST
+5
+Vilde Ingeborg JOHANSEN
+14
+Anne Christine BOSSEN
+56.55 20-31 KBH Mål
+PL
+23
+Silje BRØNS
+16
+Andrea AUSTMO
+57.32
+IKA
+Fejlaflevering
+21
+Ingvild BAKKERUD
+58.29 21-31 KBH Mål
+PL
+8
+Karoline LUND
+16
+Andrea AUSTMO
+59.00 21-32 IKA
+Mål
+PL
+21
+Ingvild BAKKERUD
+14
+Anne Christine BOSSEN
+59.27
+KBH Skud reddet
+VB
+8
+Karoline LUND
+16
+Andrea AUSTMO
+60.00
+IKA
+Skud reddet
+HB
+4
+Julie SCAGLIONE
+14
+Anne Christine BOSSEN
+60.00 21-32
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Jette Rødgaard, Dorte Hansen,

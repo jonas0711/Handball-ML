@@ -1,0 +1,956 @@
+KAMPHÆNDELSER
+Skanderborg Håndbold - Aalborg Håndbold   30 - 30  (15 - 13)
+125704 / 21-12-2019 / Fælledhallen - bane 1 / Primo Tours Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.33
+SKB Skud reddet
+HB 24
+Mathias BITSCH
+16
+Mikael AGGEFORS
+1.09
+AAH Skud forbi
+HB 20
+Mads CHRISTIANSEN
+1
+Kristoffer LAURSEN
+1.24
+SKB Skud reddet
+2:e
+24
+Mathias BITSCH
+16
+Mikael AGGEFORS
+2.02
+AAH Tilkendt straffe
+14
+Magnus SAUGSTRUP
+Forårs. str.
+6
+Kristian BONEFELD
+2.12
+AAH Straffekast reddet
+23
+Buster JUUL
+1
+Kristoffer LAURSEN
+2.55
+SKB Skud forbi
+PL
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+3.01
+SKB Advarsel
+7
+Mads Kalstrup HONORÉ
+3.31
+AAH Tabt bold
+17
+Tobias ELLEBÆK
+3.39
+SKB Tilkendt straffe
+24
+Mathias BITSCH
+Forårs. str.
+23
+Buster JUUL
+3.39
+AAH Udvisning
+23
+Buster JUUL
+3.45
+SKB Straffekast reddet
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+4.29
+SKB Advarsel
+23
+Cornelius Kragh AASTRUP
+4.56
+AAH Skud på stolpe
+PL
+3
+Janus SMARÁSON
+1
+Kristoffer LAURSEN
+5.25
+SKB Skud reddet
+HF
+3
+Jonas SAMUELSSON
+16
+Mikael AGGEFORS
+6.13
+AAH Tilkendt straffe
+3
+Janus SMARÁSON
+Forårs. str.
+4
+Lars SKAARUP
+6.23
+0-1
+AAH Mål på straffe
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+7.02
+1-1
+SKB Mål
+HF
+3
+Jonas SAMUELSSON
+Assist
+24
+Mathias BITSCH
+16
+Mikael AGGEFORS
+7.38
+AAH Tilkendt straffe
+14
+Magnus SAUGSTRUP
+Forårs. str.
+23
+Cornelius Kragh AASTRUP
+7.56
+1-2
+AAH Mål på straffe
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+8.24
+2-2
+SKB Mål
+PL
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+9.40
+AAH Skud på stolpe
+ST
+14
+Magnus SAUGSTRUP
+1
+Kristoffer LAURSEN
+9.49
+3-2
+SKB Mål
+Gbr
+3
+Jonas SAMUELSSON
+Assist
+24
+Mathias BITSCH
+16
+Mikael AGGEFORS
+10.44
+3-3
+AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+3
+Janus SMARÁSON
+1
+Kristoffer LAURSEN
+11.27
+SKB Skud blokeret
+PL
+24
+Mathias BITSCH
+Blok af (ret)
+14
+Magnus SAUGSTRUP
+11.58
+SKB Fejlaflevering
+23
+Cornelius Kragh AASTRUP
+12.00
+3-4
+AAH Mål
+1:e
+14
+Magnus SAUGSTRUP
+Assist
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+12.27
+4-4
+SKB Mål
+VB
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+12.44
+AAH Fejlaflevering
+17
+Tobias ELLEBÆK
+Bold erobret 23
+Cornelius Kragh AASTRUP
+12.47
+5-4
+SKB Mål
+1:e
+4
+Lars SKAARUP
+Assist
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+13.20
+AAH Fejlaflevering
+3
+Janus SMARÁSON
+Bold erobret
+4
+Lars SKAARUP
+13.25
+6-4
+SKB Mål
+1:e
+4
+Lars SKAARUP
+Assist
+6
+Kristian BONEFELD
+16
+Mikael AGGEFORS
+13.28
+AAH Time out
+13.53
+6-5
+AAH Mål
+VF
+23
+Buster JUUL
+Assist
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+14.13
+SKB Tabt bold
+6
+Kristian BONEFELD
+Bold erobret
+3
+Janus SMARÁSON
+14.18
+6-6
+AAH Mål
+1:e
+19
+Mark STRANDGAARD
+Assist
+3
+Janus SMARÁSON
+1
+Kristoffer LAURSEN
+14.47
+SKB Fejlaflevering
+23
+Cornelius Kragh AASTRUP
+15.14
+6-7
+AAH Mål
+PL
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+15.27
+SKB Tilkendt straffe
+24
+Mathias BITSCH
+Forårs. str.
+3
+Janus SMARÁSON
+15.31
+7-7
+SKB Mål på straffe
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+16.16
+AAH Fejlaflevering
+19
+Mark STRANDGAARD
+16.18
+8-7
+SKB Mål
+VB
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+16.21
+AAH Skud reddet
+HB
+3
+Janus SMARÁSON
+Retur
+23
+Buster JUUL
+1
+Kristoffer LAURSEN
+16.23
+AAH Tilkendt straffe
+23
+Buster JUUL
+Forårs. str.
+23
+Cornelius Kragh AASTRUP
+16.23
+SKB Udvisning
+23
+Cornelius Kragh AASTRUP
+16.23
+8-8
+AAH Mål på straffe
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+17.29
+9-8
+SKB Mål
+HF
+3
+Jonas SAMUELSSON
+Assist
+18
+Marcus MØRK
+16
+Mikael AGGEFORS
+17.37
+AAH Skud reddet
+2:e
+19
+Mark STRANDGAARD
+1
+Kristoffer LAURSEN
+18.14
+AAH Udvisning
+4
+Oliver Amnitzbøll NORLYK
+18.33 10-8
+SKB Mål
+HF
+3
+Jonas SAMUELSSON
+Assist
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+19.29 10-9
+AAH Mål
+PL
+3
+Janus SMARÁSON
+1
+Kristoffer LAURSEN
+19.56
+SKB Fejlaflevering
+20
+Morten BALLING
+Bold erobret 14
+Magnus SAUGSTRUP
+20.31
+AAH Skud på stolpe
+VF
+23
+Buster JUUL
+1
+Kristoffer LAURSEN
+20.41
+SKB Fejlaflevering
+23
+Cornelius Kragh AASTRUP
+Bold erobret 19
+Mark STRANDGAARD
+21.23
+AAH Skud reddet
+PL
+3
+Janus SMARÁSON
+1
+Kristoffer LAURSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skanderborg Håndbold - Aalborg Håndbold   30 - 30  (15 - 13)
+125704 / 21-12-2019 / Fælledhallen - bane 1 / Primo Tours Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+22.09
+SKB Fejlaflevering
+23
+Cornelius Kragh AASTRUP
+Bold erobret 14
+Magnus SAUGSTRUP
+22.45 10-10 AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+3
+Janus SMARÁSON
+1
+Kristoffer LAURSEN
+22.52 11-10 SKB Mål
+2:e
+18
+Marcus MØRK
+16
+Mikael AGGEFORS
+23.01
+SKB Udvisning
+21
+Matthias SMED
+23.31
+AAH Skud reddet
+HB 20
+Mads CHRISTIANSEN
+Retur
+14
+Magnus SAUGSTRUP
+1
+Kristoffer LAURSEN
+23.33
+AAH Skud reddet
+ST
+20
+Mads CHRISTIANSEN
+1
+Kristoffer LAURSEN
+23.40
+SKB Time out
+24.07 12-10 SKB Mål
+PL
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+24.14
+AAH Fejlaflevering
+3
+Janus SMARÁSON
+25.30 13-10 SKB Mål
+VB
+18
+Marcus MØRK
+16
+Mikael AGGEFORS
+26.24
+AAH Skud reddet
+PL
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+27.04 14-10 SKB Mål
+VB
+18
+Marcus MØRK
+16
+Mikael AGGEFORS
+27.07 14-11 AAH Mål
+2:e
+20
+Mads CHRISTIANSEN
+Assist
+3
+Janus SMARÁSON
+1
+Kristoffer LAURSEN
+27.42 15-11 SKB Mål
+HF
+3
+Jonas SAMUELSSON
+Assist
+6
+Kristian BONEFELD
+16
+Mikael AGGEFORS
+27.51 15-12 AAH Mål
+HB 20
+Mads CHRISTIANSEN
+1
+Kristoffer LAURSEN
+28.38
+SKB Skud reddet
+VB
+18
+Marcus MØRK
+Retur
+2
+Nikolaj A NIELSEN
+16
+Mikael AGGEFORS
+28.39
+SKB Skud reddet
+ST
+2
+Nikolaj A NIELSEN
+16
+Mikael AGGEFORS
+29.28 15-13 AAH Mål
+VB
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+29.59
+SKB Skud reddet
+HB
+6
+Kristian BONEFELD
+16
+Mikael AGGEFORS
+30.00 15-13
+Halvleg
+30.34 15-14 AAH Mål
+PL
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+30.43
+SKB Skud reddet
+PL
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+31.47
+AAH Fejlaflevering
+4
+Oliver Amnitzbøll NORLYK
+Bold erobret
+4
+Lars SKAARUP
+31.51
+SKB Tilkendt straffe
+7
+Mads Kalstrup HONORÉ
+Forårs. str.
+8
+Mishels LIABA
+32.05 16-14 SKB Mål på straffe
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+32.24
+AAH Skud reddet
+VB
+8
+Mishels LIABA
+1
+Kristoffer LAURSEN
+33.03 17-14 SKB Mål
+HB 23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+33.16 17-15 AAH Mål
+PL
+8
+Mishels LIABA
+1
+Kristoffer LAURSEN
+34.12
+SKB Skud reddet
+PL
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+34.17
+AAH Skud reddet
+1:e
+6
+Sebastian BARTHOLD
+1
+Kristoffer LAURSEN
+34.45 18-15 SKB Mål
+HB 24
+Mathias BITSCH
+16
+Mikael AGGEFORS
+35.15
+AAH Skud reddet
+HB
+4
+Oliver Amnitzbøll NORLYK
+1
+Kristoffer LAURSEN
+35.20 19-15 SKB Mål
+1:e
+3
+Jonas SAMUELSSON
+Assist
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+36.18
+AAH Regelfejl
+8
+Mishels LIABA
+36.22
+SKB Skud reddet
+2:e
+21
+Matthias SMED
+Retur
+0
+16
+Mikael AGGEFORS
+36.47 20-15 SKB Mål
+VB
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+37.02 20-16 AAH Mål
+Gbr
+6
+Sebastian BARTHOLD
+Assist
+8
+Mishels LIABA
+1
+Kristoffer LAURSEN
+37.37 21-16 SKB Mål
+VF
+4
+Lars SKAARUP
+Assist
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+38.15 21-17 AAH Mål
+VB
+8
+Mishels LIABA
+1
+Kristoffer LAURSEN
+38.47
+SKB Skud reddet
+ST
+7
+Mads Kalstrup HONORÉ
+16
+Mikael AGGEFORS
+39.01
+AAH Skud reddet
+2:e
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+39.45 22-17 SKB Mål
+HB 20
+Morten BALLING
+16
+Mikael AGGEFORS
+40.17 22-18 AAH Mål
+HB 21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+40.55
+SKB Skud forbi
+PL
+24
+Mathias BITSCH
+16
+Mikael AGGEFORS
+41.47 22-19 AAH Mål
+HF
+19
+Mark STRANDGAARD
+Assist
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+42.23
+SKB Skud blokeret
+PL
+24
+Mathias BITSCH
+Blokeret af
+22
+René ANTONSEN
+42.37 22-20 AAH Mål
+2:e
+3
+Janus SMARÁSON
+1
+Kristoffer LAURSEN
+43.41
+SKB Skud reddet
+PL
+18
+Marcus MØRK
+16
+Mikael AGGEFORS
+44.04
+AAH Tilkendt straffe
+2
+Benjamin JAKOBSEN
+Forårs. str.
+21
+Matthias SMED
+44.06 22-21 AAH Mål på straffe
+21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+44.13
+SKB Time out
+44.58 23-21 SKB Mål
+PL
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+45.22 23-22 AAH Mål
+VB
+8
+Mishels LIABA
+1
+Kristoffer LAURSEN
+46.03
+SKB Tilkendt straffe
+18
+Marcus MØRK
+Forårs. str.
+8
+Mishels LIABA
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skanderborg Håndbold - Aalborg Håndbold   30 - 30  (15 - 13)
+125704 / 21-12-2019 / Fælledhallen - bane 1 / Primo Tours Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+46.03 24-22 SKB Mål på straffe
+20
+Morten BALLING
+12
+Kristian SAEVERÅS
+46.29 24-23 AAH Mål
+PL
+3
+Janus SMARÁSON
+1
+Kristoffer LAURSEN
+47.11
+SKB Skud på stolpe
+Gbr 20
+Morten BALLING
+16
+Mikael AGGEFORS
+48.08
+AAH Skud reddet
+HB 21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+49.04
+SKB Skud reddet
+PL
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+49.14 24-24 AAH Mål
+2:e
+19
+Mark STRANDGAARD
+Assist
+3
+Janus SMARÁSON
+12
+Salah BOUTAF
+49.45 25-24 SKB Mål
+PL
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+50.18 25-25 AAH Mål
+HB 21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+50.31 26-25 SKB Mål
+PL
+23
+Cornelius Kragh AASTRUP
+16
+Mikael AGGEFORS
+51.06 26-26 AAH Mål
+HF
+19
+Mark STRANDGAARD
+Assist
+3
+Janus SMARÁSON
+12
+Salah BOUTAF
+51.20
+SKB Regelfejl
+2
+Nikolaj A NIELSEN
+51.29 26-27 AAH Mål
+2:e
+19
+Mark STRANDGAARD
+Assist
+21
+Henrik MØLLGAARD
+12
+Salah BOUTAF
+51.33
+SKB Time out
+52.27
+SKB Skud reddet
+PL
+18
+Marcus MØRK
+16
+Mikael AGGEFORS
+53.30
+AAH Skud reddet
+VF
+6
+Sebastian BARTHOLD
+1
+Kristoffer LAURSEN
+53.39 27-27 SKB Mål
+2:e
+18
+Marcus MØRK
+16
+Mikael AGGEFORS
+54.23
+AAH Skud reddet
+Gbr 17
+Tobias ELLEBÆK
+1
+Kristoffer LAURSEN
+55.23
+SKB Fejlaflevering
+20
+Morten BALLING
+55.27 27-28 AAH Mål
+1:e
+19
+Mark STRANDGAARD
+Assist
+21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+55.59
+SKB Skud reddet
+VB
+20
+Morten BALLING
+16
+Mikael AGGEFORS
+56.38
+AAH Tabt bold
+21
+Henrik MØLLGAARD
+57.09 28-28 SKB Mål
+Gbr 20
+Morten BALLING
+Assist
+18
+Marcus MØRK
+16
+Mikael AGGEFORS
+57.38 28-29 AAH Mål
+PL
+3
+Janus SMARÁSON
+1
+Kristoffer LAURSEN
+58.08 29-29 SKB Mål
+HB
+6
+Kristian BONEFELD
+16
+Mikael AGGEFORS
+58.51 29-30 AAH Mål
+HB 21
+Henrik MØLLGAARD
+1
+Kristoffer LAURSEN
+59.26 30-30 SKB Mål
+Gbr 20
+Morten BALLING
+Assist
+18
+Marcus MØRK
+16
+Mikael AGGEFORS
+59.43
+AAH Time out
+60.00
+AAH Skud blokeret
+HB 21
+Henrik MØLLGAARD
+Blokeret af
+21
+Matthias SMED
+60.00 30-30
+Fuld tid
+Software: Jilsén System AB. Logget af: Peter Schilling, -,

@@ -1,0 +1,929 @@
+KAMPHÆNDELSER
+KIF Kolding - Ribe-Esbjerg HH   20 - 24  (20 - 24)
+679126 / 6-10-2018 / Sydbank Arena 1 - bane 1 / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+1.08
+1-0
+KIF
+Mål
+HF
+9
+Andreas FLODMAN
+Assist
+18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+1.50
+REH Fejlaflevering
+5
+Runar KARASON
+Bold erobret 10
+Mattias THYNELL
+2.46
+2-0
+KIF
+Mål
+Gbr 18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+3.01
+KIF
+Advarsel
+14
+Olafur GUSTAFSSON
+3.34
+REH Skud reddet
+PL
+19
+Nicolai PEDERSEN
+12
+Rickard FRISK
+4.26
+KIF
+Fejlaflevering
+15
+Jens PESCHARDT
+4.26
+KIF
+Udvisning
+15
+Jens PESCHARDT
+5.05
+2-1
+REH Mål
+HF
+2
+Magnus SØNDENÅ
+Assist
+5
+Runar KARASON
+12
+Rickard FRISK
+5.46
+KIF
+Fejlaflevering
+17
+Andreas VÆVER
+6.01
+2-2
+REH Mål
+PL
+34
+Kasper KVIST
+12
+Rickard FRISK
+6.52
+REH Advarsel
+19
+Nicolai PEDERSEN
+7.01
+REH Udvisning
+19
+Nicolai PEDERSEN
+7.31
+KIF
+Regelfejl
+18
+Kasper Irming ANDERSEN
+8.33
+REH Regelfejl
+6
+Lukas KARLSSON
+8.38
+REH Udvisning
+2
+Magnus SØNDENÅ
+8.38
+3-2
+KIF
+Mål
+1:e
+17
+Andreas VÆVER
+Assist
+18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+9.01
+3-3
+REH Mål
+PL
+6
+Lukas KARLSSON
+12
+Rickard FRISK
+9.20
+KIF
+Skud reddet
+PL
+10
+Mattias THYNELL
+12
+Søren RASMUSSEN
+10.01
+3-4
+REH Mål
+ST
+7
+Simen Nicolay SCHØNNINGSEN
+Assist
+27
+Gunnar STEINN JÓNSSON
+12
+Rickard FRISK
+10.23
+4-4
+KIF
+Mål
+HB 18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+10.51
+4-5
+REH Mål
+PL
+27
+Gunnar STEINN JÓNSSON
+12
+Rickard FRISK
+11.23
+KIF
+Skud blokeret
+PL
+18
+Kasper Irming ANDERSEN
+11.34
+4-6
+REH Mål
+1:e
+34
+Kasper KVIST
+Assist
+12
+Søren RASMUSSEN
+12
+Rickard FRISK
+12.23
+KIF
+Fejlaflevering
+15
+Jens PESCHARDT
+12.33
+REH Regelfejl
+21
+Miha ZVIZEJ
+13.10
+KIF
+Skud reddet
+VB
+15
+Jens PESCHARDT
+12
+Søren RASMUSSEN
+13.23
+4-7
+REH Mål
+Gbr 34
+Kasper KVIST
+Assist
+6
+Lukas KARLSSON
+12
+Rickard FRISK
+13.45
+5-7
+KIF
+Mål
+ST
+19
+Cyril VIUDES
+Assist
+10
+Mattias THYNELL
+12
+Søren RASMUSSEN
+14.33
+REH Regelfejl
+27
+Gunnar STEINN JÓNSSON
+14.42
+KIF
+Tilkendt straffe
+19
+Cyril VIUDES
+Forårsagede straffe
+31
+Jacob HEINL
+14.42
+REH Udvisning
+31
+Jacob HEINL
+14.42
+KIF
+Straffekast reddet
+17
+Andreas VÆVER
+12
+Søren RASMUSSEN
+15.25
+REH Skud reddet
+HB
+5
+Runar KARASON
+12
+Rickard FRISK
+15.45
+6-7
+KIF
+Mål
+PL
+10
+Mattias THYNELL
+Assist
+18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+16.24
+6-8
+REH Mål
+PL
+34
+Kasper KVIST
+Assist
+6
+Lukas KARLSSON
+12
+Rickard FRISK
+16.36
+KIF
+Time out
+16.40
+KIF
+Regelfejl
+19
+Cyril VIUDES
+17.20
+REH Skud forbi
+ST
+21
+Miha ZVIZEJ
+1
+Anders PETERSEN
+17.25
+KIF
+Fejlaflevering
+10
+Mattias THYNELL
+17.55
+6-9
+REH Mål
+PL
+5
+Runar KARASON
+1
+Anders PETERSEN
+18.27
+KIF
+Skud reddet
+HF
+9
+Andreas FLODMAN
+12
+Søren RASMUSSEN
+18.39
+6-10
+REH Mål
+Gbr
+5
+Runar KARASON
+Assist
+27
+Gunnar STEINN JÓNSSON
+1
+Anders PETERSEN
+19.16
+7-10
+KIF
+Mål
+ST
+19
+Cyril VIUDES
+Assist
+15
+Jens PESCHARDT
+12
+Søren RASMUSSEN
+19.50
+7-11
+REH Mål
+VF
+34
+Kasper KVIST
+Assist
+6
+Lukas KARLSSON
+1
+Anders PETERSEN
+20.54
+REH Udvisning
+27
+Gunnar STEINN JÓNSSON
+21.04
+KIF
+Skud reddet
+VF
+17
+Andreas VÆVER
+12
+Søren RASMUSSEN
+21.53
+REH Skud forbi
+HB
+7
+Simen Nicolay SCHØNNINGSEN
+1
+Anders PETERSEN
+22.14
+KIF
+Skud reddet
+HF
+9
+Andreas FLODMAN
+12
+Søren RASMUSSEN
+22.51
+KIF
+Udvisning
+14
+Olafur GUSTAFSSON
+22.51
+KIF
+Advarsel
+A
+Lars FREDERIKSEN
+23.07
+REH Skud reddet
+PL
+19
+Nicolai PEDERSEN
+1
+Anders PETERSEN
+23.43
+8-11
+KIF
+Mål
+Gbr 10
+Mattias THYNELL
+12
+Søren RASMUSSEN
+24.01
+REH Regelfejl
+19
+Nicolai PEDERSEN
+25.01
+KIF
+Tilkendt straffe
+19
+Cyril VIUDES
+Forårsagede straffe
+31
+Jacob HEINL
+
+--- Side 2 ---
+KAMPHÆNDELSER
+KIF Kolding - Ribe-Esbjerg HH   20 - 24  (20 - 24)
+679126 / 6-10-2018 / Sydbank Arena 1 - bane 1 / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.01
+9-11
+KIF
+Mål på straffekast
+17
+Andreas VÆVER
+12
+Søren RASMUSSEN
+25.55
+REH Skud på stolpe
+VB
+6
+Lukas KARLSSON
+1
+Anders PETERSEN
+26.30 10-11 KIF
+Mål
+HB 18
+Kasper Irming ANDERSEN
+Assist
+10
+Mattias THYNELL
+12
+Søren RASMUSSEN
+26.41
+REH Skud reddet
+HF
+2
+Magnus SØNDENÅ
+1
+Anders PETERSEN
+27.13 11-11 KIF
+Mål
+VB
+10
+Mattias THYNELL
+12
+Søren RASMUSSEN
+27.19
+REH Time out
+27.43
+REH Skud reddet
+VB
+5
+Runar KARASON
+Retur
+0
+1
+Anders PETERSEN
+27.43
+REH Skud reddet
+HB
+5
+Runar KARASON
+Retur
+2
+Magnus SØNDENÅ
+1
+Anders PETERSEN
+27.43 11-12 REH Mål
+HF
+2
+Magnus SØNDENÅ
+1
+Anders PETERSEN
+28.41
+KIF
+Skud reddet
+VB
+10
+Mattias THYNELL
+Retur
+17
+Andreas VÆVER
+12
+Søren RASMUSSEN
+29.24
+KIF
+Skud reddet
+VB
+18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+29.31
+REH Skud reddet
+1:e
+34
+Kasper KVIST
+1
+Anders PETERSEN
+29.59
+REH Udvisning
+2
+Magnus SØNDENÅ
+30.00
+KIF
+Skud forbi
+PL
+10
+Mattias THYNELL
+12
+Søren RASMUSSEN
+30.28
+REH Skud reddet
+VF
+34
+Kasper KVIST
+1
+Anders PETERSEN
+30.37
+KIF
+Tilkendt straffe
+18
+Kasper Irming ANDERSEN
+Forårsagede straffe
+27
+Gunnar STEINN JÓNSSON
+30.53 12-12 KIF
+Mål på straffekast
+17
+Andreas VÆVER
+12
+Søren RASMUSSEN
+31.45
+REH Skud blokeret
+PL
+6
+Lukas KARLSSON
+32.03
+KIF
+Tilkendt straffe
+14
+Olafur GUSTAFSSON
+Forårsagede straffe
+5
+Runar KARASON
+32.15 13-12 KIF
+Mål på straffekast
+17
+Andreas VÆVER
+74
+Søren Haagen ANDREASEN
+32.51 13-13 REH Mål
+Gbr
+6
+Lukas KARLSSON
+1
+Anders PETERSEN
+34.07 14-13 KIF
+Mål
+HB 18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+34.52 14-14 REH Mål
+HB 27
+Gunnar STEINN JÓNSSON
+1
+Anders PETERSEN
+35.17
+KIF
+Tabt bold
+15
+Jens PESCHARDT
+Bold erobret
+5
+Runar KARASON
+35.52 14-15 REH Mål
+VF
+34
+Kasper KVIST
+Assist
+6
+Lukas KARLSSON
+1
+Anders PETERSEN
+36.58
+KIF
+Fejlaflevering
+17
+Andreas VÆVER
+37.05 14-16 REH Mål
+2:e
+5
+Runar KARASON
+1
+Anders PETERSEN
+37.40 15-16 KIF
+Mål
+PL
+10
+Mattias THYNELL
+12
+Søren RASMUSSEN
+38.29
+REH Tilkendt straffe
+21
+Miha ZVIZEJ
+Forårsagede straffe
+17
+Andreas VÆVER
+38.38
+REH Straffekast reddet
+2
+Magnus SØNDENÅ
+1
+Anders PETERSEN
+39.13 16-16 KIF
+Mål
+PL
+18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+39.50
+REH Skud blokeret
+VB
+6
+Lukas KARLSSON
+40.01 17-16 KIF
+Mål
+1:e
+15
+Jens PESCHARDT
+12
+Søren RASMUSSEN
+40.06
+REH Udvisning
+34
+Kasper KVIST
+40.31
+REH Skud blokeret
+PL
+5
+Runar KARASON
+40.41
+KIF
+Fejlaflevering
+14
+Olafur GUSTAFSSON
+Bold erobret
+5
+Runar KARASON
+41.04 17-17 REH Mål
+HB
+5
+Runar KARASON
+1
+Anders PETERSEN
+41.22 18-17 KIF
+Mål
+VB
+10
+Mattias THYNELL
+12
+Søren RASMUSSEN
+42.08
+REH Skud forbi
+VF
+23
+Pelle Schilling GULDAGER
+1
+Anders PETERSEN
+42.50
+KIF
+Tabt bold
+19
+Cyril VIUDES
+Bold erobret 21
+Miha ZVIZEJ
+42.58
+REH Skud på stolpe
+1:e
+23
+Pelle Schilling GULDAGER
+Retur
+0
+1
+Anders PETERSEN
+43.32 18-18 REH Mål
+PL
+5
+Runar KARASON
+1
+Anders PETERSEN
+44.00
+KIF
+Fejlaflevering
+14
+Olafur GUSTAFSSON
+Bold erobret 21
+Miha ZVIZEJ
+44.35
+REH Skud forbi
+HB
+5
+Runar KARASON
+1
+Anders PETERSEN
+45.06 19-18 KIF
+Mål
+HF
+9
+Andreas FLODMAN
+Assist
+10
+Mattias THYNELL
+12
+Søren RASMUSSEN
+45.35 19-19 REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+6
+Lukas KARLSSON
+1
+Anders PETERSEN
+46.08
+KIF
+Regelfejl
+18
+Kasper Irming ANDERSEN
+46.44
+REH Time out
+47.29
+REH Skud reddet
+VF
+34
+Kasper KVIST
+Retur
+0
+1
+Anders PETERSEN
+47.51 19-20 REH Mål
+HB
+5
+Runar KARASON
+1
+Anders PETERSEN
+48.30
+KIF
+Skud reddet
+PL
+14
+Olafur GUSTAFSSON
+12
+Søren RASMUSSEN
+49.22
+REH Skud reddet
+PL
+6
+Lukas KARLSSON
+1
+Anders PETERSEN
+49.59
+KIF
+Skud reddet
+PL
+14
+Olafur GUSTAFSSON
+12
+Søren RASMUSSEN
+50.29 19-21 REH Mål
+PL
+5
+Runar KARASON
+1
+Anders PETERSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+KIF Kolding - Ribe-Esbjerg HH   20 - 24  (20 - 24)
+679126 / 6-10-2018 / Sydbank Arena 1 - bane 1 / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+51.22
+KIF
+Skud reddet
+HB 18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+52.18 19-22 REH Mål
+PL
+27
+Gunnar STEINN JÓNSSON
+1
+Anders PETERSEN
+52.28
+KIF
+Time out
+53.33
+KIF
+Skud reddet
+HB 18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+54.08 19-23 REH Mål
+HB
+5
+Runar KARASON
+1
+Anders PETERSEN
+54.53
+KIF
+Time out
+55.44
+KIF
+Skud reddet
+HF
+9
+Andreas FLODMAN
+12
+Søren RASMUSSEN
+56.25
+REH Skud på stolpe
+HB
+5
+Runar KARASON
+12
+Rickard FRISK
+56.34
+KIF
+Udvisning
+14
+Olafur GUSTAFSSON
+56.34
+KIF
+Regelfejl
+15
+Jens PESCHARDT
+56.40
+REH Skud reddet
+HF
+2
+Magnus SØNDENÅ
+12
+Rickard FRISK
+57.26
+KIF
+Skud på stolpe
+HB 15
+Jens PESCHARDT
+12
+Søren RASMUSSEN
+58.07
+REH Fejlaflevering
+5
+Runar KARASON
+Bold erobret 18
+Kasper Irming ANDERSEN
+58.14 20-23 KIF
+Mål
+1:e
+18
+Kasper Irming ANDERSEN
+12
+Søren RASMUSSEN
+58.32
+REH Tilkendt straffe
+21
+Miha ZVIZEJ
+Forårsagede straffe
+18
+Kasper Irming ANDERSEN
+58.36
+REH Straffekast reddet
+34
+Kasper KVIST
+12
+Rickard FRISK
+58.53
+KIF
+Skud forbi
+PL
+10
+Mattias THYNELL
+12
+Søren RASMUSSEN
+59.32 20-24 REH Mål
+VF
+34
+Kasper KVIST
+Assist
+5
+Runar KARASON
+12
+Rickard FRISK
+60.00
+KIF
+Skud blokeret
+HB 18
+Kasper Irming ANDERSEN
+60.00 20-24
+Fuld tid
+Software: Jilsén System AB. Logget af: henrik, sandra,

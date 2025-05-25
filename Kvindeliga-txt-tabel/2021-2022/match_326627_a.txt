@@ -1,0 +1,932 @@
+KAMPHÆNDELSER
+Odense Håndbold - Holstebro Håndbold   34 - 19  (18 - 10)
+326627 / 17-11-2021 / Sydbank Arena / Bambusa Kvindeligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.37
+HOL Skud reddet
+PL
+31
+Andrea West BENDTSEN
+1
+Martina THÖRN
+1.27
+HOL Advarsel
+13
+Julie GANTZEL
+1.51
+1-0
+OHC Mål
+ST
+3
+Maren AARDAHL
+Assist
+48
+Dione HOUSHEER
+12
+Sophie MOTH
+2.25
+HOL Fejlaflevering
+27
+Emma LAURSEN
+2.40
+OHC Tilkendt straffe
+3
+Maren AARDAHL
+Forårs. str.
+13
+Julie GANTZEL
+2.55
+2-0
+OHC Mål på straffe
+8
+Lois ABBINGH
+12
+Sophie MOTH
+4.01
+HOL Skud på stolpe
+VB
+31
+Andrea West BENDTSEN
+Retur
+0
+1
+Martina THÖRN
+4.25
+HOL Fejlaflevering
+7
+Jenny Helen CARLSON
+4.36
+3-0
+OHC Mål
+2:e
+31
+Kelly VOLLEBREGT
+Assist
+90
+Mia REJ
+12
+Sophie MOTH
+5.12
+OHC Advarsel
+18
+Kamilla LARSEN
+5.32
+HOL Time out
+5.53
+3-1
+HOL Mål
+PL
+7
+Jenny Helen CARLSON
+1
+Martina THÖRN
+6.04
+4-1
+OHC Mål
+2:e
+31
+Kelly VOLLEBREGT
+Assist
+90
+Mia REJ
+12
+Sophie MOTH
+6.44
+HOL Regelfejl
+13
+Julie GANTZEL
+6.54
+OHC Skud reddet
+2:e
+8
+Lois ABBINGH
+Retur
+0
+12
+Sophie MOTH
+7.00
+5-1
+OHC Mål
+VF
+7
+Bo VAN WETERING
+12
+Sophie MOTH
+7.51
+5-2
+HOL Mål
+HB 27
+Emma LAURSEN
+1
+Martina THÖRN
+7.58
+6-2
+OHC Mål
+2:e
+7
+Bo VAN WETERING
+Assist
+8
+Lois ABBINGH
+12
+Sophie MOTH
+8.45
+HOL Skud blokeret
+PL
+7
+Jenny Helen CARLSON
+Blokeret af
+3
+Maren AARDAHL
+8.55
+OHC Fejlaflevering
+48
+Dione HOUSHEER
+9.29
+6-3
+HOL Mål
+PL
+31
+Andrea West BENDTSEN
+1
+Martina THÖRN
+9.56
+OHC Skud reddet
+Gbr 48
+Dione HOUSHEER
+12
+Sophie MOTH
+10.37
+HOL Skud blokeret
+PL
+5
+Tea THOMASSEN
+Blokeret af
+18
+Kamilla LARSEN
+11.10
+7-3
+OHC Mål
+VB
+48
+Dione HOUSHEER
+12
+Sophie MOTH
+11.41
+HOL Fejlaflevering
+27
+Emma LAURSEN
+11.55
+OHC Skud blokeret
+PL
+48
+Dione HOUSHEER
+Blokeret af
+31
+Andrea West BENDTSEN
+12.44
+HOL Tabt bold
+27
+Emma LAURSEN
+12.48
+8-3
+OHC Mål
+1:e
+7
+Bo VAN WETERING
+12
+Sophie MOTH
+13.29
+HOL Tilkendt straffe
+5
+Tea THOMASSEN
+Forårs. str.
+48
+Dione HOUSHEER
+13.32
+8-4
+HOL Mål på straffe
+21
+Maja Edling LAURITSEN
+1
+Martina THÖRN
+14.06
+9-4
+OHC Mål
+HF
+31
+Kelly VOLLEBREGT
+Assist
+90
+Mia REJ
+12
+Sophie MOTH
+14.31
+HOL Tilkendt straffe
+2
+Mathilde Høy TROELSEN
+Forårs. str.
+18
+Kamilla LARSEN
+14.47
+9-5
+HOL Mål på straffe
+21
+Maja Edling LAURITSEN
+1
+Martina THÖRN
+15.50 10-5
+OHC Mål
+Gbr
+4
+Malene AAMBAKK
+12
+Sophie MOTH
+16.32
+HOL Skud reddet
+PL
+5
+Tea THOMASSEN
+1
+Martina THÖRN
+16.42
+OHC Skud reddet
+2:e
+4
+Malene AAMBAKK
+12
+Sophie MOTH
+17.20
+HOL Skud reddet
+VB
+2
+Mathilde Høy TROELSEN
+1
+Martina THÖRN
+17.25 11-5
+OHC Mål
+1:e
+3
+Maren AARDAHL
+Assist
+90
+Mia REJ
+12
+Sophie MOTH
+18.03
+HOL Tilkendt straffe
+2
+Mathilde Høy TROELSEN
+Forårs. str.
+31
+Kelly VOLLEBREGT
+18.17 11-6
+HOL Mål på straffe
+21
+Maja Edling LAURITSEN
+1
+Martina THÖRN
+18.48 12-6
+OHC Mål
+ST
+3
+Maren AARDAHL
+Assist
+90
+Mia REJ
+12
+Sophie MOTH
+19.46
+HOL Skud blokeret
+PL
+2
+Mathilde Høy TROELSEN
+Blok af (ret)
+3
+Maren AARDAHL
+20.21
+HOL Skud reddet
+PL
+2
+Mathilde Høy TROELSEN
+1
+Martina THÖRN
+20.49
+OHC Skud reddet
+VB
+4
+Malene AAMBAKK
+Retur
+0
+12
+Sophie MOTH
+20.54 13-6
+OHC Mål
+VF
+7
+Bo VAN WETERING
+12
+Sophie MOTH
+21.29
+HOL Skud reddet
+PL
+10
+Mathilde HYLLEBERG
+1
+Martina THÖRN
+22.13 14-6
+OHC Mål
+Gbr
+4
+Malene AAMBAKK
+Assist
+5
+Trine KNUDSEN
+12
+Sophie MOTH
+23.06 14-7
+HOL Mål
+PL
+2
+Mathilde Høy TROELSEN
+1
+Martina THÖRN
+23.28 15-7
+OHC Mål
+HF
+31
+Kelly VOLLEBREGT
+Assist
+4
+Malene AAMBAKK
+12
+Sophie MOTH
+24.00 15-8
+HOL Mål
+VB
+31
+Andrea West BENDTSEN
+1
+Martina THÖRN
+24.19 16-8
+OHC Mål
+Gbr
+5
+Trine KNUDSEN
+12
+Sophie MOTH
+24.21
+HOL Udvisning
+31
+Andrea West BENDTSEN
+25.10 16-9
+HOL Mål
+PL
+2
+Mathilde Høy TROELSEN
+1
+Martina THÖRN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Odense Håndbold - Holstebro Håndbold   34 - 19  (18 - 10)
+326627 / 17-11-2021 / Sydbank Arena / Bambusa Kvindeligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.37
+OHC Fejlaflevering
+90
+Mia REJ
+Bold erobret 10
+Mathilde HYLLEBERG
+26.21
+HOL Fejlaflevering
+2
+Mathilde Høy TROELSEN
+Bold erobret 90
+Mia REJ
+26.31 17-9
+OHC Mål
+1:e
+7
+Bo VAN WETERING
+0
+27.36
+HOL Skud forbi
+VB
+7
+Jenny Helen CARLSON
+1
+Martina THÖRN
+28.37
+OHC Skud reddet
+ST
+3
+Maren AARDAHL
+12
+Sophie MOTH
+29.31 17-10 HOL Mål
+Gbr 31
+Andrea West BENDTSEN
+1
+Martina THÖRN
+29.39
+OHC Time out
+29.55 18-10 OHC Mål
+HF
+31
+Kelly VOLLEBREGT
+Assist
+5
+Trine KNUDSEN
+12
+Sophie MOTH
+30.00 18-10
+Halvleg
+30.00
+Start 2:e halvleg
+31.02
+OHC Skud reddet
+ST
+3
+Maren AARDAHL
+12
+Sophie MOTH
+31.37
+HOL Skud på stolpe
+PL
+7
+Jenny Helen CARLSON
+1
+Martina THÖRN
+31.48
+OHC Skud reddet
+2:e
+48
+Dione HOUSHEER
+12
+Sophie MOTH
+32.23
+HOL Skud på stolpe
+VF
+17
+Emilie Bastrup BERTELSEN
+1
+Martina THÖRN
+32.51 19-10 OHC Mål
+ST
+3
+Maren AARDAHL
+Assist
+8
+Lois ABBINGH
+12
+Sophie MOTH
+33.08
+HOL Skud blokeret
+PL
+31
+Andrea West BENDTSEN
+Blok af (ret)
+18
+Kamilla LARSEN
+33.34
+OHC Udvisning
+3
+Maren AARDAHL
+33.47
+HOL Skud reddet
+Gbr 31
+Andrea West BENDTSEN
+1
+Martina THÖRN
+34.35
+OHC Skud reddet
+PL
+8
+Lois ABBINGH
+Retur
+0
+12
+Sophie MOTH
+34.47 20-10 OHC Mål
+Gbr 90
+Mia REJ
+12
+Sophie MOTH
+35.19
+HOL Fejlaflevering
+31
+Andrea West BENDTSEN
+35.48 21-10 OHC Mål
+Gbr 31
+Kelly VOLLEBREGT
+12
+Sophie MOTH
+36.22
+HOL Skud reddet
+PL
+27
+Emma LAURSEN
+1
+Martina THÖRN
+36.39
+OHC Skud på stolpe
+ST
+3
+Maren AARDAHL
+Retur
+0
+12
+Sophie MOTH
+36.42
+OHC Skud forbi
+ST
+3
+Maren AARDAHL
+12
+Sophie MOTH
+36.43
+HOL Time out
+37.05
+HOL Skud på stolpe
+HB 27
+Emma LAURSEN
+1
+Martina THÖRN
+37.30
+OHC Skud reddet
+VF
+7
+Bo VAN WETERING
+12
+Sophie MOTH
+37.39
+HOL Skud reddet
+2:e
+31
+Andrea West BENDTSEN
+1
+Martina THÖRN
+38.11 22-10 OHC Mål
+ST
+7
+Bo VAN WETERING
+Assist
+90
+Mia REJ
+12
+Sophie MOTH
+38.47
+HOL Fejlaflevering
+7
+Jenny Helen CARLSON
+38.52 23-10 OHC Mål
+1:e
+31
+Kelly VOLLEBREGT
+Assist
+3
+Maren AARDAHL
+12
+Sophie MOTH
+39.26
+HOL Tilkendt straffe
+27
+Emma LAURSEN
+Forårs. str.
+3
+Maren AARDAHL
+39.37
+HOL Straffekast reddet
+21
+Maja Edling LAURITSEN
+16
+Althea REINHARDT
+40.10
+OHC Skud reddet
+VF
+7
+Bo VAN WETERING
+Retur
+0
+12
+Sophie MOTH
+40.14 24-10 OHC Mål
+ST
+3
+Maren AARDAHL
+Assist
+7
+Bo VAN WETERING
+12
+Sophie MOTH
+41.00 24-11 HOL Mål
+VF
+17
+Emilie Bastrup BERTELSEN
+Assist
+2
+Mathilde Høy TROELSEN
+1
+Martina THÖRN
+41.31
+HOL Udvisning
+13
+Julie GANTZEL
+41.44 25-11 OHC Mål
+HF
+31
+Kelly VOLLEBREGT
+Assist
+5
+Trine KNUDSEN
+12
+Sophie MOTH
+42.50
+HOL Skud reddet
+VB
+2
+Mathilde Høy TROELSEN
+Retur
+0
+1
+Martina THÖRN
+43.36
+HOL Skud reddet
+PL
+2
+Mathilde Høy TROELSEN
+1
+Martina THÖRN
+43.48 26-11 OHC Mål
+2:e
+90
+Mia REJ
+12
+Sophie MOTH
+44.27
+HOL Skud forbi
+PL
+7
+Jenny Helen CARLSON
+1
+Martina THÖRN
+44.37
+OHC Skud reddet
+2:e
+5
+Trine KNUDSEN
+12
+Sophie MOTH
+45.14
+HOL Time out
+45.36 26-12 HOL Mål
+Gbr
+2
+Mathilde Høy TROELSEN
+1
+Martina THÖRN
+45.48 27-12 OHC Mål
+2:e
+5
+Trine KNUDSEN
+12
+Sophie MOTH
+46.25 27-13 HOL Mål
+Gbr 27
+Emma LAURSEN
+Assist
+7
+Jenny Helen CARLSON
+1
+Martina THÖRN
+47.16 28-13 OHC Mål
+PL
+4
+Malene AAMBAKK
+12
+Sophie MOTH
+47.51
+HOL Skud reddet
+HF
+23
+Sofie Brems ØSTERGAARD
+1
+Martina THÖRN
+47.58
+OHC Fejlaflevering
+8
+Lois ABBINGH
+Bold erobret 13
+Julie GANTZEL
+48.03
+HOL Skud på stolpe
+1:e
+17
+Emilie Bastrup BERTELSEN
+Retur
+0
+1
+Martina THÖRN
+48.24 28-14 HOL Mål
+PL
+7
+Jenny Helen CARLSON
+1
+Martina THÖRN
+48.54 29-14 OHC Mål
+VF
+6
+Freja COHRT
+Assist
+5
+Trine KNUDSEN
+12
+Sophie MOTH
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Odense Håndbold - Holstebro Håndbold   34 - 19  (18 - 10)
+326627 / 17-11-2021 / Sydbank Arena / Bambusa Kvindeligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+49.18 29-15 HOL Mål
+VF
+7
+Jenny Helen CARLSON
+Assist
+13
+Julie GANTZEL
+1
+Martina THÖRN
+49.23
+OHC Udvisning
+8
+Lois ABBINGH
+49.50
+OHC Skud reddet
+Gbr
+4
+Malene AAMBAKK
+12
+Sophie MOTH
+50.16
+HOL Regelfejl
+10
+Mathilde HYLLEBERG
+51.05 30-15 OHC Mål
+Gbr
+6
+Freja COHRT
+12
+Sophie MOTH
+51.25
+HOL Tilkendt straffe
+7
+Jenny Helen CARLSON
+Forårs. str.
+3
+Maren AARDAHL
+51.30 30-16 HOL Mål på straffe
+10
+Mathilde HYLLEBERG
+16
+Althea REINHARDT
+52.04 31-16 OHC Mål
+ST
+3
+Maren AARDAHL
+Assist
+4
+Malene AAMBAKK
+12
+Sophie MOTH
+52.44 31-17 HOL Mål
+PL
+2
+Mathilde Høy TROELSEN
+1
+Martina THÖRN
+53.10 32-17 OHC Mål
+Gbr
+5
+Trine KNUDSEN
+12
+Sophie MOTH
+53.46
+HOL Skud forbi
+PL
+7
+Jenny Helen CARLSON
+1
+Martina THÖRN
+53.53
+OHC Fejlaflevering
+1
+Martina THÖRN
+54.59
+HOL Skud forbi
+PL
+2
+Mathilde Høy TROELSEN
+1
+Martina THÖRN
+55.08 33-17 OHC Mål
+Gbr 32
+Mie HØJLUND
+Assist
+5
+Trine KNUDSEN
+12
+Sophie MOTH
+55.53 33-18 HOL Mål
+PL
+10
+Mathilde HYLLEBERG
+1
+Martina THÖRN
+56.49
+OHC Skud reddet
+Gbr
+5
+Trine KNUDSEN
+12
+Sophie MOTH
+57.25
+HOL Regelfejl
+2
+Mathilde Høy TROELSEN
+57.36
+OHC Fejlaflevering
+5
+Trine KNUDSEN
+58.13
+HOL Skud reddet
+HB 10
+Mathilde HYLLEBERG
+1
+Martina THÖRN
+58.27
+OHC Regelfejl
+5
+Trine KNUDSEN
+58.50 33-19 HOL Mål
+ST
+13
+Julie GANTZEL
+Assist
+7
+Jenny Helen CARLSON
+1
+Martina THÖRN
+59.37 34-19 OHC Mål
+Gbr 32
+Mie HØJLUND
+Assist
+4
+Malene AAMBAKK
+12
+Sophie MOTH
+59.57
+HOL Skud på stolpe
+VF
+21
+Maja Edling LAURITSEN
+1
+Martina THÖRN
+60.00 34-19
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Michael Steenholdt, Anders Thoke,

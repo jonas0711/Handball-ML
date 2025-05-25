@@ -6885,3 +6885,278 @@
 2025-03-18 22:50:51,448 - handball_admin - INFO - Fundet 20 spillere i central database for GOG
 2025-03-18 22:50:51,448 - handball_admin - INFO - Første fem spillere fundet for GOG: Frederik WOLFF (#1), Nicolai PEDERSEN (#3), Kasper PEDERSEN (#4), Lasse VILHELMSEN (#7), Frederik TILSTED (#8)
 2025-03-18 22:50:51,452 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 22:50:51] "GET /teams/GOG HTTP/1.1" 200 -
+2025-04-02 21:12:11,451 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-02 21:12:11,452 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-02 21:12:11,486 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:12:13,200 - werkzeug - WARNING -  * Debugger is active!
+2025-04-02 21:12:13,206 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-04-02 21:12:56,242 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\app.py', reloading
+2025-04-02 21:12:56,274 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\app.py', reloading
+2025-04-02 21:12:56,274 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\app.py', reloading
+2025-04-02 21:12:56,843 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:13:03,305 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-02 21:13:03,305 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-02 21:14:35,649 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-02 21:14:35,649 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-02 21:14:35,664 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:14:36,955 - werkzeug - WARNING -  * Debugger is active!
+2025-04-02 21:14:36,957 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-04-02 21:15:48,930 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:3000
+2025-04-02 21:15:48,930 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-02 21:15:48,944 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:15:50,322 - werkzeug - WARNING -  * Debugger is active!
+2025-04-02 21:15:50,333 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-04-02 21:15:51,938 - handball_admin - INFO - Fandt 154 Herreliga-databaser og 166 Kvindeliga-databaser
+2025-04-02 21:15:52,029 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:15:52] "GET / HTTP/1.1" 200 -
+2025-04-02 21:15:52,321 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:15:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-02 21:15:57,445 - handball_admin - INFO - Fandt 154 Herreliga-databaser og 166 Kvindeliga-databaser
+2025-04-02 21:15:57,929 - handball_admin - INFO - Fandt 29 unikke hold
+2025-04-02 21:15:57,958 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:15:57] "GET /teams HTTP/1.1" 200 -
+2025-04-02 21:16:21,345 - handball_admin - INFO - Genopbygger central database for kvindeliga
+2025-04-02 21:16:21,348 - handball_admin - INFO - Opretter/opdaterer central database for kvindeliga i Kvindeliga-database\kvindeliga_central.db
+2025-04-02 21:16:21,351 - handball_admin - INFO - Slettet eksisterende database: Kvindeliga-database\kvindeliga_central.db
+2025-04-02 21:16:21,427 - handball_admin - INFO - Fandt 166 databasefiler i Kvindeliga-database\2024-2025
+2025-04-02 21:16:21,427 - handball_admin - INFO - Behandler kamp fra 1012025_Silkeborg-Voel_KFUM_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:21,444 - handball_admin - INFO - Behandler kamp fra 1092024_Ikast_Håndbold_vs_Viborg_HK.db
+2025-04-02 21:16:21,451 - handball_admin - INFO - Behandler kamp fra 11102024_Ringkøbing_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:21,459 - handball_admin - INFO - Behandler kamp fra 1112025_Viborg_HK_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:21,464 - handball_admin - INFO - Behandler kamp fra 1192024_Horsens_Håndbold_Elite_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:21,471 - handball_admin - INFO - Behandler kamp fra 1192024_Nykøbing_F._Håndbold_vs_Odense_Håndbold.db
+2025-04-02 21:16:21,481 - handball_admin - INFO - Behandler kamp fra 1192024_Team_Esbjerg_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:21,489 - handball_admin - INFO - Behandler kamp fra 12102024_Horsens_Håndbold_Elite_vs_EH_Aalborg.db
+2025-04-02 21:16:21,495 - handball_admin - INFO - Behandler kamp fra 12112024_Aarhus_Håndbold_Kvinder_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:21,503 - handball_admin - INFO - Behandler kamp fra 12112024_Bjerringbro_FH_vs_Odense_Håndbold.db
+2025-04-02 21:16:21,511 - handball_admin - INFO - Behandler kamp fra 12112024_EH_Aalborg_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:21,519 - handball_admin - INFO - Behandler kamp fra 12112024_Horsens_Håndbold_Elite_vs_Ikast_Håndbold.db
+2025-04-02 21:16:21,527 - handball_admin - INFO - Behandler kamp fra 12112024_Horsens_Håndbold_Elite_vs_Team_Esbjerg.db
+2025-04-02 21:16:21,534 - handball_admin - INFO - Behandler kamp fra 12112024_Ikast_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:21,539 - handball_admin - INFO - Behandler kamp fra 12112024_Nykøbing_F._Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:21,545 - handball_admin - INFO - Behandler kamp fra 12112024_Silkeborg-Voel_KFUM_vs_København_Håndbold.db
+2025-04-02 21:16:21,549 - handball_admin - INFO - Behandler kamp fra 12112024_Skanderborg_Håndbold_vs_EH_Aalborg.db
+2025-04-02 21:16:21,556 - handball_admin - INFO - Behandler kamp fra 1212025_Ringkøbing_Håndbold_vs_EH_Aalborg.db
+2025-04-02 21:16:21,563 - handball_admin - INFO - Behandler kamp fra 122025_Bjerringbro_FH_vs_Viborg_HK.db
+2025-04-02 21:16:21,568 - handball_admin - INFO - Behandler kamp fra 122025_EH_Aalborg_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:21,576 - handball_admin - INFO - Behandler kamp fra 122025_Ikast_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:21,581 - handball_admin - INFO - Behandler kamp fra 122025_Team_Esbjerg_vs_København_Håndbold.db
+2025-04-02 21:16:21,585 - handball_admin - INFO - Behandler kamp fra 1222025_Ikast_Håndbold_vs_København_Håndbold.db
+2025-04-02 21:16:21,591 - handball_admin - INFO - Behandler kamp fra 1222025_Skanderborg_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:21,595 - handball_admin - INFO - Behandler kamp fra 1222025_Team_Esbjerg_vs_Odense_Håndbold.db
+2025-04-02 21:16:21,601 - handball_admin - INFO - Behandler kamp fra 13112024_Ringkøbing_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:21,602 - handball_admin - INFO - Behandler kamp fra 13112024_Skanderborg_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:21,608 - handball_admin - INFO - Behandler kamp fra 13112024_Team_Esbjerg_vs_EH_Aalborg.db
+2025-04-02 21:16:21,616 - handball_admin - INFO - Behandler kamp fra 132025_København_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:21,620 - handball_admin - INFO - Behandler kamp fra 132025_Odense_Håndbold_vs_Bjerringbro_FH.db
+2025-04-02 21:16:21,626 - handball_admin - INFO - Behandler kamp fra 132025_Skanderborg_Håndbold_vs_Team_Esbjerg.db
+2025-04-02 21:16:21,630 - handball_admin - INFO - Behandler kamp fra 1332025_Silkeborg-Voel_KFUM_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:21,637 - handball_admin - INFO - Behandler kamp fra 1332025_Viborg_HK_vs_Odense_Håndbold.db
+2025-04-02 21:16:21,645 - handball_admin - INFO - Behandler kamp fra 1392024_Skanderborg_Håndbold_vs_København_Håndbold.db
+2025-04-02 21:16:21,653 - handball_admin - INFO - Behandler kamp fra 1392024_SønderjyskE_Kvindehåndbold_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:21,653 - handball_admin - INFO - Behandler kamp fra 14102024_Silkeborg-Voel_KFUM_vs_Viborg_HK.db
+2025-04-02 21:16:21,668 - handball_admin - INFO - Behandler kamp fra 14112024_Nykøbing_F._Håndbold_vs_Bjerringbro_FH.db
+2025-04-02 21:16:21,677 - handball_admin - INFO - Behandler kamp fra 14112024_Odense_Håndbold_vs_Viborg_HK.db
+2025-04-02 21:16:21,685 - handball_admin - INFO - Behandler kamp fra 1412025_Odense_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:21,690 - handball_admin - INFO - Behandler kamp fra 1432025_Aarhus_Håndbold_Kvinder_vs_København_Håndbold.db
+2025-04-02 21:16:21,701 - handball_admin - INFO - Behandler kamp fra 1432025_Bjerringbro_FH_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:21,710 - handball_admin - INFO - Behandler kamp fra 1432025_Ikast_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:21,719 - handball_admin - INFO - Behandler kamp fra 15112024_København_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:21,724 - handball_admin - INFO - Behandler kamp fra 1512025_EH_Aalborg_vs_Ikast_Håndbold.db
+2025-04-02 21:16:21,735 - handball_admin - INFO - Behandler kamp fra 1512025_Horsens_Håndbold_Elite_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:21,737 - handball_admin - INFO - Behandler kamp fra 1512025_Nykøbing_F._Håndbold_vs_København_Håndbold.db
+2025-04-02 21:16:21,752 - handball_admin - INFO - Behandler kamp fra 1512025_Team_Esbjerg_vs_Viborg_HK.db
+2025-04-02 21:16:21,759 - handball_admin - INFO - Behandler kamp fra 1522025_EH_Aalborg_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:21,766 - handball_admin - INFO - Behandler kamp fra 1522025_Viborg_HK_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:21,774 - handball_admin - INFO - Behandler kamp fra 1532025_EH_Aalborg_vs_Team_Esbjerg.db
+2025-04-02 21:16:21,780 - handball_admin - INFO - Behandler kamp fra 1532025_SønderjyskE_Kvindehåndbold_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:21,787 - handball_admin - INFO - Behandler kamp fra 1592024_EH_Aalborg_vs_Bjerringbro_FH.db
+2025-04-02 21:16:21,795 - handball_admin - INFO - Behandler kamp fra 16102024_SønderjyskE_Kvindehåndbold_vs_Odense_Håndbold.db
+2025-04-02 21:16:21,802 - handball_admin - INFO - Behandler kamp fra 1612025_Skanderborg_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:21,808 - handball_admin - INFO - Behandler kamp fra 1622025_SønderjyskE_Kvindehåndbold_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:21,815 - handball_admin - INFO - Behandler kamp fra 1712025_SønderjyskE_Kvindehåndbold_vs_Bjerringbro_FH.db
+2025-04-02 21:16:21,823 - handball_admin - INFO - Behandler kamp fra 1722025_Bjerringbro_FH_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:21,833 - handball_admin - INFO - Behandler kamp fra 1832025_Nykøbing_F._Håndbold_vs_Viborg_HK.db
+2025-04-02 21:16:21,840 - handball_admin - INFO - Behandler kamp fra 1832025_Odense_Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:21,849 - handball_admin - INFO - Behandler kamp fra 1892024_Aarhus_Håndbold_Kvinder_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:21,856 - handball_admin - INFO - Behandler kamp fra 1892024_København_Håndbold_vs_Team_Esbjerg.db
+2025-04-02 21:16:21,864 - handball_admin - INFO - Behandler kamp fra 1892024_Nykøbing_F._Håndbold_vs_EH_Aalborg.db
+2025-04-02 21:16:21,873 - handball_admin - INFO - Behandler kamp fra 1892024_Odense_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:21,883 - handball_admin - INFO - Behandler kamp fra 19102024_Viborg_HK_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:21,892 - handball_admin - INFO - Behandler kamp fra 1922025_Horsens_Håndbold_Elite_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:21,903 - handball_admin - INFO - Behandler kamp fra 1922025_Nykøbing_F._Håndbold_vs_Team_Esbjerg.db
+2025-04-02 21:16:21,911 - handball_admin - INFO - Behandler kamp fra 1922025_Odense_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:21,918 - handball_admin - INFO - Behandler kamp fra 1922025_Ringkøbing_Håndbold_vs_Ikast_Håndbold.db
+2025-04-02 21:16:21,926 - handball_admin - INFO - Behandler kamp fra 1932025_Ringkøbing_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:21,945 - handball_admin - INFO - Behandler kamp fra 1932025_Skanderborg_Håndbold_vs_Ikast_Håndbold.db
+2025-04-02 21:16:21,962 - handball_admin - INFO - Behandler kamp fra 1932025_Team_Esbjerg_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:21,971 - handball_admin - INFO - Behandler kamp fra 2032025_Horsens_Håndbold_Elite_vs_Bjerringbro_FH.db
+2025-04-02 21:16:21,978 - handball_admin - INFO - Behandler kamp fra 2102024_Horsens_Håndbold_Elite_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:21,986 - handball_admin - INFO - Behandler kamp fra 2102024_Ikast_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:21,994 - handball_admin - INFO - Behandler kamp fra 2102024_Skanderborg_Håndbold_vs_Odense_Håndbold.db
+2025-04-02 21:16:22,008 - handball_admin - INFO - Behandler kamp fra 2102024_Team_Esbjerg_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:22,014 - handball_admin - INFO - Behandler kamp fra 2112024_Odense_Håndbold_vs_Ikast_Håndbold.db
+2025-04-02 21:16:22,023 - handball_admin - INFO - Behandler kamp fra 212025_Aarhus_Håndbold_Kvinder_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:22,029 - handball_admin - INFO - Behandler kamp fra 212025_Bjerringbro_FH_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:22,037 - handball_admin - INFO - Behandler kamp fra 212025_EH_Aalborg_vs_København_Håndbold.db
+2025-04-02 21:16:22,044 - handball_admin - INFO - Behandler kamp fra 212025_Ikast_Håndbold_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:22,049 - handball_admin - INFO - Behandler kamp fra 212025_Silkeborg-Voel_KFUM_vs_Odense_Håndbold.db
+2025-04-02 21:16:22,056 - handball_admin - INFO - Behandler kamp fra 212025_SønderjyskE_Kvindehåndbold_vs_Team_Esbjerg.db
+2025-04-02 21:16:22,062 - handball_admin - INFO - Behandler kamp fra 212025_Viborg_HK_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:22,074 - handball_admin - INFO - Behandler kamp fra 2122025_København_Håndbold_vs_Bjerringbro_FH.db
+2025-04-02 21:16:22,085 - handball_admin - INFO - Behandler kamp fra 2122025_Silkeborg-Voel_KFUM_vs_EH_Aalborg.db
+2025-04-02 21:16:22,096 - handball_admin - INFO - Behandler kamp fra 2132025_København_Håndbold_vs_EH_Aalborg.db
+2025-04-02 21:16:22,106 - handball_admin - INFO - Behandler kamp fra 2192024_Viborg_HK_vs_Bjerringbro_FH.db
+2025-04-02 21:16:22,116 - handball_admin - INFO - Behandler kamp fra 2212025_EH_Aalborg_vs_Odense_Håndbold.db
+2025-04-02 21:16:22,125 - handball_admin - INFO - Behandler kamp fra 2212025_Ikast_Håndbold_vs_Bjerringbro_FH.db
+2025-04-02 21:16:22,134 - handball_admin - INFO - Behandler kamp fra 2212025_Nykøbing_F._Håndbold_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:22,143 - handball_admin - INFO - Behandler kamp fra 2212025_Skanderborg_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:22,153 - handball_admin - INFO - Behandler kamp fra 2212025_SønderjyskE_Kvindehåndbold_vs_Viborg_HK.db
+2025-04-02 21:16:22,161 - handball_admin - INFO - Behandler kamp fra 2212025_Team_Esbjerg_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:22,173 - handball_admin - INFO - Behandler kamp fra 222025_Horsens_Håndbold_Elite_vs_Odense_Håndbold.db
+2025-04-02 21:16:22,181 - handball_admin - INFO - Behandler kamp fra 222025_Skanderborg_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:22,249 - handball_admin - INFO - Behandler kamp fra 222025_SønderjyskE_Kvindehåndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:22,265 - handball_admin - INFO - Behandler kamp fra 2222025_Aarhus_Håndbold_Kvinder_vs_Viborg_HK.db
+2025-04-02 21:16:22,274 - handball_admin - INFO - Behandler kamp fra 2292024_Ringkøbing_Håndbold_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:22,277 - handball_admin - INFO - Behandler kamp fra 2292024_Silkeborg-Voel_KFUM_vs_Ikast_Håndbold.db
+2025-04-02 21:16:22,280 - handball_admin - INFO - Behandler kamp fra 2312025_Horsens_Håndbold_Elite_vs_København_Håndbold.db
+2025-04-02 21:16:22,284 - handball_admin - INFO - Behandler kamp fra 232025_Aarhus_Håndbold_Kvinder_vs_EH_Aalborg.db
+2025-04-02 21:16:22,289 - handball_admin - INFO - Behandler kamp fra 232025_Horsens_Håndbold_Elite_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:22,292 - handball_admin - INFO - Behandler kamp fra 232025_Nykøbing_F._Håndbold_vs_Ikast_Håndbold.db
+2025-04-02 21:16:22,295 - handball_admin - INFO - Behandler kamp fra 232025_Ringkøbing_Håndbold_vs_Viborg_HK.db
+2025-04-02 21:16:22,299 - handball_admin - INFO - Behandler kamp fra 2522025_Viborg_HK_vs_København_Håndbold.db
+2025-04-02 21:16:22,303 - handball_admin - INFO - Behandler kamp fra 2532025_Aarhus_Håndbold_Kvinder_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:22,305 - handball_admin - INFO - Behandler kamp fra 2622025_Bjerringbro_FH_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:22,312 - handball_admin - INFO - Behandler kamp fra 2622025_EH_Aalborg_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:22,315 - handball_admin - INFO - Behandler kamp fra 2622025_Ikast_Håndbold_vs_Odense_Håndbold.db
+2025-04-02 21:16:22,319 - handball_admin - INFO - Behandler kamp fra 2622025_SønderjyskE_Kvindehåndbold_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:22,320 - handball_admin - INFO - Behandler kamp fra 2622025_Team_Esbjerg_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:22,326 - handball_admin - INFO - Behandler kamp fra 2622025_Voel_KFUM_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:22,329 - handball_admin - INFO - Behandler kamp fra 2632025_Ikast_Håndbold_vs_EH_Aalborg.db
+2025-04-02 21:16:22,334 - handball_admin - INFO - Behandler kamp fra 2632025_Ringkøbing_Håndbold_vs_Odense_Håndbold.db
+2025-04-02 21:16:22,338 - handball_admin - INFO - Behandler kamp fra 2632025_Viborg_HK_vs_Team_Esbjerg.db
+2025-04-02 21:16:22,342 - handball_admin - INFO - Behandler kamp fra 2812025_Bjerringbro_FH_vs_EH_Aalborg.db
+2025-04-02 21:16:22,345 - handball_admin - INFO - Behandler kamp fra 2812025_Voel_KFUM_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:22,348 - handball_admin - INFO - Behandler kamp fra 2912025_Aarhus_Håndbold_Kvinder_vs_Team_Esbjerg.db
+2025-04-02 21:16:22,353 - handball_admin - INFO - Behandler kamp fra 2912025_København_Håndbold_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:22,357 - handball_admin - INFO - Behandler kamp fra 2912025_Odense_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:22,362 - handball_admin - INFO - Behandler kamp fra 2912025_Ringkøbing_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:22,365 - handball_admin - INFO - Behandler kamp fra 2912025_Viborg_HK_vs_Ikast_Håndbold.db
+2025-04-02 21:16:22,368 - handball_admin - INFO - Behandler kamp fra 4102024_SønderjyskE_Kvindehåndbold_vs_København_Håndbold.db
+2025-04-02 21:16:22,370 - handball_admin - INFO - Behandler kamp fra 412025_Team_Esbjerg_vs_Ikast_Håndbold.db
+2025-04-02 21:16:22,376 - handball_admin - INFO - Behandler kamp fra 492024_Odense_Håndbold_vs_EH_Aalborg.db
+2025-04-02 21:16:22,378 - handball_admin - INFO - Behandler kamp fra 492024_Ringkøbing_Håndbold_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:22,382 - handball_admin - INFO - Behandler kamp fra 492024_Silkeborg-Voel_KFUM_vs_Team_Esbjerg.db
+2025-04-02 21:16:22,385 - handball_admin - INFO - Behandler kamp fra 5102024_EH_Aalborg_vs_Viborg_HK.db
+2025-04-02 21:16:22,389 - handball_admin - INFO - Behandler kamp fra 5112024_København_Håndbold_vs_Viborg_HK.db
+2025-04-02 21:16:22,394 - handball_admin - INFO - Behandler kamp fra 5112024_Ringkøbing_Håndbold_vs_Bjerringbro_FH.db
+2025-04-02 21:16:22,397 - handball_admin - INFO - Behandler kamp fra 512025_Nykøbing_F._Håndbold_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:22,402 - handball_admin - INFO - Behandler kamp fra 512025_Odense_Håndbold_vs_Aarhus_Håndbold_Kvinder.db
+2025-04-02 21:16:22,406 - handball_admin - INFO - Behandler kamp fra 512025_Ringkøbing_Håndbold_vs_København_Håndbold.db
+2025-04-02 21:16:22,410 - handball_admin - INFO - Behandler kamp fra 512025_Skanderborg_Håndbold_vs_Bjerringbro_FH.db
+2025-04-02 21:16:22,414 - handball_admin - INFO - Behandler kamp fra 512025_SønderjyskE_Kvindehåndbold_vs_EH_Aalborg.db
+2025-04-02 21:16:22,418 - handball_admin - INFO - Behandler kamp fra 522025_Aarhus_Håndbold_Kvinder_vs_Ikast_Håndbold.db
+2025-04-02 21:16:22,420 - handball_admin - INFO - Behandler kamp fra 522025_Nykøbing_F._Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:22,425 - handball_admin - INFO - Behandler kamp fra 522025_Odense_Håndbold_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:22,428 - handball_admin - INFO - Behandler kamp fra 522025_Ringkøbing_Håndbold_vs_Team_Esbjerg.db
+2025-04-02 21:16:22,432 - handball_admin - INFO - Behandler kamp fra 522025_Viborg_HK_vs_EH_Aalborg.db
+2025-04-02 21:16:22,437 - handball_admin - INFO - Behandler kamp fra 6112024_Team_Esbjerg_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:22,441 - handball_admin - INFO - Behandler kamp fra 612025_Horsens_Håndbold_Elite_vs_Viborg_HK.db
+2025-04-02 21:16:22,444 - handball_admin - INFO - Behandler kamp fra 692024_Bjerringbro_FH_vs_Ikast_Håndbold.db
+2025-04-02 21:16:22,447 - handball_admin - INFO - Behandler kamp fra 692024_Viborg_HK_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:22,452 - handball_admin - INFO - Behandler kamp fra 7112024_Aarhus_Håndbold_Kvinder_vs_Bjerringbro_FH.db
+2025-04-02 21:16:22,456 - handball_admin - INFO - Behandler kamp fra 7112024_Bjerringbro_FH_vs_København_Håndbold.db
+2025-04-02 21:16:22,460 - handball_admin - INFO - Behandler kamp fra 7112024_Bjerringbro_FH_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:22,465 - handball_admin - INFO - Behandler kamp fra 7112024_EH_Aalborg_vs_Silkeborg-Voel_KFUM.db
+2025-04-02 21:16:22,468 - handball_admin - INFO - Behandler kamp fra 7112024_Ikast_Håndbold_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:22,474 - handball_admin - INFO - Behandler kamp fra 7112024_Skanderborg_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:22,475 - handball_admin - INFO - Behandler kamp fra 7112024_Team_Esbjerg_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:22,483 - handball_admin - INFO - Behandler kamp fra 722025_København_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:22,486 - handball_admin - INFO - Behandler kamp fra 722025_Silkeborg-Voel_KFUM_vs_Bjerringbro_FH.db
+2025-04-02 21:16:22,487 - handball_admin - INFO - Behandler kamp fra 792024_Aarhus_Håndbold_Kvinder_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:22,487 - handball_admin - INFO - Behandler kamp fra 792024_København_Håndbold_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:22,505 - handball_admin - INFO - Behandler kamp fra 8102024_København_Håndbold_vs_Ikast_Håndbold.db
+2025-04-02 21:16:22,510 - handball_admin - INFO - Behandler kamp fra 8112024_SønderjyskE_Kvindehåndbold_vs_Horsens_Håndbold_Elite.db
+2025-04-02 21:16:22,513 - handball_admin - INFO - Behandler kamp fra 812025_Aarhus_Håndbold_Kvinder_vs_Nykøbing_F._Håndbold.db
+2025-04-02 21:16:22,520 - handball_admin - INFO - Behandler kamp fra 812025_Bjerringbro_FH_vs_Team_Esbjerg.db
+2025-04-02 21:16:22,529 - handball_admin - INFO - Behandler kamp fra 812025_Ikast_Håndbold_vs_SønderjyskE_Kvindehåndbold.db
+2025-04-02 21:16:22,529 - handball_admin - INFO - Behandler kamp fra 812025_København_Håndbold_vs_Odense_Håndbold.db
+2025-04-02 21:16:22,529 - handball_admin - INFO - Behandler kamp fra 9102024_Nykøbing_F._Håndbold_vs_Skanderborg_Håndbold.db
+2025-04-02 21:16:22,548 - handball_admin - INFO - Behandler kamp fra 9102024_Odense_Håndbold_vs_Team_Esbjerg.db
+2025-04-02 21:16:22,553 - handball_admin - INFO - Behandler kamp fra 9112024_Viborg_HK_vs_Ringkøbing_Håndbold.db
+2025-04-02 21:16:22,561 - handball_admin - INFO - Behandler kamp fra kvindeliga_2024_2025_stats.db
+2025-04-02 21:16:22,561 - handball_admin - ERROR - Fejl ved hentning af holdkoder fra Kvindeliga-database\2024-2025\kvindeliga_2024_2025_stats.db: no such table: match_events
+2025-04-02 21:16:22,561 - handball_admin - INFO - FØR GROUPERING: Spiller Thilde FRANDSEN (#23) fundet på hold: SVK=84
+2025-04-02 21:16:22,561 - handball_admin - INFO - FØR GROUPERING: Spiller Line FRANDSEN (#72) fundet på hold: BFH=319
+2025-04-02 21:16:22,561 - handball_admin - INFO - EFTER TILDELING: Spiller Line FRANDSEN er tildelt til hold BFH med 319 forekomster
+2025-04-02 21:16:22,561 - handball_admin - INFO - EFTER TILDELING: Spiller Thilde FRANDSEN er tildelt til hold SVK med 84 forekomster
+2025-04-02 21:16:22,574 - handball_admin - INFO - INDSÆTTELSE: Spiller Line FRANDSEN (#72) indsat i database på hold BFH med 319 forekomster
+2025-04-02 21:16:22,577 - handball_admin - INFO - INDSÆTTELSE: Spiller Thilde FRANDSEN (#23) indsat i database på hold SVK med 84 forekomster
+2025-04-02 21:16:22,588 - handball_admin - INFO - Central database for kvindeliga opdateret med succes
+2025-04-02 21:16:22,589 - handball_admin - INFO - Henter spillere fra central database for hold RIN
+2025-04-02 21:16:22,594 - handball_admin - INFO - Fandt FRANDSEN-spiller i central database: Thilde FRANDSEN på hold SVK
+2025-04-02 21:16:22,594 - handball_admin - INFO - Fandt FRANDSEN-spiller i central database: Line FRANDSEN på hold BFH
+2025-04-02 21:16:22,599 - handball_admin - INFO - Hold AHB har 20 spillere i central database
+2025-04-02 21:16:22,599 - handball_admin - INFO - Hold BFH har 17 spillere i central database
+2025-04-02 21:16:22,599 - handball_admin - INFO - Hold EHA har 19 spillere i central database
+2025-04-02 21:16:22,599 - handball_admin - INFO - Hold HHE har 22 spillere i central database
+2025-04-02 21:16:22,599 - handball_admin - INFO - Hold IKA har 27 spillere i central database
+2025-04-02 21:16:22,599 - handball_admin - INFO - Hold KBH har 18 spillere i central database
+2025-04-02 21:16:22,599 - handball_admin - INFO - Hold NFH har 19 spillere i central database
+2025-04-02 21:16:22,601 - handball_admin - INFO - Hold ODE har 18 spillere i central database
+2025-04-02 21:16:22,601 - handball_admin - INFO - Hold RIN har 16 spillere i central database
+2025-04-02 21:16:22,601 - handball_admin - INFO - Hold SKB har 22 spillere i central database
+2025-04-02 21:16:22,601 - handball_admin - INFO - Hold SVK har 19 spillere i central database
+2025-04-02 21:16:22,601 - handball_admin - INFO - Hold TES har 25 spillere i central database
+2025-04-02 21:16:22,601 - handball_admin - INFO - Hold VHK har 19 spillere i central database
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Cecilie BJERRE (2) på hold RIN med 134 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Maria Berger WIERZBA (3) på hold RIN med 338 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Michelle BRANDSTRUP BITTNER (4) på hold RIN med 3 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Caroline SVARRE (5) på hold RIN med 72 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Camilla PEDERSEN (8) på hold RIN med 24 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Frida Høgaard NIELSEN (10) på hold RIN med 184 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Jane MEJLVANG (15) på hold RIN med 325 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Stephanie ANDERSEN (16) på hold RIN med 772 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Emilie ROSBORG (18) på hold RIN med 124 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Rikke JOCHUMSEN (19) på hold RIN med 35 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Stine Opstrup KRISTENSEN (20) på hold RIN med 192 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Sofie ØSTERGAARD (22) på hold RIN med 67 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Nanna HINNERFELDT (23) på hold RIN med 165 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Emma LAURSEN (33) på hold RIN med 94 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Karoline FAHLBERG (73) på hold RIN med 37 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fandt spiller Rakul WARDUM (88) på hold RIN med 269 forekomster
+2025-04-02 21:16:22,602 - handball_admin - INFO - Fundet 16 spillere i central database for RIN
+2025-04-02 21:16:22,602 - handball_admin - INFO - Første fem spillere fundet for RIN: Cecilie BJERRE (#2), Maria Berger WIERZBA (#3), Michelle BRANDSTRUP BITTNER (#4), Caroline SVARRE (#5), Camilla PEDERSEN (#8)
+2025-04-02 21:16:22,626 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:16:22] "GET /teams/RIN HTTP/1.1" 200 -
+2025-04-02 21:16:56,346 - handball_admin - INFO - Fandt 154 Herreliga-databaser og 166 Kvindeliga-databaser
+2025-04-02 21:16:56,845 - handball_admin - INFO - Fandt 29 unikke hold
+2025-04-02 21:16:56,851 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:16:56] "GET /teams HTTP/1.1" 200 -
+2025-04-02 21:17:16,891 - handball_admin - INFO - Fandt 154 Herreliga-databaser og 166 Kvindeliga-databaser
+2025-04-02 21:17:16,953 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:17:16] "GET / HTTP/1.1" 200 -
+2025-04-02 21:17:18,623 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:17:18] "GET /database/Herreliga-database\\2024-2025\\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db HTTP/1.1" 200 -
+2025-04-02 21:17:24,765 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:17:24] "GET /database/Herreliga-database\\2024-2025\\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db/table/player_statistics HTTP/1.1" 200 -
+2025-04-02 21:17:31,548 - handball_admin - INFO - Fandt 154 Herreliga-databaser og 166 Kvindeliga-databaser
+2025-04-02 21:17:31,562 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:17:31] "GET / HTTP/1.1" 200 -
+2025-04-02 21:17:33,660 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:17:33] "GET /database/Herreliga-database\\2024-2025\\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db HTTP/1.1" 200 -
+2025-04-02 21:17:36,802 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:17:36] "GET /database/Herreliga-database\\2024-2025\\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db/table/players_team HTTP/1.1" 200 -
+2025-04-02 21:17:44,414 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:17:44] "GET /database/Herreliga-database\\2024-2025\\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db HTTP/1.1" 200 -
+2025-04-02 21:17:46,552 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:17:46] "GET /database/Herreliga-database\\2024-2025\\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db/table/players_team HTTP/1.1" 200 -
+2025-04-02 21:18:22,530 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:18:22] "GET /database/Herreliga-database\\2024-2025\\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db HTTP/1.1" 200 -
+2025-04-02 21:18:24,754 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:18:24] "GET /database/Herreliga-database\\2024-2025\\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db/table/players_team HTTP/1.1" 200 -
+2025-04-02 21:18:27,838 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:18:27] "GET /database/Herreliga-database\\2024-2025\\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db HTTP/1.1" 200 -
+2025-04-02 21:18:28,824 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2025 21:18:28] "GET /database/Herreliga-database\\2024-2025\\10102024_Nordsjælland_Håndbold_vs_Mors-Thy_Håndbold.db/table/player_statistics HTTP/1.1" 200 -
+2025-04-02 23:09:52,866 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\player_team_statistics.py', reloading
+2025-04-02 23:09:53,867 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 23:09:59,606 - werkzeug - WARNING -  * Debugger is active!
+2025-04-02 23:09:59,611 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-04-02 23:10:17,960 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\handball_data_processor.py', reloading
+2025-04-02 23:10:17,986 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\handball_workflow.py', reloading
+2025-04-02 23:10:18,013 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\pdf_to_text_converter.py', reloading
+2025-04-02 23:10:18,030 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\txt_to_db_manual_converter.py', reloading
+2025-04-02 23:10:18,859 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 23:10:20,207 - werkzeug - WARNING -  * Debugger is active!
+2025-04-02 23:10:20,211 - werkzeug - INFO -  * Debugger PIN: 650-489-451
+2025-04-02 23:10:58,543 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\player_team_statistics.py', reloading
+2025-04-02 23:10:58,545 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jonas\\Desktop\\Handball-ML\\player_team_statistics.py', reloading
+2025-04-02 23:10:59,650 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)

@@ -1,0 +1,994 @@
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - Ribe-Esbjerg HH   29 - 27  (13 - 13)
+327236 / 12-11-2021 / Arena Vestjylland Forsikring Lemvig / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+1.06
+1-0
+LTH
+Mål
+VB
+6
+Mads Thymann HANSEN
+12
+Sørenn RASMUSSEN
+1.42
+1-1
+REH Mål
+HB 10
+Jonatan MOLLERUP
+1
+Svend RUGHAVE
+2.02
+REH Advarsel
+21
+Miha ZVIZEJ
+2.26
+LTH
+Fejlaflevering
+11
+Thomas Bohl DAMGAARD
+2.36
+1-2
+REH Mål
+2:e
+19
+Jesper LINDGREN
+Assist
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+3.20
+LTH
+Fejlaflevering
+22
+Jacob HESSELLUND
+3.55
+LTH
+Advarsel
+6
+Mads Thymann HANSEN
+4.19
+1-3
+REH Mål
+PL
+10
+Jonatan MOLLERUP
+Assist
+7
+Jonas LARHOLM
+1
+Svend RUGHAVE
+4.54
+LTH
+Skud reddet
+PL
+18
+Nicolaj Kjær SPANGGAARD
+12
+Sørenn RASMUSSEN
+5.28
+REH Skud reddet
+HB 10
+Jonatan MOLLERUP
+1
+Svend RUGHAVE
+5.36
+LTH
+Fejlaflevering
+1
+Svend RUGHAVE
+5.44
+REH Tabt bold
+11
+Mathias JØRGENSEN
+5.51
+REH Udvisning
+7
+Jonas LARHOLM
+6.11
+2-3
+LTH
+Mål
+VB
+52
+Rasmus PORUP
+12
+Sørenn RASMUSSEN
+6.47
+REH Skud reddet
+HB 10
+Jonatan MOLLERUP
+1
+Svend RUGHAVE
+7.14
+3-3
+LTH
+Mål
+Gbr 52
+Rasmus PORUP
+12
+Sørenn RASMUSSEN
+8.04
+REH Skud reddet
+VB
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+8.38
+LTH
+Fejlaflevering
+6
+Mads Thymann HANSEN
+8.46
+3-4
+REH Mål
+1:e
+21
+Miha ZVIZEJ
+Assist
+12
+Sørenn RASMUSSEN
+1
+Svend RUGHAVE
+8.56
+4-4
+LTH
+Mål
+PL
+11
+Thomas Bohl DAMGAARD
+12
+Sørenn RASMUSSEN
+9.05
+REH Skud reddet
+PL
+10
+Jonatan MOLLERUP
+1
+Svend RUGHAVE
+9.39
+LTH
+Skud reddet
+VB
+6
+Mads Thymann HANSEN
+Retur
+0
+12
+Sørenn RASMUSSEN
+10.13
+LTH
+Regelfejl
+7
+Niels LINDHOLT
+10.34
+4-5
+REH Mål
+PL
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+11.16
+LTH
+Regelfejl
+11
+Thomas Bohl DAMGAARD
+12.00
+REH Fejlaflevering
+6
+Torben PETERSEN
+12.55
+LTH
+Skud på stolpe
+HB 18
+Nicolaj Kjær SPANGGAARD
+12
+Sørenn RASMUSSEN
+13.46
+4-6
+REH Mål
+PL
+7
+Jonas LARHOLM
+1
+Svend RUGHAVE
+14.46
+LTH
+Time out
+15.04
+LTH
+Skud reddet
+PL
+18
+Nicolaj Kjær SPANGGAARD
+12
+Sørenn RASMUSSEN
+15.29
+4-7
+REH Mål
+PL
+7
+Jonas LARHOLM
+1
+Svend RUGHAVE
+15.49
+LTH
+Tilkendt straffe
+32
+Christian Sabroe HOLM
+Forårs. str.
+6
+Torben PETERSEN
+15.55
+5-7
+LTH
+Mål på straffe
+23
+Jesper KOKHOLM
+12
+Sørenn RASMUSSEN
+16.31
+REH Skud forbi
+HB
+5
+Emil Grønbech HANSEN
+1
+Svend RUGHAVE
+16.43
+LTH
+Skud reddet
+HF
+23
+Jesper KOKHOLM
+Retur
+0
+12
+Sørenn RASMUSSEN
+17.14
+LTH
+Skud reddet
+PL
+21
+Jorn SMITS
+Retur
+22
+Jacob HESSELLUND
+12
+Sørenn RASMUSSEN
+17.31
+6-7
+LTH
+Mål
+Gbr 21
+Jorn SMITS
+Assist
+18
+Nicolaj Kjær SPANGGAARD
+12
+Sørenn RASMUSSEN
+18.05
+REH Time out
+18.25
+6-8
+REH Mål
+HF
+11
+Mathias JØRGENSEN
+Assist
+7
+Jonas LARHOLM
+1
+Svend RUGHAVE
+18.36
+LTH
+Fejlaflevering
+6
+Mads Thymann HANSEN
+19.00
+6-9
+REH Mål
+Gbr
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+19.11
+7-9
+LTH
+Mål
+VF
+22
+Jacob HESSELLUND
+Assist
+32
+Christian Sabroe HOLM
+12
+Sørenn RASMUSSEN
+19.53
+7-10
+REH Mål
+PL
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+21.31
+LTH
+Regelfejl
+32
+Christian Sabroe HOLM
+21.54
+REH Skud på stolpe
+PL
+7
+Jonas LARHOLM
+1
+Svend RUGHAVE
+22.49
+8-10
+LTH
+Mål
+HF
+23
+Jesper KOKHOLM
+Assist
+21
+Jorn SMITS
+12
+Sørenn RASMUSSEN
+23.22
+8-11
+REH Mål
+VF
+92
+Sune IVERSEN
+Assist
+10
+Jonatan MOLLERUP
+1
+Svend RUGHAVE
+23.56
+9-11
+LTH
+Mål
+Gbr 11
+Thomas Bohl DAMGAARD
+12
+Sørenn RASMUSSEN
+24.29
+REH Skud reddet
+Gbr
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+25.06
+REH Udvisning
+10
+Jonatan MOLLERUP
+25.19
+REH Udvisning
+21
+Miha ZVIZEJ
+25.39 10-11 LTH
+Mål
+VF
+20
+Frederik IVERSEN
+Assist
+52
+Rasmus PORUP
+12
+Sørenn RASMUSSEN
+26.06 10-12 REH Mål
+Gbr 92
+Sune IVERSEN
+Assist
+5
+Emil Grønbech HANSEN
+1
+Svend RUGHAVE
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - Ribe-Esbjerg HH   29 - 27  (13 - 13)
+327236 / 12-11-2021 / Arena Vestjylland Forsikring Lemvig / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+26.28 11-12 LTH
+Mål
+ST
+7
+Niels LINDHOLT
+Assist
+52
+Rasmus PORUP
+12
+Sørenn RASMUSSEN
+27.32
+REH Skud forbi
+HB
+5
+Emil Grønbech HANSEN
+1
+Svend RUGHAVE
+28.15 12-12 LTH
+Mål
+PL
+11
+Thomas Bohl DAMGAARD
+12
+Sørenn RASMUSSEN
+29.00
+REH Regelfejl
+9
+Christoffer LANGERHUUS
+29.06 13-12 LTH
+Mål
+1:e
+1
+Svend RUGHAVE
+12
+Sørenn RASMUSSEN
+29.43
+REH Skud reddet
+VB
+6
+Torben PETERSEN
+Retur
+0
+1
+Svend RUGHAVE
+30.00 13-13 REH Mål
+Gbr
+5
+Emil Grønbech HANSEN
+Assist
+7
+Jonas LARHOLM
+1
+Svend RUGHAVE
+30.00 13-13
+Halvleg
+30.00
+Start 2:e halvleg
+30.38
+REH Skud på stolpe
+PL
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+30.47 14-13 LTH
+Mål
+PL
+18
+Nicolaj Kjær SPANGGAARD
+12
+Sørenn RASMUSSEN
+30.56 14-14 REH Mål
+HB 10
+Jonatan MOLLERUP
+1
+Svend RUGHAVE
+31.43 15-14 LTH
+Mål
+Gbr 18
+Nicolaj Kjær SPANGGAARD
+12
+Sørenn RASMUSSEN
+31.57
+REH Skud forbi
+VB
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+32.40
+LTH
+Tilkendt straffe
+11
+Thomas Bohl DAMGAARD
+Forårs. str.
+10
+Jonatan MOLLERUP
+32.44
+LTH
+Straffekast reddet
+23
+Jesper KOKHOLM
+12
+Sørenn RASMUSSEN
+33.47
+REH Regelfejl
+6
+Torben PETERSEN
+33.54
+LTH
+Skud reddet
+Gbr 23
+Jesper KOKHOLM
+Retur
+9
+Nicolai Pugholm HVID
+12
+Sørenn RASMUSSEN
+34.04
+LTH
+Skud reddet
+ST
+9
+Nicolai Pugholm HVID
+12
+Sørenn RASMUSSEN
+34.19
+REH Skud på stolpe
+HB 10
+Jonatan MOLLERUP
+1
+Svend RUGHAVE
+34.46
+LTH
+Skud reddet
+VB
+6
+Mads Thymann HANSEN
+12
+Sørenn RASMUSSEN
+35.39
+REH Skud på stolpe
+PL
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+36.38
+LTH
+Tilkendt straffe
+11
+Thomas Bohl DAMGAARD
+Forårs. str.
+19
+Jesper LINDGREN
+36.45
+REH Udvisning
+19
+Jesper LINDGREN
+36.45 16-14 LTH
+Mål på straffe
+23
+Jesper KOKHOLM
+12
+Sørenn RASMUSSEN
+37.10
+REH Fejlaflevering
+7
+Jonas LARHOLM
+37.17 17-14 LTH
+Mål
+1:e
+9
+Nicolai Pugholm HVID
+Assist
+22
+Jacob HESSELLUND
+12
+Sørenn RASMUSSEN
+37.27
+REH Time out
+37.55 17-15 REH Mål
+PL
+7
+Jonas LARHOLM
+1
+Svend RUGHAVE
+38.22 18-15 LTH
+Mål
+Gbr 21
+Jorn SMITS
+Assist
+52
+Rasmus PORUP
+12
+Sørenn RASMUSSEN
+38.56
+REH Fejlaflevering
+7
+Jonas LARHOLM
+39.00
+LTH
+Tilkendt straffe
+22
+Jacob HESSELLUND
+Forårs. str.
+11
+Mathias JØRGENSEN
+39.05 19-15 LTH
+Mål på straffe
+23
+Jesper KOKHOLM
+12
+Sørenn RASMUSSEN
+39.35 19-16 REH Mål
+ST
+9
+Christoffer LANGERHUUS
+Assist
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+40.52 20-16 LTH
+Mål
+HB 18
+Nicolaj Kjær SPANGGAARD
+Assist
+11
+Thomas Bohl DAMGAARD
+12
+Sørenn RASMUSSEN
+41.08
+REH Skud reddet
+VF
+92
+Sune IVERSEN
+1
+Svend RUGHAVE
+41.44 21-16 LTH
+Mål
+PL
+18
+Nicolaj Kjær SPANGGAARD
+Assist
+11
+Thomas Bohl DAMGAARD
+12
+Sørenn RASMUSSEN
+41.55
+REH Time out
+42.18 21-17 REH Mål
+VB
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+43.12 22-17 LTH
+Mål
+Gbr 18
+Nicolaj Kjær SPANGGAARD
+Assist
+14
+Joakim André HYKKERUD
+12
+Sørenn RASMUSSEN
+43.47 22-18 REH Mål
+VB
+6
+Torben PETERSEN
+Assist
+7
+Jonas LARHOLM
+1
+Svend RUGHAVE
+44.54
+LTH
+Regelfejl
+32
+Christian Sabroe HOLM
+45.06 22-19 REH Mål
+ST
+7
+Jonas LARHOLM
+Assist
+5
+Emil Grønbech HANSEN
+1
+Svend RUGHAVE
+45.40 23-19 LTH
+Mål
+Gbr 18
+Nicolaj Kjær SPANGGAARD
+16
+Kim SONNE
+45.52
+REH Skud reddet
+PL
+7
+Jonas LARHOLM
+Retur
+92
+Sune IVERSEN
+1
+Svend RUGHAVE
+46.33
+REH Skud reddet
+Gbr
+5
+Emil Grønbech HANSEN
+1
+Svend RUGHAVE
+46.43 24-19 LTH
+Mål
+1:e
+22
+Jacob HESSELLUND
+16
+Kim SONNE
+47.26 24-20 REH Mål
+VB
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+48.25
+LTH
+Skud reddet
+Gbr 21
+Jorn SMITS
+16
+Kim SONNE
+48.32 24-21 REH Mål
+2:e
+6
+Torben PETERSEN
+1
+Svend RUGHAVE
+49.23
+LTH
+Skud reddet
+VF
+22
+Jacob HESSELLUND
+16
+Kim SONNE
+50.09 24-22 REH Mål
+HF
+5
+Emil Grønbech HANSEN
+1
+Svend RUGHAVE
+50.15
+LTH
+Time out
+50.44
+LTH
+Tilkendt straffe
+21
+Jorn SMITS
+Forårs. str.
+4
+Tobias OLSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - Ribe-Esbjerg HH   29 - 27  (13 - 13)
+327236 / 12-11-2021 / Arena Vestjylland Forsikring Lemvig / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+51.02 25-22 LTH
+Mål på straffe
+23
+Jesper KOKHOLM
+16
+Kim SONNE
+51.32
+REH Tabt bold
+7
+Jonas LARHOLM
+51.38
+LTH
+Fejlaflevering
+9
+Nicolai Pugholm HVID
+51.43 25-23 REH Mål
+HF
+5
+Emil Grønbech HANSEN
+Assist
+4
+Tobias OLSEN
+30
+Nicklas Graugaard NIELSEN
+52.27
+LTH
+Tilkendt straffe
+11
+Thomas Bohl DAMGAARD
+Forårs. str.
+4
+Tobias OLSEN
+52.30 26-23 LTH
+Mål på straffe
+23
+Jesper KOKHOLM
+12
+Sørenn RASMUSSEN
+52.57 26-24 REH Mål
+Gbr
+5
+Emil Grønbech HANSEN
+Assist
+7
+Jonas LARHOLM
+30
+Nicklas Graugaard NIELSEN
+53.34
+LTH
+Fejlaflevering
+21
+Jorn SMITS
+53.59
+REH Skud reddet
+PL
+6
+Torben PETERSEN
+30
+Nicklas Graugaard NIELSEN
+55.00
+LTH
+Regelfejl
+7
+Niels LINDHOLT
+55.30
+REH Skud reddet
+PL
+7
+Jonas LARHOLM
+30
+Nicklas Graugaard NIELSEN
+56.03
+LTH
+Fejlaflevering
+6
+Mads Thymann HANSEN
+56.31 26-25 REH Mål
+Gbr
+5
+Emil Grønbech HANSEN
+Assist
+7
+Jonas LARHOLM
+30
+Nicklas Graugaard NIELSEN
+57.11
+LTH
+Tilkendt straffe
+23
+Jesper KOKHOLM
+Forårs. str.
+92
+Sune IVERSEN
+57.11
+REH Udvisning
+92
+Sune IVERSEN
+57.13
+LTH
+Straffekast reddet
+23
+Jesper KOKHOLM
+12
+Sørenn RASMUSSEN
+58.08
+REH Skud på stolpe
+PL
+7
+Jonas LARHOLM
+30
+Nicklas Graugaard NIELSEN
+58.22
+LTH
+Skud forbi
+1:e
+22
+Jacob HESSELLUND
+16
+Kim SONNE
+58.41
+REH Skud reddet
+ST
+5
+Emil Grønbech HANSEN
+30
+Nicklas Graugaard NIELSEN
+58.49 27-25 LTH
+Mål
+1:e
+23
+Jesper KOKHOLM
+Assist
+6
+Mads Thymann HANSEN
+16
+Kim SONNE
+59.08
+REH Fejlaflevering
+7
+Jonas LARHOLM
+59.14 28-25 LTH
+Mål
+1:e
+6
+Mads Thymann HANSEN
+Assist
+21
+Jorn SMITS
+16
+Kim SONNE
+59.16
+LTH
+Udvisning
+22
+Jacob HESSELLUND
+59.27
+REH Tilkendt straffe
+7
+Jonas LARHOLM
+Forårs. str.
+22
+Jacob HESSELLUND
+59.28 28-26 REH Mål på straffe
+7
+Jonas LARHOLM
+30
+Nicklas Graugaard NIELSEN
+59.40
+LTH
+Time out
+59.47 29-26 LTH
+Mål
+VF
+20
+Frederik IVERSEN
+Assist
+6
+Mads Thymann HANSEN
+16
+Kim SONNE
+59.59 29-27 REH Mål
+VF
+92
+Sune IVERSEN
+Assist
+5
+Emil Grønbech HANSEN
+30
+Nicklas Graugaard NIELSEN
+60.00 29-27
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Johnny Henningsen, Lars Visholm,

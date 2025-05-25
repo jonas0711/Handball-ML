@@ -1,0 +1,958 @@
+KAMPHÆNDELSER
+Aalborg Håndbold - KIF Kolding   36 - 28  (19 - 15)
+748797 / 5-4-2025 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.34
+0-1
+KIF
+Mål
+Gbr 21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+1.14
+AAH Skud forbi
+HB 25
+Marinus MUNK
+12
+Josip CAVAR
+1.55
+0-2
+KIF
+Mål
+VF
+4
+Lars SKAARUP
+Assist
+28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+2.24
+1-2
+AAH Mål
+PL
+25
+Marinus MUNK
+12
+Josip CAVAR
+3.12
+KIF
+Skud reddet
+VF
+4
+Lars SKAARUP
+12
+Fabian NORSTEN
+3.19
+2-2
+AAH Mål
+2:e
+9
+Miguel MARTINS
+12
+Josip CAVAR
+3.54
+KIF
+Tabt bold
+21
+Kristian STOKLUND
+Bold erobret 25
+Marinus MUNK
+4.11
+3-2
+AAH Mål
+1:e
+14
+Mads HOXER
+Assist
+25
+Marinus MUNK
+0
+5.10
+KIF
+Skud reddet
+HF
+27
+Sebastian BERTELSEN
+Retur
+0
+12
+Fabian NORSTEN
+5.26
+3-3
+KIF
+Mål
+VF
+4
+Lars SKAARUP
+Assist
+28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+6.03
+4-3
+AAH Mål
+Gbr 14
+Mads HOXER
+12
+Josip CAVAR
+6.41
+4-4
+KIF
+Mål
+HB
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+7.11
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+12
+Josip CAVAR
+7.19
+4-5
+KIF
+Mål
+2:e
+27
+Sebastian BERTELSEN
+Assist
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+8.14
+AAH Skud forbi
+PL
+25
+Marinus MUNK
+12
+Josip CAVAR
+8.25
+KIF
+Fejlaflevering
+12
+Josip CAVAR
+8.30
+AAH Skud reddet
+2:e
+19
+Kristian BJØRNSEN
+12
+Josip CAVAR
+9.02
+KIF
+Fejlaflevering
+5
+Oliver NORLYK
+9.15
+5-5
+AAH Mål
+1:e
+19
+Kristian BJØRNSEN
+Assist
+22
+Rene ANTONSEN
+0
+10.10
+KIF
+Skud reddet
+Gbr 28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+10.27
+AAH Tilkendt straffe
+25
+Marinus MUNK
+Forårs. str.
+6
+Jonas TIDEMAND
+10.41
+6-5
+AAH Mål på straffe
+23
+Buster JUUL
+12
+Josip CAVAR
+11.17
+KIF
+Skud på stolpe
+HB
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+11.35
+KIF
+Advarsel
+6
+Jonas TIDEMAND
+12.09
+KIF
+Udvisning
+6
+Jonas TIDEMAND
+12.33
+7-5
+AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+14
+Mads HOXER
+12
+Josip CAVAR
+13.40
+KIF
+Tabt bold
+5
+Oliver NORLYK
+13.50
+8-5
+AAH Mål
+1:e
+19
+Kristian BJØRNSEN
+Assist
+23
+Buster JUUL
+0
+14.30
+8-6
+KIF
+Mål
+Gbr 28
+Lauritz LEGÉR
+Assist
+21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+14.37
+9-6
+AAH Mål
+2:e
+19
+Kristian BJØRNSEN
+Assist
+9
+Miguel MARTINS
+12
+Josip CAVAR
+15.19
+KIF
+Skud forbi
+Gbr
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+15.28
+AAH Skud reddet
+2:e
+14
+Mads HOXER
+12
+Josip CAVAR
+15.53
+9-7
+KIF
+Mål
+ST
+6
+Jonas TIDEMAND
+Assist
+21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+16.35
+AAH Fejlaflevering
+19
+Kristian BJØRNSEN
+16.51
+9-8
+KIF
+Mål
+2:e
+4
+Lars SKAARUP
+Assist
+28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+17.30 10-8
+AAH Mål
+PL
+14
+Mads HOXER
+12
+Josip CAVAR
+18.05 10-9
+KIF
+Mål
+Gbr 21
+Kristian STOKLUND
+Assist
+28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+18.46 11-9
+AAH Mål
+VB
+14
+Mads HOXER
+12
+Josip CAVAR
+19.24
+KIF
+Fejlaflevering
+21
+Kristian STOKLUND
+19.29 12-9
+AAH Mål
+1:e
+19
+Kristian BJØRNSEN
+Assist
+5
+Sander SAGOSEN
+0
+20.25
+KIF
+Fejlaflevering
+21
+Kristian STOKLUND
+20.31 13-9
+AAH Mål
+1:e
+17
+Martin LARSEN
+Assist
+5
+Sander SAGOSEN
+12
+Josip CAVAR
+21.16
+KIF
+Fejlaflevering
+21
+Kristian STOKLUND
+21.19 14-9
+AAH Mål
+1:e
+5
+Sander SAGOSEN
+Assist
+19
+Kristian BJØRNSEN
+0
+21.27
+KIF
+Time out
+21.48
+KIF
+Skud på stolpe
+PL
+15
+Jens SVANE
+12
+Fabian NORSTEN
+22.45
+AAH Fejlaflevering
+5
+Sander SAGOSEN
+23.16 14-10 KIF
+Mål
+ST
+13
+Mathias HEDEGAARD
+Assist
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+23.25 15-10 AAH Mål
+2:e
+3
+Lukas NILSSON
+12
+Josip CAVAR
+24.07
+KIF
+Tilkendt straffe
+5
+Oliver NORLYK
+Forårs. str.
+5
+Sander SAGOSEN
+24.07
+AAH Udvisning
+5
+Sander SAGOSEN
+24.12 15-11 KIF
+Mål på straffe
+21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+24.47
+AAH Skud reddet
+Gbr
+3
+Lukas NILSSON
+12
+Josip CAVAR
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - KIF Kolding   36 - 28  (19 - 15)
+748797 / 5-4-2025 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.57 15-12 KIF
+Mål
+2:e
+4
+Lars SKAARUP
+Assist
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+25.51 16-12 AAH Mål
+ST
+11
+Simon HALD
+Assist
+3
+Lukas NILSSON
+12
+Josip CAVAR
+26.11 16-13 KIF
+Mål
+2:e
+27
+Sebastian BERTELSEN
+Assist
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+26.45 17-13 AAH Mål
+PL
+3
+Lukas NILSSON
+12
+Josip CAVAR
+27.25 17-14 KIF
+Mål
+PL
+11
+Magnus KRONBORG
+12
+Fabian NORSTEN
+27.38
+AAH Tabt bold
+17
+Martin LARSEN
+28.19
+KIF
+Fejlaflevering
+11
+Magnus KRONBORG
+28.30 18-14 AAH Mål
+2:e
+3
+Lukas NILSSON
+12
+Josip CAVAR
+29.05 18-15 KIF
+Mål
+ST
+6
+Jonas TIDEMAND
+Assist
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+29.26 19-15 AAH Mål
+VF
+23
+Buster JUUL
+Assist
+5
+Sander SAGOSEN
+12
+Josip CAVAR
+30.00
+KIF
+Skud blokeret
+VB
+15
+Jens SVANE
+Blok af (ret)
+0
+30.00 19-15
+Halvleg
+30.00
+Start 2:e halvleg
+30.38
+AAH Fejlaflevering
+25
+Marinus MUNK
+30.45 19-16 KIF
+Mål
+1:e
+28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+31.06
+AAH Skud reddet
+PL
+25
+Marinus MUNK
+12
+Josip CAVAR
+32.00
+KIF
+Skud reddet
+HB
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+32.08 20-16 AAH Mål
+1:e
+14
+Mads HOXER
+0
+33.01
+KIF
+Skud reddet
+PL
+28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+33.21 21-16 AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+25
+Marinus MUNK
+12
+Josip CAVAR
+33.55
+KIF
+Skud reddet
+PL
+28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+34.02 22-16 AAH Mål
+2:e
+25
+Marinus MUNK
+12
+Josip CAVAR
+35.01
+KIF
+Skud blokeret
+PL
+21
+Kristian STOKLUND
+Blok af (ret)
+11
+Simon HALD
+35.07 22-17 KIF
+Mål
+PL
+21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+35.41
+AAH Tilkendt straffe
+20
+Felix MÖLLER
+Forårs. str.
+28
+Lauritz LEGÉR
+35.50
+AAH Straffekast på stolpe
+23
+Buster JUUL
+Retur
+0
+1
+Emil TELLERUP
+35.50 23-17 AAH Mål
+ST
+23
+Buster JUUL
+1
+Emil TELLERUP
+35.50
+KIF
+Skud reddet
+VF
+4
+Lars SKAARUP
+12
+Fabian NORSTEN
+37.16 24-17 AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+3
+Lukas NILSSON
+12
+Josip CAVAR
+37.56 24-18 KIF
+Mål
+HF
+27
+Sebastian BERTELSEN
+Assist
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+38.15 25-18 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+3
+Lukas NILSSON
+12
+Josip CAVAR
+39.02
+KIF
+Fejlaflevering
+21
+Kristian STOKLUND
+39.38 26-18 AAH Mål
+Gbr 25
+Marinus MUNK
+12
+Josip CAVAR
+40.23 26-19 KIF
+Mål
+Gbr
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+40.53 27-19 AAH Mål
+HB 14
+Mads HOXER
+12
+Josip CAVAR
+41.51
+KIF
+Skud på stolpe
+PL
+21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+42.02 28-19 AAH Mål
+2:e
+25
+Marinus MUNK
+1
+Emil TELLERUP
+42.10
+KIF
+Time out
+42.42 28-20 KIF
+Mål
+Gbr 28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+43.14 29-20 AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+43.48
+AAH Udvisning
+3
+Lukas NILSSON
+44.10
+KIF
+Skud reddet
+HF
+27
+Sebastian BERTELSEN
+12
+Fabian NORSTEN
+44.52
+AAH Tilkendt straffe
+20
+Felix MÖLLER
+Forårs. str.
+28
+Lauritz LEGÉR
+44.54 30-20 AAH Mål på straffe
+23
+Buster JUUL
+1
+Emil TELLERUP
+45.39 30-21 KIF
+Mål
+Gbr
+5
+Oliver NORLYK
+Assist
+21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+46.17 31-21 AAH Mål
+ST
+3
+Lukas NILSSON
+Assist
+9
+Miguel MARTINS
+1
+Emil TELLERUP
+47.06
+KIF
+Skud reddet
+Gbr 28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+47.42 32-21 AAH Mål
+PL
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+48.24 32-22 KIF
+Mål
+HF
+27
+Sebastian BERTELSEN
+Assist
+5
+Oliver NORLYK
+12
+Fabian NORSTEN
+48.55 33-22 AAH Mål
+Gbr
+3
+Lukas NILSSON
+1
+Emil TELLERUP
+50.02 33-23 KIF
+Mål
+Gbr 21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+50.37
+AAH Tilkendt straffe
+19
+Kristian BJØRNSEN
+Forårs. str.
+4
+Lars SKAARUP
+50.59 34-23 AAH Mål på straffe
+23
+Buster JUUL
+1
+Emil TELLERUP
+51.40
+KIF
+Skud på stolpe
+Gbr 28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - KIF Kolding   36 - 28  (19 - 15)
+748797 / 5-4-2025 / Sparekassen Danmark Arena / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+52.09
+AAH Fejlaflevering
+3
+Lukas NILSSON
+52.17
+KIF
+Skud reddet
+1:e
+27
+Sebastian BERTELSEN
+12
+Fabian NORSTEN
+52.22
+AAH Time out
+53.00
+AAH Skud reddet
+PL
+17
+Martin LARSEN
+1
+Emil TELLERUP
+53.45
+KIF
+Tilkendt straffe
+18
+Benjamin PEDERSEN
+Forårs. str.
+22
+Rene ANTONSEN
+54.05 34-24 KIF
+Mål på straffe
+21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+54.44
+AAH Regelfejl
+22
+Rene ANTONSEN
+55.28 34-25 KIF
+Mål
+ST
+18
+Benjamin PEDERSEN
+Assist
+28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+56.00
+AAH Tabt bold
+9
+Miguel MARTINS
+Bold erobret 28
+Lauritz LEGÉR
+56.00
+AAH Udvisning
+9
+Miguel MARTINS
+56.26
+KIF
+Skud reddet
+PL
+21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+57.27 35-25 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+17
+Martin LARSEN
+1
+Emil TELLERUP
+57.48
+KIF
+Tilkendt straffe
+21
+Kristian STOKLUND
+Forårs. str.
+17
+Martin LARSEN
+57.51 35-26 KIF
+Mål på straffe
+21
+Kristian STOKLUND
+12
+Fabian NORSTEN
+58.32 36-26 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+22
+Rene ANTONSEN
+1
+Emil TELLERUP
+59.15 36-27 KIF
+Mål
+VF
+4
+Lars SKAARUP
+Assist
+28
+Lauritz LEGÉR
+12
+Fabian NORSTEN
+59.52
+AAH Tabt bold
+17
+Martin LARSEN
+59.54 36-28 KIF
+Mål
+1:e
+27
+Sebastian BERTELSEN
+12
+Fabian NORSTEN
+60.00 36-28
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Thomas Knudsen, ,

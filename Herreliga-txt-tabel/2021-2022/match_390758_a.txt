@@ -1,0 +1,959 @@
+KAMPHÆNDELSER
+HØJ Elite - TTH Holstebro   27 - 33  (14 - 14)
+390758 / 17-5-2022 / Roskilde Hallerne C / HTH Herreligaen Opspil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.30
+HOJ Skud reddet
+Gbr
+5
+Bo SPELLERBERG
+1
+Ronnie NICOLAISEN
+1.04
+0-1
+TTH
+Mål
+PL
+21
+Jonas Gade NIELSEN
+12
+Frank MIKKELSEN
+2.03
+HOJ Skud reddet
+PL
+6
+Morten SLUNDT
+1
+Ronnie NICOLAISEN
+2.41
+0-2
+TTH
+Mål
+PL
+21
+Jonas Gade NIELSEN
+12
+Frank MIKKELSEN
+3.24
+1-2
+HOJ Mål
+ST
+24
+Tobias WETZEL
+Assist
+5
+Bo SPELLERBERG
+1
+Ronnie NICOLAISEN
+3.57
+1-3
+TTH
+Mål
+PL
+21
+Jonas Gade NIELSEN
+12
+Frank MIKKELSEN
+4.27
+2-3
+HOJ Mål
+ST
+24
+Tobias WETZEL
+Assist
+5
+Bo SPELLERBERG
+1
+Ronnie NICOLAISEN
+5.39
+2-4
+TTH
+Mål
+VB
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+6.04
+HOJ Skud reddet
+Gbr
+5
+Bo SPELLERBERG
+Retur
+0
+1
+Ronnie NICOLAISEN
+6.34
+TTH
+Advarsel
+8
+Emil JENSEN
+7.12
+3-4
+HOJ Mål
+PL
+6
+Morten SLUNDT
+1
+Ronnie NICOLAISEN
+7.23
+3-5
+TTH
+Mål
+2:e
+21
+Jonas Gade NIELSEN
+74
+Søren HAAGEN
+8.18
+HOJ Skud reddet
+PL
+5
+Bo SPELLERBERG
+Retur
+0
+1
+Ronnie NICOLAISEN
+8.24
+4-5
+HOJ Mål
+VF
+9
+Rõi Berg HANSEN
+1
+Ronnie NICOLAISEN
+9.22
+TTH
+Regelfejl
+22
+Nikolaj MARKUSSEN
+9.25
+5-5
+HOJ Mål
+1:e
+20
+Tobias MYSSING
+Assist
+11
+Marcus STROUSTRUP
+1
+Ronnie NICOLAISEN
+9.58
+5-6
+TTH
+Mål
+Gbr 22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+10.29
+6-6
+HOJ
+Mål
+VB
+6
+Morten SLUNDT
+1
+Ronnie NICOLAISEN
+10.44
+HOJ
+Advarsel
+23
+Jeppe JONASSON
+11.23
+TTH
+Skud reddet
+ST
+5
+Mathias PORSHOLDT
+Retur
+0
+74
+Søren HAAGEN
+12.16
+6-7
+TTH
+Mål
+PL
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+12.28
+7-7
+HOJ
+Mål
+Gbr
+6
+Morten SLUNDT
+1
+Ronnie NICOLAISEN
+13.20
+TTH
+Time out
+13.50
+TTH
+Skud reddet
+HB 21
+Jonas Gade NIELSEN
+74
+Søren HAAGEN
+14.18
+TTH
+Udvisning
+25
+Jonas PORUP
+14.28
+8-7
+HOJ
+Mål
+Gbr 11
+Marcus STROUSTRUP
+1
+Ronnie NICOLAISEN
+15.18
+8-8
+TTH
+Mål
+VB
+7
+Allan DAMGAARD
+74
+Søren HAAGEN
+15.33
+HOJ
+Skud reddet
+VB
+5
+Bo SPELLERBERG
+1
+Ronnie NICOLAISEN
+15.40
+TTH
+Skud reddet
+1:e
+19
+Rasmus KIER
+74
+Søren HAAGEN
+15.46
+HOJ
+Regelfejl
+5
+Bo SPELLERBERG
+16.51
+TTH
+Skud reddet
+VB
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+17.47
+9-8
+HOJ
+Mål
+HB
+5
+Bo SPELLERBERG
+1
+Ronnie NICOLAISEN
+18.42
+9-9
+TTH
+Mål
+PL
+18
+Frederik TILSTED
+74
+Søren HAAGEN
+19.12 10-9
+HOJ Mål
+ST
+24
+Tobias WETZEL
+Assist
+5
+Bo SPELLERBERG
+1
+Ronnie NICOLAISEN
+20.01 10-10 TTH
+Mål
+PL
+18
+Frederik TILSTED
+74
+Søren HAAGEN
+20.59
+HOJ
+Tabt bold
+5
+Bo SPELLERBERG
+21.07
+TTH
+Fejlaflevering
+8
+Emil JENSEN
+21.13
+HOJ
+Time out
+21.37
+HOJ
+Skud på stolpe
+HF
+20
+Tobias MYSSING
+Retur
+0
+1
+Ronnie NICOLAISEN
+21.45
+HOJ
+Skud reddet
+VF
+9
+Rõi Berg HANSEN
+1
+Ronnie NICOLAISEN
+22.29
+TTH
+Fejlaflevering
+18
+Frederik TILSTED
+22.35 11-10 HOJ
+Mål
+1:e
+51
+Max HÖNING
+1
+Ronnie NICOLAISEN
+23.12
+HOJ
+Udvisning
+21
+Tim Hjorth RANTALA
+23.32
+TTH
+Skud reddet
+HF
+19
+Rasmus KIER
+74
+Søren HAAGEN
+24.13 12-10 HOJ
+Mål
+Gbr 11
+Marcus STROUSTRUP
+1
+Ronnie NICOLAISEN
+24.43 12-11 TTH
+Mål
+VB
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+25.45
+HOJ
+Skud reddet
+PL
+11
+Marcus STROUSTRUP
+1
+Ronnie NICOLAISEN
+26.23 12-12 TTH
+Mål
+Gbr 18
+Frederik TILSTED
+74
+Søren HAAGEN
+27.04
+HOJ
+Tilkendt straffe
+11
+Marcus STROUSTRUP
+Forårs. str.
+14
+Nikolaj ENDERLEIT
+27.04
+TTH
+Udvisning
+14
+Nikolaj ENDERLEIT
+27.08 13-12 HOJ
+Mål på straffe
+9
+Rõi Berg HANSEN
+1
+Ronnie NICOLAISEN
+28.02 13-13 TTH
+Mål
+PL
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+28.23 14-13 HOJ
+Mål
+Gbr 11
+Marcus STROUSTRUP
+1
+Ronnie NICOLAISEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+HØJ Elite - TTH Holstebro   27 - 33  (14 - 14)
+390758 / 17-5-2022 / Roskilde Hallerne C / HTH Herreligaen Opspil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+29.25 14-14 TTH
+Mål
+HB 18
+Frederik TILSTED
+74
+Søren HAAGEN
+29.56
+HOJ
+Skud forbi
+HB 51
+Max HÖNING
+1
+Ronnie NICOLAISEN
+29.58
+TTH
+Fejlaflevering
+1
+Ronnie NICOLAISEN
+30.00 14-14
+Halvleg
+30.00
+Start 2:e halvleg
+30.26 14-15 TTH
+Mål
+Gbr 21
+Jonas Gade NIELSEN
+74
+Søren HAAGEN
+30.36
+HOJ
+Regelfejl
+24
+Tobias WETZEL
+30.48
+TTH
+Tilkendt straffe
+25
+Jonas PORUP
+Forårs. str.
+5
+Bo SPELLERBERG
+30.57
+TTH
+Straffekast reddet
+10
+Magnus BRAMMING
+12
+Frank MIKKELSEN
+31.32 15-15 HOJ
+Mål
+HB 20
+Tobias MYSSING
+Assist
+6
+Morten SLUNDT
+1
+Ronnie NICOLAISEN
+32.25
+TTH
+Skud reddet
+HF
+17
+Christian JENSEN
+Retur
+0
+74
+Søren HAAGEN
+33.06 15-16 TTH
+Mål
+VB
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+33.52 16-16 HOJ
+Mål
+HF
+20
+Tobias MYSSING
+Assist
+6
+Morten SLUNDT
+1
+Ronnie NICOLAISEN
+34.21
+TTH
+Skud reddet
+PL
+18
+Frederik TILSTED
+74
+Søren HAAGEN
+34.51
+TTH
+Udvisning
+5
+Mathias PORSHOLDT
+35.12 17-16 HOJ
+Mål
+VF
+9
+Rõi Berg HANSEN
+Assist
+5
+Bo SPELLERBERG
+1
+Ronnie NICOLAISEN
+36.02 17-17 TTH
+Mål
+PL
+21
+Jonas Gade NIELSEN
+74
+Søren HAAGEN
+36.29
+HOJ
+Skud forbi
+Gbr 11
+Marcus STROUSTRUP
+1
+Ronnie NICOLAISEN
+36.42
+HOJ
+Advarsel
+A
+Jesper BACH FREDIN
+37.01 17-18 TTH
+Mål
+Gbr 22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+37.29 18-18 HOJ
+Mål
+PL
+6
+Morten SLUNDT
+1
+Ronnie NICOLAISEN
+38.16 18-19 TTH
+Mål
+PL
+18
+Frederik TILSTED
+74
+Søren HAAGEN
+38.30 19-19 HOJ
+Mål
+Gbr
+5
+Bo SPELLERBERG
+Assist
+11
+Marcus STROUSTRUP
+1
+Ronnie NICOLAISEN
+39.12
+HOJ
+Udvisning
+23
+Jeppe JONASSON
+39.35 19-20 TTH
+Mål
+HF
+17
+Christian JENSEN
+Assist
+7
+Allan DAMGAARD
+74
+Søren HAAGEN
+40.30
+HOJ
+Skud reddet
+HB 51
+Max HÖNING
+12
+Josip CAVAR
+40.49
+TTH
+Skud på stolpe
+ST
+5
+Mathias PORSHOLDT
+74
+Søren HAAGEN
+41.20
+HOJ
+Tabt bold
+6
+Morten SLUNDT
+41.25
+TTH
+Skud reddet
+1:e
+8
+Emil JENSEN
+74
+Søren HAAGEN
+42.08
+HOJ
+Fejlaflevering
+5
+Bo SPELLERBERG
+42.48 19-21 TTH
+Mål
+PL
+7
+Allan DAMGAARD
+74
+Søren HAAGEN
+43.17
+HOJ
+Fejlaflevering
+4
+Lauge Danelund HEMMINGSEN
+44.14
+TTH
+Skud reddet
+VB
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+44.33
+HOJ
+Regelfejl
+6
+Morten SLUNDT
+45.33 19-22 TTH
+Mål
+PL
+18
+Frederik TILSTED
+74
+Søren HAAGEN
+46.02
+HOJ
+Skud blokeret
+PL
+4
+Lauge Danelund HEMMINGSENBlokeret af
+0
+46.05 19-23 TTH
+Mål
+1:e
+17
+Christian JENSEN
+Assist
+12
+Josip CAVAR
+74
+Søren HAAGEN
+46.07
+HOJ
+Time out
+46.30
+HOJ
+Skud reddet
+HF
+20
+Tobias MYSSING
+12
+Josip CAVAR
+47.07 19-24 TTH
+Mål
+PL
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+47.43 20-24 HOJ
+Mål
+HF
+20
+Tobias MYSSING
+Assist
+6
+Morten SLUNDT
+12
+Josip CAVAR
+48.23
+TTH
+Tilkendt straffe
+14
+Nikolaj ENDERLEIT
+Forårs. str.
+24
+Tobias WETZEL
+48.25 20-25 TTH
+Mål på straffe
+10
+Magnus BRAMMING
+12
+Frank MIKKELSEN
+48.46
+HOJ
+Fejlaflevering
+5
+Bo SPELLERBERG
+Bold erobret 17
+Christian JENSEN
+48.51 20-26 TTH
+Mål
+1:e
+17
+Christian JENSEN
+0
+49.25 21-26 HOJ
+Mål
+Gbr 93
+Martin Mauer LARSEN
+12
+Josip CAVAR
+49.55 21-27 TTH
+Mål
+Gbr 14
+Nikolaj ENDERLEIT
+12
+Frank MIKKELSEN
+50.15
+HOJ
+Skud blokeret
+VB
+93
+Martin Mauer LARSEN
+Blok af (ret)
+15
+Jesper MUNK
+50.30
+HOJ
+Skud reddet
+Gbr
+6
+Morten SLUNDT
+12
+Josip CAVAR
+51.12 21-28 TTH
+Mål
+VB
+22
+Nikolaj MARKUSSEN
+12
+Frank MIKKELSEN
+51.33 22-28 HOJ
+Mål
+HF
+20
+Tobias MYSSING
+Assist
+6
+Morten SLUNDT
+12
+Josip CAVAR
+52.10
+TTH
+Skud forbi
+VB
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+52.42 23-28 HOJ
+Mål
+ST
+88
+Victor PARBST
+Assist
+5
+Bo SPELLERBERG
+12
+Josip CAVAR
+52.44
+TTH
+Time out
+
+--- Side 3 ---
+KAMPHÆNDELSER
+HØJ Elite - TTH Holstebro   27 - 33  (14 - 14)
+390758 / 17-5-2022 / Roskilde Hallerne C / HTH Herreligaen Opspil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+53.02 23-29 TTH
+Mål
+VB
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+53.25 24-29 HOJ
+Mål
+Gbr
+6
+Morten SLUNDT
+12
+Josip CAVAR
+54.03
+HOJ
+Udvisning
+88
+Victor PARBST
+54.19 24-30 TTH
+Mål
+Gbr 14
+Nikolaj ENDERLEIT
+74
+Søren HAAGEN
+54.55
+HOJ
+Time out
+55.01
+HOJ
+Skud reddet
+PL
+6
+Morten SLUNDT
+Retur
+0
+12
+Josip CAVAR
+55.07 25-30 HOJ
+Mål
+HF
+20
+Tobias MYSSING
+12
+Josip CAVAR
+55.32 25-31 TTH
+Mål
+ST
+5
+Mathias PORSHOLDT
+Assist
+22
+Nikolaj MARKUSSEN
+74
+Søren HAAGEN
+55.51 26-31 HOJ
+Mål
+VF
+9
+Rõi Berg HANSEN
+Assist
+11
+Marcus STROUSTRUP
+12
+Josip CAVAR
+56.32
+TTH
+Tabt bold
+18
+Frederik TILSTED
+56.37 27-31 HOJ
+Mål
+1:e
+51
+Max HÖNING
+0
+57.25
+TTH
+Skud reddet
+HB 21
+Jonas Gade NIELSEN
+74
+Søren HAAGEN
+57.48
+HOJ
+Skud reddet
+VB
+6
+Morten SLUNDT
+12
+Josip CAVAR
+57.56
+TTH
+Time out
+58.12 27-32 TTH
+Mål
+HF
+17
+Christian JENSEN
+74
+Søren HAAGEN
+58.21
+HOJ
+Skud på stolpe
+PL
+6
+Morten SLUNDT
+12
+Josip CAVAR
+58.53 27-33 TTH
+Mål
+HF
+17
+Christian JENSEN
+Assist
+14
+Nikolaj ENDERLEIT
+74
+Søren HAAGEN
+59.23
+HOJ
+Tabt bold
+11
+Marcus STROUSTRUP
+59.28
+TTH
+Skud reddet
+1:e
+14
+Nikolaj ENDERLEIT
+Retur
+0
+74
+Søren HAAGEN
+60.00 27-33
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Jesper Bruhns, Thomas Kjærgaard,

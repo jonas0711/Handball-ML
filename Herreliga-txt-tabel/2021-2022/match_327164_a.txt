@@ -1,0 +1,931 @@
+KAMPHÆNDELSER
+Aalborg Håndbold - TMS Ringsted    38 - 30  (22 - 14)
+327164 / 9-9-2021 / Jutlander Bank Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.28
+AAH Tilkendt straffe
+4
+Aron PALMARSSON
+Forårs. str.
+18
+Martin Risom CHRISTENSEN
+0.32
+AAH Straffekast reddet
+23
+Buster JUUL
+33
+Patrick BOLS
+2.02
+TMS Skud reddet
+PL
+18
+Martin Risom CHRISTENSEN
+1
+Simon GADE
+2.09
+1-0
+AAH Mål
+2:e
+21
+Henrik MØLLGAARD
+Assist
+4
+Aron PALMARSSON
+33
+Patrick BOLS
+2.20
+TMS Skud reddet
+PL
+79
+Oliver Klarskov KNUDSEN
+1
+Simon GADE
+2.53
+2-0
+AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+4
+Aron PALMARSSON
+33
+Patrick BOLS
+3.04
+2-1
+TMS Mål
+VB
+15
+Lauritz LEGÉR
+1
+Simon GADE
+3.21
+TMS Advarsel
+6
+Sebastian Reimer THOR
+3.43
+AAH Fejlaflevering
+4
+Aron PALMARSSON
+3.54
+2-2
+TMS Mål
+Gbr 15
+Lauritz LEGÉR
+1
+Simon GADE
+4.03
+TMS Udvisning
+6
+Sebastian Reimer THOR
+4.18
+3-2
+AAH Mål
+Gbr
+7
+Felix CLAAR
+33
+Patrick BOLS
+5.05
+TMS Regelfejl
+15
+Lauritz LEGÉR
+5.09
+4-2
+AAH Mål
+1:e
+23
+Buster JUUL
+Assist
+21
+Henrik MØLLGAARD
+33
+Patrick BOLS
+5.54
+TMS Fejlaflevering
+18
+Martin Risom CHRISTENSEN
+5.58
+5-2
+AAH Mål
+1:e
+21
+Henrik MØLLGAARD
+Assist
+4
+Aron PALMARSSON
+0
+6.34
+5-3
+TMS Mål
+Gbr 79
+Oliver Klarskov KNUDSEN
+1
+Simon GADE
+7.04
+6-3
+AAH Mål
+VB
+4
+Aron PALMARSSON
+33
+Patrick BOLS
+7.42
+TMS Fejlaflevering
+18
+Martin Risom CHRISTENSEN
+7.49
+7-3
+AAH Mål
+1:e
+19
+Kristian BJØRNSEN
+Assist
+21
+Henrik MØLLGAARD
+33
+Patrick BOLS
+8.48
+TMS Regelfejl
+25
+Anders Agger PEDERSEN
+9.20
+8-3
+AAH Mål
+PL
+7
+Felix CLAAR
+33
+Patrick BOLS
+9.41
+TMS Time out
+9.54
+TMS Skud reddet
+Gbr 15
+Lauritz LEGÉR
+1
+Simon GADE
+10.04
+9-3
+AAH Mål
+Gbr
+4
+Aron PALMARSSON
+1
+Tobias LANTZ-PEDERSEN
+10.19
+9-4
+TMS Mål
+Gbr 15
+Lauritz LEGÉR
+1
+Simon GADE
+10.26
+AAH Advarsel
+22
+Rene ANTONSEN
+10.52
+AAH Skud forbi
+HB 17
+Martin LARSEN
+1
+Tobias LANTZ-PEDERSEN
+11.07
+9-5
+TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+1
+Simon GADE
+11.37
+AAH Skud forbi
+PL
+4
+Aron PALMARSSON
+1
+Tobias LANTZ-PEDERSEN
+12.07
+9-6
+TMS Mål
+HF
+19
+Oskar Vind RASMUSSEN
+Assist
+15
+Lauritz LEGÉR
+1
+Simon GADE
+13.05 10-6
+AAH Mål
+VB
+4
+Aron PALMARSSON
+1
+Tobias LANTZ-PEDERSEN
+13.19 10-7
+TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+1
+Simon GADE
+13.53
+AAH Fejlaflevering
+17
+Martin LARSEN
+13.58 10-8
+TMS Mål
+1:e
+7
+Anton BRAMMING
+Assist
+2
+Joachim Møller JACOBSEN
+1
+Simon GADE
+14.30
+AAH Tilkendt straffe
+22
+Rene ANTONSEN
+Forårs. str.
+2
+Joachim Møller JACOBSEN
+14.54 11-8
+AAH Mål på straffe
+6
+Sebastian BARTHOLD
+1
+Tobias LANTZ-PEDERSEN
+16.13
+TMS Fejlaflevering
+15
+Lauritz LEGÉR
+16.55 12-8
+AAH Mål
+Gbr 13
+Nikolaj LÆSØ
+1
+Tobias LANTZ-PEDERSEN
+17.09
+AAH Advarsel
+8
+Jesper NIELSEN
+17.51
+TMS Tilkendt straffe
+79
+Oliver Klarskov KNUDSEN
+Forårs. str.
+22
+Rene ANTONSEN
+18.09
+TMS Straffekast reddet
+7
+Anton BRAMMING
+1
+Simon GADE
+18.43 13-8
+AAH Mål
+ST
+8
+Jesper NIELSEN
+Assist
+7
+Felix CLAAR
+1
+Tobias LANTZ-PEDERSEN
+19.29
+TMS Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+1
+Simon GADE
+19.36 14-8
+AAH Mål
+Gbr 11
+Lukas SANDELL
+1
+Tobias LANTZ-PEDERSEN
+20.32 14-9
+TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+1
+Simon GADE
+20.44 15-9
+AAH Mål
+HB 11
+Lukas SANDELL
+1
+Tobias LANTZ-PEDERSEN
+20.59
+TMS Time out
+21.28
+TMS Skud reddet
+VB
+17
+Oliver Sonne WOSNIAK
+1
+Simon GADE
+21.54 16-9
+AAH Mål
+ST
+8
+Jesper NIELSEN
+Assist
+13
+Nikolaj LÆSØ
+1
+Tobias LANTZ-PEDERSEN
+22.30 16-10 TMS Mål
+Gbr 18
+Martin Risom CHRISTENSEN
+1
+Simon GADE
+23.06
+AAH Tilkendt straffe
+8
+Jesper NIELSEN
+Forårs. str.
+2
+Joachim Møller JACOBSEN
+23.06
+TMS Udvisning
+2
+Joachim Møller JACOBSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - TMS Ringsted    38 - 30  (22 - 14)
+327164 / 9-9-2021 / Jutlander Bank Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+23.08 17-10 AAH Mål på straffe
+6
+Sebastian BARTHOLD
+1
+Tobias LANTZ-PEDERSEN
+23.40 17-11 TMS Mål
+Gbr 18
+Martin Risom CHRISTENSEN
+1
+Simon GADE
+23.51 18-11 AAH Mål
+Gbr
+7
+Felix CLAAR
+1
+Tobias LANTZ-PEDERSEN
+24.24 18-12 TMS Mål
+ST
+25
+Anders Agger PEDERSEN
+Assist
+18
+Martin Risom CHRISTENSEN
+1
+Simon GADE
+24.37
+AAH Skud reddet
+Gbr 11
+Lukas SANDELL
+1
+Tobias LANTZ-PEDERSEN
+25.31
+TMS Skud reddet
+ST
+25
+Anders Agger PEDERSEN
+Retur
+0
+1
+Simon GADE
+25.46
+TMS Skud blokeret
+PL
+18
+Martin Risom CHRISTENSEN Blokeret af
+8
+Jesper NIELSEN
+25.59 19-12 AAH Mål
+1:e
+19
+Kristian BJØRNSEN
+Assist
+8
+Jesper NIELSEN
+33
+Patrick BOLS
+26.07 19-13 TMS Mål
+VB
+17
+Oliver Sonne WOSNIAK
+1
+Simon GADE
+26.07
+AAH Tilkendt straffe
+23
+Buster JUUL
+Forårs. str.
+6
+Sebastian Reimer THOR
+26.45 20-13 AAH Mål på straffe
+6
+Sebastian BARTHOLD
+33
+Patrick BOLS
+27.07
+TMS Fejlaflevering
+5
+Mark NIKOLAJSEN
+Bold erobret
+7
+Felix CLAAR
+27.38
+AAH Skud forbi
+1:e
+11
+Lukas SANDELL
+33
+Patrick BOLS
+27.49 20-14 TMS Mål
+Gbr 18
+Martin Risom CHRISTENSEN
+1
+Simon GADE
+27.55
+AAH Skud reddet
+ST
+8
+Jesper NIELSEN
+33
+Patrick BOLS
+28.54
+TMS Fejlaflevering
+79
+Oliver Klarskov KNUDSEN
+29.01 21-14 AAH Mål
+1:e
+19
+Kristian BJØRNSEN
+Assist
+7
+Felix CLAAR
+33
+Patrick BOLS
+29.52
+TMS Fejlaflevering
+17
+Oliver Sonne WOSNIAK
+Bold erobret
+7
+Felix CLAAR
+29.55 22-14 AAH Mål
+1:e
+23
+Buster JUUL
+Assist
+7
+Felix CLAAR
+0
+30.00 22-14
+Halvleg
+30.00
+Start 2:e halvleg
+30.22 22-15 TMS Mål
+VB
+17
+Oliver Sonne WOSNIAK
+1
+Simon GADE
+30.22
+AAH Udvisning
+8
+Jesper NIELSEN
+31.13
+AAH Tilkendt straffe
+17
+Martin LARSEN
+Forårs. str.
+83
+Pelle SCHILLING
+31.19 23-15 AAH Mål på straffe
+6
+Sebastian BARTHOLD
+33
+Patrick BOLS
+31.44 23-16 TMS Mål
+Gbr 19
+Oskar Vind RASMUSSEN
+1
+Simon GADE
+32.29 24-16 AAH Mål
+VB
+13
+Nikolaj LÆSØ
+33
+Patrick BOLS
+33.01
+TMS Skud på stolpe
+VF
+83
+Pelle SCHILLING
+1
+Simon GADE
+33.13 25-16 AAH Mål
+Gbr 13
+Nikolaj LÆSØ
+33
+Patrick BOLS
+33.19 25-17 TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+1
+Simon GADE
+34.33
+AAH Regelfejl
+17
+Martin LARSEN
+35.13
+TMS Skud reddet
+VF
+83
+Pelle SCHILLING
+1
+Simon GADE
+35.52 26-17 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+17
+Martin LARSEN
+33
+Patrick BOLS
+36.38
+TMS Regelfejl
+17
+Oliver Sonne WOSNIAK
+37.20 27-17 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+17
+Martin LARSEN
+33
+Patrick BOLS
+38.10 27-18 TMS Mål
+HF
+19
+Oskar Vind RASMUSSEN
+Assist
+18
+Martin Risom CHRISTENSEN
+1
+Simon GADE
+39.03
+AAH Skud reddet
+HB 17
+Martin LARSEN
+33
+Patrick BOLS
+39.49 27-19 TMS Mål
+VB
+17
+Oliver Sonne WOSNIAK
+1
+Simon GADE
+40.38 28-19 AAH Mål
+VB
+13
+Nikolaj LÆSØ
+33
+Patrick BOLS
+40.56
+TMS Skud forbi
+HF
+19
+Oskar Vind RASMUSSEN
+1
+Simon GADE
+41.47 29-19 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+11
+Lukas SANDELL
+33
+Patrick BOLS
+42.15
+TMS Tilkendt straffe
+25
+Anders Agger PEDERSEN
+Forårs. str.
+21
+Henrik MØLLGAARD
+42.33
+TMS Straffekast reddet
+79
+Oliver Klarskov KNUDSEN
+1
+Simon GADE
+43.04 30-19 AAH Mål
+PL
+11
+Lukas SANDELL
+33
+Patrick BOLS
+43.39
+TMS Skud reddet
+PL
+17
+Oliver Sonne WOSNIAK
+1
+Simon GADE
+43.51 31-19 AAH Mål
+HF
+3
+Jonas SAMUELSSON
+Assist
+8
+Jesper NIELSEN
+33
+Patrick BOLS
+44.44 31-20 TMS Mål
+HB 18
+Martin Risom CHRISTENSEN
+1
+Simon GADE
+44.54
+AAH Tilkendt straffe
+7
+Felix CLAAR
+Forårs. str.
+6
+Sebastian Reimer THOR
+44.54
+TMS Udvisning
+6
+Sebastian Reimer THOR
+44.57 32-20 AAH Mål på straffe
+6
+Sebastian BARTHOLD
+33
+Patrick BOLS
+45.55
+TMS Skud forbi
+VB
+79
+Oliver Klarskov KNUDSEN
+1
+Simon GADE
+46.29 33-20 AAH Mål
+HB 11
+Lukas SANDELL
+1
+Tobias LANTZ-PEDERSEN
+46.59
+TMS Fejlaflevering
+18
+Martin Risom CHRISTENSEN
+47.03 34-20 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+21
+Henrik MØLLGAARD
+0
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - TMS Ringsted    38 - 30  (22 - 14)
+327164 / 9-9-2021 / Jutlander Bank Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+47.30
+TMS Time out
+48.03 34-21 TMS Mål
+Gbr 79
+Oliver Klarskov KNUDSEN
+1
+Simon GADE
+48.03
+AAH Udvisning
+2
+Benjamin JAKOBSEN
+48.33
+AAH Skud på stolpe
+HF
+3
+Jonas SAMUELSSON
+Retur
+6
+Sebastian BARTHOLD
+1
+Tobias LANTZ-PEDERSEN
+48.59 35-21 AAH Mål
+HF
+3
+Jonas SAMUELSSON
+Assist
+15
+Andreas Holst JENSEN
+1
+Tobias LANTZ-PEDERSEN
+49.26 35-22 TMS Mål
+HF
+19
+Oskar Vind RASMUSSEN
+Assist
+18
+Martin Risom CHRISTENSEN
+1
+Simon GADE
+50.01
+AAH Regelfejl
+8
+Jesper NIELSEN
+51.04 35-23 TMS Mål
+HB 18
+Martin Risom CHRISTENSEN
+1
+Simon GADE
+51.14
+AAH Fejlaflevering
+21
+Henrik MØLLGAARD
+51.55
+TMS Fejlaflevering
+18
+Martin Risom CHRISTENSEN
+52.26 36-23 AAH Mål
+Gbr 11
+Lukas SANDELL
+1
+Tobias LANTZ-PEDERSEN
+53.11 36-24 TMS Mål
+Gbr
+8
+Christian Stoklund WACHER
+1
+Simon GADE
+53.37
+AAH Tabt bold
+11
+Lukas SANDELL
+53.40 36-25 TMS Mål
+1:e
+79
+Oliver Klarskov KNUDSEN
+1
+Simon GADE
+53.52
+AAH Skud reddet
+Gbr 15
+Andreas Holst JENSEN
+1
+Tobias LANTZ-PEDERSEN
+54.26 36-26 TMS Mål
+HB
+8
+Christian Stoklund WACHER
+1
+Simon GADE
+54.32
+AAH Tilkendt straffe
+11
+Lukas SANDELL
+Forårs. str.
+7
+Anton BRAMMING
+54.55 37-26 AAH Mål på straffe
+6
+Sebastian BARTHOLD
+1
+Tobias LANTZ-PEDERSEN
+55.29
+TMS Skud reddet
+VB
+15
+Lauritz LEGÉR
+1
+Simon GADE
+55.36
+AAH Skud reddet
+ST
+2
+Benjamin JAKOBSEN
+1
+Tobias LANTZ-PEDERSEN
+56.15 37-27 TMS Mål
+VB
+79
+Oliver Klarskov KNUDSEN
+1
+Simon GADE
+56.48
+AAH Skud reddet
+HB 13
+Nikolaj LÆSØ
+1
+Tobias LANTZ-PEDERSEN
+56.57 37-28 TMS Mål
+PL
+8
+Christian Stoklund WACHER
+1
+Simon GADE
+57.30
+AAH Fejlaflevering
+11
+Lukas SANDELL
+57.33 37-29 TMS Mål
+1:e
+8
+Christian Stoklund WACHER
+Assist
+79
+Oliver Klarskov KNUDSEN
+1
+Simon GADE
+57.38
+AAH Time out
+58.14
+AAH Skud reddet
+ST
+2
+Benjamin JAKOBSEN
+1
+Tobias LANTZ-PEDERSEN
+58.41 37-30 TMS Mål
+ST
+25
+Anders Agger PEDERSEN
+Assist
+79
+Oliver Klarskov KNUDSEN
+1
+Simon GADE
+58.52
+AAH Tilkendt straffe
+15
+Andreas Holst JENSEN
+Forårs. str.
+9
+Valdemar GRAVESEN
+59.13
+AAH Straffekast på stolpe
+6
+Sebastian BARTHOLD
+1
+Tobias LANTZ-PEDERSEN
+59.40
+TMS Regelfejl
+15
+Lauritz LEGÉR
+59.53 38-30 AAH Mål
+Gbr 13
+Nikolaj LÆSØ
+1
+Tobias LANTZ-PEDERSEN
+60.00 38-30
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Lars Bo Ibsen, John Christiansen,

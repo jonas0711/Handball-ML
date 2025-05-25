@@ -1,0 +1,924 @@
+KAMPHÆNDELSER
+Nordsjælland Håndbold - Aalborg Håndbold   30 - 28  (13 - 9)
+538190 / 12-12-2017 / Frederiksborg-hallen 1 / 888ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.48
+AAH Skud reddet
+HB
+7
+Martin LARSEN
+1
+Mike JENSEN
+1.47
+NSH Skud blokeret
+PL
+24
+Johan MEKLENBORG
+Retur
+0
+1.57
+NSH Passivt spil
+0
+2.05
+AAH Fejlaflev
+3
+Janus SMARÁSON
+2.36
+1-0
+NSH Mål
+Gbr 24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+3.36
+AAH Skud reddet
+ST
+11
+Simon Hald JENSEN
+Retur
+0
+1
+Mike JENSEN
+4.07
+AAH Skud reddet
+HB
+7
+Martin LARSEN
+1
+Mike JENSEN
+4.16
+2-0
+NSH Mål
+1:e
+11
+Lasse UTH
+Assist
+1
+Mike JENSEN
+16
+Mikael AGGEFORS
+4.52
+NSH Advarsel
+5
+Dan Beck HANSEN
+4.58
+AAH Skud blokeret
+PL
+3
+Janus SMARÁSON
+Retur
+0
+5.25
+AAH Skud forbi
+VB
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+6.17
+3-0
+NSH Mål
+VB
+2
+Nicolai PEDERSEN
+16
+Mikael AGGEFORS
+6.29
+NSH Advarsel
+2
+Nicolai PEDERSEN
+7.01
+3-1
+AAH Mål
+ST
+22
+René ANTONSEN
+Assist
+7
+Martin LARSEN
+1
+Mike JENSEN
+7.54
+AAH Advarsel
+23
+Buster JUUL
+8.04
+4-1
+NSH Mål
+Gbr 20
+Jesper DAHL
+16
+Mikael AGGEFORS
+8.12
+4-2
+AAH Mål
+PL
+7
+Martin LARSEN
+1
+Mike JENSEN
+8.16
+NSH Udvisning
+5
+Dan Beck HANSEN
+8.50
+NSH Tilkendt 7m
+13
+Andreas Johann NIELSEN
+Forårs. 7m
+22
+René ANTONSEN
+8.57
+5-2
+NSH Straffemål
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+9.32
+5-3
+AAH Mål
+VB
+15
+Andreas Holst JENSEN
+Assist
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+10.18
+NSH Skud på stolpe
+PL
+2
+Nicolai PEDERSEN
+16
+Mikael AGGEFORS
+10.26
+AAH Skud reddet
+1:e
+14
+Magnus SAUGSTRUP
+1
+Mike JENSEN
+10.34
+NSH Regelfejl
+2
+Nicolai PEDERSEN
+11.18
+AAH Tilkendt 7m
+22
+René ANTONSEN
+Forårs. 7m
+19
+Anders MOSE
+11.25
+5-4
+AAH Straffemål
+23
+Buster JUUL
+1
+Mike JENSEN
+12.04
+NSH Skud reddet
+HF
+22
+Nichlas POULSEN
+16
+Mikael AGGEFORS
+12.43
+AAH Skud reddet
+ST
+8
+Jakob HESSELLUND
+1
+Mike JENSEN
+13.37
+NSH Skud blokeret
+HB
+2
+Nicolai PEDERSEN
+Retur
+0
+13.56
+NSH Skud forbi
+HF
+22
+Nichlas POULSEN
+16
+Mikael AGGEFORS
+14.04
+5-5
+AAH Mål
+ST
+23
+Buster JUUL
+Assist
+20
+Jesper Meinby PEDERSEN
+1
+Mike JENSEN
+14.41
+6-5
+NSH Mål
+PL
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+15.49
+AAH Skud reddet
+PL
+3
+Janus SMARÁSON
+Retur
+22
+René ANTONSEN
+1
+Mike JENSEN
+15.56
+6-6
+AAH Mål
+ST
+22
+René ANTONSEN
+1
+Mike JENSEN
+16.23
+NSH Fejlaflev
+20
+Jesper DAHL
+17.15
+AAH Skud reddet
+PL
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+17.54
+7-6
+NSH Mål
+PL
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+18.30
+AAH Skud på stolpe
+VB
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+18.43
+8-6
+NSH Mål
+2:e
+19
+Anders MOSE
+16
+Mikael AGGEFORS
+18.56
+AAH Advarsel
+3
+Janus SMARÁSON
+19.52
+AAH Skud reddet
+ST
+11
+Simon Hald JENSEN
+Retur
+0
+1
+Mike JENSEN
+20.15
+AAH Skud reddet
+VB
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+20.59
+NSH Skud reddet
+ST
+24
+Johan MEKLENBORG
+Retur
+0
+16
+Mikael AGGEFORS
+21.05
+9-6
+NSH Mål
+VF
+11
+Lasse UTH
+16
+Mikael AGGEFORS
+21.19
+AAH Hold Time Out
+22.08
+9-7
+AAH Mål
+ST
+11
+Simon Hald JENSEN
+Assist
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+22.49
+NSH Skud reddet
+HF
+3
+Carl-Emil HAUNSTRUP
+16
+Mikael AGGEFORS
+22.56
+AAH Skud forbi
+1:e
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+23.30
+NSH Fejlaflev
+20
+Jesper DAHL
+23.35
+AAH Regelfejl
+15
+Andreas Holst JENSEN
+23.43
+NSH Hold Time Out
+24.10
+NSH Skud på stolpe
+PL
+2
+Nicolai PEDERSEN
+Retur
+0
+16
+Mikael AGGEFORS
+24.30
+NSH Skud reddet
+VF
+11
+Lasse UTH
+16
+Mikael AGGEFORS
+24.37
+AAH Regelfejl
+3
+Janus SMARÁSON
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Nordsjælland Håndbold - Aalborg Håndbold   30 - 28  (13 - 9)
+538190 / 12-12-2017 / Frederiksborg-hallen 1 / 888ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.48
+NSH Skud reddet
+HB 24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+25.55
+NSH Udvisning
+11
+Lasse UTH
+26.08
+AAH Fejlaflev
+18
+Lovro JOTIC
+26.13 10-7
+NSH Mål
+1:e
+2
+Nicolai PEDERSEN
+Assist
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+26.34
+AAH Skud reddet
+HF
+20
+Jesper Meinby PEDERSEN
+1
+Mike JENSEN
+27.09 11-7
+NSH Mål
+HB 17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+27.40
+AAH Tilkendt 7m
+18
+Lovro JOTIC
+Forårs. 7m
+17
+Akutaaneq KREUTZMANN
+27.44 11-8
+AAH Straffemål
+23
+Buster JUUL
+16
+Jakob Maarth SKAKSEN
+28.28 12-8
+NSH Mål
+HB 17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+28.32 12-9
+AAH Mål
+2:e
+11
+Simon Hald JENSEN
+0
+29.10 13-9
+NSH Mål
+ST
+8
+Knud RONAU
+Assist
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+29.18
+AAH Skud reddet
+2:e
+23
+Buster JUUL
+1
+Mike JENSEN
+30.00
+NSH Skud forbi
+PL
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+30.00
+Halvtid
+30.31 14-9
+NSH Mål
+ST
+5
+Dan Beck HANSEN
+Assist
+2
+Nicolai PEDERSEN
+16
+Mikael AGGEFORS
+31.14 14-10 AAH Mål
+PL
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+31.52
+AAH Udvisning
+22
+René ANTONSEN
+32.19 15-10 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+33.02 15-11 AAH Mål
+ST
+11
+Simon Hald JENSEN
+Assist
+18
+Lovro JOTIC
+1
+Mike JENSEN
+33.25 16-11 NSH Mål
+PL
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+34.01 16-12 AAH Mål
+VF
+23
+Buster JUUL
+Assist
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+34.32 17-12 NSH Mål
+ST
+5
+Dan Beck HANSEN
+Assist
+2
+Nicolai PEDERSEN
+12
+Søren PEDERSEN
+34.43
+AAH Skud reddet
+Gbr
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+35.03 18-12 NSH Mål
+Gbr 11
+Lasse UTH
+12
+Søren PEDERSEN
+35.03
+AAH Hold Time Out
+35.40
+AAH Skud reddet
+VB
+18
+Lovro JOTIC
+1
+Mike JENSEN
+36.15 19-12 NSH Mål
+Gbr
+2
+Nicolai PEDERSEN
+12
+Søren PEDERSEN
+37.03 19-13 AAH Mål
+HB 20
+Jesper Meinby PEDERSEN
+1
+Mike JENSEN
+37.40 20-13 NSH Mål
+Gbr 11
+Lasse UTH
+12
+Søren PEDERSEN
+38.17
+AAH Skud reddet
+HF
+8
+Jakob HESSELLUND
+1
+Mike JENSEN
+38.23 21-13 NSH Mål
+1:e
+1
+Mike JENSEN
+0
+38.27
+AAH Hold Time Out
+39.02
+AAH Tilkendt 7m
+14
+Magnus SAUGSTRUP
+Forårs. 7m
+19
+Anders MOSE
+39.07 21-14 AAH Straffemål
+23
+Buster JUUL
+1
+Mike JENSEN
+39.50 22-14 NSH Mål
+Gbr 17
+Akutaaneq KREUTZMANN
+12
+Søren PEDERSEN
+40.03
+AAH Tilkendt 7m
+15
+Andreas Holst JENSEN
+Forårs. 7m
+17
+Akutaaneq KREUTZMANN
+40.08 22-15 AAH Straffemål
+23
+Buster JUUL
+1
+Mike JENSEN
+40.43
+NSH Udvisning
+5
+Dan Beck HANSEN
+40.43
+AAH Udvisning
+7
+Martin LARSEN
+41.28
+NSH Passivt spil
+0
+41.57
+AAH Tilkendt 7m
+18
+Lovro JOTIC
+Forårs. 7m
+11
+Lasse UTH
+42.04 22-16 AAH Straffemål
+23
+Buster JUUL
+1
+Mike JENSEN
+42.39
+NSH Skud på stolpe
+HF
+3
+Carl-Emil HAUNSTRUP
+Retur
+0
+12
+Søren PEDERSEN
+43.08 23-16 NSH Mål
+ST
+11
+Lasse UTH
+Assist
+2
+Nicolai PEDERSEN
+12
+Søren PEDERSEN
+43.41 23-17 AAH Mål
+VB
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+44.19 24-17 NSH Mål
+HB 17
+Akutaaneq KREUTZMANN
+12
+Søren PEDERSEN
+44.53 24-18 AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+18
+Lovro JOTIC
+1
+Mike JENSEN
+45.28
+NSH Skud reddet
+PL
+2
+Nicolai PEDERSEN
+12
+Søren PEDERSEN
+45.38 24-19 AAH Mål
+Gbr
+7
+Martin LARSEN
+1
+Mike JENSEN
+45.44
+NSH Hold Time Out
+46.05 25-19 NSH Mål
+VB
+2
+Nicolai PEDERSEN
+12
+Søren PEDERSEN
+46.52 25-20 AAH Mål
+HF
+20
+Jesper Meinby PEDERSEN
+Assist
+7
+Martin LARSEN
+1
+Mike JENSEN
+47.26 26-20 NSH Mål
+ST
+5
+Dan Beck HANSEN
+Assist
+17
+Akutaaneq KREUTZMANN
+12
+Søren PEDERSEN
+47.38
+AAH Skud reddet
+HB 17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Nordsjælland Håndbold - Aalborg Håndbold   30 - 28  (13 - 9)
+538190 / 12-12-2017 / Frederiksborg-hallen 1 / 888ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+47.45 27-20 NSH Mål
+1:e
+20
+Jesper DAHL
+Assist
+24
+Johan MEKLENBORG
+12
+Søren PEDERSEN
+48.32 27-21 AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+18
+Lovro JOTIC
+1
+Mike JENSEN
+49.11
+NSH Regelfejl
+2
+Nicolai PEDERSEN
+49.11
+NSH Udvisning
+2
+Nicolai PEDERSEN
+49.32
+AAH Skud på stolpe
+HB
+7
+Martin LARSEN
+Retur
+0
+1
+Mike JENSEN
+49.50
+AAH Tilkendt 7m
+7
+Martin LARSEN
+Forårs. 7m
+19
+Anders MOSE
+49.54
+AAH Straff forbi
+23
+Buster JUUL
+1
+Mike JENSEN
+50.42
+NSH Skud reddet
+Gbr 21
+Oliver ROEPSTORFF
+16
+Mikael AGGEFORS
+50.50
+NSH Advarsel
+A
+Ian MARKO FOG
+50.52 27-22 AAH Mål
+VB
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+51.59
+NSH Regelfejl
+11
+Lasse UTH
+52.45
+AAH Fejlaflev
+18
+Lovro JOTIC
+52.50 28-22 NSH Mål
+1:e
+1
+Mike JENSEN
+0
+53.28 28-23 AAH Mål
+HF
+20
+Jesper Meinby PEDERSEN
+Assist
+7
+Martin LARSEN
+1
+Mike JENSEN
+54.06
+AAH Udvisning
+7
+Martin LARSEN
+54.32
+NSH Tabt bold
+11
+Lasse UTH
+55.31
+AAH Skud forbi
+VB
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+56.06
+NSH Skud reddet
+VB
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+56.12 28-24 AAH Mål
+1:e
+23
+Buster JUUL
+Assist
+22
+René ANTONSEN
+1
+Mike JENSEN
+57.09
+NSH Skud forbi
+HF
+20
+Jesper DAHL
+16
+Mikael AGGEFORS
+57.36 28-25 AAH Mål
+VF
+23
+Buster JUUL
+Assist
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+57.53
+NSH Hold Time Out
+58.26
+NSH Skud forbi
+HF
+20
+Jesper DAHL
+16
+Mikael AGGEFORS
+58.50 28-26 AAH Mål
+HB
+7
+Martin LARSEN
+1
+Mike JENSEN
+59.11 29-26 NSH Mål
+Gbr 21
+Oliver ROEPSTORFF
+16
+Mikael AGGEFORS
+59.22 29-27 AAH Mål
+PL
+7
+Martin LARSEN
+1
+Mike JENSEN
+59.43 30-27 NSH Mål
+Gbr 11
+Lasse UTH
+16
+Mikael AGGEFORS
+59.54 30-28 AAH Mål
+VF
+23
+Buster JUUL
+1
+Mike JENSEN
+60.00
+Fuld tid
+Software: Jilsén System AB. Logget af: Henrik Søndergaard, Jesper Bruhns,

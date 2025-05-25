@@ -1,0 +1,942 @@
+KAMPHÆNDELSER
+TTH Holstebro - Lemvig-Thyborøn Håndbold   25 - 23  (14 - 11)
+559152 / 3-5-2023 / Gråkjær Arena Holstebro / HTH Herreligaen - Kvalifikation puljespil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.56
+0-1
+LTH
+Mål
+PL
+8
+Jeppe Gade NIELSEN
+16
+Sander Drange HEIEREN
+2.02
+TTH
+Tilkendt straffe
+14
+Nikolaj ENDERLEIT
+Forårs. str.
+5
+Mats Gordon KROG
+2.29
+1-1
+TTH
+Mål på straffe
+24
+Johan MEKLENBORG
+12
+Simon EGTVED
+3.03
+LTH
+Fejlaflevering
+8
+Jeppe Gade NIELSEN
+3.07
+TTH
+Regelfejl
+25
+Jonas PORUP
+3.20
+LTH
+Skud reddet
+PL
+8
+Jeppe Gade NIELSEN
+16
+Sander Drange HEIEREN
+4.18
+LTH
+Advarsel
+9
+Nicolai PUGHOLM
+4.37
+2-1
+TTH
+Mål
+Gbr 18
+Frederik TILSTED
+Assist
+14
+Nikolaj ENDERLEIT
+12
+Simon EGTVED
+5.34
+LTH
+Fejlaflevering
+8
+Jeppe Gade NIELSEN
+5.46
+3-1
+TTH
+Mål
+VF
+10
+Magnus BRAMMING
+Assist
+18
+Frederik TILSTED
+12
+Simon EGTVED
+6.50
+LTH
+Skud reddet
+PL
+32
+Christian HOLM
+16
+Sander Drange HEIEREN
+7.45
+TTH
+Skud reddet
+VB
+22
+Nikolaj MARKUSSEN
+12
+Simon EGTVED
+8.23
+3-2
+LTH
+Mål
+HF
+23
+Jesper KOKHOLM
+16
+Sander Drange HEIEREN
+8.59
+4-2
+TTH
+Mål
+PL
+22
+Nikolaj MARKUSSEN
+12
+Simon EGTVED
+9.37
+LTH
+Fejlaflevering
+32
+Christian HOLM
+Bold erobret 23
+Miha ZVIZEJ
+9.41
+5-2
+TTH
+Mål
+1:e
+10
+Magnus BRAMMING
+12
+Simon EGTVED
+9.53
+LTH
+Time out
+10.07
+LTH
+Tilkendt straffe
+14
+Fredrik CLEMENTSEN
+Forårs. str.
+26
+Mathias SMED
+10.25
+TTH
+Advarsel
+26
+Mathias SMED
+10.40
+5-3
+LTH
+Mål på straffe
+8
+Jeppe Gade NIELSEN
+16
+Sander Drange HEIEREN
+11.16
+6-3
+TTH
+Mål
+HB 14
+Nikolaj ENDERLEIT
+12
+Simon EGTVED
+12.00
+6-4
+LTH
+Mål
+VF
+5
+Mats Gordon KROG
+Assist
+21
+Jorn SMITS
+16
+Sander Drange HEIEREN
+12.12
+7-4
+TTH
+Mål
+2:e
+18
+Frederik TILSTED
+12
+Simon EGTVED
+13.04
+LTH
+Fejlaflevering
+10
+Vilhelm POULSEN
+13.13
+8-4
+TTH
+Mål
+2:e
+14
+Nikolaj ENDERLEIT
+12
+Simon EGTVED
+14.05
+TTH
+Advarsel
+14
+Nikolaj ENDERLEIT
+14.44
+8-5
+LTH
+Mål
+Gbr 21
+Jorn SMITS
+16
+Sander Drange HEIEREN
+15.32
+9-5
+TTH
+Mål
+Gbr 18
+Frederik TILSTED
+12
+Simon EGTVED
+16.13
+LTH
+Skud blokeret
+PL
+8
+Jeppe Gade NIELSEN
+Blok af (ret)
+25
+Jonas PORUP
+16.36
+LTH
+Skud reddet
+VB
+21
+Jorn SMITS
+16
+Sander Drange HEIEREN
+16.54
+TTH
+Regelfejl
+19
+Rasmus KIER
+17.51
+9-6
+LTH
+Mål
+Gbr 21
+Jorn SMITS
+16
+Sander Drange HEIEREN
+18.23 10-6
+TTH
+Mål
+PL
+18
+Frederik TILSTED
+16
+Daniel Freyr ANDRÉSSON
+19.44
+LTH
+Skud blokeret
+VB
+8
+Jeppe Gade NIELSEN
+Blok af (ret)
+26
+Mathias SMED
+19.52 10-7
+LTH
+Mål
+VB
+21
+Jorn SMITS
+16
+Sander Drange HEIEREN
+20.32
+TTH
+Skud på stolpe
+PL
+18
+Frederik TILSTED
+16
+Daniel Freyr ANDRÉSSON
+21.07
+LTH
+Skud reddet
+Gbr 21
+Jorn SMITS
+Retur
+0
+16
+Sander Drange HEIEREN
+21.13
+LTH
+Skud reddet
+ST
+14
+Fredrik CLEMENTSEN
+16
+Sander Drange HEIEREN
+21.22
+LTH
+Advarsel
+7
+Niels LINDHOLT
+21.49
+TTH
+Fejlaflevering
+21
+Jonas Gade NIELSEN
+22.27
+LTH
+Skud reddet
+Gbr 52
+Rasmus PORUP
+16
+Sander Drange HEIEREN
+23.09 11-7
+TTH
+Mål
+HF
+19
+Rasmus KIER
+Assist
+21
+Jonas Gade NIELSEN
+16
+Daniel Freyr ANDRÉSSON
+24.13
+LTH
+Skud reddet
+VB
+52
+Rasmus PORUP
+Retur
+0
+16
+Sander Drange HEIEREN
+24.26 11-8
+LTH
+Mål
+ST
+14
+Fredrik CLEMENTSEN
+16
+Sander Drange HEIEREN
+25.03
+TTH
+Tabt bold
+18
+Frederik TILSTED
+25.32
+LTH
+Skud reddet
+Gbr 21
+Jorn SMITS
+16
+Sander Drange HEIEREN
+26.04 12-8
+TTH
+Mål
+HB 22
+Nikolaj MARKUSSEN
+16
+Daniel Freyr ANDRÉSSON
+26.41 12-9
+LTH
+Mål
+VF
+5
+Mats Gordon KROG
+Assist
+32
+Christian HOLM
+16
+Sander Drange HEIEREN
+26.59
+TTH
+Tilkendt straffe
+19
+Rasmus KIER
+Forårs. str.
+5
+Mats Gordon KROG
+27.08
+TTH
+Straffekast reddet
+24
+Johan MEKLENBORG
+16
+Daniel Freyr ANDRÉSSON
+27.40 12-10 LTH
+Mål
+Gbr 32
+Christian HOLM
+16
+Sander Drange HEIEREN
+28.05 13-10 TTH
+Mål
+HB 21
+Jonas Gade NIELSEN
+16
+Daniel Freyr ANDRÉSSON
+28.22
+LTH
+Skud reddet
+VB
+32
+Christian HOLM
+16
+Sander Drange HEIEREN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+TTH Holstebro - Lemvig-Thyborøn Håndbold   25 - 23  (14 - 11)
+559152 / 3-5-2023 / Gråkjær Arena Holstebro / HTH Herreligaen - Kvalifikation puljespil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+28.42
+TTH
+Time out
+29.01
+TTH
+Fejlaflevering
+22
+Nikolaj MARKUSSEN
+29.43
+LTH
+Fejlaflevering
+8
+Jeppe Gade NIELSEN
+29.47 14-10 TTH
+Mål
+1:e
+9
+Dan BECK-HANSEN
+Assist
+18
+Frederik TILSTED
+16
+Daniel Freyr ANDRÉSSON
+29.59
+LTH
+Tilkendt straffe
+26
+Mathias PORSHOLDT
+Forårs. str.
+25
+Jonas PORUP
+30.00 14-11 LTH
+Mål på straffe
+8
+Jeppe Gade NIELSEN
+12
+Josip CAVAR
+30.00 14-11
+Halvleg
+30.00
+Start 2:e halvleg
+30.38
+TTH
+Regelfejl
+22
+Nikolaj MARKUSSEN
+30.47
+LTH
+Skud på stolpe
+PL
+32
+Christian HOLM
+16
+Sander Drange HEIEREN
+31.15
+TTH
+Tilkendt straffe
+18
+Frederik TILSTED
+Forårs. str.
+6
+Jon KATBALLE
+31.34 15-11 TTH
+Mål på straffe
+10
+Magnus BRAMMING
+16
+Daniel Freyr ANDRÉSSON
+32.20 15-12 LTH
+Mål
+VF
+5
+Mats Gordon KROG
+Assist
+8
+Jeppe Gade NIELSEN
+16
+Sander Drange HEIEREN
+33.03 16-12 TTH
+Mål
+Gbr 18
+Frederik TILSTED
+16
+Daniel Freyr ANDRÉSSON
+33.16 16-13 LTH
+Mål
+VF
+5
+Mats Gordon KROG
+Assist
+8
+Jeppe Gade NIELSEN
+16
+Sander Drange HEIEREN
+33.55
+TTH
+Fejlaflevering
+14
+Nikolaj ENDERLEIT
+34.25 16-14 LTH
+Mål
+ST
+26
+Mathias PORSHOLDT
+Assist
+32
+Christian HOLM
+16
+Sander Drange HEIEREN
+34.33
+TTH
+Skud reddet
+2:e
+14
+Nikolaj ENDERLEIT
+16
+Daniel Freyr ANDRÉSSON
+35.10
+LTH
+Regelfejl
+32
+Christian HOLM
+35.55
+TTH
+Skud på stolpe
+VF
+10
+Magnus BRAMMING
+16
+Daniel Freyr ANDRÉSSON
+36.04 16-15 LTH
+Mål
+2:e
+8
+Jeppe Gade NIELSEN
+16
+Sander Drange HEIEREN
+36.57
+TTH
+Skud reddet
+VB
+22
+Nikolaj MARKUSSEN
+16
+Daniel Freyr ANDRÉSSON
+38.10
+LTH
+Passivt spil
+32
+Christian HOLM
+38.22
+LTH
+Udvisning
+9
+Nicolai PUGHOLM
+38.37
+TTH
+Skud forbi
+PL
+22
+Nikolaj MARKUSSEN
+16
+Daniel Freyr ANDRÉSSON
+39.21
+LTH
+Skud reddet
+HB 10
+Vilhelm POULSEN
+16
+Sander Drange HEIEREN
+39.44
+TTH
+Skud reddet
+PL
+22
+Nikolaj MARKUSSEN
+Retur
+0
+16
+Daniel Freyr ANDRÉSSON
+39.49
+LTH
+Advarsel
+B
+Martin Lysdahl HANSEN
+39.59
+TTH
+Regelfejl
+18
+Frederik TILSTED
+40.34 16-16 LTH
+Mål
+VF
+5
+Mats Gordon KROG
+Assist
+8
+Jeppe Gade NIELSEN
+16
+Sander Drange HEIEREN
+40.47
+TTH
+Tilkendt straffe
+18
+Frederik TILSTED
+Forårs. str.
+5
+Mats Gordon KROG
+41.07 17-16 TTH
+Mål på straffe
+10
+Magnus BRAMMING
+12
+Simon EGTVED
+41.50
+LTH
+Tilkendt straffe
+52
+Rasmus PORUP
+Forårs. str.
+21
+Jonas Gade NIELSEN
+42.14 17-17 LTH
+Mål på straffe
+8
+Jeppe Gade NIELSEN
+16
+Sander Drange HEIEREN
+43.04
+TTH
+Skud forbi
+VB
+18
+Frederik TILSTED
+16
+Daniel Freyr ANDRÉSSON
+43.11
+LTH
+Skud reddet
+VF
+5
+Mats Gordon KROG
+16
+Sander Drange HEIEREN
+43.24 18-17 TTH
+Mål
+HF
+19
+Rasmus KIER
+Assist
+18
+Frederik TILSTED
+16
+Daniel Freyr ANDRÉSSON
+44.13
+LTH
+Skud reddet
+PL
+52
+Rasmus PORUP
+16
+Sander Drange HEIEREN
+44.49
+TTH
+Fejlaflevering
+24
+Johan MEKLENBORG
+45.29
+LTH
+Regelfejl
+52
+Rasmus PORUP
+45.33 19-17 TTH
+Mål
+1:e
+10
+Magnus BRAMMING
+Assist
+14
+Nikolaj ENDERLEIT
+16
+Daniel Freyr ANDRÉSSON
+46.37
+LTH
+Skud forbi
+VB
+52
+Rasmus PORUP
+16
+Sander Drange HEIEREN
+47.22
+TTH
+Skud forbi
+PL
+18
+Frederik TILSTED
+16
+Daniel Freyr ANDRÉSSON
+48.19
+LTH
+Fejlaflevering
+32
+Christian HOLM
+48.23 20-17 TTH
+Mål
+1:e
+19
+Rasmus KIER
+Assist
+18
+Frederik TILSTED
+16
+Daniel Freyr ANDRÉSSON
+48.30
+LTH
+Time out
+49.13
+LTH
+Skud reddet
+HB 10
+Vilhelm POULSEN
+16
+Sander Drange HEIEREN
+49.23
+TTH
+Skud reddet
+2:e
+14
+Nikolaj ENDERLEIT
+Retur
+0
+16
+Daniel Freyr ANDRÉSSON
+49.40
+LTH
+Udvisning
+23
+Jesper KOKHOLM
+50.02
+TTH
+Skud reddet
+VB
+24
+Johan MEKLENBORG
+16
+Daniel Freyr ANDRÉSSON
+50.54
+LTH
+Skud reddet
+Gbr
+8
+Jeppe Gade NIELSEN
+16
+Sander Drange HEIEREN
+51.07
+TTH
+Skud reddet
+1:e
+16
+Sander Drange HEIEREN
+16
+Daniel Freyr ANDRÉSSON
+51.28
+LTH
+Fejlaflevering
+10
+Vilhelm POULSEN
+51.32
+TTH
+Tabt bold
+14
+Nikolaj ENDERLEIT
+
+--- Side 3 ---
+KAMPHÆNDELSER
+TTH Holstebro - Lemvig-Thyborøn Håndbold   25 - 23  (14 - 11)
+559152 / 3-5-2023 / Gråkjær Arena Holstebro / HTH Herreligaen - Kvalifikation puljespil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+52.16 20-18 LTH
+Mål
+ST
+26
+Mathias PORSHOLDT
+Assist
+8
+Jeppe Gade NIELSEN
+16
+Sander Drange HEIEREN
+52.48
+TTH
+Tilkendt straffe
+24
+Johan MEKLENBORG
+Forårs. str.
+7
+Niels LINDHOLT
+53.08 21-18 TTH
+Mål på straffe
+10
+Magnus BRAMMING
+16
+Daniel Freyr ANDRÉSSON
+53.41
+TTH
+Udvisning
+14
+Nikolaj ENDERLEIT
+53.51 21-19 LTH
+Mål
+Gbr 21
+Jorn SMITS
+16
+Sander Drange HEIEREN
+54.11
+TTH
+Time out
+54.58
+TTH
+Passivt spil
+0
+55.06 21-20 LTH
+Mål
+1:e
+5
+Mats Gordon KROG
+Assist
+21
+Jorn SMITS
+16
+Sander Drange HEIEREN
+56.02 22-20 TTH
+Mål
+HB 21
+Jonas Gade NIELSEN
+16
+Daniel Freyr ANDRÉSSON
+57.22 22-21 LTH
+Mål
+Gbr 52
+Rasmus PORUP
+16
+Sander Drange HEIEREN
+57.28 23-21 TTH
+Mål
+2:e
+23
+Miha ZVIZEJ
+0
+57.38
+LTH
+Time out
+57.42 23-22 LTH
+Mål
+PL
+52
+Rasmus PORUP
+16
+Sander Drange HEIEREN
+58.23 24-22 TTH
+Mål
+PL
+18
+Frederik TILSTED
+16
+Daniel Freyr ANDRÉSSON
+58.32 24-23 LTH
+Mål
+2:e
+23
+Jesper KOKHOLM
+16
+Sander Drange HEIEREN
+59.15
+LTH
+Udvisning
+7
+Niels LINDHOLT
+59.35 25-23 TTH
+Mål
+Gbr 14
+Nikolaj ENDERLEIT
+16
+Daniel Freyr ANDRÉSSON
+59.47
+LTH
+Skud forbi
+HB 10
+Vilhelm POULSEN
+16
+Sander Drange HEIEREN
+60.00 25-23
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Kenneth Kristiansen, Søren Bork,

@@ -1,0 +1,964 @@
+KAMPHÆNDELSER
+KIF Kolding - Skanderborg Aarhus Håndbold   24 - 27  (10 - 13)
+457650 / 22-9-2022 / Sydbank Arena 1 - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.34
+0-1
+SAH Mål
+VF
+4
+Lars SKAARUP
+Assist
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+1.17
+KIF
+Skud reddet
+PL
+19
+Thomas BOILESEN
+1
+Kristoffer LAURSEN
+1.27
+SAH Skud blokeret
+HB
+7
+Jonatan MOLLERUP
+Blok af (ret)
+19
+Thomas BOILESEN
+1.56
+0-2
+SAH Mål
+VF
+4
+Lars SKAARUP
+Assist
+19
+Thor CHRISTENSEN
+1
+Magnus BRANDBYGE
+2.48
+1-2
+KIF
+Mål
+ST
+18
+Benjamin PEDERSEN
+Assist
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+3.31
+SAH Skud reddet
+PL
+23
+Morten Hempel JENSEN
+1
+Magnus BRANDBYGE
+3.38
+KIF
+Fejlaflevering
+19
+Thomas BOILESEN
+Bold erobret
+4
+Lars SKAARUP
+4.15
+1-3
+SAH Mål
+HB
+7
+Jonatan MOLLERUP
+1
+Magnus BRANDBYGE
+5.09
+KIF
+Skud reddet
+PL
+19
+Thomas BOILESEN
+1
+Kristoffer LAURSEN
+5.25
+SAH Tilkendt straffe
+8
+Torben PETERSEN
+Forårs. str.
+18
+Benjamin PEDERSEN
+5.35
+1-4
+SAH Mål på straffe
+20
+Morten BALLING
+16
+Tim WINKLER
+6.05
+SAH Advarsel
+8
+Torben PETERSEN
+6.29
+2-4
+KIF
+Mål
+ST
+18
+Benjamin PEDERSEN
+Assist
+27
+Jesper MEINBY
+1
+Kristoffer LAURSEN
+6.58
+2-5
+SAH Mål
+Gbr
+7
+Jonatan MOLLERUP
+1
+Magnus BRANDBYGE
+7.32
+KIF
+Skud reddet
+Gbr 15
+Jens Svane PESCHARDT
+1
+Kristoffer LAURSEN
+8.12
+SAH Fejlaflevering
+7
+Jonatan MOLLERUP
+8.23
+KIF
+Skud reddet
+HF
+29
+Viktor NEVERS
+1
+Kristoffer LAURSEN
+8.53
+SAH Skud reddet
+VB
+23
+Morten Hempel JENSEN
+1
+Magnus BRANDBYGE
+9.00
+SAH Udvisning
+6
+Kristian BONEFELD
+9.45
+3-5
+KIF
+Mål
+ST
+18
+Benjamin PEDERSEN
+Assist
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+10.35
+3-6
+SAH Mål
+PL
+7
+Jonatan MOLLERUP
+1
+Magnus BRANDBYGE
+11.00
+KIF
+Skud reddet
+ST
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+11.43
+SAH Skud reddet
+HB
+7
+Jonatan MOLLERUP
+1
+Magnus BRANDBYGE
+11.49
+KIF
+Time out
+12.34
+4-6
+KIF
+Mål
+VB
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+12.46
+4-7
+SAH Mål
+ST
+7
+Jonatan MOLLERUP
+Assist
+19
+Thor CHRISTENSEN
+1
+Magnus BRANDBYGE
+13.19
+KIF
+Skud på stolpe
+ST
+18
+Benjamin PEDERSEN
+1
+Kristoffer LAURSEN
+13.30
+KIF
+Advarsel
+A
+Kristian KRISTENSEN
+13.47
+SAH Skud reddet
+PL
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+13.56
+KIF
+Skud reddet
+ST
+10
+Vetle RØNNINGEN
+1
+Kristoffer LAURSEN
+14.41
+SAH Tilkendt straffe
+20
+Morten BALLING
+Forårs. str.
+29
+Viktor NEVERS
+14.47
+4-8
+SAH Mål på straffe
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+15.59
+5-8
+KIF
+Mål
+ST
+18
+Benjamin PEDERSEN
+Assist
+27
+Jesper MEINBY
+1
+Kristoffer LAURSEN
+16.41
+5-9
+SAH Mål
+VF
+4
+Lars SKAARUP
+Assist
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+17.46
+6-9
+KIF
+Mål
+PL
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+18.36
+SAH Skud reddet
+PL
+23
+Morten Hempel JENSEN
+1
+Magnus BRANDBYGE
+18.45
+KIF
+Skud reddet
+1:e
+10
+Vetle RØNNINGEN
+Retur
+0
+1
+Kristoffer LAURSEN
+19.22
+7-9
+KIF
+Mål
+VB
+15
+Jens Svane PESCHARDT
+1
+Kristoffer LAURSEN
+19.42
+SAH Tilkendt straffe
+8
+Torben PETERSEN
+Forårs. str.
+29
+Viktor NEVERS
+19.44
+7-10
+SAH Mål på straffe
+20
+Morten BALLING
+16
+Tim WINKLER
+20.24
+KIF
+Skud reddet
+PL
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+20.38
+SAH Time out
+21.05
+SAH Skud blokeret
+PL
+20
+Morten BALLING
+Blok af (ret)
+10
+Vetle RØNNINGEN
+21.25
+SAH Fejlaflevering
+8
+Torben PETERSEN
+Bold erobret 29
+Viktor NEVERS
+21.40
+KIF
+Tilkendt straffe
+15
+Jens Svane PESCHARDT
+Forårs. str.
+6
+Kristian BONEFELD
+21.58
+8-10
+KIF
+Mål på straffe
+14
+Bjarke CHRISTENSEN
+1
+Kristoffer LAURSEN
+22.43
+8-11
+SAH Mål
+PL
+8
+Torben PETERSEN
+1
+Magnus BRANDBYGE
+23.39
+SAH Advarsel
+3
+Lars MOUSING
+23.53
+KIF
+Regelfejl
+18
+Benjamin PEDERSEN
+24.11
+8-12
+SAH Mål
+HF
+17
+Hákun West Av TEIGUM
+Assist
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+24.44
+9-12
+KIF
+Mål
+ST
+18
+Benjamin PEDERSEN
+Assist
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+25.22
+SAH Skud reddet
+Gbr
+6
+Kristian BONEFELD
+1
+Magnus BRANDBYGE
+25.29
+KIF
+Skud reddet
+2:e
+10
+Vetle RØNNINGEN
+1
+Kristoffer LAURSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+KIF Kolding - Skanderborg Aarhus Håndbold   24 - 27  (10 - 13)
+457650 / 22-9-2022 / Sydbank Arena 1 - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+26.05
+SAH Skud reddet
+PL
+8
+Torben PETERSEN
+1
+Magnus BRANDBYGE
+26.24
+KIF
+Regelfejl
+19
+Thomas BOILESEN
+26.57
+KIF
+Advarsel
+10
+Vetle RØNNINGEN
+27.32
+SAH Skud reddet
+PL
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+28.28
+KIF
+Skud forbi
+PL
+15
+Jens Svane PESCHARDT
+1
+Kristoffer LAURSEN
+28.59
+SAH Skud reddet
+PL
+7
+Jonatan MOLLERUP
+1
+Magnus BRANDBYGE
+29.04 10-12 KIF
+Mål
+2:e
+2
+Mads PETER-LØNBORG
+Assist
+10
+Vetle RØNNINGEN
+1
+Kristoffer LAURSEN
+29.52 10-13 SAH Mål
+HB
+7
+Jonatan MOLLERUP
+1
+Magnus BRANDBYGE
+30.00 10-13
+Halvleg
+30.00
+Start 2:e halvleg
+30.34
+KIF
+Tabt bold
+15
+Jens Svane PESCHARDT
+31.15 10-14 SAH Mål
+PL
+8
+Torben PETERSEN
+1
+Magnus BRANDBYGE
+31.42 11-14 KIF
+Mål
+Gbr 14
+Bjarke CHRISTENSEN
+Assist
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+32.22 11-15 SAH Mål
+PL
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+33.16
+KIF
+Skud reddet
+VF
+14
+Bjarke CHRISTENSEN
+1
+Kristoffer LAURSEN
+33.29
+SAH Regelfejl
+19
+Thor CHRISTENSEN
+33.39 12-15 KIF
+Mål
+Gbr 15
+Jens Svane PESCHARDT
+1
+Kristoffer LAURSEN
+34.36
+SAH Skud reddet
+ST
+19
+Thor CHRISTENSEN
+1
+Magnus BRANDBYGE
+34.43 13-15 KIF
+Mål
+Gbr
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+35.14 13-16 SAH Mål
+PL
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+35.52
+SAH Udvisning
+6
+Kristian BONEFELD
+36.17 14-16 KIF
+Mål
+ST
+18
+Benjamin PEDERSEN
+Assist
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+37.11
+SAH Skud reddet
+VB
+7
+Jonatan MOLLERUP
+1
+Magnus BRANDBYGE
+37.19 15-16 KIF
+Mål
+ST
+18
+Benjamin PEDERSEN
+Assist
+15
+Jens Svane PESCHARDT
+1
+Kristoffer LAURSEN
+38.18 15-17 SAH Mål
+Gbr
+8
+Torben PETERSEN
+Assist
+7
+Jonatan MOLLERUP
+1
+Magnus BRANDBYGE
+38.25
+KIF
+Tabt bold
+15
+Jens Svane PESCHARDT
+39.02 15-18 SAH Mål
+ST
+3
+Lars MOUSING
+Assist
+7
+Jonatan MOLLERUP
+1
+Magnus BRANDBYGE
+39.21
+KIF
+Skud reddet
+Gbr 15
+Jens Svane PESCHARDT
+1
+Kristoffer LAURSEN
+39.35
+SAH Time out
+40.05 15-19 SAH Mål
+Gbr 20
+Morten BALLING
+Assist
+8
+Torben PETERSEN
+1
+Magnus BRANDBYGE
+41.03
+KIF
+Skud reddet
+VB
+15
+Jens Svane PESCHARDT
+1
+Kristoffer LAURSEN
+42.01
+SAH Skud forbi
+PL
+7
+Jonatan MOLLERUP
+1
+Magnus BRANDBYGE
+42.57
+KIF
+Fejlaflevering
+27
+Jesper MEINBY
+43.31 15-20 SAH Mål
+HF
+17
+Hákun West Av TEIGUM
+Assist
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+43.44 16-20 KIF
+Mål
+ST
+5
+Steven Plucnar JACOBSEN
+Assist
+19
+Thomas BOILESEN
+1
+Kristoffer LAURSEN
+44.23 16-21 SAH Mål
+Gbr 23
+Morten Hempel JENSEN
+1
+Magnus BRANDBYGE
+44.38
+KIF
+Tilkendt straffe
+27
+Jesper MEINBY
+Forårs. str.
+6
+Kristian BONEFELD
+44.54 17-21 KIF
+Mål på straffe
+14
+Bjarke CHRISTENSEN
+1
+Kristoffer LAURSEN
+45.44
+SAH Tilkendt straffe
+8
+Torben PETERSEN
+Forårs. str.
+2
+Mads PETER-LØNBORG
+45.53 17-22 SAH Mål på straffe
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+46.27
+KIF
+Skud reddet
+HF
+27
+Jesper MEINBY
+Retur
+14
+Bjarke CHRISTENSEN
+1
+Kristoffer LAURSEN
+46.32
+KIF
+Skud reddet
+VF
+14
+Bjarke CHRISTENSEN
+1
+Kristoffer LAURSEN
+47.06
+SAH Regelfejl
+23
+Morten Hempel JENSEN
+47.19
+KIF
+Tilkendt straffe
+5
+Steven Plucnar JACOBSEN
+Forårs. str.
+4
+Lars SKAARUP
+47.24 18-22 KIF
+Mål på straffe
+14
+Bjarke CHRISTENSEN
+12
+Salah BOUTAF
+48.24
+SAH Skud reddet
+HF
+17
+Hákun West Av TEIGUM
+16
+Tim WINKLER
+49.03
+KIF
+Skud reddet
+PL
+19
+Thomas BOILESEN
+1
+Kristoffer LAURSEN
+49.44
+SAH Tilkendt straffe
+8
+Torben PETERSEN
+Forårs. str.
+5
+Steven Plucnar JACOBSEN
+49.48 18-23 SAH Mål på straffe
+20
+Morten BALLING
+16
+Tim WINKLER
+50.16 19-23 KIF
+Mål
+Gbr 19
+Thomas BOILESEN
+Assist
+2
+Mads PETER-LØNBORG
+1
+Kristoffer LAURSEN
+50.27
+KIF
+Udvisning
+7
+Sander ØVERJORDET
+50.40
+SAH Tilkendt straffe
+20
+Morten BALLING
+Forårs. str.
+14
+Bjarke CHRISTENSEN
+50.44 19-24 SAH Mål på straffe
+20
+Morten BALLING
+1
+Magnus BRANDBYGE
+51.13
+KIF
+Time out
+
+--- Side 3 ---
+KAMPHÆNDELSER
+KIF Kolding - Skanderborg Aarhus Håndbold   24 - 27  (10 - 13)
+457650 / 22-9-2022 / Sydbank Arena 1 - bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+51.31
+KIF
+Skud reddet
+PL
+2
+Mads PETER-LØNBORG
+1
+Kristoffer LAURSEN
+51.57 19-25 SAH Mål
+HF
+17
+Hákun West Av TEIGUM
+Assist
+20
+Morten BALLING
+16
+Tim WINKLER
+52.43
+KIF
+Skud reddet
+PL
+2
+Mads PETER-LØNBORG
+1
+Kristoffer LAURSEN
+53.10
+SAH Skud på stolpe
+ST
+3
+Lars MOUSING
+16
+Tim WINKLER
+53.40
+KIF
+Skud reddet
+ST
+19
+Thomas BOILESEN
+1
+Kristoffer LAURSEN
+54.18 19-26 SAH Mål
+HF
+17
+Hákun West Av TEIGUM
+Assist
+20
+Morten BALLING
+16
+Tim WINKLER
+55.01
+KIF
+Fejlaflevering
+27
+Jesper MEINBY
+55.08 19-27 SAH Mål
+PL
+8
+Torben PETERSEN
+0
+55.10
+KIF
+Time out
+55.25 20-27 KIF
+Mål
+ST
+5
+Steven Plucnar JACOBSEN
+Assist
+27
+Jesper MEINBY
+1
+Kristoffer LAURSEN
+56.14
+SAH Skud forbi
+PL
+23
+Morten Hempel JENSEN
+16
+Tim WINKLER
+56.40 21-27 KIF
+Mål
+ST
+5
+Steven Plucnar JACOBSEN
+Assist
+19
+Thomas BOILESEN
+1
+Kristoffer LAURSEN
+57.23
+SAH Skud blokeret
+PL
+8
+Torben PETERSEN
+Blokeret af
+18
+Benjamin PEDERSEN
+57.32 22-27 KIF
+Mål
+PL
+16
+Tim WINKLER
+0
+58.07
+SAH Skud reddet
+PL
+8
+Torben PETERSEN
+16
+Tim WINKLER
+58.13 23-27 KIF
+Mål
+PL
+16
+Tim WINKLER
+0
+58.48
+SAH Skud reddet
+Gbr 20
+Morten BALLING
+16
+Tim WINKLER
+59.23 24-27 KIF
+Mål
+ST
+5
+Steven Plucnar JACOBSEN
+Assist
+15
+Jens Svane PESCHARDT
+1
+Kristoffer LAURSEN
+60.00
+SAH Skud reddet
+HB 20
+Morten BALLING
+16
+Tim WINKLER
+60.00 24-27
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: henrik, sandra,

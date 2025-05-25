@@ -1,0 +1,893 @@
+KAMPHÆNDELSER
+Skjern Håndbold - Aalborg Håndbold   33 - 30  (16 - 17)
+520836 / 23-4-2023 / Skjern Bank Arena bane 1 / HTH Ligaen - slutspil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.49
+0-1
+AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+11
+Lukas SANDELL
+1
+Christoffer BONDE
+0.55
+1-1
+SKH Mål
+2:e
+19
+Lasse UTH
+Assist
+7
+Senjamin BURIC
+1
+Simon GADE
+1.47
+SKH Advarsel
+25
+Eivind TANGEN
+2.11
+AAH Skud på stolpe
+HF
+20
+Andreas FLODMAN
+1
+Christoffer BONDE
+2.44
+SKH Regelfejl
+19
+Lasse UTH
+2.51
+1-2
+AAH Mål
+2:e
+23
+Buster JUUL
+Assist
+11
+Lukas SANDELL
+1
+Christoffer BONDE
+3.32
+SKH Skud reddet
+PL
+25
+Eivind TANGEN
+1
+Simon GADE
+3.41
+1-3
+AAH Mål
+2:e
+11
+Lukas SANDELL
+1
+Christoffer BONDE
+3.47
+2-3
+SKH Mål
+2:e
+19
+Lasse UTH
+Assist
+7
+Senjamin BURIC
+1
+Simon GADE
+3.50
+AAH Udvisning
+20
+Andreas FLODMAN
+4.31
+2-4
+AAH Mål
+HB 11
+Lukas SANDELL
+1
+Christoffer BONDE
+5.10
+3-4
+SKH Mål
+Gbr 18
+Alfred JÖNSSON
+1
+Simon GADE
+6.09
+3-5
+AAH Mål
+Gbr
+5
+Victor KLØVE
+Assist
+11
+Lukas SANDELL
+1
+Christoffer BONDE
+6.50
+SKH Regelfejl
+7
+Senjamin BURIC
+7.31
+3-6
+AAH Mål
+VF
+23
+Buster JUUL
+Assist
+5
+Victor KLØVE
+1
+Christoffer BONDE
+8.20
+SKH Skud blokeret
+PL
+9
+Simen PETTERSEN
+Blok af (ret)
+21
+Henrik MØLLGAARD
+8.53
+SKH Skud reddet
+PL
+22
+Jakob RASMUSSEN
+1
+Simon GADE
+9.06
+AAH Skud reddet
+ST
+11
+Lukas SANDELL
+1
+Christoffer BONDE
+9.15
+4-6
+SKH Mål
+2:e
+22
+Jakob RASMUSSEN
+1
+Simon GADE
+9.50
+AAH Skud blokeret
+PL
+11
+Lukas SANDELL
+Blok af (ret)
+7
+Senjamin BURIC
+10.17
+4-7
+AAH Mål
+PL
+5
+Victor KLØVE
+1
+Christoffer BONDE
+10.21
+5-7
+SKH Mål
+2:e
+25
+Eivind TANGEN
+1
+Simon GADE
+10.57
+SKH Advarsel
+26
+Jonathan WÜRTZ
+11.07
+5-8
+AAH Mål
+PL
+11
+Lukas SANDELL
+1
+Christoffer BONDE
+11.40
+6-8
+SKH Mål
+VF
+19
+Lasse UTH
+Assist
+9
+Simen PETTERSEN
+1
+Simon GADE
+12.20
+AAH Regelfejl
+5
+Victor KLØVE
+13.05
+7-8
+SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+9
+Simen PETTERSEN
+1
+Simon GADE
+13.15
+AAH Tilkendt straffe
+11
+Lukas SANDELL
+Forårs. str.
+9
+Simen PETTERSEN
+13.31
+7-9
+AAH Mål på straffe
+21
+Henrik MØLLGAARD
+1
+Christoffer BONDE
+14.03
+AAH Udvisning
+17
+Martin LARSEN
+14.17
+8-9
+SKH Mål
+ST
+26
+Jonathan WÜRTZ
+Assist
+18
+Alfred JÖNSSON
+1
+Simon GADE
+14.51
+AAH Skud på stolpe
+PL
+7
+Felix CLAAR
+1
+Christoffer BONDE
+15.14
+SKH Skud reddet
+HB 25
+Eivind TANGEN
+1
+Simon GADE
+16.22
+AAH Fejlaflevering
+5
+Victor KLØVE
+16.30
+9-9
+SKH Mål
+2:e
+9
+Simen PETTERSEN
+1
+Simon GADE
+16.59
+9-10
+AAH Mål
+PL
+11
+Lukas SANDELL
+1
+Christoffer BONDE
+17.25
+SKH Skud blokeret
+PL
+9
+Simen PETTERSEN
+Blok af (ret)
+22
+Rene ANTONSEN
+17.38 10-10 SKH Mål
+VB
+22
+Jakob RASMUSSEN
+1
+Simon GADE
+17.49 10-11 AAH Mål
+2:e
+11
+Lukas SANDELL
+12
+Robin HAUG
+18.28 11-11 SKH Mål
+PL
+25
+Eivind TANGEN
+1
+Simon GADE
+19.12
+AAH Skud reddet
+PL
+11
+Lukas SANDELL
+12
+Robin HAUG
+19.57
+SKH Skud blokeret
+PL
+18
+Alfred JÖNSSON
+Blok af (ret)
+21
+Henrik MØLLGAARD
+20.11 12-11 SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+25
+Eivind TANGEN
+16
+Mikael AGGEFORS
+20.18 12-12 AAH Mål
+2:e
+21
+Henrik MØLLGAARD
+Assist
+7
+Felix CLAAR
+12
+Robin HAUG
+20.54 13-12 SKH Mål
+VB
+22
+Jakob RASMUSSEN
+16
+Mikael AGGEFORS
+21.49 13-13 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+7
+Felix CLAAR
+12
+Robin HAUG
+21.57 14-13 SKH Mål
+2:e
+19
+Lasse UTH
+Assist
+18
+Alfred JÖNSSON
+16
+Mikael AGGEFORS
+22.24
+AAH Skud reddet
+PL
+7
+Felix CLAAR
+12
+Robin HAUG
+22.32
+SKH Skud blokeret
+2:e
+25
+Eivind TANGEN
+Blokeret af
+7
+Felix CLAAR
+23.39
+AAH Tilkendt straffe
+22
+Rene ANTONSEN
+Forårs. str.
+19
+Lasse UTH
+23.51 14-14 AAH Mål på straffe
+21
+Henrik MØLLGAARD
+12
+Robin HAUG
+25.12 15-14 SKH Mål
+VB
+22
+Jakob RASMUSSEN
+16
+Mikael AGGEFORS
+25.34
+AAH Skud reddet
+HF
+17
+Martin LARSEN
+Retur
+0
+12
+Robin HAUG
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skjern Håndbold - Aalborg Håndbold   33 - 30  (16 - 17)
+520836 / 23-4-2023 / Skjern Bank Arena bane 1 / HTH Ligaen - slutspil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.43
+AAH Time out
+26.48 15-15 AAH Mål
+HB 11
+Lukas SANDELL
+12
+Robin HAUG
+27.18 16-15 SKH Mål
+PL
+5
+Oliver NORLYK
+16
+Mikael AGGEFORS
+27.46 16-16 AAH Mål
+VB
+11
+Lukas SANDELL
+12
+Robin HAUG
+28.41
+SKH Regelfejl
+18
+Alfred JÖNSSON
+29.07 16-17 AAH Mål
+Gbr
+7
+Felix CLAAR
+12
+Robin HAUG
+29.28
+SKH Time out
+30.00
+SKH Skud blokeret
+HB
+5
+Oliver NORLYK
+Blok af (ret)
+21
+Henrik MØLLGAARD
+30.00 16-17
+Halvleg
+30.00
+Start 2:e halvleg
+30.31 17-17 SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+9
+Simen PETTERSEN
+16
+Mikael AGGEFORS
+31.06 17-18 AAH Mål
+Gbr
+5
+Victor KLØVE
+12
+Robin HAUG
+31.38 18-18 SKH Mål
+PL
+9
+Simen PETTERSEN
+16
+Mikael AGGEFORS
+32.21
+AAH Fejlaflevering
+7
+Felix CLAAR
+Bold erobret 26
+Jonathan WÜRTZ
+32.53 19-18 SKH Mål
+Gbr 22
+Jakob RASMUSSEN
+16
+Mikael AGGEFORS
+33.19 19-19 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+11
+Lukas SANDELL
+12
+Robin HAUG
+33.59
+SKH Skud blokeret
+PL
+9
+Simen PETTERSEN
+Blok af (ret)
+22
+Rene ANTONSEN
+34.17 20-19 SKH Mål
+PL
+9
+Simen PETTERSEN
+1
+Simon GADE
+34.31
+AAH Regelfejl
+21
+Henrik MØLLGAARD
+35.29
+SKH Regelfejl
+25
+Eivind TANGEN
+35.37
+AAH Skud reddet
+2:e
+5
+Victor KLØVE
+12
+Robin HAUG
+36.18 21-19 SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+25
+Eivind TANGEN
+1
+Simon GADE
+36.49
+SKH Udvisning
+26
+Jonathan WÜRTZ
+36.58 21-20 AAH Mål
+PL
+21
+Henrik MØLLGAARD
+12
+Robin HAUG
+37.41 22-20 SKH Mål
+VB
+22
+Jakob RASMUSSEN
+1
+Simon GADE
+38.12
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+12
+Robin HAUG
+38.59 23-20 SKH Mål
+ST
+19
+Lasse UTH
+Assist
+9
+Simen PETTERSEN
+1
+Simon GADE
+39.07
+AAH Tabt bold
+21
+Henrik MØLLGAARD
+40.04 24-20 SKH Mål
+VB
+9
+Simen PETTERSEN
+1
+Simon GADE
+40.13
+AAH Time out
+40.30
+AAH Skud reddet
+PL
+11
+Lukas SANDELL
+12
+Robin HAUG
+41.13 25-20 SKH Mål
+PL
+22
+Jakob RASMUSSEN
+1
+Simon GADE
+41.43
+SKH Udvisning
+25
+Eivind TANGEN
+42.09
+AAH Fejlaflevering
+11
+Lukas SANDELL
+Bold erobret 21
+René RASMUSSEN
+42.13 26-20 SKH Mål
+1:e
+21
+René RASMUSSEN
+1
+Simon GADE
+42.35
+SKH Udvisning
+19
+Lasse UTH
+42.55 26-21 AAH Mål
+HF
+20
+Andreas FLODMAN
+Assist
+7
+Felix CLAAR
+12
+Robin HAUG
+43.52
+SKH Skud blokeret
+PL
+9
+Simen PETTERSEN
+Blok af (ret)
+0
+44.01
+SKH Skud forbi
+VB
+5
+Oliver NORLYK
+1
+Simon GADE
+44.17 26-22 AAH Mål
+PL
+11
+Lukas SANDELL
+12
+Robin HAUG
+44.38
+SKH Time out
+44.55 27-22 SKH Mål
+VF
+19
+Lasse UTH
+Assist
+22
+Jakob RASMUSSEN
+1
+Simon GADE
+45.45
+AAH Skud på stolpe
+HB 11
+Lukas SANDELL
+Retur
+0
+12
+Robin HAUG
+46.00
+AAH Skud reddet
+PL
+7
+Felix CLAAR
+12
+Robin HAUG
+46.58
+SKH Skud blokeret
+PL
+22
+Jakob RASMUSSEN
+Blokeret af
+22
+Rene ANTONSEN
+47.08
+AAH Fejlaflevering
+1
+Simon GADE
+Bold erobret 25
+Eivind TANGEN
+47.35 28-22 SKH Mål
+VB
+9
+Simen PETTERSEN
+1
+Simon GADE
+48.05
+AAH Skud på stolpe
+PL
+21
+Henrik MØLLGAARD
+Retur
+0
+12
+Robin HAUG
+48.10 28-23 AAH Mål
+ST
+22
+Rene ANTONSEN
+12
+Robin HAUG
+48.42
+SKH Tilkendt straffe
+9
+Simen PETTERSEN
+Forårs. str.
+22
+Rene ANTONSEN
+48.45
+AAH Udvisning
+22
+Rene ANTONSEN
+48.48
+SKH Straffekast reddet
+18
+Alfred JÖNSSON
+16
+Mikael AGGEFORS
+49.30 28-24 AAH Mål
+PL
+11
+Lukas SANDELL
+12
+Robin HAUG
+49.56
+SKH Skud på stolpe
+HF
+21
+René RASMUSSEN
+16
+Mikael AGGEFORS
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skjern Håndbold - Aalborg Håndbold   33 - 30  (16 - 17)
+520836 / 23-4-2023 / Skjern Bank Arena bane 1 / HTH Ligaen - slutspil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+50.47
+AAH Skud reddet
+PL
+21
+Henrik MØLLGAARD
+Retur
+0
+12
+Robin HAUG
+50.56 28-25 AAH Mål
+Gbr 11
+Lukas SANDELL
+12
+Robin HAUG
+51.28
+SKH Regelfejl
+7
+Senjamin BURIC
+51.51
+AAH Tilkendt straffe
+2
+Benjamin JAKOBSEN
+Forårs. str.
+15
+Lasse MIKKELSEN
+51.53
+SKH Udvisning
+15
+Lasse MIKKELSEN
+51.58 28-26 AAH Mål på straffe
+21
+Henrik MØLLGAARD
+12
+Robin HAUG
+52.51
+SKH Skud reddet
+VB
+9
+Simen PETTERSEN
+16
+Mikael AGGEFORS
+53.11
+SKH Advarsel
+B
+Henrik KRONBORG
+53.29 28-27 AAH Mål
+ST
+7
+Felix CLAAR
+Assist
+11
+Lukas SANDELL
+12
+Robin HAUG
+54.06
+SKH Time out
+54.17 29-27 SKH Mål
+PL
+22
+Jakob RASMUSSEN
+16
+Mikael AGGEFORS
+54.44 29-28 AAH Mål
+VF
+23
+Buster JUUL
+Assist
+7
+Felix CLAAR
+12
+Robin HAUG
+55.31 30-28 SKH Mål
+Gbr
+9
+Simen PETTERSEN
+16
+Mikael AGGEFORS
+56.03
+AAH Fejlaflevering
+7
+Felix CLAAR
+57.07 31-28 SKH Mål
+PL
+22
+Jakob RASMUSSEN
+16
+Mikael AGGEFORS
+57.34
+AAH Skud blokeret
+PL
+21
+Henrik MØLLGAARD
+Blokeret af
+26
+Jonathan WÜRTZ
+58.14 32-28 SKH Mål
+Gbr
+9
+Simen PETTERSEN
+16
+Mikael AGGEFORS
+58.40 32-29 AAH Mål
+Gbr 11
+Lukas SANDELL
+12
+Robin HAUG
+59.10
+SKH Regelfejl
+9
+Simen PETTERSEN
+59.23 32-30 AAH Mål
+Gbr 11
+Lukas SANDELL
+12
+Robin HAUG
+59.48 33-30 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+25
+Eivind TANGEN
+16
+Mikael AGGEFORS
+60.00 33-30
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Lars Johannessen, Thomas Knudsen,

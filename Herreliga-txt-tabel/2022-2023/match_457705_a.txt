@@ -1,0 +1,978 @@
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - SønderjyskE Herrer   23 - 18  (9 - 6)
+457705 / 16-11-2022 / Arena Vestjylland Forsikring Lemvig / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.34
+LTH
+Fejlaflevering
+11
+Thomas DAMGAARD
+Bold erobret 67
+Tobias MØLLER
+1.12
+SJE
+Skud på stolpe
+HB
+4
+Andreas LANG
+12
+Simon EGTVED
+1.23
+LTH
+Fejlaflevering
+26
+Jonathan WÜRTZ
+2.01
+SJE
+Fejlaflevering
+4
+Andreas LANG
+2.50
+LTH
+Fejlaflevering
+10
+Vilhelm POULSEN
+3.14
+SJE
+Skud reddet
+PL
+25
+Kristian STRANDEN
+12
+Simon EGTVED
+3.22
+LTH
+Skud på stolpe
+ST
+7
+Niels LINDHOLT
+26
+Rasmus BECH
+3.43
+LTH
+Udvisning
+9
+Nicolai PUGHOLM
+3.44
+SJE
+Brændt straffekast
+67
+Tobias MØLLER
+4.09
+LTH
+Skud reddet
+Gbr 26
+Jonathan WÜRTZ
+26
+Rasmus BECH
+4.19
+SJE
+Udvisning
+25
+Kristian STRANDEN
+4.42
+SJE
+Skud forbi
+VB
+20
+August WIGER
+12
+Simon EGTVED
+5.18
+LTH
+Regelfejl
+10
+Vilhelm POULSEN
+5.21
+SJE
+Skud forbi
+1:e
+26
+Rasmus BECH
+0
+5.50
+LTH
+Skud reddet
+VB
+26
+Jonathan WÜRTZ
+26
+Rasmus BECH
+6.51
+SJE
+Skud reddet
+PL
+11
+Kasper KISUM
+12
+Simon EGTVED
+8.06
+LTH
+Tilkendt straffe
+10
+Vilhelm POULSEN
+Forårs. str.
+18
+Morten BJØRNSHAUGE
+8.11
+1-0
+LTH
+Mål på straffe
+8
+Jeppe Gade NIELSEN
+12
+Kasper LARSEN
+8.50
+LTH
+Advarsel
+10
+Vilhelm POULSEN
+9.35
+SJE
+Skud reddet
+PL
+20
+August WIGER
+12
+Simon EGTVED
+10.25
+SJE
+Advarsel
+4
+Andreas LANG
+10.46
+LTH
+Skud på stolpe
+HB 10
+Vilhelm POULSEN
+26
+Rasmus BECH
+11.17
+SJE
+Skud forbi
+PL
+25
+Kristian STRANDEN
+12
+Simon EGTVED
+11.31
+SJE
+Advarsel
+18
+Morten BJØRNSHAUGE
+12.25
+2-0
+LTH
+Mål
+HF
+23
+Jesper KOKHOLM
+Assist
+10
+Vilhelm POULSEN
+26
+Rasmus BECH
+12.35
+SJE
+Time out
+12.51
+SJE
+Skud reddet
+HF
+24
+Sebastian AUGUSTINUSSEN
+12
+Simon EGTVED
+13.52
+LTH
+Fejlaflevering
+21
+Jorn SMITS
+14.17
+SJE
+Skud på stolpe
+VF
+67
+Tobias MØLLER
+12
+Simon EGTVED
+14.57
+LTH
+Skud forbi
+HB 21
+Jorn SMITS
+26
+Rasmus BECH
+15.40
+LTH
+Advarsel
+21
+Jorn SMITS
+15.58
+SJE
+Skud forbi
+PL
+11
+Kasper KISUM
+12
+Simon EGTVED
+16.32
+LTH
+Skud reddet
+PL
+21
+Jorn SMITS
+26
+Rasmus BECH
+17.17
+SJE
+Regelfejl
+23
+Tobias OLSEN
+17.59
+LTH
+Fejlaflevering
+32
+Christian HOLM
+Bold erobret 18
+Morten BJØRNSHAUGE
+18.00
+LTH
+Udvisning
+8
+Jeppe Gade NIELSEN
+18.00
+SJE
+Tilkendt straffe
+23
+Tobias OLSEN
+Forårs. str.
+8
+Jeppe Gade NIELSEN
+18.03
+2-1
+SJE
+Mål på straffe
+67
+Tobias MØLLER
+12
+Simon EGTVED
+19.03
+LTH
+Passivt spil
+0
+19.38
+2-2
+SJE
+Mål
+Gbr
+4
+Andreas LANG
+12
+Simon EGTVED
+20.05
+LTH
+Skud forbi
+ST
+6
+Jon KATBALLE
+26
+Rasmus BECH
+20.16
+SJE
+Skud reddet
+Gbr
+4
+Andreas LANG
+12
+Simon EGTVED
+20.16
+LTH
+Time out
+20.57
+LTH
+Tilkendt straffe
+10
+Vilhelm POULSEN
+Forårs. str.
+25
+Kristian STRANDEN
+21.02
+3-2
+LTH
+Mål på straffe
+8
+Jeppe Gade NIELSEN
+26
+Rasmus BECH
+22.02
+3-3
+SJE
+Mål
+ST
+14
+Jacob BAGERSTED
+Assist
+25
+Kristian STRANDEN
+12
+Simon EGTVED
+22.34
+LTH
+Skud reddet
+Gbr 11
+Thomas DAMGAARD
+26
+Rasmus BECH
+23.05
+3-4
+SJE
+Mål
+ST
+14
+Jacob BAGERSTED
+Assist
+4
+Andreas LANG
+12
+Simon EGTVED
+23.43
+LTH
+Tabt bold
+23
+Jesper KOKHOLM
+24.21
+SJE
+Skud forbi
+VB
+20
+August WIGER
+12
+Simon EGTVED
+24.44
+4-4
+LTH
+Mål
+Gbr 11
+Thomas DAMGAARD
+26
+Rasmus BECH
+25.18
+SJE
+Skud reddet
+VB
+25
+Kristian STRANDEN
+12
+Simon EGTVED
+25.29
+5-4
+LTH
+Mål
+Gbr 11
+Thomas DAMGAARD
+26
+Rasmus BECH
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - SønderjyskE Herrer   23 - 18  (9 - 6)
+457705 / 16-11-2022 / Arena Vestjylland Forsikring Lemvig / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.41
+LTH
+Udvisning
+9
+Nicolai PUGHOLM
+26.00
+5-5
+SJE
+Mål
+Gbr 25
+Kristian STRANDEN
+12
+Simon EGTVED
+26.29
+LTH
+Skud reddet
+ST
+7
+Niels LINDHOLT
+26
+Rasmus BECH
+26.37
+5-6
+SJE
+Mål
+2:e
+22
+Marius FERKINGSTAD
+12
+Simon EGTVED
+26.37
+LTH
+Advarsel
+A
+Dennis Bo JENSEN
+26.59
+6-6
+LTH
+Mål
+PL
+11
+Thomas DAMGAARD
+26
+Rasmus BECH
+27.07
+SJE
+Skud reddet
+2:e
+4
+Andreas LANG
+12
+Simon EGTVED
+27.40
+7-6
+LTH
+Mål
+VF
+22
+Jacob HESSELLUND
+Assist
+32
+Christian HOLM
+26
+Rasmus BECH
+28.37
+SJE
+Skud reddet
+VF
+67
+Tobias MØLLER
+12
+Simon EGTVED
+29.05
+8-6
+LTH
+Mål
+Gbr 32
+Christian HOLM
+Assist
+11
+Thomas DAMGAARD
+26
+Rasmus BECH
+29.56
+SJE
+Regelfejl
+24
+Sebastian AUGUSTINUSSEN
+30.00
+9-6
+LTH
+Mål
+2:e
+10
+Vilhelm POULSEN
+Assist
+26
+Jonathan WÜRTZ
+26
+Rasmus BECH
+30.00
+9-6
+Halvleg
+30.00
+Start 2:e halvleg
+30.44
+9-7
+SJE
+Mål
+Gbr 20
+August WIGER
+12
+Simon EGTVED
+30.51
+LTH
+Udvisning
+7
+Niels LINDHOLT
+31.27 10-7
+LTH
+Mål
+HF
+23
+Jesper KOKHOLM
+Assist
+10
+Vilhelm POULSEN
+26
+Rasmus BECH
+31.57
+SJE
+Skud reddet
+VF
+6
+Nikolaj SVALASTOG
+Retur
+14
+Jacob BAGERSTED
+12
+Simon EGTVED
+32.15 10-8
+SJE
+Mål
+HF
+24
+Sebastian AUGUSTINUSSEN Assist
+4
+Andreas LANG
+12
+Simon EGTVED
+32.49 11-8
+LTH
+Mål
+Gbr 32
+Christian HOLM
+26
+Rasmus BECH
+33.50 11-9
+SJE
+Mål
+VB
+11
+Kasper KISUM
+12
+Simon EGTVED
+34.23 12-9
+LTH
+Mål
+HF
+23
+Jesper KOKHOLM
+Assist
+11
+Thomas DAMGAARD
+26
+Rasmus BECH
+34.54 12-10 SJE
+Mål
+PL
+4
+Andreas LANG
+12
+Simon EGTVED
+35.51
+LTH
+Skud reddet
+PL
+32
+Christian HOLM
+26
+Rasmus BECH
+35.55
+LTH
+Udvisning
+7
+Niels LINDHOLT
+35.56 12-11 SJE
+Mål
+Gbr 11
+Kasper KISUM
+Assist
+20
+August WIGER
+12
+Simon EGTVED
+36.52 13-11 LTH
+Mål
+PL
+11
+Thomas DAMGAARD
+26
+Rasmus BECH
+37.12 13-12 SJE
+Mål
+PL
+20
+August WIGER
+12
+Simon EGTVED
+37.48 14-12 LTH
+Mål
+ST
+9
+Nicolai PUGHOLM
+Assist
+11
+Thomas DAMGAARD
+12
+Kasper LARSEN
+38.22
+SJE
+Fejlaflevering
+4
+Andreas LANG
+Bold erobret 23
+Jesper KOKHOLM
+39.15
+LTH
+Skud forbi
+PL
+10
+Vilhelm POULSEN
+12
+Kasper LARSEN
+39.28
+SJE
+Tabt bold
+24
+Sebastian AUGUSTINUSSEN
+40.11
+LTH
+Tabt bold
+9
+Nicolai PUGHOLM
+40.17
+SJE
+Regelfejl
+11
+Kasper KISUM
+41.12
+LTH
+Skud reddet
+HB
+6
+Jon KATBALLE
+12
+Kasper LARSEN
+41.29
+SJE
+Fejlaflevering
+4
+Andreas LANG
+41.32 15-12 LTH
+Mål
+1:e
+9
+Nicolai PUGHOLM
+Assist
+23
+Jesper KOKHOLM
+12
+Kasper LARSEN
+41.33
+SJE
+Time out
+41.59
+LTH
+Udvisning
+26
+Jonathan WÜRTZ
+42.12
+SJE
+Skud reddet
+Gbr
+4
+Andreas LANG
+Retur
+0
+12
+Simon EGTVED
+42.30 15-13 SJE
+Mål
+VF
+6
+Nikolaj SVALASTOG
+Assist
+11
+Kasper KISUM
+12
+Simon EGTVED
+43.42
+SJE
+Udvisning
+14
+Jacob BAGERSTED
+43.57
+SJE
+Udvisning
+6
+Nikolaj SVALASTOG
+44.10 16-13 LTH
+Mål
+HF
+23
+Jesper KOKHOLM
+Assist
+21
+Jorn SMITS
+12
+Kasper LARSEN
+44.49 16-14 SJE
+Mål
+ST
+67
+Tobias MØLLER
+Assist
+4
+Andreas LANG
+12
+Simon EGTVED
+45.16
+LTH
+Skud forbi
+Gbr 21
+Jorn SMITS
+12
+Kasper LARSEN
+46.08
+SJE
+Skud reddet
+PL
+4
+Andreas LANG
+12
+Simon EGTVED
+46.40
+LTH
+Skud reddet
+PL
+8
+Jeppe Gade NIELSEN
+12
+Kasper LARSEN
+47.17 16-15 SJE
+Mål
+Gbr 11
+Kasper KISUM
+12
+Simon EGTVED
+47.58
+SJE
+Udvisning
+14
+Jacob BAGERSTED
+48.35 17-15 LTH
+Mål
+ST
+9
+Nicolai PUGHOLM
+Assist
+32
+Christian HOLM
+12
+Kasper LARSEN
+49.16
+SJE
+Fejlaflevering
+4
+Andreas LANG
+Bold erobret 23
+Jesper KOKHOLM
+49.25 18-15 LTH
+Mål
+1:e
+23
+Jesper KOKHOLM
+0
+49.59
+SJE
+Skud forbi
+PL
+23
+Tobias OLSEN
+12
+Simon EGTVED
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - SønderjyskE Herrer   23 - 18  (9 - 6)
+457705 / 16-11-2022 / Arena Vestjylland Forsikring Lemvig / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+50.36
+LTH
+Skud forbi
+HB 10
+Vilhelm POULSEN
+12
+Kasper LARSEN
+51.15
+SJE
+Regelfejl
+20
+August WIGER
+51.19 19-15 LTH
+Mål
+1:e
+23
+Jesper KOKHOLM
+Assist
+9
+Nicolai PUGHOLM
+12
+Kasper LARSEN
+51.19
+SJE
+Time out
+51.44
+LTH
+Rødt kort, direkte
+26
+Jonathan WÜRTZ
+51.59
+SJE
+Skud på stolpe
+HF
+5
+Kenneth Bach HANSEN
+12
+Simon EGTVED
+52.52
+LTH
+Fejlaflevering
+11
+Thomas DAMGAARD
+53.11
+SJE
+Skud reddet
+VF
+67
+Tobias MØLLER
+Retur
+14
+Jacob BAGERSTED
+12
+Simon EGTVED
+53.20
+SJE
+Skud reddet
+ST
+14
+Jacob BAGERSTED
+12
+Simon EGTVED
+53.30
+LTH
+Time out
+53.47
+LTH
+Fejlaflevering
+23
+Jesper KOKHOLM
+54.16 19-16 SJE
+Mål
+PL
+4
+Andreas LANG
+12
+Simon EGTVED
+54.48 20-16 LTH
+Mål
+Gbr 21
+Jorn SMITS
+12
+Kasper LARSEN
+55.00
+SJE
+Skud reddet
+Gbr
+4
+Andreas LANG
+12
+Simon EGTVED
+55.32 21-16 LTH
+Mål
+HF
+23
+Jesper KOKHOLM
+Assist
+11
+Thomas DAMGAARD
+12
+Kasper LARSEN
+55.42
+SJE
+Regelfejl
+6
+Nikolaj SVALASTOG
+56.10 22-16 LTH
+Mål
+Gbr 21
+Jorn SMITS
+12
+Kasper LARSEN
+56.48 22-17 SJE
+Mål
+PL
+20
+August WIGER
+12
+Simon EGTVED
+57.18 23-17 LTH
+Mål
+Gbr 10
+Vilhelm POULSEN
+12
+Kasper LARSEN
+57.50
+SJE
+Tabt bold
+25
+Kristian STRANDEN
+Bold erobret 10
+Vilhelm POULSEN
+59.00
+LTH
+Skud reddet
+Gbr 21
+Jorn SMITS
+12
+Kasper LARSEN
+59.08 23-18 SJE
+Mål
+VB
+25
+Kristian STRANDEN
+Assist
+4
+Andreas LANG
+12
+Simon EGTVED
+60.00 23-18
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Johnny Henningsen, Lars Visholm,

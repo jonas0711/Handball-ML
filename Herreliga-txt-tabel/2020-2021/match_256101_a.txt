@@ -1,0 +1,903 @@
+KAMPHÆNDELSER
+Skjern Håndbold - Ribe-Esbjerg HH   34 - 31  (16 - 14)
+256101 / 27-3-2021 / Skjern Bank Arena bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.35
+SKH Tilkendt straffe
+18
+Bjarte MYRHOL
+Forårs. str.
+3
+Besard HAKAJ
+0.47
+1-0
+SKH Mål på straffe
+10
+Jesper KONRADSSON
+1
+René VILLADSEN
+1.47
+1-1
+REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+7
+Jonas LARHOLM
+12
+Robin HAUG
+2.31
+2-1
+SKH Mål
+ST
+18
+Bjarte MYRHOL
+Assist
+10
+Jesper KONRADSSON
+1
+René VILLADSEN
+3.04
+2-2
+REH Mål
+PL
+5
+Runar KARASON
+12
+Robin HAUG
+3.57
+SKH Skud reddet
+PL
+25
+Eivind TANGEN
+1
+René VILLADSEN
+4.29
+REH Fejlaflevering
+10
+Daniel INGASON
+5.04
+SKH Skud reddet
+ST
+18
+Bjarte MYRHOL
+1
+René VILLADSEN
+6.03
+REH Skud reddet
+HB
+5
+Runar KARASON
+12
+Robin HAUG
+6.14
+3-2
+SKH Mål
+2:e
+10
+Jesper KONRADSSON
+1
+René VILLADSEN
+6.42
+3-3
+REH Mål
+VF
+34
+Kasper KVIST
+Assist
+7
+Jonas LARHOLM
+12
+Robin HAUG
+6.51
+REH Udvisning
+21
+Miha ZVIZEJ
+7.05
+4-3
+SKH Mål
+PL
+11
+Jonathan STENBÄCKEN
+1
+René VILLADSEN
+8.07
+REH Skud reddet
+PL
+5
+Runar KARASON
+12
+Robin HAUG
+8.34
+SKH Regelfejl
+18
+Bjarte MYRHOL
+9.13
+REH Fejlaflevering
+10
+Daniel INGASON
+9.51
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+10.43
+REH Skud reddet
+Gbr
+5
+Runar KARASON
+12
+Robin HAUG
+11.21
+5-3
+SKH Mål
+PL
+25
+Eivind TANGEN
+1
+René VILLADSEN
+11.49
+REH Tilkendt straffe
+10
+Daniel INGASON
+Forårs. str.
+25
+Eivind TANGEN
+12.12
+5-4
+REH Mål på straffe
+11
+Mathias JØRGENSEN
+12
+Robin HAUG
+12.52
+SKH Skud reddet
+HB 10
+Jesper KONRADSSON
+1
+René VILLADSEN
+13.05
+5-5
+REH Mål
+ST
+11
+Mathias JØRGENSEN
+Assist
+7
+Jonas LARHOLM
+12
+Robin HAUG
+13.36
+SKH Skud reddet
+PL
+9
+Elvar Örn JÓNSSON
+1
+René VILLADSEN
+14.14
+REH Regelfejl
+7
+Jonas LARHOLM
+14.22
+6-5
+SKH Mål
+2:e
+18
+Bjarte MYRHOL
+Assist
+25
+Eivind TANGEN
+1
+René VILLADSEN
+14.37
+SKH Advarsel
+18
+Bjarte MYRHOL
+15.05
+6-6
+REH Mål
+HB
+7
+Jonas LARHOLM
+12
+Robin HAUG
+15.13
+7-6
+SKH Mål
+2:e
+25
+Eivind TANGEN
+1
+René VILLADSEN
+16.11
+REH Fejlaflevering
+10
+Daniel INGASON
+16.13
+8-6
+SKH Mål
+1:e
+18
+Bjarte MYRHOL
+Assist
+21
+René RASMUSSEN
+1
+René VILLADSEN
+16.13
+REH Time out
+16.42
+8-7
+REH Mål
+HF
+11
+Mathias JØRGENSEN
+Assist
+5
+Runar KARASON
+12
+Robin HAUG
+17.25
+REH Advarsel
+B
+Kristian Boldrup KRISTENSEN
+17.41
+9-7
+SKH Mål
+PL
+26
+Jonathan WÜRTZ
+1
+René VILLADSEN
+17.58
+REH Tilkendt straffe
+21
+Miha ZVIZEJ
+Forårs. str.
+25
+Eivind TANGEN
+18.11
+9-8
+REH Mål på straffe
+11
+Mathias JØRGENSEN
+12
+Robin HAUG
+18.56
+SKH Skud reddet
+PL
+10
+Jesper KONRADSSON
+1
+René VILLADSEN
+20.05
+9-9
+REH Mål
+HF
+11
+Mathias JØRGENSEN
+Assist
+5
+Runar KARASON
+12
+Robin HAUG
+20.39 10-9
+SKH Mål
+Gbr 25
+Eivind TANGEN
+1
+René VILLADSEN
+21.09 10-10 REH Mål
+VF
+34
+Kasper KVIST
+Assist
+7
+Jonas LARHOLM
+12
+Robin HAUG
+21.24 11-10 SKH Mål
+PL
+26
+Jonathan WÜRTZ
+1
+René VILLADSEN
+21.59
+REH Fejlaflevering
+5
+Runar KARASON
+22.04
+SKH Skud forbi
+1:e
+6
+Jonas TIDEMAND
+0
+22.35 11-11 REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+7
+Jonas LARHOLM
+12
+Robin HAUG
+23.21 12-11 SKH Mål
+VF
+23
+Jørgen RASMUSSEN
+Assist
+25
+Eivind TANGEN
+1
+René VILLADSEN
+23.47 12-12 REH Mål
+Gbr
+5
+Runar KARASON
+12
+Robin HAUG
+23.54 13-12 SKH Mål
+2:e
+11
+Jonathan STENBÄCKEN
+1
+René VILLADSEN
+24.29 13-13 REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+7
+Jonas LARHOLM
+12
+Robin HAUG
+25.08
+SKH Regelfejl
+26
+Jonathan WÜRTZ
+25.33
+REH Skud reddet
+HF
+11
+Mathias JØRGENSEN
+30
+Svend RUGHAVE
+25.45 14-13 SKH Mål
+2:e
+6
+Jonas TIDEMAND
+Assist
+11
+Jonathan STENBÄCKEN
+1
+René VILLADSEN
+26.19
+REH Skud forbi
+Gbr
+5
+Runar KARASON
+30
+Svend RUGHAVE
+26.30 15-13 SKH Mål
+2:e
+26
+Jonathan WÜRTZ
+1
+René VILLADSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skjern Håndbold - Ribe-Esbjerg HH   34 - 31  (16 - 14)
+256101 / 27-3-2021 / Skjern Bank Arena bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+27.50
+REH Skud reddet
+HB
+5
+Runar KARASON
+30
+Svend RUGHAVE
+28.00 16-13 SKH Mål
+2:e
+10
+Jesper KONRADSSON
+Assist
+25
+Eivind TANGEN
+1
+René VILLADSEN
+28.40
+REH Skud forbi
+Gbr 34
+Kasper KVIST
+30
+Svend RUGHAVE
+29.01
+SKH Time out
+29.09
+SKH Skud på stolpe
+PL
+25
+Eivind TANGEN
+1
+René VILLADSEN
+29.15 16-14 REH Mål
+1:e
+34
+Kasper KVIST
+30
+Svend RUGHAVE
+29.55
+SKH Skud reddet
+HB 26
+Jonathan WÜRTZ
+1
+René VILLADSEN
+30.00 16-14
+Halvleg
+30.24
+REH Tabt bold
+10
+Daniel INGASON
+30.54
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+30.59 16-15 REH Mål
+1:e
+7
+Jonas LARHOLM
+Assist
+21
+Miha ZVIZEJ
+30
+Svend RUGHAVE
+31.08 17-15 SKH Mål
+2:e
+18
+Bjarte MYRHOL
+Assist
+9
+Elvar Örn JÓNSSON
+12
+Søren RASMUSSEN
+31.46 17-16 REH Mål
+Gbr 10
+Daniel INGASON
+30
+Svend RUGHAVE
+32.23
+SKH Skud reddet
+VB
+9
+Elvar Örn JÓNSSON
+Retur
+0
+12
+Søren RASMUSSEN
+32.30 18-16 SKH Mål
+ST
+18
+Bjarte MYRHOL
+12
+Søren RASMUSSEN
+33.25 18-17 REH Mål
+Gbr
+7
+Jonas LARHOLM
+30
+Svend RUGHAVE
+33.34 19-17 SKH Mål
+2:e
+10
+Jesper KONRADSSON
+12
+Søren RASMUSSEN
+33.43
+REH Time out
+34.32 19-18 REH Mål
+Gbr
+5
+Runar KARASON
+30
+Svend RUGHAVE
+34.40
+SKH Tilkendt straffe
+10
+Jesper KONRADSSON
+Forårs. str.
+5
+Runar KARASON
+34.54 20-18 SKH Mål på straffe
+26
+Jonathan WÜRTZ
+1
+René VILLADSEN
+35.24 20-19 REH Mål
+HB
+5
+Runar KARASON
+30
+Svend RUGHAVE
+35.36 21-19 SKH Mål
+Gbr 10
+Jesper KONRADSSON
+12
+Søren RASMUSSEN
+36.37
+REH Regelfejl
+7
+Jonas LARHOLM
+36.39
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+Bold erobret 10
+Daniel INGASON
+37.30
+REH Fejlaflevering
+7
+Jonas LARHOLM
+37.35
+REH Udvisning
+7
+Jonas LARHOLM
+37.52 22-19 SKH Mål
+PL
+11
+Jonathan STENBÄCKEN
+12
+Søren RASMUSSEN
+38.47
+REH Tilkendt straffe
+3
+Besard HAKAJ
+Forårs. str.
+10
+Jesper KONRADSSON
+38.47
+SKH Udvisning
+10
+Jesper KONRADSSON
+38.49 22-20 REH Mål på straffe
+11
+Mathias JØRGENSEN
+12
+Robin HAUG
+39.18 23-20 SKH Mål
+ST
+18
+Bjarte MYRHOL
+12
+Søren RASMUSSEN
+39.45
+REH Skud reddet
+Gbr
+5
+Runar KARASON
+12
+Robin HAUG
+40.14 24-20 SKH Mål
+ST
+18
+Bjarte MYRHOL
+Assist
+25
+Eivind TANGEN
+1
+René VILLADSEN
+41.10
+REH Tilkendt straffe
+10
+Daniel INGASON
+Forårs. str.
+21
+René RASMUSSEN
+41.30
+REH Straffekast på stolpe
+11
+Mathias JØRGENSEN
+30
+Svend RUGHAVE
+42.05
+SKH Skud blokeret
+PL
+9
+Elvar Örn JÓNSSON
+Blok af (ret)
+3
+Besard HAKAJ
+42.51 25-20 SKH Mål
+VB
+9
+Elvar Örn JÓNSSON
+1
+René VILLADSEN
+43.26 25-21 REH Mål
+Gbr
+5
+Runar KARASON
+12
+Robin HAUG
+44.09
+SKH Regelfejl
+10
+Jesper KONRADSSON
+44.17
+REH Skud på stolpe
+2:e
+10
+Daniel INGASON
+Retur
+0
+12
+Robin HAUG
+44.25 25-22 REH Mål
+ST
+21
+Miha ZVIZEJ
+12
+Robin HAUG
+44.46 26-22 SKH Mål
+PL
+25
+Eivind TANGEN
+1
+René VILLADSEN
+45.14
+REH Tilkendt straffe
+3
+Besard HAKAJ
+Forårs. str.
+11
+Jonathan STENBÄCKEN
+45.41 26-23 REH Mål på straffe
+7
+Jonas LARHOLM
+30
+Svend RUGHAVE
+46.14 27-23 SKH Mål
+VF
+23
+Jørgen RASMUSSEN
+Assist
+9
+Elvar Örn JÓNSSON
+1
+René VILLADSEN
+46.41
+REH Time out
+46.54
+REH Fejlaflevering
+7
+Jonas LARHOLM
+47.02 28-23 SKH Mål
+1:e
+18
+Bjarte MYRHOL
+0
+47.27
+REH Skud reddet
+PL
+7
+Jonas LARHOLM
+12
+Robin HAUG
+47.59
+SKH Skud forbi
+HB
+9
+Elvar Örn JÓNSSON
+1
+René VILLADSEN
+48.23 28-24 REH Mål
+Gbr
+5
+Runar KARASON
+12
+Robin HAUG
+48.33
+SKH Regelfejl
+11
+Jonathan STENBÄCKEN
+48.39
+REH Skud reddet
+2:e
+5
+Runar KARASON
+12
+Robin HAUG
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skjern Håndbold - Ribe-Esbjerg HH   34 - 31  (16 - 14)
+256101 / 27-3-2021 / Skjern Bank Arena bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+49.29 29-24 SKH Mål
+Gbr
+9
+Elvar Örn JÓNSSON
+1
+René VILLADSEN
+49.45
+SKH Udvisning
+18
+Bjarte MYRHOL
+50.12
+REH Skud forbi
+HF
+11
+Mathias JØRGENSEN
+12
+Robin HAUG
+51.01 30-24 SKH Mål
+Gbr
+9
+Elvar Örn JÓNSSON
+1
+René VILLADSEN
+51.07 30-25 REH Mål
+2:e
+21
+Miha ZVIZEJ
+0
+51.37 31-25 SKH Mål
+PL
+25
+Eivind TANGEN
+1
+René VILLADSEN
+52.16
+REH Tilkendt straffe
+21
+Miha ZVIZEJ
+Forårs. str.
+9
+Elvar Örn JÓNSSON
+52.29 31-26 REH Mål på straffe
+7
+Jonas LARHOLM
+12
+Robin HAUG
+52.59
+SKH Skud reddet
+Gbr
+6
+Jonas TIDEMAND
+Retur
+0
+1
+René VILLADSEN
+53.29
+SKH Time out
+53.31
+SKH Skud forbi
+VB
+25
+Eivind TANGEN
+1
+René VILLADSEN
+53.38 31-27 REH Mål
+1:e
+7
+Jonas LARHOLM
+12
+Robin HAUG
+54.09 32-27 SKH Mål
+VF
+23
+Jørgen RASMUSSEN
+Assist
+25
+Eivind TANGEN
+1
+René VILLADSEN
+54.34 32-28 REH Mål
+ST
+3
+Besard HAKAJ
+Assist
+7
+Jonas LARHOLM
+12
+Robin HAUG
+55.08
+SKH Tabt bold
+23
+Jørgen RASMUSSEN
+55.39
+REH Skud på stolpe
+HF
+2
+Magnus SØNDENÅ
+12
+Robin HAUG
+56.14
+SKH Regelfejl
+10
+Jesper KONRADSSON
+56.35
+REH Fejlaflevering
+7
+Jonas LARHOLM
+56.39 33-28 SKH Mål
+1:e
+23
+Jørgen RASMUSSEN
+Assist
+12
+Robin HAUG
+0
+57.02 33-29 REH Mål
+VF
+31
+Morten JØRGENSEN
+Assist
+10
+Daniel INGASON
+12
+Robin HAUG
+58.01
+SKH Regelfejl
+9
+Elvar Örn JÓNSSON
+58.19 33-30 REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+5
+Runar KARASON
+12
+Robin HAUG
+59.16 34-30 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+10
+Jesper KONRADSSON
+1
+René VILLADSEN
+59.42 34-31 REH Mål
+VF
+31
+Morten JØRGENSEN
+Assist
+10
+Daniel INGASON
+12
+Robin HAUG
+60.00 34-31
+Fuld tid
+Software: Jilsén System AB. Logget af: Lars Johannessen, Thomas Knudsen,

@@ -1,0 +1,905 @@
+KAMPHÆNDELSER
+TTH Holstebro - Mors-Thy Håndbold   22 - 24  (10 - 15)
+559151 / 20-4-2023 / Gråkjær Arena Holstebro / HTH Herreligaen - Kvalifikation puljespil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.26
+TTH
+Skud forbi
+PL
+14
+Nikolaj ENDERLEIT
+30
+Svend RUGHAVE
+1.15
+MTH Skud reddet
+PL
+9
+Nicolaj SPANGGAARD
+12
+Josip CAVAR
+1.22
+TTH
+Fejlaflevering
+14
+Nikolaj ENDERLEIT
+1.51
+0-1
+MTH Mål
+PL
+10
+Mads Svane KNUDSEN
+12
+Josip CAVAR
+2.01
+1-1
+TTH
+Mål
+PL
+18
+Frederik TILSTED
+30
+Svend RUGHAVE
+2.38
+1-2
+MTH Mål
+PL
+10
+Mads Svane KNUDSEN
+12
+Josip CAVAR
+3.05
+TTH
+Skud på stolpe
+PL
+18
+Frederik TILSTED
+30
+Svend RUGHAVE
+3.15
+MTH Regelfejl
+10
+Mads Svane KNUDSEN
+4.45
+2-2
+TTH
+Mål
+PL
+22
+Nikolaj MARKUSSEN
+30
+Svend RUGHAVE
+5.15
+MTH Fejlaflevering
+9
+Nicolaj SPANGGAARD
+5.27
+TTH
+Regelfejl
+25
+Jonas PORUP
+5.34
+MTH Tabt bold
+6
+Mads THYMANN
+6.08
+TTH
+Fejlaflevering
+14
+Nikolaj ENDERLEIT
+6.20
+2-3
+MTH Mål
+HF
+11
+Lasse PEDERSEN
+Assist
+9
+Nicolaj SPANGGAARD
+12
+Josip CAVAR
+6.33
+3-3
+TTH
+Mål
+ST
+23
+Miha ZVIZEJ
+Assist
+14
+Nikolaj ENDERLEIT
+30
+Svend RUGHAVE
+7.06
+MTH Fejlaflevering
+6
+Mads THYMANN
+7.49
+TTH
+Fejlaflevering
+22
+Nikolaj MARKUSSEN
+8.24
+MTH Fejlaflevering
+10
+Mads Svane KNUDSEN
+8.29
+4-3
+TTH
+Mål
+1:e
+10
+Magnus BRAMMING
+Assist
+14
+Nikolaj ENDERLEIT
+30
+Svend RUGHAVE
+9.28
+MTH Skud på stolpe
+ST
+13
+Andreas NIELSEN
+12
+Josip CAVAR
+9.38
+TTH
+Skud på stolpe
+2:e
+19
+Rasmus KIER
+30
+Svend RUGHAVE
+10.29
+MTH Skud blokeret
+PL
+9
+Nicolaj SPANGGAARD
+Blok af (ret)
+25
+Jonas PORUP
+10.50
+MTH Regelfejl
+10
+Mads Svane KNUDSEN
+11.03
+5-3
+TTH
+Mål
+ST
+23
+Miha ZVIZEJ
+Assist
+18
+Frederik TILSTED
+30
+Svend RUGHAVE
+11.37
+5-4
+MTH Mål
+ST
+66
+Frederik BJERRE
+Assist
+27
+Oscar VON OETTINGEN
+12
+Josip CAVAR
+12.10
+TTH
+Skud reddet
+Gbr 14
+Nikolaj ENDERLEIT
+30
+Svend RUGHAVE
+12.44
+MTH Fejlaflevering
+6
+Mads THYMANN
+12.55
+TTH
+Skud reddet
+VF
+10
+Magnus BRAMMING
+30
+Svend RUGHAVE
+13.40
+MTH Skud på stolpe
+PL
+10
+Mads Svane KNUDSEN
+12
+Josip CAVAR
+14.30
+6-4
+TTH
+Mål
+Gbr 14
+Nikolaj ENDERLEIT
+Assist
+18
+Frederik TILSTED
+30
+Svend RUGHAVE
+15.01
+6-5
+MTH Mål
+PL
+6
+Mads THYMANN
+12
+Josip CAVAR
+15.54
+TTH
+Passivt spil
+0
+16.28
+6-6
+MTH Mål
+Gbr 27
+Oscar VON OETTINGEN
+12
+Josip CAVAR
+17.15
+TTH
+Fejlaflevering
+18
+Frederik TILSTED
+17.22
+6-7
+MTH Mål
+2:e
+10
+Mads Svane KNUDSEN
+Assist
+23
+Marcus MIDTGAARD
+12
+Josip CAVAR
+18.35
+TTH
+Tilkendt straffe
+18
+Frederik TILSTED
+Forårs. str.
+6
+Mads THYMANN
+18.35
+MTH Udvisning
+6
+Mads THYMANN
+18.39
+TTH
+Straffekast forbi
+10
+Magnus BRAMMING
+30
+Svend RUGHAVE
+19.33
+TTH
+Udvisning
+26
+Mathias SMED
+19.42
+6-8
+MTH Mål
+PL
+10
+Mads Svane KNUDSEN
+12
+Josip CAVAR
+20.25
+TTH
+Skud reddet
+HF
+19
+Rasmus KIER
+30
+Svend RUGHAVE
+20.52
+6-9
+MTH Mål
+Gbr 23
+Marcus MIDTGAARD
+12
+Josip CAVAR
+21.24
+TTH
+Skud reddet
+PL
+22
+Nikolaj MARKUSSEN
+30
+Svend RUGHAVE
+22.07
+MTH Skud reddet
+Gbr 23
+Marcus MIDTGAARD
+12
+Josip CAVAR
+22.19
+7-9
+TTH
+Mål
+Gbr 18
+Frederik TILSTED
+Assist
+14
+Nikolaj ENDERLEIT
+30
+Svend RUGHAVE
+22.55
+7-10
+MTH Mål
+VB
+23
+Marcus MIDTGAARD
+12
+Josip CAVAR
+23.06
+TTH
+Time out
+23.27
+TTH
+Fejlaflevering
+14
+Nikolaj ENDERLEIT
+Bold erobret 23
+Marcus MIDTGAARD
+23.33
+7-11
+MTH Mål
+1:e
+66
+Frederik BJERRE
+Assist
+23
+Marcus MIDTGAARD
+16
+Sander Drange HEIEREN
+23.47
+TTH
+Skud på stolpe
+Gbr
+8
+Emil JENSEN
+30
+Svend RUGHAVE
+23.58
+7-12
+MTH Mål
+2:e
+23
+Marcus MIDTGAARD
+16
+Sander Drange HEIEREN
+24.36
+8-12
+TTH
+Mål
+VB
+8
+Emil JENSEN
+30
+Svend RUGHAVE
+25.06
+MTH Fejlaflevering
+10
+Mads Svane KNUDSEN
+Bold erobret
+9
+Dan BECK-HANSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+TTH Holstebro - Mors-Thy Håndbold   22 - 24  (10 - 15)
+559151 / 20-4-2023 / Gråkjær Arena Holstebro / HTH Herreligaen - Kvalifikation puljespil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.11
+9-12
+TTH
+Mål
+1:e
+6
+Simon JENSEN
+Assist
+9
+Dan BECK-HANSEN
+30
+Svend RUGHAVE
+25.46
+MTH Tilkendt straffe
+27
+Oscar VON OETTINGEN
+Forårs. str.
+6
+Simon JENSEN
+26.05
+9-13
+MTH Mål på straffe
+11
+Lasse PEDERSEN
+16
+Sander Drange HEIEREN
+26.40
+TTH
+Skud reddet
+HF
+17
+Christian JENSEN
+30
+Svend RUGHAVE
+27.16
+MTH Tilkendt straffe
+23
+Marcus MIDTGAARD
+Forårs. str.
+14
+Nikolaj ENDERLEIT
+27.32
+9-14
+MTH Mål på straffe
+11
+Lasse PEDERSEN
+16
+Sander Drange HEIEREN
+28.13
+TTH
+Fejlaflevering
+14
+Nikolaj ENDERLEIT
+29.19
+9-15
+MTH Mål
+PL
+11
+Lasse PEDERSEN
+16
+Sander Drange HEIEREN
+29.43
+TTH
+Regelfejl
+8
+Emil JENSEN
+29.49
+MTH Fejlaflevering
+3
+Allan Toft HANSEN
+30.00 10-15 TTH
+Mål
+PL
+14
+Nikolaj ENDERLEIT
+30
+Svend RUGHAVE
+30.00 10-15
+Halvleg
+30.00
+Start 2:e halvleg
+30.32
+MTH Regelfejl
+10
+Mads Svane KNUDSEN
+30.38 11-15 TTH
+Mål
+1:e
+9
+Dan BECK-HANSEN
+30
+Svend RUGHAVE
+31.07
+MTH Skud forbi
+PL
+9
+Nicolaj SPANGGAARD
+16
+Sander Drange HEIEREN
+32.09
+TTH
+Skud blokeret
+PL
+18
+Frederik TILSTED
+Blokeret af
+13
+Andreas NIELSEN
+32.34
+MTH Skud reddet
+PL
+10
+Mads Svane KNUDSEN
+16
+Sander Drange HEIEREN
+33.04
+TTH
+Skud på stolpe
+Gbr 18
+Frederik TILSTED
+30
+Svend RUGHAVE
+33.09
+MTH Skud forbi
+1:e
+10
+Mads Svane KNUDSEN
+0
+33.32
+TTH
+Fejlaflevering
+22
+Nikolaj MARKUSSEN
+33.42
+MTH Skud reddet
+2:e
+6
+Mads THYMANN
+16
+Sander Drange HEIEREN
+34.26
+TTH
+Skud reddet
+Gbr 14
+Nikolaj ENDERLEIT
+30
+Svend RUGHAVE
+34.34 11-16 MTH Mål
+2:e
+66
+Frederik BJERRE
+Assist
+10
+Mads Svane KNUDSEN
+16
+Sander Drange HEIEREN
+35.21 12-16 TTH
+Mål
+Gbr 18
+Frederik TILSTED
+30
+Svend RUGHAVE
+36.12
+MTH Skud reddet
+PL
+9
+Nicolaj SPANGGAARD
+Retur
+0
+16
+Sander Drange HEIEREN
+36.45
+MTH Regelfejl
+10
+Mads Svane KNUDSEN
+36.53 13-16 TTH
+Mål
+1:e
+6
+Simon JENSEN
+Assist
+18
+Frederik TILSTED
+30
+Svend RUGHAVE
+37.30 13-17 MTH Mål
+Gbr
+9
+Nicolaj SPANGGAARD
+16
+Sander Drange HEIEREN
+37.37
+TTH
+Regelfejl
+18
+Frederik TILSTED
+38.15 13-18 MTH Mål
+Gbr
+9
+Nicolaj SPANGGAARD
+16
+Sander Drange HEIEREN
+39.16
+TTH
+Regelfejl
+22
+Nikolaj MARKUSSEN
+40.31
+MTH Skud reddet
+VB
+6
+Mads THYMANN
+Retur
+0
+16
+Sander Drange HEIEREN
+40.58 13-19 MTH Mål
+Gbr 23
+Marcus MIDTGAARD
+16
+Sander Drange HEIEREN
+41.32 14-19 TTH
+Mål
+PL
+22
+Nikolaj MARKUSSEN
+30
+Svend RUGHAVE
+42.26
+TTH
+Udvisning
+14
+Nikolaj ENDERLEIT
+42.42 14-20 MTH Mål
+Gbr 23
+Marcus MIDTGAARD
+16
+Sander Drange HEIEREN
+43.36
+TTH
+Skud på stolpe
+HB 21
+Jonas Gade NIELSEN
+Retur
+0
+30
+Svend RUGHAVE
+43.45 15-20 TTH
+Mål
+ST
+22
+Nikolaj MARKUSSEN
+30
+Svend RUGHAVE
+44.04 15-21 MTH Mål
+VF
+66
+Frederik BJERRE
+Assist
+10
+Mads Svane KNUDSEN
+16
+Sander Drange HEIEREN
+44.51
+TTH
+Skud reddet
+HF
+17
+Christian JENSEN
+30
+Svend RUGHAVE
+45.30 15-22 MTH Mål
+VB
+66
+Frederik BJERRE
+16
+Sander Drange HEIEREN
+45.40
+TTH
+Time out
+46.18 16-22 TTH
+Mål
+PL
+18
+Frederik TILSTED
+30
+Svend RUGHAVE
+46.56
+MTH Skud reddet
+PL
+23
+Marcus MIDTGAARD
+12
+Josip CAVAR
+47.33 17-22 TTH
+Mål
+HB 14
+Nikolaj ENDERLEIT
+30
+Svend RUGHAVE
+48.05
+MTH Skud reddet
+Gbr 23
+Marcus MIDTGAARD
+12
+Josip CAVAR
+48.38
+MTH Udvisning
+13
+Andreas NIELSEN
+48.48
+TTH
+Skud reddet
+PL
+14
+Nikolaj ENDERLEIT
+30
+Svend RUGHAVE
+49.25
+MTH Skud reddet
+Gbr 23
+Marcus MIDTGAARD
+Retur
+0
+12
+Josip CAVAR
+49.42
+MTH Fejlaflevering
+6
+Mads THYMANN
+Bold erobret 26
+Mathias SMED
+49.49 18-22 TTH
+Mål
+1:e
+26
+Mathias SMED
+0
+50.35
+MTH Tilkendt straffe
+23
+Marcus MIDTGAARD
+Forårs. str.
+14
+Nikolaj ENDERLEIT
+50.37
+MTH Straffekast reddet
+11
+Lasse PEDERSEN
+12
+Josip CAVAR
+
+--- Side 3 ---
+KAMPHÆNDELSER
+TTH Holstebro - Mors-Thy Håndbold   22 - 24  (10 - 15)
+559151 / 20-4-2023 / Gråkjær Arena Holstebro / HTH Herreligaen - Kvalifikation puljespil
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+51.17
+TTH
+Regelfejl
+9
+Dan BECK-HANSEN
+52.12
+MTH Regelfejl
+23
+Marcus MIDTGAARD
+52.12
+TTH
+Udvisning
+26
+Mathias SMED
+52.52
+TTH
+Tilkendt straffe
+9
+Dan BECK-HANSEN
+Forårs. str.
+23
+Marcus MIDTGAARD
+52.58 19-22 TTH
+Mål på straffe
+24
+Johan MEKLENBORG
+30
+Svend RUGHAVE
+53.26 19-23 MTH Mål
+PL
+10
+Mads Svane KNUDSEN
+12
+Josip CAVAR
+54.08 20-23 TTH
+Mål
+HB 14
+Nikolaj ENDERLEIT
+Assist
+18
+Frederik TILSTED
+30
+Svend RUGHAVE
+54.44
+MTH Time out
+54.59
+MTH Tabt bold
+10
+Mads Svane KNUDSEN
+55.10
+TTH
+Skud på stolpe
+2:e
+18
+Frederik TILSTED
+30
+Svend RUGHAVE
+56.15
+MTH Passivt spil
+0
+57.04
+TTH
+Skud forbi
+PL
+14
+Nikolaj ENDERLEIT
+30
+Svend RUGHAVE
+58.05
+MTH Skud blokeret
+PL
+10
+Mads Svane KNUDSEN
+Blokeret af
+21
+Jonas Gade NIELSEN
+58.13
+TTH
+Time out
+58.28 21-23 TTH
+Mål
+Gbr
+8
+Emil JENSEN
+30
+Svend RUGHAVE
+59.17
+MTH Skud blokeret
+PL
+10
+Mads Svane KNUDSEN
+Blok af (ret)
+9
+Dan BECK-HANSEN
+59.20
+MTH Skud reddet
+HB 10
+Mads Svane KNUDSEN
+12
+Josip CAVAR
+59.29 22-23 TTH
+Mål
+2:e
+8
+Emil JENSEN
+30
+Svend RUGHAVE
+59.47
+MTH Time out
+59.55 22-24 MTH Mål
+Gbr 10
+Mads Svane KNUDSEN
+12
+Josip CAVAR
+60.00 22-24
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Eva Rebbe, Torben Visholm,

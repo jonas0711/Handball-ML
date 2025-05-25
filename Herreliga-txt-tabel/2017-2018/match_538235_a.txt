@@ -1,0 +1,890 @@
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - Aalborg Håndbold   23 - 25  (8 - 12)
+538235 / 28-2-2018 / Blue Water Dokken / 888ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+1.13
+AAH Skud reddet
+HF
+7
+Martin LARSEN
+16
+Rasmus Schmidt LIND
+1.51
+1-0
+REH Mål
+PL
+31
+Morten NYBERG
+16
+Mikael AGGEFORS
+2.27
+1-1
+AAH Mål
+PL
+17
+Tobias ELLEBÆK
+Assist
+18
+Lovro JOTIC
+16
+Rasmus Schmidt LIND
+3.16
+2-1
+REH Mål
+PL
+31
+Morten NYBERG
+16
+Mikael AGGEFORS
+3.38
+REH Advarsel
+9
+Søren Tau SØRENSEN
+4.26
+AAH Skud reddet
+VB
+18
+Lovro JOTIC
+16
+Rasmus Schmidt LIND
+5.16
+REH Skud reddet
+ST
+23
+Pelle Schilling GULDAGER
+16
+Mikael AGGEFORS
+5.27
+AAH Fejlaflev
+23
+Buster JUUL
+5.36
+REH Skud reddet
+PL
+10
+Jacob HOLM
+16
+Mikael AGGEFORS
+6.14
+2-2
+AAH Mål
+Gbr 17
+Tobias ELLEBÆK
+16
+Rasmus Schmidt LIND
+6.30
+REH Fejlaflev
+6
+Lukas KARLSSON
+6.36
+AAH Regelfejl
+17
+Tobias ELLEBÆK
+7.10
+REH Regelfejl
+21
+Miha ZVIZEJ
+7.46
+AAH Skud reddet
+HB
+7
+Martin LARSEN
+16
+Rasmus Schmidt LIND
+7.52
+REH Fejlaflev
+16
+Rasmus Schmidt LIND
+8.29
+AAH Skud på stolpe
+PL
+18
+Lovro JOTIC
+16
+Rasmus Schmidt LIND
+9.03
+REH Fejlaflev
+31
+Morten NYBERG
+10.01
+REH Advarsel
+21
+Miha ZVIZEJ
+10.19
+2-3
+AAH Mål
+VB
+17
+Tobias ELLEBÆK
+16
+Rasmus Schmidt LIND
+11.01
+3-3
+REH Mål
+HB 10
+Jacob HOLM
+16
+Mikael AGGEFORS
+11.09
+REH Udvisning
+21
+Miha ZVIZEJ
+11.24
+AAH Skud reddet
+VB
+19
+Arnor ATLASON
+16
+Rasmus Schmidt LIND
+12.09
+REH Regelfejl
+6
+Lukas KARLSSON
+12.26
+3-4
+AAH Mål
+VB
+17
+Tobias ELLEBÆK
+16
+Rasmus Schmidt LIND
+13.07
+REH Fejlaflev
+10
+Jacob HOLM
+14.09
+3-5
+AAH Mål
+VF
+23
+Buster JUUL
+Assist
+18
+Lovro JOTIC
+16
+Rasmus Schmidt LIND
+14.43
+REH Skud reddet
+VB
+6
+Lukas KARLSSON
+16
+Mikael AGGEFORS
+14.50
+3-6
+AAH Mål
+2:e
+17
+Tobias ELLEBÆK
+16
+Rasmus Schmidt LIND
+15.22
+4-6
+REH Mål
+PL
+10
+Jacob HOLM
+16
+Mikael AGGEFORS
+16.03
+4-7
+AAH Mål
+PL
+17
+Tobias ELLEBÆK
+16
+Rasmus Schmidt LIND
+16.14
+AAH Advarsel
+22
+René ANTONSEN
+16.49
+5-7
+REH Mål
+Gbr 10
+Jacob HOLM
+16
+Mikael AGGEFORS
+16.52
+AAH Advarsel
+11
+Simon Hald JENSEN
+17.43
+AAH Skud forbi
+PL
+18
+Lovro JOTIC
+16
+Rasmus Schmidt LIND
+17.51
+6-7
+REH Mål
+2:e
+10
+Jacob HOLM
+Assist
+6
+Lukas KARLSSON
+16
+Mikael AGGEFORS
+18.52
+6-8
+AAH Mål
+HB 20
+Jesper Meinby PEDERSEN
+16
+Rasmus Schmidt LIND
+19.24
+REH Skud reddet
+PL
+10
+Jacob HOLM
+16
+Mikael AGGEFORS
+20.00
+AAH Tabt bold
+15
+Andreas Holst JENSEN
+20.10
+REH Fejlaflev
+11
+Mathias JØRGENSEN
+20.33
+AAH Skud på stolpe
+VB
+17
+Tobias ELLEBÆK
+16
+Rasmus Schmidt LIND
+21.02
+7-8
+REH Mål
+Gbr 10
+Jacob HOLM
+16
+Mikael AGGEFORS
+22.26
+AAH Skud reddet
+HF
+4
+Patrick WIESMACH
+16
+Rasmus Schmidt LIND
+23.07
+8-8
+REH Mål
+ST
+8
+Jonas Bruus TIDEMAND
+Assist
+10
+Jacob HOLM
+16
+Mikael AGGEFORS
+23.20
+AAH Skud blokeret
+PL
+20
+Jesper Meinby PEDERSEN
+Retur
+0
+23.24
+AAH Hold Time Out
+23.39
+AAH Skud blokeret
+HB
+7
+Martin LARSEN
+Retur
+15
+Andreas Holst JENSEN
+23.54
+8-9
+AAH Mål
+PL
+7
+Martin LARSEN
+Assist
+17
+Tobias ELLEBÆK
+16
+Rasmus Schmidt LIND
+24.11
+AAH Advarsel
+15
+Andreas Holst JENSEN
+24.29
+REH Skud blokeret
+PL
+10
+Jacob HOLM
+25.01
+8-10
+AAH Mål
+HB
+7
+Martin LARSEN
+16
+Rasmus Schmidt LIND
+25.38
+REH Skud reddet
+PL
+10
+Jacob HOLM
+16
+Mikael AGGEFORS
+26.11
+AAH Skud reddet
+VB
+15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+26.53
+REH Tilkendt 7m
+8
+Jonas Bruus TIDEMAND
+Forårs. 7m
+15
+Andreas Holst JENSEN
+26.53
+AAH Udvisning
+15
+Andreas Holst JENSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - Aalborg Håndbold   23 - 25  (8 - 12)
+538235 / 28-2-2018 / Blue Water Dokken / 888ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+26.58
+REH Straff reddet
+2
+Philip HOLM
+16
+Mikael AGGEFORS
+28.02
+AAH Skud reddet
+VB
+17
+Tobias ELLEBÆK
+16
+Rasmus Schmidt LIND
+28.23
+REH Skud reddet
+PL
+31
+Morten NYBERG
+16
+Mikael AGGEFORS
+29.10
+AAH Skud blokeret
+HB
+7
+Martin LARSEN
+Retur
+0
+29.20
+8-11
+AAH Mål
+VB
+18
+Lovro JOTIC
+16
+Rasmus Schmidt LIND
+29.30
+REH Hold Time Out
+29.55
+REH Fejlaflev
+10
+Jacob HOLM
+29.59
+8-12
+AAH Mål
+1:e
+15
+Andreas Holst JENSEN
+Assist
+7
+Martin LARSEN
+16
+Rasmus Schmidt LIND
+30.00
+8-12
+Halvtid
+30.46
+AAH Udvisning
+11
+Simon Hald JENSEN
+30.48
+REH Skud på stolpe
+VF
+23
+Pelle Schilling GULDAGER
+16
+Mikael AGGEFORS
+31.55
+AAH Skud reddet
+HB
+7
+Martin LARSEN
+Retur
+22
+René ANTONSEN
+16
+Rasmus Schmidt LIND
+32.06
+8-13
+AAH Mål
+ST
+22
+René ANTONSEN
+16
+Rasmus Schmidt LIND
+32.36
+9-13
+REH Mål
+VB
+6
+Lukas KARLSSON
+16
+Mikael AGGEFORS
+33.36
+AAH Tilkendt 7m
+11
+Simon Hald JENSEN
+Forårs. 7m
+8
+Jonas Bruus TIDEMAND
+33.46
+AAH Straff på stolpe
+23
+Buster JUUL
+Retur
+23
+Buster JUUL
+16
+Rasmus Schmidt LIND
+33.53
+AAH Skud reddet
+ST
+23
+Buster JUUL
+16
+Rasmus Schmidt LIND
+34.26 10-13 REH Mål
+ST
+21
+Miha ZVIZEJ
+16
+Mikael AGGEFORS
+35.00
+AAH Skud på stolpe
+HB 15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+35.32 11-13 REH Mål
+VF
+23
+Pelle Schilling GULDAGER
+Assist
+10
+Jacob HOLM
+16
+Mikael AGGEFORS
+35.43
+AAH Skud reddet
+PL
+15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+36.15 12-13 REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+10
+Jacob HOLM
+16
+Mikael AGGEFORS
+36.20
+AAH Hold Time Out
+36.41
+AAH Fejlaflev
+17
+Tobias ELLEBÆK
+Bold erobret 10
+Jacob HOLM
+36.42 13-13 REH Mål
+1:e
+10
+Jacob HOLM
+16
+Mikael AGGEFORS
+36.51
+AAH Regelfejl
+17
+Tobias ELLEBÆK
+36.54 14-13 REH Mål
+1:e
+10
+Jacob HOLM
+Assist
+21
+Miha ZVIZEJ
+16
+Mikael AGGEFORS
+37.45
+AAH Fejlaflev
+19
+Arnor ATLASON
+38.19 15-13 REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+10
+Jacob HOLM
+16
+Mikael AGGEFORS
+39.15
+REH Advarsel
+8
+Jonas Bruus TIDEMAND
+39.27
+AAH Fejlaflev
+19
+Arnor ATLASON
+Bold erobret 10
+Jacob HOLM
+39.29 16-13 REH Mål
+1:e
+10
+Jacob HOLM
+16
+Mikael AGGEFORS
+39.32
+AAH Hold Time Out
+39.56
+AAH Skud forbi
+HB
+7
+Martin LARSEN
+16
+Rasmus Schmidt LIND
+40.34
+REH Skud reddet
+HB 10
+Jacob HOLM
+16
+Mikael AGGEFORS
+40.40 16-14 AAH Mål
+2:e
+15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+41.09 17-14 REH Mål
+PL
+6
+Lukas KARLSSON
+Assist
+31
+Morten NYBERG
+16
+Mikael AGGEFORS
+41.20 17-15 AAH Mål
+1:e
+23
+Buster JUUL
+Assist
+14
+Magnus SAUGSTRUP
+16
+Rasmus Schmidt LIND
+41.41
+REH Skud reddet
+PL
+6
+Lukas KARLSSON
+16
+Mikael AGGEFORS
+41.45
+REH Udvisning
+16
+Rasmus Schmidt LIND
+42.11 17-16 AAH Mål
+VB
+15
+Andreas Holst JENSEN
+12
+Emil TELLERUP
+43.19
+REH Fejlaflev
+10
+Jacob HOLM
+43.44 17-17 AAH Mål
+HB
+7
+Martin LARSEN
+12
+Emil TELLERUP
+43.55
+REH Hold Time Out
+44.28
+REH Skud reddet
+HB 31
+Morten NYBERG
+Retur
+11
+Mathias JØRGENSEN
+16
+Mikael AGGEFORS
+44.34
+REH Skud reddet
+ST
+31
+Morten NYBERG
+16
+Mikael AGGEFORS
+44.52 17-18 AAH Mål
+VB
+15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+45.32 18-18 REH Mål
+PL
+6
+Lukas KARLSSON
+Assist
+31
+Morten NYBERG
+16
+Mikael AGGEFORS
+46.39
+AAH Regelfejl
+4
+Patrick WIESMACH
+47.23
+REH Fejlaflev
+10
+Jacob HOLM
+47.28 18-19 AAH Mål
+1:e
+4
+Patrick WIESMACH
+Assist
+23
+Buster JUUL
+0
+47.55 19-19 REH Mål
+Gbr 10
+Jacob HOLM
+Assist
+31
+Morten NYBERG
+16
+Mikael AGGEFORS
+48.28
+REH Udvisning
+8
+Jonas Bruus TIDEMAND
+48.46
+AAH Skud reddet
+HF
+4
+Patrick WIESMACH
+16
+Rasmus Schmidt LIND
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - Aalborg Håndbold   23 - 25  (8 - 12)
+538235 / 28-2-2018 / Blue Water Dokken / 888ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+49.23 20-19 REH Mål
+PL
+10
+Jacob HOLM
+Assist
+31
+Morten NYBERG
+16
+Mikael AGGEFORS
+49.34
+AAH Skud forbi
+PL
+15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+50.24
+REH Skud reddet
+HB 10
+Jacob HOLM
+16
+Mikael AGGEFORS
+51.19 20-20 AAH Mål
+ST
+7
+Martin LARSEN
+Assist
+23
+Buster JUUL
+16
+Rasmus Schmidt LIND
+51.52
+REH Skud reddet
+Gbr
+6
+Lukas KARLSSON
+16
+Mikael AGGEFORS
+52.29 20-21 AAH Mål
+PL
+15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+53.20
+REH Skud reddet
+HF
+11
+Mathias JØRGENSEN
+16
+Mikael AGGEFORS
+53.50 20-22 AAH Mål
+VB
+18
+Lovro JOTIC
+16
+Rasmus Schmidt LIND
+54.34 21-22 REH Mål
+HF
+11
+Mathias JØRGENSEN
+Assist
+31
+Morten NYBERG
+16
+Mikael AGGEFORS
+55.13
+AAH Tabt bold
+18
+Lovro JOTIC
+Bold erobret 23
+Pelle Schilling GULDAGER
+55.17 22-22 REH Mål
+1:e
+21
+Miha ZVIZEJ
+Assist
+23
+Pelle Schilling GULDAGER
+16
+Mikael AGGEFORS
+55.50 22-23 AAH Mål
+VB
+15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+56.19 23-23 REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+31
+Morten NYBERG
+16
+Mikael AGGEFORS
+57.06
+AAH Skud reddet
+PL
+15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+57.15
+REH Skud forbi
+1:e
+10
+Jacob HOLM
+0
+57.38 23-24 AAH Mål
+PL
+17
+Tobias ELLEBÆK
+Assist
+15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+58.11
+REH Skud forbi
+VF
+23
+Pelle Schilling GULDAGER
+16
+Mikael AGGEFORS
+58.46
+AAH Skud reddet
+VB
+15
+Andreas Holst JENSEN
+16
+Rasmus Schmidt LIND
+59.13
+REH Skud forbi
+HB 31
+Morten NYBERG
+16
+Mikael AGGEFORS
+59.43
+AAH Tilkendt 7m
+17
+Tobias ELLEBÆK
+Forårs. 7m
+9
+Søren Tau SØRENSEN
+59.47 23-25 AAH Straffemål
+23
+Buster JUUL
+16
+Rasmus Schmidt LIND
+60.00 23-25
+Fuld tid
+Software: Jilsén System AB. Logget af: Casper Schmidt, Jesper Andersen,

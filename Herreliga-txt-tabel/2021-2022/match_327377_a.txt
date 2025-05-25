@@ -1,0 +1,881 @@
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - TMS Ringsted   26 - 28  (11 - 13)
+327377 / 29-3-2022 / Blue Water Dokken / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.31
+TMS Fejlaflevering
+18
+Martin Risom CHRISTENSEN
+1.52
+REH Skud reddet
+PL
+10
+Jonatan MOLLERUP
+Retur
+11
+Mathias JØRGENSEN
+33
+Patrick BOLS
+1.57
+1-0
+REH Mål
+ST
+11
+Mathias JØRGENSEN
+33
+Patrick BOLS
+2.22
+TMS Skud reddet
+PL
+15
+Lauritz LEGÉR
+12
+Søren RASMUSSEN
+3.00
+REH Skud reddet
+HF
+11
+Mathias JØRGENSEN
+33
+Patrick BOLS
+3.32
+1-1
+TMS Mål
+HF
+19
+Oskar Vind RASMUSSEN
+Assist
+18
+Martin Risom CHRISTENSEN 12
+Søren RASMUSSEN
+4.27
+REH Tabt bold
+99
+Jonas Hald CHRISTENSEN
+5.18
+TMS Tabt bold
+25
+Anders Agger PEDERSEN
+5.54
+2-1
+REH Mål
+PL
+18
+Marcus MØRK
+33
+Patrick BOLS
+6.28
+TMS Skud reddet
+PL
+79
+Oliver Klarskov KNUDSEN
+12
+Søren RASMUSSEN
+7.20
+REH Fejlaflevering
+7
+Jonas LARHOLM
+Bold erobret
+7
+Anton BRAMMING
+7.22
+TMS Skud reddet
+1:e
+7
+Anton BRAMMING
+12
+Søren RASMUSSEN
+7.32
+3-1
+REH Mål
+HF
+11
+Mathias JØRGENSEN
+Assist
+10
+Jonatan MOLLERUP
+33
+Patrick BOLS
+8.15
+TMS Time out
+8.58
+3-2
+TMS Mål
+VF
+7
+Anton BRAMMING
+Assist
+5
+Mark NIKOLAJSEN
+12
+Søren RASMUSSEN
+9.46
+4-2
+REH Mål
+VF
+99
+Jonas Hald CHRISTENSEN
+Assist
+10
+Jonatan MOLLERUP
+33
+Patrick BOLS
+9.53
+4-3
+TMS Mål
+2:e
+19
+Oskar Vind RASMUSSEN
+12
+Søren RASMUSSEN
+10.34
+REH Skud reddet
+Gbr
+7
+Jonas LARHOLM
+33
+Patrick BOLS
+11.22
+4-4
+TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+12
+Søren RASMUSSEN
+11.31
+REH Skud reddet
+2:e
+18
+Marcus MØRK
+33
+Patrick BOLS
+11.46
+TMS Fejlaflevering
+15
+Lauritz LEGÉR
+12.16
+REH Tabt bold
+10
+Jonatan MOLLERUP
+12.46
+TMS Skud blokeret
+PL
+18
+Martin Risom CHRISTENSEN Blok af (ret)
+21
+Miha ZVIZEJ
+13.07
+TMS Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+12
+Søren RASMUSSEN
+14.12
+REH Skud reddet
+PL
+18
+Marcus MØRK
+33
+Patrick BOLS
+14.18
+4-5
+TMS Mål
+1:e
+19
+Oskar Vind RASMUSSEN
+Assist
+6
+Sebastian Reimer THOR
+12
+Søren RASMUSSEN
+14.23
+REH Time out
+15.10
+5-5
+REH Mål
+ST
+18
+Marcus MØRK
+33
+Patrick BOLS
+15.54
+5-6
+TMS Mål
+VB
+17
+Oliver Sonne WOSNIAK
+12
+Søren RASMUSSEN
+16.42
+6-6
+REH Mål
+PL
+7
+Jonas LARHOLM
+33
+Patrick BOLS
+17.35
+TMS Skud reddet
+Gbr 79
+Oliver Klarskov KNUDSEN
+12
+Søren RASMUSSEN
+17.42
+7-6
+REH Mål
+1:e
+12
+Søren RASMUSSEN
+33
+Patrick BOLS
+18.06
+7-7
+TMS Mål
+VB
+17
+Oliver Sonne WOSNIAK
+12
+Søren RASMUSSEN
+18.13
+8-7
+REH Mål
+1:e
+21
+Miha ZVIZEJ
+33
+Patrick BOLS
+18.55
+TMS Skud blokeret
+PL
+5
+Mark NIKOLAJSEN
+Blok af (ret)
+21
+Miha ZVIZEJ
+19.20
+8-8
+TMS Mål
+VF
+7
+Anton BRAMMING
+Assist
+17
+Oliver Sonne WOSNIAK
+12
+Søren RASMUSSEN
+20.32
+REH Skud forbi
+HB
+4
+Tobias OLSEN
+33
+Patrick BOLS
+20.42
+8-9
+TMS Mål
+ST
+6
+Sebastian Reimer THOR
+Assist
+5
+Mark NIKOLAJSEN
+12
+Søren RASMUSSEN
+20.50
+9-9
+REH Mål
+2:e
+21
+Miha ZVIZEJ
+Assist
+11
+Mathias JØRGENSEN
+33
+Patrick BOLS
+21.28
+9-10
+TMS Mål
+VB
+17
+Oliver Sonne WOSNIAK
+12
+Søren RASMUSSEN
+21.35 10-10 REH Mål
+1:e
+21
+Miha ZVIZEJ
+0
+22.34
+TMS Skud reddet
+PL
+17
+Oliver Sonne WOSNIAK
+12
+Søren RASMUSSEN
+22.44 11-10 REH Mål
+Gbr 18
+Marcus MØRK
+33
+Patrick BOLS
+23.24 11-11 TMS Mål
+Gbr 79
+Oliver Klarskov KNUDSEN
+12
+Søren RASMUSSEN
+23.40
+REH Skud reddet
+ST
+21
+Miha ZVIZEJ
+33
+Patrick BOLS
+24.08
+TMS Skud reddet
+VB
+5
+Mark NIKOLAJSEN
+1
+Andreas HAAGEN
+24.51
+REH Skud reddet
+PL
+18
+Marcus MØRK
+33
+Patrick BOLS
+25.21
+TMS Skud forbi
+VB
+15
+Lauritz LEGÉR
+1
+Andreas HAAGEN
+25.34
+REH Skud forbi
+PL
+10
+Jonatan MOLLERUP
+33
+Patrick BOLS
+26.00
+TMS Tilkendt straffe
+15
+Lauritz LEGÉR
+Forårs. str.
+10
+Jonatan MOLLERUP
+26.13 11-12 TMS Mål på straffe
+83
+Pelle SCHILLING
+12
+Søren RASMUSSEN
+26.48
+REH Fejlaflevering
+7
+Jonas LARHOLM
+27.00
+TMS Skud reddet
+Gbr 15
+Lauritz LEGÉR
+1
+Andreas HAAGEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - TMS Ringsted   26 - 28  (11 - 13)
+327377 / 29-3-2022 / Blue Water Dokken / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+27.44
+REH Regelfejl
+97
+Anton Fredslund PEDERSEN
+28.42
+TMS Skud reddet
+HB 18
+Martin Risom CHRISTENSEN
+1
+Andreas HAAGEN
+28.56
+REH Fejlaflevering
+23
+William AAR
+29.34 11-13 TMS Mål
+VB
+15
+Lauritz LEGÉR
+1
+Andreas HAAGEN
+29.58
+REH Skud blokeret
+PL
+7
+Jonas LARHOLM
+Blok af (ret)
+2
+Joachim Møller JAKOBSEN
+30.00 11-13
+Halvleg
+30.00
+Start 2:e halvleg
+30.33
+REH Skud blokeret
+PL
+18
+Marcus MØRK
+Blok af (ret)
+2
+Joachim Møller JAKOBSEN
+30.49
+REH Fejlaflevering
+18
+Marcus MØRK
+31.24
+TMS Skud reddet
+HF
+19
+Oskar Vind RASMUSSEN
+1
+Andreas HAAGEN
+31.39
+REH Regelfejl
+92
+Sune IVERSEN
+32.16
+TMS Skud reddet
+HB 18
+Martin Risom CHRISTENSEN
+1
+Andreas HAAGEN
+33.17 12-13 REH Mål
+Gbr 92
+Sune IVERSEN
+33
+Patrick BOLS
+33.45 12-14 TMS Mål
+VB
+15
+Lauritz LEGÉR
+Assist
+79
+Oliver Klarskov KNUDSEN
+1
+Andreas HAAGEN
+34.19
+REH Skud blokeret
+PL
+7
+Jonas LARHOLM
+Blok af (ret)
+6
+Sebastian Reimer THOR
+34.35
+REH Fejlaflevering
+18
+Marcus MØRK
+34.52
+TMS Skud reddet
+Gbr 79
+Oliver Klarskov KNUDSEN
+1
+Andreas HAAGEN
+35.33
+REH Skud reddet
+PL
+10
+Jonatan MOLLERUP
+33
+Patrick BOLS
+36.14 12-15 TMS Mål
+ST
+2
+Joachim Møller JAKOBSEN
+Assist
+15
+Lauritz LEGÉR
+1
+Andreas HAAGEN
+36.47
+REH Fejlaflevering
+7
+Jonas LARHOLM
+37.12
+TMS Skud forbi
+PL
+15
+Lauritz LEGÉR
+1
+Andreas HAAGEN
+37.42
+REH Skud reddet
+Gbr 18
+Marcus MØRK
+33
+Patrick BOLS
+38.20
+REH Udvisning
+21
+Miha ZVIZEJ
+38.32 12-16 TMS Mål
+Gbr 18
+Martin Risom CHRISTENSEN
+1
+Andreas HAAGEN
+39.16
+REH Skud forbi
+PL
+18
+Marcus MØRK
+33
+Patrick BOLS
+39.51 12-17 TMS Mål
+ST
+2
+Joachim Møller JAKOBSEN
+Assist
+15
+Lauritz LEGÉR
+1
+Andreas HAAGEN
+40.18
+REH Time out
+40.37 13-17 REH Mål
+HF
+11
+Mathias JØRGENSEN
+Assist
+18
+Marcus MØRK
+33
+Patrick BOLS
+41.18
+TMS Skud reddet
+Gbr 15
+Lauritz LEGÉR
+1
+Andreas HAAGEN
+41.24 14-17 REH Mål
+1:e
+9
+Christoffer LANGERHUUS
+Assist
+92
+Sune IVERSEN
+33
+Patrick BOLS
+41.55 14-18 TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+1
+Andreas HAAGEN
+43.08 15-18 REH Mål
+PL
+18
+Marcus MØRK
+33
+Patrick BOLS
+43.54
+TMS Fejlaflevering
+18
+Martin Risom CHRISTENSEN Bold erobret 21
+Miha ZVIZEJ
+44.04
+REH Skud reddet
+1:e
+92
+Sune IVERSEN
+33
+Patrick BOLS
+44.09
+TMS Fejlaflevering
+0
+44.43
+REH Skud forbi
+ST
+9
+Christoffer LANGERHUUS
+33
+Patrick BOLS
+45.28 15-19 TMS Mål
+PL
+5
+Mark NIKOLAJSEN
+1
+Andreas HAAGEN
+46.15
+REH Tilkendt straffe
+18
+Marcus MØRK
+Forårs. str.
+2
+Joachim Møller JAKOBSEN
+46.18
+REH Straffekast reddet
+7
+Jonas LARHOLM
+Retur
+7
+Jonas LARHOLM
+1
+Tobias LANTZ-PEDERSEN
+46.22 16-19 REH Mål
+ST
+7
+Jonas LARHOLM
+1
+Tobias LANTZ-PEDERSEN
+46.55 16-20 TMS Mål
+Gbr 79
+Oliver Klarskov KNUDSEN
+12
+Søren RASMUSSEN
+47.10 17-20 REH Mål
+Gbr 10
+Jonatan MOLLERUP
+Assist
+18
+Marcus MØRK
+33
+Patrick BOLS
+47.48
+TMS Fejlaflevering
+15
+Lauritz LEGÉR
+47.53 18-20 REH Mål
+1:e
+92
+Sune IVERSEN
+0
+47.55
+TMS Time out
+48.32 18-21 TMS Mål
+ST
+2
+Joachim Møller JAKOBSEN
+Assist
+5
+Mark NIKOLAJSEN
+12
+Søren RASMUSSEN
+49.42
+REH Passivt spil
+50.17 18-22 TMS Mål
+VF
+7
+Anton BRAMMING
+Assist
+79
+Oliver Klarskov KNUDSEN
+12
+Søren RASMUSSEN
+50.48 19-22 REH Mål
+Gbr 10
+Jonatan MOLLERUP
+33
+Patrick BOLS
+51.26
+TMS Skud blokeret
+PL
+5
+Mark NIKOLAJSEN
+Blokeret af
+21
+Miha ZVIZEJ
+51.34 20-22 REH Mål
+1:e
+11
+Mathias JØRGENSEN
+33
+Patrick BOLS
+52.11
+TMS Skud reddet
+Gbr
+5
+Mark NIKOLAJSEN
+12
+Søren RASMUSSEN
+52.29 21-22 REH Mål
+PL
+7
+Jonas LARHOLM
+33
+Patrick BOLS
+53.02 21-23 TMS Mål
+Gbr 79
+Oliver Klarskov KNUDSEN
+12
+Søren RASMUSSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Ribe-Esbjerg HH - TMS Ringsted   26 - 28  (11 - 13)
+327377 / 29-3-2022 / Blue Water Dokken / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+53.28 22-23 REH Mål
+Gbr 10
+Jonatan MOLLERUP
+Assist
+7
+Jonas LARHOLM
+33
+Patrick BOLS
+54.13
+TMS Tilkendt straffe
+79
+Oliver Klarskov KNUDSEN
+Forårs. str.
+10
+Jonatan MOLLERUP
+54.17
+TMS Straffekast reddet
+83
+Pelle SCHILLING
+Retur
+83
+Pelle SCHILLING
+1
+Andreas HAAGEN
+54.20 22-24 TMS Mål
+ST
+83
+Pelle SCHILLING
+1
+Andreas HAAGEN
+54.45
+REH Fejlaflevering
+7
+Jonas LARHOLM
+Bold erobret 83
+Pelle SCHILLING
+54.50
+TMS Tilkendt straffe
+83
+Pelle SCHILLING
+Forårs. str.
+10
+Jonatan MOLLERUP
+54.51 22-25 TMS Mål på straffe
+79
+Oliver Klarskov KNUDSEN
+1
+Andreas HAAGEN
+55.13
+REH Skud reddet
+PL
+7
+Jonas LARHOLM
+Retur
+92
+Sune IVERSEN
+33
+Patrick BOLS
+55.20
+REH Skud reddet
+VF
+92
+Sune IVERSEN
+33
+Patrick BOLS
+55.49
+TMS Regelfejl
+18
+Martin Risom CHRISTENSEN
+56.01
+REH Time out
+56.07 23-25 REH Mål
+PL
+7
+Jonas LARHOLM
+33
+Patrick BOLS
+56.46 23-26 TMS Mål
+Gbr 18
+Martin Risom CHRISTENSEN
+12
+Søren RASMUSSEN
+57.08 24-26 REH Mål
+Gbr 10
+Jonatan MOLLERUP
+33
+Patrick BOLS
+57.40
+TMS Fejlaflevering
+18
+Martin Risom CHRISTENSEN Bold erobret 23
+William AAR
+57.44 25-26 REH Mål
+1:e
+10
+Jonatan MOLLERUP
+Assist
+19
+Jesper LINDGREN
+33
+Patrick BOLS
+58.34 25-27 TMS Mål
+Gbr 79
+Oliver Klarskov KNUDSEN
+12
+Søren RASMUSSEN
+58.45
+REH Tilkendt straffe
+21
+Miha ZVIZEJ
+Forårs. str.
+2
+Joachim Møller JAKOBSEN
+58.50 26-27 REH Mål på straffe
+7
+Jonas LARHOLM
+1
+Tobias LANTZ-PEDERSEN
+59.25
+TMS Time out
+59.41 26-28 TMS Mål
+Gbr 79
+Oliver Klarskov KNUDSEN
+12
+Søren RASMUSSEN
+59.50
+REH Fejlaflevering
+10
+Jonatan MOLLERUP
+60.00 26-28
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Casper Schmidt, Ninus Seistrup,

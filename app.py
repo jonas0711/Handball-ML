@@ -1082,4 +1082,4 @@ def server_error(e):
     return render_template('error.html', message="Intern serverfejl"), 500
 
 if __name__ == '__main__':
-    app.run(debug=True) 
+    app.run(host='localhost', port=3000, debug=True)

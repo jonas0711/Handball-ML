@@ -1,0 +1,896 @@
+KAMPHÆNDELSER
+Sønderjyske Herrehåndbold - Aalborg Håndbold   27 - 31  (12 - 16)
+748799 / 9-4-2025 / Sydjysk Sparekasse Skansen 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.31
+0-1
+AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+3
+Lukas NILSSON
+30
+Julius STEN
+1.09
+SJE
+Fejlaflevering
+48
+Gabriel SETTERBLOM
+1.25
+AAH Tilkendt straffe
+3
+Lukas NILSSON
+Forårs. str.
+33
+Ebbe STANKIEWICZ
+1.44
+0-2
+AAH Mål på straffe
+23
+Buster JUUL
+30
+Julius STEN
+2.26
+SJE
+Skud forbi
+PL
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+3.48
+AAH Skud reddet
+PL
+3
+Lukas NILSSON
+Retur
+19
+Kristian BJØRNSEN
+30
+Julius STEN
+3.50
+0-3
+AAH Mål
+Gbr 14
+Mads HOXER
+30
+Julius STEN
+4.06
+1-3
+SJE
+Mål
+2:e
+48
+Gabriel SETTERBLOM
+1
+Niklas LANDIN
+5.01
+AAH Skud reddet
+HF
+19
+Kristian BJØRNSEN
+30
+Julius STEN
+5.01
+AAH Udvisning
+19
+Kristian BJØRNSEN
+5.25
+2-3
+SJE
+Mål
+HF
+33
+Ebbe STANKIEWICZ
+Assist
+48
+Gabriel SETTERBLOM
+1
+Niklas LANDIN
+6.14
+AAH Fejlaflevering
+18
+Aleks VLAH
+6.20
+SJE
+Skud forbi
+1:e
+29
+Magnus FREDRIKSEN
+1
+Niklas LANDIN
+7.24
+AAH Skud på stolpe
+PL
+3
+Lukas NILSSON
+30
+Julius STEN
+7.53
+3-3
+SJE
+Mål
+Gbr 48
+Gabriel SETTERBLOM
+1
+Niklas LANDIN
+8.01
+3-4
+AAH Mål
+2:e
+14
+Mads HOXER
+30
+Julius STEN
+8.30
+SJE
+Regelfejl
+48
+Gabriel SETTERBLOM
+8.39
+3-5
+AAH Mål
+1:e
+11
+Simon HALD
+Assist
+19
+Kristian BJØRNSEN
+30
+Julius STEN
+8.49
+SJE
+Skud reddet
+2:e
+48
+Gabriel SETTERBLOM
+1
+Niklas LANDIN
+8.57
+3-6
+AAH Mål
+2:e
+20
+Felix MÖLLER
+Assist
+14
+Mads HOXER
+30
+Julius STEN
+9.36
+SJE
+Tilkendt straffe
+2
+Tobias Gregers SCHMIDT
+Forårs. str.
+20
+Felix MÖLLER
+9.48
+4-6
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+10.29
+SJE
+Advarsel
+2
+Tobias Gregers SCHMIDT
+10.56
+4-7
+AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+25
+Marinus MUNK
+30
+Julius STEN
+11.49
+SJE
+Skud reddet
+Gbr 29
+Magnus FREDRIKSEN
+1
+Niklas LANDIN
+11.57
+AAH Skud reddet
+2:e
+23
+Buster JUUL
+30
+Julius STEN
+12.25
+SJE
+Skud reddet
+PL
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+12.34
+AAH Tilkendt straffe
+18
+Aleks VLAH
+Forårs. str.
+14
+Jacob BAGERSTED
+12.50
+4-8
+AAH Mål på straffe
+23
+Buster JUUL
+30
+Julius STEN
+13.43
+SJE
+Tilkendt straffe
+48
+Gabriel SETTERBLOM
+Forårs. str.
+11
+Simon HALD
+14.03
+5-8
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+14.47
+5-9
+AAH Mål
+PL
+14
+Mads HOXER
+30
+Julius STEN
+15.32
+SJE
+Tilkendt straffe
+14
+Jacob BAGERSTED
+Forårs. str.
+11
+Simon HALD
+16.01
+6-9
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+16.49
+SJE
+Udvisning
+2
+Tobias Gregers SCHMIDT
+17.07
+AAH Fejlaflevering
+14
+Mads HOXER
+18.13
+SJE
+Skud reddet
+Gbr 29
+Magnus FREDRIKSEN
+1
+Niklas LANDIN
+18.27
+6-10
+AAH Mål
+1:e
+20
+Felix MÖLLER
+0
+18.52
+SJE
+Tilkendt straffe
+48
+Gabriel SETTERBLOM
+Forårs. str.
+25
+Marinus MUNK
+18.55
+7-10
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+12
+Fabian NORSTEN
+19.29
+7-11
+AAH Mål
+PL
+18
+Aleks VLAH
+30
+Julius STEN
+19.57
+SJE
+Tilkendt straffe
+29
+Magnus FREDRIKSEN
+Forårs. str.
+11
+Simon HALD
+20.06
+8-11
+SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+12
+Fabian NORSTEN
+21.14
+8-12
+AAH Mål
+PL
+25
+Marinus MUNK
+30
+Julius STEN
+21.53
+SJE
+Fejlaflevering
+29
+Magnus FREDRIKSEN
+22.47
+8-13
+AAH Mål
+PL
+9
+Miguel MARTINS
+30
+Julius STEN
+23.36
+SJE
+Skud reddet
+PL
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+24.20
+AAH Fejlaflevering
+9
+Miguel MARTINS
+24.26
+9-13
+SJE
+Mål
+1:e
+3
+Lucas REHFUS
+Assist
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+24.39
+9-14
+AAH Mål
+2:e
+15
+Jack THURIN
+Assist
+9
+Miguel MARTINS
+30
+Julius STEN
+24.48
+SJE
+Time out
+25.27
+SJE
+Tilkendt straffe
+29
+Magnus FREDRIKSEN
+Forårs. str.
+17
+Martin LARSEN
+25.56 10-14 SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Sønderjyske Herrehåndbold - Aalborg Håndbold   27 - 31  (12 - 16)
+748799 / 9-4-2025 / Sydjysk Sparekasse Skansen 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+26.46 10-15 AAH Mål
+VF
+23
+Buster JUUL
+Assist
+9
+Miguel MARTINS
+30
+Julius STEN
+27.53 11-15 SJE
+Mål
+PL
+20
+August WIGER
+1
+Niklas LANDIN
+28.19 11-16 AAH Mål
+ST
+9
+Miguel MARTINS
+Assist
+15
+Jack THURIN
+30
+Julius STEN
+28.52 12-16 SJE
+Mål
+PL
+48
+Gabriel SETTERBLOM
+1
+Niklas LANDIN
+29.30
+AAH Time out
+29.59
+AAH Skud blokeret
+VB
+25
+Marinus MUNK
+Blokeret af
+14
+Jacob BAGERSTED
+30.00 12-16
+Halvleg
+30.00
+Start 2:e halvleg
+30.40
+SJE
+Regelfejl
+0
+31.22 12-17 AAH Mål
+Gbr
+9
+Miguel MARTINS
+30
+Julius STEN
+32.01
+SJE
+Skud reddet
+Gbr 20
+August WIGER
+1
+Niklas LANDIN
+32.10 12-18 AAH Mål
+2:e
+6
+Sebastian BARTHOLD
+Assist
+9
+Miguel MARTINS
+30
+Julius STEN
+33.17
+SJE
+Skud forbi
+PL
+48
+Gabriel SETTERBLOM
+1
+Niklas LANDIN
+33.29 12-19 AAH Mål
+2:e
+19
+Kristian BJØRNSEN
+Assist
+15
+Jack THURIN
+30
+Julius STEN
+34.21
+SJE
+Fejlaflevering
+48
+Gabriel SETTERBLOM
+34.26 12-20 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+30
+Julius STEN
+34.26
+SJE
+Time out
+35.06 13-20 SJE
+Mål
+ST
+2
+Tobias Gregers SCHMIDT
+Assist
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+35.38
+AAH Skud reddet
+PL
+25
+Marinus MUNK
+30
+Julius STEN
+36.10 14-20 SJE
+Mål
+ST
+14
+Jacob BAGERSTED
+Assist
+24
+Sebastian AUGUSTINUSSEN
+1
+Niklas LANDIN
+36.27 14-21 AAH Mål
+PL
+25
+Marinus MUNK
+30
+Julius STEN
+36.57 15-21 SJE
+Mål
+Gbr 24
+Sebastian AUGUSTINUSSEN
+1
+Niklas LANDIN
+37.05 15-22 AAH Mål
+1:e
+11
+Simon HALD
+0
+37.41 16-22 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+38.11
+AAH Skud reddet
+ST
+11
+Simon HALD
+30
+Julius STEN
+38.45 17-22 SJE
+Mål
+VF
+6
+Nikolaj SVALASTOG
+Assist
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+39.55
+AAH Skud reddet
+PL
+18
+Aleks VLAH
+30
+Julius STEN
+40.39 18-22 SJE
+Mål
+Gbr 29
+Magnus FREDRIKSEN
+1
+Niklas LANDIN
+41.11
+AAH Tabt bold
+15
+Jack THURIN
+41.40
+SJE
+Fejlaflevering
+29
+Magnus FREDRIKSEN
+41.50
+AAH Skud forbi
+1:e
+1
+Niklas LANDIN
+0
+42.25
+SJE
+Tabt bold
+11
+Nicolaj JØRGENSEN
+43.21
+AAH Fejlaflevering
+11
+Simon HALD
+Bold erobret 29
+Magnus FREDRIKSEN
+43.47 19-22 SJE
+Mål
+PL
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+44.21
+AAH Skud reddet
+ST
+20
+Felix MÖLLER
+30
+Julius STEN
+45.00
+SJE
+Tilkendt straffe
+2
+Tobias Gregers SCHMIDT
+Forårs. str.
+20
+Felix MÖLLER
+45.09 20-22 SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+1
+Niklas LANDIN
+45.16
+AAH Time out
+45.45 20-23 AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+18
+Aleks VLAH
+30
+Julius STEN
+46.14 21-23 SJE
+Mål
+Gbr 24
+Sebastian AUGUSTINUSSEN
+1
+Niklas LANDIN
+46.51 21-24 AAH Mål
+PL
+9
+Miguel MARTINS
+30
+Julius STEN
+46.59
+AAH Udvisning
+25
+Marinus MUNK
+47.13 22-24 SJE
+Mål
+Gbr 11
+Nicolaj JØRGENSEN
+Assist
+33
+Ebbe STANKIEWICZ
+1
+Niklas LANDIN
+47.47
+AAH Skud reddet
+PL
+9
+Miguel MARTINS
+30
+Julius STEN
+48.27 23-24 SJE
+Mål
+HF
+33
+Ebbe STANKIEWICZ
+Assist
+20
+August WIGER
+1
+Niklas LANDIN
+48.57 23-25 AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+14
+Mads HOXER
+30
+Julius STEN
+49.34
+SJE
+Skud på stolpe
+HF
+33
+Ebbe STANKIEWICZ
+12
+Fabian NORSTEN
+50.08
+AAH Skud blokeret
+PL
+14
+Mads HOXER
+Blok af (ret)
+14
+Jacob BAGERSTED
+50.29 23-26 AAH Mål
+ST
+6
+Sebastian BARTHOLD
+Assist
+14
+Mads HOXER
+30
+Julius STEN
+51.01 24-26 SJE
+Mål
+VF
+6
+Nikolaj SVALASTOG
+Assist
+11
+Nicolaj JØRGENSEN
+12
+Fabian NORSTEN
+51.46 24-27 AAH Mål
+Gbr 14
+Mads HOXER
+30
+Julius STEN
+52.21
+SJE
+Tilkendt straffe
+24
+Sebastian AUGUSTINUSSEN Forårs. str.
+25
+Marinus MUNK
+52.29 25-27 SJE
+Mål på straffe
+11
+Nicolaj JØRGENSEN
+12
+Fabian NORSTEN
+53.24 25-28 AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+18
+Aleks VLAH
+30
+Julius STEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Sønderjyske Herrehåndbold - Aalborg Håndbold   27 - 31  (12 - 16)
+748799 / 9-4-2025 / Sydjysk Sparekasse Skansen 1 / Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+53.59
+SJE
+Fejlaflevering
+11
+Nicolaj JØRGENSEN
+54.58
+AAH Skud reddet
+PL
+14
+Mads HOXER
+30
+Julius STEN
+55.28
+SJE
+Skud reddet
+VF
+6
+Nikolaj SVALASTOG
+12
+Fabian NORSTEN
+56.08 25-29 AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+14
+Mads HOXER
+30
+Julius STEN
+56.12
+SJE
+Time out
+56.36 26-29 SJE
+Mål
+Gbr 11
+Nicolaj JØRGENSEN
+12
+Fabian NORSTEN
+57.10
+AAH Skud reddet
+Gbr 14
+Mads HOXER
+30
+Julius STEN
+57.17 27-29 SJE
+Mål
+2:e
+24
+Sebastian AUGUSTINUSSEN Assist
+11
+Nicolaj JØRGENSEN
+12
+Fabian NORSTEN
+58.24
+AAH Regelfejl
+14
+Mads HOXER
+59.00
+SJE
+Fejlaflevering
+29
+Magnus FREDRIKSEN
+59.05 27-30 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+19
+Kristian BJØRNSEN
+0
+59.35
+SJE
+Fejlaflevering
+48
+Gabriel SETTERBLOM
+59.41 27-31 AAH Mål
+1:e
+12
+Fabian NORSTEN
+0
+60.00 27-31
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Ernst Høhrmann, Mads Zoega,

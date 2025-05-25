@@ -1,0 +1,864 @@
+KAMPHÆNDELSER
+Skanderborg Aarhus Håndbold - Mors-Thy Håndbold   26 - 26  (11 - 12)
+327299 / 22-2-2022 / Ceres Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.40
+1-0
+SAH Mål
+PL
+24
+Mathias BITSCH
+1
+Rasmus HENRIKSEN
+1.24
+1-1
+MTH Mål
+PL
+17
+Erik Thorsteinsen TOFT
+12
+Salah BOUTAF
+1.36
+SAH Skud blokeret
+PL
+24
+Mathias BITSCH
+Blokeret af
+6
+Mads Hoxer HANGAARD
+1.45
+1-2
+MTH Mål
+1:e
+5
+Bjarke CHRISTENSEN
+Assist
+1
+Rasmus HENRIKSEN
+12
+Salah BOUTAF
+2.17
+SAH Skud reddet
+HB 11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+2.41
+MTH Regelfejl
+6
+Mads Hoxer HANGAARD
+2.50
+SAH Skud reddet
+Gbr
+6
+Kristian BONEFELD
+1
+Rasmus HENRIKSEN
+3.22
+1-3
+MTH Mål
+Gbr
+6
+Mads Hoxer HANGAARD
+12
+Salah BOUTAF
+4.11
+SAH Tabt bold
+24
+Mathias BITSCH
+4.20
+1-4
+MTH Mål
+1:e
+11
+Lasse PEDERSEN
+Assist
+5
+Bjarke CHRISTENSEN
+12
+Salah BOUTAF
+4.41
+2-4
+SAH Mål
+PL
+24
+Mathias BITSCH
+1
+Rasmus HENRIKSEN
+4.54
+MTH Skud blokeret
+PL
+6
+Mads Hoxer HANGAARD
+Blokeret af
+19
+Thor CHRISTENSEN
+5.01
+3-4
+SAH Mål
+1:e
+4
+Lars SKAARUP
+Assist
+19
+Thor CHRISTENSEN
+1
+Rasmus HENRIKSEN
+6.21
+MTH Skud reddet
+PL
+6
+Mads Hoxer HANGAARD
+12
+Salah BOUTAF
+6.58
+SAH Fejlaflevering
+11
+Thomas ARNOLDSEN
+7.05
+MTH Skud forbi
+1:e
+5
+Bjarke CHRISTENSEN
+12
+Salah BOUTAF
+7.16
+SAH Regelfejl
+3
+Hákun West Av TEIGUM
+7.28
+MTH Skud reddet
+ST
+13
+Andreas Johann NIELSEN
+12
+Salah BOUTAF
+7.40
+4-4
+SAH Mål
+2:e
+19
+Thor CHRISTENSEN
+Assist
+6
+Kristian BONEFELD
+1
+Rasmus HENRIKSEN
+8.36
+MTH Fejlaflevering
+7
+Sander ØVERJORDET
+9.16
+SAH Skud reddet
+HB 24
+Mathias BITSCH
+1
+Rasmus HENRIKSEN
+9.58
+4-5
+MTH Mål
+PL
+17
+Erik Thorsteinsen TOFT
+12
+Salah BOUTAF
+10.31
+MTH Advarsel
+13
+Andreas Johann NIELSEN
+10.49
+SAH Tilkendt straffe
+4
+Lars SKAARUP
+Forårs. str.
+11
+Lasse PEDERSEN
+10.49
+MTH Udvisning
+11
+Lasse PEDERSEN
+10.50
+5-5
+SAH Mål på straffe
+20
+Morten BALLING
+1
+Rasmus HENRIKSEN
+11.35
+MTH Skud reddet
+PL
+6
+Mads Hoxer HANGAARD
+12
+Salah BOUTAF
+12.07
+6-5
+SAH Mål
+ST
+19
+Thor CHRISTENSEN
+Assist
+11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+12.50
+MTH Tilkendt straffe
+7
+Sander ØVERJORDET
+Forårs. str.
+6
+Kristian BONEFELD
+13.08
+6-6
+MTH Mål på straffe
+5
+Bjarke CHRISTENSEN
+12
+Salah BOUTAF
+13.40
+SAH Skud reddet
+Gbr 23
+Morten Hempel JENSEN
+1
+Rasmus HENRIKSEN
+14.13
+6-7
+MTH Mål
+VB
+17
+Erik Thorsteinsen TOFT
+12
+Salah BOUTAF
+14.56
+SAH Fejlaflevering
+24
+Mathias BITSCH
+Bold erobret
+5
+Bjarke CHRISTENSEN
+15.07
+MTH Tilkendt straffe
+5
+Bjarke CHRISTENSEN
+Forårs. str.
+23
+Morten Hempel JENSEN
+15.28
+6-8
+MTH Mål på straffe
+11
+Lasse PEDERSEN
+12
+Salah BOUTAF
+16.22
+SAH Skud reddet
+PL
+13
+Lukas GOLLER
+1
+Rasmus HENRIKSEN
+17.05
+MTH Fejlaflevering
+7
+Sander ØVERJORDET
+17.40
+7-8
+SAH Mål
+HB 24
+Mathias BITSCH
+1
+Rasmus HENRIKSEN
+18.31
+MTH Tilkendt straffe
+5
+Bjarke CHRISTENSEN
+Forårs. str.
+6
+Kristian BONEFELD
+18.36
+MTH Straffekast reddet
+5
+Bjarke CHRISTENSEN
+1
+Kristoffer LAURSEN
+19.11
+SAH Skud reddet
+PL
+11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+19.54
+7-9
+MTH Mål
+HF
+11
+Lasse PEDERSEN
+Assist
+21
+Tim SØRENSEN
+12
+Salah BOUTAF
+20.45
+SAH Regelfejl
+3
+Hákun West Av TEIGUM
+20.56
+MTH Tilkendt straffe
+21
+Tim SØRENSEN
+Forårs. str.
+19
+Thor CHRISTENSEN
+20.56
+SAH Udvisning
+19
+Thor CHRISTENSEN
+20.59
+7-10
+MTH Mål på straffe
+11
+Lasse PEDERSEN
+1
+Kristoffer LAURSEN
+21.33
+8-10
+SAH Mål
+Gbr 23
+Morten Hempel JENSEN
+1
+Rasmus HENRIKSEN
+22.16
+MTH Skud reddet
+Gbr 17
+Erik Thorsteinsen TOFT
+12
+Salah BOUTAF
+22.49
+SAH Time out
+23.18
+9-10
+SAH Mål
+HF
+3
+Hákun West Av TEIGUM
+Assist
+23
+Morten Hempel JENSEN
+1
+Rasmus HENRIKSEN
+23.53
+9-11
+MTH Mål
+HB
+6
+Mads Hoxer HANGAARD
+12
+Salah BOUTAF
+24.46
+SAH Skud forbi
+HB 20
+Morten BALLING
+1
+Rasmus HENRIKSEN
+25.21
+MTH Fejlaflevering
+17
+Erik Thorsteinsen TOFT
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skanderborg Aarhus Håndbold - Mors-Thy Håndbold   26 - 26  (11 - 12)
+327299 / 22-2-2022 / Ceres Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.29
+SAH Fejlaflevering
+12
+Salah BOUTAF
+Bold erobret
+6
+Mads Hoxer HANGAARD
+25.40
+MTH Time out
+26.21
+MTH Regelfejl
+6
+Mads Hoxer HANGAARD
+26.29 10-11 SAH Mål
+1:e
+23
+Morten Hempel JENSEN
+1
+Rasmus HENRIKSEN
+27.50
+MTH Fejlaflevering
+6
+Mads Hoxer HANGAARD
+Bold erobret
+0
+28.32
+SAH Skud blokeret
+PL
+23
+Morten Hempel JENSEN
+Blokeret af
+22
+Axel FRANZÉN
+28.49 10-12 MTH Mål
+1:e
+5
+Bjarke CHRISTENSEN
+Assist
+11
+Lasse PEDERSEN
+12
+Salah BOUTAF
+29.06 11-12 SAH Mål
+Gbr 20
+Morten BALLING
+1
+Rasmus HENRIKSEN
+29.32
+MTH Fejlaflevering
+7
+Sander ØVERJORDET
+29.53
+SAH Skud reddet
+HB 24
+Mathias BITSCH
+1
+Rasmus HENRIKSEN
+29.58
+MTH Skud reddet
+HB
+6
+Mads Hoxer HANGAARD
+12
+Salah BOUTAF
+30.00 11-12
+Halvleg
+30.00
+Start 2:e halvleg
+31.27 11-13 MTH Mål
+PL
+17
+Erik Thorsteinsen TOFT
+12
+Salah BOUTAF
+31.55
+SAH Skud reddet
+PL
+23
+Morten Hempel JENSEN
+1
+Rasmus HENRIKSEN
+32.22 11-14 MTH Mål
+2:e
+2
+Emil HANSSON
+12
+Salah BOUTAF
+32.49 12-14 SAH Mål
+HB 23
+Morten Hempel JENSEN
+1
+Rasmus HENRIKSEN
+33.20
+MTH Skud forbi
+PL
+17
+Erik Thorsteinsen TOFT
+12
+Salah BOUTAF
+33.33
+SAH Fejlaflevering
+20
+Morten BALLING
+Bold erobret 17
+Erik Thorsteinsen TOFT
+33.43 12-15 MTH Mål
+1:e
+6
+Mads Hoxer HANGAARD
+Assist
+17
+Erik Thorsteinsen TOFT
+12
+Salah BOUTAF
+34.24
+SAH Regelfejl
+24
+Mathias BITSCH
+35.02
+MTH Fejlaflevering
+7
+Sander ØVERJORDET
+Bold erobret
+3
+Hákun West Av TEIGUM
+35.10 13-15 SAH Mål
+2:e
+23
+Morten Hempel JENSEN
+1
+Rasmus HENRIKSEN
+35.42
+SAH Udvisning
+19
+Thor CHRISTENSEN
+36.48 13-16 MTH Mål
+ST
+7
+Sander ØVERJORDET
+Assist
+6
+Mads Hoxer HANGAARD
+1
+Kristoffer LAURSEN
+37.03 14-16 SAH Mål
+Gbr 23
+Morten Hempel JENSEN
+1
+Rasmus HENRIKSEN
+37.41 14-17 MTH Mål
+PL
+6
+Mads Hoxer HANGAARD
+1
+Kristoffer LAURSEN
+38.15
+SAH Skud reddet
+Gbr 20
+Morten BALLING
+Retur
+0
+1
+Rasmus HENRIKSEN
+38.44 15-17 SAH Mål
+PL
+11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+39.25
+MTH Fejlaflevering
+17
+Erik Thorsteinsen TOFT
+39.41
+SAH Skud forbi
+Gbr 23
+Morten Hempel JENSEN
+1
+Rasmus HENRIKSEN
+40.38 15-18 MTH Mål
+HF
+11
+Lasse PEDERSEN
+Assist
+6
+Mads Hoxer HANGAARD
+1
+Kristoffer LAURSEN
+41.16 16-18 SAH Mål
+VB
+20
+Morten BALLING
+1
+Rasmus HENRIKSEN
+42.01 16-19 MTH Mål
+Gbr 21
+Tim SØRENSEN
+1
+Kristoffer LAURSEN
+42.12 17-19 SAH Mål
+2:e
+11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+42.51
+MTH Skud reddet
+PL
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+43.05
+SAH Tabt bold
+19
+Thor CHRISTENSEN
+43.13 17-20 MTH Mål
+1:e
+11
+Lasse PEDERSEN
+Assist
+17
+Erik Thorsteinsen TOFT
+1
+Kristoffer LAURSEN
+43.50 18-20 SAH Mål
+Gbr 23
+Morten Hempel JENSEN
+Assist
+20
+Morten BALLING
+1
+Rasmus HENRIKSEN
+43.59 18-21 MTH Mål
+2:e
+11
+Lasse PEDERSEN
+Assist
+21
+Tim SØRENSEN
+1
+Kristoffer LAURSEN
+44.45
+SAH Time out
+45.03 19-21 SAH Mål
+PL
+11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+45.12 19-22 MTH Mål
+1:e
+22
+Axel FRANZÉN
+0
+45.41
+SAH Skud forbi
+Gbr 20
+Morten BALLING
+1
+Rasmus HENRIKSEN
+46.40
+MTH Skud reddet
+Gbr 23
+Marcus MIDTGAARD
+1
+Kristoffer LAURSEN
+47.15 20-22 SAH Mål
+Gbr 20
+Morten BALLING
+1
+Rasmus HENRIKSEN
+47.51 20-23 MTH Mål
+Gbr
+5
+Bjarke CHRISTENSEN
+Assist
+7
+Sander ØVERJORDET
+1
+Kristoffer LAURSEN
+48.20 21-23 SAH Mål
+HF
+3
+Hákun West Av TEIGUM
+Assist
+11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+49.12
+MTH Fejlaflevering
+17
+Erik Thorsteinsen TOFT
+Bold erobret 19
+Thor CHRISTENSEN
+49.20 22-23 SAH Mål
+1:e
+3
+Hákun West Av TEIGUM
+Assist
+11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+49.31
+MTH Time out
+50.18 22-24 MTH Mål
+PL
+21
+Tim SØRENSEN
+Assist
+5
+Bjarke CHRISTENSEN
+1
+Kristoffer LAURSEN
+50.51
+SAH Skud reddet
+HF
+3
+Hákun West Av TEIGUM
+1
+Rasmus HENRIKSEN
+51.03
+MTH Tilkendt straffe
+2
+Emil HANSSON
+Forårs. str.
+23
+Morten Hempel JENSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skanderborg Aarhus Håndbold - Mors-Thy Håndbold   26 - 26  (11 - 12)
+327299 / 22-2-2022 / Ceres Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+51.10 22-25 MTH Mål på straffe
+11
+Lasse PEDERSEN
+1
+Kristoffer LAURSEN
+51.41 23-25 SAH Mål
+HF
+3
+Hákun West Av TEIGUM
+Assist
+11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+52.20
+MTH Fejlaflevering
+7
+Sander ØVERJORDET
+52.25
+SAH Fejlaflevering
+12
+Salah BOUTAF
+Bold erobret 23
+Marcus MIDTGAARD
+52.57
+MTH Skud reddet
+HB
+6
+Mads Hoxer HANGAARD
+12
+Salah BOUTAF
+53.23
+SAH Skud reddet
+Gbr 20
+Morten BALLING
+1
+Rasmus HENRIKSEN
+54.25
+MTH Skud reddet
+HF
+6
+Mads Hoxer HANGAARD
+Retur
+0
+12
+Salah BOUTAF
+55.04
+MTH Skud reddet
+PL
+7
+Sander ØVERJORDET
+Retur
+11
+Lasse PEDERSEN
+12
+Salah BOUTAF
+55.21
+MTH Skud reddet
+HB
+7
+Sander ØVERJORDET
+12
+Salah BOUTAF
+55.50 24-25 SAH Mål
+Gbr 11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+56.29
+MTH Skud reddet
+PL
+6
+Mads Hoxer HANGAARD
+12
+Salah BOUTAF
+57.06 25-25 SAH Mål
+ST
+3
+Hákun West Av TEIGUM
+Assist
+11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+57.14 25-26 MTH Mål
+1:e
+22
+Axel FRANZÉN
+0
+57.54 26-26 SAH Mål
+ST
+5
+Frederik ARNOLDSEN
+Assist
+11
+Thomas ARNOLDSEN
+1
+Rasmus HENRIKSEN
+58.25
+MTH Skud reddet
+PL
+17
+Erik Thorsteinsen TOFT
+12
+Salah BOUTAF
+59.14
+SAH Skud reddet
+Gbr 20
+Morten BALLING
+1
+Rasmus HENRIKSEN
+59.38
+MTH Time out
+59.59
+MTH Tabt bold
+17
+Erik Thorsteinsen TOFT
+60.00 26-26
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Anne Sofie Vindstrup, Susan Juhl,

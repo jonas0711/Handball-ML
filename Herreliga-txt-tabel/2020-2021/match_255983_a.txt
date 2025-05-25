@@ -1,0 +1,817 @@
+KAMPHÆNDELSER
+TMS Ringsted - Skjern Håndbold   19 - 22  (7 - 9)
+255983 / 10-10-2020 / Dansk Kabel TV Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.28
+TMS Skud på stolpe
+PL
+7
+Morten Hempel JENSEN
+Retur
+4
+Andreas MAGAARD
+12
+Robin HAUG
+1.24
+TMS Regelfejl
+15
+Lauritz LEGÉR
+1.26
+SKH Skud forbi
+1:e
+6
+Jonas TIDEMAND
+12
+Frank MIKKELSEN
+2.23
+TMS Tabt bold
+24
+Anton BRAMMING
+2.37
+SKH Skud reddet
+VF
+23
+Jørgen RASMUSSEN
+12
+Frank MIKKELSEN
+2.40
+1-0
+TMS Mål
+1:e
+19
+Oskar Vind RASMUSSEN
+Assist
+15
+Lauritz LEGÉR
+12
+Robin HAUG
+2.49
+SKH Skud reddet
+2:e
+11
+Jonathan STENBÄCKEN
+12
+Frank MIKKELSEN
+4.11
+2-0
+TMS Mål
+HB
+7
+Morten Hempel JENSEN
+Assist
+4
+Andreas MAGAARD
+12
+Robin HAUG
+4.24
+2-1
+SKH Mål
+Gbr 25
+Eivind TANGEN
+12
+Frank MIKKELSEN
+4.59
+3-1
+TMS Mål
+PL
+7
+Morten Hempel JENSEN
+12
+Robin HAUG
+5.09
+SKH Regelfejl
+6
+Jonas TIDEMAND
+5.16
+TMS Skud forbi
+PL
+10
+Mads DUDEK
+12
+Robin HAUG
+5.23
+3-2
+SKH Mål
+1:e
+11
+Jonathan STENBÄCKEN
+Assist
+12
+Robin HAUG
+12
+Frank MIKKELSEN
+6.17
+TMS Skud reddet
+HF
+15
+Lauritz LEGÉR
+12
+Robin HAUG
+6.59
+SKH Skud på stolpe
+PL
+11
+Jonathan STENBÄCKEN
+Retur
+11
+Jonathan STENBÄCKEN
+12
+Frank MIKKELSEN
+7.47
+TMS Advarsel
+6
+Sebastian Reimer THOR
+7.55
+SKH Tilkendt straffe
+6
+Jonas TIDEMAND
+Forårs. str.
+4
+Andreas MAGAARD
+8.25
+3-3
+SKH Mål på straffe
+7
+Anders EGGERT
+12
+Frank MIKKELSEN
+8.58
+SKH Udvisning
+11
+Jonathan STENBÄCKEN
+9.11
+TMS Skud reddet
+VB
+7
+Morten Hempel JENSEN
+12
+Robin HAUG
+9.55
+SKH Skud reddet
+HB 25
+Eivind TANGEN
+12
+Frank MIKKELSEN
+10.07
+4-3
+TMS Mål
+1:e
+24
+Anton BRAMMING
+Assist
+12
+Frank MIKKELSEN
+0
+11.03
+SKH Skud blokeret
+PL
+10
+Jesper KONRADSSON
+Blok af (ret)
+6
+Sebastian Reimer THOR
+11.17
+SKH Skud reddet
+HB 25
+Eivind TANGEN
+12
+Frank MIKKELSEN
+11.43
+TMS Skud reddet
+Gbr 15
+Lauritz LEGÉR
+Retur
+0
+12
+Robin HAUG
+11.51
+TMS Time out
+12.08
+TMS Regelfejl
+7
+Morten Hempel JENSEN
+12.20
+SKH Skud reddet
+Gbr 25
+Eivind TANGEN
+12
+Frank MIKKELSEN
+12.30
+TMS Skud reddet
+Gbr 15
+Lauritz LEGÉR
+Retur
+12
+Frank MIKKELSEN
+12
+Robin HAUG
+13.43
+TMS Skud reddet
+PL
+7
+Morten Hempel JENSEN
+Retur
+24
+Anton BRAMMING
+12
+Robin HAUG
+13.52
+5-3
+TMS Mål
+VF
+24
+Anton BRAMMING
+12
+Robin HAUG
+14.24
+SKH Skud reddet
+Gbr
+9
+Elvar Örn JÓNSSON
+12
+Frank MIKKELSEN
+15.25
+TMS Skud reddet
+VF
+24
+Anton BRAMMING
+12
+Robin HAUG
+16.02
+SKH Tilkendt straffe
+10
+Jesper KONRADSSON
+Forårs. str.
+10
+Mads DUDEK
+16.18
+TMS Advarsel
+10
+Mads DUDEK
+16.25
+5-4
+SKH Mål på straffe
+7
+Anders EGGERT
+12
+Frank MIKKELSEN
+17.16
+TMS Skud reddet
+PL
+93
+Martin Mauer LARSEN
+12
+Robin HAUG
+18.03
+SKH Regelfejl
+9
+Elvar Örn JÓNSSON
+18.59
+TMS Skud reddet
+HB 93
+Martin Mauer LARSEN
+12
+Robin HAUG
+19.33
+5-5
+SKH Mål
+HB
+5
+Oliver NORLYK
+Assist
+10
+Jesper KONRADSSON
+12
+Frank MIKKELSEN
+20.04
+TMS Skud reddet
+VB
+7
+Morten Hempel JENSEN
+12
+Robin HAUG
+20.38
+5-6
+SKH Mål
+VB
+9
+Elvar Örn JÓNSSON
+12
+Frank MIKKELSEN
+21.26
+TMS Skud reddet
+HB 15
+Lauritz LEGÉR
+12
+Robin HAUG
+21.52
+SKH Skud reddet
+VF
+23
+Jørgen RASMUSSEN
+12
+Frank MIKKELSEN
+22.29
+TMS Tabt bold
+15
+Lauritz LEGÉR
+Bold erobret 23
+Jørgen RASMUSSEN
+22.38
+5-7
+SKH Mål
+1:e
+23
+Jørgen RASMUSSEN
+0
+23.11
+TMS Regelfejl
+6
+Sebastian Reimer THOR
+23.41
+SKH Skud reddet
+PL
+5
+Oliver NORLYK
+12
+Frank MIKKELSEN
+23.50
+TMS Fejlaflevering
+12
+Frank MIKKELSEN
+23.56
+SKH Regelfejl
+5
+Oliver NORLYK
+24.03
+6-7
+TMS Mål
+1:e
+24
+Anton BRAMMING
+12
+Robin HAUG
+24.38
+6-8
+SKH Mål
+Gbr
+9
+Elvar Örn JÓNSSON
+12
+Frank MIKKELSEN
+25.36
+7-8
+TMS Mål
+HF
+19
+Oskar Vind RASMUSSEN
+Assist
+93
+Martin Mauer LARSEN
+12
+Robin HAUG
+26.30
+SKH Tabt bold
+9
+Elvar Örn JÓNSSON
+
+--- Side 2 ---
+KAMPHÆNDELSER
+TMS Ringsted - Skjern Håndbold   19 - 22  (7 - 9)
+255983 / 10-10-2020 / Dansk Kabel TV Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+26.39
+TMS Skud reddet
+1:e
+19
+Oskar Vind RASMUSSEN
+12
+Robin HAUG
+26.45
+SKH Tilkendt straffe
+9
+Elvar Örn JÓNSSON
+Forårs. str.
+6
+Sebastian Reimer THOR
+26.53
+7-9
+SKH Mål på straffe
+7
+Anders EGGERT
+84
+Brian JØRGENSEN
+27.59
+TMS Tabt bold
+15
+Lauritz LEGÉR
+28.31
+SKH Time out
+28.45
+SKH Skud reddet
+PL
+5
+Oliver NORLYK
+12
+Frank MIKKELSEN
+29.24
+TMS Fejlaflevering
+10
+Mads DUDEK
+29.53
+SKH Skud reddet
+VF
+23
+Jørgen RASMUSSEN
+12
+Frank MIKKELSEN
+29.59
+TMS Fejlaflevering
+12
+Frank MIKKELSEN
+30.00
+7-9
+Halvleg
+30.35
+SKH Regelfejl
+10
+Jesper KONRADSSON
+31.38
+TMS Skud reddet
+HB 18
+Martin Risom CHRISTENSEN
+12
+Robin HAUG
+32.10
+SKH Tilkendt straffe
+25
+Eivind TANGEN
+Forårs. str.
+10
+Mads DUDEK
+32.28
+7-10
+SKH Mål på straffe
+7
+Anders EGGERT
+12
+Frank MIKKELSEN
+33.44
+8-10
+TMS Mål
+VF
+10
+Mads DUDEK
+Assist
+7
+Morten Hempel JENSEN
+12
+Robin HAUG
+34.20
+8-11
+SKH Mål
+Gbr 25
+Eivind TANGEN
+12
+Frank MIKKELSEN
+34.57
+TMS Skud blokeret
+PL
+18
+Martin Risom CHRISTENSEN Blok af (ret)
+6
+Jonas TIDEMAND
+35.49
+9-11
+TMS Mål
+PL
+93
+Martin Mauer LARSEN
+Assist
+7
+Morten Hempel JENSEN
+12
+Robin HAUG
+36.30
+9-12
+SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+10
+Jesper KONRADSSON
+12
+Frank MIKKELSEN
+37.22
+TMS Tilkendt straffe
+4
+Andreas MAGAARD
+Forårs. str.
+25
+Eivind TANGEN
+37.44 10-12 TMS Mål på straffe
+7
+Morten Hempel JENSEN
+12
+Robin HAUG
+38.16 10-13 SKH Mål
+HB 25
+Eivind TANGEN
+12
+Frank MIKKELSEN
+39.10
+TMS Skud blokeret
+PL
+6
+Sebastian Reimer THOR
+Blokeret af
+6
+Jonas TIDEMAND
+39.20 10-14 SKH Mål
+1:e
+11
+Jonathan STENBÄCKEN
+12
+Frank MIKKELSEN
+39.56
+TMS Tabt bold
+93
+Martin Mauer LARSEN
+40.34 10-15 SKH Mål
+Gbr
+9
+Elvar Örn JÓNSSON
+12
+Frank MIKKELSEN
+40.44
+TMS Udvisning
+15
+Lauritz LEGÉR
+41.03 11-15 TMS Mål
+ST
+4
+Andreas MAGAARD
+Assist
+18
+Martin Risom CHRISTENSEN 12
+Robin HAUG
+41.32 11-16 SKH Mål
+HB 25
+Eivind TANGEN
+12
+Frank MIKKELSEN
+42.41 12-16 TMS Mål
+VB
+11
+Andreas Sørensen HAMPE
+12
+Robin HAUG
+42.48
+TMS Udvisning
+10
+Mads DUDEK
+43.09 12-17 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+25
+Eivind TANGEN
+12
+Frank MIKKELSEN
+43.54
+TMS Fejlaflevering
+11
+Andreas Sørensen HAMPE
+44.10
+SKH Skud reddet
+PL
+10
+Jesper KONRADSSON
+84
+Brian JØRGENSEN
+44.19
+TMS Time out
+45.12
+SKH Udvisning
+25
+Eivind TANGEN
+45.24
+TMS Skud på stolpe
+VF
+24
+Anton BRAMMING
+12
+Robin HAUG
+46.13
+SKH Skud på stolpe
+VF
+23
+Jørgen RASMUSSEN
+84
+Brian JØRGENSEN
+46.49 13-17 TMS Mål
+Gbr
+7
+Morten Hempel JENSEN
+12
+Robin HAUG
+47.23
+SKH Regelfejl
+5
+Oliver NORLYK
+47.59
+TMS Tabt bold
+4
+Andreas MAGAARD
+48.53
+SKH Regelfejl
+25
+Eivind TANGEN
+49.19 14-17 TMS Mål
+VB
+11
+Andreas Sørensen HAMPE
+12
+Robin HAUG
+49.28
+SKH Time out
+49.47
+SKH Fejlaflevering
+25
+Eivind TANGEN
+50.32
+TMS Skud reddet
+HF
+19
+Oskar Vind RASMUSSEN
+30
+Svend RUGHAVE
+51.03 14-18 SKH Mål
+VF
+7
+Anders EGGERT
+Assist
+9
+Elvar Örn JÓNSSON
+84
+Brian JØRGENSEN
+51.30
+TMS Skud på stolpe
+VB
+11
+Andreas Sørensen HAMPE
+30
+Svend RUGHAVE
+52.19
+SKH Tabt bold
+25
+Eivind TANGEN
+52.31
+TMS Tilkendt straffe
+7
+Morten Hempel JENSEN
+Forårs. str.
+9
+Elvar Örn JÓNSSON
+52.45 15-18 TMS Mål på straffe
+93
+Martin Mauer LARSEN
+30
+Svend RUGHAVE
+53.10
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+Bold erobret 19
+Oskar Vind RASMUSSEN
+53.49 16-18 TMS Mål
+HF
+19
+Oskar Vind RASMUSSEN
+Assist
+11
+Andreas Sørensen HAMPE
+30
+Svend RUGHAVE
+54.17 16-19 SKH Mål
+Gbr 25
+Eivind TANGEN
+Assist
+21
+René RASMUSSEN
+84
+Brian JØRGENSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+TMS Ringsted - Skjern Håndbold   19 - 22  (7 - 9)
+255983 / 10-10-2020 / Dansk Kabel TV Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+54.49
+TMS Skud reddet
+VB
+11
+Andreas Sørensen HAMPE
+30
+Svend RUGHAVE
+55.25 16-20 SKH Mål
+ST
+11
+Jonathan STENBÄCKEN
+Assist
+9
+Elvar Örn JÓNSSON
+84
+Brian JØRGENSEN
+56.12 17-20 TMS Mål
+ST
+6
+Sebastian Reimer THOR
+Assist
+10
+Mads DUDEK
+30
+Svend RUGHAVE
+56.47 17-21 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+25
+Eivind TANGEN
+84
+Brian JØRGENSEN
+57.16 18-21 TMS Mål
+Gbr 18
+Martin Risom CHRISTENSEN
+30
+Svend RUGHAVE
+58.04
+SKH Skud reddet
+HB 25
+Eivind TANGEN
+84
+Brian JØRGENSEN
+58.27 19-21 TMS Mål
+PL
+7
+Morten Hempel JENSEN
+30
+Svend RUGHAVE
+58.55
+SKH Time out
+59.07
+SKH Skud reddet
+Gbr
+9
+Elvar Örn JÓNSSON
+84
+Brian JØRGENSEN
+59.33
+TMS Skud reddet
+VB
+10
+Mads DUDEK
+30
+Svend RUGHAVE
+59.48 19-22 SKH Mål
+Gbr
+9
+Elvar Örn JÓNSSON
+84
+Brian JØRGENSEN
+60.00 19-22
+Fuld tid
+Software: Jilsén System AB. Logget af: Sigurd Meyer, Tobias Lantz,

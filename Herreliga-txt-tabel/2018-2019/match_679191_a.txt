@@ -1,0 +1,996 @@
+KAMPHÆNDELSER
+TMS Ringsted - KIF Kolding   25 - 26  (12 - 10)
+679191 / 8-12-2018 / Dansk Kabel TV Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.34
+KIF
+Skud reddet
+HB 18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+0.40
+TMS Skud reddet
+PL
+14
+Lasse Sinding JENSEN
+Retur
+18
+Benjamin B PEDERSEN
+12
+Rickard FRISK
+0.43
+TMS Skud reddet
+ST
+18
+Benjamin B PEDERSEN
+12
+Rickard FRISK
+1.04
+0-1
+KIF
+Mål
+ST
+5
+Alexander MORSTEN
+11
+Mikkel TØNNERS
+1.29
+TMS Skud reddet
+Gbr 14
+Lasse Sinding JENSEN
+12
+Rickard FRISK
+1.34
+KIF
+Skud reddet
+PL
+10
+Mattias THYNELL
+11
+Mikkel TØNNERS
+1.50
+TMS Skud på stolpe
+PL
+88
+Nicolai NØRAGER
+12
+Rickard FRISK
+2.36
+0-2
+KIF
+Mål
+Gbr 18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+3.08
+1-2
+TMS Mål
+HB 31
+Morten NYBERG
+12
+Rickard FRISK
+3.20
+1-3
+KIF
+Mål
+VB
+14
+Olafur GUSTAFSSON
+11
+Mikkel TØNNERS
+4.21
+2-3
+TMS Mål
+Gbr 88
+Nicolai NØRAGER
+Assist
+5
+Anders MØLLER
+12
+Rickard FRISK
+4.58
+KIF
+Skud blokeret
+PL
+10
+Mattias THYNELL
+Retur
+10
+Mattias THYNELL
+5.19
+KIF
+Skud reddet
+HB 18
+Kasper Irming ANDERSEN
+Retur
+0
+11
+Mikkel TØNNERS
+6.16
+KIF
+Skud reddet
+VB
+15
+Jens PESCHARDT
+11
+Mikkel TØNNERS
+6.51
+TMS Regelfejl
+18
+Benjamin B PEDERSEN
+6.57
+KIF
+Regelfejl
+18
+Kasper Irming ANDERSEN
+7.16
+KIF
+Advarsel
+18
+Kasper Irming ANDERSEN
+7.33
+TMS Skud reddet
+VB
+88
+Nicolai NØRAGER
+12
+Rickard FRISK
+7.48
+TMS Advarsel
+14
+Lasse Sinding JENSEN
+8.17
+KIF
+Skud blokeret
+PL
+9
+Andreas FLODMAN
+Retur
+0
+8.30
+2-4
+KIF
+Mål
+Gbr 10
+Mattias THYNELL
+11
+Mikkel TØNNERS
+8.39
+TMS Skud på stolpe
+VF
+24
+Anton BRAMMING
+12
+Rickard FRISK
+9.17
+KIF
+Skud forbi
+HB 10
+Mattias THYNELL
+11
+Mikkel TØNNERS
+9.32
+KIF
+Advarsel
+9
+Andreas FLODMAN
+10.02
+TMS Skud reddet
+VB
+88
+Nicolai NØRAGER
+12
+Rickard FRISK
+10.41
+TMS Advarsel
+18
+Benjamin B PEDERSEN
+11.51
+KIF
+Skud blokeret
+PL
+18
+Kasper Irming ANDERSEN
+12.00
+TMS Tilkendt straffe
+31
+Morten NYBERG
+Forårsagede straffe
+15
+Jens PESCHARDT
+12.01
+TMS Straffekast reddet
+21
+Simon OMME
+12
+Rickard FRISK
+12.34
+KIF
+Fejlaflevering
+9
+Andreas FLODMAN
+Bold erobret
+5
+Anders MØLLER
+12.45
+TMS Time out
+13.07
+TMS Skud blokeret
+VB
+25
+Morten Hempel JENSEN
+13.42
+KIF
+Skud reddet
+PL
+15
+Jens PESCHARDT
+11
+Mikkel TØNNERS
+13.50
+3-4
+TMS Mål
+1:e
+5
+Anders MØLLER
+Assist
+88
+Nicolai NØRAGER
+12
+Rickard FRISK
+14.26
+3-5
+KIF
+Mål
+Gbr 10
+Mattias THYNELL
+11
+Mikkel TØNNERS
+14.36
+KIF
+Udvisning
+14
+Olafur GUSTAFSSON
+14.50
+4-5
+TMS Mål
+Gbr 88
+Nicolai NØRAGER
+12
+Rickard FRISK
+15.32
+KIF
+Fejlaflevering
+17
+Andreas VÆVER
+15.47
+5-5
+TMS Mål
+1:e
+88
+Nicolai NØRAGER
+12
+Rickard FRISK
+16.14
+5-6
+KIF
+Mål
+ST
+19
+Cyril VIUDES
+Assist
+18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+17.03
+6-6
+TMS Mål
+HF
+5
+Anders MØLLER
+Assist
+31
+Morten NYBERG
+12
+Rickard FRISK
+17.35
+6-7
+KIF
+Mål
+HB 18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+18.26
+TMS Skud på stolpe
+PL
+14
+Lasse Sinding JENSEN
+12
+Rickard FRISK
+18.33
+KIF
+Fejlaflevering
+9
+Andreas FLODMAN
+Bold erobret 35
+Claus VINDING
+19.04
+7-7
+TMS Mål
+ST
+18
+Benjamin B PEDERSEN
+Assist
+14
+Lasse Sinding JENSEN
+12
+Rickard FRISK
+19.34
+KIF
+Skud reddet
+VB
+10
+Mattias THYNELL
+11
+Mikkel TØNNERS
+20.39
+8-7
+TMS Mål
+PL
+31
+Morten NYBERG
+12
+Rickard FRISK
+21.10
+KIF
+Regelfejl
+18
+Kasper Irming ANDERSEN
+21.59
+9-7
+TMS Mål
+PL
+31
+Morten NYBERG
+12
+Rickard FRISK
+22.11
+KIF
+Time out
+22.55
+KIF
+Skud blokeret
+HB
+9
+Andreas FLODMAN
+23.43
+TMS Skud reddet
+VB
+14
+Lasse Sinding JENSEN
+12
+Rickard FRISK
+23.53
+KIF
+Skud blokeret
+PL
+14
+Olafur GUSTAFSSON
+Retur
+0
+24.22
+KIF
+Skud reddet
+ST
+5
+Alexander MORSTEN
+11
+Mikkel TØNNERS
+
+--- Side 2 ---
+KAMPHÆNDELSER
+TMS Ringsted - KIF Kolding   25 - 26  (12 - 10)
+679191 / 8-12-2018 / Dansk Kabel TV Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.56 10-7
+TMS Mål
+VB
+25
+Morten Hempel JENSEN
+12
+Rickard FRISK
+25.10
+TMS Udvisning
+14
+Lasse Sinding JENSEN
+25.24
+KIF
+Skud reddet
+PL
+5
+Alexander MORSTEN
+11
+Mikkel TØNNERS
+26.17 11-7
+TMS Mål
+PL
+88
+Nicolai NØRAGER
+12
+Rickard FRISK
+26.22 11-8
+KIF
+Mål
+1:e
+5
+Alexander MORSTEN
+0
+27.10
+TMS Skud på stolpe
+PL
+31
+Morten NYBERG
+12
+Rickard FRISK
+27.20
+KIF
+Skud reddet
+Gbr 18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+27.21
+TMS Udvisning
+35
+Claus VINDING
+27.59 12-8
+TMS Mål
+HB 31
+Morten NYBERG
+12
+Rickard FRISK
+28.23 12-9
+KIF
+Mål
+ST
+19
+Cyril VIUDES
+11
+Mikkel TØNNERS
+28.38
+KIF
+Advarsel
+A
+Lars FREDERIKSEN
+29.11
+TMS Fejlaflevering
+31
+Morten NYBERG
+29.16
+KIF
+Skud forbi
+1:e
+18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+29.53
+TMS Skud reddet
+PL
+88
+Nicolai NØRAGER
+12
+Rickard FRISK
+30.00
+KIF
+Skud reddet
+1:e
+5
+Alexander MORSTEN
+Retur
+0
+11
+Mikkel TØNNERS
+30.00
+KIF
+Tilkendt straffe
+5
+Alexander MORSTEN
+Forårsagede straffe
+6
+Sebastian Reimer THOR
+30.00
+TMS Udvisning
+6
+Sebastian Reimer THOR
+30.00 12-10 KIF
+Mål på straffekast
+17
+Andreas VÆVER
+11
+Mikkel TØNNERS
+30.00 12-10
+Halvleg
+30.33
+TMS Fejlaflevering
+31
+Morten NYBERG
+Bold erobret 18
+Kasper Irming ANDERSEN
+30.39
+KIF
+Tilkendt straffe
+18
+Kasper Irming ANDERSEN
+Forårsagede straffe
+88
+Nicolai NØRAGER
+30.41
+KIF
+Straffekast reddet
+17
+Andreas VÆVER
+11
+Mikkel TØNNERS
+31.28 13-10 TMS Mål
+VB
+88
+Nicolai NØRAGER
+12
+Rickard FRISK
+32.01 13-11 KIF
+Mål
+HB 18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+32.56
+TMS Skud blokeret
+VB
+25
+Morten Hempel JENSEN
+Retur
+0
+33.10
+TMS Skud reddet
+HB 31
+Morten NYBERG
+Retur
+0
+12
+Rickard FRISK
+33.31
+TMS Skud forbi
+Gbr 88
+Nicolai NØRAGER
+12
+Rickard FRISK
+33.38 13-12 KIF
+Mål
+1:e
+18
+Kasper Irming ANDERSEN
+Assist
+12
+Rickard FRISK
+11
+Mikkel TØNNERS
+34.14
+TMS Fejlaflevering
+31
+Morten NYBERG
+Bold erobret 18
+Kasper Irming ANDERSEN
+34.20 13-13 KIF
+Mål
+1:e
+18
+Kasper Irming ANDERSEN
+0
+35.03
+TMS Skud blokeret
+PL
+88
+Nicolai NØRAGER
+Retur
+0
+35.20 14-13 TMS Mål
+VF
+35
+Claus VINDING
+Assist
+31
+Morten NYBERG
+12
+Rickard FRISK
+35.54
+KIF
+Skud blokeret
+VB
+10
+Mattias THYNELL
+Retur
+0
+36.11
+KIF
+Regelfejl
+5
+Alexander MORSTEN
+36.16 15-13 TMS Mål
+ST
+6
+Sebastian Reimer THOR
+Assist
+14
+Lasse Sinding JENSEN
+12
+Rickard FRISK
+36.53
+KIF
+Fejlaflevering
+19
+Cyril VIUDES
+37.00
+TMS Fejlaflevering
+31
+Morten NYBERG
+Bold erobret 17
+Andreas VÆVER
+37.10
+KIF
+Regelfejl
+17
+Andreas VÆVER
+37.43 16-13 TMS Mål
+VB
+25
+Morten Hempel JENSEN
+12
+Rickard FRISK
+38.33 16-14 KIF
+Mål
+PL
+10
+Mattias THYNELL
+11
+Mikkel TØNNERS
+39.19 17-14 TMS Mål
+HF
+5
+Anders MØLLER
+Assist
+25
+Morten Hempel JENSEN
+12
+Rickard FRISK
+39.54 17-15 KIF
+Mål
+HF
+9
+Andreas FLODMAN
+Assist
+18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+40.55 18-15 TMS Mål
+ST
+18
+Benjamin B PEDERSEN
+Assist
+14
+Lasse Sinding JENSEN
+12
+Rickard FRISK
+41.22 18-16 KIF
+Mål
+HF
+9
+Andreas FLODMAN
+Assist
+10
+Mattias THYNELL
+11
+Mikkel TØNNERS
+41.34
+TMS Tabt bold
+88
+Nicolai NØRAGER
+41.41 18-17 KIF
+Mål
+1:e
+10
+Mattias THYNELL
+Assist
+18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+42.18 19-17 TMS Mål
+PL
+25
+Morten Hempel JENSEN
+1
+Anders PETERSEN
+42.52
+KIF
+Skud reddet
+Gbr 15
+Jens PESCHARDT
+11
+Mikkel TØNNERS
+43.39
+KIF
+Udvisning
+5
+Alexander MORSTEN
+43.50 20-17 TMS Mål
+VB
+25
+Morten Hempel JENSEN
+1
+Anders PETERSEN
+44.40 20-18 KIF
+Mål
+PL
+18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+45.09
+TMS Skud reddet
+HF
+5
+Anders MØLLER
+12
+Rickard FRISK
+46.01 20-19 KIF
+Mål
+HB 18
+Kasper Irming ANDERSEN
+11
+Mikkel TØNNERS
+46.52
+KIF
+Udvisning
+5
+Alexander MORSTEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+TMS Ringsted - KIF Kolding   25 - 26  (12 - 10)
+679191 / 8-12-2018 / Dansk Kabel TV Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+46.54
+TMS Time out
+47.08
+TMS Skud reddet
+Gbr 88
+Nicolai NØRAGER
+12
+Rickard FRISK
+47.59
+KIF
+Skud reddet
+ST
+19
+Cyril VIUDES
+1
+Frederik Kjær ANDERSSON
+48.31
+TMS Skud på stolpe
+PL
+25
+Morten Hempel JENSEN
+12
+Rickard FRISK
+48.57
+KIF
+Time out
+49.29 20-20 KIF
+Mål
+PL
+18
+Kasper Irming ANDERSEN
+1
+Frederik Kjær ANDERSSON
+50.07 21-20 TMS Mål
+HF
+5
+Anders MØLLER
+Assist
+88
+Nicolai NØRAGER
+12
+Rickard FRISK
+50.38 21-21 KIF
+Mål
+HB 15
+Jens PESCHARDT
+1
+Frederik Kjær ANDERSSON
+51.15
+TMS Skud forbi
+Gbr 88
+Nicolai NØRAGER
+12
+Rickard FRISK
+51.48
+KIF
+Skud blokeret
+PL
+10
+Mattias THYNELL
+Retur
+0
+52.02
+TMS Udvisning
+88
+Nicolai NØRAGER
+52.20
+KIF
+Tilkendt straffe
+5
+Alexander MORSTEN
+Forårsagede straffe
+6
+Sebastian Reimer THOR
+52.26
+KIF
+Straffekast reddet
+5
+Alexander MORSTEN
+1
+Frederik Kjær ANDERSSON
+53.05 22-21 TMS Mål
+ST
+18
+Benjamin B PEDERSEN
+Assist
+31
+Morten NYBERG
+12
+Rickard FRISK
+53.24 22-22 KIF
+Mål
+PL
+18
+Kasper Irming ANDERSEN
+1
+Frederik Kjær ANDERSSON
+54.07 23-22 TMS Mål
+VF
+24
+Anton BRAMMING
+Assist
+28
+Michael RIIS
+12
+Rickard FRISK
+54.40 23-23 KIF
+Mål
+PL
+18
+Kasper Irming ANDERSEN
+1
+Frederik Kjær ANDERSSON
+55.37
+TMS Skud reddet
+ST
+18
+Benjamin B PEDERSEN
+12
+Rickard FRISK
+56.08
+KIF
+Skud reddet
+Gbr 10
+Mattias THYNELL
+1
+Frederik Kjær ANDERSSON
+56.15
+TMS Fejlaflevering
+18
+Benjamin B PEDERSEN
+Bold erobret 14
+Olafur GUSTAFSSON
+56.37
+TMS Udvisning
+31
+Morten NYBERG
+56.46 23-24 KIF
+Mål
+VB
+10
+Mattias THYNELL
+1
+Frederik Kjær ANDERSSON
+57.27
+TMS Skud reddet
+Gbr 14
+Lasse Sinding JENSEN
+12
+Rickard FRISK
+57.35 23-25 KIF
+Mål
+1:e
+10
+Mattias THYNELL
+0
+57.36
+TMS Time out
+57.58 24-25 TMS Mål
+Gbr 88
+Nicolai NØRAGER
+Assist
+25
+Morten Hempel JENSEN
+12
+Rickard FRISK
+58.34
+KIF
+Fejlaflevering
+18
+Kasper Irming ANDERSEN
+Bold erobret 88
+Nicolai NØRAGER
+59.07
+KIF
+Udvisning
+5
+Alexander MORSTEN
+59.27 25-25 TMS Mål
+HF
+5
+Anders MØLLER
+Assist
+31
+Morten NYBERG
+12
+Rickard FRISK
+59.46
+KIF
+Time out
+59.53 25-26 KIF
+Mål
+Gbr 15
+Jens PESCHARDT
+11
+Mikkel TØNNERS
+60.00 25-26
+Fuld tid
+Software: Jilsén System AB. Logget af: Sigurd Meyer, Tobias Madsen,

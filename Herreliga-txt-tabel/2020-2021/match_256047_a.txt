@@ -1,0 +1,910 @@
+KAMPHÆNDELSER
+GOG - Skjern Håndbold   30 - 25  (15 - 14)
+256047 / 19-12-2020 / Phønix Tag Arena (Gudme) - Hal 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.38
+1-0
+GOG Mål
+Gbr
+2
+Simon PYTLICK
+30
+Svend RUGHAVE
+1.16
+1-1
+SKH Mål
+HB 25
+Eivind TANGEN
+16
+Viktor Gisli HALLGRIMSSON
+2.00
+SKH Advarsel
+11
+Jonathan STENBÄCKEN
+2.32
+GOG Fejlaflevering
+31
+Emil JAKOBSEN
+3.19
+SKH Regelfejl
+11
+Jonathan STENBÄCKEN
+4.05
+2-1
+GOG Mål
+Gbr 19
+Mathias GIDSEL
+30
+Svend RUGHAVE
+4.14
+2-2
+SKH Mål
+2:e
+25
+Eivind TANGEN
+16
+Viktor Gisli HALLGRIMSSON
+4.49
+GOG Skud på stolpe
+PL
+34
+Morten OLSEN
+30
+Svend RUGHAVE
+5.05
+SKH Tilkendt straffe
+10
+Jesper KONRADSSON
+Forårs. str.
+77
+Frederik CLAUSEN
+5.08
+GOG Udvisning
+77
+Frederik CLAUSEN
+5.08
+2-3
+SKH Mål på straffe
+7
+Anders EGGERT
+16
+Viktor Gisli HALLGRIMSSON
+6.30
+3-3
+GOG Mål
+Gbr
+2
+Simon PYTLICK
+Assist
+34
+Morten OLSEN
+30
+Svend RUGHAVE
+6.37
+3-4
+SKH Mål
+2:e
+25
+Eivind TANGEN
+16
+Viktor Gisli HALLGRIMSSON
+7.49
+GOG Skud reddet
+VB
+2
+Simon PYTLICK
+30
+Svend RUGHAVE
+8.42
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+Bold erobret 21
+Kasper KILDELUND
+8.52
+GOG Tilkendt straffe
+2
+Simon PYTLICK
+Forårs. str.
+21
+René RASMUSSEN
+9.11
+4-4
+GOG Mål på straffe
+31
+Emil JAKOBSEN
+30
+Svend RUGHAVE
+9.48
+4-5
+SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+10
+Jesper KONRADSSON
+16
+Viktor Gisli HALLGRIMSSON
+10.52
+5-5
+GOG Mål
+VB
+2
+Simon PYTLICK
+30
+Svend RUGHAVE
+11.54
+5-6
+SKH Mål
+Gbr 26
+Jonathan WÜRTZ
+16
+Viktor Gisli HALLGRIMSSON
+12.31
+6-6
+GOG Mål
+Gbr 19
+Mathias GIDSEL
+30
+Svend RUGHAVE
+13.10
+6-7
+SKH Mål
+ST
+6
+Jonas TIDEMAND
+Assist
+25
+Eivind TANGEN
+16
+Viktor Gisli HALLGRIMSSON
+13.27
+GOG Tilkendt straffe
+19
+Mathias GIDSEL
+Forårs. str.
+11
+Jonathan STENBÄCKEN
+13.43
+7-7
+GOG Mål på straffe
+31
+Emil JAKOBSEN
+30
+Svend RUGHAVE
+14.14
+SKH Regelfejl
+6
+Jonas TIDEMAND
+14.40
+8-7
+GOG Mål
+Gbr
+2
+Simon PYTLICK
+30
+Svend RUGHAVE
+14.52
+SKH Tabt bold
+25
+Eivind TANGEN
+15.17
+GOG Skud reddet
+PL
+34
+Morten OLSEN
+30
+Svend RUGHAVE
+15.23
+SKH Skud reddet
+1:e
+21
+René RASMUSSEN
+16
+Viktor Gisli HALLGRIMSSON
+16.17
+GOG Skud reddet
+ST
+22
+Anders ZACHARIASSEN
+30
+Svend RUGHAVE
+16.23
+8-8
+SKH Mål
+1:e
+26
+Jonathan WÜRTZ
+Assist
+10
+Jesper KONRADSSON
+16
+Viktor Gisli HALLGRIMSSON
+17.05
+GOG Skud på stolpe
+PL
+2
+Simon PYTLICK
+30
+Svend RUGHAVE
+17.41
+8-9
+SKH Mål
+VF
+23
+Jørgen RASMUSSEN
+Assist
+10
+Jesper KONRADSSON
+16
+Viktor Gisli HALLGRIMSSON
+18.34
+GOG Tilkendt straffe
+17
+Oscar BERGENDAHL
+Forårs. str.
+6
+Jonas TIDEMAND
+18.34
+SKH Udvisning
+11
+Jonathan STENBÄCKEN
+18.37
+9-9
+GOG Mål på straffe
+31
+Emil JAKOBSEN
+30
+Svend RUGHAVE
+19.16
+9-10
+SKH Mål
+Gbr 25
+Eivind TANGEN
+16
+Viktor Gisli HALLGRIMSSON
+19.43 10-10 GOG Mål
+HF
+21
+Kasper KILDELUND
+Assist
+19
+Mathias GIDSEL
+30
+Svend RUGHAVE
+20.33
+SKH Skud på stolpe
+ST
+6
+Jonas TIDEMAND
+16
+Viktor Gisli HALLGRIMSSON
+21.06
+SKH Udvisning
+25
+Eivind TANGEN
+21.31
+GOG Skud reddet
+HF
+21
+Kasper KILDELUND
+30
+Svend RUGHAVE
+21.59
+SKH Tilkendt straffe
+10
+Jesper KONRADSSON
+Forårs. str.
+21
+Kasper KILDELUND
+22.07 10-11 SKH Mål på straffe
+7
+Anders EGGERT
+16
+Viktor Gisli HALLGRIMSSON
+22.38 11-11 GOG Mål
+Gbr 34
+Morten OLSEN
+30
+Svend RUGHAVE
+23.17 11-12 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+5
+Oliver NORLYK
+16
+Viktor Gisli HALLGRIMSSON
+23.27
+GOG Time out
+23.42
+GOG Tabt bold
+19
+Mathias GIDSEL
+23.44 11-13 SKH Mål
+1:e
+23
+Jørgen RASMUSSEN
+Assist
+11
+Jonathan STENBÄCKEN
+16
+Viktor Gisli HALLGRIMSSON
+23.56
+GOG Fejlaflevering
+19
+Mathias GIDSEL
+24.30 11-14 SKH Mål
+Gbr
+9
+Elvar Örn JÓNSSON
+Assist
+10
+Jesper KONRADSSON
+16
+Viktor Gisli HALLGRIMSSON
+25.12 12-14 GOG Mål
+VF
+31
+Emil JAKOBSEN
+Assist
+19
+Mathias GIDSEL
+30
+Svend RUGHAVE
+25.21
+SKH Regelfejl
+11
+Jonathan STENBÄCKEN
+25.30
+GOG Regelfejl
+21
+Kasper KILDELUND
+26.02
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+Bold erobret 19
+Mathias GIDSEL
+
+--- Side 2 ---
+KAMPHÆNDELSER
+GOG - Skjern Håndbold   30 - 25  (15 - 14)
+256047 / 19-12-2020 / Phønix Tag Arena (Gudme) - Hal 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+26.07 13-14 GOG Mål
+1:e
+19
+Mathias GIDSEL
+30
+Svend RUGHAVE
+26.45
+SKH Skud reddet
+HB
+5
+Oliver NORLYK
+16
+Viktor Gisli HALLGRIMSSON
+27.15
+GOG Tabt bold
+19
+Mathias GIDSEL
+27.25
+SKH Fejlaflevering
+6
+Jonas TIDEMAND
+27.54 14-14 GOG Mål
+PL
+34
+Morten OLSEN
+30
+Svend RUGHAVE
+28.07
+SKH Fejlaflevering
+5
+Oliver NORLYK
+Bold erobret 31
+Emil JAKOBSEN
+28.13
+GOG Skud reddet
+1:e
+31
+Emil JAKOBSEN
+30
+Svend RUGHAVE
+28.14
+SKH Time out
+28.44
+SKH Skud reddet
+Gbr 10
+Jesper KONRADSSON
+Retur
+0
+16
+Viktor Gisli HALLGRIMSSON
+29.24
+SKH Skud reddet
+PL
+25
+Eivind TANGEN
+16
+Viktor Gisli HALLGRIMSSON
+30.00
+GOG Tilkendt straffe
+17
+Oscar BERGENDAHL
+Forårs. str.
+25
+Eivind TANGEN
+30.00 15-14 GOG Mål på straffe
+31
+Emil JAKOBSEN
+12
+Robin HAUG
+30.00 15-14
+Halvleg
+30.34
+SKH Skud blokeret
+PL
+9
+Elvar Örn JÓNSSON
+Blok af (ret)
+22
+Anders ZACHARIASSEN
+30.52
+SKH Skud reddet
+Gbr
+9
+Elvar Örn JÓNSSON
+16
+Viktor Gisli HALLGRIMSSON
+31.38
+GOG Skud reddet
+VB
+2
+Simon PYTLICK
+12
+Robin HAUG
+32.28
+SKH Fejlaflevering
+25
+Eivind TANGEN
+Bold erobret 19
+Mathias GIDSEL
+33.03 16-14 GOG Mål
+Gbr
+2
+Simon PYTLICK
+12
+Robin HAUG
+33.15 16-15 SKH Mål
+VB
+9
+Elvar Örn JÓNSSON
+16
+Viktor Gisli HALLGRIMSSON
+33.44 17-15 GOG Mål
+Gbr 34
+Morten OLSEN
+12
+Robin HAUG
+34.21
+SKH Tabt bold
+6
+Jonas TIDEMAND
+34.24 18-15 GOG Mål
+1:e
+17
+Oscar BERGENDAHL
+Assist
+19
+Mathias GIDSEL
+12
+Robin HAUG
+35.08 18-16 SKH Mål
+PL
+10
+Jesper KONRADSSON
+16
+Viktor Gisli HALLGRIMSSON
+35.41 19-16 GOG Mål
+ST
+22
+Anders ZACHARIASSEN
+Assist
+19
+Mathias GIDSEL
+12
+Robin HAUG
+35.53
+SKH Fejlaflevering
+25
+Eivind TANGEN
+Bold erobret 22
+Anders ZACHARIASSEN
+35.57 20-16 GOG Mål
+1:e
+31
+Emil JAKOBSEN
+Assist
+22
+Anders ZACHARIASSEN
+12
+Robin HAUG
+36.02
+SKH Time out
+36.24 20-17 SKH Mål
+ST
+6
+Jonas TIDEMAND
+Assist
+25
+Eivind TANGEN
+16
+Viktor Gisli HALLGRIMSSON
+36.37 21-17 GOG Mål
+ST
+22
+Anders ZACHARIASSEN
+Assist
+2
+Simon PYTLICK
+12
+Robin HAUG
+36.37
+SKH Udvisning
+25
+Eivind TANGEN
+37.05 21-18 SKH Mål
+Gbr
+9
+Elvar Örn JÓNSSON
+16
+Viktor Gisli HALLGRIMSSON
+37.41
+GOG Skud reddet
+VF
+31
+Emil JAKOBSEN
+12
+Robin HAUG
+38.45 21-19 SKH Mål
+PL
+9
+Elvar Örn JÓNSSON
+16
+Viktor Gisli HALLGRIMSSON
+39.14 22-19 GOG Mål
+VF
+31
+Emil JAKOBSEN
+Assist
+34
+Morten OLSEN
+12
+Robin HAUG
+39.29
+SKH Skud reddet
+Gbr
+9
+Elvar Örn JÓNSSON
+Retur
+0
+16
+Viktor Gisli HALLGRIMSSON
+40.09
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+41.10
+GOG Skud forbi
+VB
+19
+Mathias GIDSEL
+12
+Robin HAUG
+41.45
+SKH Fejlaflevering
+9
+Elvar Örn JÓNSSON
+41.57 23-19 GOG Mål
+1:e
+16
+Viktor Gisli HALLGRIMSSON
+0
+42.16 23-20 SKH Mål
+PL
+9
+Elvar Örn JÓNSSON
+16
+Viktor Gisli HALLGRIMSSON
+43.05
+GOG Fejlaflevering
+2
+Simon PYTLICK
+43.09 23-21 SKH Mål
+1:e
+23
+Jørgen RASMUSSEN
+Assist
+12
+Robin HAUG
+16
+Viktor Gisli HALLGRIMSSON
+44.06
+GOG Skud reddet
+VB
+2
+Simon PYTLICK
+12
+Robin HAUG
+44.12 23-22 SKH Mål
+1:e
+6
+Jonas TIDEMAND
+Assist
+9
+Elvar Örn JÓNSSON
+16
+Viktor Gisli HALLGRIMSSON
+44.18
+GOG Time out
+44.40
+GOG Tilkendt straffe
+22
+Anders ZACHARIASSEN
+Forårs. str.
+6
+Jonas TIDEMAND
+44.40
+SKH Udvisning
+6
+Jonas TIDEMAND
+44.44 24-22 GOG Mål på straffe
+31
+Emil JAKOBSEN
+12
+Robin HAUG
+45.38
+SKH Skud reddet
+PL
+10
+Jesper KONRADSSON
+16
+Viktor Gisli HALLGRIMSSON
+46.13 25-22 GOG Mål
+HF
+21
+Kasper KILDELUND
+Assist
+34
+Morten OLSEN
+12
+Robin HAUG
+47.09
+SKH Skud på stolpe
+Gbr 10
+Jesper KONRADSSON
+16
+Viktor Gisli HALLGRIMSSON
+47.49 26-22 GOG Mål
+ST
+22
+Anders ZACHARIASSEN
+Assist
+34
+Morten OLSEN
+12
+Robin HAUG
+48.23
+SKH Skud reddet
+HB
+9
+Elvar Örn JÓNSSON
+16
+Viktor Gisli HALLGRIMSSON
+48.57
+GOG Tabt bold
+31
+Emil JAKOBSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+GOG - Skjern Håndbold   30 - 25  (15 - 14)
+256047 / 19-12-2020 / Phønix Tag Arena (Gudme) - Hal 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+49.12
+GOG Udvisning
+31
+Emil JAKOBSEN
+49.34
+SKH Skud reddet
+HF
+21
+René RASMUSSEN
+16
+Viktor Gisli HALLGRIMSSON
+50.20
+GOG Passivt spil
+0
+50.49
+SKH Tabt bold
+25
+Eivind TANGEN
+51.28
+GOG Fejlaflevering
+19
+Mathias GIDSEL
+52.04
+SKH Fejlaflevering
+9
+Elvar Örn JÓNSSON
+Bold erobret 21
+Kasper KILDELUND
+52.08 27-22 GOG Mål
+1:e
+21
+Kasper KILDELUND
+0
+52.45
+SKH Tilkendt straffe
+10
+Jesper KONRADSSON
+Forårs. str.
+22
+Anders ZACHARIASSEN
+52.51 27-23 SKH Mål på straffe
+7
+Anders EGGERT
+74
+Søren HAAGEN
+53.25 28-23 GOG Mål
+VF
+31
+Emil JAKOBSEN
+Assist
+2
+Simon PYTLICK
+12
+Robin HAUG
+54.04
+SKH Fejlaflevering
+5
+Oliver NORLYK
+Bold erobret 19
+Mathias GIDSEL
+54.11
+GOG Skud reddet
+1:e
+22
+Anders ZACHARIASSEN
+30
+Svend RUGHAVE
+54.20
+GOG Udvisning
+22
+Anders ZACHARIASSEN
+54.41
+SKH Tilkendt straffe
+25
+Eivind TANGEN
+Forårs. str.
+21
+Kasper KILDELUND
+54.51 28-24 SKH Mål på straffe
+7
+Anders EGGERT
+16
+Viktor Gisli HALLGRIMSSON
+55.47 29-24 GOG Mål
+ST
+17
+Oscar BERGENDAHL
+Assist
+2
+Simon PYTLICK
+30
+Svend RUGHAVE
+55.50
+SKH Udvisning
+6
+Jonas TIDEMAND
+56.14 29-25 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+25
+Eivind TANGEN
+16
+Viktor Gisli HALLGRIMSSON
+56.15
+GOG Udvisning
+31
+Emil JAKOBSEN
+56.45
+GOG Skud reddet
+HF
+21
+Kasper KILDELUND
+30
+Svend RUGHAVE
+57.09
+SKH Skud reddet
+VF
+23
+Jørgen RASMUSSEN
+16
+Viktor Gisli HALLGRIMSSON
+57.57
+GOG Tilkendt straffe
+22
+Anders ZACHARIASSEN
+Forårs. str.
+10
+Jesper KONRADSSON
+58.08 30-25 GOG Mål på straffe
+34
+Morten OLSEN
+30
+Svend RUGHAVE
+58.28
+SKH Skud reddet
+Gbr 25
+Eivind TANGEN
+16
+Viktor Gisli HALLGRIMSSON
+59.12
+GOG Tilkendt straffe
+22
+Anders ZACHARIASSEN
+Forårs. str.
+10
+Jesper KONRADSSON
+59.38
+GOG Straffekast reddet
+31
+Emil JAKOBSEN
+30
+Svend RUGHAVE
+59.59
+SKH Skud forbi
+HB 25
+Eivind TANGEN
+16
+Viktor Gisli HALLGRIMSSON
+60.00 30-25
+Fuld tid
+Software: Jilsén System AB. Logget af: Anne-Marie Paasch Almar, Daniel Hansen,

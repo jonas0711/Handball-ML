@@ -1,0 +1,880 @@
+KAMPHÆNDELSER
+Skjern Håndbold - Nordsjælland Håndbold    25 - 22  (12 - 12)
+327165 / 8-9-2021 / Skjern Bank Arena bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.31
+0-1
+NSH Mål
+ST
+9
+Hakan SAHIN
+Assist
+20
+Jesper DAHL
+1
+Christoffer BONDE
+1.08
+SKH Fejlaflevering
+5
+Oliver NORLYK
+1.44
+NSH Regelfejl
+9
+Hakan SAHIN
+1.54
+SKH Skud reddet
+2:e
+7
+Senjamin BURIC
+Retur
+0
+29
+Jimmi ANDERSEN
+2.01
+1-1
+SKH Mål
+HF
+21
+René RASMUSSEN
+29
+Jimmi ANDERSEN
+2.16
+SKH Advarsel
+5
+Oliver NORLYK
+2.40
+NSH Regelfejl
+9
+Hakan SAHIN
+4.02
+2-1
+SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+15
+Lasse MIKKELSEN
+29
+Jimmi ANDERSEN
+4.47
+NSH Skud reddet
+ST
+9
+Hakan SAHIN
+1
+Christoffer BONDE
+4.55
+3-1
+SKH Mål
+2:e
+14
+Emil BERGHOLT
+Assist
+5
+Oliver NORLYK
+29
+Jimmi ANDERSEN
+5.26
+3-2
+NSH Mål
+Gbr
+2
+Tobias JØRGENSEN
+1
+Christoffer BONDE
+5.34
+4-2
+SKH Mål
+2:e
+5
+Oliver NORLYK
+29
+Jimmi ANDERSEN
+5.42
+NSH Skud på stolpe
+2:e
+23
+Kasper KISUM
+1
+Christoffer BONDE
+5.49
+5-2
+SKH Mål
+1:e
+19
+Lasse UTH
+Assist
+21
+René RASMUSSEN
+29
+Jimmi ANDERSEN
+6.23
+NSH Fejlaflevering
+20
+Jesper DAHL
+6.29
+SKH Skud reddet
+1:e
+19
+Lasse UTH
+29
+Jimmi ANDERSEN
+6.57
+NSH Skud reddet
+PL
+20
+Jesper DAHL
+1
+Christoffer BONDE
+7.05
+SKH Fejlaflevering
+5
+Oliver NORLYK
+7.09
+NSH Fejlaflevering
+29
+Jimmi ANDERSEN
+7.19
+SKH Skud på stolpe
+HF
+21
+René RASMUSSEN
+29
+Jimmi ANDERSEN
+7.51
+5-3
+NSH Mål
+VB
+23
+Kasper KISUM
+1
+Christoffer BONDE
+8.30
+6-3
+SKH Mål
+VB
+15
+Lasse MIKKELSEN
+29
+Jimmi ANDERSEN
+9.43
+6-4
+NSH Mål
+HB
+2
+Tobias JØRGENSEN
+1
+Christoffer BONDE
+10.21
+SKH Skud reddet
+PL
+9
+Alfred JÖNSSON
+29
+Jimmi ANDERSEN
+10.59
+NSH Fejlaflevering
+2
+Tobias JØRGENSEN
+Bold erobret 21
+René RASMUSSEN
+11.49
+SKH Skud på stolpe
+HB
+5
+Oliver NORLYK
+29
+Jimmi ANDERSEN
+12.20
+6-5
+NSH Mål
+PL
+20
+Jesper DAHL
+1
+Christoffer BONDE
+12.54
+SKH Skud reddet
+Gbr
+9
+Alfred JÖNSSON
+29
+Jimmi ANDERSEN
+13.24
+NSH Skud reddet
+Gbr 23
+Kasper KISUM
+Retur
+3
+Carl-Emil HAUNSTRUP
+1
+Christoffer BONDE
+13.50
+6-6
+NSH Mål
+VB
+23
+Kasper KISUM
+1
+Christoffer BONDE
+13.57
+7-6
+SKH Mål
+2:e
+19
+Lasse UTH
+Assist
+10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+14.27
+NSH Fejlaflevering
+20
+Jesper DAHL
+14.31
+SKH Skud reddet
+1:e
+7
+Senjamin BURIC
+29
+Jimmi ANDERSEN
+14.59
+NSH Skud reddet
+Gbr 18
+Magnus KRONBORG
+1
+Christoffer BONDE
+15.14
+SKH Skud reddet
+ST
+7
+Senjamin BURIC
+Retur
+0
+29
+Jimmi ANDERSEN
+15.47
+SKH Fejlaflevering
+25
+Eivind TANGEN
+Bold erobret
+9
+Hakan SAHIN
+15.49
+NSH Skud reddet
+1:e
+9
+Hakan SAHIN
+1
+Christoffer BONDE
+16.01
+8-6
+SKH Mål
+2:e
+19
+Lasse UTH
+Assist
+25
+Eivind TANGEN
+29
+Jimmi ANDERSEN
+16.34
+NSH Tabt bold
+23
+Kasper KISUM
+16.39
+SKH Skud reddet
+2:e
+19
+Lasse UTH
+29
+Jimmi ANDERSEN
+16.47
+8-7
+NSH Mål
+2:e
+4
+Andreas MAGAARD
+Assist
+20
+Jesper DAHL
+1
+Christoffer BONDE
+17.32
+SKH Skud reddet
+PL
+9
+Alfred JÖNSSON
+29
+Jimmi ANDERSEN
+19.02
+NSH Skud reddet
+VB
+2
+Tobias JØRGENSEN
+1
+Christoffer BONDE
+19.08
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+19.12
+NSH Fejlaflevering
+29
+Jimmi ANDERSEN
+19.19
+SKH Time out
+19.59
+9-7
+SKH Mål
+PL
+25
+Eivind TANGEN
+29
+Jimmi ANDERSEN
+20.30
+9-8
+NSH Mål
+HB 23
+Kasper KISUM
+1
+Christoffer BONDE
+21.06
+SKH Skud reddet
+Gbr 76
+Tobias MYGIND
+29
+Jimmi ANDERSEN
+22.13
+NSH Fejlaflevering
+20
+Jesper DAHL
+Bold erobret 14
+Emil BERGHOLT
+22.23
+SKH Regelfejl
+7
+Senjamin BURIC
+22.30
+9-9
+NSH Mål
+2:e
+9
+Hakan SAHIN
+Assist
+20
+Jesper DAHL
+1
+Christoffer BONDE
+23.00
+SKH Fejlaflevering
+25
+Eivind TANGEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Skjern Håndbold - Nordsjælland Håndbold    25 - 22  (12 - 12)
+327165 / 8-9-2021 / Skjern Bank Arena bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+23.58
+NSH Skud reddet
+VB
+19
+Thomas KJÆRGAARD
+Retur
+0
+1
+Christoffer BONDE
+24.14
+9-10
+NSH Mål
+PL
+2
+Tobias JØRGENSEN
+1
+Christoffer BONDE
+24.57 10-10 SKH Mål
+PL
+25
+Eivind TANGEN
+29
+Jimmi ANDERSEN
+25.13
+NSH Time out
+25.30
+NSH Skud reddet
+VB
+2
+Tobias JØRGENSEN
+Retur
+0
+1
+Christoffer BONDE
+26.04
+NSH Tilkendt straffe
+2
+Tobias JØRGENSEN
+Forårs. str.
+7
+Senjamin BURIC
+26.31 10-11 NSH Mål på straffe
+25
+Jeppe CIESLAK
+1
+Christoffer BONDE
+27.39 11-11 SKH Mål
+ST
+14
+Emil BERGHOLT
+Assist
+25
+Eivind TANGEN
+29
+Jimmi ANDERSEN
+28.50 11-12 NSH Mål
+VB
+23
+Kasper KISUM
+1
+Christoffer BONDE
+29.00
+SKH Skud reddet
+2:e
+10
+Jesper KONRADSSON
+Retur
+0
+29
+Jimmi ANDERSEN
+29.08 12-12 SKH Mål
+ST
+14
+Emil BERGHOLT
+29
+Jimmi ANDERSEN
+29.56
+NSH Skud forbi
+HB
+2
+Tobias JØRGENSEN
+1
+Christoffer BONDE
+30.00 12-12
+Halvleg
+30.00
+Start 2:e halvleg
+30.28
+SKH Skud reddet
+ST
+14
+Emil BERGHOLT
+29
+Jimmi ANDERSEN
+31.15
+NSH Skud reddet
+HB 20
+Jesper DAHL
+1
+Christoffer BONDE
+31.46
+SKH Skud reddet
+ST
+14
+Emil BERGHOLT
+29
+Jimmi ANDERSEN
+32.19
+NSH Skud reddet
+VB
+20
+Jesper DAHL
+1
+Christoffer BONDE
+32.27
+SKH Skud reddet
+2:e
+25
+Eivind TANGEN
+29
+Jimmi ANDERSEN
+32.38
+NSH Skud reddet
+2:e
+20
+Jesper DAHL
+1
+Christoffer BONDE
+32.45 13-12 SKH Mål
+1:e
+14
+Emil BERGHOLT
+Assist
+10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+33.21
+NSH Skud reddet
+VF
+25
+Jeppe CIESLAK
+1
+Christoffer BONDE
+33.33 14-12 SKH Mål
+Gbr 10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+34.07
+NSH Skud på stolpe
+HF
+3
+Carl-Emil HAUNSTRUP
+1
+Christoffer BONDE
+34.16
+SKH Skud blokeret
+2:e
+10
+Jesper KONRADSSON
+Blok af (ret)
+9
+Hakan SAHIN
+34.51 15-12 SKH Mål
+HB 25
+Eivind TANGEN
+29
+Jimmi ANDERSEN
+35.23
+NSH Fejlaflevering
+2
+Tobias JØRGENSEN
+35.54 16-12 SKH Mål
+PL
+9
+Alfred JÖNSSON
+29
+Jimmi ANDERSEN
+36.47 16-13 NSH Mål
+ST
+4
+Andreas MAGAARD
+Assist
+23
+Kasper KISUM
+1
+Christoffer BONDE
+37.18 17-13 SKH Mål
+ST
+14
+Emil BERGHOLT
+Assist
+25
+Eivind TANGEN
+29
+Jimmi ANDERSEN
+37.53
+NSH Fejlaflevering
+20
+Jesper DAHL
+38.08 18-13 SKH Mål
+Gbr 10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+38.16
+NSH Time out
+38.41 18-14 NSH Mål
+ST
+4
+Andreas MAGAARD
+Assist
+2
+Tobias JØRGENSEN
+1
+Christoffer BONDE
+39.10
+SKH Skud reddet
+VB
+25
+Eivind TANGEN
+29
+Jimmi ANDERSEN
+39.44
+NSH Skud forbi
+PL
+23
+Kasper KISUM
+1
+Christoffer BONDE
+39.52
+SKH Tilkendt straffe
+10
+Jesper KONRADSSON
+Forårs. str.
+7
+Mikkel PALMER
+40.01 19-14 SKH Mål på straffe
+10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+40.49 19-15 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+20
+Jesper DAHL
+1
+Christoffer BONDE
+41.35 20-15 SKH Mål
+ST
+14
+Emil BERGHOLT
+Assist
+10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+42.10 20-16 NSH Mål
+Gbr 23
+Kasper KISUM
+1
+Christoffer BONDE
+42.17 21-16 SKH Mål
+2:e
+10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+43.09
+NSH Skud reddet
+VB
+23
+Kasper KISUM
+1
+Christoffer BONDE
+44.03
+SKH Skud reddet
+VB
+9
+Alfred JÖNSSON
+29
+Jimmi ANDERSEN
+45.10
+NSH Skud reddet
+PL
+20
+Jesper DAHL
+1
+Christoffer BONDE
+45.46
+SKH Skud reddet
+Gbr
+9
+Alfred JÖNSSON
+29
+Jimmi ANDERSEN
+46.53
+NSH Skud reddet
+VB
+23
+Kasper KISUM
+1
+Christoffer BONDE
+47.27
+SKH Skud reddet
+Gbr 10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+48.10
+NSH Regelfejl
+23
+Kasper KISUM
+48.52
+SKH Regelfejl
+19
+Lasse UTH
+49.38 21-17 NSH Mål
+VF
+25
+Jeppe CIESLAK
+Assist
+23
+Kasper KISUM
+1
+Christoffer BONDE
+49.49
+SKH Skud på stolpe
+2:e
+5
+Oliver NORLYK
+29
+Jimmi ANDERSEN
+50.20 21-18 NSH Mål
+Gbr 23
+Kasper KISUM
+Assist
+3
+Carl-Emil HAUNSTRUP
+1
+Christoffer BONDE
+50.38
+NSH Advarsel
+D
+Mikkel THORSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Skjern Håndbold - Nordsjælland Håndbold    25 - 22  (12 - 12)
+327165 / 8-9-2021 / Skjern Bank Arena bane 1 / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+50.41
+SKH Time out
+51.14 22-18 SKH Mål
+ST
+7
+Senjamin BURIC
+Assist
+10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+51.46
+NSH Skud forbi
+VF
+25
+Jeppe CIESLAK
+1
+Christoffer BONDE
+52.34 23-18 SKH Mål
+Gbr 10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+53.12
+NSH Skud forbi
+PL
+20
+Jesper DAHL
+1
+Christoffer BONDE
+53.48 24-18 SKH Mål
+Gbr 21
+René RASMUSSEN
+Assist
+10
+Jesper KONRADSSON
+29
+Jimmi ANDERSEN
+54.17
+NSH Fejlaflevering
+2
+Tobias JØRGENSEN
+54.24 25-18 SKH Mål
+1:e
+25
+Eivind TANGEN
+0
+54.32
+NSH Time out
+55.12 25-19 NSH Mål
+VF
+25
+Jeppe CIESLAK
+Assist
+23
+Kasper KISUM
+1
+Christoffer BONDE
+56.34
+SKH Skud blokeret
+VB
+25
+Eivind TANGEN
+Blokeret af
+9
+Hakan SAHIN
+56.42 25-20 NSH Mål
+2:e
+25
+Jeppe CIESLAK
+Assist
+2
+Tobias JØRGENSEN
+1
+Christoffer BONDE
+57.19
+SKH Skud forbi
+ST
+7
+Senjamin BURIC
+29
+Jimmi ANDERSEN
+57.28
+NSH Skud reddet
+2:e
+23
+Kasper KISUM
+30
+Lasse Vuust ANDERSEN
+58.10
+SKH Regelfejl
+10
+Jesper KONRADSSON
+58.49 25-21 NSH Mål
+HB 19
+Thomas KJÆRGAARD
+30
+Lasse Vuust ANDERSEN
+59.19
+SKH Fejlaflevering
+25
+Eivind TANGEN
+59.45 25-22 NSH Mål
+PL
+19
+Thomas KJÆRGAARD
+30
+Lasse Vuust ANDERSEN
+60.00 25-22
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Lars Johannessen, Thomas Knudsen,

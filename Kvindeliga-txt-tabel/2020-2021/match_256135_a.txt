@@ -1,0 +1,822 @@
+KAMPHÆNDELSER
+Aarhus United - Silkeborg-Voel KFUM   20 - 20  (10 - 12)
+256135 / 7-9-2020 / Ceres Park, Hal 1 / Bambusa Kvindeligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.45
+0-1
+SVK Mål
+Gbr 24
+Jane SCHUMACHER
+Assist
+5
+Eira AUNE
+16
+Martina THÖRN
+1.34
+1-1
+AAU Mål
+PL
+3
+Marielle MARTINSEN
+22
+Stine BONDE
+1.48
+SVK Fejlaflevering
+24
+Jane SCHUMACHER
+1.51
+2-1
+AAU Mål
+1:e
+17
+June BØTTGER
+Assist
+16
+Martina THÖRN
+22
+Stine BONDE
+2.20
+SVK Fejlaflevering
+24
+Jane SCHUMACHER
+2.51
+AAU Skud reddet
+PL
+21
+Thea STURLUDOTTIR
+22
+Stine BONDE
+2.56
+SVK Tabt bold
+11
+Julie JENSEN
+Bold erobret 88
+Mathilde NEESGAARD
+3.41
+AAU Skud reddet
+ST
+6
+Annika MEYER
+22
+Stine BONDE
+4.13
+2-2
+SVK Mål
+ST
+13
+Mathilde KRISTENSEN
+Assist
+11
+Julie JENSEN
+16
+Martina THÖRN
+4.36
+3-2
+AAU Mål
+PL
+88
+Mathilde NEESGAARD
+22
+Stine BONDE
+5.27
+3-3
+SVK Mål
+Gbr 24
+Jane SCHUMACHER
+16
+Martina THÖRN
+6.33
+AAU Skud blokeret
+PL
+3
+Marielle MARTINSEN
+Blok af (ret)
+97
+Line SKAK
+6.50
+AAU Skud forbi
+VB
+9
+Frederikke Glavind HEDEGAARD
+22
+Stine BONDE
+6.55
+3-4
+SVK Mål
+HF
+6
+Lea HANSEN
+Assist
+24
+Jane SCHUMACHER
+16
+Martina THÖRN
+7.20
+AAU Fejlaflevering
+88
+Mathilde NEESGAARD
+7.49
+SVK Fejlaflevering
+11
+Julie JENSEN
+8.24
+SVK Advarsel
+6
+Lea HANSEN
+8.40
+AAU Skud på stolpe
+PL
+21
+Thea STURLUDOTTIR
+22
+Stine BONDE
+9.37
+SVK Skud blokeret
+VB
+5
+Eira AUNE
+Blok af (ret)
+23
+Charlotte Lund MIKKELSEN
+9.48
+SVK Skud reddet
+PL
+5
+Eira AUNE
+16
+Martina THÖRN
+10.27
+AAU Skud reddet
+PL
+88
+Mathilde NEESGAARD
+22
+Stine BONDE
+10.35
+3-5
+SVK Mål
+2:e
+97
+Line SKAK
+Assist
+11
+Julie JENSEN
+16
+Martina THÖRN
+11.09
+AAU Skud reddet
+Gbr
+8
+Line ELLERTSEN
+22
+Stine BONDE
+11.17
+AAU Advarsel
+23
+Charlotte Lund MIKKELSEN
+11.38
+SVK Regelfejl
+24
+Jane SCHUMACHER
+11.45
+SVK Udvisning
+5
+Eira AUNE
+11.51
+AAU Fejlaflevering
+3
+Marielle MARTINSEN
+12.55
+SVK Skud på stolpe
+PL
+11
+Julie JENSEN
+16
+Martina THÖRN
+13.30
+4-5
+AAU Mål
+Gbr
+3
+Marielle MARTINSEN
+Assist
+8
+Line ELLERTSEN
+22
+Stine BONDE
+14.17
+4-6
+SVK Mål
+HB 11
+Julie JENSEN
+16
+Martina THÖRN
+14.44
+AAU Skud reddet
+HF
+23
+Charlotte Lund MIKKELSEN
+22
+Stine BONDE
+15.15
+4-7
+SVK Mål
+VF
+19
+Anna Lillesø NIELSEN
+16
+Martina THÖRN
+15.50
+5-7
+AAU Mål
+Gbr
+8
+Line ELLERTSEN
+22
+Stine BONDE
+16.21
+SVK Skud blokeret
+HB 11
+Julie JENSEN
+Blokeret af
+7
+Emma MOGENSEN
+17.04
+AAU Skud reddet
+VB
+3
+Marielle MARTINSEN
+22
+Stine BONDE
+17.13
+SVK Time out
+17.34
+SVK Fejlaflevering
+14
+Louise ELLEBÆK
+Bold erobret
+8
+Line ELLERTSEN
+17.35
+AAU Tabt bold
+8
+Line ELLERTSEN
+18.00
+SVK Skud blokeret
+PL
+24
+Jane SCHUMACHER
+Blokeret af
+19
+Marie SØRENSEN
+19.03
+AAU Fejlaflevering
+3
+Marielle MARTINSEN
+19.30
+SVK Skud på stolpe
+PL
+5
+Eira AUNE
+12
+Nora PERSSON
+20.26
+6-7
+AAU Mål
+HB
+8
+Line ELLERTSEN
+22
+Stine BONDE
+20.42
+6-8
+SVK Mål
+PL
+11
+Julie JENSEN
+12
+Nora PERSSON
+21.54
+AAU Skud blokeret
+PL
+8
+Line ELLERTSEN
+Blok af (ret)
+13
+Mathilde KRISTENSEN
+22.22
+7-8
+AAU Mål
+HB
+8
+Line ELLERTSEN
+22
+Stine BONDE
+22.57
+7-9
+SVK Mål
+ST
+13
+Mathilde KRISTENSEN
+Assist
+11
+Julie JENSEN
+12
+Nora PERSSON
+23.12
+AAU Time out
+23.35
+AAU Regelfejl
+9
+Frederikke Glavind HEDEGAARD
+24.56
+7-10
+SVK Mål
+Gbr
+7
+Hege Bakken WAHLQUIST
+12
+Nora PERSSON
+25.33
+AAU Tilkendt straffe
+27
+Line Berggren LARSEN
+Forårs. str.
+14
+Louise ELLEBÆK
+25.45
+8-10
+AAU Mål på straffe
+88
+Mathilde NEESGAARD
+1
+Eli RAASOK
+26.19
+SVK Skud på stolpe
+PL
+11
+Julie JENSEN
+12
+Nora PERSSON
+26.29
+AAU Skud reddet
+HF
+9
+Frederikke Glavind HEDEGAARD
+22
+Stine BONDE
+26.59
+SVK Fejlaflevering
+24
+Jane SCHUMACHER
+Bold erobret
+8
+Line ELLERTSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aarhus United - Silkeborg-Voel KFUM   20 - 20  (10 - 12)
+256135 / 7-9-2020 / Ceres Park, Hal 1 / Bambusa Kvindeligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+27.04
+9-10
+AAU Mål
+1:e
+6
+Annika MEYER
+Assist
+88
+Mathilde NEESGAARD
+22
+Stine BONDE
+27.30
+9-11
+SVK Mål
+PL
+24
+Jane SCHUMACHER
+12
+Nora PERSSON
+28.07 10-11 AAU Mål
+Gbr
+8
+Line ELLERTSEN
+22
+Stine BONDE
+28.55
+SVK Skud forbi
+Gbr 11
+Julie JENSEN
+12
+Nora PERSSON
+29.42
+AAU Skud på stolpe
+HF
+23
+Charlotte Lund MIKKELSEN
+22
+Stine BONDE
+29.50 10-12 SVK Mål
+2:e
+7
+Hege Bakken WAHLQUIST
+12
+Nora PERSSON
+29.59
+AAU Skud reddet
+PL
+3
+Marielle MARTINSEN
+22
+Stine BONDE
+30.00 10-12
+Halvleg
+30.43
+AAU Regelfejl
+3
+Marielle MARTINSEN
+30.53
+SVK Skud reddet
+2:e
+11
+Julie JENSEN
+12
+Nora PERSSON
+31.01
+AAU Fejlaflevering
+8
+Line ELLERTSEN
+31.07
+SVK Skud reddet
+1:e
+7
+Hege Bakken WAHLQUIST
+12
+Nora PERSSON
+31.41
+AAU Skud reddet
+PL
+88
+Mathilde NEESGAARD
+22
+Stine BONDE
+32.22
+SVK Skud reddet
+Gbr 24
+Jane SCHUMACHER
+12
+Nora PERSSON
+32.50 11-12 AAU Mål
+ST
+6
+Annika MEYER
+Assist
+8
+Line ELLERTSEN
+22
+Stine BONDE
+33.22
+SVK Skud på stolpe
+Gbr
+5
+Eira AUNE
+12
+Nora PERSSON
+33.34
+AAU Regelfejl
+8
+Line ELLERTSEN
+34.06
+SVK Skud reddet
+HB 11
+Julie JENSEN
+12
+Nora PERSSON
+34.15
+AAU Regelfejl
+3
+Marielle MARTINSEN
+34.24 11-13 SVK Mål
+2:e
+24
+Jane SCHUMACHER
+12
+Nora PERSSON
+35.00
+AAU Skud reddet
+VB
+88
+Mathilde NEESGAARD
+22
+Stine BONDE
+35.40 11-14 SVK Mål
+ST
+13
+Mathilde KRISTENSEN
+Assist
+14
+Louise ELLEBÆK
+12
+Nora PERSSON
+36.14 12-14 AAU Mål
+Gbr
+3
+Marielle MARTINSEN
+22
+Stine BONDE
+37.15 12-15 SVK Mål
+HB 11
+Julie JENSEN
+12
+Nora PERSSON
+37.31
+AAU Time out
+38.12
+AAU Skud reddet
+VF
+17
+June BØTTGER
+22
+Stine BONDE
+38.45
+SVK Skud reddet
+Gbr
+5
+Eira AUNE
+12
+Nora PERSSON
+39.15
+AAU Skud reddet
+PL
+27
+Line Berggren LARSEN
+22
+Stine BONDE
+39.23
+SVK Skud reddet
+2:e
+11
+Julie JENSEN
+12
+Nora PERSSON
+39.33 13-15 AAU Mål
+2:e
+3
+Marielle MARTINSEN
+22
+Stine BONDE
+40.11 13-16 SVK Mål
+ST
+13
+Mathilde KRISTENSEN
+Assist
+11
+Julie JENSEN
+12
+Nora PERSSON
+41.19 14-16 AAU Mål
+Gbr 27
+Line Berggren LARSEN
+22
+Stine BONDE
+42.25 14-17 SVK Mål
+Gbr 24
+Jane SCHUMACHER
+12
+Nora PERSSON
+43.12 15-17 AAU Mål
+Gbr 27
+Line Berggren LARSEN
+22
+Stine BONDE
+43.54
+SVK Fejlaflevering
+14
+Louise ELLEBÆK
+Bold erobret 27
+Line Berggren LARSEN
+43.57
+AAU Tilkendt straffe
+27
+Line Berggren LARSEN
+Forårs. str.
+24
+Jane SCHUMACHER
+43.57
+SVK Udvisning
+24
+Jane SCHUMACHER
+44.02
+AAU Straffekast på stolpe
+88
+Mathilde NEESGAARD
+Retur
+7
+Emma MOGENSEN
+22
+Stine BONDE
+44.44
+AAU Regelfejl
+27
+Line Berggren LARSEN
+45.27
+SVK Skud forbi
+HF
+6
+Lea HANSEN
+12
+Nora PERSSON
+45.58 16-17 AAU Mål
+HF
+23
+Charlotte Lund MIKKELSEN
+Assist
+27
+Line Berggren LARSEN
+22
+Stine BONDE
+46.57 16-18 SVK Mål
+HB 11
+Julie JENSEN
+12
+Nora PERSSON
+47.28
+AAU Skud reddet
+PL
+21
+Thea STURLUDOTTIR
+Retur
+23
+Charlotte Lund MIKKELSEN
+22
+Stine BONDE
+47.47
+AAU Fejlaflevering
+27
+Line Berggren LARSEN
+48.26 16-19 SVK Mål
+VF
+19
+Anna Lillesø NIELSEN
+Assist
+5
+Eira AUNE
+12
+Nora PERSSON
+49.00
+AAU Fejlaflevering
+8
+Line ELLERTSEN
+Bold erobret 19
+Anna Lillesø NIELSEN
+49.38
+SVK Skud på stolpe
+Gbr
+5
+Eira AUNE
+12
+Nora PERSSON
+49.44
+AAU Time out
+50.10
+SVK Udvisning
+13
+Mathilde KRISTENSEN
+50.34
+AAU Skud reddet
+ST
+6
+Annika MEYER
+22
+Stine BONDE
+51.10
+SVK Skud reddet
+Gbr 24
+Jane SCHUMACHER
+12
+Nora PERSSON
+51.35 17-19 AAU Mål
+Gbr
+8
+Line ELLERTSEN
+22
+Stine BONDE
+52.18
+SVK Skud reddet
+HF
+6
+Lea HANSEN
+12
+Nora PERSSON
+52.55
+AAU Skud reddet
+PL
+8
+Line ELLERTSEN
+22
+Stine BONDE
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aarhus United - Silkeborg-Voel KFUM   20 - 20  (10 - 12)
+256135 / 7-9-2020 / Ceres Park, Hal 1 / Bambusa Kvindeligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+53.07
+SVK Skud reddet
+2:e
+19
+Anna Lillesø NIELSEN
+12
+Nora PERSSON
+53.42 18-19 AAU Mål
+HF
+23
+Charlotte Lund MIKKELSEN
+Assist
+8
+Line ELLERTSEN
+22
+Stine BONDE
+53.56
+SVK Time out
+54.39
+SVK Skud reddet
+PL
+5
+Eira AUNE
+12
+Nora PERSSON
+55.14 19-19 AAU Mål
+PL
+7
+Emma MOGENSEN
+22
+Stine BONDE
+56.04 19-20 SVK Mål
+PL
+24
+Jane SCHUMACHER
+12
+Nora PERSSON
+56.56
+SVK Udvisning
+13
+Mathilde KRISTENSEN
+57.14
+AAU Fejlaflevering
+7
+Emma MOGENSEN
+57.55
+SVK Skud reddet
+HB 11
+Julie JENSEN
+12
+Nora PERSSON
+58.27 20-20 AAU Mål
+Gbr
+8
+Line ELLERTSEN
+22
+Stine BONDE
+58.54
+SVK Time out
+59.20
+SVK Passivt spil
+0
+59.56
+AAU Regelfejl
+23
+Charlotte Lund MIKKELSEN
+60.00 20-20
+Fuld tid
+Software: Jilsén System AB. Logget af: Thomas Bjerg, Nicolaj Buchhave,

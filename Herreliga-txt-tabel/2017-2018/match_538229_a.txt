@@ -1,0 +1,960 @@
+KAMPHÆNDELSER
+Århus Håndbold - Ribe-Esbjerg HH   30 - 26  (17 - 15)
+538229 / 20-2-2018 / Ceres Arena / 888ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.50
+0-1
+REH Mål
+VB
+6
+Lukas KARLSSON
+1
+Rene VILLADSEN
+1.37
+1-1
+ARH Mål
+PL
+93
+Anders Kragh MARTINUSEN
+16
+Rasmus Schmidt LIND
+1.48
+REH Regelfejl
+6
+Lukas KARLSSON
+1.59
+2-1
+ARH Mål
+1:e
+29
+Sigvaldi GUDJONSSON
+Assist
+93
+Anders Kragh MARTINUSEN
+16
+Rasmus Schmidt LIND
+3.27
+REH Skud reddet
+ST
+23
+Pelle Schilling GULDAGER
+Retur
+0
+1
+Rene VILLADSEN
+3.46
+ARH Udvisning
+32
+Nikolaj LÆSØ
+3.55
+2-2
+REH Mål
+PL
+31
+Morten NYBERG
+Assist
+6
+Lukas KARLSSON
+1
+Rene VILLADSEN
+4.28
+ARH Skud reddet
+PL
+93
+Anders Kragh MARTINUSEN
+16
+Rasmus Schmidt LIND
+4.54
+2-3
+REH Mål
+VB
+6
+Lukas KARLSSON
+1
+Rene VILLADSEN
+5.39
+ARH Tabt bold
+9
+Sebastian HENNEBERG
+5.42
+REH Fejlaflev
+10
+Jacob HOLM
+Bold erobret 93
+Anders Kragh MARTINUSEN
+6.02
+REH Advarsel
+21
+Miha ZVIZEJ
+6.16
+3-3
+ARH Mål
+PL
+9
+Sebastian HENNEBERG
+16
+Rasmus Schmidt LIND
+6.27
+3-4
+REH Mål
+Gbr 18
+Rasmus BOYSEN
+1
+Rene VILLADSEN
+6.37
+ARH Skud blokeret
+PL
+93
+Anders Kragh MARTINUSEN
+6.46
+3-5
+REH Mål
+1:e
+10
+Jacob HOLM
+Assist
+23
+Pelle Schilling GULDAGER
+1
+Rene VILLADSEN
+7.24
+ARH Skud blokeret
+PL
+9
+Sebastian HENNEBERG
+7.28
+3-6
+REH Mål
+1:e
+25
+Rasmus NIELSEN
+Assist
+16
+Rasmus Schmidt LIND
+1
+Rene VILLADSEN
+7.57
+ARH Skud på stolpe
+PL
+8
+Torben PETERSEN
+Retur
+0
+16
+Rasmus Schmidt LIND
+8.21
+ARH Tilkendt 7m
+3
+Besard HAKAJ
+Forårs. 7m
+9
+Søren Tau SØRENSEN
+8.43
+ARH Straff forbi
+67
+Tobias Torpegaard MØLLER
+16
+Rasmus Schmidt LIND
+9.38
+REH Skud på stolpe
+PL
+10
+Jacob HOLM
+Retur
+0
+1
+Rene VILLADSEN
+9.59
+REH Skud reddet
+VB
+10
+Jacob HOLM
+1
+Rene VILLADSEN
+10.09
+4-6
+ARH Mål
+2:e
+93
+Anders Kragh MARTINUSEN
+16
+Rasmus Schmidt LIND
+10.43
+REH Skud blokeret
+PL
+6
+Lukas KARLSSON
+Retur
+0
+11.06
+REH Skud blokeret
+PL
+6
+Lukas KARLSSON
+Retur
+0
+11.18
+REH Regelfejl
+21
+Miha ZVIZEJ
+11.26
+5-6
+ARH Mål
+2:e
+32
+Nikolaj LÆSØ
+16
+Rasmus Schmidt LIND
+12.00
+5-7
+REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+31
+Morten NYBERG
+1
+Rene VILLADSEN
+12.14
+ARH Fejlaflev
+32
+Nikolaj LÆSØ
+Bold erobret 10
+Jacob HOLM
+12.17
+5-8
+REH Mål
+1:e
+21
+Miha ZVIZEJ
+Assist
+10
+Jacob HOLM
+1
+Rene VILLADSEN
+12.22
+ARH Hold Time Out
+13.03
+ARH Regelfejl
+67
+Tobias Torpegaard MØLLER
+13.06
+REH Fejlaflev
+16
+Rasmus Schmidt LIND
+13.16
+ARH Skud reddet
+VB
+9
+Sebastian HENNEBERG
+Retur
+3
+Besard HAKAJ
+16
+Rasmus Schmidt LIND
+13.21
+6-8
+ARH Mål
+ST
+3
+Besard HAKAJ
+16
+Rasmus Schmidt LIND
+14.10
+REH Skud reddet
+VB
+10
+Jacob HOLM
+Retur
+25
+Rasmus NIELSEN
+1
+Rene VILLADSEN
+14.15
+6-9
+REH Mål
+HF
+25
+Rasmus NIELSEN
+1
+Rene VILLADSEN
+14.24
+7-9
+ARH Mål
+HF
+29
+Sigvaldi GUDJONSSON
+Assist
+93
+Anders Kragh MARTINUSEN
+16
+Rasmus Schmidt LIND
+15.12
+REH Fejlaflev
+6
+Lukas KARLSSON
+15.19
+8-9
+ARH Mål
+2:e
+9
+Sebastian HENNEBERG
+16
+Rasmus Schmidt LIND
+15.31
+8-10
+REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+31
+Morten NYBERG
+1
+Rene VILLADSEN
+16.11
+ARH Tilkendt 7m
+3
+Besard HAKAJ
+Forårs. 7m
+9
+Søren Tau SØRENSEN
+16.14
+REH Advarsel
+9
+Søren Tau SØRENSEN
+16.22
+9-10
+ARH Straffemål
+67
+Tobias Torpegaard MØLLER
+16
+Rasmus Schmidt LIND
+17.05
+9-11
+REH Mål
+PL
+18
+Rasmus BOYSEN
+1
+Rene VILLADSEN
+17.40
+ARH Regelfejl
+9
+Sebastian HENNEBERG
+18.18
+ARH Udvisning
+3
+Besard HAKAJ
+18.35
+9-12
+REH Mål
+HF
+25
+Rasmus NIELSEN
+Assist
+6
+Lukas KARLSSON
+1
+Rene VILLADSEN
+19.26 10-12 ARH Mål
+VF
+31
+Fredrik Schilling SØRENSEN
+Assist
+9
+Sebastian HENNEBERG
+16
+Rasmus Schmidt LIND
+20.07 10-13 REH Mål
+Gbr 31
+Morten NYBERG
+1
+Rene VILLADSEN
+20.39
+ARH Regelfejl
+67
+Tobias Torpegaard MØLLER
+21.15 10-14 REH Mål
+VB
+31
+Morten NYBERG
+1
+Rene VILLADSEN
+21.50 11-14 ARH Mål
+PL
+9
+Sebastian HENNEBERG
+16
+Rasmus Schmidt LIND
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Århus Håndbold - Ribe-Esbjerg HH   30 - 26  (17 - 15)
+538229 / 20-2-2018 / Ceres Arena / 888ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+22.52
+REH Skud reddet
+PL
+10
+Jacob HOLM
+12
+Jens FREDSGAARD
+23.14
+ARH Skud reddet
+HB 93
+Anders Kragh MARTINUSEN
+16
+Rasmus Schmidt LIND
+23.24
+REH Fejlaflev
+31
+Morten NYBERG
+23.28 12-14 ARH Mål
+1:e
+31
+Fredrik Schilling SØRENSEN
+Assist
+12
+Jens FREDSGAARD
+16
+Rasmus Schmidt LIND
+24.02
+REH Tabt bold
+6
+Lukas KARLSSON
+24.12
+ARH Tilkendt 7m
+9
+Sebastian HENNEBERG
+Forårs. 7m
+31
+Morten NYBERG
+24.15
+REH Advarsel
+31
+Morten NYBERG
+24.41 13-14 ARH Straffemål
+67
+Tobias Torpegaard MØLLER
+16
+Rasmus Schmidt LIND
+25.32
+REH Hold Time Out
+25.51 13-15 REH Mål
+HB 31
+Morten NYBERG
+12
+Jens FREDSGAARD
+26.17 14-15 ARH Mål
+VB
+9
+Sebastian HENNEBERG
+16
+Rasmus Schmidt LIND
+27.06
+REH Skud forbi
+VB
+10
+Jacob HOLM
+12
+Jens FREDSGAARD
+27.12
+REH Udvisning
+31
+Morten NYBERG
+27.32 15-15 ARH Mål
+ST
+32
+Nikolaj LÆSØ
+Assist
+14
+Omar Ingi MAGNUSSON
+16
+Rasmus Schmidt LIND
+27.53
+REH Udvisning
+3
+Lasse NIKOLAJSEN
+28.27
+REH Skud blokeret
+PL
+6
+Lukas KARLSSON
+28.37 16-15 ARH Mål
+ST
+3
+Besard HAKAJ
+Assist
+32
+Nikolaj LÆSØ
+12
+Emil TELLERUP
+29.22
+REH Fejlaflev
+11
+Mathias JØRGENSEN
+29.36
+REH Udvisning
+8
+Jonas Bruus TIDEMAND
+29.53
+ARH Tilkendt 7m
+9
+Sebastian HENNEBERG
+Forårs. 7m
+11
+Mathias JØRGENSEN
+29.56 17-15 ARH Straffemål
+67
+Tobias Torpegaard MØLLER
+12
+Emil TELLERUP
+30.00
+REH Advarsel
+B
+Ryan ZINGLERSEN
+30.00 17-15
+Halvtid
+30.23
+ARH Tilkendt 7m
+32
+Nikolaj LÆSØ
+Forårs. 7m
+18
+Rasmus BOYSEN
+30.42 18-15 ARH Straffemål
+67
+Tobias Torpegaard MØLLER
+16
+Rasmus Schmidt LIND
+31.48
+REH Skud blokeret
+PL
+6
+Lukas KARLSSON
+32.49
+ARH Passivt spil
+0
+33.26 18-16 REH Mål
+Gbr 18
+Rasmus BOYSEN
+12
+Jens FREDSGAARD
+34.07
+ARH Regelfejl
+3
+Besard HAKAJ
+34.54
+REH Tabt bold
+25
+Rasmus NIELSEN
+Bold erobret
+9
+Sebastian HENNEBERG
+34.57
+REH Udvisning
+23
+Pelle Schilling GULDAGER
+35.20
+ARH Skud forbi
+PL
+14
+Omar Ingi MAGNUSSON
+16
+Rasmus Schmidt LIND
+35.53
+ARH Udvisning
+3
+Besard HAKAJ
+36.25
+REH Skud forbi
+HF
+25
+Rasmus NIELSEN
+12
+Jens FREDSGAARD
+36.53 19-16 ARH Mål
+HF
+29
+Sigvaldi GUDJONSSON
+Assist
+14
+Omar Ingi MAGNUSSON
+16
+Rasmus Schmidt LIND
+37.45
+REH Skud reddet
+Gbr 31
+Morten NYBERG
+12
+Jens FREDSGAARD
+38.22
+ARH Skud reddet
+VB
+9
+Sebastian HENNEBERG
+16
+Rasmus Schmidt LIND
+38.31 19-17 REH Mål
+2:e
+21
+Miha ZVIZEJ
+Assist
+3
+Lasse NIKOLAJSEN
+12
+Jens FREDSGAARD
+39.02 20-17 ARH Mål
+PL
+9
+Sebastian HENNEBERG
+16
+Rasmus Schmidt LIND
+39.14
+REH Skud på stolpe
+ST
+21
+Miha ZVIZEJ
+12
+Jens FREDSGAARD
+39.41
+ARH Skud reddet
+HB 14
+Omar Ingi MAGNUSSON
+16
+Rasmus Schmidt LIND
+40.34
+REH Fejlaflev
+31
+Morten NYBERG
+40.39 21-17 ARH Mål
+1:e
+31
+Fredrik Schilling SØRENSEN
+Assist
+12
+Jens FREDSGAARD
+16
+Rasmus Schmidt LIND
+40.48
+REH Skud på stolpe
+1:e
+18
+Rasmus BOYSEN
+Retur
+0
+12
+Jens FREDSGAARD
+41.25
+REH Skud reddet
+ST
+21
+Miha ZVIZEJ
+12
+Jens FREDSGAARD
+42.11
+ARH Skud reddet
+PL
+93
+Anders Kragh MARTINUSEN
+16
+Rasmus Schmidt LIND
+42.20 21-18 REH Mål
+PL
+2
+Philip HOLM
+12
+Jens FREDSGAARD
+42.47 22-18 ARH Mål
+PL
+29
+Sigvaldi GUDJONSSON
+16
+Rasmus Schmidt LIND
+43.18
+REH Skud reddet
+PL
+6
+Lukas KARLSSON
+12
+Jens FREDSGAARD
+43.52
+ARH Fejlaflev
+29
+Sigvaldi GUDJONSSON
+44.25 22-19 REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+10
+Jacob HOLM
+12
+Jens FREDSGAARD
+45.03 23-19 ARH Mål
+PL
+93
+Anders Kragh MARTINUSEN
+16
+Rasmus Schmidt LIND
+45.33 23-20 REH Mål
+VF
+23
+Pelle Schilling GULDAGER
+Assist
+10
+Jacob HOLM
+12
+Jens FREDSGAARD
+46.22 24-20 ARH Mål
+VF
+31
+Fredrik Schilling SØRENSEN
+Assist
+29
+Sigvaldi GUDJONSSON
+16
+Rasmus Schmidt LIND
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Århus Håndbold - Ribe-Esbjerg HH   30 - 26  (17 - 15)
+538229 / 20-2-2018 / Ceres Arena / 888ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+47.14
+REH Skud reddet
+PL
+10
+Jacob HOLM
+12
+Jens FREDSGAARD
+47.18 25-20 ARH Mål
+1:e
+32
+Nikolaj LÆSØ
+0
+47.22
+REH Hold Time Out
+47.57 25-21 REH Mål
+ST
+8
+Jonas Bruus TIDEMAND
+Assist
+10
+Jacob HOLM
+12
+Jens FREDSGAARD
+48.28 26-21 ARH Mål
+Gbr
+8
+Torben PETERSEN
+16
+Rasmus Schmidt LIND
+48.39 26-22 REH Mål
+2:e
+10
+Jacob HOLM
+12
+Jens FREDSGAARD
+49.11 27-22 ARH Mål
+VB
+9
+Sebastian HENNEBERG
+Assist
+93
+Anders Kragh MARTINUSEN
+16
+Rasmus Schmidt LIND
+49.37
+REH Skud reddet
+PL
+31
+Morten NYBERG
+12
+Jens FREDSGAARD
+49.42 28-22 ARH Mål
+1:e
+29
+Sigvaldi GUDJONSSON
+Assist
+12
+Jens FREDSGAARD
+12
+Emil TELLERUP
+50.15
+REH Fejlaflev
+31
+Morten NYBERG
+50.23
+ARH Fejlaflev
+32
+Nikolaj LÆSØ
+Bold erobret 11
+Mathias JØRGENSEN
+51.01 28-23 REH Mål
+ST
+21
+Miha ZVIZEJ
+Assist
+11
+Mathias JØRGENSEN
+12
+Jens FREDSGAARD
+51.31 29-23 ARH Mål
+VB
+8
+Torben PETERSEN
+12
+Emil TELLERUP
+51.46
+REH Hold Time Out
+52.52
+REH Skud reddet
+PL
+31
+Morten NYBERG
+12
+Jens FREDSGAARD
+53.21
+ARH Skud på stolpe
+PL
+9
+Sebastian HENNEBERG
+12
+Emil TELLERUP
+53.38
+REH Skud blokeret
+PL
+10
+Jacob HOLM
+Retur
+0
+54.34
+REH Skud reddet
+PL
+2
+Philip HOLM
+Retur
+0
+12
+Jens FREDSGAARD
+54.46
+REH Skud reddet
+HF
+11
+Mathias JØRGENSEN
+12
+Jens FREDSGAARD
+55.34
+ARH Skud reddet
+PL
+93
+Anders Kragh MARTINUSEN
+Retur
+29
+Sigvaldi GUDJONSSON
+12
+Emil TELLERUP
+55.41
+ARH Skud reddet
+VF
+31
+Fredrik Schilling SØRENSEN
+12
+Emil TELLERUP
+56.01
+REH Fejlaflev
+10
+Jacob HOLM
+56.37
+ARH Tilkendt 7m
+3
+Besard HAKAJ
+Forårs. 7m
+2
+Philip HOLM
+56.58
+ARH Straff reddet
+67
+Tobias Torpegaard MØLLER
+12
+Emil TELLERUP
+57.24
+REH Fejlaflev
+2
+Philip HOLM
+Bold erobret 31
+Fredrik Schilling SØRENSEN
+57.28 30-23 ARH Mål
+1:e
+31
+Fredrik Schilling SØRENSEN
+0
+57.57 30-24 REH Mål
+Gbr
+2
+Philip HOLM
+12
+Jens FREDSGAARD
+58.37
+ARH Regelfejl
+93
+Anders Kragh MARTINUSEN
+59.01 30-25 REH Mål
+HF
+11
+Mathias JØRGENSEN
+Assist
+6
+Lukas KARLSSON
+12
+Jens FREDSGAARD
+59.32
+ARH Skud blokeret
+PL
+8
+Torben PETERSEN
+59.37 30-26 REH Mål
+1:e
+23
+Pelle Schilling GULDAGER
+Assist
+21
+Miha ZVIZEJ
+12
+Jens FREDSGAARD
+60.00 30-26
+Fuld tid
+Software: Jilsén System AB. Logget af: Wiktor Bartoszewicz, Susan Juhl,

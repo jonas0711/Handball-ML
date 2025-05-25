@@ -1,0 +1,978 @@
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - SønderjyskE Herrer   25 - 28  (12 - 15)
+255985 / 10-10-2020 / Arena Vestjylland Forsikring Lemvig / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.31
+0-1
+SJE
+Mål
+PL
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+1.15
+LTH
+Regelfejl
+52
+Rasmus PORUP
+1.27
+SJE
+Tabt bold
+6
+Jon ANDERSEN
+1.53
+1-1
+LTH
+Mål
+HF
+19
+Mikkel SANDHOLM
+12
+Josip CAVAR
+2.01
+SJE
+Skud forbi
+Gbr
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+2.09
+LTH
+Skud reddet
+PL
+52
+Rasmus PORUP
+12
+Josip CAVAR
+2.42
+SJE
+Tilkendt straffe
+6
+Jon ANDERSEN
+Forårs. str.
+9
+Nicolai Pugholm HVID
+2.42
+LTH
+Rødt kort, direkte
+9
+Nicolai Pugholm HVID
+2.45
+1-2
+SJE
+Mål på straffe
+67
+Tobias MØLLER
+12
+Ronnie Schmidt NICOLAISEN
+3.35
+LTH
+Skud reddet
+ST
+2
+Jacob ØSTERGAARD
+Retur
+0
+12
+Josip CAVAR
+4.13
+LTH
+Skud forbi
+PL
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+4.43
+SJE
+Skud reddet
+Gbr
+6
+Jon ANDERSEN
+Retur
+7
+Oliver NØDDESBO EGGERT
+12
+Ronnie Schmidt NICOLAISEN
+4.50
+1-3
+SJE
+Mål
+VF
+67
+Tobias MØLLER
+12
+Ronnie Schmidt NICOLAISEN
+5.05
+2-3
+LTH
+Mål
+HB 52
+Rasmus PORUP
+12
+Josip CAVAR
+5.17
+SJE
+Skud reddet
+2:e
+7
+Oliver NØDDESBO EGGERT
+12
+Ronnie Schmidt NICOLAISEN
+5.50
+3-3
+LTH
+Mål
+VB
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+6.25
+SJE
+Skud reddet
+HB
+6
+Jon ANDERSEN
+Retur
+0
+12
+Ronnie Schmidt NICOLAISEN
+6.44
+3-4
+SJE
+Mål
+ST
+14
+Frederik LADEFOGED
+Assist
+0
+12
+Ronnie Schmidt NICOLAISEN
+6.58
+4-4
+LTH
+Mål
+ST
+32
+Christian Sabroe HOLM
+Assist
+52
+Rasmus PORUP
+12
+Josip CAVAR
+7.32
+SJE
+Regelfejl
+10
+Nikolai VINTHER
+8.15
+LTH
+Skud på stolpe
+PL
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+8.21
+4-5
+SJE
+Mål
+1:e
+6
+Jon ANDERSEN
+Assist
+0
+12
+Ronnie Schmidt NICOLAISEN
+9.22
+LTH
+Regelfejl
+52
+Rasmus PORUP
+9.57
+LTH
+Advarsel
+10
+Jonas LANGERHUUS
+10.09
+4-6
+SJE
+Mål
+VF
+67
+Tobias MØLLER
+Assist
+7
+Oliver NØDDESBO EGGERT
+12
+Ronnie Schmidt NICOLAISEN
+10.41
+5-6
+LTH
+Mål
+HB 10
+Jonas LANGERHUUS
+12
+Josip CAVAR
+11.20
+SJE
+Tabt bold
+6
+Jon ANDERSEN
+11.47
+6-6
+LTH
+Mål
+HB 10
+Jonas LANGERHUUS
+12
+Josip CAVAR
+12.21
+6-7
+SJE
+Mål
+ST
+2
+Thomas MOGENSEN
+Assist
+14
+Frederik LADEFOGED
+12
+Ronnie Schmidt NICOLAISEN
+12.57
+LTH
+Regelfejl
+11
+Thomas Bohl DAMGAARD
+13.24
+6-8
+SJE
+Mål
+VB
+7
+Oliver NØDDESBO EGGERT
+12
+Ronnie Schmidt NICOLAISEN
+13.37
+LTH
+Time out
+14.32
+LTH
+Regelfejl
+19
+Mikkel SANDHOLM
+14.38
+6-9
+SJE
+Mål
+1:e
+18
+Morten BJØRNSHAUGE
+Assist
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+15.00
+LTH
+Skud reddet
+HB 10
+Jonas LANGERHUUS
+12
+Josip CAVAR
+15.12
+SJE
+Skud forbi
+VF
+67
+Tobias MØLLER
+12
+Ronnie Schmidt NICOLAISEN
+15.39
+7-9
+LTH
+Mål
+Gbr 11
+Thomas Bohl DAMGAARD
+Assist
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+16.27
+SJE
+Skud reddet
+PL
+2
+Thomas MOGENSEN
+12
+Ronnie Schmidt NICOLAISEN
+16.46
+SJE
+Udvisning
+5
+Sveinn JÓHANNSSON
+16.53
+8-9
+LTH
+Mål
+HB 52
+Rasmus PORUP
+Assist
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+17.33
+8-10
+SJE
+Mål
+Gbr
+7
+Oliver NØDDESBO EGGERT
+12
+Ronnie Schmidt NICOLAISEN
+17.56
+9-10
+LTH
+Mål
+VB
+52
+Rasmus PORUP
+12
+Josip CAVAR
+18.36
+SJE
+Skud forbi
+HB
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+19.13
+LTH
+Skud reddet
+VF
+20
+Frederik IVERSEN
+12
+Josip CAVAR
+19.23
+SJE
+Skud reddet
+PL
+2
+Thomas MOGENSEN
+12
+Ronnie Schmidt NICOLAISEN
+20.22
+LTH
+Skud reddet
+VB
+11
+Thomas Bohl DAMGAARD
+12
+Josip CAVAR
+20.36
+9-11
+SJE
+Mål
+1:e
+12
+Josip CAVAR
+0
+21.01 10-11 LTH
+Mål
+HF
+19
+Mikkel SANDHOLM
+Assist
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+21.37
+SJE
+Skud reddet
+PL
+7
+Oliver NØDDESBO EGGERT
+12
+Ronnie Schmidt NICOLAISEN
+22.13
+LTH
+Skud reddet
+PL
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+22.48
+SJE
+Tilkendt straffe
+7
+Oliver NØDDESBO EGGERT
+Forårs. str.
+18
+Nicolaj Kjær SPANGGAARD
+22.48 10-12 SJE
+Mål på straffe
+67
+Tobias MØLLER
+30
+Shadrach-Amie NSONI
+23.30
+LTH
+Skud reddet
+Gbr 32
+Christian Sabroe HOLM
+12
+Josip CAVAR
+24.00
+SJE
+Skud reddet
+Gbr
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - SønderjyskE Herrer   25 - 28  (12 - 15)
+255985 / 10-10-2020 / Arena Vestjylland Forsikring Lemvig / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.35
+LTH
+Tabt bold
+5
+Mark NIKOLAJSEN
+24.40 10-13 SJE
+Mål
+1:e
+27
+Alec SMIT
+12
+Ronnie Schmidt NICOLAISEN
+25.09
+LTH
+Tilkendt straffe
+32
+Christian Sabroe HOLM
+Forårs. str.
+5
+Sveinn JÓHANNSSON
+25.11 11-13 LTH
+Mål på straffe
+11
+Thomas Bohl DAMGAARD
+12
+Josip CAVAR
+25.54
+SJE
+Skud på stolpe
+VB
+66
+Noah GAUDIN
+12
+Ronnie Schmidt NICOLAISEN
+26.23
+LTH
+Skud reddet
+HB 10
+Jonas LANGERHUUS
+12
+Josip CAVAR
+27.02 11-14 SJE
+Mål
+Gbr
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+27.55 12-14 LTH
+Mål
+Gbr
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+28.34
+SJE
+Skud reddet
+Gbr 66
+Noah GAUDIN
+12
+Ronnie Schmidt NICOLAISEN
+28.56
+SJE
+Udvisning
+6
+Jon ANDERSEN
+29.14
+LTH
+Regelfejl
+52
+Rasmus PORUP
+29.37
+SJE
+Time out
+29.37
+LTH
+Advarsel
+B
+Jesper HOLM
+29.49 12-15 SJE
+Mål
+Gbr
+2
+Thomas MOGENSEN
+12
+Ronnie Schmidt NICOLAISEN
+30.00 12-15
+Halvleg
+30.26 13-15 LTH
+Mål
+HF
+19
+Mikkel SANDHOLM
+Assist
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+31.11 13-16 SJE
+Mål
+Gbr
+7
+Oliver NØDDESBO EGGERT
+12
+Ronnie Schmidt NICOLAISEN
+31.50 14-16 LTH
+Mål
+HB
+5
+Mark NIKOLAJSEN
+Assist
+52
+Rasmus PORUP
+12
+Josip CAVAR
+32.21
+SJE
+Regelfejl
+6
+Jon ANDERSEN
+32.52 15-16 LTH
+Mål
+PL
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+33.06 15-17 SJE
+Mål
+Gbr
+2
+Thomas MOGENSEN
+12
+Ronnie Schmidt NICOLAISEN
+33.55
+LTH
+Skud reddet
+PL
+10
+Jonas LANGERHUUS
+12
+Josip CAVAR
+34.27 15-18 SJE
+Mål
+Gbr
+7
+Oliver NØDDESBO EGGERT
+12
+Ronnie Schmidt NICOLAISEN
+35.14
+LTH
+Skud på stolpe
+PL
+5
+Mark NIKOLAJSEN
+Retur
+0
+12
+Josip CAVAR
+35.44 16-18 LTH
+Mål
+HF
+19
+Mikkel SANDHOLM
+12
+Josip CAVAR
+36.34
+SJE
+Skud reddet
+PL
+2
+Thomas MOGENSEN
+12
+Ronnie Schmidt NICOLAISEN
+37.18
+LTH
+Skud på stolpe
+VB
+52
+Rasmus PORUP
+12
+Josip CAVAR
+37.56 16-19 SJE
+Mål
+HF
+10
+Nikolai VINTHER
+Assist
+67
+Tobias MØLLER
+12
+Ronnie Schmidt NICOLAISEN
+38.24 17-19 LTH
+Mål
+VB
+52
+Rasmus PORUP
+12
+Josip CAVAR
+38.55
+SJE
+Skud reddet
+Gbr
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+39.06
+LTH
+Regelfejl
+10
+Jonas LANGERHUUS
+39.37
+LTH
+Udvisning
+32
+Christian Sabroe HOLM
+40.02 17-20 SJE
+Mål
+PL
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+40.13
+LTH
+Time out
+40.54
+LTH
+Skud reddet
+VB
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+41.03
+SJE
+Fejlaflevering
+12
+Josip CAVAR
+41.49
+LTH
+Passivt spil
+0
+41.49
+SJE
+Udvisning
+5
+Sveinn JÓHANNSSON
+42.14
+SJE
+Skud reddet
+VB
+2
+Thomas MOGENSEN
+12
+Ronnie Schmidt NICOLAISEN
+42.38
+LTH
+Skud reddet
+VB
+11
+Thomas Bohl DAMGAARD
+12
+Josip CAVAR
+43.26 17-21 SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+43.46
+LTH
+Skud reddet
+HF
+19
+Mikkel SANDHOLM
+Retur
+0
+12
+Josip CAVAR
+43.58 18-21 LTH
+Mål
+VF
+20
+Frederik IVERSEN
+Assist
+18
+Nicolaj Kjær SPANGGAARD
+12
+Josip CAVAR
+44.32
+SJE
+Skud reddet
+PL
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+46.08
+LTH
+Fejlaflevering
+19
+Mikkel SANDHOLM
+46.34
+SJE
+Skud reddet
+Gbr
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+46.54
+LTH
+Skud reddet
+PL
+11
+Thomas Bohl DAMGAARD
+12
+Josip CAVAR
+46.59
+SJE
+Time out
+47.55
+SJE
+Regelfejl
+66
+Noah GAUDIN
+48.25 19-21 LTH
+Mål
+VB
+52
+Rasmus PORUP
+12
+Josip CAVAR
+49.19 19-22 SJE
+Mål
+Gbr 66
+Noah GAUDIN
+12
+Ronnie Schmidt NICOLAISEN
+49.54 20-22 LTH
+Mål
+VB
+52
+Rasmus PORUP
+12
+Josip CAVAR
+50.52
+SJE
+Tabt bold
+7
+Oliver NØDDESBO EGGERT
+50.57 21-22 LTH
+Mål
+1:e
+18
+Nicolaj Kjær SPANGGAARD
+Assist
+32
+Christian Sabroe HOLM
+12
+Josip CAVAR
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Lemvig-Thyborøn Håndbold - SønderjyskE Herrer   25 - 28  (12 - 15)
+255985 / 10-10-2020 / Arena Vestjylland Forsikring Lemvig / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+51.32 21-23 SJE
+Mål
+VF
+67
+Tobias MØLLER
+Assist
+7
+Oliver NØDDESBO EGGERT
+12
+Ronnie Schmidt NICOLAISEN
+52.04
+LTH
+Fejlaflevering
+5
+Mark NIKOLAJSEN
+52.38 21-24 SJE
+Mål
+VF
+67
+Tobias MØLLER
+Assist
+18
+Morten BJØRNSHAUGE
+12
+Ronnie Schmidt NICOLAISEN
+52.44
+LTH
+Time out
+53.08
+LTH
+Skud forbi
+VF
+20
+Frederik IVERSEN
+12
+Josip CAVAR
+53.32 21-25 SJE
+Mål
+Gbr
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+54.30
+LTH
+Skud på stolpe
+VB
+52
+Rasmus PORUP
+12
+Josip CAVAR
+55.37 21-26 SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+7
+Oliver NØDDESBO EGGERT
+12
+Ronnie Schmidt NICOLAISEN
+56.19 22-26 LTH
+Mål
+HF
+19
+Mikkel SANDHOLM
+Assist
+10
+Jonas LANGERHUUS
+12
+Josip CAVAR
+57.00
+SJE
+Fejlaflevering
+66
+Noah GAUDIN
+57.31 23-26 LTH
+Mål
+HB 10
+Jonas LANGERHUUS
+12
+Josip CAVAR
+57.57
+SJE
+Tilkendt straffe
+18
+Morten BJØRNSHAUGE
+Forårs. str.
+2
+Jacob ØSTERGAARD
+57.57 23-27 SJE
+Mål på straffe
+67
+Tobias MØLLER
+12
+Ronnie Schmidt NICOLAISEN
+58.25 24-27 LTH
+Mål
+VB
+5
+Mark NIKOLAJSEN
+12
+Josip CAVAR
+59.01 24-28 SJE
+Mål
+VF
+67
+Tobias MØLLER
+12
+Ronnie Schmidt NICOLAISEN
+59.26 25-28 LTH
+Mål
+HB 10
+Jonas LANGERHUUS
+12
+Josip CAVAR
+59.57
+SJE
+Skud forbi
+VF
+6
+Jon ANDERSEN
+12
+Ronnie Schmidt NICOLAISEN
+60.00 25-28
+Fuld tid
+Software: Jilsén System AB. Logget af: Stine Visholm, Ane Heilig,

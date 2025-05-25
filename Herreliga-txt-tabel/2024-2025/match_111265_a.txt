@@ -1,0 +1,899 @@
+KAMPHÆNDELSER
+Aalborg Håndbold - Mors-Thy Håndbold   34 - 27  (17 - 13)
+111265 / 21-5-2025 / Sparekassen Danmark Arena / Slutspil Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.39
+MTH Skud reddet
+PL
+10
+Mads Svane KNUDSEN
+1
+Niklas LANDIN
+0.49
+1-0
+AAH Mål
+2:e
+6
+Sebastian BARTHOLD
+Assist
+18
+Aleks VLAH
+30
+Svend RUGHAVE
+1.21
+1-1
+MTH Mål
+PL
+21
+Marcus MIDTGAARD
+1
+Niklas LANDIN
+2.24
+AAH Skud reddet
+ST
+14
+Mads HOXER
+Retur
+11
+Simon HALD
+30
+Svend RUGHAVE
+2.35
+AAH Skud reddet
+ST
+11
+Simon HALD
+Retur
+0
+30
+Svend RUGHAVE
+3.03
+AAH Skud reddet
+VB
+18
+Aleks VLAH
+30
+Svend RUGHAVE
+3.41
+1-2
+MTH Mål
+HB 28
+Rasmus MADSEN
+1
+Niklas LANDIN
+4.27
+MTH Advarsel
+33
+Kasper DIDRIKSEN
+4.43
+2-2
+AAH Mål
+ST
+11
+Simon HALD
+Assist
+3
+Lukas NILSSON
+30
+Svend RUGHAVE
+5.20
+2-3
+MTH Mål
+PL
+21
+Marcus MIDTGAARD
+1
+Niklas LANDIN
+5.54
+3-3
+AAH Mål
+ST
+11
+Simon HALD
+Assist
+3
+Lukas NILSSON
+30
+Svend RUGHAVE
+6.50
+3-4
+MTH Mål
+HB 28
+Rasmus MADSEN
+1
+Niklas LANDIN
+7.31
+4-4
+AAH Mål
+Gbr
+3
+Lukas NILSSON
+30
+Svend RUGHAVE
+7.42
+MTH Skud reddet
+VF
+25
+Magnus NORLYK
+1
+Niklas LANDIN
+7.47
+5-4
+AAH Mål
+2:e
+3
+Lukas NILSSON
+30
+Svend RUGHAVE
+8.02
+MTH Tabt bold
+21
+Marcus MIDTGAARD
+8.09
+AAH Skud reddet
+1:e
+6
+Sebastian BARTHOLD
+30
+Svend RUGHAVE
+8.40
+MTH Regelfejl
+28
+Rasmus MADSEN
+8.45
+6-4
+AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+3
+Lukas NILSSON
+30
+Svend RUGHAVE
+9.16
+MTH Regelfejl
+10
+Mads Svane KNUDSEN
+9.27
+7-4
+AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+18
+Aleks VLAH
+30
+Svend RUGHAVE
+10.01
+AAH Advarsel
+11
+Simon HALD
+10.32
+MTH Fejlaflevering
+21
+Marcus MIDTGAARD
+10.43
+8-4
+AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+14
+Mads HOXER
+30
+Svend RUGHAVE
+10.46
+MTH Time out
+11.26
+MTH Regelfejl
+7
+Nichlas HALD
+11.29
+9-4
+AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+25
+Marinus MUNK
+30
+Svend RUGHAVE
+12.05
+9-5
+MTH Mål
+Gbr
+7
+Nichlas HALD
+1
+Niklas LANDIN
+12.41
+AAH Skud reddet
+PL
+14
+Mads HOXER
+30
+Svend RUGHAVE
+12.52
+9-6
+MTH Mål
+Gbr
+7
+Nichlas HALD
+1
+Niklas LANDIN
+13.37 10-6
+AAH Mål
+ST
+4
+Patrick WIESMACH
+Assist
+3
+Lukas NILSSON
+30
+Svend RUGHAVE
+14.22
+MTH Skud forbi
+HB 28
+Rasmus MADSEN
+1
+Niklas LANDIN
+14.52 11-6
+AAH Mål
+PL
+3
+Lukas NILSSON
+30
+Svend RUGHAVE
+15.32
+MTH Tilkendt straffe
+28
+Rasmus MADSEN
+Forårs. str.
+14
+Mads HOXER
+15.45 11-7
+MTH Mål på straffe
+11
+Lasse PEDERSEN
+1
+Niklas LANDIN
+16.21
+AAH Skud reddet
+ST
+20
+Felix MÖLLER
+30
+Svend RUGHAVE
+17.16
+MTH Skud blokeret
+PL
+7
+Nichlas HALD
+Blok af (ret)
+20
+Felix MÖLLER
+17.42
+MTH Skud reddet
+VF
+28
+Rasmus MADSEN
+1
+Niklas LANDIN
+17.48 12-7
+AAH Mål
+2:e
+6
+Sebastian BARTHOLD
+Assist
+18
+Aleks VLAH
+30
+Svend RUGHAVE
+18.11 12-8
+MTH Mål
+PL
+19
+Victor NORLYK
+1
+Niklas LANDIN
+18.46 13-8
+AAH Mål
+PL
+25
+Marinus MUNK
+30
+Svend RUGHAVE
+18.55
+MTH Skud reddet
+PL
+9
+Kristoffer VESTERGAARD
+Retur
+11
+Lasse PEDERSEN
+1
+Niklas LANDIN
+19.23 13-9
+MTH Mål
+Gbr 19
+Victor NORLYK
+1
+Niklas LANDIN
+20.05
+AAH Skud reddet
+ST
+20
+Felix MÖLLER
+30
+Svend RUGHAVE
+20.20 13-10 MTH Mål
+VF
+23
+Henrik TILSTED
+Assist
+7
+Nichlas HALD
+1
+Niklas LANDIN
+20.57 14-10 AAH Mål
+VB
+18
+Aleks VLAH
+30
+Svend RUGHAVE
+21.35
+MTH Skud forbi
+HB
+7
+Nichlas HALD
+1
+Niklas LANDIN
+21.48 15-10 AAH Mål
+HF
+4
+Patrick WIESMACH
+Assist
+20
+Felix MÖLLER
+30
+Svend RUGHAVE
+22.24 15-11 MTH Mål
+VF
+23
+Henrik TILSTED
+Assist
+19
+Victor NORLYK
+1
+Niklas LANDIN
+23.32
+AAH Regelfejl
+20
+Felix MÖLLER
+23.40
+MTH Skud reddet
+1:e
+15
+Henrik Toft HANSEN
+1
+Niklas LANDIN
+23.51
+AAH Skud reddet
+1:e
+15
+Jack THURIN
+Retur
+0
+30
+Svend RUGHAVE
+24.18
+AAH Skud reddet
+PL
+25
+Marinus MUNK
+30
+Svend RUGHAVE
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - Mors-Thy Håndbold   34 - 27  (17 - 13)
+111265 / 21-5-2025 / Sparekassen Danmark Arena / Slutspil Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.58
+MTH Tabt bold
+19
+Victor NORLYK
+25.09 16-11 AAH Mål
+PL
+15
+Jack THURIN
+30
+Svend RUGHAVE
+25.55 16-12 MTH Mål
+ST
+33
+Kasper DIDRIKSEN
+Assist
+7
+Nichlas HALD
+1
+Niklas LANDIN
+26.35
+AAH Skud reddet
+Gbr 25
+Marinus MUNK
+30
+Svend RUGHAVE
+27.29 16-13 MTH Mål
+ST
+33
+Kasper DIDRIKSEN
+Assist
+19
+Victor NORLYK
+1
+Niklas LANDIN
+27.37
+AAH Time out
+28.53
+AAH Skud blokeret
+PL
+15
+Jack THURIN
+Blok af (ret)
+4
+Kasper LINDGREN
+29.07 17-13 AAH Mål
+VB
+18
+Aleks VLAH
+30
+Svend RUGHAVE
+29.55
+MTH Regelfejl
+25
+Magnus NORLYK
+29.59
+AAH Skud reddet
+1:e
+25
+Marinus MUNK
+30
+Svend RUGHAVE
+30.00 17-13
+Halvleg
+30.00
+Start 2:e halvleg
+30.35 18-13 AAH Mål
+Gbr 25
+Marinus MUNK
+20
+Oliver LARSEN
+31.30 18-14 MTH Mål
+PL
+28
+Rasmus MADSEN
+1
+Niklas LANDIN
+32.30 19-14 AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+14
+Mads HOXER
+20
+Oliver LARSEN
+32.40
+MTH Skud reddet
+2:e
+21
+Marcus MIDTGAARD
+1
+Niklas LANDIN
+33.14
+AAH Fejlaflevering
+3
+Lukas NILSSON
+Bold erobret 23
+Henrik TILSTED
+33.24 19-15 MTH Mål
+1:e
+17
+Malthe BULL
+Assist
+21
+Marcus MIDTGAARD
+0
+34.01 20-15 AAH Mål
+ST
+11
+Simon HALD
+Assist
+3
+Lukas NILSSON
+20
+Oliver LARSEN
+34.34
+MTH Tilkendt straffe
+21
+Marcus MIDTGAARD
+Forårs. str.
+11
+Simon HALD
+34.42 20-16 MTH Mål på straffe
+11
+Lasse PEDERSEN
+1
+Niklas LANDIN
+35.10 21-16 AAH Mål
+PL
+3
+Lukas NILSSON
+20
+Oliver LARSEN
+35.25
+MTH Tilkendt straffe
+28
+Rasmus MADSEN
+Forårs. str.
+6
+Sebastian BARTHOLD
+35.35
+MTH Straffekast reddet
+11
+Lasse PEDERSEN
+1
+Niklas LANDIN
+36.23 22-16 AAH Mål
+HF
+4
+Patrick WIESMACH
+Assist
+14
+Mads HOXER
+20
+Oliver LARSEN
+37.10 22-17 MTH Mål
+VF
+23
+Henrik TILSTED
+Assist
+10
+Mads Svane KNUDSEN
+1
+Niklas LANDIN
+37.21 23-17 AAH Mål
+Gbr 25
+Marinus MUNK
+20
+Oliver LARSEN
+37.43
+MTH Tilkendt straffe
+10
+Mads Svane KNUDSEN
+Forårs. str.
+17
+Martin LARSEN
+37.51
+MTH Straffekast reddet
+10
+Mads Svane KNUDSEN
+1
+Niklas LANDIN
+38.37
+AAH Fejlaflevering
+14
+Mads HOXER
+38.44 23-18 MTH Mål
+1:e
+20
+Oliver LARSEN
+0
+39.20 24-18 AAH Mål
+PL
+3
+Lukas NILSSON
+20
+Oliver LARSEN
+39.30
+MTH Skud reddet
+2:e
+23
+Henrik TILSTED
+1
+Niklas LANDIN
+40.08 25-18 AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+25
+Marinus MUNK
+20
+Oliver LARSEN
+41.02 25-19 MTH Mål
+Gbr 28
+Rasmus MADSEN
+1
+Niklas LANDIN
+41.10 26-19 AAH Mål
+Gbr 14
+Mads HOXER
+20
+Oliver LARSEN
+41.47 26-20 MTH Mål
+Gbr 21
+Marcus MIDTGAARD
+1
+Niklas LANDIN
+42.31 27-20 AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+3
+Lukas NILSSON
+20
+Oliver LARSEN
+43.18
+MTH Tilkendt straffe
+10
+Mads Svane KNUDSEN
+Forårs. str.
+22
+Rene ANTONSEN
+43.34
+MTH Straffekast reddet
+23
+Henrik TILSTED
+1
+Niklas LANDIN
+44.22 28-20 AAH Mål
+VF
+6
+Sebastian BARTHOLD
+20
+Oliver LARSEN
+45.15
+MTH Tilkendt straffe
+33
+Kasper DIDRIKSEN
+Forårs. str.
+22
+Rene ANTONSEN
+45.32 28-21 MTH Mål på straffe
+19
+Victor NORLYK
+1
+Niklas LANDIN
+46.13
+AAH Tilkendt straffe
+22
+Rene ANTONSEN
+Forårs. str.
+7
+Nichlas HALD
+46.39 29-21 AAH Mål på straffe
+15
+Jack THURIN
+20
+Oliver LARSEN
+47.26
+MTH Tilkendt straffe
+19
+Victor NORLYK
+Forårs. str.
+22
+Rene ANTONSEN
+47.46 29-22 MTH Mål på straffe
+19
+Victor NORLYK
+1
+Niklas LANDIN
+48.31 30-22 AAH Mål
+Gbr 18
+Aleks VLAH
+20
+Oliver LARSEN
+49.28
+MTH Skud på stolpe
+HF
+17
+Malthe BULL
+1
+Niklas LANDIN
+49.57 31-22 AAH Mål
+VB
+3
+Lukas NILSSON
+20
+Oliver LARSEN
+50.07 31-23 MTH Mål
+2:e
+15
+Henrik Toft HANSEN
+Assist
+0
+0
+50.44 32-23 AAH Mål
+Gbr 18
+Aleks VLAH
+20
+Oliver LARSEN
+51.31 32-24 MTH Mål
+ST
+15
+Henrik Toft HANSEN
+Assist
+19
+Victor NORLYK
+1
+Niklas LANDIN
+52.15
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+20
+Oliver LARSEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - Mors-Thy Håndbold   34 - 27  (17 - 13)
+111265 / 21-5-2025 / Sparekassen Danmark Arena / Slutspil Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+52.40
+MTH Skud reddet
+VF
+23
+Henrik TILSTED
+12
+Fabian NORSTEN
+53.16
+AAH Skud reddet
+PL
+18
+Aleks VLAH
+20
+Oliver LARSEN
+53.27
+MTH Skud forbi
+Gbr
+7
+Nichlas HALD
+1
+Niklas LANDIN
+53.38
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+20
+Oliver LARSEN
+54.11
+MTH Fejlaflevering
+19
+Victor NORLYK
+54.17
+AAH Skud på stolpe
+1:e
+6
+Sebastian BARTHOLD
+20
+Oliver LARSEN
+54.24 32-25 MTH Mål
+2:e
+23
+Henrik TILSTED
+Assist
+21
+Marcus MIDTGAARD
+1
+Niklas LANDIN
+55.06
+AAH Skud reddet
+VB
+25
+Marinus MUNK
+Retur
+0
+20
+Oliver LARSEN
+55.27
+AAH Regelfejl
+22
+Rene ANTONSEN
+55.34 32-26 MTH Mål
+2:e
+15
+Henrik Toft HANSEN
+Assist
+19
+Victor NORLYK
+1
+Niklas LANDIN
+56.19 33-26 AAH Mål
+Gbr 25
+Marinus MUNK
+20
+Oliver LARSEN
+56.58
+MTH Skud forbi
+PL
+19
+Victor NORLYK
+1
+Niklas LANDIN
+57.31 34-26 AAH Mål
+Gbr 14
+Mads HOXER
+20
+Oliver LARSEN
+58.01
+MTH Fejlaflevering
+11
+Lasse PEDERSEN
+58.41
+AAH Skud reddet
+HB 15
+Jack THURIN
+20
+Oliver LARSEN
+59.21 34-27 MTH Mål
+HF
+11
+Lasse PEDERSEN
+Assist
+9
+Kristoffer VESTERGAARD
+1
+Niklas LANDIN
+59.59
+AAH Skud forbi
+ST
+22
+Rene ANTONSEN
+20
+Oliver LARSEN
+60.00 34-27
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Lars Bo Ibsen, Anders Kagaard,

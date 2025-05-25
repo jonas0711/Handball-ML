@@ -1,0 +1,963 @@
+KAMPHÆNDELSER
+SønderjyskE Herrer - Skjern Håndbold   33 - 23  (16 - 10)
+255933 / 2-9-2020 / Broager Sparekasse SKANSEN 1 / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.38
+SKH Regelfejl
+25
+Eivind TANGEN
+1.05
+SJE
+Skud reddet
+HB
+6
+Jon ANDERSEN
+12
+Robin HAUG
+1.55
+SKH Skud reddet
+Gbr 25
+Eivind TANGEN
+12
+Josip CAVAR
+2.03
+SJE
+Advarsel
+2
+Thomas MOGENSEN
+2.53
+SKH Advarsel
+11
+Jonathan STENBÄCKEN
+3.08
+SJE
+Skud reddet
+HB
+6
+Jon ANDERSEN
+12
+Robin HAUG
+3.21
+SKH Skud på stolpe
+HB 25
+Eivind TANGEN
+12
+Josip CAVAR
+4.03
+SJE
+Skud reddet
+Gbr
+2
+Thomas MOGENSEN
+Retur
+67
+Tobias MØLLER
+12
+Robin HAUG
+4.20
+SJE
+Regelfejl
+2
+Thomas MOGENSEN
+5.15
+SKH Skud blokeret
+PL
+10
+Jesper KONRADSSON
+Blok af (ret)
+0
+12
+Josip CAVAR
+5.31
+SJE
+Advarsel
+67
+Tobias MØLLER
+6.08
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+6.38
+SJE
+Skud reddet
+HB
+6
+Jon ANDERSEN
+12
+Robin HAUG
+7.17
+SKH Regelfejl
+18
+Bjarte MYRHOL
+7.26
+SJE
+Tilkendt straffe
+18
+Morten BJØRNSHAUGE
+Forårs. str.
+26
+Jonathan WÜRTZ
+7.52
+1-0
+SJE
+Mål på straffe
+67
+Tobias MØLLER
+12
+Robin HAUG
+8.38
+SKH Tilkendt straffe
+18
+Bjarte MYRHOL
+Forårs. str.
+14
+Frederik LADEFOGED
+8.52
+SJE
+Advarsel
+14
+Frederik LADEFOGED
+9.01
+SKH Straffekast reddet
+7
+Anders EGGERT
+12
+Josip CAVAR
+9.39
+2-0
+SJE
+Mål
+Gbr
+6
+Jon ANDERSEN
+Assist
+2
+Thomas MOGENSEN
+12
+Robin HAUG
+10.07
+SKH Time out
+10.40
+SKH Skud reddet
+PL
+10
+Jesper KONRADSSON
+12
+Josip CAVAR
+10.48
+3-0
+SJE
+Mål
+1:e
+10
+Nikolai VINTHER
+Assist
+0
+12
+Robin HAUG
+11.14
+3-1
+SKH Mål
+HB 25
+Eivind TANGEN
+12
+Josip CAVAR
+11.17
+SJE
+Udvisning
+14
+Frederik LADEFOGED
+11.41
+SJE
+Skud reddet
+HB
+9
+Oskar SUNNEFELDT
+12
+Robin HAUG
+12.34
+3-2
+SKH Mål
+HB 25
+Eivind TANGEN
+12
+Josip CAVAR
+13.10
+SJE
+Skud reddet
+Gbr
+6
+Jon ANDERSEN
+12
+Robin HAUG
+13.26
+SKH Regelfejl
+7
+Anders EGGERT
+13.32
+4-2
+SJE
+Mål
+1:e
+6
+Jon ANDERSEN
+12
+Robin HAUG
+14.04
+4-3
+SKH Mål
+Gbr 25
+Eivind TANGEN
+Assist
+10
+Jesper KONRADSSON
+12
+Josip CAVAR
+14.14
+5-3
+SJE
+Mål
+2:e
+14
+Frederik LADEFOGED
+12
+Robin HAUG
+14.58
+5-4
+SKH Mål
+Gbr 26
+Jonathan WÜRTZ
+Assist
+9
+Elvar Örn JÓNSSON
+12
+Josip CAVAR
+15.32
+6-4
+SJE
+Mål
+HF
+10
+Nikolai VINTHER
+Assist
+6
+Jon ANDERSEN
+12
+Robin HAUG
+15.46
+SKH Fejlaflevering
+26
+Jonathan WÜRTZ
+Bold erobret 10
+Nikolai VINTHER
+16.18
+7-4
+SJE
+Mål
+PL
+2
+Thomas MOGENSEN
+12
+Robin HAUG
+16.33
+SKH Skud reddet
+HF
+21
+René RASMUSSEN
+12
+Josip CAVAR
+17.04
+SJE
+Skud reddet
+PL
+24
+Marcus DAHLIN
+12
+Robin HAUG
+17.48
+SKH Skud reddet
+ST
+18
+Bjarte MYRHOL
+12
+Josip CAVAR
+17.55
+8-4
+SJE
+Mål
+HB 24
+Marcus DAHLIN
+12
+Robin HAUG
+18.19
+SJE
+Udvisning
+18
+Morten BJØRNSHAUGE
+18.34
+8-5
+SKH Mål
+PL
+25
+Eivind TANGEN
+Assist
+10
+Jesper KONRADSSON
+12
+Josip CAVAR
+19.07
+SJE
+Regelfejl
+66
+Noah GAUDIN
+19.30
+8-6
+SKH Mål
+ST
+18
+Bjarte MYRHOL
+Assist
+10
+Jesper KONRADSSON
+12
+Josip CAVAR
+20.02
+9-6
+SJE
+Mål
+Gbr 66
+Noah GAUDIN
+Assist
+24
+Marcus DAHLIN
+12
+Robin HAUG
+20.23
+SKH Skud reddet
+HB 25
+Eivind TANGEN
+12
+Josip CAVAR
+20.32
+SJE
+Time out
+20.54
+SKH Udvisning
+9
+Elvar Örn JÓNSSON
+21.06 10-6
+SJE
+Mål
+VF
+67
+Tobias MØLLER
+Assist
+7
+Oliver NØDDESBO EGGERT
+12
+Robin HAUG
+21.38
+SKH Tilkendt straffe
+25
+Eivind TANGEN
+Forårs. str.
+0
+21.47 10-7
+SKH Mål på straffe
+7
+Anders EGGERT
+12
+Josip CAVAR
+22.40 11-7
+SJE
+Mål
+VB
+7
+Oliver NØDDESBO EGGERT
+12
+Robin HAUG
+23.16 11-8
+SKH Mål
+Gbr 11
+Jonathan STENBÄCKEN
+12
+Josip CAVAR
+23.46
+SJE
+Skud forbi
+VB
+66
+Noah GAUDIN
+12
+Robin HAUG
+
+--- Side 2 ---
+KAMPHÆNDELSER
+SønderjyskE Herrer - Skjern Håndbold   33 - 23  (16 - 10)
+255933 / 2-9-2020 / Broager Sparekasse SKANSEN 1 / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.27 11-9
+SKH Mål
+VB
+11
+Jonathan STENBÄCKEN
+12
+Josip CAVAR
+24.56
+SJE
+Tilkendt straffe
+7
+Oliver NØDDESBO EGGERT
+Forårs. str.
+25
+Eivind TANGEN
+25.19 12-9
+SJE
+Mål på straffe
+67
+Tobias MØLLER
+12
+Robin HAUG
+25.45
+SKH Skud forbi
+PL
+10
+Jesper KONRADSSON
+12
+Josip CAVAR
+25.53 13-9
+SJE
+Mål
+Gbr
+7
+Oliver NØDDESBO EGGERT
+12
+Robin HAUG
+26.03 13-10 SKH Mål
+ST
+18
+Bjarte MYRHOL
+Assist
+10
+Jesper KONRADSSON
+12
+Josip CAVAR
+26.35 14-10 SJE
+Mål
+VB
+6
+Jon ANDERSEN
+12
+Robin HAUG
+27.19
+SKH Regelfejl
+5
+Oliver NORLYK
+27.50 15-10 SJE
+Mål
+PL
+2
+Thomas MOGENSEN
+Assist
+66
+Noah GAUDIN
+30
+Svend RUGHAVE
+28.30
+SKH Skud reddet
+PL
+11
+Jonathan STENBÄCKEN
+12
+Josip CAVAR
+29.06
+SJE
+Fejlaflevering
+6
+Jon ANDERSEN
+29.15
+SKH Skud reddet
+2:e
+21
+René RASMUSSEN
+12
+Josip CAVAR
+29.43 16-10 SJE
+Mål
+HF
+27
+Alec SMIT
+Assist
+66
+Noah GAUDIN
+30
+Svend RUGHAVE
+30.00 16-10
+Halvleg
+30.39 17-10 SJE
+Mål
+HF
+10
+Nikolai VINTHER
+Assist
+2
+Thomas MOGENSEN
+12
+Robin HAUG
+31.31 17-11 SKH Mål
+PL
+9
+Elvar Örn JÓNSSON
+12
+Josip CAVAR
+32.05 18-11 SJE
+Mål
+VF
+67
+Tobias MØLLER
+Assist
+66
+Noah GAUDIN
+12
+Robin HAUG
+32.19 18-12 SKH Mål
+Gbr 10
+Jesper KONRADSSON
+12
+Josip CAVAR
+32.29
+SJE
+Tilkendt straffe
+2
+Thomas MOGENSEN
+Forårs. str.
+31
+Oliver JUHL
+32.54
+SJE
+Straffekast på stolpe
+67
+Tobias MØLLER
+12
+Robin HAUG
+33.08 18-13 SKH Mål
+ST
+6
+Jonas TIDEMAND
+Assist
+10
+Jesper KONRADSSON
+12
+Josip CAVAR
+34.15
+SJE
+Skud blokeret
+PL
+6
+Jon ANDERSEN
+Blok af (ret)
+0
+34.30
+SJE
+Tilkendt straffe
+14
+Frederik LADEFOGED
+Forårs. str.
+6
+Jonas TIDEMAND
+34.30
+SKH Udvisning
+6
+Jonas TIDEMAND
+34.35 19-13 SJE
+Mål på straffe
+67
+Tobias MØLLER
+12
+Robin HAUG
+35.35
+SJE
+Udvisning
+18
+Morten BJØRNSHAUGE
+35.35
+SJE
+Advarsel
+A
+Jan PYTLICK
+35.45
+SKH Fejlaflevering
+10
+Jesper KONRADSSON
+35.55 20-13 SJE
+Mål
+1:e
+67
+Tobias MØLLER
+12
+Robin HAUG
+36.06
+SKH Skud reddet
+HB 25
+Eivind TANGEN
+12
+Josip CAVAR
+36.31 21-13 SJE
+Mål
+Gbr
+6
+Jon ANDERSEN
+12
+Robin HAUG
+37.12
+SKH Skud reddet
+VF
+23
+Jørgen RASMUSSEN
+12
+Josip CAVAR
+37.59 22-13 SJE
+Mål
+VB
+66
+Noah GAUDIN
+12
+Robin HAUG
+38.07
+SKH Time out
+38.40 22-14 SKH Mål
+VB
+25
+Eivind TANGEN
+12
+Josip CAVAR
+39.35
+SJE
+Skud reddet
+VB
+66
+Noah GAUDIN
+30
+Svend RUGHAVE
+40.05
+SKH Skud reddet
+Gbr 10
+Jesper KONRADSSON
+12
+Josip CAVAR
+40.41
+SJE
+Skud blokeret
+PL
+7
+Oliver NØDDESBO EGGERT
+Blokeret af
+18
+Bjarte MYRHOL
+41.13 22-15 SKH Mål
+HB 25
+Eivind TANGEN
+12
+Josip CAVAR
+41.52
+SJE
+Skud reddet
+VB
+2
+Thomas MOGENSEN
+30
+Svend RUGHAVE
+42.34
+SKH Skud reddet
+PL
+25
+Eivind TANGEN
+12
+Josip CAVAR
+42.45 23-15 SJE
+Mål
+VB
+7
+Oliver NØDDESBO EGGERT
+30
+Svend RUGHAVE
+43.39
+SJE
+Udvisning
+14
+Frederik LADEFOGED
+44.08 23-16 SKH Mål
+HF
+31
+Oliver JUHL
+Assist
+25
+Eivind TANGEN
+12
+Josip CAVAR
+45.10 24-16 SJE
+Mål
+ST
+18
+Morten BJØRNSHAUGE
+Assist
+6
+Jon ANDERSEN
+30
+Svend RUGHAVE
+45.39 24-17 SKH Mål
+PL
+9
+Elvar Örn JÓNSSON
+12
+Josip CAVAR
+46.35 25-17 SJE
+Mål
+HB
+6
+Jon ANDERSEN
+30
+Svend RUGHAVE
+47.32
+SKH Skud reddet
+HB
+5
+Oliver NORLYK
+12
+Josip CAVAR
+48.14
+SJE
+Skud reddet
+Gbr 24
+Marcus DAHLIN
+Retur
+66
+Noah GAUDIN
+30
+Svend RUGHAVE
+48.30 26-17 SJE
+Mål
+ST
+66
+Noah GAUDIN
+30
+Svend RUGHAVE
+49.16 26-18 SKH Mål
+PL
+5
+Oliver NORLYK
+12
+Josip CAVAR
+49.45
+SJE
+Tabt bold
+67
+Tobias MØLLER
+50.12
+SKH Regelfejl
+25
+Eivind TANGEN
+50.45
+SJE
+Fejlaflevering
+66
+Noah GAUDIN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+SønderjyskE Herrer - Skjern Håndbold   33 - 23  (16 - 10)
+255933 / 2-9-2020 / Broager Sparekasse SKANSEN 1 / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+50.59 26-19 SKH Mål
+PL
+9
+Elvar Örn JÓNSSON
+12
+Josip CAVAR
+51.31
+SJE
+Skud på stolpe
+HB
+7
+Oliver NØDDESBO EGGERT
+Retur
+2
+Thomas MOGENSEN
+30
+Svend RUGHAVE
+51.42 27-19 SJE
+Mål
+ST
+2
+Thomas MOGENSEN
+30
+Svend RUGHAVE
+51.55 27-20 SKH Mål
+VB
+9
+Elvar Örn JÓNSSON
+12
+Josip CAVAR
+52.46
+SKH Udvisning
+25
+Eivind TANGEN
+52.59 28-20 SJE
+Mål
+Gbr 24
+Marcus DAHLIN
+Assist
+7
+Oliver NØDDESBO EGGERT
+30
+Svend RUGHAVE
+53.34
+SKH Tilkendt straffe
+18
+Bjarte MYRHOL
+Forårs. str.
+24
+Marcus DAHLIN
+53.37 28-21 SKH Mål på straffe
+7
+Anders EGGERT
+12
+Josip CAVAR
+54.07 29-21 SJE
+Mål
+ST
+5
+Sveinn JÓHANNSSON
+Assist
+0
+30
+Svend RUGHAVE
+54.37 29-22 SKH Mål
+HB
+5
+Oliver NORLYK
+12
+Josip CAVAR
+54.46
+SJE
+Time out
+54.50 30-22 SJE
+Mål
+PL
+24
+Marcus DAHLIN
+30
+Svend RUGHAVE
+55.14 30-23 SKH Mål
+Gbr 10
+Jesper KONRADSSON
+12
+Josip CAVAR
+55.44
+SJE
+Skud reddet
+PL
+24
+Marcus DAHLIN
+0
+55.52
+SKH Regelfejl
+11
+Jonathan STENBÄCKEN
+56.30 31-23 SJE
+Mål
+HF
+10
+Nikolai VINTHER
+Assist
+67
+Tobias MØLLER
+30
+Svend RUGHAVE
+56.42
+SKH Skud forbi
+PL
+9
+Elvar Örn JÓNSSON
+12
+Josip CAVAR
+57.18
+SJE
+Fejlaflevering
+24
+Marcus DAHLIN
+57.28
+SKH Skud reddet
+PL
+11
+Jonathan STENBÄCKEN
+12
+Josip CAVAR
+57.59
+SJE
+Skud reddet
+PL
+24
+Marcus DAHLIN
+0
+58.43
+SKH Skud forbi
+PL
+9
+Elvar Örn JÓNSSON
+12
+Josip CAVAR
+59.19 32-23 SJE
+Mål
+ST
+5
+Sveinn JÓHANNSSON
+Assist
+24
+Marcus DAHLIN
+30
+Svend RUGHAVE
+59.33
+SKH Regelfejl
+9
+Elvar Örn JÓNSSON
+59.59 33-23 SJE
+Mål
+VB
+9
+Oskar SUNNEFELDT
+30
+Svend RUGHAVE
+60.00 33-23
+Fuld tid
+Software: Jilsén System AB. Logget af: Bjarne Nielsen, Torben Gravlund,

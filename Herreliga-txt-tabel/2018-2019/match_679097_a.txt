@@ -1,0 +1,951 @@
+KAMPHÆNDELSER
+Aalborg Håndbold - Nordsjælland Håndbold   37 - 29  (16 - 17)
+679097 / 22-9-2018 / Jutlander Bank Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.43
+NSH Skud reddet
+PL
+23
+Kasper KISUM
+12
+Kristian SAEVERÅS
+0.51
+AAH Fejlaflevering
+11
+Omar Ingi MAGNUSSON
+1.43
+NSH Skud reddet
+ST
+13
+Andreas Johann NIELSEN
+12
+Kristian SAEVERÅS
+1.50
+1-0
+AAH Mål
+2:e
+17
+Tobias ELLEBÆK
+Assist
+21
+Henrik MØLLGAARD
+1
+Mike JENSEN
+2.25
+NSH Skud blokeret
+PL
+24
+Johan MEKLENBORG
+2.47
+AAH Regelfejl
+11
+Omar Ingi MAGNUSSON
+3.27
+NSH Skud forbi
+Gbr 24
+Johan MEKLENBORG
+12
+Kristian SAEVERÅS
+4.10
+2-0
+AAH Mål
+Gbr 17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+4.56
+2-1
+NSH Mål
+HB 29
+Nicolas Lundbye KRISTIANSEN
+12
+Kristian SAEVERÅS
+6.01
+NSH Advarsel
+20
+Jesper DAHL
+6.21
+3-1
+AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+19
+Mark STRANDGAARD
+1
+Mike JENSEN
+6.31
+AAH Advarsel
+11
+Omar Ingi MAGNUSSON
+7.13
+3-2
+NSH Mål
+PL
+23
+Kasper KISUM
+12
+Kristian SAEVERÅS
+7.33
+AAH Tilkendt straffe
+14
+Magnus SAUGSTRUP
+Forårsagede straffe
+13
+Andreas Johann NIELSEN
+7.38
+NSH Advarsel
+13
+Andreas Johann NIELSEN
+7.54
+4-2
+AAH Mål på straffekast
+23
+Buster JUUL
+1
+Mike JENSEN
+8.33
+4-3
+NSH Mål
+HB 29
+Nicolas Lundbye KRISTIANSEN
+12
+Kristian SAEVERÅS
+8.42
+5-3
+AAH Mål
+VB
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+9.33
+5-4
+NSH Mål
+ST
+13
+Andreas Johann NIELSEN
+Assist
+24
+Johan MEKLENBORG
+12
+Kristian SAEVERÅS
+10.06
+AAH Skud forbi
+HB 11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+10.17
+NSH Skud forbi
+PL
+17
+Akutaaneq KREUTZMANN
+12
+Kristian SAEVERÅS
+10.27
+6-4
+AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+10.58
+6-5
+NSH Mål
+HB 29
+Nicolas Lundbye KRISTIANSEN
+12
+Kristian SAEVERÅS
+12.05
+AAH Tilkendt straffe
+11
+Omar Ingi MAGNUSSON
+Forårsagede straffe
+17
+Akutaaneq KREUTZMANN
+12.13
+7-5
+AAH Mål på straffekast
+23
+Buster JUUL
+80
+Mohamed Aktham ELKAMISI
+12.50
+NSH Skud blokeret
+PL
+24
+Johan MEKLENBORG
+Retur
+29
+Nicolas Lundbye KRISTIANSEN
+12.59
+7-6
+NSH Mål
+PL
+23
+Kasper KISUM
+12
+Kristian SAEVERÅS
+13.11
+AAH Skud blokeret
+HB 11
+Omar Ingi MAGNUSSON
+Retur
+0
+13.36
+8-6
+AAH Mål
+VB
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+14.28
+NSH Tilkendt straffe
+5
+Dan Beck HANSEN
+Forårsagede straffe
+21
+Henrik MØLLGAARD
+14.44
+8-7
+NSH Mål på straffekast
+24
+Johan MEKLENBORG
+12
+Kristian SAEVERÅS
+15.45
+9-7
+AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+15.57
+9-8
+NSH Mål
+ST
+5
+Dan Beck HANSEN
+Assist
+24
+Johan MEKLENBORG
+12
+Kristian SAEVERÅS
+16.43 10-8
+AAH Mål
+HB 11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+17.28 10-9
+NSH Mål
+ST
+5
+Dan Beck HANSEN
+Assist
+24
+Johan MEKLENBORG
+12
+Kristian SAEVERÅS
+18.12
+AAH Regelfejl
+19
+Mark STRANDGAARD
+1
+Mike JENSEN
+18.21
+NSH Skud på stolpe
+PL
+17
+Akutaaneq KREUTZMANN
+Retur
+11
+Lasse UTH
+12
+Kristian SAEVERÅS
+18.51
+NSH Skud reddet
+Gbr 24
+Johan MEKLENBORG
+Retur
+20
+Jesper DAHL
+12
+Kristian SAEVERÅS
+19.20
+NSH Tabt bold
+29
+Nicolas Lundbye KRISTIANSEN
+19.23 11-9
+AAH Mål
+1:e
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+19.32
+NSH Skud reddet
+HF
+20
+Jesper DAHL
+12
+Kristian SAEVERÅS
+19.42
+AAH Tabt bold
+6
+Sebastian BARTHOLD
+20.14 11-10 NSH Mål
+VB
+23
+Kasper KISUM
+12
+Kristian SAEVERÅS
+20.27
+AAH Skud reddet
+HB 11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+20.59 11-11 NSH Mål
+VB
+17
+Akutaaneq KREUTZMANN
+12
+Kristian SAEVERÅS
+21.09
+AAH Time out
+21.43
+AAH Regelfejl
+6
+Sebastian BARTHOLD
+21.50 11-12 NSH Mål
+VB
+23
+Kasper KISUM
+16
+Mikael AGGEFORS
+22.23
+AAH Regelfejl
+20
+Jesper Meinby PEDERSEN
+23.08 11-13 NSH Mål
+VB
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+24.09
+AAH Fejlaflevering
+17
+Tobias ELLEBÆK
+24.15 11-14 NSH Mål
+2:e
+20
+Jesper DAHL
+Assist
+23
+Kasper KISUM
+16
+Mikael AGGEFORS
+24.53
+AAH Skud på stolpe
+ST
+22
+René ANTONSEN
+1
+Mike JENSEN
+25.04
+AAH Advarsel
+22
+René ANTONSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - Nordsjælland Håndbold   37 - 29  (16 - 17)
+679097 / 22-9-2018 / Jutlander Bank Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+25.50
+NSH Skud reddet
+PL
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+25.59 12-14 AAH Mål
+2:e
+15
+Andreas Holst JENSEN
+Assist
+21
+Henrik MØLLGAARD
+1
+Mike JENSEN
+26.06 12-15 NSH Mål
+PL
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+26.42 13-15 AAH Mål
+ST
+3
+Janus SMARÁSON
+Assist
+20
+Jesper Meinby PEDERSEN
+1
+Mike JENSEN
+26.55
+NSH Time out
+27.29 13-16 NSH Mål
+VB
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+28.00 14-16 AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+28.08 14-17 NSH Mål
+2:e
+3
+Carl-Emil HAUNSTRUP
+Assist
+23
+Kasper KISUM
+16
+Mikael AGGEFORS
+28.44 15-17 AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+29.31
+NSH Tabt bold
+2
+Tobias JØRGENSEN
+29.33 16-17 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+21
+Henrik MØLLGAARD
+1
+Mike JENSEN
+30.00
+NSH Skud reddet
+PL
+2
+Tobias JØRGENSEN
+16
+Mikael AGGEFORS
+30.00 16-17
+Halvleg
+30.29
+NSH Udvisning
+23
+Kasper KISUM
+30.38 17-17 AAH Mål
+HF
+19
+Mark STRANDGAARD
+Assist
+11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+31.19 17-18 NSH Mål
+VB
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+31.31 18-18 AAH Mål
+1:e
+22
+René ANTONSEN
+0
+32.32
+NSH Skud blokeret
+PL
+17
+Akutaaneq KREUTZMANN
+Retur
+0
+32.40
+NSH Skud på stolpe
+PL
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+33.18
+NSH Udvisning
+17
+Akutaaneq KREUTZMANN
+33.35
+AAH Fejlaflevering
+11
+Omar Ingi MAGNUSSON
+34.45
+NSH Tabt bold
+24
+Johan MEKLENBORG
+34.51 19-18 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+19
+Mark STRANDGAARD
+1
+Mike JENSEN
+35.26
+NSH Skud reddet
+HB 29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+36.04
+AAH Tilkendt straffe
+3
+Janus SMARÁSON
+Forårsagede straffe
+5
+Dan Beck HANSEN
+36.26 20-18 AAH Mål på straffekast
+23
+Buster JUUL
+1
+Mike JENSEN
+36.57
+NSH Skud reddet
+VF
+23
+Kasper KISUM
+16
+Mikael AGGEFORS
+37.03 21-18 AAH Mål
+2:e
+6
+Sebastian BARTHOLD
+1
+Mike JENSEN
+37.33
+NSH Skud reddet
+ST
+5
+Dan Beck HANSEN
+16
+Mikael AGGEFORS
+38.10
+AAH Regelfejl
+15
+Andreas Holst JENSEN
+38.16
+NSH Skud reddet
+1:e
+29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+38.26 22-18 AAH Mål
+2:e
+6
+Sebastian BARTHOLD
+Assist
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+38.32
+NSH Time out
+38.55
+NSH Skud reddet
+HF
+29
+Nicolas Lundbye KRISTIANSEN
+16
+Mikael AGGEFORS
+39.35 23-18 AAH Mål
+ST
+22
+René ANTONSEN
+Assist
+11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+39.49
+NSH Udvisning
+5
+Dan Beck HANSEN
+40.12
+NSH Skud reddet
+VB
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+40.23
+AAH Skud på stolpe
+Gbr 20
+Jesper Meinby PEDERSEN
+Retur
+6
+Sebastian BARTHOLD
+1
+Mike JENSEN
+40.42
+AAH Skud forbi
+HF
+19
+Mark STRANDGAARD
+80
+Mohamed Aktham ELKAMISI
+41.32
+NSH Skud blokeret
+PL
+24
+Johan MEKLENBORG
+42.28
+NSH Udvisning
+11
+Lasse UTH
+42.28
+NSH Advarsel
+B
+Ian MARKO FOG
+42.41 24-18 AAH Mål
+Gbr 19
+Mark STRANDGAARD
+80
+Mohamed Aktham ELKAMISI
+43.19
+AAH Udvisning
+22
+René ANTONSEN
+43.33 24-19 NSH Mål
+Gbr 20
+Jesper DAHL
+16
+Mikael AGGEFORS
+43.58 25-19 AAH Mål
+VB
+15
+Andreas Holst JENSEN
+80
+Mohamed Aktham ELKAMISI
+44.29 25-20 NSH Mål
+HF
+3
+Carl-Emil HAUNSTRUP
+Assist
+20
+Jesper DAHL
+16
+Mikael AGGEFORS
+45.07
+AAH Tabt bold
+6
+Sebastian BARTHOLD
+45.19 25-21 NSH Mål
+VF
+11
+Lasse UTH
+Assist
+17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+45.57 26-21 AAH Mål
+VB
+15
+Andreas Holst JENSEN
+80
+Mohamed Aktham ELKAMISI
+46.14
+NSH Fejlaflevering
+23
+Kasper KISUM
+46.21 27-21 AAH Mål
+1:e
+15
+Andreas Holst JENSEN
+0
+46.49
+AAH Udvisning
+21
+Henrik MØLLGAARD
+47.18
+NSH Skud reddet
+Gbr 23
+Kasper KISUM
+16
+Mikael AGGEFORS
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - Nordsjælland Håndbold   37 - 29  (16 - 17)
+679097 / 22-9-2018 / Jutlander Bank Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+47.46
+NSH Udvisning
+17
+Akutaaneq KREUTZMANN
+47.51 28-21 AAH Mål
+VB
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+48.35
+NSH Fejlaflevering
+23
+Kasper KISUM
+48.53 29-21 AAH Mål
+ST
+22
+René ANTONSEN
+Assist
+15
+Andreas Holst JENSEN
+1
+Mike JENSEN
+49.31 29-22 NSH Mål
+PL
+23
+Kasper KISUM
+16
+Mikael AGGEFORS
+49.45 30-22 AAH Mål
+ST
+22
+René ANTONSEN
+Assist
+21
+Henrik MØLLGAARD
+1
+Mike JENSEN
+50.43 30-23 NSH Mål
+PL
+23
+Kasper KISUM
+16
+Mikael AGGEFORS
+51.11
+AAH Tilkendt straffe
+22
+René ANTONSEN
+Forårsagede straffe
+5
+Dan Beck HANSEN
+51.28
+AAH Straffekast reddet
+23
+Buster JUUL
+1
+Mike JENSEN
+51.44 30-24 NSH Mål
+Gbr 17
+Akutaaneq KREUTZMANN
+16
+Mikael AGGEFORS
+51.51
+AAH Udvisning
+21
+Henrik MØLLGAARD
+52.12
+AAH Fejlaflevering
+15
+Andreas Holst JENSEN
+52.15
+NSH Skud forbi
+1:e
+20
+Jesper DAHL
+16
+Mikael AGGEFORS
+52.51 31-24 AAH Mål
+VF
+6
+Sebastian BARTHOLD
+Assist
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+53.06
+AAH Udvisning
+20
+Jesper Meinby PEDERSEN
+53.23 31-25 NSH Mål
+ST
+5
+Dan Beck HANSEN
+Assist
+23
+Kasper KISUM
+16
+Mikael AGGEFORS
+53.47
+NSH Udvisning
+5
+Dan Beck HANSEN
+54.01 32-25 AAH Mål
+Gbr 21
+Henrik MØLLGAARD
+Assist
+17
+Tobias ELLEBÆK
+1
+Mike JENSEN
+54.29
+NSH Tilkendt straffe
+20
+Jesper DAHL
+Forårsagede straffe
+6
+Sebastian BARTHOLD
+54.56 32-26 NSH Mål på straffekast
+24
+Johan MEKLENBORG
+16
+Mikael AGGEFORS
+55.44 33-26 AAH Mål
+Gbr
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+56.12
+NSH Fejlaflevering
+20
+Jesper DAHL
+56.25 34-26 AAH Mål
+HF
+20
+Jesper Meinby PEDERSEN
+Assist
+3
+Janus SMARÁSON
+1
+Mike JENSEN
+57.05
+NSH Skud på stolpe
+VB
+23
+Kasper KISUM
+Retur
+2
+Tobias JØRGENSEN
+16
+Mikael AGGEFORS
+57.11 34-27 NSH Mål
+PL
+2
+Tobias JØRGENSEN
+16
+Mikael AGGEFORS
+57.27 35-27 AAH Mål
+PL
+11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+57.42 35-28 NSH Mål
+ST
+8
+Daniel Astrup PEDERSEN
+Assist
+20
+Jesper DAHL
+16
+Mikael AGGEFORS
+58.19 36-28 AAH Mål
+Gbr 11
+Omar Ingi MAGNUSSON
+1
+Mike JENSEN
+59.01 36-29 NSH Mål
+VB
+23
+Kasper KISUM
+16
+Mikael AGGEFORS
+59.07 37-29 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+14
+Magnus SAUGSTRUP
+0
+59.44
+NSH Tilkendt straffe
+2
+Tobias JØRGENSEN
+Forårsagede straffe
+20
+Jesper Meinby PEDERSEN
+60.00
+NSH Straffekast på stolpe
+24
+Johan MEKLENBORG
+12
+Kristian SAEVERÅS
+60.00 37-29
+Fuld tid
+Software: Jilsén System AB. Logget af: Lars Bo Ibsen, John Christiansen,

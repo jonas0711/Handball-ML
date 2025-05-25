@@ -1,0 +1,909 @@
+KAMPHÆNDELSER
+Aalborg Håndbold - GOG   33 - 33  (14 - 19)
+255980 / 10-10-2020 / Jutlander Bank Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.34
+AAH Skud reddet
+HB 11
+Lukas SANDELL
+16
+Viktor Gisli HALLGRIMSSON
+1.02
+0-1
+GOG Mål
+PL
+2
+Simon PYTLICK
+16
+Mikael AGGEFORS
+1.14
+AAH Fejlaflevering
+11
+Lukas SANDELL
+Bold erobret 19
+Mathias GIDSEL
+1.19
+0-2
+GOG Mål
+1:e
+19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+2.03
+AAH Skud reddet
+Gbr
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+2.48
+0-3
+GOG Mål
+Gbr 19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+3.26
+AAH Fejlaflevering
+21
+Henrik MØLLGAARD
+3.32
+0-4
+GOG Mål
+1:e
+31
+Emil JAKOBSEN
+Assist
+21
+Kasper KILDELUND
+16
+Mikael AGGEFORS
+3.46
+AAH Time out
+4.03
+AAH Skud blokeret
+PL
+11
+Lukas SANDELL
+Blokeret af
+77
+Frederik CLAUSEN
+4.17
+0-5
+GOG Mål
+1:e
+21
+Kasper KILDELUND
+Assist
+16
+Viktor Gisli HALLGRIMSSON
+16
+Mikael AGGEFORS
+4.24
+1-5
+AAH Mål
+2:e
+14
+Magnus SAUGSTRUP
+Assist
+21
+Henrik MØLLGAARD
+16
+Viktor Gisli HALLGRIMSSON
+4.58
+GOG Skud reddet
+PL
+19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+5.21
+AAH Fejlaflevering
+21
+Henrik MØLLGAARD
+Bold erobret
+2
+Simon PYTLICK
+5.24
+1-6
+GOG Mål
+1:e
+19
+Mathias GIDSEL
+Assist
+2
+Simon PYTLICK
+0
+6.04
+AAH Skud reddet
+Gbr 11
+Lukas SANDELL
+Retur
+0
+16
+Viktor Gisli HALLGRIMSSON
+6.31
+AAH Fejlaflevering
+21
+Henrik MØLLGAARD
+Bold erobret 19
+Mathias GIDSEL
+6.38
+1-7
+GOG Mål
+1:e
+19
+Mathias GIDSEL
+0
+6.53
+2-7
+AAH Mål
+PL
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+7.08
+2-8
+GOG Mål
+ST
+19
+Mathias GIDSEL
+Assist
+77
+Frederik CLAUSEN
+16
+Mikael AGGEFORS
+8.10
+AAH Skud blokeret
+HB 11
+Lukas SANDELL
+Blokeret af
+17
+Oscar BERGENDAHL
+16
+Viktor Gisli HALLGRIMSSON
+9.04
+2-9
+GOG Mål
+PL
+77
+Frederik CLAUSEN
+16
+Mikael AGGEFORS
+9.08
+3-9
+AAH Mål
+PL
+13
+Nikolaj LÆSØ
+16
+Viktor Gisli HALLGRIMSSON
+10.00
+3-10
+GOG Mål
+ST
+22
+Anders ZACHARIASSEN
+Assist
+19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+10.39
+AAH Tilkendt straffe
+14
+Magnus SAUGSTRUP
+Forårs. str.
+77
+Frederik CLAUSEN
+11.06
+4-10
+AAH Mål på straffe
+23
+Buster JUUL
+16
+Viktor Gisli HALLGRIMSSON
+11.36
+GOG Skud reddet
+VB
+19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+12.30
+5-10
+AAH Mål
+ST
+11
+Lukas SANDELL
+Assist
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+12.53
+GOG Regelfejl
+31
+Emil JAKOBSEN
+13.15
+6-10
+AAH Mål
+Gbr 13
+Nikolaj LÆSØ
+Assist
+11
+Lukas SANDELL
+16
+Viktor Gisli HALLGRIMSSON
+13.48
+GOG Tilkendt straffe
+19
+Mathias GIDSEL
+Forårs. str.
+22
+Rene ANTONSEN
+14.05
+6-11
+GOG Mål på straffe
+31
+Emil JAKOBSEN
+16
+Mikael AGGEFORS
+15.09
+AAH Fejlaflevering
+23
+Buster JUUL
+15.40
+GOG Regelfejl
+2
+Simon PYTLICK
+16.07
+7-11
+AAH Mål
+PL
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+16.44
+GOG Skud reddet
+PL
+11
+Emil Wernsdorf MADSEN
+16
+Mikael AGGEFORS
+16.51
+8-11
+AAH Mål
+2:e
+13
+Nikolaj LÆSØ
+16
+Viktor Gisli HALLGRIMSSON
+17.28
+8-12
+GOG Mål
+Gbr
+2
+Simon PYTLICK
+Assist
+19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+18.00
+9-12
+AAH Mål
+HF
+3
+Jonas SAMUELSSON
+Assist
+11
+Lukas SANDELL
+16
+Viktor Gisli HALLGRIMSSON
+18.08
+GOG Advarsel
+A
+Nicolej Møldrup KRICKAU
+18.54
+GOG Fejlaflevering
+11
+Emil Wernsdorf MADSEN
+19.04 10-12 AAH Mål
+1:e
+23
+Buster JUUL
+Assist
+3
+Jonas SAMUELSSON
+16
+Viktor Gisli HALLGRIMSSON
+20.05 10-13 GOG Mål
+Gbr 19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+20.41
+GOG Advarsel
+31
+Emil JAKOBSEN
+20.56
+AAH Fejlaflevering
+11
+Lukas SANDELL
+21.45 10-14 GOG Mål
+Gbr 19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+22.19
+AAH Tilkendt straffe
+22
+Rene ANTONSEN
+Forårs. str.
+17
+Oscar BERGENDAHL
+22.19
+GOG Udvisning
+17
+Oscar BERGENDAHL
+22.19 11-14 AAH Mål på straffe
+23
+Buster JUUL
+16
+Viktor Gisli HALLGRIMSSON
+22.23 11-15 GOG Mål
+Gbr 19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+22.57 12-15 AAH Mål
+HF
+3
+Jonas SAMUELSSON
+Assist
+13
+Nikolaj LÆSØ
+16
+Viktor Gisli HALLGRIMSSON
+23.39
+AAH Advarsel
+7
+Felix CLAAR
+23.55 12-16 GOG Mål
+VF
+31
+Emil JAKOBSEN
+Assist
+19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+24.10 13-16 AAH Mål
+Gbr
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - GOG   33 - 33  (14 - 19)
+255980 / 10-10-2020 / Jutlander Bank Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.43
+GOG Skud reddet
+PL
+2
+Simon PYTLICK
+16
+Mikael AGGEFORS
+24.52
+AAH Fejlaflevering
+16
+Mikael AGGEFORS
+Bold erobret 19
+Mathias GIDSEL
+26.12 13-17 GOG Mål
+Gbr
+2
+Simon PYTLICK
+16
+Mikael AGGEFORS
+26.48
+AAH Fejlaflevering
+20
+Mads CHRISTIANSEN
+Bold erobret 19
+Mathias GIDSEL
+27.25
+GOG Skud forbi
+PL
+19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+28.31
+AAH Tilkendt straffe
+22
+Rene ANTONSEN
+Forårs. str.
+22
+Anders ZACHARIASSEN
+28.42 14-17 AAH Mål på straffe
+23
+Buster JUUL
+74
+Søren HAAGEN
+29.13 14-18 GOG Mål
+Gbr 11
+Emil Wernsdorf MADSEN
+16
+Mikael AGGEFORS
+29.46
+AAH Skud reddet
+Gbr
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+29.54 14-19 GOG Mål
+2:e
+19
+Mathias GIDSEL
+16
+Mikael AGGEFORS
+29.59
+AAH Skud reddet
+2:e
+3
+Jonas SAMUELSSON
+16
+Viktor Gisli HALLGRIMSSON
+30.00 14-19
+Halvleg
+31.00
+GOG Fejlaflevering
+19
+Mathias GIDSEL
+31.48 15-19 AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+32.29
+GOG Skud reddet
+VB
+2
+Simon PYTLICK
+1
+Simon GADE
+32.42 16-19 AAH Mål
+2:e
+14
+Magnus SAUGSTRUP
+Assist
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+32.49 16-20 GOG Mål
+2:e
+77
+Frederik CLAUSEN
+1
+Simon GADE
+33.38
+AAH Skud reddet
+HB 11
+Lukas SANDELL
+Retur
+0
+16
+Viktor Gisli HALLGRIMSSON
+33.47 17-20 AAH Mål
+HF
+19
+Mark STRANDGAARD
+16
+Viktor Gisli HALLGRIMSSON
+34.16
+GOG Skud reddet
+ST
+22
+Anders ZACHARIASSEN
+Retur
+0
+1
+Simon GADE
+34.39
+GOG Skud forbi
+ST
+22
+Anders ZACHARIASSEN
+1
+Simon GADE
+34.46 18-20 AAH Mål
+2:e
+21
+Henrik MØLLGAARD
+16
+Viktor Gisli HALLGRIMSSON
+35.23 18-21 GOG Mål
+HB 19
+Mathias GIDSEL
+1
+Simon GADE
+36.01
+AAH Skud på stolpe
+HF
+19
+Mark STRANDGAARD
+16
+Viktor Gisli HALLGRIMSSON
+36.40 18-22 GOG Mål
+VF
+31
+Emil JAKOBSEN
+Assist
+2
+Simon PYTLICK
+1
+Simon GADE
+36.52 19-22 AAH Mål
+2:e
+14
+Magnus SAUGSTRUP
+Assist
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+37.33
+GOG Fejlaflevering
+77
+Frederik CLAUSEN
+38.21
+AAH Fejlaflevering
+21
+Henrik MØLLGAARD
+Bold erobret 19
+Mathias GIDSEL
+38.53
+GOG Tilkendt straffe
+19
+Mathias GIDSEL
+Forårs. str.
+7
+Felix CLAAR
+39.18
+GOG Straffekast reddet
+31
+Emil JAKOBSEN
+Retur
+0
+1
+Simon GADE
+39.50 19-23 GOG Mål
+Gbr
+2
+Simon PYTLICK
+1
+Simon GADE
+40.00 20-23 AAH Mål
+2:e
+6
+Sebastian BARTHOLD
+Assist
+11
+Lukas SANDELL
+16
+Viktor Gisli HALLGRIMSSON
+40.28
+GOG Skud reddet
+VF
+31
+Emil JAKOBSEN
+1
+Simon GADE
+40.33 21-23 AAH Mål
+1:e
+14
+Magnus SAUGSTRUP
+Assist
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+41.08 21-24 GOG Mål
+ST
+22
+Anders ZACHARIASSEN
+Assist
+19
+Mathias GIDSEL
+1
+Simon GADE
+41.38 22-24 AAH Mål
+Gbr 21
+Henrik MØLLGAARD
+16
+Viktor Gisli HALLGRIMSSON
+42.13
+GOG Tilkendt straffe
+2
+Simon PYTLICK
+Forårs. str.
+20
+Mads CHRISTIANSEN
+42.13
+AAH Udvisning
+20
+Mads CHRISTIANSEN
+42.13 22-25 GOG Mål på straffe
+31
+Emil JAKOBSEN
+1
+Simon GADE
+42.33
+AAH Skud reddet
+VB
+13
+Nikolaj LÆSØ
+16
+Viktor Gisli HALLGRIMSSON
+42.33
+GOG Skud reddet
+Gbr
+2
+Simon PYTLICK
+1
+Simon GADE
+44.13 23-25 AAH Mål
+ST
+14
+Magnus SAUGSTRUP
+Assist
+13
+Nikolaj LÆSØ
+16
+Viktor Gisli HALLGRIMSSON
+45.29
+GOG Regelfejl
+19
+Mathias GIDSEL
+45.37
+AAH Regelfejl
+7
+Felix CLAAR
+46.23
+GOG Tilkendt straffe
+17
+Oscar BERGENDAHL
+Forårs. str.
+13
+Nikolaj LÆSØ
+46.23 23-26 GOG Mål på straffe
+31
+Emil JAKOBSEN
+1
+Simon GADE
+46.31 24-26 AAH Mål
+Gbr
+7
+Felix CLAAR
+16
+Viktor Gisli HALLGRIMSSON
+47.13
+AAH Udvisning
+7
+Felix CLAAR
+47.55
+GOG Regelfejl
+22
+Anders ZACHARIASSEN
+47.58 25-26 AAH Mål
+1:e
+6
+Sebastian BARTHOLD
+Assist
+14
+Magnus SAUGSTRUP
+16
+Viktor Gisli HALLGRIMSSON
+48.21
+GOG Skud forbi
+ST
+22
+Anders ZACHARIASSEN
+1
+Simon GADE
+49.09 26-26 AAH Mål
+PL
+21
+Henrik MØLLGAARD
+16
+Viktor Gisli HALLGRIMSSON
+49.32 26-27 GOG Mål
+ST
+17
+Oscar BERGENDAHL
+Assist
+19
+Mathias GIDSEL
+1
+Simon GADE
+49.58 27-27 AAH Mål
+PL
+21
+Henrik MØLLGAARD
+74
+Søren HAAGEN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - GOG   33 - 33  (14 - 19)
+255980 / 10-10-2020 / Jutlander Bank Arena / Herre Håndbold Ligaen Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+50.25
+GOG Regelfejl
+19
+Mathias GIDSEL
+51.05 28-27 AAH Mål
+Gbr 21
+Henrik MØLLGAARD
+74
+Søren HAAGEN
+51.18
+GOG Time out
+52.02
+GOG Tilkendt straffe
+2
+Simon PYTLICK
+Forårs. str.
+13
+Nikolaj LÆSØ
+52.10 28-28 GOG Mål på straffe
+31
+Emil JAKOBSEN
+1
+Simon GADE
+52.45
+AAH Time out
+53.26
+AAH Skud reddet
+HB
+7
+Felix CLAAR
+74
+Søren HAAGEN
+54.02
+GOG Fejlaflevering
+2
+Simon PYTLICK
+54.07 29-28 AAH Mål
+1:e
+3
+Jonas SAMUELSSON
+Assist
+13
+Nikolaj LÆSØ
+74
+Søren HAAGEN
+55.04 29-29 GOG Mål
+Gbr
+2
+Simon PYTLICK
+Assist
+19
+Mathias GIDSEL
+1
+Simon GADE
+55.20
+AAH Regelfejl
+7
+Felix CLAAR
+56.12
+GOG Tilkendt straffe
+22
+Anders ZACHARIASSEN
+Forårs. str.
+13
+Nikolaj LÆSØ
+56.12 29-30 GOG Mål på straffe
+31
+Emil JAKOBSEN
+1
+Simon GADE
+56.49 30-30 AAH Mål
+PL
+13
+Nikolaj LÆSØ
+74
+Søren HAAGEN
+57.38 30-31 GOG Mål
+PL
+2
+Simon PYTLICK
+1
+Simon GADE
+58.30 31-31 AAH Mål
+PL
+7
+Felix CLAAR
+74
+Søren HAAGEN
+58.55 31-32 GOG Mål
+Gbr 19
+Mathias GIDSEL
+1
+Simon GADE
+59.25 32-32 AAH Mål
+Gbr 21
+Henrik MØLLGAARD
+74
+Søren HAAGEN
+59.34 32-33 GOG Mål
+2:e
+19
+Mathias GIDSEL
+Assist
+22
+Anders ZACHARIASSEN
+1
+Simon GADE
+59.41
+AAH Time out
+0
+59.59
+AAH Tilkendt straffe
+2
+Benjamin JAKOBSEN
+Forårs. str.
+22
+Anders ZACHARIASSEN
+60.00 33-33 AAH Mål på straffe
+23
+Buster JUUL
+16
+Viktor Gisli HALLGRIMSSON
+60.00 33-33
+Fuld tid
+Software: Jilsén System AB. Logget af: Lars Bo Ibsen, John Christiansen,

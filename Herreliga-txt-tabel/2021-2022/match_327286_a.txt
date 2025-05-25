@@ -1,0 +1,948 @@
+KAMPHÆNDELSER
+Aalborg Håndbold - Bjerringbro-Silkeborg   30 - 36  (21 - 13)
+327286 / 18-12-2021 / Sparekassen Danmark Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.31
+1-0
+AAH Mål
+Gbr 13
+Nikolaj LÆSØ
+Assist
+7
+Felix CLAAR
+1
+Johan SJÖSTRAND
+1.05
+1-1
+BSH Mål
+PL
+9
+Jacob LASSEN
+16
+Mikael AGGEFORS
+1.58
+AAH Skud reddet
+ST
+22
+Rene ANTONSEN
+1
+Johan SJÖSTRAND
+3.00
+BSH Skud reddet
+PL
+20
+William BOGOJEVIC
+16
+Mikael AGGEFORS
+3.40
+BSH Advarsel
+19
+René Toft HANSEN
+4.27
+AAH Skud reddet
+PL
+13
+Nikolaj LÆSØ
+1
+Johan SJÖSTRAND
+4.56
+1-2
+BSH Mål
+PL
+9
+Jacob LASSEN
+16
+Mikael AGGEFORS
+5.33
+2-2
+AAH Mål
+PL
+7
+Felix CLAAR
+1
+Johan SJÖSTRAND
+5.42
+BSH Regelfejl
+14
+Alexander LYNGGAARD
+6.25
+3-2
+AAH Mål
+Gbr 11
+Lukas SANDELL
+1
+Johan SJÖSTRAND
+7.06
+BSH Skud reddet
+PL
+20
+William BOGOJEVIC
+16
+Mikael AGGEFORS
+7.13
+4-2
+AAH Mål
+2:e
+11
+Lukas SANDELL
+Assist
+21
+Henrik MØLLGAARD
+1
+Johan SJÖSTRAND
+7.45
+4-3
+BSH Mål
+Gbr 20
+William BOGOJEVIC
+Assist
+9
+Jacob LASSEN
+16
+Mikael AGGEFORS
+8.30
+5-3
+AAH Mål
+Gbr 13
+Nikolaj LÆSØ
+1
+Johan SJÖSTRAND
+9.06
+5-4
+BSH Mål
+ST
+19
+René Toft HANSEN
+Assist
+20
+William BOGOJEVIC
+16
+Mikael AGGEFORS
+9.14
+6-4
+AAH Mål
+2:e
+11
+Lukas SANDELL
+Assist
+21
+Henrik MØLLGAARD
+1
+Johan SJÖSTRAND
+10.13
+BSH Fejlaflevering
+2
+Ludvig HALLBÄCK
+10.18
+7-4
+AAH Mål
+2:e
+11
+Lukas SANDELL
+1
+Johan SJÖSTRAND
+11.21
+BSH Skud reddet
+PL
+9
+Jacob LASSEN
+Retur
+0
+16
+Mikael AGGEFORS
+11.23
+7-5
+BSH Mål
+ST
+19
+René Toft HANSEN
+16
+Mikael AGGEFORS
+12.01
+8-5
+AAH Mål
+PL
+7
+Felix CLAAR
+1
+Johan SJÖSTRAND
+12.32
+BSH Skud reddet
+VB
+2
+Ludvig HALLBÄCK
+16
+Mikael AGGEFORS
+12.40
+9-5
+AAH Mål
+2:e
+11
+Lukas SANDELL
+1
+Johan SJÖSTRAND
+13.46
+9-6
+BSH Mål
+ST
+19
+René Toft HANSEN
+Assist
+15
+Mads Kjeldgaard ANDERSEN 16
+Mikael AGGEFORS
+14.25
+AAH Regelfejl
+19
+Kristian BJØRNSEN
+14.33
+BSH Skud reddet
+2:e
+15
+Mads Kjeldgaard ANDERSEN
+16
+Mikael AGGEFORS
+14.40
+AAH Fejlaflevering
+7
+Felix CLAAR
+14.53
+BSH Time out
+15.15
+9-7
+BSH Mål
+PL
+15
+Mads Kjeldgaard ANDERSEN
+16
+Mikael AGGEFORS
+15.46 10-7
+AAH Mål
+ST
+8
+Jesper NIELSEN
+Assist
+7
+Felix CLAAR
+16
+Mikkel Møller LØVKVIST
+16.02
+BSH Tilkendt straffe
+9
+Jacob LASSEN
+Forårs. str.
+8
+Jesper NIELSEN
+16.04
+AAH Advarsel
+8
+Jesper NIELSEN
+16.10 10-8
+BSH Mål på straffe
+10
+Jeppe Gade NIELSEN
+16
+Mikael AGGEFORS
+16.48 11-8
+AAH Mål
+Gbr 11
+Lukas SANDELL
+16
+Mikkel Møller LØVKVIST
+16.57
+BSH Skud reddet
+2:e
+15
+Mads Kjeldgaard ANDERSEN
+16
+Mikael AGGEFORS
+17.01 12-8
+AAH Mål
+1:e
+19
+Kristian BJØRNSEN
+Assist
+16
+Mikael AGGEFORS
+16
+Mikkel Møller LØVKVIST
+17.15
+BSH Skud reddet
+PL
+15
+Mads Kjeldgaard ANDERSEN
+16
+Mikael AGGEFORS
+17.46 13-8
+AAH Mål
+Gbr
+7
+Felix CLAAR
+16
+Mikkel Møller LØVKVIST
+19.08
+BSH Tilkendt straffe
+2
+Ludvig HALLBÄCK
+Forårs. str.
+11
+Lukas SANDELL
+19.08
+AAH Udvisning
+11
+Lukas SANDELL
+19.11
+BSH Straffekast reddet
+10
+Jeppe Gade NIELSEN
+16
+Mikael AGGEFORS
+20.17
+AAH Skud blokeret
+PL
+4
+Aron PALMARSSON
+Blok af (ret)
+19
+René Toft HANSEN
+20.58
+AAH Skud reddet
+PL
+7
+Felix CLAAR
+Retur
+0
+16
+Mikkel Møller LØVKVIST
+21.00 14-8
+AAH Mål
+HF
+19
+Kristian BJØRNSEN
+16
+Mikkel Møller LØVKVIST
+21.12
+BSH Fejlaflevering
+15
+Mads Kjeldgaard ANDERSEN Bold erobret 11
+Lukas SANDELL
+21.17 15-8
+AAH Mål
+1:e
+19
+Kristian BJØRNSEN
+Assist
+4
+Aron PALMARSSON
+16
+Mikkel Møller LØVKVIST
+21.50 15-9
+BSH Mål
+PL
+9
+Jacob LASSEN
+16
+Mikael AGGEFORS
+22.01 16-9
+AAH Mål
+Gbr
+4
+Aron PALMARSSON
+16
+Mikkel Møller LØVKVIST
+22.40
+BSH Regelfejl
+4
+Patrick BOLDSEN
+23.13 17-9
+AAH Mål
+VB
+7
+Felix CLAAR
+16
+Mikkel Møller LØVKVIST
+23.47 17-10 BSH Mål
+ST
+14
+Alexander LYNGGAARD
+Assist
+20
+William BOGOJEVIC
+16
+Mikael AGGEFORS
+24.22
+AAH Fejlaflevering
+4
+Aron PALMARSSON
+24.29
+BSH Tabt bold
+7
+Nikolaj Øris NIELSEN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - Bjerringbro-Silkeborg   30 - 36  (21 - 13)
+327286 / 18-12-2021 / Sparekassen Danmark Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+24.34
+AAH Fejlaflevering
+8
+Jesper NIELSEN
+25.07
+BSH Skud blokeret
+PL
+20
+William BOGOJEVIC
+Blok af (ret)
+21
+Henrik MØLLGAARD
+25.24 17-11 BSH Mål
+VF
+23
+Henrik TILSTED
+Assist
+20
+William BOGOJEVIC
+16
+Mikael AGGEFORS
+25.42
+AAH Time out
+26.07
+BSH Udvisning
+7
+Nikolaj Øris NIELSEN
+26.34
+AAH Skud reddet
+PL
+4
+Aron PALMARSSON
+Retur
+0
+16
+Mikkel Møller LØVKVIST
+26.43 18-11 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+11
+Lukas SANDELL
+16
+Mikkel Møller LØVKVIST
+27.32
+BSH Fejlaflevering
+20
+William BOGOJEVIC
+27.54 19-11 AAH Mål
+HF
+19
+Kristian BJØRNSEN
+Assist
+11
+Lukas SANDELL
+16
+Mikkel Møller LØVKVIST
+28.49 19-12 BSH Mål
+ST
+19
+René Toft HANSEN
+Assist
+23
+Henrik TILSTED
+16
+Mikael AGGEFORS
+28.51
+AAH Udvisning
+11
+Lukas SANDELL
+28.51
+AAH Advarsel
+B
+Stefan MADSEN
+29.28 20-12 AAH Mål
+ST
+22
+Rene ANTONSEN
+Assist
+4
+Aron PALMARSSON
+16
+Mikkel Møller LØVKVIST
+29.48 20-13 BSH Mål
+HF
+4
+Patrick BOLDSEN
+Assist
+9
+Jacob LASSEN
+16
+Mikael AGGEFORS
+29.59 21-13 AAH Mål
+VF
+23
+Buster JUUL
+Assist
+7
+Felix CLAAR
+16
+Mikkel Møller LØVKVIST
+30.00 21-13
+Halvleg
+30.00
+Start 2:e halvleg
+30.21 21-14 BSH Mål
+ST
+14
+Alexander LYNGGAARD
+16
+Mikael AGGEFORS
+30.49 22-14 AAH Mål
+ST
+2
+Benjamin JAKOBSEN
+Assist
+7
+Felix CLAAR
+1
+Johan SJÖSTRAND
+31.15 22-15 BSH Mål
+ST
+19
+René Toft HANSEN
+Assist
+7
+Nikolaj Øris NIELSEN
+16
+Mikael AGGEFORS
+32.18
+AAH Skud på stolpe
+HB 11
+Lukas SANDELL
+1
+Johan SJÖSTRAND
+32.52 22-16 BSH Mål
+ST
+14
+Alexander LYNGGAARD
+Assist
+20
+William BOGOJEVIC
+16
+Mikael AGGEFORS
+33.04
+AAH Skud reddet
+2:e
+4
+Aron PALMARSSON
+1
+Johan SJÖSTRAND
+33.36 22-17 BSH Mål
+Gbr 20
+William BOGOJEVIC
+16
+Mikael AGGEFORS
+34.22 23-17 AAH Mål
+HB 11
+Lukas SANDELL
+1
+Johan SJÖSTRAND
+34.28 23-18 BSH Mål
+2:e
+7
+Nikolaj Øris NIELSEN
+16
+Mikael AGGEFORS
+35.07
+AAH Fejlaflevering
+4
+Aron PALMARSSON
+35.16 23-19 BSH Mål
+2:e
+9
+Jacob LASSEN
+16
+Mikael AGGEFORS
+35.20
+AAH Time out
+35.58
+AAH Skud på stolpe
+HF
+19
+Kristian BJØRNSEN
+1
+Johan SJÖSTRAND
+36.46 23-20 BSH Mål
+Gbr
+9
+Jacob LASSEN
+16
+Mikael AGGEFORS
+37.46
+BSH Udvisning
+14
+Alexander LYNGGAARD
+38.02
+AAH Fejlaflevering
+4
+Aron PALMARSSON
+38.06 23-21 BSH Mål
+1:e
+9
+Jacob LASSEN
+Assist
+20
+William BOGOJEVIC
+16
+Mikael AGGEFORS
+38.24
+AAH Skud reddet
+Gbr 11
+Lukas SANDELL
+1
+Johan SJÖSTRAND
+38.45 23-22 BSH Mål
+Gbr
+9
+Jacob LASSEN
+16
+Mikael AGGEFORS
+39.02
+AAH Skud på stolpe
+Gbr 11
+Lukas SANDELL
+1
+Johan SJÖSTRAND
+39.34 23-23 BSH Mål
+HB
+7
+Nikolaj Øris NIELSEN
+16
+Mikael AGGEFORS
+39.47
+AAH Fejlaflevering
+4
+Aron PALMARSSON
+39.52 23-24 BSH Mål
+1:e
+4
+Patrick BOLDSEN
+Assist
+9
+Jacob LASSEN
+1
+Simon GADE
+40.35
+AAH Fejlaflevering
+13
+Nikolaj LÆSØ
+Bold erobret 19
+René Toft HANSEN
+40.38 23-25 BSH Mål
+1:e
+7
+Nikolaj Øris NIELSEN
+Assist
+9
+Jacob LASSEN
+1
+Simon GADE
+40.43
+AAH Time out
+41.10
+AAH Regelfejl
+13
+Nikolaj LÆSØ
+41.14
+AAH Udvisning
+23
+Buster JUUL
+41.27
+BSH Skud reddet
+Gbr 20
+William BOGOJEVIC
+1
+Simon GADE
+42.20
+AAH Skud reddet
+PL
+11
+Lukas SANDELL
+1
+Johan SJÖSTRAND
+42.30 23-26 BSH Mål
+2:e
+23
+Henrik TILSTED
+Assist
+20
+William BOGOJEVIC
+1
+Simon GADE
+43.10
+AAH Fejlaflevering
+13
+Nikolaj LÆSØ
+Bold erobret 14
+Alexander LYNGGAARD
+43.13 23-27 BSH Mål
+1:e
+4
+Patrick BOLDSEN
+0
+43.57
+AAH Skud reddet
+Gbr
+7
+Felix CLAAR
+1
+Johan SJÖSTRAND
+44.31 23-28 BSH Mål
+PL
+9
+Jacob LASSEN
+1
+Simon GADE
+44.44 24-28 AAH Mål
+Gbr
+7
+Felix CLAAR
+1
+Johan SJÖSTRAND
+45.20 24-29 BSH Mål
+VF
+23
+Henrik TILSTED
+Assist
+20
+William BOGOJEVIC
+1
+Simon GADE
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - Bjerringbro-Silkeborg   30 - 36  (21 - 13)
+327286 / 18-12-2021 / Sparekassen Danmark Arena / HTH Herreligaen
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+46.13
+AAH Tilkendt straffe
+19
+Kristian BJØRNSEN
+Forårs. str.
+20
+William BOGOJEVIC
+46.13
+BSH Udvisning
+20
+William BOGOJEVIC
+46.17 25-29 AAH Mål på straffe
+23
+Buster JUUL
+1
+Johan SJÖSTRAND
+47.19 25-30 BSH Mål
+PL
+7
+Nikolaj Øris NIELSEN
+1
+Simon GADE
+47.39 26-30 AAH Mål
+Gbr
+7
+Felix CLAAR
+1
+Johan SJÖSTRAND
+48.26 26-31 BSH Mål
+PL
+9
+Jacob LASSEN
+1
+Simon GADE
+48.46
+AAH Fejlaflevering
+21
+Henrik MØLLGAARD
+49.25
+BSH Skud reddet
+Gbr 20
+William BOGOJEVIC
+1
+Simon GADE
+49.31
+AAH Skud forbi
+1:e
+11
+Lukas SANDELL
+0
+50.10
+BSH Skud forbi
+ST
+25
+Sasser SONN
+1
+Simon GADE
+50.20
+BSH Udvisning
+14
+Alexander LYNGGAARD
+50.42 27-31 AAH Mål
+Gbr 11
+Lukas SANDELL
+1
+Johan SJÖSTRAND
+51.34
+BSH Skud reddet
+PL
+20
+William BOGOJEVIC
+1
+Simon GADE
+51.46
+AAH Skud reddet
+2:e
+13
+Nikolaj LÆSØ
+1
+Johan SJÖSTRAND
+52.24 27-32 BSH Mål
+HB
+7
+Nikolaj Øris NIELSEN
+1
+Simon GADE
+52.34
+AAH Regelfejl
+8
+Jesper NIELSEN
+53.11 27-33 BSH Mål
+ST
+19
+René Toft HANSEN
+Assist
+9
+Jacob LASSEN
+1
+Simon GADE
+53.25
+AAH Skud blokeret
+PL
+11
+Lukas SANDELL
+Blok af (ret)
+19
+René Toft HANSEN
+53.44
+AAH Skud blokeret
+PL
+13
+Nikolaj LÆSØ
+Blok af (ret)
+19
+René Toft HANSEN
+53.58
+AAH Skud reddet
+VB
+13
+Nikolaj LÆSØ
+1
+Johan SJÖSTRAND
+54.38 27-34 BSH Mål
+Gbr 20
+William BOGOJEVIC
+1
+Simon GADE
+55.09 28-34 AAH Mål
+PL
+7
+Felix CLAAR
+1
+Johan SJÖSTRAND
+55.56 28-35 BSH Mål
+HF
+4
+Patrick BOLDSEN
+Assist
+9
+Jacob LASSEN
+1
+Simon GADE
+56.29 29-35 AAH Mål
+Gbr 13
+Nikolaj LÆSØ
+Assist
+19
+Kristian BJØRNSEN
+1
+Johan SJÖSTRAND
+57.11 29-36 BSH Mål
+HF
+4
+Patrick BOLDSEN
+Assist
+9
+Jacob LASSEN
+1
+Simon GADE
+57.39 30-36 AAH Mål
+PL
+13
+Nikolaj LÆSØ
+1
+Johan SJÖSTRAND
+58.33
+BSH Skud reddet
+HB
+9
+Jacob LASSEN
+1
+Simon GADE
+59.12
+AAH Skud reddet
+HF
+19
+Kristian BJØRNSEN
+1
+Johan SJÖSTRAND
+59.55
+BSH Skud forbi
+VF
+23
+Henrik TILSTED
+1
+Simon GADE
+60.00 30-36
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Daniel Hansen, Anne-Marie Almar, .
