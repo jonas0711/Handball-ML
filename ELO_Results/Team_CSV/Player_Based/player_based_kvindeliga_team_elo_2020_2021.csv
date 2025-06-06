@@ -1,0 +1,10 @@
+team_code,team_name,total_players,total_games,avg_games_per_player,goalkeeper_count,elite_players,team_avg_rating,top_7_rating,top_12_rating,best_position_rating,weighted_position_rating,playing_time_weighted_rating,rating_std,rating_range,best_player_rating,worst_player_rating,positions_represented,position_distribution,season,league
+TES,Team Esbjerg,16,335,20.9375,2,0,1331.9,1401.2,1363.4,1376.5,1332.5,1360.3,77.2,282.2,1486.3,1204.1,6,"{'PL': 3, 'HF': 2, 'ST': 6, 'HB': 1, 'VF': 2, 'MV': 2}",2020-2021,Kvindeliga
+VHK,Viborg HK,17,343,20.176470588235293,2,0,1310.2,1392.3,1342.3,1373.5,1311.0,1344.5,86.3,307.4,1508.7,1201.3,6,"{'PL': 5, 'HB': 1, 'ST': 3, 'VF': 3, 'HF': 3, 'MV': 2}",2020-2021,Kvindeliga
+SVK,Silkeborg-Voel KFUM,16,293,18.3125,3,0,1307.5,1372.4,1343.1,1346.2,1305.1,1339.7,73.0,227.2,1426.1,1198.9,6,"{'HB': 1, 'HF': 2, 'PL': 5, 'VF': 3, 'ST': 3, 'MV': 2}",2020-2021,Kvindeliga
+NFH,Nykøbing F. Håndbold,19,307,16.157894736842106,1,0,1302.2,1384.5,1341.6,1361.5,1302.7,1328.3,78.0,261.3,1461.0,1199.7,6,"{'PL': 6, 'HB': 2, 'VF': 3, 'HF': 3, 'ST': 4, 'MV': 1}",2020-2021,Kvindeliga
+SKB,Skanderborg Håndbold,35,625,17.857142857142858,5,0,1302.0,1447.2,1400.3,1413.5,1301.8,1336.6,86.2,285.6,1484.6,1199.0,5,"{'PL': 14, 'VF': 4, 'HF': 6, 'MV': 5, 'ST': 6}",2020-2021,Kvindeliga
+HOL,Holstebro Håndbold,17,274,16.11764705882353,2,0,1294.4,1361.2,1330.0,1353.4,1291.8,1331.3,70.4,255.5,1456.8,1201.3,7,"{'HB': 2, 'VB': 1, 'ST': 4, 'HF': 2, 'PL': 4, 'VF': 2, 'MV': 2}",2020-2021,Kvindeliga
+HHE,Horsens Håndbold Elite,17,271,15.941176470588236,2,0,1281.1,1349.2,1306.4,1344.3,1280.9,1306.4,71.2,257.5,1457.1,1199.6,7,"{'PL': 4, 'VF': 2, 'VB': 1, 'HF': 4, 'HB': 1, 'MV': 2, 'ST': 3}",2020-2021,Kvindeliga
+KBH,København Håndbold,21,327,15.571428571428571,2,0,1278.0,1365.3,1325.9,1358.8,1277.8,1311.9,71.1,241.5,1442.4,1200.9,6,"{'ST': 5, 'PL': 5, 'HF': 4, 'HB': 3, 'VF': 2, 'MV': 2}",2020-2021,Kvindeliga
+VEN,Vendsyssel Håndbold,16,240,15.0,2,0,1241.8,1279.7,1255.1,1270.9,1241.1,1259.3,41.1,156.0,1355.5,1199.5,6,"{'HF': 1, 'PL': 5, 'ST': 5, 'VF': 2, 'HB': 1, 'MV': 2}",2020-2021,Kvindeliga

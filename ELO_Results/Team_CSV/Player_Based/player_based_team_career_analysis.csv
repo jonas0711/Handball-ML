@@ -1,0 +1,34 @@
+team_code,team_name,league,seasons_played,avg_team_rating,avg_top7_rating,peak_team_rating,avg_elite_players,rating_consistency,career_development
+SKH,Skjern Håndbold,Herreliga,8,1331.5,1426.6,1363.6,0.0,27.8,78.2
+AAH,Aalborg Håndbold,Herreliga,8,1322.7,1407.2,1346.8,0.0,25.9,77.2
+REH,Ribe-Esbjerg HH,Herreliga,8,1315.2,1401.7,1362.4,0.0,36.4,104.4
+TTH,TTH Holstebro,Herreliga,8,1309.4,1396.9,1355.0,0.0,39.7,80.5
+FHK,Fredericia Håndbold Klub,Herreliga,6,1307.4,1390.6,1346.0,0.0,35.7,52.6
+LTH,Lemvig-Thyborøn Håndbold,Herreliga,6,1305.6,1375.3,1336.3,0.0,23.8,55.0
+KIF,KIF Kolding,Herreliga,8,1304.4,1395.0,1338.0,0.0,20.2,29.1
+BSH,Bjerringbro-Silkeborg,Herreliga,8,1304.4,1384.3,1346.7,0.0,43.8,119.3
+SJE,SønderjyskE Kvindehåndbold,Herreliga,8,1298.8,1394.7,1328.1,0.0,25.0,82.4
+MTH,Mors-Thy Håndbold,Herreliga,8,1295.7,1371.6,1344.6,0.0,27.1,102.2
+NSH,Nordsjælland Håndbold,Herreliga,7,1292.6,1367.0,1323.6,0.0,27.0,61.0
+GOG,GOG,Herreliga,8,1290.5,1379.1,1332.0,0.0,21.0,41.8
+AAU,Aalborg Universitet Håndbold,Herreliga,7,1288.3,1348.8,1333.2,0.0,41.2,108.0
+ARH,Århus Håndbold,Herreliga,3,1286.2,1348.9,1302.5,0.0,17.4,40.4
+AJX,Ajax København,Herreliga,6,1268.9,1337.0,1284.3,0.0,15.8,23.2
+TMS,TMS Ringsted,Herreliga,5,1265.3,1340.1,1305.1,0.0,23.3,57.9
+SFH,Silkeborg fH,Herreliga,4,1242.3,1267.6,1274.8,0.0,32.3,67.9
+IKA,Ikast Håndbold,Kvindeliga,3,1338.7,1424.4,1354.8,0.0,12.1,-29.1
+SVK,Silkeborg-Voel KFUM,Kvindeliga,5,1312.8,1387.5,1336.1,0.0,16.0,18.5
+TES,Team Esbjerg,Kvindeliga,8,1309.6,1378.1,1365.4,0.0,44.6,101.0
+NFH,Nykøbing F. Håndbold,Kvindeliga,8,1296.8,1363.3,1365.9,0.0,43.3,108.1
+ODE,Odense Håndbold,Kvindeliga,4,1296.1,1359.2,1331.8,0.0,37.9,77.0
+VHK,Viborg HK,Kvindeliga,8,1296.0,1361.7,1331.9,0.0,37.0,101.2
+SKB,Skanderborg Håndbold,Kvindeliga,7,1294.3,1395.8,1335.6,0.0,20.7,35.2
+KBH,København Håndbold,Kvindeliga,8,1287.9,1349.7,1340.1,0.0,37.9,123.2
+HHE,Horsens Håndbold Elite,Kvindeliga,6,1279.2,1358.5,1303.3,0.0,26.1,71.7
+RIN,Ringkøbing Håndbold,Kvindeliga,6,1278.0,1321.9,1349.1,0.0,52.1,148.3
+BFH,Bjerringbro FH,Kvindeliga,3,1263.8,1300.6,1316.6,0.0,45.8,111.6
+HOL,Holstebro Håndbold,Kvindeliga,4,1253.0,1296.6,1294.4,0.0,37.0,-63.7
+EHA,EH Aalborg,Kvindeliga,4,1245.7,1281.6,1266.5,0.0,22.2,24.9
+HIH,HIH,Unknown,4,1295.8,1353.8,1316.6,0.0,13.4,37.3
+OHC,OHC,Unknown,5,1285.8,1346.6,1338.8,0.0,41.5,114.3
+RHK,RHK,Unknown,5,1267.6,1315.3,1307.7,0.0,32.9,96.2

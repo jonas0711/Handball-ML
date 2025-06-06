@@ -1,0 +1,9 @@
+team_code,team_name,total_players,total_games,avg_games_per_player,goalkeeper_count,elite_players,team_avg_rating,top_7_rating,top_12_rating,best_position_rating,weighted_position_rating,playing_time_weighted_rating,rating_std,rating_range,best_player_rating,worst_player_rating,positions_represented,position_distribution,season,league
+NFH,Nykøbing F. Håndbold,16,283,17.6875,2,0,1266.8,1311.2,1287.7,1302.3,1266.1,1290.8,46.9,153.3,1352.6,1199.3,7,"{'VF': 2, 'ST': 3, 'PL': 1, 'VB': 3, 'HB': 1, 'HF': 4, 'MV': 2}",2018-2019,Kvindeliga
+VHK,Viborg HK,16,301,18.8125,3,0,1262.2,1305.7,1280.7,1296.1,1262.1,1287.9,46.1,167.4,1366.4,1199.0,5,"{'PL': 5, 'VF': 2, 'ST': 3, 'HF': 3, 'MV': 3}",2018-2019,Kvindeliga
+TES,Team Esbjerg,16,322,20.125,2,0,1261.8,1310.7,1280.6,1294.9,1262.1,1289.0,52.9,180.1,1383.2,1203.1,7,"{'PL': 2, 'ST': 4, 'VB': 1, 'VF': 3, 'HF': 3, 'HB': 1, 'MV': 2}",2018-2019,Kvindeliga
+SKB,Skanderborg Håndbold,34,585,17.205882352941178,5,0,1260.6,1348.8,1324.3,1326.5,1261.2,1289.3,54.9,183.5,1381.2,1197.7,7,"{'HF': 6, 'PL': 11, 'VF': 4, 'ST': 7, 'MV': 4, 'HB': 1, 'VB': 1}",2018-2019,Kvindeliga
+KBH,København Håndbold,20,365,18.25,3,0,1257.1,1304.6,1283.8,1294.3,1256.9,1280.4,41.8,153.3,1353.0,1199.7,7,"{'HB': 2, 'PL': 3, 'HF': 4, 'VF': 3, 'ST': 4, 'VB': 1, 'MV': 3}",2018-2019,Kvindeliga
+EHA,EH Aalborg,15,251,16.733333333333334,1,0,1239.8,1272.3,1249.4,1269.4,1238.7,1257.8,34.2,99.8,1299.8,1200.0,6,"{'HB': 1, 'HF': 2, 'PL': 6, 'VF': 2, 'ST': 3, 'MV': 1}",2018-2019,Kvindeliga
+RIN,Ringkøbing Håndbold,20,230,11.5,1,0,1229.7,1261.6,1245.8,1253.2,1229.2,1243.7,25.9,76.5,1278.1,1201.6,7,"{'HF': 2, 'PL': 9, 'VF': 2, 'HB': 2, 'VB': 1, 'ST': 3, 'MV': 1}",2018-2019,Kvindeliga
+BFH,Bjerringbro FH,7,12,1.7142857142857142,0,0,1205.0,1205.0,1205.0,1206.8,1205.2,1205.5,4.2,12.6,1212.8,1200.2,5,"{'PL': 2, 'HB': 1, 'ST': 2, 'VF': 1, 'VB': 1}",2018-2019,Kvindeliga

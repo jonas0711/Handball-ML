@@ -1,0 +1,822 @@
+KAMPHÆNDELSER
+Aalborg Håndbold - Skjern Håndbold   26 - 22  (13 - 9)
+111163 / 4-6-2025 / Sparekassen Danmark Arena / Finaler Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+0.00
+Start 1:e halvleg
+0.46
+SKH Tilkendt straffe
+22
+Jakob RASMUSSEN
+Forårs. str.
+11
+Simon HALD
+1.12
+SKH Straffekast reddet
+15
+Lasse MIKKELSEN
+1
+Niklas LANDIN
+1.39
+AAH Skud forbi
+HB 14
+Mads HOXER
+1
+Christoffer BONDE
+2.35
+SKH Skud reddet
+Gbr 10
+Joaquim NAZARÉ
+1
+Niklas LANDIN
+2.47
+AAH Fejlaflevering
+3
+Lukas NILSSON
+3.19
+SKH Tilkendt straffe
+10
+Joaquim NAZARÉ
+Forårs. str.
+6
+Sebastian BARTHOLD
+3.45
+0-1
+SKH Mål på straffe
+15
+Lasse MIKKELSEN
+1
+Niklas LANDIN
+4.08
+1-1
+AAH Mål
+PL
+14
+Mads HOXER
+1
+Christoffer BONDE
+5.13
+SKH Skud blokeret
+PL
+13
+Noah GAUDIN
+Blok af (ret)
+20
+Felix MÖLLER
+5.36
+1-2
+SKH Mål
+PL
+18
+Vetle RØNNINGEN
+1
+Niklas LANDIN
+5.46
+AAH Fejlaflevering
+14
+Mads HOXER
+5.59
+1-3
+SKH Mål
+1:e
+21
+René RASMUSSEN
+Assist
+13
+Noah GAUDIN
+1
+Niklas LANDIN
+6.09
+2-3
+AAH Mål
+Gbr 14
+Mads HOXER
+1
+Christoffer BONDE
+6.22
+SKH Regelfejl
+14
+Emil BERGHOLT
+7.11
+AAH Tilkendt straffe
+18
+Aleks VLAH
+Forårs. str.
+10
+Joaquim NAZARÉ
+7.31
+AAH Straffekast reddet
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+8.04
+SKH Skud blokeret
+PL
+10
+Joaquim NAZARÉ
+Blokeret af
+20
+Felix MÖLLER
+8.34
+AAH Skud forbi
+VB
+3
+Lukas NILSSON
+1
+Christoffer BONDE
+8.44
+SKH Fejlaflevering
+13
+Noah GAUDIN
+9.20
+AAH Skud reddet
+VB
+18
+Aleks VLAH
+1
+Christoffer BONDE
+10.11
+2-4
+SKH Mål
+Gbr 10
+Joaquim NAZARÉ
+1
+Niklas LANDIN
+10.19
+SKH Advarsel
+10
+Joaquim NAZARÉ
+10.46
+3-4
+AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+18
+Aleks VLAH
+1
+Christoffer BONDE
+11.25
+SKH Skud forbi
+HB 10
+Joaquim NAZARÉ
+1
+Niklas LANDIN
+12.19
+AAH Skud reddet
+PL
+3
+Lukas NILSSON
+1
+Christoffer BONDE
+13.09
+SKH Fejlaflevering
+13
+Noah GAUDIN
+13.17
+AAH Skud reddet
+1:e
+19
+Kristian BJØRNSEN
+Retur
+20
+Felix MÖLLER
+1
+Christoffer BONDE
+13.29
+4-4
+AAH Mål
+ST
+20
+Felix MÖLLER
+1
+Christoffer BONDE
+14.04
+SKH Regelfejl
+22
+Jakob RASMUSSEN
+14.12
+AAH Tilkendt straffe
+11
+Simon HALD
+Forårs. str.
+10
+Joaquim NAZARÉ
+14.14
+5-4
+AAH Mål på straffe
+18
+Aleks VLAH
+1
+Christoffer BONDE
+14.26
+5-5
+SKH Mål
+Gbr 22
+Jakob RASMUSSEN
+1
+Niklas LANDIN
+15.26
+6-5
+AAH Mål
+PL
+14
+Mads HOXER
+1
+Christoffer BONDE
+16.15
+SKH Skud reddet
+PL
+13
+Noah GAUDIN
+Retur
+0
+1
+Niklas LANDIN
+16.34
+6-6
+SKH Mål
+ST
+14
+Emil BERGHOLT
+Assist
+10
+Joaquim NAZARÉ
+1
+Niklas LANDIN
+17.13
+7-6
+AAH Mål
+VB
+25
+Marinus MUNK
+1
+Christoffer BONDE
+18.01
+SKH Tabt bold
+10
+Joaquim NAZARÉ
+Bold erobret 20
+Felix MÖLLER
+18.45
+AAH Regelfejl
+5
+Sander SAGOSEN
+18.52
+7-7
+SKH Mål
+Gbr 22
+Jakob RASMUSSEN
+1
+Niklas LANDIN
+19.01
+8-7
+AAH Mål
+2:e
+5
+Sander SAGOSEN
+Assist
+14
+Mads HOXER
+1
+Christoffer BONDE
+19.28
+SKH Skud reddet
+PL
+22
+Jakob RASMUSSEN
+1
+Niklas LANDIN
+20.23
+AAH Skud reddet
+HB 14
+Mads HOXER
+1
+Christoffer BONDE
+21.09
+SKH Skud forbi
+HB 25
+Eivind TANGEN
+1
+Niklas LANDIN
+21.14
+9-7
+AAH Mål
+1:e
+1
+Niklas LANDIN
+0
+21.58
+SKH Regelfejl
+15
+Lasse MIKKELSEN
+22.22
+AAH Tilkendt straffe
+5
+Sander SAGOSEN
+Forårs. str.
+25
+Eivind TANGEN
+22.24 10-7
+AAH Mål på straffe
+18
+Aleks VLAH
+1
+Christoffer BONDE
+22.35
+SKH Time out
+24.09
+SKH Skud reddet
+HB 25
+Eivind TANGEN
+1
+Niklas LANDIN
+24.31 11-7
+AAH Mål
+Gbr 25
+Marinus MUNK
+1
+Christoffer BONDE
+24.43
+SKH Skud reddet
+2:e
+5
+Viktor BERGHOLT
+1
+Niklas LANDIN
+25.16 12-7
+AAH Mål
+VB
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+25.46
+SKH Skud reddet
+ST
+14
+Emil BERGHOLT
+1
+Niklas LANDIN
+
+--- Side 2 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - Skjern Håndbold   26 - 22  (13 - 9)
+111163 / 4-6-2025 / Sparekassen Danmark Arena / Finaler Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+26.32
+AAH Skud reddet
+PL
+25
+Marinus MUNK
+Retur
+19
+Kristian BJØRNSEN
+1
+Christoffer BONDE
+27.12
+AAH Skud reddet
+Gbr
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+27.53 12-8
+SKH Mål
+ST
+14
+Emil BERGHOLT
+Assist
+10
+Joaquim NAZARÉ
+1
+Niklas LANDIN
+28.25 13-8
+AAH Mål
+ST
+11
+Simon HALD
+Assist
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+29.16 13-9
+SKH Mål
+VF
+5
+Viktor BERGHOLT
+Assist
+13
+Noah GAUDIN
+1
+Niklas LANDIN
+29.38
+AAH Time out
+29.59
+AAH Regelfejl
+15
+Jack THURIN
+30.00 13-9
+Halvleg
+30.00
+Start 2:e halvleg
+30.57 14-9
+AAH Mål
+PL
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+31.46
+SKH Skud reddet
+HB 10
+Joaquim NAZARÉ
+Retur
+0
+1
+Niklas LANDIN
+32.23 14-10 SKH Mål
+PL
+13
+Noah GAUDIN
+1
+Niklas LANDIN
+33.36 15-10 AAH Mål
+Gbr
+3
+Lukas NILSSON
+Assist
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+34.07 15-11 SKH Mål
+PL
+13
+Noah GAUDIN
+1
+Niklas LANDIN
+34.24 16-11 AAH Mål
+HF
+4
+Patrick WIESMACH
+Assist
+14
+Mads HOXER
+1
+Christoffer BONDE
+36.14
+SKH Skud blokeret
+PL
+13
+Noah GAUDIN
+Blok af (ret)
+11
+Simon HALD
+36.34
+SKH Skud reddet
+PL
+13
+Noah GAUDIN
+1
+Niklas LANDIN
+36.47
+AAH Tilkendt straffe
+25
+Marinus MUNK
+Forårs. str.
+14
+Emil BERGHOLT
+36.49 17-11 AAH Mål på straffe
+18
+Aleks VLAH
+16
+Tim WINKLER
+37.23 17-12 SKH Mål
+Gbr 22
+Jakob RASMUSSEN
+1
+Niklas LANDIN
+37.45
+AAH Skud forbi
+ST
+14
+Mads HOXER
+1
+Christoffer BONDE
+38.05
+SKH Fejlaflevering
+13
+Noah GAUDIN
+Bold erobret
+4
+Patrick WIESMACH
+38.10 18-12 AAH Mål
+1:e
+4
+Patrick WIESMACH
+Assist
+20
+Felix MÖLLER
+1
+Christoffer BONDE
+38.40
+SKH Skud reddet
+VF
+5
+Viktor BERGHOLT
+1
+Niklas LANDIN
+39.28
+AAH Skud reddet
+PL
+3
+Lukas NILSSON
+1
+Christoffer BONDE
+39.37
+AAH Udvisning
+25
+Marinus MUNK
+39.54
+SKH Regelfejl
+10
+Joaquim NAZARÉ
+40.54
+AAH Skud reddet
+ST
+20
+Felix MÖLLER
+1
+Christoffer BONDE
+41.05
+SKH Skud forbi
+1:e
+13
+Noah GAUDIN
+0
+41.38 19-12 AAH Mål
+ST
+20
+Felix MÖLLER
+Assist
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+41.46
+SKH Time out
+41.53
+SKH Regelfejl
+10
+Joaquim NAZARÉ
+42.28 20-12 AAH Mål
+HF
+4
+Patrick WIESMACH
+Assist
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+42.58 20-13 SKH Mål
+PL
+22
+Jakob RASMUSSEN
+1
+Niklas LANDIN
+43.34
+AAH Fejlaflevering
+14
+Mads HOXER
+44.11 20-14 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+10
+Joaquim NAZARÉ
+1
+Niklas LANDIN
+45.06
+AAH Regelfejl
+14
+Mads HOXER
+46.14 20-15 SKH Mål
+Gbr 22
+Jakob RASMUSSEN
+1
+Niklas LANDIN
+46.23
+AAH Time out
+46.50 21-15 AAH Mål
+Gbr 18
+Aleks VLAH
+1
+Christoffer BONDE
+47.29
+SKH Tilkendt straffe
+13
+Noah GAUDIN
+Forårs. str.
+22
+Rene ANTONSEN
+47.55
+SKH Straffekast reddet
+15
+Lasse MIKKELSEN
+1
+Niklas LANDIN
+48.11
+AAH Skud reddet
+PL
+15
+Jack THURIN
+1
+Christoffer BONDE
+48.34 21-16 SKH Mål
+Gbr 10
+Joaquim NAZARÉ
+1
+Niklas LANDIN
+49.12
+AAH Skud reddet
+PL
+25
+Marinus MUNK
+1
+Christoffer BONDE
+49.22
+SKH Regelfejl
+10
+Joaquim NAZARÉ
+49.33
+AAH Skud forbi
+PL
+25
+Marinus MUNK
+1
+Christoffer BONDE
+50.02
+SKH Fejlaflevering
+10
+Joaquim NAZARÉ
+Bold erobret 11
+Simon HALD
+50.10 22-16 AAH Mål
+1:e
+4
+Patrick WIESMACH
+Assist
+15
+Jack THURIN
+0
+50.40 22-17 SKH Mål
+Gbr 13
+Noah GAUDIN
+1
+Niklas LANDIN
+51.09 23-17 AAH Mål
+PL
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+51.49 23-18 SKH Mål
+Gbr 10
+Joaquim NAZARÉ
+1
+Niklas LANDIN
+52.23 24-18 AAH Mål
+VB
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+53.41 24-19 SKH Mål
+ST
+14
+Emil BERGHOLT
+Assist
+13
+Noah GAUDIN
+1
+Niklas LANDIN
+
+--- Side 3 ---
+KAMPHÆNDELSER
+Aalborg Håndbold - Skjern Håndbold   26 - 22  (13 - 9)
+111163 / 4-6-2025 / Sparekassen Danmark Arena / Finaler Herrer
+Tid
+Mål
+Hold
+Hændelse 1
+Pos Nr
+Navn
+Hænd. 2
+Nr
+Navn
+Nr
+MV
+54.55
+AAH Skud blokeret
+PL
+5
+Sander SAGOSEN
+Blok af (ret)
+18
+Vetle RØNNINGEN
+55.03
+AAH Skud blokeret
+PL
+25
+Marinus MUNK
+Blokeret af
+18
+Vetle RØNNINGEN
+55.03
+SKH Time out
+55.36 24-20 SKH Mål
+VB
+13
+Noah GAUDIN
+1
+Niklas LANDIN
+56.13 25-20 AAH Mål
+HF
+4
+Patrick WIESMACH
+Assist
+25
+Marinus MUNK
+1
+Christoffer BONDE
+56.38
+SKH Skud reddet
+VF
+5
+Viktor BERGHOLT
+1
+Niklas LANDIN
+57.08 26-20 AAH Mål
+Gbr 14
+Mads HOXER
+1
+Christoffer BONDE
+57.42 26-21 SKH Mål
+HF
+21
+René RASMUSSEN
+Assist
+25
+Eivind TANGEN
+1
+Niklas LANDIN
+58.36
+AAH Regelfejl
+14
+Mads HOXER
+58.46 26-22 SKH Mål
+ST
+18
+Vetle RØNNINGEN
+Assist
+15
+Lasse MIKKELSEN
+1
+Niklas LANDIN
+59.19
+AAH Skud på stolpe
+PL
+5
+Sander SAGOSEN
+1
+Christoffer BONDE
+60.00 26-22
+Fuld tid
+60.00
+Kamp slut
+Software: Jilsén System AB. Logget af: Lars Bo Ibsen, Anders kaagaard, Jørn Møller NIELSEN

@@ -1,0 +1,25 @@
+season,team_code,team_name,league,start_rating,final_rating,rating_change,games,elite_status,momentum_factor,rating_per_game
+2017-2018,BSH,Bjerringbro-Silkeborg,Herreliga,1400,1656.2,256.2,0,ELITE,1.05,0
+2017-2018,GOG,GOG,Herreliga,1400,1634.5,234.5,0,ELITE,1.077,0
+2017-2018,SKH,Skjern Håndbold,Herreliga,1400,1620.1,220.1,0,ELITE,0.983,0
+2017-2018,ODE,Odense Håndbold,Kvindeliga,1400,1534.8,134.8,0,NORMAL,1.035,0
+2017-2018,AAH,Aalborg Håndbold,Herreliga,1400,1521.0,121.0,0,NORMAL,0.984,0
+2017-2018,KBH,København Håndbold,Kvindeliga,1400,1514.4,114.4,0,NORMAL,1.019,0
+2017-2018,TTH,TTH Holstebro,Herreliga,1400,1473.3,73.3,0,NORMAL,0.967,0
+2017-2018,VHK,Viborg HK,Kvindeliga,1400,1440.9,40.9,0,NORMAL,1.038,0
+2017-2018,TES,Team Esbjerg,Kvindeliga,1400,1427.1,27.1,0,NORMAL,1.078,0
+2017-2018,KIF,KIF Kolding,Herreliga,1400,1395.9,-4.1,0,NORMAL,0.986,0
+2017-2018,NYK,NYK,Kvindeliga,1400,1389.5,-10.5,0,NORMAL,0.926,0
+2017-2018,AAR,AAR,Kvindeliga,1400,1385.8,-14.2,0,NORMAL,0.858,0
+2017-2018,REH,Ribe-Esbjerg HH,Herreliga,1400,1366.6,-33.4,0,NORMAL,0.956,0
+2017-2018,MTH,Mors-Thy Håndbold,Herreliga,1400,1363.2,-36.8,0,NORMAL,1.016,0
+2017-2018,RIN,Ringkøbing Håndbold,Kvindeliga,1400,1359.2,-40.8,0,NORMAL,0.8,0
+2017-2018,FC ,FC ,Kvindeliga,1400,1355.4,-44.6,0,NORMAL,0.898,0
+2017-2018,NSH,Nordsjælland Håndbold,Herreliga,1400,1337.8,-62.2,0,NORMAL,0.9,0
+2017-2018,SVK,Silkeborg-Voel KFUM,Kvindeliga,1400,1321.9,-78.1,0,NORMAL,0.912,0
+2017-2018,SKB,Skanderborg Håndbold,Kvindeliga,1400,1312.1,-87.9,0,NORMAL,1.184,0
+2017-2018,ÅRH,ÅRH,Kvindeliga,1400,1304.6,-95.4,0,NORMAL,0.953,0
+2017-2018,RAN,RAN,Kvindeliga,1400,1271.0,-129.0,0,NORMAL,0.8,0
+2017-2018,SØN,SØN,Kvindeliga,1400,1228.9,-171.1,0,NORMAL,0.853,0
+2017-2018,TM ,TM ,Kvindeliga,1400,1215.5,-184.5,0,NORMAL,1.099,0
+2017-2018,HC ,HC ,Kvindeliga,1400,1170.3,-229.7,0,NORMAL,1.017,0

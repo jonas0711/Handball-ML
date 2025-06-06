@@ -1,0 +1,566 @@
+Detaljeret kamprapport
+Kamp nr: 742 677  Række: 1. Division Herrer (M)
+Dato: 1/3-2025  Kl: 16:00
+Hal:  Jyllinge-hallen, Jyllingehallen
+HØJ Elite - Faaborg ØH
+Side 1 af 1
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+1
+0.00
+2
+0.32
+1-0
+HOJ
+Mål
+24
+ARNESSON Linus
+3
+0.46
+2-0
+HOJ
+Mål
+24
+ARNESSON Linus
+4
+1.22
+2-1
+FOH
+Mål
+8
+BALTZER Victor
+5
+3.18
+3-1
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+6
+4.34
+4-1
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+7
+4.44
+FOH
+Tilkendt straffekast
+0
+8
+5.04
+4-2
+FOH
+Mål – straffekast
+77
+ØSTBJERG Phillip
+9
+6.29
+5-2
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+10
+6.45
+FOH
+Tilkendt straffekast
+0
+11
+7.02
+FOH
+Brændt straffe
+77
+ØSTBJERG Phillip
+12
+7.31
+6-2
+HOJ
+Mål
+25
+NIKOLAJSEN Mathias
+13
+7.54
+FOH
+Udvisning
+8
+BALTZER Victor
+14
+7.54
+HOJ
+Tilkendt straffekast
+0
+15
+7.58
+HOJ
+Brændt straffe
+18
+LINDBERG Hans
+16
+8.33
+6-3
+FOH
+Mål
+9
+FISCHER Mads
+17
+11.12
+7-3
+HOJ
+Mål
+24
+ARNESSON Linus
+18
+11.48
+8-3
+HOJ
+Mål
+19
+MELLEGÅRD Emil
+19
+12.37
+9-3
+HOJ
+Mål
+19
+MELLEGÅRD Emil
+20
+12.40
+FOH
+Team Time Out
+21
+13.11
+10-3
+HOJ
+Mål
+19
+MELLEGÅRD Emil
+22
+13.38
+HOJ
+Udvisning
+30
+NIKOLAISEN Tom Kåre
+23
+13.49
+10-4
+FOH
+Mål
+9
+FISCHER Mads
+24
+15.26
+10-5
+FOH
+Mål
+17
+LENDAL Jonas
+25
+16.01
+HOJ
+Tilkendt straffekast
+0
+26
+16.26
+11-5
+HOJ
+Mål – straffekast
+18
+LINDBERG Hans
+27
+17.33
+11-6
+FOH
+Mål
+8
+BALTZER Victor
+28
+18.58
+12-6
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+29
+19.33
+12-7
+FOH
+Mål
+17
+LENDAL Jonas
+30
+21.11
+13-7
+HOJ
+Mål
+24
+ARNESSON Linus
+31
+21.41
+13-8
+FOH
+Mål
+8
+BALTZER Victor
+32
+22.09
+14-8
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+33
+22.53
+HOJ
+Team Time Out
+0
+34
+23.39
+15-8
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+35
+24.27
+HOJ
+Udvisning
+14
+FINGREN Niclas
+36
+24.43
+FOH
+Tilkendt straffekast
+0
+37
+24.58
+FOH
+Brændt straffe
+4
+BANGGAARD Andreas
+38
+25.38
+HOJ
+Udvisning
+19
+MELLEGÅRD Emil
+39
+26.06
+15-9
+FOH
+Mål
+19
+CHRISTENSEN Kasper
+40
+28.19
+15-10
+FOH
+Mål
+9
+FISCHER Mads
+41
+29.06
+16-10
+HOJ
+Mål
+9
+SAHIN Hakan
+42
+29.09
+FOH
+Udvisning
+19
+CHRISTENSEN Kasper
+
+--- Side 2 ---
+Kamp nr: 742 677  Række: 1. Division Herrer (M) HØJ Elite - Faaborg ØH
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+43
+29.36
+16-11
+FOH
+Mål
+9
+FISCHER Mads
+44
+30.00
+16-11
+Halvtid
+45
+30.00
+46
+30.35
+16-12
+FOH
+Mål
+9
+FISCHER Mads
+47
+30.58
+17-12
+HOJ
+Mål
+25
+NIKOLAJSEN Mathias
+48
+34.28
+18-12
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+49
+35.11
+19-12
+HOJ
+Mål
+30
+NIKOLAISEN Tom Kåre
+50
+35.43
+19-13
+FOH
+Mål
+17
+LENDAL Jonas
+51
+36.18
+20-13
+HOJ
+Mål
+19
+MELLEGÅRD Emil
+52
+37.29
+21-13
+HOJ
+Mål
+18
+LINDBERG Hans
+53
+38.48
+22-13
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+54
+39.22
+22-14
+FOH
+Mål
+9
+FISCHER Mads
+55
+39.49
+23-14
+HOJ
+Mål
+25
+NIKOLAJSEN Mathias
+56
+40.47
+23-15
+FOH
+Mål
+8
+BALTZER Victor
+57
+42.43
+24-15
+HOJ
+Mål
+25
+NIKOLAJSEN Mathias
+58
+42.57
+FOH
+Team Time Out
+59
+43.27
+FOH
+Udvisning
+9
+FISCHER Mads
+60
+43.49
+25-15
+HOJ
+Mål
+19
+MELLEGÅRD Emil
+61
+44.40
+25-16
+FOH
+Mål
+8
+BALTZER Victor
+62
+46.43
+26-16
+HOJ
+Mål
+24
+ARNESSON Linus
+63
+47.37
+27-16
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+64
+47.43
+HOJ
+Udvisning
+15
+KARLSKOV Lukas
+65
+47.55
+27-17
+FOH
+Mål
+19
+CHRISTENSEN Kasper
+66
+48.24
+HOJ
+Team Time Out
+67
+48.30
+28-17
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+68
+49.50
+28-18
+FOH
+Mål
+9
+FISCHER Mads
+69
+50.12
+29-18
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+70
+50.52
+30-18
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+71
+50.58
+30-19
+FOH
+Mål
+9
+FISCHER Mads
+72
+51.27
+31-19
+HOJ
+Mål
+7
+SCHØNNINGSEN Simen
+73
+51.40
+32-19
+HOJ
+Mål
+18
+LINDBERG Hans
+74
+51.45
+FOH
+Team Time Out
+75
+53.11
+32-20
+FOH
+Mål
+66
+KRISTENSEN Magnus
+76
+54.26
+32-21
+FOH
+Mål
+34
+DULLUM Frederik
+77
+55.10
+FOH
+Udvisning
+66
+KRISTENSEN Magnus
+78
+56.37
+33-21
+HOJ
+Mål
+37
+ALBERT Karl
+79
+57.16
+FOH
+Tilkendt straffekast
+0
+80
+57.31
+33-22
+FOH
+Mål – straffekast
+30
+BONDE Mathias
+81
+58.18
+33-23
+FOH
+Mål
+34
+DULLUM Frederik
+82
+58.44
+34-23
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+83
+59.34
+34-24
+FOH
+Mål
+66
+KRISTENSEN Magnus
+84
+60.00
+35-24
+HOJ
+Mål
+23
+WETZEL Tobias
+85
+60.00
+35-24
+Fuld tid
+86
+60.00
+Side 2 af 2
