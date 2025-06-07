@@ -56,16 +56,20 @@ class PlayerClubAnalyzer:
         
     def _normalize_and_get_canonical_name(self, name: str) -> str:
         """
-        NEW: Normalizes a player name and resolves it to its canonical version.
-        Mirrors the logic from the ELO systems for consistency.
+        FORBEDRET: Normaliserer et spillernavn og oversætter det til dets kanoniske version.
+        Håndterer store/små bogstaver og variationer i aliaser for robust matching.
         """
         if not isinstance(name, str):
             return ""
-        # Trim leading/trailing and remove double spaces
-        normalized_name = " ".join(name.strip().split())
         
-        # Check for an alias
-        return PLAYER_NAME_ALIASES.get(normalized_name, normalized_name)
+        # Trin 1: Standardiser input-navnet (STORE BOGSTAVER, trimmet)
+        processed_name = " ".join(name.strip().upper().split())
+        
+        # Trin 2: Opret en standardiseret version af alias-mappen til opslag for at sikre case-insensitivitet.
+        standardized_aliases = { " ".join(k.strip().upper().split()): v.upper() for k, v in PLAYER_NAME_ALIASES.items() }
+
+        # Trin 3: Slå det standardiserede navn op. Returner kanonisk navn hvis det findes, ellers det behandlede input-navn.
+        return standardized_aliases.get(processed_name, processed_name)
 
     def get_team_code_from_name(self, team_name: str, league_context: str) -> str:
         """

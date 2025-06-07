@@ -398,13 +398,12 @@ class MasterHandballEloSystem:
                 players_found.append((player_2, "OPPONENT", False))
                 
         # === GOALKEEPER (mv) ===
-        # KRITISK: Målvogtere identificeres kun gennem mv-feltet!
+        # KRITISK FIX: Accepter målvogtere hvis mv-feltet er udfyldt, uanset nr_mv
         goalkeeper = str(event_data.get('mv', '')).strip()
         nr_mv = str(event_data.get('nr_mv', '')).strip()
         
-        # Kun accepter som målvogter hvis BÅDE mv og nr_mv er udfyldt
-        if (goalkeeper and goalkeeper not in ['nan', '', 'None', '0'] and 
-            nr_mv and nr_mv not in ['nan', '', 'None', '0']):
+        # Accepter målvogter hvis mv-feltet indeholder et navn (mindre restriktiv)
+        if (goalkeeper and goalkeeper not in ['nan', '', 'None', '0']):
             # Tæl målvogter action
             self.player_goalkeeper_actions[goalkeeper] += 1
             # Målvogteren tilhører ALTID det modsatte hold (data.md)
@@ -413,32 +412,31 @@ class MasterHandballEloSystem:
         return players_found
         
     def identify_goalkeeper_by_name(self, player_name: str) -> bool:
-        """Identificerer målvogter baseret på flest aktioner på MV position"""
-        # Kun returner True hvis spilleren har flest aktioner som målvogter
-        if player_name not in self.player_position_actions:
-            return player_name in self.confirmed_goalkeepers
+        """FORBEDRET: Identificerer målvogter baseret på bekræftet status eller MV aktioner"""
+        # KRITISK FIX: Hvis spilleren er bekræftet målvogter (fra database), accepter det
+        if player_name in self.confirmed_goalkeepers:
+            return True
             
-        # Find position med flest aktioner
-        position_counts = self.player_position_actions[player_name]
-        if not position_counts:
-            return player_name in self.confirmed_goalkeepers
+        # Alternativt: Check om spilleren har betydelige MV aktioner
+        if player_name in self.player_position_actions:
+            position_counts = self.player_position_actions[player_name]
+            mv_actions = position_counts.get('MV', 0)
+            total_actions = sum(position_counts.values())
             
-        # Find den position spilleren har flest aktioner på
-        primary_position = max(position_counts, key=position_counts.get)
-        
-        # Kun målvogter hvis primær position er MV OG de har målvogter aktioner
-        return (primary_position == 'MV' and 
-                player_name in self.confirmed_goalkeepers and
-                self.player_goalkeeper_actions.get(player_name, 0) > 0)
+            # Hvis spilleren har mindst 20% MV aktioner, klassificer som målvogter
+            if total_actions > 0 and mv_actions / total_actions >= 0.2:
+                return True
+                
+        # Check om spilleren har målvogter-specifikke handlinger
+        return self.player_goalkeeper_actions.get(player_name, 0) > 0
         
     def update_goalkeeper_from_event(self, event_data: dict):
         """Opdaterer målvogter identification og stats"""
         goalkeeper = str(event_data.get('mv', '')).strip()
         nr_mv = str(event_data.get('nr_mv', '')).strip()
         
-        # Kun accepter som målvogter hvis BÅDE mv og nr_mv er udfyldt
-        if (goalkeeper and goalkeeper not in ['nan', '', 'None', '0'] and 
-            nr_mv and nr_mv not in ['nan', '', 'None', '0']):
+        # KRITISK FIX: Accepter målvogter hvis mv-feltet er udfyldt
+        if (goalkeeper and goalkeeper not in ['nan', '', 'None', '0']):
             # Registrer som bekræftet målvogter (midlertidigt)
             self.confirmed_goalkeepers.add(goalkeeper)
             
@@ -454,21 +452,31 @@ class MasterHandballEloSystem:
             self.goalkeeper_stats[goalkeeper]['appearances'] += 1
             
     def get_position_for_player(self, player_name: str, pos_field: str, is_goalkeeper: bool) -> str:
-        """Bestemmer spillers position - KUN rene positioner tælles"""
+        """Bestemmer spillers position - FORBEDRET til at håndtere situationsspecifikke positioner"""
         # FØRST: Tjek om spilleren er eksplicit markeret som målvogter
         if is_goalkeeper or self.identify_goalkeeper_by_name(player_name):
             return 'MV'
             
-        # KUN RENE POSITIONER ACCEPTERES - ignorer situationsspecifikke
         pos_field = str(pos_field).strip()
         
-        # Kun accepter de 6 standard udspiller positioner
+        # Accepter de 6 standard udspiller positioner
         if pos_field in self.pure_positions:
             return pos_field
         
-        # Returner None for situationsspecifikke positioner (ignoreres i tracking)
-        # Dette inkluderer: 'Gbr', '1:e', '2:e', '', ukendte positioner
-        return None
+        # KRITISK FIX: Map situationsspecifikke positioner til default udspiller-position
+        # Dette sikrer at spillere stadig får ELO selv med situationsspecifikke positioner
+        situational_positions = {'1:e', '2:e', 'Gbr', 'Indsk.', 'Udsk.', 'Str.'}
+        
+        if pos_field in situational_positions or pos_field == '':
+            # Hvis det er en målvogter (som Niklas Landin), men position ikke er MV
+            if self.identify_goalkeeper_by_name(player_name):
+                return 'MV'
+            else:
+                # For andre spillere, brug en default position (højre fløj er mest almindelig)
+                return 'HF'
+        
+        # For ukendte positioner, returner default
+        return 'HF'
         
     def get_time_multiplier(self, time_str: str) -> float:
         """
@@ -1085,15 +1093,17 @@ class MasterHandballEloSystem:
                         else:
                             continue
                     
-                    # Bestem position - kun rene positioner tælles
+                    # KRITISK FIX: Track spilleren som deltagende UANSET position
+                    # Dette sikrer at spillere tælles som havende spillet kampen,
+                    # selv hvis deres handlinger har situationsspecifikke positioner
+                    players_in_match.add(player_name)
+                    
+                    # Bestem position - kun rene positioner bruges til ELO beregning
                     position = self.get_position_for_player(player_name, pos_field, is_goalkeeper)
                     
-                    # Skip situationsspecifikke positioner (returnerer None)
+                    # Skip ELO beregning for situationsspecifikke positioner, men spilleren er stadig talt som deltagende
                     if position is None:
                         continue
-                    
-                    # Track player participation in this match
-                    players_in_match.add(player_name)
                     
                     # Process action med alle optimiseringer + kontekst
                     self.process_action(
@@ -1101,6 +1111,14 @@ class MasterHandballEloSystem:
                         current_home, current_away, is_goalkeeper,
                         home_team, away_team
                     )
+                
+                # KRITISK MÅLVOGTER-FIX: Tilføj målvogtere der kun optræder i mv-feltet
+                goalkeeper_in_mv = str(event.get('mv', '')).strip()
+                if (goalkeeper_in_mv and goalkeeper_in_mv not in ['nan', '', 'None', '0']):
+                    if goalkeeper_in_mv not in players_in_match:
+                        # Målvogteren optræder kun i mv-feltet - tilføj ham til kampen
+                        players_in_match.add(goalkeeper_in_mv)
+                        print(f"🥅 MÅLVOGTER-FIX: {goalkeeper_in_mv} tilføjet som deltagende i kampen")
                     
             # Opdater team Elos efter kamp
             self.update_team_elos_post_match(home_team, away_team, final_home, final_away)

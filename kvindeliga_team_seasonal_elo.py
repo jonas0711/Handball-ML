@@ -1,16 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-🏆 KVINDELIGA TEAM SÆSON-BASERET ELO SYSTEM
-==========================================
+🏆 KVINDELIGA TEAM SÆSON-BASERET ELO SYSTEM (AVANCERET)
+=====================================================
 
 FOKUSERER KUN PÅ KVINDELIGA HOLD MED:
 ✅ Kun Kvindeliga team data
 ✅ Hold-baseret ELO rating system
 ✅ Sæson-for-sæson processering med intelligent regression
 ✅ Hjemmebane fordel
-✅ Målforskels påvirkning
-✅ Team momentum tracking
+✅ AVANCERET PERFORMANCE FAKTOR: Bruger detaljerede kampdata (effektivitet, turnovers)
 ✅ Karriere analyse på tværs af sæsoner
 
 KVINDELIGA HOLD KODER:
@@ -30,7 +29,7 @@ KVINDELIGA HOLD KODER:
 - VHK: Viborg HK
 - TMS: TMS Ringsted
 
-Jonas' Custom System - December 2024
+Jonas' Custom System - December 2024 (Opgraderet Version)
 """
 
 import pandas as pd
@@ -46,19 +45,19 @@ warnings.filterwarnings('ignore')
 # Import specific Kvindeliga mappings
 from team_config import KVINDELIGA_TEAMS, KVINDELIGA_NAME_MAPPINGS
 
-# === FORBEDRET KVINDELIGA TEAM SYSTEM PARAMETRE ===
+# === FORBEDRET KVINDELIGA TEAM SYSTEM PARAMETRE (Synkroniseret med Herreliga) ===
 BASE_TEAM_RATING = 1400           # Base rating for teams (højere end spillere)
-HOME_ADVANTAGE = 75               # Hjemmebane fordel i ELO points
-MIN_GAMES_FOR_FULL_CARRY = 8      # REDUCERET fra 10 - flere hold får carry-over
-MAX_CARRY_BONUS = 400             # ØGET DRAMATISK fra 200 til 400
-MIN_CARRY_PENALTY = -300          # ØGET DRAMATISK fra -150 til -300
-REGRESSION_STRENGTH = 0.25        # DRAMATISK REDUCERET fra 0.60 til 0.25 - meget mindre regression!
+HOME_ADVANTAGE = 65               # REDUCERET fra 75 for at give performance factor mere vægt
+MIN_GAMES_FOR_FULL_CARRY = 8
+MAX_CARRY_BONUS = 400
+MIN_CARRY_PENALTY = -300
+REGRESSION_STRENGTH = 0.25
 
-# DRAMATISK ØGEDE K-faktorer for større ændringer per kamp
+# ØGEDE K-faktorer for større ændringer per kamp
 K_FACTORS = {
-    'new_team': 80,      # ØGET fra 40 - nye hold kan ændre sig hurtigt
-    'normal': 50,        # ØGET fra 25 - normale hold får større ændringer
-    'elite': 35          # ØGET fra 15 - selv elite hold kan ændre sig betydeligt
+    'new_team': 70,      # ØGET fra 40
+    'normal': 45,        # ØGET fra 25
+    'elite': 30          # ØGET fra 15
 }
 
 # Kvindeliga team koder og navne er nu importeret fra team_config.py
@@ -67,11 +66,11 @@ K_FACTORS = {
 
 class KvindeligaTeamSeasonalEloSystem:
     """
-    🏆 KVINDELIGA TEAM SÆSON-BASERET ELO SYSTEM
+    🏆 KVINDELIGA TEAM SÆSON-BASERET ELO SYSTEM (AVANCERET)
     """
     
     def __init__(self, base_dir: str = "."):
-        print("🏆 KVINDELIGA TEAM SÆSON-BASERET ELO SYSTEM")
+        print("🏆 KVINDELIGA TEAM SÆSON-BASERET ELO SYSTEM (AVANCERET)")
         print("=" * 70)
         
         self.base_dir = base_dir
@@ -94,6 +93,7 @@ class KvindeligaTeamSeasonalEloSystem:
         print(f"📅 Tilgængelige sæsoner: {len(self.seasons)}")
         print(f"🎯 Base team rating: {BASE_TEAM_RATING}")
         print(f"🏠 Hjemmebane fordel: {HOME_ADVANTAGE}")
+        print("⚡️ Bruger avanceret performance factor baseret på kamp-events")
         
     def validate_kvindeliga_seasons(self):
         """Validerer Kvindeliga sæsoner"""
@@ -136,7 +136,7 @@ class KvindeligaTeamSeasonalEloSystem:
             if key in clean_name:
                 return code
     
-        print(f"⚠️ UNMAPPED KVINDELIGA TEAM: '{team_name}'")
+        # print(f"⚠️ UNMAPPED KVINDELIGA TEAM: '{team_name}'") # Reduced verbosity
         return "UNK"
         
     def calculate_expected_score(self, team_a_rating: float, team_b_rating: float, 
@@ -160,24 +160,33 @@ class KvindeligaTeamSeasonalEloSystem:
         else:
             return K_FACTORS['normal']
             
-    def calculate_goal_difference_factor(self, goal_diff: int) -> float:
-        """🚀 DRAMATISK FORBEDRET multiplikator for at skabe større rating ændringer"""
-        abs_diff = abs(goal_diff)
+    def calculate_performance_factor(self, goal_diff: int, efficiency_diff: int) -> float:
+        """
+        🚀 AVANCERET PERFORMANCE FAKTOR
+        Kombinerer målforskel med et holds 'efficiency' (turnovers vs. forced turnovers etc.)
+        """
+        abs_goal_diff = abs(goal_diff)
         
-        # DRAMATISK ØGEDE FAKTORER for at give større ændringer
-        if abs_diff == 1:
-            return 2.0    # ØGET fra 1.0 - selv tætte kampe skal give betydelig ændring
-        elif abs_diff <= 2:
-            return 2.5    # ØGET fra 1.1
-        elif abs_diff <= 5:
-            return 3.5    # ØGET fra 1.3
-        elif abs_diff <= 10:
-            return 5.0    # ØGET fra 1.6
-        elif abs_diff <= 15:
-            return 7.0    # ØGET fra 1.8
-        else:
-            return 10.0   # ØGET fra 2.0 - store sejre skal give massive ændringer!
+        # Trin 1: Grundfaktor baseret på målforskel (lidt reduceret for at give plads til efficiency)
+        if abs_goal_diff == 1:   base_factor = 1.8
+        elif abs_goal_diff <= 3: base_factor = 2.2
+        elif abs_goal_diff <= 6: base_factor = 3.0
+        elif abs_goal_diff <= 10: base_factor = 4.0
+        else: base_factor = 5.0
             
+        # Trin 2: Justering baseret på effektivitetsforskel
+        # En positiv efficiency_diff betyder, at det vindende hold var mere effektivt.
+        # Vi normaliserer det, så det giver en fornuftig justering.
+        efficiency_adjustment = efficiency_diff * 0.08  # Hver 'netto-effektiv' hændelse justerer med 0.08
+        
+        # Trin 3: Kombiner og cap justeringen
+        # Begræns justeringen for at undgå ekstreme resultater fra en enkelt kamp
+        capped_adjustment = max(-1.5, min(1.5, efficiency_adjustment))
+        
+        final_factor = base_factor + capped_adjustment
+        
+        return max(0.5, final_factor) # Sørg for at faktoren altid er positiv
+
     def process_kvindeliga_season(self, season: str, team_ratings: Dict = None) -> Dict:
         """Processerer en Kvindeliga sæson og returnerer team resultater"""
         print(f"\n🏐 PROCESSERER KVINDELIGA SÆSON {season}")
@@ -186,22 +195,19 @@ class KvindeligaTeamSeasonalEloSystem:
         if team_ratings is None:
             team_ratings = {}
             
-        # Initialize team data
-        team_games = defaultdict(int)
-        team_momentum = defaultdict(list)  # Last 5 matches
-        
+        # Initialize team data for the season
+        team_stats = defaultdict(lambda: {
+            'games': 0, 'momentum': [], 'goals_for': 0, 'goals_against': 0, 'efficiency_scores': []
+        })
+
         season_path = os.path.join(self.kvindeliga_dir, season)
         
         if not os.path.exists(season_path):
             print(f"❌ Ingen data for {season}")
             return {}
             
-        db_files = [f for f in os.listdir(season_path) if f.endswith('.db')]
+        db_files = sorted([f for f in os.listdir(season_path) if f.endswith('.db')])
         
-        if not db_files:
-            print(f"❌ Ingen database filer for {season}")
-            return {}
-            
         matches_processed = 0
         
         for db_file in db_files:
@@ -211,7 +217,6 @@ class KvindeligaTeamSeasonalEloSystem:
                 conn = sqlite3.connect(db_path)
                 cursor = conn.cursor()
                 
-                # Get match info
                 cursor.execute("SELECT * FROM match_info LIMIT 1")
                 match_info = cursor.fetchone()
                 
@@ -219,77 +224,98 @@ class KvindeligaTeamSeasonalEloSystem:
                     conn.close()
                     continue
                     
-                # Parse match info
-                kamp_id, hold_hjemme, hold_ude, resultat, halvleg_resultat, dato, sted, turnering = match_info
+                _, hold_hjemme_navn, hold_ude_navn, resultat, _, _, _, _ = match_info
                 
-                # FJERNET TURNERING FILTRERING - accepter alle kampe i Kvindeliga-database mappen
-                # Gamle navne varierer: "HTH GO Ligaen", "Kvindeligaen", osv.
-                # Da vi allerede er i Kvindeliga-database mappen, er alle kampe relevante
+                if not (resultat and '-' in resultat):
+                    conn.close()
+                    continue
+
+                hjemme_maal, ude_maal = map(int, resultat.split('-'))
+                hjemme_code = self.get_team_code_from_name(hold_hjemme_navn)
+                ude_code = self.get_team_code_from_name(hold_ude_navn)
+                
+                if hjemme_code == "UNK" or ude_code == "UNK":
+                    conn.close()
+                    continue
+
+                # Initialize ratings if not present
+                for code in [hjemme_code, ude_code]:
+                    if code not in team_ratings:
+                        team_ratings[code] = BASE_TEAM_RATING
+                
+                # --- AVANCERET STATISTIK INDSAMLING ---
+                hjemme_events = {'goals': hjemme_maal, 'turnovers': 0, 'forced_turnovers': 0, 'saves': 0, 'assists': 0}
+                ude_events = {'goals': ude_maal, 'turnovers': 0, 'forced_turnovers': 0, 'saves': 0, 'assists': 0}
+
+                cursor.execute("SELECT hold, haendelse_1, haendelse_2, mv FROM match_events")
+                events = cursor.fetchall()
+                
+                for event_hold, h1, h2, mv_navn in events:
+                    event_team_code = self.get_team_code_from_name(event_hold)
                     
-                # Parse result
-                if resultat and '-' in resultat:
-                    try:
-                        hjemme_maal, ude_maal = map(int, resultat.split('-'))
-                        
-                        # Get team codes
-                        hjemme_code = self.get_team_code_from_name(hold_hjemme)
-                        ude_code = self.get_team_code_from_name(hold_ude)
-                        
-                        # Initialize ratings if not present
-                        if hjemme_code not in team_ratings:
-                            team_ratings[hjemme_code] = BASE_TEAM_RATING
-                        if ude_code not in team_ratings:
-                            team_ratings[ude_code] = BASE_TEAM_RATING
-                            
-                        # Calculate match result
-                        if hjemme_maal > ude_maal:
-                            hjemme_score, ude_score = 1.0, 0.0
-                        elif hjemme_maal < ude_maal:
-                            hjemme_score, ude_score = 0.0, 1.0
-                        else:
-                            hjemme_score, ude_score = 0.5, 0.5
-                            
-                        # Calculate expected scores
-                        hjemme_expected = self.calculate_expected_score(
-                            team_ratings[hjemme_code], team_ratings[ude_code], is_home=True
-                        )
-                        ude_expected = 1 - hjemme_expected
-                        
-                        # Calculate goal difference factor
-                        goal_diff = abs(hjemme_maal - ude_maal)
-                        goal_factor = self.calculate_goal_difference_factor(goal_diff)
-                        
-                        # Get K-factors
-                        hjemme_k = self.get_k_factor(team_ratings[hjemme_code], team_games[hjemme_code])
-                        ude_k = self.get_k_factor(team_ratings[ude_code], team_games[ude_code])
-                        
-                        # Update ratings with a more moderate AMPLIFICATION FACTOR
-                        AMPLIFICATION_FACTOR = 2.0  # JUSTERET fra 3.0 til 2.0 for mere stabilitet
-                        
-                        hjemme_change = hjemme_k * goal_factor * (hjemme_score - hjemme_expected) * AMPLIFICATION_FACTOR
-                        ude_change = ude_k * goal_factor * (ude_score - ude_expected) * AMPLIFICATION_FACTOR
-                        
-                        team_ratings[hjemme_code] += hjemme_change
-                        team_ratings[ude_code] += ude_change
-                        
-                        # Update game counts
-                        team_games[hjemme_code] += 1
-                        team_games[ude_code] += 1
-                        
-                        # Update momentum (last 5 matches)
-                        team_momentum[hjemme_code].append(hjemme_change)
-                        team_momentum[ude_code].append(ude_change)
-                        
-                        if len(team_momentum[hjemme_code]) > 5:
-                            team_momentum[hjemme_code].pop(0)
-                        if len(team_momentum[ude_code]) > 5:
-                            team_momentum[ude_code].pop(0)
-                            
-                        matches_processed += 1
-                        
-                    except (ValueError, TypeError) as e:
-                        print(f"  ⚠️ Kunne ikke parse resultat '{resultat}' for {db_file}: {e}")
-                        
+                    # Positive defensive actions
+                    if h1 == 'Skud reddet' and mv_navn:
+                        if event_team_code == hjemme_code: ude_events['saves'] += 1
+                        else: hjemme_events['saves'] += 1
+                    if h2 == 'Bold erobret':
+                        if event_team_code == hjemme_code: ude_events['forced_turnovers'] += 1
+                        else: hjemme_events['forced_turnovers'] += 1
+
+                    # Negative offensive actions
+                    if h1 in ['Fejlaflevering', 'Regelfejl', 'Tabt bold', 'Passivt spil']:
+                        if event_team_code == hjemme_code: hjemme_events['turnovers'] += 1
+                        elif event_team_code == ude_code: ude_events['turnovers'] += 1
+                    
+                    # Positive offensive actions
+                    if h2 == 'Assist':
+                        if event_team_code == hjemme_code: hjemme_events['assists'] += 1
+                        elif event_team_code == ude_code: ude_events['assists'] += 1
+
+                # Calculate efficiency scores
+                hjemme_efficiency = (hjemme_events['forced_turnovers'] + hjemme_events['saves'] + hjemme_events['assists']) - hjemme_events['turnovers']
+                ude_efficiency = (ude_events['forced_turnovers'] + ude_events['saves'] + ude_events['assists']) - ude_events['turnovers']
+                
+                # --- ELO BEREGNING ---
+                goal_diff = hjemme_maal - ude_maal
+                if goal_diff > 0:
+                    hjemme_score, ude_score = 1.0, 0.0
+                    efficiency_diff = hjemme_efficiency - ude_efficiency
+                elif goal_diff < 0:
+                    hjemme_score, ude_score = 0.0, 1.0
+                    efficiency_diff = ude_efficiency - hjemme_efficiency
+                else:
+                    hjemme_score, ude_score = 0.5, 0.5
+                    efficiency_diff = 0
+
+                hjemme_expected = self.calculate_expected_score(team_ratings[hjemme_code], team_ratings[ude_code], is_home=True)
+                ude_expected = 1 - hjemme_expected
+                
+                performance_factor = self.calculate_performance_factor(goal_diff, efficiency_diff)
+                
+                hjemme_k = self.get_k_factor(team_ratings[hjemme_code], team_stats[hjemme_code]['games'])
+                ude_k = self.get_k_factor(team_ratings[ude_code], team_stats[ude_code]['games'])
+                
+                AMPLIFICATION_FACTOR = 1.5
+                hjemme_change = hjemme_k * performance_factor * (hjemme_score - hjemme_expected) * AMPLIFICATION_FACTOR
+                ude_change = ude_k * performance_factor * (ude_score - ude_expected) * AMPLIFICATION_FACTOR
+                
+                team_ratings[hjemme_code] += hjemme_change
+                team_ratings[ude_code] += ude_change
+                
+                # Update seasonal team stats
+                for code, change, goals_f, goals_a, eff in [
+                    (hjemme_code, hjemme_change, hjemme_maal, ude_maal, hjemme_efficiency),
+                    (ude_code, ude_change, ude_maal, hjemme_maal, ude_efficiency)
+                ]:
+                    team_stats[code]['games'] += 1
+                    team_stats[code]['momentum'].append(change)
+                    if len(team_stats[code]['momentum']) > 5:
+                        team_stats[code]['momentum'].pop(0)
+                    team_stats[code]['goals_for'] += goals_f
+                    team_stats[code]['goals_against'] += goals_a
+                    team_stats[code]['efficiency_scores'].append(eff)
+
+                matches_processed += 1
                 conn.close()
                 
             except Exception as e:
@@ -297,34 +323,31 @@ class KvindeligaTeamSeasonalEloSystem:
                 
         print(f"✅ {matches_processed} Kvindeliga kampe processeret")
         
-        # Generate season results
+        # Generate final season results dictionary
         season_results = {}
-        
         for team_code in team_ratings:
-            if team_games[team_code] > 0:  # Only teams that played
+            stats = team_stats.get(team_code)
+            if stats and stats['games'] > 0:
                 team_name = KVINDELIGA_TEAMS.get(team_code, team_code)
-                
-                # Calculate momentum
-                momentum_scores = team_momentum.get(team_code, [])
-                avg_momentum = np.mean(momentum_scores) if momentum_scores else 0
-                
-                # Elite status
                 rating = team_ratings[team_code]
-                if rating >= 1700:
-                    elite_status = "ELITE"
-                elif rating >= 1600:
-                    elite_status = "STRONG"
-                else:
-                    elite_status = "NORMAL"
-                    
+                
+                # FORBEDRET ELITE STATUS: 4-trins system for Kvindeliga
+                if rating >= 2000: elite_status = "SUPER_ELITE"
+                elif rating >= 1700: elite_status = "ELITE"
+                elif rating >= 1500: elite_status = "STRONG"
+                else: elite_status = "NORMAL"
+
                 season_results[team_code] = {
                     'season': season,
                     'team_code': team_code,
                     'team_name': team_name,
                     'final_rating': round(rating, 1),
-                    'games': team_games[team_code],
+                    'games': stats['games'],
                     'elite_status': elite_status,
-                    'momentum': round(avg_momentum, 2)
+                    'momentum': round(np.mean(stats['momentum']), 2) if stats['momentum'] else 0,
+                    'avg_goals_for': round(stats['goals_for'] / stats['games'], 1),
+                    'avg_goals_against': round(stats['goals_against'] / stats['games'], 1),
+                    'avg_efficiency_score': round(np.mean(stats['efficiency_scores']), 1)
                 }
                 
         return season_results
@@ -359,13 +382,15 @@ class KvindeligaTeamSeasonalEloSystem:
         else:
             games_factor = 0.70  # ØGET fra 0.4 - meget mindre straf for få kampe
             
-        # Elite status factor - elite hold beholder mere
-        if prev_elite_status == 'ELITE':
-            elite_factor = 0.85  # ØGET fra 0.65 - elite beholder meget mere
+        # Elite status factor - elite hold beholder mere (Tilpasset 4-trins system)
+        if prev_elite_status == 'SUPER_ELITE':
+            elite_factor = 0.95 # SUPER_ELITE beholder næsten alt
+        elif prev_elite_status == 'ELITE':
+            elite_factor = 0.90
         elif prev_elite_status == 'STRONG':
-            elite_factor = 0.90  # ØGET fra 0.80
+            elite_factor = 0.95
         else:
-            elite_factor = 0.95  # ØGET fra 0.90 - normale hold mister næsten intet
+            elite_factor = 1.0   # Normale hold mister næsten intet ift. status
             
         # Momentum factor (NY!) - hold med godt momentum beholder mere
         if prev_momentum > 5:
@@ -440,12 +465,12 @@ class KvindeligaTeamSeasonalEloSystem:
         print(f"\n🏆 TOP KVINDELIGA HOLD {season}:")
         for i, (_, row) in enumerate(df.head(10).iterrows(), 1):
             elite_badge = f"[{row['elite_status']}]" if row['elite_status'] != 'NORMAL' else ""
-            print(f"  {i:2d}. {row['team_name']}: {row['final_rating']:.0f} "
-                  f"({row['games']} kampe) {elite_badge}")
+            print(f"  {i:2d}. {row['team_name']:<25} Rating: {row['final_rating']:.0f} "
+                  f"(Eff: {row['avg_efficiency_score']:+.1f}) {elite_badge}")
                   
     def run_complete_kvindeliga_team_analysis(self):
         """Hovedfunktion - kører komplet analyse"""
-        print("\n🚀 STARTER KOMPLET KVINDELIGA TEAM ANALYSE")
+        print("\n🚀 STARTER KOMPLET KVINDELIGA TEAM ANALYSE (AVANCERET)")
         print("=" * 70)
         
         previous_season_data = None
@@ -483,12 +508,7 @@ class KvindeligaTeamSeasonalEloSystem:
                     team_data['start_rating'] = start_ratings.get(team_code, BASE_TEAM_RATING)
                 team_data['rating_change'] = team_data['final_rating'] - team_data['start_rating']
                 
-                self.team_career_data[team_code].append({
-                    'season': season,
-                    'final_rating': team_data['final_rating'],
-                    'games': team_data['games'],
-                    'rating_change': team_data['rating_change']
-                })
+                self.team_career_data[team_code].append(team_data) # Gem hele dict
                 
             # Store and save
             self.all_season_results[season] = season_results
@@ -511,7 +531,6 @@ class KvindeligaTeamSeasonalEloSystem:
             if len(seasons_data) >= 3:
                 team_name = KVINDELIGA_TEAMS.get(team_code, team_code)
                 ratings = [s['final_rating'] for s in seasons_data]
-                games = [s['games'] for s in seasons_data]
                 
                 career_stats = {
                     'team_code': team_code,
@@ -519,13 +538,18 @@ class KvindeligaTeamSeasonalEloSystem:
                     'seasons_played': len(seasons_data),
                     'avg_rating': round(np.mean(ratings), 1),
                     'peak_rating': round(max(ratings), 1),
-                    'total_games': sum(games),
+                    'peak_season': seasons_data[np.argmax(ratings)]['season'],
+                    'total_games': sum(s['games'] for s in seasons_data),
                     'career_change': round(ratings[-1] - ratings[0], 1),
-                    'consistency': round(np.std(ratings), 1)
+                    'consistency_std': round(np.std(ratings), 1)
                 }
                 
                 career_teams.append(career_stats)
                 
+        if not career_teams:
+            print("📊 Ingen hold med nok data til karriere analyse (min. 3 sæsoner).")
+            return
+
         career_teams.sort(key=lambda x: x['avg_rating'], reverse=True)
         
         print(f"📊 {len(career_teams)} Kvindeliga hold med karriere data (≥3 sæsoner)")
@@ -534,8 +558,8 @@ class KvindeligaTeamSeasonalEloSystem:
         for i, team in enumerate(career_teams, 1):
             trend = "📈" if team['career_change'] > 50 else "📉" if team['career_change'] < -50 else "➡️"
             
-            print(f"  {i:2d}. {team['team_name']}: {team['avg_rating']:.0f} avg, "
-                  f"peak {team['peak_rating']:.0f} ({team['seasons_played']} sæsoner) "
+            print(f"  {i:2d}. {team['team_name']:<25} Avg Rating: {team['avg_rating']:.0f}, "
+                  f"Peak: {team['peak_rating']:.0f} ({team['peak_season']}) "
                   f"{trend}{team['career_change']:+.0f}")
                   
         # Save career analysis to ELO_Results/Team_CSV/Kvindeliga
@@ -555,33 +579,44 @@ class KvindeligaTeamSeasonalEloSystem:
         total_matches = 0
         season_summary = []
         
+        if not self.all_season_results:
+            print("Ingen sæsonresultater at rapportere.")
+            return
+
         for season, results in self.all_season_results.items():
             total_teams.update(results.keys())
-            season_matches = sum(team['games'] for team in results.values()) // 2  # Each match counted twice
+            season_matches = sum(team['games'] for team in results.values()) // 2
             
+            if not results: continue
+
             ratings = [team['final_rating'] for team in results.values()]
-            elite_count = sum(1 for r in ratings if r >= 1600)
+            super_elite_count = sum(1 for r in ratings if r >= 2000) # Tæl SUPER_ELITE
+            elite_count = sum(1 for r in ratings if 1700 <= r < 2000)
+            strong_count = sum(1 for r in ratings if 1500 <= r < 1700)
             
             season_summary.append({
                 'season': season,
                 'teams': len(results),
                 'total_matches': season_matches,
                 'avg_rating': round(np.mean(ratings), 1),
+                'super_elite_teams': super_elite_count,
                 'elite_teams': elite_count,
-                'max_rating': round(max(ratings), 1)
+                'strong_teams': strong_count,
+                'max_rating': round(max(ratings), 1),
+                'top_team': results[max(results, key=lambda t: results[t]['final_rating'])]['team_name']
             })
             
             total_matches += season_matches
             
         print(f"🏐 KVINDELIGA SAMLET STATISTIK:")
-        print(f"  📊 Total hold: {len(total_teams)}")
+        print(f"  📊 Total unikke hold: {len(total_teams)}")
         print(f"  🏟️ Total kampe: {total_matches:,}")
         print(f"  📅 Sæsoner: {len(self.all_season_results)}")
         
         print(f"\n📅 SÆSON OVERSIGT:")
         for s in season_summary:
             print(f"  {s['season']}: {s['teams']} hold, {s['total_matches']} kampe, "
-                  f"avg {s['avg_rating']:.0f} (Elite: {s['elite_teams']})")
+                  f"avg {s['avg_rating']:.0f} (SuperElite: {s['super_elite_teams']}, Elite: {s['elite_teams']}, Strong: {s['strong_teams']}), Top: {s['top_team']} ({s['max_rating']:.0f})")
                   
         # Save summary to ELO_Results/Team_CSV/Kvindeliga
         summary_df = pd.DataFrame(season_summary)
@@ -594,7 +629,7 @@ class KvindeligaTeamSeasonalEloSystem:
 
 # === MAIN EXECUTION ===
 if __name__ == "__main__":
-    print("🏆 STARTER KVINDELIGA TEAM SÆSON-BASERET ELO SYSTEM")
+    print("🏆 STARTER KVINDELIGA TEAM SÆSON-BASERET ELO SYSTEM (AVANCERET)")
     print("=" * 80)
     
     # Create system instance
@@ -608,10 +643,8 @@ if __name__ == "__main__":
     print("🎯 Kvindeliga Team Features:")
     print("  ✅ Kun Kvindeliga hold data")
     print("  ✅ Intelligent regression to mean")
-    print("  ✅ Hjemmebane fordel (75 points)")
-    print("  ✅ Målforskels påvirkning")
-    print("  ✅ Team momentum tracking")
+    print("  ✅ Hjemmebane fordel")
+    print("  ✅ AVANCERET Performance Factor (målforskel + effektivitet)")
     print("  ✅ Karriere analyse på tværs af sæsoner")
-    print("  ✅ Elite team kategorisering")
-    print("  ✅ Per-sæson detaljerede CSV filer")
+    print("  ✅ Detaljerede CSV filer med udvidede statistikker")
     print("\n🏆 KVINDELIGA TEAM ELO KOMPLET!") 

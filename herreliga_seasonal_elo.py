@@ -487,15 +487,20 @@ class HerreligaSeasonalEloSystem:
 
     def _normalize_and_get_canonical_name(self, name: str) -> str:
         """
-        NEW: Normalizes a player name and resolves it to its canonical version.
-        1. Trims extra whitespace.
-        2. Resolves aliases from PLAYER_NAME_ALIASES.
+        FORBEDRET: Normaliserer et spillernavn og oversætter det til dets kanoniske version.
+        Håndterer store/små bogstaver og variationer i aliaser for robust matching.
         """
-        # Trim leading/trailing and remove double spaces
-        normalized_name = " ".join(name.strip().split())
+        if not isinstance(name, str):
+            return ""
         
-        # Check for an alias
-        return PLAYER_NAME_ALIASES.get(normalized_name, normalized_name)
+        # Trin 1: Standardiser input-navnet (STORE BOGSTAVER, trimmet)
+        processed_name = " ".join(name.strip().upper().split())
+        
+        # Trin 2: Opret en standardiseret version af alias-mappen til opslag for at sikre case-insensitivitet.
+        standardized_aliases = { " ".join(k.strip().upper().split()): v.upper() for k, v in PLAYER_NAME_ALIASES.items() }
+
+        # Trin 3: Slå det standardiserede navn op. Returner kanonisk navn hvis det findes, ellers det behandlede input-navn.
+        return standardized_aliases.get(processed_name, processed_name)
 
     def _find_player_name_mapping(self, current_names: set, previous_player_data: dict) -> dict:
         """
