@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Cecilie SPECHT,AJK,Ajax København,1383.1,26,HB,False,ELITE,124.2
-Anna GRUNDTVIG,AJK,Ajax København,1330.9,25,VF,False,ELITE,63.9
-Maja EIBERG,AJK,Ajax København,1124.8,26,PL,False,NORMAL,109.8
-Katrine JACOBSEN,AJK,Ajax København,1112.3,22,ST,False,NORMAL,37.1
-Suna Krossteig HANSEN,AJK,Ajax København,1111.1,19,PL,False,NORMAL,39.4
-Rikke VORGAARD,AJK,Ajax København,1093.7,10,HF,False,NORMAL,26.4
-Ditte VIND,AJK,Ajax København,1083.8000000000002,7,MV,True,NORMAL,-3.1
-Matilde KONDRUP NIELSEN,AJK,Ajax København,1064.1,1,VF,False,NORMAL,0.4
-Amanda POULSEN,AJK,Ajax København,1060.2,8,PL,False,NORMAL,15.5
-Leah WESTERBERG,AJK,Ajax København,1047.1,14,HF,False,NORMAL,32.1
-Lærke Juhl LÆSSØE,AJK,Ajax København,1042.3,21,ST,False,NORMAL,27.3
-Laura SKYTTE,AJK,Ajax København,1041.4,21,PL,False,NORMAL,26.4
-Brynhild PÁLSDÓTTIR,AJK,Ajax København,1027.1,7,HF,False,NORMAL,12.1
-Amalie ANDERSEN,AJK,Ajax København,1019.1,7,PL,False,NORMAL,4.1
-Milica DJUKIC,AJK,Ajax København,1018.4,4,PL,False,NORMAL,3.4
-Maria KVANNLI,AJK,Ajax København,1018.1,4,ST,False,NORMAL,3.1
-Therese LARSEN,AJK,Ajax København,1015.8,2,MV,True,NORMAL,0.8
+ANNA GRUNDTVIG,AJK,Ajax København,1541.0,26,HF,False,LEGENDARY,143.8
+CECILIE SPECHT,AJK,Ajax København,1440.1,26,HF,False,LEGENDARY,136.1
+SUNA KROSSTEIG HANSEN,AJK,Ajax København,1257.4,20,HF,False,ELITE,90.9
+MATILDE KONDRUP NIELSEN,AJK,Ajax København,1179.4,12,HF,False,NORMAL,5.4
+MAJA EIBERG,AJK,Ajax København,1174.4,26,HF,False,NORMAL,159.4
+KATRINE JACOBSEN,AJK,Ajax København,1120.0,26,HF,False,NORMAL,39.9
+RIKKE VORGAARD,AJK,Ajax København,1103.6,11,HF,False,NORMAL,24.9
+AMANDA POULSEN,AJK,Ajax København,1099.2,8,HF,False,NORMAL,24.9
+DITTE VIND,AJK,Ajax København,1069.5,25,MV,True,NORMAL,-3.1
+LAURA SKYTTE,AJK,Ajax København,1054.8,22,HF,False,NORMAL,39.8
+LEAH WESTERBERG,AJK,Ajax København,1047.4,18,HF,False,NORMAL,32.4
+LÆRKE JUHL LÆSSØE,AJK,Ajax København,1035.6,24,HF,False,NORMAL,20.6
+BRYNHILD PÁLSDÓTTIR,AJK,Ajax København,1031.0,7,HF,False,NORMAL,16.0
+AMALIE ANDERSEN,AJK,Ajax København,1028.3,17,HF,False,NORMAL,13.3
+MARIA KVANNLI,AJK,Ajax København,1018.6,5,ST,False,NORMAL,3.6
+MILICA DJUKIC,AJK,Ajax København,1017.5,5,HF,False,NORMAL,2.5
+THERESE LARSEN,AJK,Ajax København,1015.8,19,MV,True,NORMAL,0.8

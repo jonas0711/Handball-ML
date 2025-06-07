@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Anne Tolstrup PETERSEN,AJK,Ajax København,1208.5,23,HF,False,NORMAL,73.5
-Cecilie WOLLER,AJK,Ajax København,1159.4,19,PL,False,NORMAL,50.0
-Stine EIBERG JØRGENSEN,AJK,Ajax København,1139.0,23,PL,False,NORMAL,48.7
-Anna GRUNDTVIG,AJK,Ajax København,1117.2,18,VF,False,NORMAL,47.7
-Simone Monsrud PEDERSEN,AJK,Ajax København,1111.8000000000002,20,ST,False,NORMAL,41.4
-Louisa MITTET,AJK,Ajax København,1088.1,23,PL,False,NORMAL,73.1
-Maja Eiberg JØRGENSEN,AJK,Ajax København,1087.0,23,PL,False,NORMAL,46.7
-Stine Nørklit LØNBORG,AJK,Ajax København,1081.5,8,PL,False,NORMAL,6.8
-Cecilie SPECHT,AJK,Ajax København,1070.7,22,HB,False,NORMAL,55.7
-Sofie BARDRUM,AJK,Ajax København,1064.2,15,ST,False,NORMAL,23.8
-Signe GEORGI,AJK,Ajax København,1058.4,12,VF,False,NORMAL,12.4
-Siw AABECH,AJK,Ajax København,1038.9,11,PL,False,NORMAL,6.8
-Louise EGESTORP,AJK,Ajax København,1035.9,4,MV,True,NORMAL,1.3
-Amanda POULSEN,AJK,Ajax København,1027.2,9,PL,False,NORMAL,12.2
-Rosa S SCHMIDT,AJK,Ajax København,1019.4,4,HF,False,NORMAL,4.4
-Sarah Nørklit LØNBORG,AJK,Ajax København,1013.8,3,MV,True,NORMAL,-1.2
+CECILIE WOLLER,AJK,Ajax København,1320.8,20,HF,False,ELITE,121.5
+ANNE TOLSTRUP PETERSEN,AJK,Ajax København,1278.0,23,HF,False,ELITE,106.7
+ANNA GRUNDTVIG,AJK,Ajax København,1226.0,22,HF,False,NORMAL,131.1
+STINE EIBERG JØRGENSEN,AJK,Ajax København,1207.3000000000002,23,HF,False,NORMAL,91.4
+SIMONE MONSRUD PEDERSEN,AJK,Ajax København,1111.4,23,HF,False,NORMAL,48.2
+LOUISA MITTET,AJK,Ajax København,1110.9,23,HF,False,NORMAL,95.9
+MAJA EIBERG JØRGENSEN,AJK,Ajax København,1106.5,23,HF,False,NORMAL,78.9
+STINE NØRKLIT LØNBORG,AJK,Ajax København,1105.4,10,HF,False,NORMAL,11.2
+SOFIE BARDRUM,AJK,Ajax København,1080.0,22,HF,False,NORMAL,31.3
+SIGNE GEORGI,AJK,Ajax København,1076.1,15,VF,False,NORMAL,21.1
+CECILIE SPECHT,AJK,Ajax København,1073.5,23,HB,False,NORMAL,58.5
+AMANDA POULSEN,AJK,Ajax København,1063.4,11,HF,False,NORMAL,8.3
+SIW AABECH,AJK,Ajax København,1040.6,14,HF,False,NORMAL,5.2
+LOUISE EGESTORP,AJK,Ajax København,1033.6,23,MV,True,NORMAL,1.3
+ROSA S SCHMIDT,AJK,Ajax København,1025.2,8,HF,False,NORMAL,10.2
+SARAH NØRKLIT LØNBORG,AJK,Ajax København,1013.8,22,MV,True,NORMAL,-1.2

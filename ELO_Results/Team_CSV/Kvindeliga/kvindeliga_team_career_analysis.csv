@@ -1,18 +1,18 @@
-team_code,team_name,seasons_played,avg_rating,peak_rating,total_games,career_change,consistency
-TES,Team Esbjerg,8,2506.8,2874.2,249,660.1,271.2
-ODE,Odense Håndbold,8,2325.0,2764.6,255,668.0,260.0
-IKA,Ikast Håndbold,8,2035.0,2457.2,248,1034.4,325.2
-VHK,Viborg HK,8,1913.6,2316.9,236,179.5,266.8
-KBH,København Håndbold,8,1900.2,2404.9,233,-161.1,304.2
-NFH,Nykøbing F. Håndbold,8,1725.1,2007.3,228,564.0,240.2
-AAU,Aarhus United,7,1550.3,1936.1,178,-114.1,213.7
-SVK,Silkeborg-Voel KFUM,8,1457.9,1798.9,216,752.0,341.7
-SJK,SønderjyskE Kvindehåndbold,4,1416.5,2061.6,93,606.2,430.1
-RAN,Randers HK,5,1314.1,1729.7,119,854.5,348.9
-HHE,Horsens Håndbold Elite,6,1264.5,1806.5,176,823.8,349.6
-SKB,Skanderborg Håndbold,7,1122.3,1623.2,202,549.5,260.1
-RIN,Ringkøbing Håndbold,6,1075.9,1513.5,146,-236.5,335.3
-EHA,EH Aalborg,4,1041.1,1406.0,84,362.8,230.0
-AJK,Ajax København,6,1014.1,1446.7,171,-648.9,314.9
-HOL,Holstebro Håndbold,6,955.2,1295.4,115,-867.9,383.3
-BFH,Bjerringbro FH,3,829.8,992.7,64,468.3,216.1
+team_code,team_name,seasons_played,avg_rating,peak_rating,peak_season,total_games,career_change,consistency_std
+TES,Team Esbjerg,8,2135.2,2469.9,2023-2024,249,486.5,200.0
+ODE,Odense Håndbold,8,2042.2,2335.0,2024-2025,255,693.3,212.7
+IKA,Ikast Håndbold,8,1854.2,2217.8,2023-2024,248,865.8,277.8
+VHK,Viborg HK,8,1715.0,2029.1,2020-2021,236,61.7,175.3
+KBH,København Håndbold,8,1711.2,2030.6,2018-2019,233,-1.6,168.9
+NFH,Nykøbing F. Håndbold,8,1642.8,1838.2,2022-2023,228,245.4,161.0
+SVK,Silkeborg-Voel KFUM,8,1477.4,1642.7,2022-2023,216,337.3,160.5
+AAU,Aarhus United,7,1407.2,1566.9,2021-2022,178,-131.3,113.4
+SJK,SønderjyskE Kvindehåndbold,4,1368.7,1796.1,2023-2024,93,406.4,286.8
+HHE,Horsens Håndbold Elite,6,1307.5,1683.1,2021-2022,176,607.1,255.7
+RIN,Ringkøbing Håndbold,6,1270.6,1440.6,2021-2022,146,-25.8,209.2
+RAN,Randers HK,5,1263.1,1526.5,2019-2020,119,491.1,216.0
+SKB,Skanderborg Håndbold,7,1193.6,1570.2,2023-2024,202,172.0,169.1
+HOL,Holstebro Håndbold,6,1168.6,1240.9,2018-2019,115,-124.4,50.6
+EHA,EH Aalborg,4,1161.9,1409.8,2024-2025,84,295.1,149.1
+BFH,Bjerringbro FH,3,1054.5,1110.3,2018-2019,64,-38.9,53.8
+AJK,Ajax København,6,1045.5,1301.9,2021-2022,171,-524.6,230.3

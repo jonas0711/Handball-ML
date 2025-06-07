@@ -1,15 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1454.7,30,HF,False,LEGENDARY,156.8
-Nichlas HALD,NSH,Nordsjælland Håndbold,1434.9,23,PL,False,LEGENDARY,168.3
-Jeppe CIESLAK,NSH,Nordsjælland Håndbold,1325.8,27,VF,False,ELITE,215.7
-Kristian OLSEN,NSH,Nordsjælland Håndbold,1297.4,28,PL,False,ELITE,174.5
-Matias CAMPBELL,NSH,Nordsjælland Håndbold,1275.6999999999998,23,PL,False,ELITE,102.1
-Julius MØRCH,NSH,Nordsjælland Håndbold,1190.1999999999998,22,ST,False,NORMAL,39.1
-Jonas RAUNDAHL,NSH,Nordsjælland Håndbold,1147.0,20,ST,False,NORMAL,43.1
-Gustav BRUUN,NSH,Nordsjælland Håndbold,1135.2,15,HF,False,NORMAL,120.2
-Nikolaj LARSSON,NSH,Nordsjælland Håndbold,1122.5,22,HB,True,NORMAL,57.1
-Jimmi ANDERSEN,NSH,Nordsjælland Håndbold,1113.1,7,MV,True,NORMAL,-4.3
-Tim RANTALA,NSH,Nordsjælland Håndbold,1100.1,23,ST,False,NORMAL,48.5
-Justin MÜLLER,NSH,Nordsjælland Håndbold,1071.5,26,PL,False,NORMAL,56.5
-Magnus PETERSEN,NSH,Nordsjælland Håndbold,1059.5,5,MV,True,NORMAL,44.5
-Oliver KLARSKOV,NSH,Nordsjælland Håndbold,1050.7,16,PL,False,NORMAL,35.7
+NICHLAS HALD,NSH,Nordsjælland Håndbold,1711.1,23,HF,False,LEGENDARY,329.8
+CARL-EMIL HAUNSTRUP,NSH,Nordsjælland Håndbold,1668.6,30,HF,False,LEGENDARY,284.7
+JEPPE CIESLAK,NSH,Nordsjælland Håndbold,1652.9,30,HF,False,LEGENDARY,423.7
+KRISTIAN OLSEN,NSH,Nordsjælland Håndbold,1514.6,28,HF,False,LEGENDARY,306.6
+MATIAS CAMPBELL,NSH,Nordsjælland Håndbold,1439.5,24,HF,False,LEGENDARY,171.8
+GUSTAV BRUUN,NSH,Nordsjælland Håndbold,1309.6,27,HF,False,ELITE,294.6
+NIKOLAJ LARSSON,NSH,Nordsjælland Håndbold,1236.7,23,HF,True,NORMAL,144.8
+JULIUS MØRCH,NSH,Nordsjælland Håndbold,1220.1999999999998,30,HF,False,NORMAL,40.6
+JUSTIN MÜLLER,NSH,Nordsjælland Håndbold,1209.8,30,HF,False,NORMAL,194.8
+JONAS RAUNDAHL,NSH,Nordsjælland Håndbold,1150.2,26,HF,False,NORMAL,28.9
+TIM RANTALA,NSH,Nordsjælland Håndbold,1139.4,26,HF,False,NORMAL,68.1
+LAURIDS SØGAARD PETERSEN,NSH,Nordsjælland Håndbold,1133.1999999999998,6,HF,False,NORMAL,-1.4
+HALLDOR JOHANN SIGFUSSON,NSH,Nordsjælland Håndbold,1112.0,8,HF,False,NORMAL,-1.8
+JIMMI ANDERSEN,NSH,Nordsjælland Håndbold,1110.9,27,MV,True,NORMAL,-4.3
+OLIVER KLARSKOV,NSH,Nordsjælland Håndbold,1100.7,20,HF,False,NORMAL,85.7
+MAGNUS PETERSEN,NSH,Nordsjælland Håndbold,1059.5,28,MV,True,NORMAL,44.5

@@ -1,19 +1,20 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Jesper KOKHOLM,LTH,Lemvig-Thyborøn Håndbold,1350.1,28,HF,False,ELITE,85.0
-Rasmus PORUP,LTH,Lemvig-Thyborøn Håndbold,1328.4,27,PL,False,ELITE,83.3
-Mads Thymann HANSEN,LTH,Lemvig-Thyborøn Håndbold,1319.1999999999998,32,PL,False,ELITE,136.6
-Frederik IVERSEN,LTH,Lemvig-Thyborøn Håndbold,1264.3,23,VF,False,ELITE,58.0
-Thomas Bohl DAMGAARD,LTH,Lemvig-Thyborøn Håndbold,1234.1999999999998,31,PL,False,NORMAL,101.1
-Niels LINDHOLT,LTH,Lemvig-Thyborøn Håndbold,1172.0,22,ST,False,NORMAL,51.1
-Nicolaj Kjær SPANGGAARD,LTH,Lemvig-Thyborøn Håndbold,1162.1,21,HB,False,NORMAL,73.9
-Christian Sabroe HOLM,LTH,Lemvig-Thyborøn Håndbold,1144.3,15,PL,False,NORMAL,28.7
-Nicolaj SPANGGAARD,LTH,Lemvig-Thyborøn Håndbold,1144.0,10,HB,False,NORMAL,31.7
-Jacob HESSELLUND,LTH,Lemvig-Thyborøn Håndbold,1138.7,22,VF,False,NORMAL,47.2
-Nicolai Pugholm HVID,LTH,Lemvig-Thyborøn Håndbold,1120.1,18,ST,False,NORMAL,28.9
-Mikkel SANDHOLM,LTH,Lemvig-Thyborøn Håndbold,1106.6,15,HF,False,NORMAL,44.3
-Svend RUGHAVE,LTH,Lemvig-Thyborøn Håndbold,1102.6999999999998,5,MV,True,NORMAL,15.6
-Jorn SMITS,LTH,Lemvig-Thyborøn Håndbold,1100.7,19,PL,False,NORMAL,51.5
-Nicklas Graugaard NIELSEN,LTH,Lemvig-Thyborøn Håndbold,1099.3,1,MV,True,NORMAL,-1.4
-Joakim André HYKKERUD,LTH,Lemvig-Thyborøn Håndbold,1046.0,14,ST,False,NORMAL,31.0
-Amadeus HEDIN,LTH,Lemvig-Thyborøn Håndbold,1025.2,5,PL,False,NORMAL,10.2
-Søren Willette PEDERSEN,LTH,Lemvig-Thyborøn Håndbold,1020.5,2,MV,True,NORMAL,5.5
+JESPER KOKHOLM,LTH,Lemvig-Thyborøn Håndbold,1591.6999999999998,32,HF,False,LEGENDARY,206.6
+RASMUS PORUP,LTH,Lemvig-Thyborøn Håndbold,1507.0,31,HF,False,LEGENDARY,153.8
+THOMAS BOHL DAMGAARD,LTH,Lemvig-Thyborøn Håndbold,1483.9,32,HF,False,LEGENDARY,230.1
+MADS THYMANN HANSEN,LTH,Lemvig-Thyborøn Håndbold,1394.9,32,HF,False,ELITE,205.1
+FREDERIK IVERSEN,LTH,Lemvig-Thyborøn Håndbold,1298.2,26,VF,False,ELITE,69.2
+CHRISTIAN SABROE HOLM,LTH,Lemvig-Thyborøn Håndbold,1291.0,23,HF,False,ELITE,97.9
+NICOLAJ KJÆR SPANGGAARD,LTH,Lemvig-Thyborøn Håndbold,1240.9,21,HF,False,NORMAL,122.9
+JACOB HESSELLUND,LTH,Lemvig-Thyborøn Håndbold,1236.7,25,HF,False,NORMAL,81.3
+JORN SMITS,LTH,Lemvig-Thyborøn Håndbold,1186.7,22,HF,False,NORMAL,147.0
+NICOLAJ SPANGGAARD,LTH,Lemvig-Thyborøn Håndbold,1167.8,10,HF,False,NORMAL,52.7
+NIELS LINDHOLT,LTH,Lemvig-Thyborøn Håndbold,1157.2,24,HF,False,NORMAL,36.5
+SVEND RUGHAVE,LTH,Lemvig-Thyborøn Håndbold,1134.8,28,MV,True,NORMAL,15.6
+MIKKEL SANDHOLM,LTH,Lemvig-Thyborøn Håndbold,1128.4,17,HF,False,NORMAL,52.5
+NICKLAS GRAUGAARD NIELSEN,LTH,Lemvig-Thyborøn Håndbold,1106.3,13,MV,True,NORMAL,-1.4
+NICOLAI PUGHOLM HVID,LTH,Lemvig-Thyborøn Håndbold,1097.3000000000002,31,HF,False,NORMAL,20.4
+JOAKIM ANDRÉ HYKKERUD,LTH,Lemvig-Thyborøn Håndbold,1055.2,26,HF,False,NORMAL,40.2
+AMADEUS HEDIN,LTH,Lemvig-Thyborøn Håndbold,1026.9,5,HF,False,NORMAL,11.9
+SØREN WILLETTE PEDERSEN,LTH,Lemvig-Thyborøn Håndbold,1020.5,15,MV,True,NORMAL,5.5
+DENNIS BO JENSEN,LTH,Lemvig-Thyborøn Håndbold,1012.5,10,HF,False,NORMAL,-2.5

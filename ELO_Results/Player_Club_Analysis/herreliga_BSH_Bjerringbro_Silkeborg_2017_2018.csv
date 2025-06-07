@@ -1,17 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Nikolaj Øris NIELSEN,BSH,Bjerringbro-Silkeborg,1206.6,36,HB,False,NORMAL,191.6
-Sebastian SKUBE,BSH,Bjerringbro-Silkeborg,1183.2,35,PL,True,NORMAL,168.2
-Nikolaj MARKUSSEN,BSH,Bjerringbro-Silkeborg,1160.0,31,PL,False,NORMAL,145.0
-Jacob LASSEN,BSH,Bjerringbro-Silkeborg,1146.9,36,HF,False,NORMAL,131.9
-Michael KNUDSEN,BSH,Bjerringbro-Silkeborg,1117.8,34,ST,False,NORMAL,102.8
-Jesper NØDDESBO,BSH,Bjerringbro-Silkeborg,1091.8,30,ST,False,NORMAL,76.8
-Johan HANSEN,BSH,Bjerringbro-Silkeborg,1064.8,23,HF,False,NORMAL,49.8
-Mads Øris NIELSEN,BSH,Bjerringbro-Silkeborg,1059.7,24,PL,False,NORMAL,44.7
-Stefan HUNDSTRUP,BSH,Bjerringbro-Silkeborg,1059.0,29,VF,False,NORMAL,44.0
-Lars SKAARUP,BSH,Bjerringbro-Silkeborg,1035.3,16,VF,False,NORMAL,20.3
-Drasko NENADIC,BSH,Bjerringbro-Silkeborg,1025.3,6,PL,False,NORMAL,10.3
-Rasmus THIEMER-JENSEN,BSH,Bjerringbro-Silkeborg,1024.5,8,ST,False,NORMAL,9.5
-Martin Risom CHRISTENSEN,BSH,Bjerringbro-Silkeborg,1018.7,3,HB,False,NORMAL,3.7
-Klaus THOMSEN,BSH,Bjerringbro-Silkeborg,1016.0,1,ST,False,NORMAL,1.0
-Søren RASMUSSEN,BSH,Bjerringbro-Silkeborg,1015.0,1,PL,True,NORMAL,0.0
-Sebastian FRANDSEN,BSH,Bjerringbro-Silkeborg,1015.0,1,PL,True,NORMAL,0.0
+SEBASTIAN SKUBE,BSH,Bjerringbro-Silkeborg,1368.7,35,HF,True,ELITE,353.7
+NIKOLAJ ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1240.7,36,HB,False,NORMAL,225.7
+NIKOLAJ MARKUSSEN,BSH,Bjerringbro-Silkeborg,1232.1,32,HF,False,NORMAL,217.1
+JACOB LASSEN,BSH,Bjerringbro-Silkeborg,1209.3,36,HF,False,NORMAL,194.3
+MICHAEL KNUDSEN,BSH,Bjerringbro-Silkeborg,1128.2,36,ST,False,NORMAL,113.2
+STEFAN HUNDSTRUP,BSH,Bjerringbro-Silkeborg,1097.7,34,HF,False,NORMAL,82.7
+JOHAN HANSEN,BSH,Bjerringbro-Silkeborg,1096.0,24,HF,False,NORMAL,81.0
+JESPER NØDDESBO,BSH,Bjerringbro-Silkeborg,1093.0,35,ST,False,NORMAL,78.0
+MADS ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1063.9,25,PL,False,NORMAL,48.9
+LARS SKAARUP,BSH,Bjerringbro-Silkeborg,1058.2,22,HF,False,NORMAL,43.2
+RASMUS THIEMER-JENSEN,BSH,Bjerringbro-Silkeborg,1035.1,22,HF,False,NORMAL,20.1
+DRASKO NENADIC,BSH,Bjerringbro-Silkeborg,1029.6,7,PL,False,NORMAL,14.6
+MARTIN RISOM CHRISTENSEN,BSH,Bjerringbro-Silkeborg,1021.0,5,HF,False,NORMAL,6.0
+SEBASTIAN FRANDSEN,BSH,Bjerringbro-Silkeborg,1015.0,15,PL,True,NORMAL,0.0
+SØREN RASMUSSEN,BSH,Bjerringbro-Silkeborg,1015.0,31,PL,True,NORMAL,0.0
+ALJOSA REZAR,BSH,Bjerringbro-Silkeborg,1015.0,19,PL,True,NORMAL,0.0
+OLIVER LARSEN,BSH,Bjerringbro-Silkeborg,1015.0,6,PL,True,NORMAL,0.0
+KLAUS THOMSEN,BSH,Bjerringbro-Silkeborg,1001.4,26,HF,False,NORMAL,-13.6

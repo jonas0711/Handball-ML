@@ -1,20 +1,21 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Felix CLAAR,AAH,Aalborg Håndbold,1532.6,36,PL,False,LEGENDARY,172.4
-Lukas SANDELL,AAH,Aalborg Håndbold,1518.9,30,PL,False,LEGENDARY,188.8
-Mads Hoxer HANGAARD,AAH,Aalborg Håndbold,1406.5,29,PL,False,LEGENDARY,109.9
-Henrik MØLLGAARD,AAH,Aalborg Håndbold,1382.9,20,PL,False,ELITE,44.7
-Sebastian BARTHOLD,AAH,Aalborg Håndbold,1375.1,32,VF,False,ELITE,87.6
-Aron PALMARSSON,AAH,Aalborg Håndbold,1301.4,22,PL,False,ELITE,180.9
-Andreas FLODMAN,AAH,Aalborg Håndbold,1288.3,13,HF,False,ELITE,22.6
-Benjamin JAKOBSEN,AAH,Aalborg Håndbold,1269.6,31,ST,False,ELITE,62.7
-Martin LARSEN,AAH,Aalborg Håndbold,1246.2,2,PL,False,NORMAL,2.3
-Kristian BJØRNSEN,AAH,Aalborg Håndbold,1218.3,31,HF,False,NORMAL,128.8
-Buster JUUL,AAH,Aalborg Håndbold,1202.5,9,VF,False,NORMAL,22.3
-Simon GADE,AAH,Aalborg Håndbold,1197.0,17,MV,True,NORMAL,56.8
-Rene ANTONSEN,AAH,Aalborg Håndbold,1183.9,32,ST,False,NORMAL,71.9
-Mikkel HANSEN,AAH,Aalborg Håndbold,1173.1,18,PL,False,NORMAL,70.6
-Jesper NIELSEN,AAH,Aalborg Håndbold,1142.0,20,ST,False,NORMAL,55.6
-Mikael AGGEFORS,AAH,Aalborg Håndbold,1116.4,6,MV,True,NORMAL,2.9
-Victor KLØVE,AAH,Aalborg Håndbold,1100.6999999999998,18,PL,False,NORMAL,26.1
-Marinus Grandahl MUNK,AAH,Aalborg Håndbold,1100.4,9,PL,False,NORMAL,10.8
-Marinus Grandahl MUNK,AAH,Aalborg Håndbold,1090.5,5,PL,False,NORMAL,5.2
+FELIX CLAAR,AAH,Aalborg Håndbold,1799.5,37,HF,False,LEGENDARY,398.4
+LUKAS SANDELL,AAH,Aalborg Håndbold,1742.8000000000002,32,HF,False,LEGENDARY,340.6
+MADS HOXER HANGAARD,AAH,Aalborg Håndbold,1605.0,29,HF,False,LEGENDARY,206.9
+SEBASTIAN BARTHOLD,AAH,Aalborg Håndbold,1602.8,34,HF,False,LEGENDARY,238.6
+ARON PALMARSSON,AAH,Aalborg Håndbold,1527.6999999999998,22,HF,False,LEGENDARY,332.6
+HENRIK MØLLGAARD,AAH,Aalborg Håndbold,1514.2,34,HF,False,LEGENDARY,166.2
+BUSTER JUUL,AAH,Aalborg Håndbold,1471.4,16,HF,False,LEGENDARY,111.3
+ANDREAS FLODMAN,AAH,Aalborg Håndbold,1430.2,17,HF,False,LEGENDARY,44.0
+KRISTIAN BJØRNSEN,AAH,Aalborg Håndbold,1381.5,33,HF,False,ELITE,228.3
+MARTIN LARSEN,AAH,Aalborg Håndbold,1364.1999999999998,7,HF,False,ELITE,56.6
+BENJAMIN JAKOBSEN,AAH,Aalborg Håndbold,1279.9,33,ST,False,ELITE,66.0
+RENE ANTONSEN,AAH,Aalborg Håndbold,1261.6,34,HF,False,ELITE,122.3
+MIKKEL HANSEN,AAH,Aalborg Håndbold,1251.0,18,HF,False,ELITE,129.5
+SIMON GADE,AAH,Aalborg Håndbold,1209.5,37,MV,True,NORMAL,56.8
+VICTOR KLØVE,AAH,Aalborg Håndbold,1166.4,23,HF,False,NORMAL,81.0
+JESPER NIELSEN,AAH,Aalborg Håndbold,1141.6,22,ST,False,NORMAL,50.4
+MARINUS GRANDAHL MUNK,AAH,Aalborg Håndbold,1126.5,11,HF,False,NORMAL,16.3
+MARINUS GRANDAHL MUNK,AAH,Aalborg Håndbold,1120.9,5,HF,False,NORMAL,6.9
+STEFAN MADSEN,AAH,Aalborg Håndbold,1116.8,10,HF,False,NORMAL,-2.8
+MIKAEL AGGEFORS,AAH,Aalborg Håndbold,1116.3000000000002,25,MV,True,NORMAL,2.9

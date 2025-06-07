@@ -1,18 +1,21 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Kristina KRISTIANSEN,NFH,Nykøbing F. Håndbold,1453.9,31,PL,False,LEGENDARY,108.3
-Amalie WULFF,NFH,Nykøbing F. Håndbold,1270.4,27,ST,False,ELITE,129.3
-Sofie BARDRUM,NFH,Nykøbing F. Håndbold,1249.2,18,ST,False,NORMAL,48.4
-Nikita Van Der VLIET,NFH,Nykøbing F. Håndbold,1249.1,32,ST,False,NORMAL,109.3
-Elma HALILCEVIC,NFH,Nykøbing F. Håndbold,1234.2,28,VF,False,NORMAL,94.5
-Sofie FLADER,NFH,Nykøbing F. Håndbold,1212.7,23,PL,False,NORMAL,84.7
-Sofie OLSEN,NFH,Nykøbing F. Håndbold,1180.8,16,HF,False,NORMAL,25.2
-Charlotte MIKKELSEN,NFH,Nykøbing F. Håndbold,1174.5,15,HF,False,NORMAL,103.9
-Estavana POLMAN,NFH,Nykøbing F. Håndbold,1125.1999999999998,5,PL,False,NORMAL,10.6
-Mia SVELE,NFH,Nykøbing F. Håndbold,1108.2,26,PL,False,NORMAL,55.4
-Tyra AXNÉR,NFH,Nykøbing F. Håndbold,1105.9,30,PL,False,NORMAL,60.5
-Alberte KIELSTRUP,NFH,Nykøbing F. Håndbold,1096.0,25,HB,False,NORMAL,62.7
-Sofie ALNOR,NFH,Nykøbing F. Håndbold,1091.0,4,VF,False,NORMAL,4.1
-Marie-Helene SAJKA,NFH,Nykøbing F. Håndbold,1084.8,33,PL,False,NORMAL,69.8
-Cecilie GREVE,NFH,Nykøbing F. Håndbold,1083.7,8,MV,True,NORMAL,3.7
-Liv NAVNE,NFH,Nykøbing F. Håndbold,1071.1,6,HB,False,NORMAL,6.7
-Annika PETERSEN,NFH,Nykøbing F. Håndbold,1014.7,1,MV,True,NORMAL,-0.3
+KRISTINA KRISTIANSEN,NFH,Nykøbing F. Håndbold,1691.8000000000002,34,HF,False,LEGENDARY,290.6
+SOFIE FLADER,NFH,Nykøbing F. Håndbold,1626.3,31,HF,False,LEGENDARY,326.7
+ELMA HALILCEVIC,NFH,Nykøbing F. Håndbold,1612.8,33,HF,False,LEGENDARY,313.3
+AMALIE WULFF,NFH,Nykøbing F. Håndbold,1543.6,32,HF,False,LEGENDARY,272.7
+NIKITA VAN DER VLIET,NFH,Nykøbing F. Håndbold,1416.6,32,HF,False,LEGENDARY,192.9
+STINE EIBERG JØRGENSEN,NFH,Nykøbing F. Håndbold,1411.1,25,HF,False,LEGENDARY,41.8
+SOFIE BARDRUM,NFH,Nykøbing F. Håndbold,1340.8,21,HF,False,ELITE,69.5
+MIA SVELE,NFH,Nykøbing F. Håndbold,1294.8000000000002,31,HF,False,ELITE,172.9
+SOFIE OLSEN,NFH,Nykøbing F. Håndbold,1271.5,19,HF,False,ELITE,45.8
+CHARLOTTE MIKKELSEN,NFH,Nykøbing F. Håndbold,1251.9,20,HF,False,ELITE,155.6
+ALBERTE KIELSTRUP,NFH,Nykøbing F. Håndbold,1232.8,27,HF,False,NORMAL,160.3
+ESTAVANA POLMAN,NFH,Nykøbing F. Håndbold,1177.9,5,HF,False,NORMAL,21.9
+TYRA AXNÉR,NFH,Nykøbing F. Håndbold,1167.4,30,HF,False,NORMAL,99.7
+MARIE-HELENE SAJKA,NFH,Nykøbing F. Håndbold,1139.5,33,HF,False,NORMAL,124.5
+SOFIE ALNOR,NFH,Nykøbing F. Håndbold,1137.8,6,HF,False,NORMAL,7.7
+LOUISE EGESTORP,NFH,Nykøbing F. Håndbold,1093.9,5,PL,True,NORMAL,0.0
+LIV NAVNE,NFH,Nykøbing F. Håndbold,1093.4,6,HF,False,NORMAL,8.5
+JAKOB BIRKEDAL LARSEN,NFH,Nykøbing F. Håndbold,1091.7,5,HF,False,NORMAL,-1.1
+CECILIE GREVE,NFH,Nykøbing F. Håndbold,1075.3,33,MV,True,NORMAL,3.7
+ANNIKA PETERSEN,NFH,Nykøbing F. Håndbold,1014.7,22,MV,True,NORMAL,-0.3

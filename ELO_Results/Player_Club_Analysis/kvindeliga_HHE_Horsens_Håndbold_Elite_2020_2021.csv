@@ -1,17 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Trine KNUDSEN,HHE,Horsens Håndbold Elite,1353.8,31,PL,False,ELITE,107.1
-Melissa PETRÉN,HHE,Horsens Håndbold Elite,1238.2,26,PL,False,NORMAL,123.0
-Maria Mose VESTERGAARD,HHE,Horsens Håndbold Elite,1163.7,26,VF,False,NORMAL,66.2
-Frederikke GULMARK,HHE,Horsens Håndbold Elite,1146.1,19,VB,False,NORMAL,60.1
-Daniela GUSTIN,HHE,Horsens Håndbold Elite,1137.8,20,HF,False,NORMAL,58.2
-Emily BAUNSGAARD,HHE,Horsens Håndbold Elite,1095.0,12,HB,False,NORMAL,28.1
-Mette LASSEN,HHE,Horsens Håndbold Elite,1083.8,17,VF,False,NORMAL,30.0
-Susanne MADSEN,HHE,Horsens Håndbold Elite,1080.7,24,PL,False,NORMAL,34.7
-Stephanie ANDERSEN,HHE,Horsens Håndbold Elite,1060.6999999999998,1,MV,True,NORMAL,-0.4
-Julie GANTZEL,HHE,Horsens Håndbold Elite,1056.0,23,ST,False,NORMAL,41.0
-Frederikke RASMUSSEN,HHE,Horsens Håndbold Elite,1052.4,2,MV,True,NORMAL,3.1
-Celine Holst ELKJÆR,HHE,Horsens Håndbold Elite,1049.6,21,ST,False,NORMAL,34.6
-Maria Krogh HOLM,HHE,Horsens Håndbold Elite,1049.5,11,HF,False,NORMAL,34.5
-Maria HOLM,HHE,Horsens Håndbold Elite,1042.3,6,HF,False,NORMAL,27.3
-Anne-Sofie FILTENBORG,HHE,Horsens Håndbold Elite,1037.9,14,HF,False,NORMAL,22.9
-Camilla Askebjerg MADSEN,HHE,Horsens Håndbold Elite,1032.4,17,PL,False,NORMAL,17.4
+TRINE KNUDSEN,HHE,Horsens Håndbold Elite,1551.9,31,HF,False,LEGENDARY,218.8
+MELISSA PETRÉN,HHE,Horsens Håndbold Elite,1405.1999999999998,26,HF,False,LEGENDARY,209.6
+FREDERIKKE GULMARK,HHE,Horsens Håndbold Elite,1312.2,19,HF,False,ELITE,116.9
+MARIA MOSE VESTERGAARD,HHE,Horsens Håndbold Elite,1225.1,28,HF,False,NORMAL,120.8
+DANIELA GUSTIN,HHE,Horsens Håndbold Elite,1175.8,21,HF,False,NORMAL,74.2
+EMILY BAUNSGAARD,HHE,Horsens Håndbold Elite,1165.8,12,HF,False,NORMAL,64.6
+SUSANNE MADSEN,HHE,Horsens Håndbold Elite,1147.1,31,HF,False,NORMAL,69.8
+METTE LASSEN,HHE,Horsens Håndbold Elite,1095.9,21,VF,False,NORMAL,39.1
+LARS FREDERIKSEN,HHE,Horsens Håndbold Elite,1065.8,10,HF,False,NORMAL,-3.2
+MARIA KROGH HOLM,HHE,Horsens Håndbold Elite,1064.3,11,HF,False,NORMAL,49.3
+CAMILLA ASKEBJERG MADSEN,HHE,Horsens Håndbold Elite,1062.4,24,HF,False,NORMAL,47.4
+CLAUDIA ROMPEN,HHE,Horsens Håndbold Elite,1057.8,14,PL,True,NORMAL,0.0
+JULIE GANTZEL,HHE,Horsens Håndbold Elite,1052.9,28,HF,False,NORMAL,37.9
+CELINE HOLST ELKJÆR,HHE,Horsens Håndbold Elite,1047.4,28,HF,False,NORMAL,32.4
+FREDERIKKE RASMUSSEN,HHE,Horsens Håndbold Elite,1042.5,29,MV,True,NORMAL,3.1
+MARIA HOLM,HHE,Horsens Håndbold Elite,1041.6,6,HF,False,NORMAL,26.6
+ANNE-SOFIE FILTENBORG,HHE,Horsens Håndbold Elite,1039.5,17,HF,False,NORMAL,24.5
+STEPHANIE ANDERSEN,HHE,Horsens Håndbold Elite,1038.5,26,MV,True,NORMAL,-0.4

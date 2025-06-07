@@ -1,3 +1,3 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Sara KECECI,HOL,Holstebro Håndbold,1044.9,1,MV,True,NORMAL,-0.8
-Ditte VIND,HOL,Holstebro Håndbold,1041.4,3,MV,True,NORMAL,0.6
+DITTE VIND,HOL,Holstebro Håndbold,1038.6,22,MV,True,NORMAL,0.6
+SARA KECECI,HOL,Holstebro Håndbold,1030.2,21,MV,True,NORMAL,-0.8

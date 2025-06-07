@@ -1,18 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Jesper KONRADSSON,SKH,Skjern Håndbold,1544.5,31,PL,False,LEGENDARY,178.6
-Eivind TANGEN,SKH,Skjern Håndbold,1470.3,34,HB,False,LEGENDARY,197.6
-Emil BERGHOLT,SKH,Skjern Håndbold,1446.4,38,ST,False,LEGENDARY,205.3
-Lasse MIKKELSEN,SKH,Skjern Håndbold,1360.0,36,PL,False,ELITE,345.0
-René RASMUSSEN,SKH,Skjern Håndbold,1354.7,33,HF,False,ELITE,94.8
-Lasse UTH,SKH,Skjern Håndbold,1333.4,30,VF,False,ELITE,89.0
-Jørgen RASMUSSEN,SKH,Skjern Håndbold,1273.1,11,VF,False,ELITE,55.5
-Oliver NORLYK,SKH,Skjern Håndbold,1164.2,18,PL,False,NORMAL,100.4
-Senjamin BURIC,SKH,Skjern Håndbold,1155.1,37,ST,False,NORMAL,140.1
-Robin HAUG,SKH,Skjern Håndbold,1104.5,4,MV,True,NORMAL,14.3
-Mikkel LANG,SKH,Skjern Håndbold,1087.8,6,HF,False,NORMAL,72.8
-Jonathan WÜRTZ,SKH,Skjern Håndbold,1083.2,5,PL,False,NORMAL,7.9
-Tobias MYGIND,SKH,Skjern Håndbold,1079.4,17,PL,False,NORMAL,64.4
-Christoffer BONDE,SKH,Skjern Håndbold,1052.7,12,MV,True,NORMAL,37.7
-Alfred JÖNSSON,SKH,Skjern Håndbold,1050.8,16,PL,False,NORMAL,35.8
-Jakob RASMUSSEN,SKH,Skjern Håndbold,1045.0,17,PL,False,NORMAL,30.0
-Anton HAGVALL,SKH,Skjern Håndbold,1032.3,1,MV,True,NORMAL,17.3
+JESPER KONRADSSON,SKH,Skjern Håndbold,1730.3000000000002,32,HF,False,LEGENDARY,329.9
+EIVIND TANGEN,SKH,Skjern Håndbold,1728.0,34,HF,False,LEGENDARY,326.5
+LASSE MIKKELSEN,SKH,Skjern Håndbold,1714.7,36,HF,False,LEGENDARY,699.7
+EMIL BERGHOLT,SKH,Skjern Håndbold,1580.6,39,HF,False,LEGENDARY,292.2
+RENÉ RASMUSSEN,SKH,Skjern Håndbold,1534.9,37,HF,False,LEGENDARY,182.0
+LASSE UTH,SKH,Skjern Håndbold,1448.7,37,HF,False,LEGENDARY,144.4
+JØRGEN RASMUSSEN,SKH,Skjern Håndbold,1378.8,15,HF,False,ELITE,95.6
+OLIVER NORLYK,SKH,Skjern Håndbold,1235.3000000000002,22,HF,False,NORMAL,147.9
+SENJAMIN BURIC,SKH,Skjern Håndbold,1144.6,39,ST,False,NORMAL,129.6
+TOBIAS MYGIND,SKH,Skjern Håndbold,1137.1,20,HF,False,NORMAL,122.1
+MIKKEL LANG,SKH,Skjern Håndbold,1105.3,7,HF,False,NORMAL,90.3
+JONATHAN WÜRTZ,SKH,Skjern Håndbold,1092.5,8,HF,False,NORMAL,-6.0
+ROBIN HAUG,SKH,Skjern Håndbold,1090.6,7,MV,True,NORMAL,14.1
+JAKOB RASMUSSEN,SKH,Skjern Håndbold,1087.5,22,HF,False,NORMAL,72.5
+ALFRED JÖNSSON,SKH,Skjern Håndbold,1071.7,20,HF,False,NORMAL,56.7
+CHRISTOFFER BONDE,SKH,Skjern Håndbold,1054.0,38,MV,True,NORMAL,39.0
+ANTON HAGVALL,SKH,Skjern Håndbold,1032.3,18,MV,True,NORMAL,17.3
+LASSE VUUST ANDERSEN,SKH,Skjern Håndbold,1015.0,6,PL,True,NORMAL,0.0

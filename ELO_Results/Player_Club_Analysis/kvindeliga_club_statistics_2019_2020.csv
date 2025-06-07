@@ -1,15 +1,15 @@
 team_code,team_name,total_players,avg_rating,max_rating,min_rating,total_games,avg_games_per_player,elite_players,goalkeepers,positions_represented,position_distribution
-TES,Team Esbjerg,14,1114.8,1277.5,1041.8,208,14.9,1,2,6,"{'PL': 3, 'ST': 4, 'HF': 1, 'VF': 2, 'HB': 2, 'MV': 2}"
-VHK,Viborg HK,15,1110.1,1306.7,1031.0,214,14.3,1,2,6,"{'PL': 4, 'HB': 2, 'ST': 3, 'HF': 2, 'VF': 2, 'MV': 2}"
-AAU,Aarhus United,15,1104.6,1246.7,1018.3,218,14.5,0,1,5,"{'VF': 2, 'PL': 5, 'HF': 3, 'ST': 4, 'MV': 1}"
-NFH,Nykøbing F. Håndbold,16,1103.8,1248.8,1018.6,205,12.8,0,2,7,"{'VF': 2, 'HB': 1, 'PL': 4, 'ST': 3, 'HF': 3, 'MV': 2, 'VB': 1}"
-SVK,Silkeborg-Voel KFUM,16,1088.4,1217.6,1014.6,211,13.2,0,2,6,"{'PL': 5, 'ST': 2, 'HF': 2, 'HB': 2, 'VF': 3, 'MV': 2}"
-SKB,Skanderborg Håndbold,16,1083.1,1212.1,1013.9,210,13.1,0,3,5,"{'HF': 4, 'PL': 5, 'VF': 2, 'ST': 3, 'MV': 2}"
-AJK,Ajax København,16,1082.6,1208.5,1013.8,237,14.8,0,2,6,"{'HF': 2, 'PL': 7, 'VF': 2, 'ST': 2, 'HB': 1, 'MV': 2}"
-KBH,København Håndbold,15,1081.2,1170.9,1017.0,227,15.1,0,2,7,"{'ST': 1, 'HF': 2, 'PL': 3, 'VF': 3, 'HB': 2, 'MV': 2, 'VB': 2}"
-EHA,EH Aalborg,16,1079.8,1201.8,1014.6,209,13.1,0,2,5,"{'PL': 6, 'HF': 2, 'VF': 3, 'ST': 3, 'MV': 2}"
-IKA,Ikast Håndbold,2,1050.9,1055.4,1046.4,10,5.0,0,2,1,{'MV': 2}
-RAN,Randers HK,2,1044.6,1044.6,1044.5,10,5.0,0,2,1,{'MV': 2}
-HHE,Horsens Håndbold Elite,19,1043.6,1108.8,1012.5,209,11.0,0,4,7,"{'PL': 5, 'VB': 1, 'HF': 3, 'ST': 3, 'VF': 3, 'HB': 1, 'MV': 3}"
-HOL,Holstebro Håndbold,2,1043.2,1044.9,1041.4,4,2.0,0,2,1,{'MV': 2}
-ODE,Odense Håndbold,2,1035.6,1038.5,1032.8,10,5.0,0,2,1,{'MV': 2}
+VHK,Viborg HK,15,1177.2,1521.5,1038.4,277,18.5,5,2,3,"{'HF': 12, 'ST': 1, 'MV': 2}"
+TES,Team Esbjerg,14,1172.5,1496.9,1040.0,263,18.8,3,2,3,"{'HF': 10, 'ST': 2, 'MV': 2}"
+NFH,Nykøbing F. Håndbold,16,1162.4,1427.3,1019.8,272,17.0,4,2,3,"{'HF': 13, 'VF': 1, 'MV': 2}"
+SVK,Silkeborg-Voel KFUM,16,1158.7,1414.8,1014.6,280,17.5,4,2,3,"{'HF': 13, 'VF': 1, 'MV': 2}"
+AAU,Aarhus United,16,1140.0,1369.0,1015.0,276,17.2,3,2,5,"{'HF': 10, 'VF': 2, 'ST': 2, 'MV': 1, 'PL': 1}"
+KBH,København Håndbold,16,1133.6,1409.7,1015.0,288,18.0,4,3,4,"{'HF': 12, 'ST': 1, 'MV': 2, 'PL': 1}"
+SKB,Skanderborg Håndbold,16,1127.7,1437.6,1013.9,278,17.4,2,3,4,"{'MV': 3, 'HF': 10, 'VF': 1, 'ST': 2}"
+EHA,EH Aalborg,16,1123.4,1383.0,1020.2,289,18.1,2,2,4,"{'HF': 10, 'VF': 3, 'ST': 1, 'MV': 2}"
+AJK,Ajax København,16,1117.0,1320.8,1013.8,305,19.1,2,2,4,"{'HF': 12, 'VF': 1, 'HB': 1, 'MV': 2}"
+HHE,Horsens Håndbold Elite,19,1060.1,1206.3,1012.5,263,13.8,0,4,5,"{'MV': 4, 'HF': 10, 'ST': 1, 'VF': 3, 'HB': 1}"
+IKA,Ikast Håndbold,2,1048.8,1058.5,1039.0,40,20.0,0,2,1,{'MV': 2}
+RAN,Randers HK,2,1044.1,1050.3,1037.9,42,21.0,0,2,1,{'MV': 2}
+ODE,Odense Håndbold,2,1034.7,1037.4,1032.0,37,18.5,0,2,1,{'MV': 2}
+HOL,Holstebro Håndbold,2,1034.4,1038.6,1030.2,43,21.5,0,2,1,{'MV': 2}

@@ -1,15 +1,16 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Jane MEJLVANG,RIN,Ringkøbing Håndbold,1360.1,30,PL,False,ELITE,121.6
-Emma LAURSEN,RIN,Ringkøbing Håndbold,1256.6999999999998,23,HF,False,ELITE,50.1
-Nanna HINNERFELDT,RIN,Ringkøbing Håndbold,1198.8000000000002,29,ST,False,NORMAL,100.4
-Frida Høgaard NIELSEN,RIN,Ringkøbing Håndbold,1184.5,30,PL,False,NORMAL,103.2
-Rikke JOCHUMSEN,RIN,Ringkøbing Håndbold,1151.5,22,VF,False,NORMAL,37.7
-Leonora DEMAJ,RIN,Ringkøbing Håndbold,1140.7,26,PL,False,NORMAL,36.7
-Caroline SVARRE,RIN,Ringkøbing Håndbold,1136.8000000000002,17,ST,False,NORMAL,28.4
-Maria Berger WIERZBA,RIN,Ringkøbing Håndbold,1128.9,27,PL,False,NORMAL,64.5
-Cecilie BJERRE,RIN,Ringkøbing Håndbold,1110.7,17,PL,False,NORMAL,95.7
-Sofie ØSTERGAARD,RIN,Ringkøbing Håndbold,1082.0,29,HF,False,NORMAL,67.0
-Amalie GRØN,RIN,Ringkøbing Håndbold,1029.8,13,VF,False,NORMAL,14.8
-Ida VIUM,RIN,Ringkøbing Håndbold,1020.2,4,MV,True,NORMAL,5.2
-Ida Marie PEDERSEN,RIN,Ringkøbing Håndbold,1017.2,2,MV,True,NORMAL,2.2
-Rakul WARDUM,RIN,Ringkøbing Håndbold,1016.7,5,MV,True,NORMAL,1.7
+JANE MEJLVANG,RIN,Ringkøbing Håndbold,1664.6,30,HF,False,LEGENDARY,265.9
+FRIDA HØGAARD NIELSEN,RIN,Ringkøbing Håndbold,1325.9,30,HF,False,ELITE,208.7
+EMMA LAURSEN,RIN,Ringkøbing Håndbold,1291.4,25,HF,False,ELITE,59.3
+RIKKE JOCHUMSEN,RIN,Ringkøbing Håndbold,1279.2,30,HF,False,ELITE,79.0
+NANNA HINNERFELDT,RIN,Ringkøbing Håndbold,1271.6,30,HF,False,ELITE,151.9
+LEONORA DEMAJ,RIN,Ringkøbing Håndbold,1271.4,28,HF,False,ELITE,82.4
+MARIA BERGER WIERZBA,RIN,Ringkøbing Håndbold,1233.2,29,HF,False,NORMAL,157.7
+CAROLINE SVARRE,RIN,Ringkøbing Håndbold,1154.1,28,HF,False,NORMAL,26.9
+CECILIE BJERRE,RIN,Ringkøbing Håndbold,1153.7,17,PL,False,NORMAL,138.7
+JESPER HOLMRIS,RIN,Ringkøbing Håndbold,1106.4,8,HF,False,NORMAL,-3.1
+SOFIE ØSTERGAARD,RIN,Ringkøbing Håndbold,1106.1,30,HF,False,NORMAL,91.1
+RAKUL WARDUM,RIN,Ringkøbing Håndbold,1086.4,25,MV,True,NORMAL,1.7
+AMALIE GRØN,RIN,Ringkøbing Håndbold,1041.3,17,HF,False,NORMAL,26.3
+IDA VIUM,RIN,Ringkøbing Håndbold,1020.2,17,MV,True,NORMAL,5.2
+IDA MARIE PEDERSEN,RIN,Ringkøbing Håndbold,1017.2,6,MV,True,NORMAL,2.2

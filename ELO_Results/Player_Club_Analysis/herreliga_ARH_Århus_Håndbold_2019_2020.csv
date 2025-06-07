@@ -1,17 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Torben PETERSEN,ARH,Århus Håndbold,1344.3,24,PL,False,ELITE,91.7
-Anders Kragh MARTINUSEN,ARH,Århus Håndbold,1317.8,23,PL,False,ELITE,89.5
-Nikolaj LÆSØ,ARH,Århus Håndbold,1313.8,24,PL,False,ELITE,109.1
-Besard HAKAJ,ARH,Århus Håndbold,1246.3000000000002,17,ST,False,NORMAL,29.9
-Tobias Torpegaard MØLLER,ARH,Århus Håndbold,1165.6,14,VF,False,NORMAL,32.4
-Nikolai Skovmand VINTHER,ARH,Århus Håndbold,1122.8000000000002,13,HF,False,NORMAL,25.4
-Fredrik Schilling SØRENSEN,ARH,Århus Håndbold,1112.0,5,VF,False,NORMAL,9.2
-Lukas JØRGENSEN,ARH,Århus Håndbold,1090.0,19,ST,False,NORMAL,45.7
-Jens FREDSGAARD,ARH,Århus Håndbold,1088.1,2,MV,True,NORMAL,11.8
-Mads Peter LØNBORG,ARH,Århus Håndbold,1079.5,13,HF,False,NORMAL,25.5
-Anton LAURSEN,ARH,Århus Håndbold,1076.5,8,PL,False,NORMAL,5.5
-Peter LUND,ARH,Århus Håndbold,1076.4,6,VF,False,NORMAL,6.7
-Christoffer Hoffmann BONDE,ARH,Århus Håndbold,1073.7,5,MV,True,NORMAL,1.4
-Emil JESSEN,ARH,Århus Håndbold,1072.9,21,PL,False,NORMAL,57.9
-Mathias LARSON,ARH,Århus Håndbold,1021.7,7,PL,False,NORMAL,6.7
-Jon Katballe CHRISTENSEN,ARH,Århus Håndbold,1018.4,3,HB,False,NORMAL,3.4
+NIKOLAJ LÆSØ,ARH,Århus Håndbold,1571.1,24,HF,False,LEGENDARY,215.0
+ANDERS KRAGH MARTINUSEN,ARH,Århus Håndbold,1480.8000000000002,23,HF,False,LEGENDARY,153.4
+TORBEN PETERSEN,ARH,Århus Håndbold,1466.8,24,HF,False,LEGENDARY,165.1
+TOBIAS TORPEGAARD MØLLER,ARH,Århus Håndbold,1282.7,21,HF,False,ELITE,94.4
+BESARD HAKAJ,ARH,Århus Håndbold,1254.4,22,ST,False,ELITE,22.8
+FREDRIK SCHILLING SØRENSEN,ARH,Århus Håndbold,1201.4,7,HF,False,NORMAL,22.6
+NIKOLAI SKOVMAND VINTHER,ARH,Århus Håndbold,1167.0,20,HF,False,NORMAL,45.3
+LUKAS JØRGENSEN,ARH,Århus Håndbold,1121.9,20,HF,False,NORMAL,74.8
+MADS PETER LØNBORG,ARH,Århus Håndbold,1105.3,16,HF,False,NORMAL,37.6
+ERIK VEJE RASMUSSEN,ARH,Århus Håndbold,1088.8,5,HF,False,NORMAL,-1.0
+EMIL JESSEN,ARH,Århus Håndbold,1084.5,21,PL,False,NORMAL,69.5
+ANTON LAURSEN,ARH,Århus Håndbold,1079.9,11,HF,False,NORMAL,2.7
+JENS FREDSGAARD,ARH,Århus Håndbold,1058.7,23,MV,True,NORMAL,11.8
+CHRISTOFFER HOFFMANN BONDE,ARH,Århus Håndbold,1045.4,20,MV,True,NORMAL,1.4
+MATHIAS LARSON,ARH,Århus Håndbold,1038.2,10,HF,False,NORMAL,23.2
+PETER LUND,ARH,Århus Håndbold,1037.3,17,HF,False,NORMAL,2.3
+JON KATBALLE CHRISTENSEN,ARH,Århus Håndbold,1019.7,6,HF,False,NORMAL,4.7

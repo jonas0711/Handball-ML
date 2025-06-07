@@ -1,17 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Stine JØRGENSEN,KBH,København Håndbold,1433.1,29,VB,False,LEGENDARY,141.9
-Louise FØNS,KBH,København Håndbold,1236.5,14,VF,False,NORMAL,27.7
-Maria LYKKEGAARD,KBH,København Håndbold,1224.2,18,ST,False,NORMAL,29.8
-Andrea HANSEN,KBH,København Håndbold,1200.3,25,HF,False,NORMAL,55.8
-Sofia HVENFELT,KBH,København Håndbold,1164.4,25,ST,False,NORMAL,60.1
-Pernille BRANDENBORG,KBH,København Håndbold,1143.6,14,ST,False,NORMAL,18.9
-Christina WILDBORK,KBH,København Håndbold,1140.4,4,VB,False,NORMAL,4.5
-Clara SKØTT,KBH,København Håndbold,1138.9,14,HF,False,NORMAL,41.3
-Karoline LUND,KBH,København Håndbold,1114.8,18,PL,False,NORMAL,31.5
-Silje BRØNS,KBH,København Håndbold,1106.3,27,PL,False,NORMAL,91.3
-Emma NAVNE,KBH,København Håndbold,1098.6,27,PL,False,NORMAL,83.6
-Clara Skyum THOMSEN,KBH,København Håndbold,1095.3,18,HB,False,NORMAL,43.7
-Fie WOLLER,KBH,København Håndbold,1090.3,28,VF,False,NORMAL,75.3
-Catharina MOLENAAR,KBH,København Håndbold,1034.6,18,PL,False,NORMAL,19.6
-Katharina FILTER,KBH,København Håndbold,1022.8,14,MV,True,NORMAL,7.8
-Anne Christine BOSSEN,KBH,København Håndbold,1015.4,2,MV,True,NORMAL,0.4
+STINE JØRGENSEN,KBH,København Håndbold,1620.1999999999998,29,HF,False,LEGENDARY,271.6
+LOUISE FØNS,KBH,København Håndbold,1360.4,18,VF,False,ELITE,43.5
+ANDREA HANSEN,KBH,København Håndbold,1329.2,28,HF,False,ELITE,97.3
+MARIA LYKKEGAARD,KBH,København Håndbold,1285.9,28,HF,False,ELITE,60.9
+CLARA SKØTT,KBH,København Håndbold,1224.9,20,HF,False,NORMAL,67.6
+CHRISTINA WILDBORK,KBH,København Håndbold,1224.7,5,HF,False,NORMAL,9.8
+SOFIA HVENFELT,KBH,København Håndbold,1211.4,28,ST,False,NORMAL,72.9
+KAROLINE LUND,KBH,København Håndbold,1204.1,19,HF,False,NORMAL,41.1
+PERNILLE BRANDENBORG,KBH,København Håndbold,1201.3000000000002,17,HF,False,NORMAL,30.9
+SILJE BRØNS,KBH,København Håndbold,1183.6,28,HF,False,NORMAL,168.6
+EMMA NAVNE,KBH,København Håndbold,1170.0,27,HF,False,NORMAL,155.0
+CLARA SKYUM THOMSEN,KBH,København Håndbold,1145.9,19,HF,False,NORMAL,76.4
+FIE WOLLER,KBH,København Håndbold,1124.4,29,VF,False,NORMAL,109.4
+SIRI YDE,KBH,København Håndbold,1098.9,7,PL,True,NORMAL,0.0
+CATHARINA MOLENAAR,KBH,København Håndbold,1061.2,21,HF,False,NORMAL,46.2
+KATHARINA FILTER,KBH,København Håndbold,1022.8,28,MV,True,NORMAL,7.8
+ANNE CHRISTINE BOSSEN,KBH,København Håndbold,1015.4,18,MV,True,NORMAL,0.4

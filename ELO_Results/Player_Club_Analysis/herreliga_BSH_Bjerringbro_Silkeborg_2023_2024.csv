@@ -1,17 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Morten OLSEN,BSH,Bjerringbro-Silkeborg,1418.4,24,PL,False,LEGENDARY,97.5
-Peter BALLING,BSH,Bjerringbro-Silkeborg,1403.4,32,PL,False,LEGENDARY,75.0
-Alexander LYNGGAARD,BSH,Bjerringbro-Silkeborg,1361.5,28,ST,False,ELITE,55.1
-William BOGOJEVIC,BSH,Bjerringbro-Silkeborg,1319.9,28,PL,False,ELITE,58.1
-Ludvig HALLBÄCK,BSH,Bjerringbro-Silkeborg,1260.8000000000002,31,PL,False,ELITE,86.4
-Patrick BOLDSEN,BSH,Bjerringbro-Silkeborg,1210.2,24,HF,False,NORMAL,62.9
-René Toft HANSEN,BSH,Bjerringbro-Silkeborg,1155.1,8,ST,False,NORMAL,7.2
-August FRIDÉN,BSH,Bjerringbro-Silkeborg,1150.7,16,VF,False,NORMAL,31.5
-Thomas SOLSTAD,BSH,Bjerringbro-Silkeborg,1137.6,24,ST,False,NORMAL,67.0
-Johan SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1136.7,2,MV,True,NORMAL,1.7
-Rasmus LAUGE,BSH,Bjerringbro-Silkeborg,1123.1,31,PL,False,NORMAL,108.1
-Mads LENBROCH,BSH,Bjerringbro-Silkeborg,1111.0,16,VF,False,NORMAL,38.4
-Nikolaj ØRIS,BSH,Bjerringbro-Silkeborg,1098.8,25,PL,False,NORMAL,83.8
-Mikkel LØVKVIST,BSH,Bjerringbro-Silkeborg,1093.2,9,MV,True,NORMAL,78.2
-Victor ILSØE,BSH,Bjerringbro-Silkeborg,1026.5,9,HF,False,NORMAL,11.5
-Magnus RAHBEK,BSH,Bjerringbro-Silkeborg,1019.0,6,PL,False,NORMAL,4.0
+MORTEN OLSEN,BSH,Bjerringbro-Silkeborg,1608.8,25,HF,False,LEGENDARY,210.2
+PETER BALLING,BSH,Bjerringbro-Silkeborg,1579.7,32,HF,False,LEGENDARY,180.5
+LUDVIG HALLBÄCK,BSH,Bjerringbro-Silkeborg,1536.7,32,HF,False,LEGENDARY,198.8
+WILLIAM BOGOJEVIC,BSH,Bjerringbro-Silkeborg,1524.6,29,HF,False,LEGENDARY,123.4
+ALEXANDER LYNGGAARD,BSH,Bjerringbro-Silkeborg,1419.2,30,HF,False,LEGENDARY,80.7
+PATRICK BOLDSEN,BSH,Bjerringbro-Silkeborg,1361.3,27,HF,False,ELITE,145.1
+RASMUS LAUGE,BSH,Bjerringbro-Silkeborg,1298.4,32,HF,False,ELITE,283.4
+THOMAS SOLSTAD,BSH,Bjerringbro-Silkeborg,1239.0,27,HF,False,NORMAL,121.5
+NIKOLAJ ØRIS,BSH,Bjerringbro-Silkeborg,1214.1,27,HF,False,NORMAL,199.1
+AUGUST FRIDÉN,BSH,Bjerringbro-Silkeborg,1210.3,21,HF,False,NORMAL,55.3
+MADS LENBROCH,BSH,Bjerringbro-Silkeborg,1192.6999999999998,19,HF,False,NORMAL,91.1
+RENÉ TOFT HANSEN,BSH,Bjerringbro-Silkeborg,1161.4,23,HF,False,NORMAL,6.8
+SIMON SCHØLER RAADAHL SØRENSEN,BSH,Bjerringbro-Silkeborg,1133.6,6,HF,False,NORMAL,-1.8
+JOHAN SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1132.3,17,MV,True,NORMAL,1.7
+MIKKEL LØVKVIST,BSH,Bjerringbro-Silkeborg,1093.2,32,MV,True,NORMAL,78.2
+VICTOR ILSØE,BSH,Bjerringbro-Silkeborg,1041.0,11,HF,False,NORMAL,26.0
+MAGNUS RAHBEK,BSH,Bjerringbro-Silkeborg,1018.4,12,HF,False,NORMAL,3.4

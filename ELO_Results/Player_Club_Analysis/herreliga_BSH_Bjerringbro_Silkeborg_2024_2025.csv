@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Nikolaj LÆSØ,BSH,Bjerringbro-Silkeborg,1498.8,32,PL,False,LEGENDARY,116.3
-Morten OLSEN,BSH,Bjerringbro-Silkeborg,1442.0,24,PL,False,LEGENDARY,116.7
-Peter BALLING,BSH,Bjerringbro-Silkeborg,1404.9,31,HB,True,LEGENDARY,87.0
-Alexander LYNGGAARD,BSH,Bjerringbro-Silkeborg,1373.9,22,ST,False,ELITE,48.9
-Patrick BOLDSEN,BSH,Bjerringbro-Silkeborg,1287.8,29,HF,False,ELITE,79.8
-Anders ZACHARIASSEN,BSH,Bjerringbro-Silkeborg,1249.5,29,ST,False,NORMAL,76.1
-Rasmus LAUGE,BSH,Bjerringbro-Silkeborg,1194.9,14,PL,False,NORMAL,70.1
-Benjamin JAKOBSEN,BSH,Bjerringbro-Silkeborg,1168.1999999999998,7,ST,False,NORMAL,13.6
-Mikkel LØVKVIST,BSH,Bjerringbro-Silkeborg,1160.1,8,MV,True,NORMAL,34.5
-Mads LENBROCH,BSH,Bjerringbro-Silkeborg,1159.2,25,VF,False,NORMAL,49.5
-René Toft HANSEN,BSH,Bjerringbro-Silkeborg,1158.1,5,ST,False,NORMAL,7.8
-August FRIDÉN,BSH,Bjerringbro-Silkeborg,1158.0,3,VF,False,NORMAL,1.4
-Kasper LARSEN,BSH,Bjerringbro-Silkeborg,1145.2,2,MV,True,NORMAL,6.0
-Magnus RAHBEK,BSH,Bjerringbro-Silkeborg,1144.7,27,PL,False,NORMAL,62.4
-Lasse SUNDE LID,BSH,Bjerringbro-Silkeborg,1041.3,16,HB,False,NORMAL,26.3
-Gudmundur Bragi ASTPARSSON,BSH,Bjerringbro-Silkeborg,1028.9,11,PL,False,NORMAL,13.9
+PETER BALLING,BSH,Bjerringbro-Silkeborg,1792.2,31,MV,True,LEGENDARY,393.0
+NIKOLAJ LÆSØ,BSH,Bjerringbro-Silkeborg,1662.4,32,HF,False,LEGENDARY,261.9
+MORTEN OLSEN,BSH,Bjerringbro-Silkeborg,1559.4,24,HF,False,LEGENDARY,160.8
+PATRICK BOLDSEN,BSH,Bjerringbro-Silkeborg,1492.9,32,HF,False,LEGENDARY,160.9
+RASMUS LAUGE,BSH,Bjerringbro-Silkeborg,1442.1999999999998,15,HF,False,LEGENDARY,161.6
+ALEXANDER LYNGGAARD,BSH,Bjerringbro-Silkeborg,1386.1,28,HF,False,ELITE,69.4
+ANDERS ZACHARIASSEN,BSH,Bjerringbro-Silkeborg,1354.1,29,HF,False,ELITE,120.7
+MADS LENBROCH,BSH,Bjerringbro-Silkeborg,1321.2,30,HF,False,ELITE,124.8
+AUGUST FRIDÉN,BSH,Bjerringbro-Silkeborg,1223.1,8,HF,False,NORMAL,13.2
+BENJAMIN JAKOBSEN,BSH,Bjerringbro-Silkeborg,1200.2,13,HF,False,NORMAL,15.4
+MAGNUS RAHBEK,BSH,Bjerringbro-Silkeborg,1166.4,27,PL,False,NORMAL,99.8
+KASPER LARSEN,BSH,Bjerringbro-Silkeborg,1165.6,25,MV,True,NORMAL,6.0
+RENÉ TOFT HANSEN,BSH,Bjerringbro-Silkeborg,1159.5,23,HF,False,NORMAL,-6.0
+MIKKEL LØVKVIST,BSH,Bjerringbro-Silkeborg,1143.3,27,MV,True,NORMAL,34.5
+GUDMUNDUR BRAGI ASTPARSSON,BSH,Bjerringbro-Silkeborg,1138.9,30,HF,False,NORMAL,123.9
+LASSE SUNDE LID,BSH,Bjerringbro-Silkeborg,1081.6,18,HF,False,NORMAL,66.6

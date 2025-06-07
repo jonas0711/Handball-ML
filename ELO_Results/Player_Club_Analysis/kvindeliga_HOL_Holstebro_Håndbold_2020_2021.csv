@@ -1,16 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Lærke CHRISTENSEN,HOL,Holstebro Håndbold,1272.8,29,HB,False,ELITE,106.8
-Andrea West BENDTSEN,HOL,Holstebro Håndbold,1197.5,29,VB,False,NORMAL,115.9
-Emilie Bastrup BERTELSEN,HOL,Holstebro Håndbold,1151.7,19,VF,False,NORMAL,36.2
-Sofie Brems ØSTERGAARD,HOL,Holstebro Håndbold,1147.6,29,HF,False,NORMAL,56.6
-Josefine DRAGENBERG,HOL,Holstebro Håndbold,1143.4,28,ST,False,NORMAL,85.0
-Camilla PYTLICK,HOL,Holstebro Håndbold,1136.0,14,PL,False,NORMAL,33.2
-Jenny Helen CARLSON,HOL,Holstebro Håndbold,1133.6,27,PL,False,NORMAL,118.6
-Julie HOLM,HOL,Holstebro Håndbold,1120.3000000000002,24,HB,False,NORMAL,70.4
-Maja Edling LAURITSEN,HOL,Holstebro Håndbold,1106.1999999999998,22,VF,False,NORMAL,49.6
-Caroline SVARRE,HOL,Holstebro Håndbold,1092.1,21,ST,False,NORMAL,37.7
-Sara KECECI,HOL,Holstebro Håndbold,1061.8,1,MV,True,NORMAL,-0.5
-Ditte VIND,HOL,Holstebro Håndbold,1059.4,2,MV,True,NORMAL,-1.0
-Isabella Fazekas JACOBSEN,HOL,Holstebro Håndbold,1041.1,17,ST,False,NORMAL,26.1
-Pia Tomine GUNDERSEN,HOL,Holstebro Håndbold,1025.7,5,HF,False,NORMAL,10.7
-Tea THOMASSEN,HOL,Holstebro Håndbold,1019.2,4,PL,False,NORMAL,4.2
+LÆRKE CHRISTENSEN,HOL,Holstebro Håndbold,1352.0,29,HF,False,ELITE,136.2
+ANDREA WEST BENDTSEN,HOL,Holstebro Håndbold,1319.0,30,HF,False,ELITE,199.7
+JENNY HELEN CARLSON,HOL,Holstebro Håndbold,1239.4,27,HF,False,NORMAL,224.4
+EMILIE BASTRUP BERTELSEN,HOL,Holstebro Håndbold,1206.6,23,HF,False,NORMAL,55.0
+SOFIE BREMS ØSTERGAARD,HOL,Holstebro Håndbold,1183.5,30,HF,False,NORMAL,75.7
+CAMILLA PYTLICK,HOL,Holstebro Håndbold,1174.1,16,HF,False,NORMAL,38.4
+JOSEFINE DRAGENBERG,HOL,Holstebro Håndbold,1155.3,28,ST,False,NORMAL,96.5
+JULIE HOLM,HOL,Holstebro Håndbold,1144.1,26,HF,False,NORMAL,90.2
+MAJA EDLING LAURITSEN,HOL,Holstebro Håndbold,1129.8,23,VF,False,NORMAL,58.7
+CAROLINE SVARRE,HOL,Holstebro Håndbold,1091.9,26,HF,False,NORMAL,33.9
+HELENA HYLDAHL,HOL,Holstebro Håndbold,1071.8,12,PL,True,NORMAL,0.0
+DITTE VIND,HOL,Holstebro Håndbold,1050.4,30,MV,True,NORMAL,-1.0
+SARA KECECI,HOL,Holstebro Håndbold,1047.4,8,MV,True,NORMAL,-0.5
+ISABELLA FAZEKAS JACOBSEN,HOL,Holstebro Håndbold,1044.5,26,HF,False,NORMAL,29.5
+PIA TOMINE GUNDERSEN,HOL,Holstebro Håndbold,1028.7,7,HF,False,NORMAL,13.7
+TEA THOMASSEN,HOL,Holstebro Håndbold,1022.0,7,HF,False,NORMAL,7.0

@@ -1,17 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Erik Thorsteinsen TOFT,MTH,Mors-Thy Håndbold,1383.6,22,VB,False,ELITE,87.9
-Marcus DAHLIN,MTH,Mors-Thy Håndbold,1259.4,17,HB,False,ELITE,40.7
-Jonas Gade NIELSEN,MTH,Mors-Thy Håndbold,1256.5,22,HB,False,ELITE,69.5
-Lasse PEDERSEN,MTH,Mors-Thy Håndbold,1205.5,24,HF,False,NORMAL,62.3
-Emil BERGHOLT,MTH,Mors-Thy Håndbold,1155.1,23,ST,False,NORMAL,74.6
-Stefan NIELSEN,MTH,Mors-Thy Håndbold,1145.3,4,VB,False,NORMAL,0.8
-Jens Dolberg PLOUGSTRUP,MTH,Mors-Thy Håndbold,1124.9,23,PL,False,NORMAL,61.4
-Søren NØRGAARD,MTH,Mors-Thy Håndbold,1116.4,8,VF,False,NORMAL,15.7
-Frederik TILSTED,MTH,Mors-Thy Håndbold,1115.8,22,PL,False,NORMAL,55.0
-Allan Toft HANSEN,MTH,Mors-Thy Håndbold,1108.1,14,ST,False,NORMAL,21.6
-Mads Hoxer HANGAARD,MTH,Mors-Thy Håndbold,1107.7,17,HB,False,NORMAL,38.2
-Tobias RASMUSSEN,MTH,Mors-Thy Håndbold,1075.9,8,PL,False,NORMAL,9.1
-Kasper LINDGREN,MTH,Mors-Thy Håndbold,1067.4,4,ST,False,NORMAL,3.5
-Jacob HESSELLUND,MTH,Mors-Thy Håndbold,1065.9,19,VF,False,NORMAL,50.9
-Søren PEDERSEN,MTH,Mors-Thy Håndbold,1056.9,7,MV,True,NORMAL,-2.8
-Nicklas Graugaard NIELSEN,MTH,Mors-Thy Håndbold,1026.0,2,MV,True,NORMAL,11.0
+ERIK THORSTEINSEN TOFT,MTH,Mors-Thy Håndbold,1431.9,22,HF,False,LEGENDARY,114.6
+MARCUS DAHLIN,MTH,Mors-Thy Håndbold,1372.5,19,HF,False,ELITE,66.0
+JONAS GADE NIELSEN,MTH,Mors-Thy Håndbold,1354.3,22,HF,False,ELITE,92.7
+LASSE PEDERSEN,MTH,Mors-Thy Håndbold,1268.6,24,HF,False,ELITE,79.5
+STEFAN NIELSEN,MTH,Mors-Thy Håndbold,1203.0,6,HF,False,NORMAL,4.2
+EMIL BERGHOLT,MTH,Mors-Thy Håndbold,1200.7,24,ST,False,NORMAL,102.7
+SØREN NØRGAARD,MTH,Mors-Thy Håndbold,1199.9,8,HF,False,NORMAL,35.7
+FREDERIK TILSTED,MTH,Mors-Thy Håndbold,1193.6999999999998,24,HF,False,NORMAL,104.1
+JENS DOLBERG PLOUGSTRUP,MTH,Mors-Thy Håndbold,1163.8,23,PL,False,NORMAL,87.0
+MADS HOXER HANGAARD,MTH,Mors-Thy Håndbold,1134.6,17,HF,False,NORMAL,55.3
+ALLAN TOFT HANSEN,MTH,Mors-Thy Håndbold,1119.6,22,HF,False,NORMAL,22.3
+JACOB HESSELLUND,MTH,Mors-Thy Håndbold,1116.9,21,HF,False,NORMAL,101.9
+TOBIAS RASMUSSEN,MTH,Mors-Thy Håndbold,1092.3,10,HF,False,NORMAL,14.8
+NICKLAS GRAUGAARD NIELSEN,MTH,Mors-Thy Håndbold,1090.5,24,MV,True,NORMAL,11.0
+SØREN PEDERSEN,MTH,Mors-Thy Håndbold,1061.8,23,MV,True,NORMAL,-2.8
+SØREN REINHOLDT SØNDERGAARD HANSEN,MTH,Mors-Thy Håndbold,1050.3,8,HF,False,NORMAL,-1.9
+KASPER LINDGREN,MTH,Mors-Thy Håndbold,1048.9,18,HF,False,NORMAL,1.4

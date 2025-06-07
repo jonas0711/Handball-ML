@@ -1,13 +1,13 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Louise BURGAARD,IKA,Ikast Håndbold,1052.1,7,HB,False,NORMAL,37.1
-Veronica KRISTIANSEN,IKA,Ikast Håndbold,1044.3,7,PL,False,NORMAL,29.3
-Annika JAKOBSEN,IKA,Ikast Håndbold,1035.1,7,HF,False,NORMAL,20.1
-Emma FRIIS,IKA,Ikast Håndbold,1034.1,6,VF,False,NORMAL,19.1
-Helene Gigstad FAUSKE,IKA,Ikast Håndbold,1027.5,6,PL,False,NORMAL,12.5
-Judith Sans SERRA,IKA,Ikast Håndbold,1026.8,5,ST,False,NORMAL,11.8
-Louise ELLEBÆK,IKA,Ikast Håndbold,1022.1,6,PL,False,NORMAL,7.1
-Anne Mette PEDERSEN,IKA,Ikast Håndbold,1021.6,6,HF,False,NORMAL,6.6
-Mathilde BJERREGAARD,IKA,Ikast Håndbold,1018.8,3,ST,False,NORMAL,3.8
-Mie AUGUSTESEN,IKA,Ikast Håndbold,1017.3,2,VF,False,NORMAL,2.3
-Helene KINDBERG,IKA,Ikast Håndbold,1015.7,1,HB,False,NORMAL,0.7
-Sabine ENGLERT,IKA,Ikast Håndbold,1014.0,1,MV,True,NORMAL,-1.0
+VERONICA KRISTIANSEN,IKA,Ikast Håndbold,1085.9,7,HF,False,NORMAL,70.9
+LOUISE BURGAARD,IKA,Ikast Håndbold,1072.7,7,HF,False,NORMAL,57.7
+ANNIKA JAKOBSEN,IKA,Ikast Håndbold,1037.6,7,HF,False,NORMAL,22.6
+EMMA FRIIS,IKA,Ikast Håndbold,1036.8,7,VF,False,NORMAL,21.8
+HELENE GIGSTAD FAUSKE,IKA,Ikast Håndbold,1032.7,6,HF,False,NORMAL,17.7
+JUDITH SANS SERRA,IKA,Ikast Håndbold,1027.6,6,HF,False,NORMAL,12.6
+ANNE METTE PEDERSEN,IKA,Ikast Håndbold,1025.1,6,HF,False,NORMAL,10.1
+LOUISE ELLEBÆK,IKA,Ikast Håndbold,1024.1,6,PL,False,NORMAL,9.1
+HELENE KINDBERG,IKA,Ikast Håndbold,1018.9,5,HF,False,NORMAL,3.9
+MIE AUGUSTESEN,IKA,Ikast Håndbold,1018.7,5,HF,False,NORMAL,3.7
+MATHILDE BJERREGAARD,IKA,Ikast Håndbold,1015.6,6,HF,False,NORMAL,0.6
+SABINE ENGLERT,IKA,Ikast Håndbold,1014.0,7,MV,True,NORMAL,-1.0

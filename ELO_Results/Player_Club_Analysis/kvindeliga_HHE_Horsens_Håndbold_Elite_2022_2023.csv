@@ -1,21 +1,23 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Kristin THORLEIFSDÓTTIR,HHE,Horsens Håndbold Elite,1321.9,28,PL,False,ELITE,112.7
-Laura Damgaard LUND,HHE,Horsens Håndbold Elite,1317.5,10,PL,False,ELITE,62.1
-Maria Mose VESTERGAARD,HHE,Horsens Håndbold Elite,1299.2,25,VF,False,ELITE,75.0
-Annette JENSEN,HHE,Horsens Håndbold Elite,1281.3000000000002,21,PL,False,ELITE,62.9
-Frederikke GULMARK,HHE,Horsens Håndbold Elite,1233.1,8,PL,False,NORMAL,16.2
-Laura DAMGAARD,HHE,Horsens Håndbold Elite,1182.1,11,PL,False,NORMAL,37.5
-Stine Bodholt NIELSEN,HHE,Horsens Håndbold Elite,1170.6,18,ST,False,NORMAL,31.8
-Nicoline Nørgaard OLSEN,HHE,Horsens Håndbold Elite,1151.7,13,HB,False,NORMAL,15.2
-Nina DANO,HHE,Horsens Håndbold Elite,1137.5,7,HB,False,NORMAL,17.2
-Maria Krogh HOLM,HHE,Horsens Håndbold Elite,1121.3,11,PL,False,NORMAL,25.1
-Maria HOLM,HHE,Horsens Håndbold Elite,1113.9,15,HB,False,NORMAL,50.3
-Amalie Grøn HANSEN,HHE,Horsens Håndbold Elite,1104.5,4,VF,False,NORMAL,4.7
-Anne-Sofie FILTENBORG,HHE,Horsens Håndbold Elite,1087.7,14,HF,False,NORMAL,20.9
-Emily Stang SANDO,HHE,Horsens Håndbold Elite,1087.2,9,MV,True,NORMAL,3.0
-Claudia ROMPEN,HHE,Horsens Håndbold Elite,1075.6,4,MV,True,NORMAL,3.0
-Anne-Sofie Møldrup Filtenborg NIELSEN,HHE,Horsens Håndbold Elite,1070.2,8,HF,False,NORMAL,9.4
-Tamara HAGGERTY,HHE,Horsens Håndbold Elite,1055.8,23,ST,False,NORMAL,40.8
-Hege LØKEN,HHE,Horsens Håndbold Elite,1049.9,13,HF,False,NORMAL,34.9
-Matilde VESTERGAARD,HHE,Horsens Håndbold Elite,1026.6,7,VF,False,NORMAL,11.6
-Matilde Marie VESTERGAARD,HHE,Horsens Håndbold Elite,1019.6,5,VF,False,NORMAL,4.6
+KRISTIN THORLEIFSDÓTTIR,HHE,Horsens Håndbold Elite,1511.9,28,HF,False,LEGENDARY,204.0
+MARIA MOSE VESTERGAARD,HHE,Horsens Håndbold Elite,1435.8,26,HF,False,LEGENDARY,131.1
+LAURA DAMGAARD LUND,HHE,Horsens Håndbold Elite,1421.5,10,HF,False,LEGENDARY,81.7
+ANNETTE JENSEN,HHE,Horsens Håndbold Elite,1402.4,24,HF,False,LEGENDARY,109.3
+FREDERIKKE GULMARK,HHE,Horsens Håndbold Elite,1363.6,9,HF,False,ELITE,30.8
+LAURA DAMGAARD,HHE,Horsens Håndbold Elite,1276.4,11,HF,False,ELITE,71.7
+NICOLINE NØRGAARD OLSEN,HHE,Horsens Håndbold Elite,1274.8,17,HF,False,ELITE,30.5
+NINA DANO,HHE,Horsens Håndbold Elite,1233.4,7,HF,False,NORMAL,43.0
+STINE BODHOLT NIELSEN,HHE,Horsens Håndbold Elite,1220.8,23,HF,False,NORMAL,48.7
+MARIA KROGH HOLM,HHE,Horsens Håndbold Elite,1218.2,13,HF,False,NORMAL,58.0
+MARIA HOLM,HHE,Horsens Håndbold Elite,1174.3000000000002,15,HF,False,NORMAL,99.4
+AMALIE GRØN HANSEN,HHE,Horsens Håndbold Elite,1151.6999999999998,8,HF,False,NORMAL,8.1
+ANNE-SOFIE FILTENBORG,HHE,Horsens Håndbold Elite,1094.1,15,HF,False,NORMAL,16.7
+ANNE-SOFIE MØLDRUP FILTENBORG NIELSEN,HHE,Horsens Håndbold Elite,1079.3,11,HF,False,NORMAL,11.0
+CLAUDIA ROMPEN,HHE,Horsens Håndbold Elite,1078.7,23,MV,True,NORMAL,3.0
+EMILY STANG SANDO,HHE,Horsens Håndbold Elite,1065.4,25,MV,True,NORMAL,3.0
+MATHILDE BISGAARD JOHANSEN,HHE,Horsens Håndbold Elite,1064.4,5,PL,True,NORMAL,0.0
+JAN LESLIE,HHE,Horsens Håndbold Elite,1063.2,9,HF,False,NORMAL,-2.8
+HEGE LØKEN,HHE,Horsens Håndbold Elite,1054.9,13,HF,False,NORMAL,39.9
+TAMARA HAGGERTY,HHE,Horsens Håndbold Elite,1051.2,26,HF,False,NORMAL,36.2
+MATILDE VESTERGAARD,HHE,Horsens Håndbold Elite,1034.4,8,VF,False,NORMAL,19.4
+MATILDE MARIE VESTERGAARD,HHE,Horsens Håndbold Elite,1021.6,5,VF,False,NORMAL,6.6

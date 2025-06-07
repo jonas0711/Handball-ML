@@ -1,18 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Anders Kragh MARTINUSEN,FHK,Fredericia Håndbold Klub,1427.5,31,PL,False,LEGENDARY,112.6
-Cornelius KRAGH,FHK,Fredericia Håndbold Klub,1414.6,33,PL,False,LEGENDARY,148.4
-Kristian STOKLUND,FHK,Fredericia Håndbold Klub,1332.8000000000002,33,PL,False,ELITE,198.4
-Martin BISGAARD,FHK,Fredericia Håndbold Klub,1264.0,25,VF,False,ELITE,101.6
-Nicolaj NØRAGER,FHK,Fredericia Håndbold Klub,1259.7,32,PL,False,ELITE,103.7
-Jakob FREDERIKSEN,FHK,Fredericia Håndbold Klub,1206.7,30,HF,False,NORMAL,107.5
-Rasmus Meyer EJLERSEN,FHK,Fredericia Håndbold Klub,1203.7,32,ST,False,NORMAL,80.0
-Nikolaj NIELSEN,FHK,Fredericia Håndbold Klub,1190.9,31,ST,False,NORMAL,76.5
-Mads Emil Bayer LENBROCH,FHK,Fredericia Håndbold Klub,1160.0,18,VF,False,NORMAL,44.0
-Mads CHRISTIANSEN,FHK,Fredericia Håndbold Klub,1137.4,26,HB,False,NORMAL,47.4
-Emil TELLERUP,FHK,Fredericia Håndbold Klub,1131.1999999999998,5,MV,True,NORMAL,14.1
-Kasper YOUNG,FHK,Fredericia Håndbold Klub,1130.2,24,HF,False,NORMAL,43.0
-Rasmus BOYSEN,FHK,Fredericia Håndbold Klub,1097.9,1,PL,False,NORMAL,-0.0
-Jens FREDSGAARD,FHK,Fredericia Håndbold Klub,1095.3000000000002,2,MV,True,NORMAL,-1.6
-Lukas KARLSKOV,FHK,Fredericia Håndbold Klub,1087.5,4,VF,False,NORMAL,5.5
-Lasse BALSTAD,FHK,Fredericia Håndbold Klub,1019.5,4,PL,False,NORMAL,4.5
-Nikolaj Juhl PETERSEN,FHK,Fredericia Håndbold Klub,1015.5,4,PL,False,NORMAL,0.5
+ANDERS KRAGH MARTINUSEN,FHK,Fredericia Håndbold Klub,1675.0,31,HF,False,LEGENDARY,277.3
+KRISTIAN STOKLUND,FHK,Fredericia Håndbold Klub,1638.3000000000002,33,HF,False,LEGENDARY,311.4
+CORNELIUS KRAGH,FHK,Fredericia Håndbold Klub,1574.9,34,HF,False,LEGENDARY,229.0
+NICOLAJ NØRAGER,FHK,Fredericia Håndbold Klub,1514.6,34,HF,False,LEGENDARY,212.5
+MARTIN BISGAARD,FHK,Fredericia Håndbold Klub,1464.3,27,HF,False,LEGENDARY,162.2
+JAKOB FREDERIKSEN,FHK,Fredericia Håndbold Klub,1337.7,32,HF,False,ELITE,150.0
+RASMUS MEYER EJLERSEN,FHK,Fredericia Håndbold Klub,1319.7,34,ST,False,ELITE,83.8
+MADS CHRISTIANSEN,FHK,Fredericia Håndbold Klub,1249.2,30,HF,False,NORMAL,80.5
+NIKOLAJ NIELSEN,FHK,Fredericia Håndbold Klub,1246.0,31,ST,False,NORMAL,78.5
+MADS EMIL BAYER LENBROCH,FHK,Fredericia Håndbold Klub,1218.9,21,VF,False,NORMAL,56.4
+KASPER YOUNG,FHK,Fredericia Håndbold Klub,1216.8,26,HF,False,NORMAL,74.2
+EMIL TELLERUP,FHK,Fredericia Håndbold Klub,1121.6999999999998,34,MV,True,NORMAL,14.1
+RASMUS BOYSEN,FHK,Fredericia Håndbold Klub,1107.0,5,HF,False,NORMAL,-5.3
+LUKAS KARLSKOV,FHK,Fredericia Håndbold Klub,1105.3000000000002,5,VF,False,NORMAL,5.4
+JESPER HOUMARK,FHK,Fredericia Håndbold Klub,1075.7,12,HF,False,NORMAL,-5.1
+JENS FREDSGAARD,FHK,Fredericia Håndbold Klub,1075.6,32,MV,True,NORMAL,-1.6
+LASSE BALSTAD,FHK,Fredericia Håndbold Klub,1030.6,28,HF,False,NORMAL,15.6
+NIKOLAJ JUHL PETERSEN,FHK,Fredericia Håndbold Klub,1016.4,5,HF,False,NORMAL,1.4

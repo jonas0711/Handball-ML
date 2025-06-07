@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Lærke Nolsøe PEDERSEN,NFH,Nykøbing F. Håndbold,1248.8,23,VF,False,NORMAL,94.5
-Dione HOUSHEER,NFH,Nykøbing F. Håndbold,1201.6,23,HB,False,NORMAL,91.8
-Kristina KRISTIANSEN,NFH,Nykøbing F. Håndbold,1198.2,22,PL,False,NORMAL,77.7
-Anna LAGERQUIST,NFH,Nykøbing F. Håndbold,1168.2,21,ST,False,NORMAL,51.3
-Johanna WESTBERG,NFH,Nykøbing F. Håndbold,1161.8,15,PL,False,NORMAL,51.2
-Angelica WALLÉN,NFH,Nykøbing F. Håndbold,1134.6,13,ST,False,NORMAL,32.9
-Sofie Amalie OLSEN,NFH,Nykøbing F. Håndbold,1121.1999999999998,20,HF,False,NORMAL,38.1
-Ayaka IKEHARA,NFH,Nykøbing F. Håndbold,1099.5,10,HF,False,NORMAL,21.9
-Pernille JOHANNSEN,NFH,Nykøbing F. Håndbold,1068.5,11,HF,False,NORMAL,25.3
-Isabella JACOBSEN,NFH,Nykøbing F. Håndbold,1050.4,13,ST,False,NORMAL,16.9
-Amalie WULFF,NFH,Nykøbing F. Håndbold,1046.6,18,PL,False,NORMAL,31.6
-Natasja CLAUSEN,NFH,Nykøbing F. Håndbold,1045.1999999999998,1,MV,True,NORMAL,-0.4
-Cecilie GREVE,NFH,Nykøbing F. Håndbold,1040.2,4,MV,True,NORMAL,-1.5
-Matilde Kondrup NIELSEN,NFH,Nykøbing F. Håndbold,1037.9,3,VF,False,NORMAL,3.1
-Matilde Dahl SCHÆFER,NFH,Nykøbing F. Håndbold,1019.5,3,VB,False,NORMAL,4.5
-Lykke Frank HANSEN,NFH,Nykøbing F. Håndbold,1018.6,5,PL,False,NORMAL,3.6
+KRISTINA KRISTIANSEN,NFH,Nykøbing F. Håndbold,1427.3,23,HF,False,LEGENDARY,191.5
+LÆRKE NOLSØE PEDERSEN,NFH,Nykøbing F. Håndbold,1376.9,23,VF,False,ELITE,136.1
+DIONE HOUSHEER,NFH,Nykøbing F. Håndbold,1367.7,23,HF,False,ELITE,198.0
+ANGELICA WALLÉN,NFH,Nykøbing F. Håndbold,1275.5,19,HF,False,ELITE,69.5
+JOHANNA WESTBERG,NFH,Nykøbing F. Håndbold,1248.2,15,HF,False,NORMAL,87.8
+ANNA LAGERQUIST,NFH,Nykøbing F. Håndbold,1239.5,23,HF,False,NORMAL,81.1
+SOFIE AMALIE OLSEN,NFH,Nykøbing F. Håndbold,1141.0,21,HF,False,NORMAL,43.6
+AYAKA IKEHARA,NFH,Nykøbing F. Håndbold,1136.3,10,HF,False,NORMAL,24.5
+PERNILLE JOHANNSEN,NFH,Nykøbing F. Håndbold,1094.1,13,HF,False,NORMAL,36.2
+AMALIE WULFF,NFH,Nykøbing F. Håndbold,1073.4,23,HF,False,NORMAL,58.4
+MATILDE KONDRUP NIELSEN,NFH,Nykøbing F. Håndbold,1057.8000000000002,5,HF,False,NORMAL,4.4
+ISABELLA JACOBSEN,NFH,Nykøbing F. Håndbold,1041.4,20,HF,False,NORMAL,16.2
+CECILIE GREVE,NFH,Nykøbing F. Håndbold,1037.3,23,MV,True,NORMAL,-1.5
+NATASJA CLAUSEN,NFH,Nykøbing F. Håndbold,1032.3,18,MV,True,NORMAL,-0.4
+MATILDE DAHL SCHÆFER,NFH,Nykøbing F. Håndbold,1029.8,7,HF,False,NORMAL,14.8
+LYKKE FRANK HANSEN,NFH,Nykøbing F. Håndbold,1019.8,6,HF,False,NORMAL,4.8

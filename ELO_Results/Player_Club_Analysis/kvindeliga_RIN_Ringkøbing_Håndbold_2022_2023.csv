@@ -1,14 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Julie HOLM,RIN,Ringkøbing Håndbold,1316.7,25,HB,False,ELITE,98.7
-Jane MEJLVANG,RIN,Ringkøbing Håndbold,1260.2,26,PL,False,ELITE,101.4
-Alberte SIMONSEN,RIN,Ringkøbing Håndbold,1224.6,22,ST,False,NORMAL,84.2
-Sofie Brems ØSTERGAARD,RIN,Ringkøbing Håndbold,1215.8000000000002,7,HF,False,NORMAL,18.9
-Marigona HAJDARI,RIN,Ringkøbing Håndbold,1209.5,26,PL,False,NORMAL,84.5
-Emma LAURSEN,RIN,Ringkøbing Håndbold,1209.1,26,HF,False,NORMAL,97.3
-Caroline SVARRE,RIN,Ringkøbing Håndbold,1119.8,5,ST,False,NORMAL,5.2
-Rikke JOCHUMSEN,RIN,Ringkøbing Håndbold,1112.4,25,VF,False,NORMAL,56.6
-Leonora DEMAJ,RIN,Ringkøbing Håndbold,1104.9,25,PL,False,NORMAL,65.8
-Nanna HINNERFELDT,RIN,Ringkøbing Håndbold,1096.5,17,ST,False,NORMAL,38.6
-Elin THORSTEINSDOTTIR,RIN,Ringkøbing Håndbold,1072.2,4,MV,True,NORMAL,-1.2
-Marit HUIBERTS,RIN,Ringkøbing Håndbold,1071.4,3,MV,True,NORMAL,-1.7
-Rikke JENSEN,RIN,Ringkøbing Håndbold,1067.6999999999998,6,PL,False,NORMAL,9.6
+JANE MEJLVANG,RIN,Ringkøbing Håndbold,1603.3,26,HF,False,LEGENDARY,315.7
+JULIE HOLM,RIN,Ringkøbing Håndbold,1490.4,25,HF,False,LEGENDARY,149.3
+ALBERTE SIMONSEN,RIN,Ringkøbing Håndbold,1371.0,22,HF,False,ELITE,165.7
+MARIGONA HAJDARI,RIN,Ringkøbing Håndbold,1358.0,26,HF,False,ELITE,144.3
+EMMA LAURSEN,RIN,Ringkøbing Håndbold,1262.1,27,HF,False,ELITE,110.5
+SOFIE BREMS ØSTERGAARD,RIN,Ringkøbing Håndbold,1247.2,9,HF,False,NORMAL,21.3
+RIKKE JOCHUMSEN,RIN,Ringkøbing Håndbold,1203.3,27,HF,False,NORMAL,115.2
+LEONORA DEMAJ,RIN,Ringkøbing Håndbold,1187.5,25,HF,False,NORMAL,122.8
+CAROLINE SVARRE,RIN,Ringkøbing Håndbold,1127.6999999999998,17,HF,False,NORMAL,9.1
+NANNA HINNERFELDT,RIN,Ringkøbing Håndbold,1120.5,25,HF,False,NORMAL,54.5
+RIKKE JENSEN,RIN,Ringkøbing Håndbold,1071.0,21,HF,False,NORMAL,17.7
+ELIN THORSTEINSDOTTIR,RIN,Ringkøbing Håndbold,1068.7,18,MV,True,NORMAL,-1.2
+MARIT HUIBERTS,RIN,Ringkøbing Håndbold,1042.9,22,MV,True,NORMAL,-1.7
+LINNEA BJÖRKMAN,RIN,Ringkøbing Håndbold,1015.0,9,PL,True,NORMAL,0.0

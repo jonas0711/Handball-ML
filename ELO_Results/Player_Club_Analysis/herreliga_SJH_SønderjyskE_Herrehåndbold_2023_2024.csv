@@ -1,17 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Andreas LANG,SJH,SønderjyskE Herrehåndbold,1429.9,28,PL,False,LEGENDARY,139.3
-Kristian STRANDEN,SJH,SønderjyskE Herrehåndbold,1368.5,24,VB,False,ELITE,45.4
-Morten BJØRNSHAUGE,SJH,SønderjyskE Herrehåndbold,1357.6,28,ST,False,ELITE,96.8
-Nicolaj JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1272.5,30,PL,False,ELITE,168.2
-Tobias MØLLER,SJH,SønderjyskE Herrehåndbold,1252.1,11,VF,False,ELITE,13.3
-Sebastian AUGUSTINUSSEN,SJH,SønderjyskE Herrehåndbold,1245.3,23,HF,False,NORMAL,56.6
-Alec SMIT,SJH,SønderjyskE Herrehåndbold,1203.5,19,HF,False,NORMAL,54.6
-August WIGER,SJH,SønderjyskE Herrehåndbold,1199.0,8,PL,False,NORMAL,21.7
-Kasper LARSEN,SJH,SønderjyskE Herrehåndbold,1159.4,5,MV,True,NORMAL,38.6
-Jacob BAGERSTED,SJH,SønderjyskE Herrehåndbold,1142.6,26,ST,False,NORMAL,43.6
-Nikolaj SVALASTOG,SJH,SønderjyskE Herrehåndbold,1140.9,24,VF,False,NORMAL,49.8
-Tobias OLSEN,SJH,SønderjyskE Herrehåndbold,1114.1,5,PL,False,NORMAL,2.5
-Pelle SCHILLING,SJH,SønderjyskE Herrehåndbold,1105.5,4,VF,False,NORMAL,8.0
-Oliver EGGERT,SJH,SønderjyskE Herrehåndbold,1105.0,28,PL,False,NORMAL,90.0
-Magnus HOLPERT,SJH,SønderjyskE Herrehåndbold,1024.5,9,PL,False,NORMAL,9.5
-Julius STEN,SJH,SønderjyskE Herrehåndbold,1023.9,6,MV,True,NORMAL,8.9
+ANDREAS LANG,SJH,SønderjyskE Herrehåndbold,1678.1,28,HF,False,LEGENDARY,279.7
+NICOLAJ JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1536.0,30,HF,False,LEGENDARY,403.7
+TOBIAS MØLLER,SJH,SønderjyskE Herrehåndbold,1434.8,18,HF,False,LEGENDARY,54.0
+KRISTIAN STRANDEN,SJH,SønderjyskE Herrehåndbold,1433.0,28,HF,False,LEGENDARY,90.5
+AUGUST WIGER,SJH,SønderjyskE Herrehåndbold,1370.9,9,HF,False,ELITE,53.6
+MORTEN BJØRNSHAUGE,SJH,SønderjyskE Herrehåndbold,1341.3,30,ST,False,ELITE,103.0
+SEBASTIAN AUGUSTINUSSEN,SJH,SønderjyskE Herrehåndbold,1271.0,27,HF,False,ELITE,70.0
+ALEC SMIT,SJH,SønderjyskE Herrehåndbold,1262.6,23,HF,False,ELITE,80.7
+NIKOLAJ SVALASTOG,SJH,SønderjyskE Herrehåndbold,1228.3,28,HF,False,NORMAL,70.3
+OLIVER EGGERT,SJH,SønderjyskE Herrehåndbold,1182.6,30,HF,False,NORMAL,167.6
+TOBIAS OLSEN,SJH,SønderjyskE Herrehåndbold,1179.1,13,HF,False,NORMAL,16.6
+PELLE SCHILLING,SJH,SønderjyskE Herrehåndbold,1178.0,5,VF,False,NORMAL,10.8
+KASPER LARSEN,SJH,SønderjyskE Herrehåndbold,1164.5,29,MV,True,NORMAL,38.6
+JACOB BAGERSTED,SJH,SønderjyskE Herrehåndbold,1150.4,28,HF,False,NORMAL,36.9
+RASMUS GLAD VANDBÆK,SJH,SønderjyskE Herrehåndbold,1126.0,9,HF,False,NORMAL,-2.0
+MAGNUS HOLPERT,SJH,SønderjyskE Herrehåndbold,1039.7,9,HF,False,NORMAL,24.7
+JULIUS STEN,SJH,SønderjyskE Herrehåndbold,1023.9,19,MV,True,NORMAL,8.9

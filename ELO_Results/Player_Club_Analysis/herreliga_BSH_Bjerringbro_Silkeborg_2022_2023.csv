@@ -1,16 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Nikolaj Øris NIELSEN,BSH,Bjerringbro-Silkeborg,1509.8,32,PL,False,LEGENDARY,140.8
-Mads Kjeldgaard ANDERSEN,BSH,Bjerringbro-Silkeborg,1477.6,32,PL,False,LEGENDARY,165.9
-Peter BALLING,BSH,Bjerringbro-Silkeborg,1426.2,32,PL,False,LEGENDARY,98.8
-Alexander LYNGGAARD,BSH,Bjerringbro-Silkeborg,1339.8,30,ST,False,ELITE,91.5
-Aksel HORGEN,BSH,Bjerringbro-Silkeborg,1274.6,21,HF,False,ELITE,44.6
-Henrik TILSTED,BSH,Bjerringbro-Silkeborg,1246.0,20,VF,False,NORMAL,47.9
-Ludvig HALLBÄCK,BSH,Bjerringbro-Silkeborg,1162.6,30,PL,False,NORMAL,82.5
-René Toft HANSEN,BSH,Bjerringbro-Silkeborg,1149.4,9,ST,False,NORMAL,6.4
-Patrick BOLDSEN,BSH,Bjerringbro-Silkeborg,1145.7,13,HF,False,NORMAL,31.5
-Emil JESSEN,BSH,Bjerringbro-Silkeborg,1142.2,15,PL,False,NORMAL,22.5
-Mikkel Møller LØVKVIST,BSH,Bjerringbro-Silkeborg,1141.9,7,MV,True,NORMAL,38.1
-Johan SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1141.0,8,MV,True,NORMAL,25.8
-August FRIDÉN,BSH,Bjerringbro-Silkeborg,1115.9,9,VF,False,NORMAL,23.8
-Thomas SOLSTAD,BSH,Bjerringbro-Silkeborg,1064.3,20,ST,False,NORMAL,49.3
-Thomas Alfred SOLSTAD,BSH,Bjerringbro-Silkeborg,1025.9,8,ST,False,NORMAL,10.9
+MADS KJELDGAARD ANDERSEN,BSH,Bjerringbro-Silkeborg,1749.1,32,HF,False,LEGENDARY,348.6
+NIKOLAJ ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1647.0,32,HF,False,LEGENDARY,249.4
+PETER BALLING,BSH,Bjerringbro-Silkeborg,1636.9,32,HF,False,LEGENDARY,237.7
+AKSEL HORGEN,BSH,Bjerringbro-Silkeborg,1447.3,29,HF,False,LEGENDARY,92.6
+HENRIK TILSTED,BSH,Bjerringbro-Silkeborg,1418.1,26,HF,False,LEGENDARY,97.8
+ALEXANDER LYNGGAARD,BSH,Bjerringbro-Silkeborg,1388.4,32,HF,False,ELITE,143.0
+LUDVIG HALLBÄCK,BSH,Bjerringbro-Silkeborg,1368.1,31,HF,False,ELITE,185.5
+PATRICK BOLDSEN,BSH,Bjerringbro-Silkeborg,1215.1,17,HF,False,NORMAL,59.7
+EMIL JESSEN,BSH,Bjerringbro-Silkeborg,1180.4,18,HF,False,NORMAL,36.0
+AUGUST FRIDÉN,BSH,Bjerringbro-Silkeborg,1153.4,16,HF,False,NORMAL,40.3
+RENÉ TOFT HANSEN,BSH,Bjerringbro-Silkeborg,1151.2,23,HF,False,NORMAL,5.9
+MIKKEL MØLLER LØVKVIST,BSH,Bjerringbro-Silkeborg,1128.5,29,MV,True,NORMAL,38.1
+JOHAN SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1128.2,28,MV,True,NORMAL,25.8
+PATRICK WESTERHOLM,BSH,Bjerringbro-Silkeborg,1123.7,5,HF,False,NORMAL,-1.1
+THOMAS SOLSTAD,BSH,Bjerringbro-Silkeborg,1111.8,20,HF,False,NORMAL,96.8
+THOMAS ALFRED SOLSTAD,BSH,Bjerringbro-Silkeborg,1037.6,11,HF,False,NORMAL,22.6

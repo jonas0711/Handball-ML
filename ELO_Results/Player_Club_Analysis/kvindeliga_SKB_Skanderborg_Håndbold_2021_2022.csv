@@ -1,19 +1,20 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Cecilie Mørch HANSEN,SKB,Skanderborg Håndbold,1264.8,29,PL,False,ELITE,88.6
-Henriette HANSEN,SKB,Skanderborg Håndbold,1218.6,26,HF,False,NORMAL,72.9
-Emilie Ytting PEDERSEN,SKB,Skanderborg Håndbold,1208.4,17,VF,False,NORMAL,43.4
-Emilie BECH,SKB,Skanderborg Håndbold,1139.4,19,HF,False,NORMAL,39.2
-Thea Hamann RASMUSSEN,SKB,Skanderborg Håndbold,1129.5,26,PL,False,NORMAL,90.8
-Katrine LARSON,SKB,Skanderborg Håndbold,1128.5,18,PL,False,NORMAL,31.8
-Mathilde STORGAARD,SKB,Skanderborg Håndbold,1111.1999999999998,19,ST,False,NORMAL,29.1
-Emma Gandrup ERNST,SKB,Skanderborg Håndbold,1094.2,11,PL,False,NORMAL,21.9
-Steinunn HANSDOTTIR,SKB,Skanderborg Håndbold,1093.8,18,VF,False,NORMAL,24.2
-Alberte EBLER,SKB,Skanderborg Håndbold,1091.3,32,HB,False,NORMAL,54.6
-Stine Baun ERIKSEN,SKB,Skanderborg Håndbold,1085.3,11,PL,False,NORMAL,6.6
-Stine Opstrup KRISTENSEN,SKB,Skanderborg Håndbold,1079.2,21,HF,False,NORMAL,64.2
-Claudia ROMPEN,SKB,Skanderborg Håndbold,1070.3,12,MV,True,NORMAL,4.7
-Anna VENG,SKB,Skanderborg Håndbold,1069.4,6,MV,True,NORMAL,0.3
-Caroline Amalie RASMUSSEN,SKB,Skanderborg Håndbold,1054.9,5,PL,False,NORMAL,1.4
-Sarah Vest KIRKELØKKE,SKB,Skanderborg Håndbold,1050.6,13,ST,False,NORMAL,16.2
-Lotte VESTERGAARD,SKB,Skanderborg Håndbold,1042.8000000000002,7,PL,False,NORMAL,5.4
-Emilie YTTING,SKB,Skanderborg Håndbold,1039.1,12,VF,False,NORMAL,24.1
+CECILIE MØRCH HANSEN,SKB,Skanderborg Håndbold,1445.7,29,HF,False,LEGENDARY,146.5
+EMILIE YTTING PEDERSEN,SKB,Skanderborg Håndbold,1334.9,17,HF,False,ELITE,91.0
+HENRIETTE HANSEN,SKB,Skanderborg Håndbold,1273.6,27,HF,False,ELITE,103.4
+KATRINE LARSON,SKB,Skanderborg Håndbold,1240.5,19,HF,False,NORMAL,50.3
+STINE BAUN ERIKSEN,SKB,Skanderborg Håndbold,1232.8000000000002,30,HF,False,NORMAL,70.4
+THEA HAMANN RASMUSSEN,SKB,Skanderborg Håndbold,1185.9,26,HF,False,NORMAL,148.1
+STINE OPSTRUP KRISTENSEN,SKB,Skanderborg Håndbold,1179.9,29,HF,False,NORMAL,164.9
+EMILIE BECH,SKB,Skanderborg Håndbold,1152.9,19,HF,False,NORMAL,42.8
+EMMA GANDRUP ERNST,SKB,Skanderborg Håndbold,1140.6,11,HF,False,NORMAL,31.6
+ALBERTE EBLER,SKB,Skanderborg Håndbold,1124.7,34,HF,False,NORMAL,78.2
+MATHILDE STORGAARD,SKB,Skanderborg Håndbold,1123.1999999999998,29,HF,False,NORMAL,30.6
+STEINUNN HANSDOTTIR,SKB,Skanderborg Håndbold,1113.8,20,VF,False,NORMAL,24.7
+EMILIE YTTING,SKB,Skanderborg Håndbold,1103.3,13,HF,False,NORMAL,88.3
+CLAUDIA ROMPEN,SKB,Skanderborg Håndbold,1065.5,24,MV,True,NORMAL,4.7
+LOTTE VESTERGAARD,SKB,Skanderborg Håndbold,1064.1,22,HF,False,NORMAL,20.6
+CAROLINE AMALIE RASMUSSEN,SKB,Skanderborg Håndbold,1058.8,7,HF,False,NORMAL,-1.8
+SARAH VEST KIRKELØKKE,SKB,Skanderborg Håndbold,1049.8,24,HF,False,NORMAL,9.1
+ANNA VENG,SKB,Skanderborg Håndbold,1044.5,27,MV,True,NORMAL,0.3
+RAKUL WARDUM,SKB,Skanderborg Håndbold,1015.0,5,PL,True,NORMAL,0.0

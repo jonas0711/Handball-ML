@@ -1,20 +1,20 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Clara BANG,SKB,Skanderborg Håndbold,1286.6,28,PL,False,ELITE,123.0
-Emilie BECH,SKB,Skanderborg Håndbold,1271.5,19,HF,False,ELITE,36.0
-Verona REXHEPI,SKB,Skanderborg Håndbold,1258.3,30,PL,False,ELITE,126.0
-Astrid LYNNERUP,SKB,Skanderborg Håndbold,1178.9,31,VF,False,NORMAL,112.7
-Boline LAURSEN,SKB,Skanderborg Håndbold,1168.8000000000002,31,ST,False,NORMAL,89.9
-Nicoline LAURITSEN,SKB,Skanderborg Håndbold,1146.3,26,ST,False,NORMAL,51.2
-Anne-Sofie FILTENBORG,SKB,Skanderborg Håndbold,1135.5,25,HF,False,NORMAL,31.1
-Christina HANSEN,SKB,Skanderborg Håndbold,1110.8000000000002,15,ST,False,NORMAL,17.4
-Josefine Kaae LARSEN,SKB,Skanderborg Håndbold,1105.8,12,VF,False,NORMAL,23.1
-Sarah ERNEBJERG,SKB,Skanderborg Håndbold,1104.7,13,MV,True,NORMAL,17.7
-Mia LAGUMDZIJA,SKB,Skanderborg Håndbold,1097.9,22,ST,False,NORMAL,82.9
-Isabella MATHORNE,SKB,Skanderborg Håndbold,1085.3000000000002,3,MV,True,NORMAL,3.4
-Stine ALMIND,SKB,Skanderborg Håndbold,1083.5,2,MV,True,NORMAL,2.4
-Filippa NEDOVIC,SKB,Skanderborg Håndbold,1052.8,18,ST,False,NORMAL,37.8
-Suna HANSEN,SKB,Skanderborg Håndbold,1039.5,15,PL,False,NORMAL,24.5
-Astrid LESLIE,SKB,Skanderborg Håndbold,1033.4,10,PL,False,NORMAL,18.4
-Annika Solberg DALSAGER,SKB,Skanderborg Håndbold,1032.8,16,PL,False,NORMAL,17.8
-Emilie Nørgaard BECH,SKB,Skanderborg Håndbold,1028.3,6,HF,False,NORMAL,13.3
-Emilie SCHLEICHER,SKB,Skanderborg Håndbold,1015.9,3,ST,False,NORMAL,0.9
+CLARA BANG,SKB,Skanderborg Håndbold,1486.0,28,HF,False,LEGENDARY,229.7
+VERONA REXHEPI,SKB,Skanderborg Håndbold,1445.6,30,HF,False,LEGENDARY,237.7
+EMILIE BECH,SKB,Skanderborg Håndbold,1286.7,19,HF,False,ELITE,51.8
+ASTRID LYNNERUP,SKB,Skanderborg Håndbold,1280.6,32,VF,False,ELITE,198.9
+NICOLINE LAURITSEN,SKB,Skanderborg Håndbold,1231.8000000000002,31,HF,False,NORMAL,115.4
+BOLINE LAURSEN,SKB,Skanderborg Håndbold,1218.5,31,ST,False,NORMAL,115.4
+ANNE-SOFIE FILTENBORG,SKB,Skanderborg Håndbold,1158.3,27,HF,False,NORMAL,36.5
+MIA LAGUMDZIJA,SKB,Skanderborg Håndbold,1149.2,26,HF,False,NORMAL,134.2
+JOSEFINE KAAE LARSEN,SKB,Skanderborg Håndbold,1128.8,13,VF,False,NORMAL,25.6
+CHRISTINA HANSEN,SKB,Skanderborg Håndbold,1114.1,16,ST,False,NORMAL,15.6
+ISABELLA MATHORNE,SKB,Skanderborg Håndbold,1085.3000000000002,25,MV,True,NORMAL,3.4
+SARAH ERNEBJERG,SKB,Skanderborg Håndbold,1085.1,30,MV,True,NORMAL,17.7
+SUNA HANSEN,SKB,Skanderborg Håndbold,1082.6,17,HF,False,NORMAL,67.6
+STINE ALMIND,SKB,Skanderborg Håndbold,1068.7,22,MV,True,NORMAL,2.4
+ANNIKA SOLBERG DALSAGER,SKB,Skanderborg Håndbold,1059.6,18,HF,False,NORMAL,44.6
+FILIPPA NEDOVIC,SKB,Skanderborg Håndbold,1051.7,18,ST,False,NORMAL,36.7
+ASTRID LESLIE,SKB,Skanderborg Håndbold,1040.3,10,HF,False,NORMAL,25.3
+EMILIE NØRGAARD BECH,SKB,Skanderborg Håndbold,1030.2,7,HF,False,NORMAL,15.2
+EMILIE SCHLEICHER,SKB,Skanderborg Håndbold,1020.1,6,HF,False,NORMAL,5.1

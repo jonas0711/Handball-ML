@@ -1,16 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Stine HOLM,AJK,Ajax København,1255.7,15,HF,False,ELITE,46.5
-Louisa MITTET,AJK,Ajax København,1183.5,27,HB,False,NORMAL,93.7
-Anna GRUNDTVIG,AJK,Ajax København,1165.9,23,VF,False,NORMAL,44.9
-Stine Nørklit LØNBORG,AJK,Ajax København,1161.8,29,PL,False,NORMAL,84.0
-Cecilie SPECHT,AJK,Ajax København,1150.5,29,HB,False,NORMAL,81.8
-Sofie BARDRUM,AJK,Ajax København,1135.2,28,ST,False,NORMAL,70.2
-Maja Eiberg JØRGENSEN,AJK,Ajax København,1117.8,14,PL,False,NORMAL,28.8
-Stine Eiberg JØRGENSEN,AJK,Ajax København,1085.7,30,PL,False,NORMAL,70.7
-Stine Bindslev HOLM,AJK,Ajax København,1069.3,13,HF,False,NORMAL,54.3
-Siw AABECH,AJK,Ajax København,1065.6,23,PL,False,NORMAL,24.6
-Sarah Nørklit LØNBORG,AJK,Ajax København,1064.3,10,MV,True,NORMAL,6.8
-Mathilde NIELSEN,AJK,Ajax København,1053.9,18,VF,False,NORMAL,38.9
-Rosa Skovlund SCHMIDT,AJK,Ajax København,1045.8,18,HF,False,NORMAL,30.8
-Emma Karsbæk EGGERTSEN,AJK,Ajax København,1021.8,7,PL,False,NORMAL,6.8
-Louise PETTERSSON,AJK,Ajax København,1014.6,2,MV,True,NORMAL,-0.4
+ANNA GRUNDTVIG,AJK,Ajax København,1359.9,28,HF,False,ELITE,125.5
+STINE EIBERG JØRGENSEN,AJK,Ajax København,1354.8,30,HF,False,ELITE,152.7
+STINE HOLM,AJK,Ajax København,1347.2,15,HF,False,ELITE,69.3
+STINE NØRKLIT LØNBORG,AJK,Ajax København,1289.9,30,HF,False,ELITE,187.6
+LOUISA MITTET,AJK,Ajax København,1246.6,28,HF,False,NORMAL,135.9
+CECILIE SPECHT,AJK,Ajax København,1193.6999999999998,29,HF,False,NORMAL,116.6
+SOFIE BARDRUM,AJK,Ajax København,1173.0,30,HF,False,NORMAL,89.6
+MAJA EIBERG JØRGENSEN,AJK,Ajax København,1158.9,14,HF,False,NORMAL,47.7
+SIW AABECH,AJK,Ajax København,1125.7,27,HF,False,NORMAL,77.3
+STINE BINDSLEV HOLM,AJK,Ajax København,1084.2,14,HF,False,NORMAL,69.2
+DENNIS BO JENSEN,AJK,Ajax København,1079.5,6,HF,False,NORMAL,-1.5
+MATHILDE NIELSEN,AJK,Ajax København,1066.5,29,HF,False,NORMAL,51.5
+ROSA SKOVLUND SCHMIDT,AJK,Ajax København,1050.4,20,HF,False,NORMAL,35.4
+SARAH NØRKLIT LØNBORG,AJK,Ajax København,1048.6,29,MV,True,NORMAL,6.8
+EMMA KARSBÆK EGGERTSEN,AJK,Ajax København,1020.4,8,PL,False,NORMAL,5.4
+LOUISE PETTERSSON,AJK,Ajax København,1014.6,26,MV,True,NORMAL,-0.4

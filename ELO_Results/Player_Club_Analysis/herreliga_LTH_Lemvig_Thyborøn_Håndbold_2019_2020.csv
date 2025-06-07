@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Jesper KOKHOLM,LTH,Lemvig-Thyborøn Håndbold,1216.9,24,HF,False,NORMAL,75.3
-Mark NIKOLAJSEN,LTH,Lemvig-Thyborøn Håndbold,1205.0,20,PL,False,NORMAL,92.7
-Jonas LANGERHUUS,LTH,Lemvig-Thyborøn Håndbold,1202.9,23,HB,False,NORMAL,113.6
-Jørgen RASMUSSEN,LTH,Lemvig-Thyborøn Håndbold,1184.1,18,VF,False,NORMAL,62.2
-Rasmus PORUP,LTH,Lemvig-Thyborøn Håndbold,1165.1999999999998,22,PL,False,NORMAL,85.1
-Pelle Schilling GULDAGER,LTH,Lemvig-Thyborøn Håndbold,1131.4,14,VF,False,NORMAL,27.6
-Mads THYMANN,LTH,Lemvig-Thyborøn Håndbold,1124.9,15,VB,False,NORMAL,41.4
-Christian Sabroe HOLM,LTH,Lemvig-Thyborøn Håndbold,1111.6,17,VB,False,NORMAL,42.8
-Nicolaj SPANGGAARD,LTH,Lemvig-Thyborøn Håndbold,1109.7,19,HB,False,NORMAL,33.3
-Jacob ØSTERGAARD,LTH,Lemvig-Thyborøn Håndbold,1086.6,15,ST,False,NORMAL,31.2
-Mathias PORSHOLDT,LTH,Lemvig-Thyborøn Håndbold,1077.5,18,ST,False,NORMAL,29.4
-Ronnie NICOLAISEN,LTH,Lemvig-Thyborøn Håndbold,1074.8,5,MV,True,NORMAL,-0.8
-Nicolai Pugholm HVID,LTH,Lemvig-Thyborøn Håndbold,1023.9,6,ST,False,NORMAL,8.9
-Shadrach Amie NSONI,LTH,Lemvig-Thyborøn Håndbold,1016.8,1,MV,True,NORMAL,1.8
+JESPER KOKHOLM,LTH,Lemvig-Thyborøn Håndbold,1310.8,24,HF,False,ELITE,124.2
+JONAS LANGERHUUS,LTH,Lemvig-Thyborøn Håndbold,1301.9,23,HF,False,ELITE,197.3
+MARK NIKOLAJSEN,LTH,Lemvig-Thyborøn Håndbold,1294.1,21,HF,False,ELITE,146.3
+RASMUS PORUP,LTH,Lemvig-Thyborøn Håndbold,1247.4,22,HF,False,NORMAL,119.0
+JØRGEN RASMUSSEN,LTH,Lemvig-Thyborøn Håndbold,1244.0,22,VF,False,NORMAL,86.1
+PELLE SCHILLING GULDAGER,LTH,Lemvig-Thyborøn Håndbold,1223.4,20,HF,False,NORMAL,63.9
+MADS THYMANN,LTH,Lemvig-Thyborøn Håndbold,1191.7,15,HF,False,NORMAL,61.8
+CHRISTIAN SABROE HOLM,LTH,Lemvig-Thyborøn Håndbold,1181.6,21,HF,False,NORMAL,98.9
+NICOLAJ SPANGGAARD,LTH,Lemvig-Thyborøn Håndbold,1116.9,24,HF,False,NORMAL,37.0
+JACOB ØSTERGAARD,LTH,Lemvig-Thyborøn Håndbold,1095.3,21,HF,False,NORMAL,32.3
+MATHIAS PORSHOLDT,LTH,Lemvig-Thyborøn Håndbold,1077.7,22,ST,False,NORMAL,26.8
+RONNIE NICOLAISEN,LTH,Lemvig-Thyborøn Håndbold,1056.5,24,MV,True,NORMAL,-0.8
+SHADRACH AMIE NSONI,LTH,Lemvig-Thyborøn Håndbold,1026.8,15,MV,True,NORMAL,1.8
+NICOLAI PUGHOLM HVID,LTH,Lemvig-Thyborøn Håndbold,1020.4,15,HF,False,NORMAL,5.4

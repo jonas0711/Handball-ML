@@ -1,29 +1,29 @@
 team_code,team_name,league,seasons_played,avg_team_rating,avg_top7_rating,peak_team_rating,avg_elite_players,rating_consistency,career_development
-SKH,Skjern Håndbold,Herreliga,8,1335.5,1415.9,1364.3,0.0,32.3,94.5
+SKH,Skjern Håndbold,Herreliga,8,1337.9,1415.9,1364.3,0.0,26.9,75.7
 SAH,SAH - Skanderborg AGF,Herreliga,5,1333.1,1397.7,1375.8,0.0,47.9,120.6
+BSH,Bjerringbro-Silkeborg,Herreliga,8,1331.8,1415.8,1363.2,0.0,27.7,68.6
 AAH,Aalborg Håndbold,Herreliga,8,1329.2,1408.1,1364.6,0.0,28.6,69.7
-BSH,Bjerringbro-Silkeborg,Herreliga,8,1328.1,1415.8,1363.2,0.0,36.6,98.2
 REH,Ribe-Esbjerg HH,Herreliga,8,1318.3,1402.8,1372.2,0.0,39.0,104.5
 TTH,TTH Holstebro,Herreliga,8,1317.1,1393.7,1355.3,0.0,37.3,97.4
 FHK,Fredericia Håndbold Klub,Herreliga,6,1312.1,1391.0,1354.1,0.0,36.7,62.4
+KIF,KIF Kolding,Herreliga,8,1308.7,1395.0,1338.4,0.0,20.9,28.6
 SJH,SønderjyskE Herrehåndbold,Herreliga,8,1308.2,1380.4,1333.5,0.0,25.9,83.4
 LTH,Lemvig-Thyborøn Håndbold,Herreliga,6,1306.9,1376.3,1338.0,0.0,24.3,55.3
-KIF,KIF Kolding,Herreliga,8,1306.4,1395.0,1338.4,0.0,25.2,47.1
 MTH,Mors-Thy Håndbold,Herreliga,8,1299.7,1371.7,1348.0,0.0,27.0,103.2
-GOG,GOG,Herreliga,8,1294.3,1379.2,1332.0,0.0,20.4,48.3
 NSH,Nordsjælland Håndbold,Herreliga,7,1293.8,1367.6,1324.0,0.0,25.6,61.4
-ARH,Århus Håndbold,Herreliga,3,1275.9,1348.9,1302.5,0.0,31.8,71.3
+GOG,GOG,Herreliga,8,1292.7,1379.2,1332.0,0.0,21.2,48.3
+ARH,Århus Håndbold,Herreliga,3,1286.2,1348.9,1302.5,0.0,17.4,40.4
 TMH,TMS Ringsted,Herreliga,5,1272.5,1341.2,1306.5,0.0,26.7,59.3
 SFH,Skive fH,Herreliga,4,1242.4,1264.0,1280.2,0.0,37.1,73.8
 IKA,Ikast Håndbold,Kvindeliga,4,1311.0,1374.0,1356.3,0.0,58.1,129.5
 TES,Team Esbjerg,Kvindeliga,8,1310.7,1378.8,1366.8,0.0,45.3,98.1
 VHK,Viborg HK,Kvindeliga,8,1300.4,1361.8,1340.3,0.0,38.4,115.2
-NFH,Nykøbing F. Håndbold,Kvindeliga,8,1296.6,1362.9,1367.7,0.0,47.8,125.3
+NFH,Nykøbing F. Håndbold,Kvindeliga,8,1298.8,1362.9,1367.7,0.0,43.1,107.1
 ODE,Odense Håndbold,Kvindeliga,4,1296.2,1359.3,1331.9,0.0,37.9,77.3
 RIN,Ringkøbing Håndbold,Kvindeliga,5,1294.5,1346.2,1349.3,0.0,43.4,119.6
 KBH,København Håndbold,Kvindeliga,8,1291.3,1351.5,1340.1,0.0,39.5,120.9
+SVK,Silkeborg-Voel KFUM,Kvindeliga,8,1290.7,1347.9,1336.2,0.0,38.2,114.6
 SJK,SønderjyskE Kvindehåndbold,Kvindeliga,4,1290.3,1353.0,1329.7,0.0,44.1,114.0
-SVK,Silkeborg-Voel KFUM,Kvindeliga,8,1288.5,1347.9,1336.2,0.0,43.0,132.5
 SKB,Skanderborg Håndbold,Kvindeliga,7,1288.3,1362.7,1338.3,0.0,26.3,47.1
 AAU,Aarhus United,Kvindeliga,7,1287.9,1349.2,1332.2,0.0,40.5,102.3
 HHE,Horsens Håndbold Elite,Kvindeliga,6,1281.9,1359.2,1305.0,0.0,25.8,69.7

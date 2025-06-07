@@ -1,2 +1,3 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Mathilde JUNCKER,RAN,Randers HK,1015.0,3,PL,True,NORMAL,0.0
+STINE BROLØS,RAN,Randers HK,1015.0,6,PL,True,NORMAL,0.0
+MATHILDE JUNCKER,RAN,Randers HK,1015.0,6,PL,True,NORMAL,0.0

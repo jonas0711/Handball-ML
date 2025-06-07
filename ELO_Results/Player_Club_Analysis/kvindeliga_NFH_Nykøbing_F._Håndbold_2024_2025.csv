@@ -1,19 +1,20 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Kristina KRISTIANSEN,NFH,Nykøbing F. Håndbold,1472.1,31,PL,False,LEGENDARY,115.2
-Moa HÖGDAHL,NFH,Nykøbing F. Håndbold,1466.1,21,PL,False,LEGENDARY,71.2
-Sofie BARDRUM,NFH,Nykøbing F. Håndbold,1401.4,30,ST,False,LEGENDARY,96.3
-Amalie WULFF,NFH,Nykøbing F. Håndbold,1334.1,21,ST,False,ELITE,64.4
-Mona OBAIDLI,NFH,Nykøbing F. Håndbold,1301.3,32,PL,False,ELITE,120.8
-Alberte KIELSTRUP,NFH,Nykøbing F. Håndbold,1263.9,29,PL,False,ELITE,67.9
-Caroline AAR,NFH,Nykøbing F. Håndbold,1177.8000000000002,27,ST,False,NORMAL,65.4
-Rosa SCHMIDT,NFH,Nykøbing F. Håndbold,1137.1,17,HF,False,NORMAL,60.8
-Matilde VESTERGAARD,NFH,Nykøbing F. Håndbold,1121.6,25,VF,False,NORMAL,40.2
-Maja MAGNUSSEN,NFH,Nykøbing F. Håndbold,1115.1,23,HF,False,NORMAL,100.1
-Cecilie GREVE,NFH,Nykøbing F. Håndbold,1094.1,5,MV,True,NORMAL,5.4
-Catharina BROCH,NFH,Nykøbing F. Håndbold,1089.0,3,MV,True,NORMAL,2.7
-Zoë SPRENGERS,NFH,Nykøbing F. Håndbold,1067.3,19,VF,False,NORMAL,52.3
-Sofie BÖRJESSON,NFH,Nykøbing F. Håndbold,1028.4,10,MV,True,NORMAL,13.4
-Kalidiatou NIAKATE,NFH,Nykøbing F. Håndbold,1023.9,6,PL,False,NORMAL,8.9
-Aimée VON PEREIRA,NFH,Nykøbing F. Håndbold,1022.8,10,PL,False,NORMAL,7.8
-Stine EIBERG,NFH,Nykøbing F. Håndbold,1020.6,2,ST,False,NORMAL,5.6
-Julie Vibe SEEBERG,NFH,Nykøbing F. Håndbold,1019.2,3,ST,False,NORMAL,4.2
+MONA OBAIDLI,NFH,Nykøbing F. Håndbold,1580.8000000000002,32,HF,False,LEGENDARY,266.4
+ALBERTE KIELSTRUP,NFH,Nykøbing F. Håndbold,1580.8,30,HF,False,LEGENDARY,197.2
+MOA HÖGDAHL,NFH,Nykøbing F. Håndbold,1572.8000000000002,22,HF,False,LEGENDARY,174.9
+AMALIE WULFF,NFH,Nykøbing F. Håndbold,1559.6,29,HF,False,LEGENDARY,157.9
+KRISTINA KRISTIANSEN,NFH,Nykøbing F. Håndbold,1532.9,32,HF,False,LEGENDARY,161.5
+SOFIE BARDRUM,NFH,Nykøbing F. Håndbold,1496.1,30,HF,False,LEGENDARY,161.6
+AIMÉE VON PEREIRA,NFH,Nykøbing F. Håndbold,1356.2,27,HF,False,ELITE,64.3
+CAROLINE AAR,NFH,Nykøbing F. Håndbold,1337.5,30,HF,False,ELITE,126.3
+MATILDE VESTERGAARD,NFH,Nykøbing F. Håndbold,1187.8,28,HF,False,NORMAL,59.0
+MAJA MAGNUSSEN,NFH,Nykøbing F. Håndbold,1173.8,25,HF,False,NORMAL,158.8
+ROSA SCHMIDT,NFH,Nykøbing F. Håndbold,1157.7,19,HF,False,NORMAL,69.4
+JAKOB BIRKEDAL LARSEN,NFH,Nykøbing F. Håndbold,1112.2,6,HF,False,NORMAL,-2.6
+JULIE VIBE SEEBERG,NFH,Nykøbing F. Håndbold,1110.1,5,HF,False,NORMAL,2.2
+CECILIE GREVE,NFH,Nykøbing F. Håndbold,1098.7,10,MV,True,NORMAL,5.4
+ZOË SPRENGERS,NFH,Nykøbing F. Håndbold,1096.6,21,VF,False,NORMAL,81.6
+CATHARINA BROCH,NFH,Nykøbing F. Håndbold,1075.7,29,MV,True,NORMAL,2.7
+STINE EIBERG,NFH,Nykøbing F. Håndbold,1075.6,20,HF,False,NORMAL,27.1
+KALIDIATOU NIAKATE,NFH,Nykøbing F. Håndbold,1031.0,7,HF,False,NORMAL,16.0
+SOFIE BÖRJESSON,NFH,Nykøbing F. Håndbold,1028.4,23,MV,True,NORMAL,13.4

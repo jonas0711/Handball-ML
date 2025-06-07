@@ -1,5 +1,5 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Althea REINHARDT,ODE,Odense Håndbold,1074.6999999999998,1,MV,True,NORMAL,-0.4
-Martina THÖRN,ODE,Odense Håndbold,1068.7,3,MV,True,NORMAL,-1.5
-Althea Rebecca REINHARDT,ODE,Odense Håndbold,1014.3,2,MV,True,NORMAL,-0.7
-Martina Helene THÖRN,ODE,Odense Håndbold,1014.2,2,MV,True,NORMAL,-0.8
+ALTHEA REINHARDT,ODE,Odense Håndbold,1067.1,17,MV,True,NORMAL,-0.4
+MARTINA THÖRN,ODE,Odense Håndbold,1064.2,14,MV,True,NORMAL,-1.5
+ALTHEA REBECCA REINHARDT,ODE,Odense Håndbold,1014.3,17,MV,True,NORMAL,-0.7
+MARTINA HELENE THÖRN,ODE,Odense Håndbold,1014.2,19,MV,True,NORMAL,-0.8

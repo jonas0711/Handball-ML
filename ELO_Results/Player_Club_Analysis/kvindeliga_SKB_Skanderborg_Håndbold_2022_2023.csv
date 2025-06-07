@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Line Berggren LARSEN,SKB,Skanderborg Håndbold,1462.2,28,VF,False,LEGENDARY,206.3
-Cecilie Mørch HANSEN,SKB,Skanderborg Håndbold,1399.4,28,PL,False,ELITE,152.6
-Melina KRISTENSEN,SKB,Skanderborg Håndbold,1275.6,26,HF,False,ELITE,138.4
-Rikke Hoffbeck PETERSEN,SKB,Skanderborg Håndbold,1265.3,25,VF,False,ELITE,250.3
-Emilie BECH,SKB,Skanderborg Håndbold,1208.5,24,HF,False,NORMAL,69.5
-Stine Opstrup KRISTENSEN,SKB,Skanderborg Håndbold,1189.8,25,HF,False,NORMAL,111.5
-Mathilde STORGAARD,SKB,Skanderborg Håndbold,1171.0,13,ST,False,NORMAL,57.4
-Katrine LARSON,SKB,Skanderborg Håndbold,1144.4,4,ST,False,NORMAL,8.6
-Emma Gandrup ERNST,SKB,Skanderborg Håndbold,1128.7,5,PL,False,NORMAL,35.2
-Steinunn HANSDOTTIR,SKB,Skanderborg Håndbold,1120.1,17,VF,False,NORMAL,22.9
-Sofia Bro STENHOLT,SKB,Skanderborg Håndbold,1102.9,17,PL,False,NORMAL,21.8
-Emma FRIBERG,SKB,Skanderborg Håndbold,1087.1,8,MV,True,NORMAL,1.8
-Caroline Amalie RASMUSSEN,SKB,Skanderborg Håndbold,1081.4,7,HB,False,NORMAL,8.6
-Anna VENG,SKB,Skanderborg Håndbold,1079.6,5,MV,True,NORMAL,-0.8
-Sarah Vest KIRKELØKKE,SKB,Skanderborg Håndbold,1078.8,19,ST,False,NORMAL,22.8
-Lotte VESTERGAARD,SKB,Skanderborg Håndbold,1068.9,11,PL,False,NORMAL,9.0
-Anne BERGGREEN,SKB,Skanderborg Håndbold,1039.5,15,PL,False,NORMAL,24.5
+LINE BERGGREN LARSEN,SKB,Skanderborg Håndbold,1685.4,28,HF,False,LEGENDARY,355.7
+CECILIE MØRCH HANSEN,SKB,Skanderborg Håndbold,1652.7,28,HF,False,LEGENDARY,326.5
+STINE OPSTRUP KRISTENSEN,SKB,Skanderborg Håndbold,1608.8000000000002,28,HF,False,LEGENDARY,418.4
+RIKKE HOFFBECK PETERSEN,SKB,Skanderborg Håndbold,1530.8,28,HF,False,LEGENDARY,515.8
+MELINA KRISTENSEN,SKB,Skanderborg Håndbold,1267.8,26,HF,False,ELITE,108.2
+KATRINE LARSON,SKB,Skanderborg Håndbold,1251.6,5,HF,False,ELITE,12.1
+EMMA GANDRUP ERNST,SKB,Skanderborg Håndbold,1228.5,6,HF,False,NORMAL,89.2
+EMILIE BECH,SKB,Skanderborg Håndbold,1228.0,24,HF,False,NORMAL,69.8
+MATHILDE STORGAARD,SKB,Skanderborg Håndbold,1186.0,23,HF,False,NORMAL,62.1
+STEINUNN HANSDOTTIR,SKB,Skanderborg Håndbold,1163.5,19,HF,False,NORMAL,50.4
+SOFIA BRO STENHOLT,SKB,Skanderborg Håndbold,1141.1,19,HF,False,NORMAL,41.6
+LOTTE VESTERGAARD,SKB,Skanderborg Håndbold,1138.8,28,HF,False,NORMAL,68.5
+EMMA FRIBERG,SKB,Skanderborg Håndbold,1094.8,25,MV,True,NORMAL,1.8
+CAROLINE AMALIE RASMUSSEN,SKB,Skanderborg Håndbold,1094.4,8,HF,False,NORMAL,13.1
+SARAH VEST KIRKELØKKE,SKB,Skanderborg Håndbold,1070.8,26,HF,False,NORMAL,11.2
+ANNA VENG,SKB,Skanderborg Håndbold,1062.4,25,MV,True,NORMAL,-0.8
+ANNE BERGGREEN,SKB,Skanderborg Håndbold,1051.8,16,HF,False,NORMAL,36.8

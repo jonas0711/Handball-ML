@@ -1,17 +1,17 @@
-team_code,team_name,seasons_played,avg_rating,peak_rating,total_games,career_change,consistency
-AAH,Aalborg Håndbold,8,2134.4,2347.0,281,539.3,181.2
-BSH,Bjerringbro-Silkeborg,8,1995.4,2232.6,264,-266.0,232.4
-GOG,GOG,8,1973.2,2215.4,278,-352.6,199.7
-SKH,Skjern Håndbold,8,1926.2,2140.6,277,193.6,129.7
-ARH,Århus Håndbold,5,1825.9,2276.0,154,600.9,311.2
-SAH,SAH - Skanderborg AGF,6,1805.5,1994.7,177,173.7,124.1
-TTH,TTH Holstebro,8,1775.2,2444.6,253,126.4,337.7
-FHK,Fredericia Håndbold Klub,6,1743.8,2087.6,193,584.1,323.7
-MTH,Mors-Thy Håndbold,8,1620.1,1961.9,237,359.1,207.1
-KIF,KIF Kolding,8,1515.4,2053.5,237,-390.1,367.1
-SJH,SønderjyskE Herrehåndbold,8,1496.7,1782.7,237,892.8,260.5
-REH,Ribe-Esbjerg HH,8,1492.1,1862.5,244,99.8,243.2
-NSH,Nordsjælland Håndbold,7,1299.6,1722.9,208,58.1,223.9
-TMH,TMS Ringsted,5,1283.8,1671.0,140,808.3,300.8
-LTH,Lemvig-Thyborøn Håndbold,6,1252.5,1487.1,171,128.7,142.8
-SFH,Skive fH,4,1226.1,1644.8,35,-928.3,358.0
+team_code,team_name,seasons_played,avg_rating,peak_rating,peak_season,total_games,career_change,consistency_std
+AAH,Aalborg Håndbold,8,1955.8,2088.5,2024-2025,281,471.9,153.5
+BSH,Bjerringbro-Silkeborg,8,1843.1,2012.7,2022-2023,264,-30.6,169.2
+GOG,GOG,8,1806.3,1985.6,2020-2021,278,-180.9,138.3
+SKH,Skjern Håndbold,8,1744.1,1832.3,2024-2025,277,88.2,71.1
+ARH,Århus Håndbold,5,1725.0,2015.8,2021-2022,154,446.2,204.0
+TTH,TTH Holstebro,8,1644.2,2101.6,2020-2021,253,58.3,224.8
+FHK,Fredericia Håndbold Klub,6,1636.4,1941.3,2023-2024,193,535.7,273.8
+SAH,SAH - Skanderborg AGF,6,1628.5,1806.8,2018-2019,177,410.8,167.4
+MTH,Mors-Thy Håndbold,8,1476.7,1735.6,2020-2021,237,487.1,188.9
+REH,Ribe-Esbjerg HH,8,1456.1,1721.1,2022-2023,244,262.8,196.2
+SJH,SønderjyskE Herrehåndbold,8,1442.9,1638.6,2024-2025,237,693.1,201.7
+KIF,KIF Kolding,8,1408.6,1815.8,2022-2023,237,-50.4,269.0
+TMH,TMS Ringsted,5,1323.9,1666.0,2024-2025,140,676.6,244.1
+SFH,Skive fH,4,1307.9,1575.5,2020-2021,35,-484.6,174.4
+NSH,Nordsjælland Håndbold,7,1297.6,1622.2,2021-2022,208,71.9,193.2
+LTH,Lemvig-Thyborøn Håndbold,6,1287.4,1523.4,2021-2022,171,60.8,124.7
