@@ -1,16 +1,16 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Jane MEJLVANG,RIN,Ringkøbing Håndbold,1417.0,21,PL,False,NORMAL,87.3
-Frida Høgaard NIELSEN,RIN,Ringkøbing Håndbold,1328.7,26,PL,False,NORMAL,76.8
-Emma LAURSEN,RIN,Ringkøbing Håndbold,1284.3,22,HF,False,NORMAL,58.5
-Stine Opstrup KRISTENSEN,RIN,Ringkøbing Håndbold,1276.5,21,HF,False,NORMAL,62.7
-Nanna HINNERFELDT,RIN,Ringkøbing Håndbold,1275.8,24,ST,False,NORMAL,70.7
-Caroline SVARRE,RIN,Ringkøbing Håndbold,1216.1,20,ST,False,NORMAL,27.3
-Cecilie BJERRE,RIN,Ringkøbing Håndbold,1189.3,15,PL,False,NORMAL,71.0
-Maria Berger WIERZBA,RIN,Ringkøbing Håndbold,1186.3,30,PL,False,NORMAL,103.7
-Rikke JOCHUMSEN,RIN,Ringkøbing Håndbold,1180.4,14,VF,False,NORMAL,20.5
-Sofie ØSTERGAARD,RIN,Ringkøbing Håndbold,1159.8,23,HF,False,NORMAL,68.5
-Emilie ROSBORG,RIN,Ringkøbing Håndbold,1145.7,23,VF,False,NORMAL,63.7
-Camilla PEDERSEN,RIN,Ringkøbing Håndbold,1142.3,10,ST,False,NORMAL,13.3
-Rakul WARDUM,RIN,Ringkøbing Håndbold,1127.7,2,MV,True,NORMAL,4.5
+Jane MEJLVANG,RIN,Ringkøbing Håndbold,1412.1,21,PL,False,LEGENDARY,87.3
+Emma LAURSEN,RIN,Ringkøbing Håndbold,1284.4,22,HF,False,ELITE,58.5
+Nanna HINNERFELDT,RIN,Ringkøbing Håndbold,1274.0,24,ST,False,ELITE,70.7
+Frida Høgaard NIELSEN,RIN,Ringkøbing Håndbold,1271.0,26,PL,False,ELITE,76.8
+Stine Opstrup KRISTENSEN,RIN,Ringkøbing Håndbold,1266.1,21,HF,False,ELITE,62.7
+Maria Berger WIERZBA,RIN,Ringkøbing Håndbold,1236.5,30,PL,False,NORMAL,103.7
+Cecilie BJERRE,RIN,Ringkøbing Håndbold,1187.1,15,PL,False,NORMAL,71.0
+Rikke JOCHUMSEN,RIN,Ringkøbing Håndbold,1171.1,14,VF,False,NORMAL,20.5
+Caroline SVARRE,RIN,Ringkøbing Håndbold,1169.9,20,ST,False,NORMAL,27.3
+Sofie ØSTERGAARD,RIN,Ringkøbing Håndbold,1152.9,23,HF,False,NORMAL,68.5
+Emilie ROSBORG,RIN,Ringkøbing Håndbold,1113.4,23,VF,False,NORMAL,63.7
+Stephanie ANDERSEN,RIN,Ringkøbing Håndbold,1101.6,8,MV,True,NORMAL,5.0
+Camilla PEDERSEN,RIN,Ringkøbing Håndbold,1091.5,10,ST,False,NORMAL,13.3
+Rakul WARDUM,RIN,Ringkøbing Håndbold,1076.5,2,MV,True,NORMAL,4.5
 Karoline FAHLBERG,RIN,Ringkøbing Håndbold,1026.6,10,PL,False,NORMAL,11.6
-Stephanie ANDERSEN,RIN,Ringkøbing Håndbold,1020.0,8,MV,True,NORMAL,5.0

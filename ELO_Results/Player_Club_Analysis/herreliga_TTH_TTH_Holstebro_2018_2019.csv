@@ -1,16 +1,16 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Peter BALLING,TTH,TTH Holstebro,1464.3,21,HB,False,NORMAL,98.8
-Viktor ÖSTLUND,TTH,TTH Holstebro,1427.8,31,PL,False,NORMAL,82.8
-Magnus BRAMMING,TTH,TTH Holstebro,1392.1,31,VF,False,NORMAL,92.6
-Jac KARLSSON,TTH,TTH Holstebro,1378.1,28,PL,False,NORMAL,84.9
-Lars MOUSING,TTH,TTH Holstebro,1357.6,30,ST,False,NORMAL,73.5
-Jonas PORUP,TTH,TTH Holstebro,1338.9,29,PL,False,NORMAL,85.1
-Kasper Emil KILDELUND,TTH,TTH Holstebro,1327.3,27,HF,False,NORMAL,55.5
-Vignir SVARVARSSON,TTH,TTH Holstebro,1314.1,14,ST,False,NORMAL,24.4
-Simon GADE,TTH,TTH Holstebro,1247.6,7,MV,True,NORMAL,6.5
-Thomas Bohl DAMGAARD,TTH,TTH Holstebro,1246.3,8,PL,False,NORMAL,8.9
+Peter BALLING,TTH,TTH Holstebro,1245.6,21,HB,False,NORMAL,98.8
+Viktor ÖSTLUND,TTH,TTH Holstebro,1207.0,31,PL,False,NORMAL,82.8
+Jac KARLSSON,TTH,TTH Holstebro,1184.2,28,PL,False,NORMAL,84.9
+Magnus BRAMMING,TTH,TTH Holstebro,1180.6,31,VF,False,NORMAL,92.6
+Lars MOUSING,TTH,TTH Holstebro,1158.9,30,ST,False,NORMAL,73.5
+Jonas PORUP,TTH,TTH Holstebro,1131.5,29,PL,False,NORMAL,85.1
+Kasper Emil KILDELUND,TTH,TTH Holstebro,1125.1,27,HF,False,NORMAL,55.5
+Vignir SVARVARSSON,TTH,TTH Holstebro,1089.4,14,ST,False,NORMAL,24.4
 Kay Evert SMITS,TTH,TTH Holstebro,1084.1,24,HB,False,NORMAL,69.1
+Simon GADE,TTH,TTH Holstebro,1059.9,7,MV,True,NORMAL,6.5
+Thomas Bohl DAMGAARD,TTH,TTH Holstebro,1058.0,8,PL,False,NORMAL,8.9
+Sebastian FRANDSEN,TTH,TTH Holstebro,1055.5,3,MV,True,NORMAL,7.4
 Niels LINDHOLT,TTH,TTH Holstebro,1037.8,17,ST,False,NORMAL,22.8
 Malte JUSTESEN,TTH,TTH Holstebro,1022.7,5,VF,False,NORMAL,7.7
-Sebastian FRANDSEN,TTH,TTH Holstebro,1022.4,3,MV,True,NORMAL,7.4
 Jonathan Mosbæk Tønning WÜRTZ,TTH,TTH Holstebro,1021.3,5,PL,False,NORMAL,6.3

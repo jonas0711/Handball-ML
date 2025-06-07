@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Eivind TANGEN,SKH,Skjern Håndbold,1500.2,36,HB,False,NORMAL,154.7
-Jesper KONRADSSON,SKH,Skjern Håndbold,1498.4,34,PL,False,NORMAL,128.6
-Kasper SØNDERGAARD,SKH,Skjern Håndbold,1492.4,28,HB,False,NORMAL,92.1
-Bjarte MYRHOL,SKH,Skjern Håndbold,1443.8,28,ST,False,NORMAL,93.2
-René RASMUSSEN,SKH,Skjern Håndbold,1381.2,18,HF,False,NORMAL,49.2
-Anders EGGERT,SKH,Skjern Håndbold,1369.9,28,VF,False,NORMAL,66.6
-Sebastian AUGUSTINUSSEN,SKH,Skjern Håndbold,1368.0,24,HF,False,NORMAL,56.0
-Christoffer CICHOSZ,SKH,Skjern Håndbold,1342.6,33,ST,False,NORMAL,67.3
-Bjarke CHRISTENSEN,SKH,Skjern Håndbold,1339.3,19,VF,False,NORMAL,33.3
-Jonathan STENBÄCKEN,SKH,Skjern Håndbold,1329.1,16,VF,False,NORMAL,27.5
-Tandri Már KONRÁÐSSON,SKH,Skjern Håndbold,1245.8,5,PL,False,NORMAL,6.8
-Emil NIELSEN,SKH,Skjern Håndbold,1238.6,12,MV,True,NORMAL,10.5
+Jesper KONRADSSON,SKH,Skjern Håndbold,1297.6,34,PL,False,ELITE,128.6
+Eivind TANGEN,SKH,Skjern Håndbold,1296.7,36,HB,False,ELITE,154.7
+Kasper SØNDERGAARD,SKH,Skjern Håndbold,1279.0,28,HB,False,ELITE,92.1
+Bjarte MYRHOL,SKH,Skjern Håndbold,1240.9,28,ST,False,NORMAL,93.2
+René RASMUSSEN,SKH,Skjern Håndbold,1160.7,18,HF,False,NORMAL,49.2
+Anders EGGERT,SKH,Skjern Håndbold,1155.0,28,VF,False,NORMAL,66.6
+Christoffer CICHOSZ,SKH,Skjern Håndbold,1123.5,33,ST,False,NORMAL,67.3
+Jonathan STENBÄCKEN,SKH,Skjern Håndbold,1120.5,16,VF,False,NORMAL,27.5
+Sebastian AUGUSTINUSSEN,SKH,Skjern Håndbold,1119.8,24,HF,False,NORMAL,56.0
 Thomas MOGENSEN,SKH,Skjern Håndbold,1110.6,30,PL,False,NORMAL,95.6
+Bjarke CHRISTENSEN,SKH,Skjern Håndbold,1105.1,19,VF,False,NORMAL,33.3
+Tandri Már KONRÁÐSSON,SKH,Skjern Håndbold,1057.9,5,PL,False,NORMAL,6.8
 Jan GREBENC,SKH,Skjern Håndbold,1056.7,28,VB,False,NORMAL,41.7
+Emil NIELSEN,SKH,Skjern Håndbold,1054.7,12,MV,True,NORMAL,10.5
 Björgvin Pall GUSTAVSSON,SKH,Skjern Håndbold,1032.8,12,MV,True,NORMAL,17.8
 Benjamin JAKOBSEN,SKH,Skjern Håndbold,1032.1,14,ST,False,NORMAL,17.1

@@ -1,19 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Andrea West BENDTSEN,SVK,Silkeborg-Voel KFUM,1369.5,20,PL,False,NORMAL,25.1
-Line SKAK,SVK,Silkeborg-Voel KFUM,1304.9,9,ST,False,NORMAL,16.3
-Natasja ANDREASEN,SVK,Silkeborg-Voel KFUM,1289.1,25,PL,False,NORMAL,58.0
-Maja Munch LAURSEN,SVK,Silkeborg-Voel KFUM,1252.9,24,VF,False,NORMAL,50.9
-Mathilde KRISTENSEN,SVK,Silkeborg-Voel KFUM,1208.2,8,ST,False,NORMAL,13.1
-Marigona HAJDARI,SVK,Silkeborg-Voel KFUM,1207.3,24,PL,False,NORMAL,34.0
-Maria HOLM,SVK,Silkeborg-Voel KFUM,1177.8,31,HB,False,NORMAL,68.6
-Andrea JACOBSEN,SVK,Silkeborg-Voel KFUM,1162.9,16,PL,False,NORMAL,24.2
-Stine BONDE,SVK,Silkeborg-Voel KFUM,1156.1,6,MV,True,NORMAL,-2.2
-Mathilda LUNDSTRØM,SVK,Silkeborg-Voel KFUM,1153.7,29,HF,False,NORMAL,61.7
+Andrea West BENDTSEN,SVK,Silkeborg-Voel KFUM,1281.1999999999998,20,PL,False,ELITE,25.1
+Natasja ANDREASEN,SVK,Silkeborg-Voel KFUM,1262.4,25,PL,False,ELITE,58.0
+Line SKAK,SVK,Silkeborg-Voel KFUM,1250.0,9,ST,False,ELITE,16.3
+Marigona HAJDARI,SVK,Silkeborg-Voel KFUM,1249.4,24,PL,False,NORMAL,34.0
+Maja Munch LAURSEN,SVK,Silkeborg-Voel KFUM,1188.5,24,VF,False,NORMAL,50.9
+Maria HOLM,SVK,Silkeborg-Voel KFUM,1180.8,31,HB,False,NORMAL,68.6
+Mathilde KRISTENSEN,SVK,Silkeborg-Voel KFUM,1155.1999999999998,8,ST,False,NORMAL,13.1
+Mathilda LUNDSTRØM,SVK,Silkeborg-Voel KFUM,1139.9,29,HF,False,NORMAL,61.7
+Andrea JACOBSEN,SVK,Silkeborg-Voel KFUM,1104.3,16,PL,False,NORMAL,24.2
+Stine BONDE,SVK,Silkeborg-Voel KFUM,1093.2,6,MV,True,NORMAL,-2.2
 Thea RASMUSSEN,SVK,Silkeborg-Voel KFUM,1080.8,32,PL,False,NORMAL,65.8
+Sophie MOTH,SVK,Silkeborg-Voel KFUM,1075.6,1,MV,True,NORMAL,-0.4
 Sara MADSEN,SVK,Silkeborg-Voel KFUM,1060.8,27,HB,False,NORMAL,45.8
 Karen KLOKKER,SVK,Silkeborg-Voel KFUM,1053.9,19,ST,False,NORMAL,38.9
 Maja EDLING,SVK,Silkeborg-Voel KFUM,1045.6,18,VF,False,NORMAL,30.6
 Emma SKIPPER,SVK,Silkeborg-Voel KFUM,1021.1,8,ST,False,NORMAL,6.1
 Isabella POULSEN,SVK,Silkeborg-Voel KFUM,1018.5,7,PL,False,NORMAL,3.5
 Sofie WENDELBO,SVK,Silkeborg-Voel KFUM,1016.0,3,ST,False,NORMAL,1.0
-Sophie MOTH,SVK,Silkeborg-Voel KFUM,1014.6,1,MV,True,NORMAL,-0.4

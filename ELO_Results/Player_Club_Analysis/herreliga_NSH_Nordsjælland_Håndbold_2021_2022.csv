@@ -1,12 +1,13 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Andreas MAGAARD,NSH,Nordsjælland Håndbold,1211.9,31,ST,False,NORMAL,108.3
-Jesper DAHL,NSH,Nordsjælland Håndbold,1179.8,32,HB,False,NORMAL,164.8
-Hakan SAHIN,NSH,Nordsjælland Håndbold,1162.7,9,ST,False,NORMAL,12.9
+Jesper DAHL,NSH,Nordsjælland Håndbold,1426.2,32,HB,False,LEGENDARY,164.8
+Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1309.8,29,HF,False,ELITE,101.1
+Kasper KISUM,NSH,Nordsjælland Håndbold,1260.6,24,VB,False,ELITE,40.5
+Tobias JØRGENSEN,NSH,Nordsjælland Håndbold,1206.8,31,PL,False,NORMAL,88.7
+Andreas MAGAARD,NSH,Nordsjælland Håndbold,1198.1,31,ST,False,NORMAL,108.3
 Nichlas HALD,NSH,Nordsjælland Håndbold,1144.3,31,PL,False,NORMAL,129.3
-Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1116.1,29,HF,False,NORMAL,101.1
-Tobias JØRGENSEN,NSH,Nordsjælland Håndbold,1103.7,31,PL,False,NORMAL,88.7
+Hakan SAHIN,NSH,Nordsjælland Håndbold,1094.6,9,ST,False,NORMAL,12.9
+Jimmi ANDERSEN,NSH,Nordsjælland Håndbold,1083.2,9,MV,True,NORMAL,6.9
 Matias CAMPBELL,NSH,Nordsjælland Håndbold,1081.7,18,PL,False,NORMAL,66.7
-Kasper KISUM,NSH,Nordsjælland Håndbold,1055.5,24,VB,False,NORMAL,40.5
 Jeppe CIESLAK,NSH,Nordsjælland Håndbold,1048.6,15,VF,False,NORMAL,33.6
 Magnus KRONBORG,NSH,Nordsjælland Håndbold,1038.5,13,PL,False,NORMAL,23.5
 Rasmus Madsbøll WENNEKE,NSH,Nordsjælland Håndbold,1037.0,11,VF,False,NORMAL,22.0
@@ -14,4 +15,3 @@ Julius MØRCH-RASMUSSEN,NSH,Nordsjælland Håndbold,1034.6,13,ST,False,NORMAL,19
 Frederik ANDERSSON,NSH,Nordsjælland Håndbold,1033.4,5,MV,True,NORMAL,18.4
 Thomas KJÆRGAARD,NSH,Nordsjælland Håndbold,1029.6,14,HB,False,NORMAL,14.6
 Julius MØRCH,NSH,Nordsjælland Håndbold,1026.8,6,ST,False,NORMAL,11.8
-Jimmi ANDERSEN,NSH,Nordsjælland Håndbold,1021.9,9,MV,True,NORMAL,6.9

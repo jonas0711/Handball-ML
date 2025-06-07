@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Mai KRAGBALLE,HHE,Horsens Håndbold Elite,1445.0,32,PL,False,NORMAL,171.8
-Laura Holm ANDERSEN,HHE,Horsens Håndbold Elite,1357.9,30,VF,False,NORMAL,93.3
-Annika MEYER,HHE,Horsens Håndbold Elite,1214.8,20,ST,False,NORMAL,43.0
-Melanie BAK,HHE,Horsens Håndbold Elite,1177.8,25,ST,False,NORMAL,60.6
-Mathilda LUNDSTRØM,HHE,Horsens Håndbold Elite,1173.8,5,HF,False,NORMAL,20.0
-Maria HØJGAARD,HHE,Horsens Håndbold Elite,1159.9,8,VF,False,NORMAL,13.3
-Mathilde BISGAARD,HHE,Horsens Håndbold Elite,1137.2,1,MV,True,NORMAL,-0.4
-Annette WIRÉN LARSEN,HHE,Horsens Håndbold Elite,1119.9,10,PL,False,NORMAL,23.5
+Mai KRAGBALLE,HHE,Horsens Håndbold Elite,1571.5,32,PL,False,LEGENDARY,171.8
+Annika MEYER,HHE,Horsens Håndbold Elite,1332.3,20,ST,False,ELITE,43.0
+Laura Holm ANDERSEN,HHE,Horsens Håndbold Elite,1304.2,30,VF,False,ELITE,93.3
+Melanie BAK,HHE,Horsens Håndbold Elite,1232.0,25,ST,False,NORMAL,60.6
+Mathilda LUNDSTRØM,HHE,Horsens Håndbold Elite,1162.1,5,HF,False,NORMAL,20.0
 Sille Cecilie SORTH,HHE,Horsens Håndbold Elite,1118.6,28,HF,False,NORMAL,103.6
 Maria Palsdottir NÓLSOY,HHE,Horsens Håndbold Elite,1115.8,30,VF,False,NORMAL,100.8
-Smilla HEDE,HHE,Horsens Håndbold Elite,1109.3,2,PL,False,NORMAL,1.1
+Maria HØJGAARD,HHE,Horsens Håndbold Elite,1106.2,8,VF,False,NORMAL,13.3
+Annette WIRÉN LARSEN,HHE,Horsens Håndbold Elite,1103.0,10,PL,False,NORMAL,23.5
 Romee MAARSCHALKEWEERD,HHE,Horsens Håndbold Elite,1094.0,29,ST,False,NORMAL,79.0
+Andrea AUSTMO,HHE,Horsens Håndbold Elite,1087.6,4,MV,True,NORMAL,0.8
 Frida Haug HOEL,HHE,Horsens Håndbold Elite,1083.7,28,HB,False,NORMAL,68.7
+Mathilde BISGAARD,HHE,Horsens Håndbold Elite,1083.6,1,MV,True,NORMAL,-0.4
+Smilla HEDE,HHE,Horsens Håndbold Elite,1061.9,2,PL,False,NORMAL,1.1
 Fanny ELOVSSON,HHE,Horsens Håndbold Elite,1045.1,17,PL,False,NORMAL,30.1
 Alma SKRETTING,HHE,Horsens Håndbold Elite,1025.1,12,ST,False,NORMAL,10.1
 Ditte TOKKESDAL,HHE,Horsens Håndbold Elite,1016.8,2,PL,False,NORMAL,1.8
-Andrea AUSTMO,HHE,Horsens Håndbold Elite,1015.8,4,MV,True,NORMAL,0.8

@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Erik Thorsteinsen TOFT,MTH,Mors-Thy Håndbold,1351.4,28,PL,False,NORMAL,351.4
-Marcus DAHLIN,MTH,Mors-Thy Håndbold,1345.0,27,HB,False,NORMAL,345.0
-Lasse PEDERSEN,MTH,Mors-Thy Håndbold,1289.1,26,HF,False,NORMAL,289.1
-Stefan NIELSEN,MTH,Mors-Thy Håndbold,1271.4,28,PL,False,NORMAL,271.4
-Henrik TILSTED,MTH,Mors-Thy Håndbold,1263.4,23,VF,False,NORMAL,263.4
-Nickolei JENSEN,MTH,Mors-Thy Håndbold,1261.7,26,ST,False,NORMAL,261.7
-Allan Toft HANSEN,MTH,Mors-Thy Håndbold,1237.6,20,ST,False,NORMAL,237.6
-Nicolaj SPANGGAARD,MTH,Mors-Thy Håndbold,1233.7,20,HB,False,NORMAL,233.7
-Tobias BALSBY-PEDERSEN,MTH,Mors-Thy Håndbold,1231.9,11,ST,False,NORMAL,231.9
-Lasse JUSTESEN,MTH,Mors-Thy Håndbold,1217.0,10,HF,False,NORMAL,217.0
-Nicolai SOMMER,MTH,Mors-Thy Håndbold,1214.0,11,PL,False,NORMAL,214.0
-Mads Kjeldgaard ANDERSEN,MTH,Mors-Thy Håndbold,1211.4,7,PL,False,NORMAL,211.4
-Asbjørn MADSEN,MTH,Mors-Thy Håndbold,1211.0,5,ST,False,NORMAL,211.0
-Kaare Ravn LARSEN,MTH,Mors-Thy Håndbold,1210.4,6,VF,False,NORMAL,210.4
-Kasper LINDGREN,MTH,Mors-Thy Håndbold,1207.0,12,PL,False,NORMAL,207.0
-Ronnie NICOLAISEN,MTH,Mors-Thy Håndbold,1206.5,3,MV,True,NORMAL,206.5
-Kasper LARSEN,MTH,Mors-Thy Håndbold,1199.9,5,MV,True,NORMAL,199.9
+Erik Thorsteinsen TOFT,MTH,Mors-Thy Håndbold,1166.4,28,PL,False,NORMAL,151.4
+Marcus DAHLIN,MTH,Mors-Thy Håndbold,1160.0,27,HB,False,NORMAL,145.0
+Lasse PEDERSEN,MTH,Mors-Thy Håndbold,1104.1,26,HF,False,NORMAL,89.1
+Stefan NIELSEN,MTH,Mors-Thy Håndbold,1086.4,28,PL,False,NORMAL,71.4
+Henrik TILSTED,MTH,Mors-Thy Håndbold,1078.4,23,VF,False,NORMAL,63.4
+Nickolei JENSEN,MTH,Mors-Thy Håndbold,1076.7,26,ST,False,NORMAL,61.7
+Allan Toft HANSEN,MTH,Mors-Thy Håndbold,1052.6,20,ST,False,NORMAL,37.6
+Nicolaj SPANGGAARD,MTH,Mors-Thy Håndbold,1048.7,20,HB,False,NORMAL,33.7
+Tobias BALSBY-PEDERSEN,MTH,Mors-Thy Håndbold,1046.9,11,ST,False,NORMAL,31.9
+Lasse JUSTESEN,MTH,Mors-Thy Håndbold,1032.0,10,HF,False,NORMAL,17.0
+Nicolai SOMMER,MTH,Mors-Thy Håndbold,1029.0,11,PL,False,NORMAL,14.0
+Mads Kjeldgaard ANDERSEN,MTH,Mors-Thy Håndbold,1026.4,7,PL,False,NORMAL,11.4
+Asbjørn MADSEN,MTH,Mors-Thy Håndbold,1026.0,5,ST,False,NORMAL,11.0
+Kaare Ravn LARSEN,MTH,Mors-Thy Håndbold,1025.4,6,VF,False,NORMAL,10.4
+Kasper LINDGREN,MTH,Mors-Thy Håndbold,1022.0,12,PL,False,NORMAL,7.0
+Ronnie NICOLAISEN,MTH,Mors-Thy Håndbold,1021.5,3,MV,True,NORMAL,6.5
+Kasper LARSEN,MTH,Mors-Thy Håndbold,1014.9,5,MV,True,NORMAL,-0.1

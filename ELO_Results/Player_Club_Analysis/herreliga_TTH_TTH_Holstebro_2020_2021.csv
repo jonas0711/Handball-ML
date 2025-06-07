@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Aaron MENSING,TTH,TTH Holstebro,1612.6,35,VB,False,NORMAL,213.1
-Magnus BRAMMING,TTH,TTH Holstebro,1523.1,30,VF,False,NORMAL,120.4
-Christoffer CICHOSZ,TTH,TTH Holstebro,1491.0,26,ST,False,NORMAL,88.5
-Johan MEKLENBORG,TTH,TTH Holstebro,1477.6,15,PL,False,NORMAL,80.3
-Jonas PORUP,TTH,TTH Holstebro,1469.6,30,PL,False,NORMAL,66.7
-Odinn RIKHARDSSON,TTH,TTH Holstebro,1312.0,32,HF,False,NORMAL,111.7
-Sebastian FRANDSEN,TTH,TTH Holstebro,1276.3,6,MV,True,NORMAL,52.3
-Nikolaj ENDERLEIT,TTH,TTH Holstebro,1237.2,5,HB,False,NORMAL,20.2
-Johan Thesbjerg KOFOED,TTH,TTH Holstebro,1223.0,5,PL,False,NORMAL,4.2
-Rickard FRISK,TTH,TTH Holstebro,1213.0,7,MV,True,NORMAL,8.8
-Allan DAMGAARD,TTH,TTH Holstebro,1209.7,27,ST,False,NORMAL,84.4
-Nicklas Graugaard NIELSEN,TTH,TTH Holstebro,1202.8,1,MV,True,NORMAL,2.9
+Aaron MENSING,TTH,TTH Holstebro,1546.5,35,VB,False,LEGENDARY,213.1
+Johan MEKLENBORG,TTH,TTH Holstebro,1408.6,15,PL,False,LEGENDARY,80.3
+Magnus BRAMMING,TTH,TTH Holstebro,1367.9,30,VF,False,ELITE,120.4
+Jonas PORUP,TTH,TTH Holstebro,1271.7,30,PL,False,ELITE,66.7
+Christoffer CICHOSZ,TTH,TTH Holstebro,1271.6,26,ST,False,ELITE,88.5
+Odinn RIKHARDSSON,TTH,TTH Holstebro,1271.0,32,HF,False,ELITE,111.7
 Kay SMITS,TTH,TTH Holstebro,1190.7,34,PL,False,NORMAL,175.7
-Mathias PORSHOLDT,TTH,TTH Holstebro,1162.7,12,ST,False,NORMAL,20.5
+Allan DAMGAARD,TTH,TTH Holstebro,1159.6,27,ST,False,NORMAL,84.4
+Sebastian FRANDSEN,TTH,TTH Holstebro,1142.4,6,MV,True,NORMAL,52.3
+Nikolaj ENDERLEIT,TTH,TTH Holstebro,1133.1,5,HB,False,NORMAL,20.2
+Mathias PORSHOLDT,TTH,TTH Holstebro,1098.9,12,ST,False,NORMAL,20.5
+Johan Thesbjerg KOFOED,TTH,TTH Holstebro,1091.3,5,PL,False,NORMAL,4.2
+Rickard FRISK,TTH,TTH Holstebro,1089.4,7,MV,True,NORMAL,8.8
+Nicklas Graugaard NIELSEN,TTH,TTH Holstebro,1088.2,1,MV,True,NORMAL,2.9
 Jesper MUNK,TTH,TTH Holstebro,1068.6,27,ST,False,NORMAL,53.6
 Tobias BAY,TTH,TTH Holstebro,1036.9,9,VF,False,NORMAL,21.9
 Jeppe FAURHOLT,TTH,TTH Holstebro,1034.0,9,HF,False,NORMAL,19.0

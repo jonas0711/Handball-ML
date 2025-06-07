@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Johan MEKLENBORG,NSH,Nordsjælland Håndbold,1519.2,21,PL,False,NORMAL,121.9
-Lasse UTH,NSH,Nordsjælland Håndbold,1448.6,29,VF,False,NORMAL,107.3
-Akutaaneq KREUTZMANN,NSH,Nordsjælland Håndbold,1399.6,24,PL,False,NORMAL,91.5
-Dan Beck HANSEN,NSH,Nordsjælland Håndbold,1396.3,26,ST,False,NORMAL,82.3
-Jesper DAHL,NSH,Nordsjælland Håndbold,1387.7,23,HF,False,NORMAL,80.3
-Nicolas Lundbye KRISTIANSEN,NSH,Nordsjælland Håndbold,1387.5,28,HB,False,NORMAL,91.1
-Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1335.3,23,HF,False,NORMAL,57.7
-Andreas Johann NIELSEN,NSH,Nordsjælland Håndbold,1321.4,23,ST,False,NORMAL,55.0
-Nicolas Lundbye KRISTIANSEN12,NSH,Nordsjælland Håndbold,1244.9,5,HF,False,NORMAL,9.1
-Mikkel PALMER,NSH,Nordsjælland Håndbold,1242.7,5,PL,False,NORMAL,3.7
-Nicolas Lundbye KRISTIANSENRetur,NSH,Nordsjælland Håndbold,1240.0,3,PL,False,NORMAL,1.9
-Mike JENSEN,NSH,Nordsjælland Håndbold,1225.1,9,MV,True,NORMAL,-3.0
+Johan MEKLENBORG,NSH,Nordsjælland Håndbold,1297.0,21,PL,False,ELITE,121.9
+Lasse UTH,NSH,Nordsjælland Håndbold,1242.7,29,VF,False,NORMAL,107.3
+Akutaaneq KREUTZMANN,NSH,Nordsjælland Håndbold,1200.7,24,PL,False,NORMAL,91.5
+Jesper DAHL,NSH,Nordsjælland Håndbold,1184.8,23,HF,False,NORMAL,80.3
+Dan Beck HANSEN,NSH,Nordsjælland Håndbold,1174.1,26,ST,False,NORMAL,82.3
+Nicolas Lundbye KRISTIANSEN,NSH,Nordsjælland Håndbold,1141.0,28,HB,False,NORMAL,91.1
+Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1122.9,23,HF,False,NORMAL,57.7
+Andreas Johann NIELSEN,NSH,Nordsjælland Håndbold,1111.9,23,ST,False,NORMAL,55.0
 Kasper KISUM,NSH,Nordsjælland Håndbold,1108.3,30,PL,False,NORMAL,93.3
 Tobias JØRGENSEN,NSH,Nordsjælland Håndbold,1066.4,19,PL,False,NORMAL,51.4
+Nicolas Lundbye KRISTIANSEN12,NSH,Nordsjælland Håndbold,1058.8,5,HF,False,NORMAL,9.1
+Nicolas Lundbye KRISTIANSENRetur,NSH,Nordsjælland Håndbold,1055.6,3,PL,False,NORMAL,1.9
+Mikkel PALMER,NSH,Nordsjælland Håndbold,1054.1,5,PL,False,NORMAL,3.7
+Mike JENSEN,NSH,Nordsjælland Håndbold,1041.7,9,MV,True,NORMAL,-3.0
 Daniel Astrup PEDERSEN,NSH,Nordsjælland Håndbold,1019.6,5,ST,False,NORMAL,4.6
 Kristian ASMUSSEN,NSH,Nordsjælland Håndbold,1014.6,1,MV,True,NORMAL,-0.4

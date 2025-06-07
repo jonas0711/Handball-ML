@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Freja COHRT,KBH,København Håndbold,1419.5,12,VF,False,NORMAL,18.4
-Helene KINDBERG,KBH,København Håndbold,1382.1,35,HF,False,NORMAL,182.5
-Stine JØRGENSEN,KBH,København Håndbold,1361.4,23,VB,False,NORMAL,94.7
-Pernille BRANDENBORG,KBH,København Håndbold,1297.8,31,ST,False,NORMAL,84.2
-Emma NAVNE,KBH,København Håndbold,1290.3,31,PL,False,NORMAL,117.5
-Clara SKØTT,KBH,København Håndbold,1286.9,12,HF,False,NORMAL,39.4
-Tabea SCHMID,KBH,København Håndbold,1280.6,35,ST,False,NORMAL,160.7
-Catharina MOLENAAR,KBH,København Håndbold,1219.6,29,ST,False,NORMAL,86.4
-Anne Christine BOSSEN,KBH,København Håndbold,1164.1,9,MV,True,NORMAL,12.6
-Martina THÖRN,KBH,København Håndbold,1156.9,1,MV,True,NORMAL,-0.4
-Bianca SCHANSSEMA,KBH,København Håndbold,1148.5,5,MV,True,NORMAL,9.7
+Helene KINDBERG,KBH,København Håndbold,1433.4,35,HF,False,LEGENDARY,182.5
+Stine JØRGENSEN,KBH,København Håndbold,1370.3,23,VB,False,ELITE,94.7
+Emma NAVNE,KBH,København Håndbold,1289.7,31,PL,False,ELITE,117.5
+Pernille BRANDENBORG,KBH,København Håndbold,1284.4,31,ST,False,ELITE,84.2
+Emilie Ytting PEDERSEN,KBH,København Håndbold,1284.3,26,VF,False,ELITE,75.3
+Freja COHRT,KBH,København Håndbold,1282.4,12,VF,False,ELITE,18.4
+Tabea SCHMID,KBH,København Håndbold,1275.5,35,ST,False,ELITE,160.7
+Clara SKØTT,KBH,København Håndbold,1241.3000000000002,12,HF,False,NORMAL,39.4
+Tonje LØSETH,KBH,København Håndbold,1197.5,5,ST,False,NORMAL,8.9
+Catharina MOLENAAR,KBH,København Håndbold,1181.8000000000002,29,ST,False,NORMAL,86.4
 Ditte BACH,KBH,København Håndbold,1144.6,27,HF,False,NORMAL,129.6
-Emilie Ytting PEDERSEN,KBH,København Håndbold,1090.3,26,VF,False,NORMAL,75.3
-Emilie YTTING,KBH,København Håndbold,1087.8,7,VF,False,NORMAL,20.2
+Emilie YTTING,KBH,København Håndbold,1107.6,7,VF,False,NORMAL,20.2
+Anne Christine BOSSEN,KBH,København Håndbold,1106.5,9,MV,True,NORMAL,12.6
+Martina THÖRN,KBH,København Håndbold,1099.5,1,MV,True,NORMAL,-0.4
+Bianca SCHANSSEMA,KBH,København Håndbold,1095.0,5,MV,True,NORMAL,9.7
 Martha NICKELSEN,KBH,København Håndbold,1054.3,23,ST,False,NORMAL,39.3
-Tonje LØSETH,KBH,København Håndbold,1023.9,5,ST,False,NORMAL,8.9
 Agnes HVIDSTEEN,KBH,København Håndbold,1017.8,4,ST,False,NORMAL,2.8

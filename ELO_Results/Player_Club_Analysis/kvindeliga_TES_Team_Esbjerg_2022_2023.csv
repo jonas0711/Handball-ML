@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Kristine BREISTØL,TES,Team Esbjerg,1597.4,31,PL,False,NORMAL,194.9
-Vilde Mortensen INGSTAD,TES,Team Esbjerg,1549.1,30,ST,False,NORMAL,146.9
-Marit Røsberg JACOBSEN,TES,Team Esbjerg,1381.5,21,HF,False,NORMAL,69.3
-Mette TRANBORG,TES,Team Esbjerg,1376.5,29,HB,True,NORMAL,125.7
-Kaja Kamp NIELSEN,TES,Team Esbjerg,1372.1,29,ST,False,NORMAL,75.5
-Henny REISTAD,TES,Team Esbjerg,1262.1,31,PL,False,NORMAL,139.0
-Anne Tolstrup PETERSEN,TES,Team Esbjerg,1224.0,25,HF,False,NORMAL,64.2
-Sanna SOLBERG,TES,Team Esbjerg,1166.5,8,VF,False,NORMAL,27.7
-Michala MØLLER,TES,Team Esbjerg,1162.5,18,PL,False,NORMAL,71.2
-Rikke POULSEN,TES,Team Esbjerg,1144.5,1,MV,True,NORMAL,-0.1
-Amalie MILLING,TES,Team Esbjerg,1137.0,3,MV,True,NORMAL,-4.8
-Anna KRISTENSEN,TES,Team Esbjerg,1129.1,5,MV,True,NORMAL,-1.7
-Nora MØRK,TES,Team Esbjerg,1119.0,30,PL,False,NORMAL,104.0
-Beyza TÜRKOGLU,TES,Team Esbjerg,1111.1,21,VF,False,NORMAL,35.7
-Kathrine HEINDAHL,TES,Team Esbjerg,1064.3,24,ST,False,NORMAL,49.3
-Julie Bøe JACOBSEN,TES,Team Esbjerg,1050.1,16,HB,False,NORMAL,35.1
+Kristine BREISTØL,TES,Team Esbjerg,1553.6,31,PL,False,LEGENDARY,207.2
+Vilde Mortensen INGSTAD,TES,Team Esbjerg,1448.7,30,ST,False,LEGENDARY,155.8
+Mette TRANBORG,TES,Team Esbjerg,1390.0,29,HB,True,ELITE,135.6
+Kaja Kamp NIELSEN,TES,Team Esbjerg,1348.4,29,ST,False,ELITE,79.4
+Marit Røsberg JACOBSEN,TES,Team Esbjerg,1313.7,21,HF,False,ELITE,74.2
+Henny REISTAD,TES,Team Esbjerg,1270.2,31,PL,False,ELITE,144.9
+Kathrine HEINDAHL,TES,Team Esbjerg,1255.6,24,ST,False,ELITE,51.3
+Anne Tolstrup PETERSEN,TES,Team Esbjerg,1188.0,25,HF,False,NORMAL,66.7
+Sanna SOLBERG,TES,Team Esbjerg,1169.1,8,VF,False,NORMAL,31.1
+Michala MØLLER,TES,Team Esbjerg,1163.1,18,PL,False,NORMAL,76.3
+Nora MØRK,TES,Team Esbjerg,1121.6,30,PL,False,NORMAL,106.6
+Beyza TÜRKOGLU,TES,Team Esbjerg,1101.0,21,VF,False,NORMAL,35.7
+Rikke POULSEN,TES,Team Esbjerg,1080.5,1,MV,True,NORMAL,-0.1
+Amalie MILLING,TES,Team Esbjerg,1076.0,3,MV,True,NORMAL,-5.5
+Anna KRISTENSEN,TES,Team Esbjerg,1068.5,5,MV,True,NORMAL,-1.7
+Julie Bøe JACOBSEN,TES,Team Esbjerg,1052.3,16,HB,False,NORMAL,37.3

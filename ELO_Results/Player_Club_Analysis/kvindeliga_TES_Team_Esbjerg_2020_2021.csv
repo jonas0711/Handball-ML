@@ -1,16 +1,16 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Vilde Mortensen INGSTAD,TES,Team Esbjerg,1478.6,26,ST,False,NORMAL,76.4
-Kristine BREISTØL,TES,Team Esbjerg,1341.3,32,PL,False,NORMAL,136.3
-Marit Røsberg JACOBSEN,TES,Team Esbjerg,1262.8,32,HF,False,NORMAL,90.4
-Kaja Kamp NIELSEN,TES,Team Esbjerg,1216.5,25,ST,False,NORMAL,46.3
-Annette JENSEN,TES,Team Esbjerg,1213.2,36,PL,False,NORMAL,84.7
-Elma HALILCEVIC,TES,Team Esbjerg,1210.2,16,VF,False,NORMAL,17.8
-Marit Malm FRAFJORD,TES,Team Esbjerg,1209.3,27,ST,False,NORMAL,75.8
-Sonja FREY,TES,Team Esbjerg,1181.3,30,ST,False,NORMAL,88.4
-Mette TRANBORG,TES,Team Esbjerg,1158.4,36,HB,False,NORMAL,143.4
-Rikke POULSEN,TES,Team Esbjerg,1150.8,5,MV,True,NORMAL,0.2
-Rikke Marie GRANLUND,TES,Team Esbjerg,1130.6,8,MV,True,NORMAL,7.7
+Kristine BREISTØL,TES,Team Esbjerg,1331.0,32,PL,False,ELITE,136.3
+Vilde Mortensen INGSTAD,TES,Team Esbjerg,1277.7,26,ST,False,ELITE,76.4
+Mette TRANBORG,TES,Team Esbjerg,1266.8000000000002,36,HB,False,ELITE,143.4
+Marit Røsberg JACOBSEN,TES,Team Esbjerg,1256.1,32,HF,False,ELITE,90.4
+Kaja Kamp NIELSEN,TES,Team Esbjerg,1221.1,25,ST,False,NORMAL,46.3
+Sonja FREY,TES,Team Esbjerg,1179.9,30,ST,False,NORMAL,88.4
+Marit Malm FRAFJORD,TES,Team Esbjerg,1163.5,27,ST,False,NORMAL,75.8
+Annette JENSEN,TES,Team Esbjerg,1154.5,36,PL,False,NORMAL,84.7
 Sanna SOLBERG,TES,Team Esbjerg,1089.7,31,VF,False,NORMAL,74.7
 Nerea PENA,TES,Team Esbjerg,1079.6,19,ST,False,NORMAL,64.6
+Elma HALILCEVIC,TES,Team Esbjerg,1076.2,16,VF,False,NORMAL,17.8
+Rikke Marie GRANLUND,TES,Team Esbjerg,1066.2,8,MV,True,NORMAL,7.7
+Rikke POULSEN,TES,Team Esbjerg,1061.3,5,MV,True,NORMAL,0.2
 Line MYERS,TES,Team Esbjerg,1021.1,5,HF,False,NORMAL,6.1
 Stella Kate MUIR,TES,Team Esbjerg,1019.1,4,ST,False,NORMAL,4.1

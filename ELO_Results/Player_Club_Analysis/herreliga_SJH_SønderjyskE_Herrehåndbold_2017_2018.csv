@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Aaron MENSING,SJH,SønderjyskE Herrehåndbold,1320.3,29,VB,False,NORMAL,320.3
-Chris Holm JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1297.6,29,PL,False,NORMAL,297.6
-Adam NYFJÄLL,SJH,SønderjyskE Herrehåndbold,1272.1,26,ST,False,NORMAL,272.1
-Alexander HANSEN,SJH,SønderjyskE Herrehåndbold,1261.9,27,HB,False,NORMAL,261.9
-Kasper OLSEN,SJH,SønderjyskE Herrehåndbold,1261.6,27,VB,False,NORMAL,261.6
-Mikkel Kjær MØLLER,SJH,SønderjyskE Herrehåndbold,1259.3,25,VF,False,NORMAL,259.3
-Simon Westh KRISTIANSEN,SJH,SønderjyskE Herrehåndbold,1257.1,20,HB,False,NORMAL,257.1
-Christian JENSEN,SJH,SønderjyskE Herrehåndbold,1256.2,26,HF,False,NORMAL,256.2
-Frederik BØRM,SJH,SønderjyskE Herrehåndbold,1249.7,23,ST,False,NORMAL,249.7
-Mattias THYNELL,SJH,SønderjyskE Herrehåndbold,1243.4,7,VB,False,NORMAL,243.4
-Claus KJELDGAARD,SJH,SønderjyskE Herrehåndbold,1231.2,22,PL,False,NORMAL,231.2
-Christoffer FORS,SJH,SønderjyskE Herrehåndbold,1228.6,13,VF,False,NORMAL,228.6
-Kenneth Bach HANSEN,SJH,SønderjyskE Herrehåndbold,1222.3,19,HF,False,NORMAL,222.3
-Kristian Dahl PEDERSEN,SJH,SønderjyskE Herrehåndbold,1206.5,7,MV,True,NORMAL,206.5
-Jacob LYCK,SJH,SønderjyskE Herrehåndbold,1205.6,6,VB,False,NORMAL,205.6
-Thorsten FRIES,SJH,SønderjyskE Herrehåndbold,1202.0,3,MV,True,NORMAL,202.0
+Aaron MENSING,SJH,SønderjyskE Herrehåndbold,1135.3,29,VB,False,NORMAL,120.3
+Chris Holm JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1112.6,29,PL,False,NORMAL,97.6
+Adam NYFJÄLL,SJH,SønderjyskE Herrehåndbold,1087.1,26,ST,False,NORMAL,72.1
+Alexander HANSEN,SJH,SønderjyskE Herrehåndbold,1076.9,27,HB,False,NORMAL,61.9
+Kasper OLSEN,SJH,SønderjyskE Herrehåndbold,1076.6,27,VB,False,NORMAL,61.6
+Mikkel Kjær MØLLER,SJH,SønderjyskE Herrehåndbold,1074.3,25,VF,False,NORMAL,59.3
+Simon Westh KRISTIANSEN,SJH,SønderjyskE Herrehåndbold,1072.1,20,HB,False,NORMAL,57.1
+Christian JENSEN,SJH,SønderjyskE Herrehåndbold,1071.2,26,HF,False,NORMAL,56.2
+Frederik BØRM,SJH,SønderjyskE Herrehåndbold,1064.7,23,ST,False,NORMAL,49.7
+Mattias THYNELL,SJH,SønderjyskE Herrehåndbold,1058.4,7,VB,False,NORMAL,43.4
+Claus KJELDGAARD,SJH,SønderjyskE Herrehåndbold,1046.2,22,PL,False,NORMAL,31.2
+Christoffer FORS,SJH,SønderjyskE Herrehåndbold,1043.6,13,VF,False,NORMAL,28.6
+Kenneth Bach HANSEN,SJH,SønderjyskE Herrehåndbold,1037.3,19,HF,False,NORMAL,22.3
+Kristian Dahl PEDERSEN,SJH,SønderjyskE Herrehåndbold,1021.5,7,MV,True,NORMAL,6.5
+Jacob LYCK,SJH,SønderjyskE Herrehåndbold,1020.6,6,VB,False,NORMAL,5.6
+Thorsten FRIES,SJH,SønderjyskE Herrehåndbold,1017.0,3,MV,True,NORMAL,2.0

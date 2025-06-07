@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Magnus BRAMMING,TTH,TTH Holstebro,1502.4,29,VF,False,NORMAL,99.7
-Jonas Gade NIELSEN,TTH,TTH Holstebro,1478.0,28,HB,False,NORMAL,116.9
-Jonas PORUP,TTH,TTH Holstebro,1463.1,27,PL,False,NORMAL,60.2
-Frederik TILSTED,TTH,TTH Holstebro,1451.0,18,PL,False,NORMAL,51.9
-Johan MEKLENBORG,TTH,TTH Holstebro,1440.6,12,PL,False,NORMAL,43.3
-Christoffer CICHOSZ,TTH,TTH Holstebro,1433.9,17,ST,False,NORMAL,31.4
-Allan DAMGAARD,TTH,TTH Holstebro,1307.8,28,ST,False,NORMAL,93.1
-Christian JENSEN,TTH,TTH Holstebro,1261.4,14,HF,False,NORMAL,23.8
-Josip CAVAR,TTH,TTH Holstebro,1237.3,8,MV,True,NORMAL,23.9
-Mathias PORSHOLDT,TTH,TTH Holstebro,1204.1,28,ST,False,NORMAL,43.3
-Emil JENSEN,TTH,TTH Holstebro,1160.2,16,PL,False,NORMAL,25.6
-Jesper MUNK,TTH,TTH Holstebro,1154.7,22,ST,False,NORMAL,47.2
-Jeppe FAURHOLT,TTH,TTH Holstebro,1133.3,8,HF,False,NORMAL,29.9
-Nikolaj MARKUSSEN,TTH,TTH Holstebro,1124.0,27,PL,False,NORMAL,109.0
+Nikolaj MARKUSSEN,TTH,TTH Holstebro,1476.2,27,PL,False,LEGENDARY,109.0
+Magnus BRAMMING,TTH,TTH Holstebro,1415.4,29,VF,False,LEGENDARY,99.7
+Jonas Gade NIELSEN,TTH,TTH Holstebro,1390.9,28,HB,False,ELITE,116.9
+Johan MEKLENBORG,TTH,TTH Holstebro,1363.5,12,PL,False,ELITE,43.3
+Jonas PORUP,TTH,TTH Holstebro,1313.8,27,PL,False,ELITE,60.2
+Christoffer CICHOSZ,TTH,TTH Holstebro,1273.9,17,ST,False,ELITE,31.4
+Allan DAMGAARD,TTH,TTH Holstebro,1254.6999999999998,28,ST,False,ELITE,93.1
+Frederik TILSTED,TTH,TTH Holstebro,1252.6,18,PL,False,ELITE,51.9
+Christian JENSEN,TTH,TTH Holstebro,1152.5,14,HF,False,NORMAL,23.8
+Mathias PORSHOLDT,TTH,TTH Holstebro,1141.1,28,ST,False,NORMAL,43.3
+Josip CAVAR,TTH,TTH Holstebro,1125.2,8,MV,True,NORMAL,23.9
+Jesper MUNK,TTH,TTH Holstebro,1120.0,22,ST,False,NORMAL,47.2
 Rasmus KIER,TTH,TTH Holstebro,1099.1,31,HF,False,NORMAL,84.1
-Simon Damgaard JENSEN,TTH,TTH Holstebro,1032.2,8,VF,False,NORMAL,17.2
-Ronnie NICOLAISEN,TTH,TTH Holstebro,1017.5,4,MV,True,NORMAL,2.5
+Emil JENSEN,TTH,TTH Holstebro,1098.8,16,PL,False,NORMAL,25.6
+Simon Damgaard JENSEN,TTH,TTH Holstebro,1098.0,8,VF,False,NORMAL,17.2
+Ronnie NICOLAISEN,TTH,TTH Holstebro,1092.9,4,MV,True,NORMAL,2.5
+Jeppe FAURHOLT,TTH,TTH Holstebro,1087.9,8,HF,False,NORMAL,29.9

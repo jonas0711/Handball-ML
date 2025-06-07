@@ -1,5 +1,4 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Sofie BLICHER-TOFT,SKB,Skanderborg Håndbold,1223.6,13,PL,False,NORMAL,14.5
 Trine KNUDSEN,SKB,Skanderborg Håndbold,1182.4,29,PL,False,NORMAL,167.4
 Stine HOLM,SKB,Skanderborg Håndbold,1137.1,29,HF,True,NORMAL,122.1
 Mette Brandt NIELSEN,SKB,Skanderborg Håndbold,1136.9,28,PL,False,NORMAL,121.9
@@ -8,6 +7,7 @@ Sidsel MEJLVANG,SKB,Skanderborg Håndbold,1083.8,23,ST,False,NORMAL,68.8
 Marie Aamand SØRENSEN,SKB,Skanderborg Håndbold,1065.2,25,ST,False,NORMAL,50.2
 Sofia DEEN,SKB,Skanderborg Håndbold,1052.3,24,PL,False,NORMAL,37.3
 Melanie FUGLSBJERG,SKB,Skanderborg Håndbold,1043.3,19,HF,False,NORMAL,28.3
+Sofie BLICHER-TOFT,SKB,Skanderborg Håndbold,1042.8,13,PL,False,NORMAL,14.5
 Katrine LARSON,SKB,Skanderborg Håndbold,1034.1,11,HB,False,NORMAL,19.1
 Stine KRISTENSEN,SKB,Skanderborg Håndbold,1030.2,12,HF,False,NORMAL,15.2
 Sofie Hartung SLETSKOV,SKB,Skanderborg Håndbold,1020.2,8,PL,False,NORMAL,5.2

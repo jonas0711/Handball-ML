@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Mia REJ,KBH,København Håndbold,1244.6,12,PL,False,NORMAL,244.6
-Anne Cecilie DE LA COUR,KBH,København Håndbold,1242.2,12,HB,False,NORMAL,242.2
-Jenny ALM,KBH,København Håndbold,1237.6,12,PL,False,NORMAL,237.6
-Debbie BONT,KBH,København Håndbold,1228.4,12,HF,False,NORMAL,228.4
-Maria LYKKEGAARD,KBH,København Håndbold,1225.1,9,ST,False,NORMAL,225.1
-Kelly DULFER,KBH,København Håndbold,1223.3,12,PL,False,NORMAL,223.3
-Stine KNUDSEN,KBH,København Håndbold,1216.7,8,VF,False,NORMAL,216.7
-Mai KRAGBALLE,KBH,København Håndbold,1214.1,9,VB,False,NORMAL,214.1
-Louise FØNS,KBH,København Håndbold,1214.1,8,VF,False,NORMAL,214.1
-Annika MEYER,KBH,København Håndbold,1207.5,5,ST,False,NORMAL,207.5
-Hanna BLOMSTRAND,KBH,København Håndbold,1207.5,8,HB,False,NORMAL,207.5
-Louise SVALASTOG,KBH,København Håndbold,1204.5,4,ST,False,NORMAL,204.5
-Myrthe SCHOENAKER,KBH,København Håndbold,1203.4,3,ST,False,NORMAL,203.4
-Johanna BUNDSEN,KBH,København Håndbold,1199.6,2,MV,True,NORMAL,199.6
+Mia REJ,KBH,København Håndbold,1059.6,12,PL,False,NORMAL,44.6
+Anne Cecilie DE LA COUR,KBH,København Håndbold,1057.2,12,HB,False,NORMAL,42.2
+Jenny ALM,KBH,København Håndbold,1052.6,12,PL,False,NORMAL,37.6
+Debbie BONT,KBH,København Håndbold,1043.4,12,HF,False,NORMAL,28.4
+Maria LYKKEGAARD,KBH,København Håndbold,1040.1,9,ST,False,NORMAL,25.1
+Kelly DULFER,KBH,København Håndbold,1038.3,12,PL,False,NORMAL,23.3
+Stine KNUDSEN,KBH,København Håndbold,1031.7,8,VF,False,NORMAL,16.7
+Louise FØNS,KBH,København Håndbold,1029.1,8,VF,False,NORMAL,14.1
+Mai KRAGBALLE,KBH,København Håndbold,1029.1,9,VB,False,NORMAL,14.1
+Annika MEYER,KBH,København Håndbold,1022.5,5,ST,False,NORMAL,7.5
+Hanna BLOMSTRAND,KBH,København Håndbold,1022.5,8,HB,False,NORMAL,7.5
+Louise SVALASTOG,KBH,København Håndbold,1019.5,4,ST,False,NORMAL,4.5
+Myrthe SCHOENAKER,KBH,København Håndbold,1018.4,3,ST,False,NORMAL,3.4
+Johanna BUNDSEN,KBH,København Håndbold,1014.6,2,MV,True,NORMAL,-0.4

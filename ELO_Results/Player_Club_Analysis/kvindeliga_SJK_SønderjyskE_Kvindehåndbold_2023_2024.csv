@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Lea HANSEN,SJK,SønderjyskE Kvindehåndbold,1437.2,18,HF,False,NORMAL,35.6
-Louise ELLEBÆK,SJK,SønderjyskE Kvindehåndbold,1434.3,19,PL,False,NORMAL,34.4
-Rikke Hoffbeck PETERSEN,SJK,SønderjyskE Kvindehåndbold,1307.7,26,VF,False,NORMAL,55.6
-Olivia SIMONSEN,SJK,SønderjyskE Kvindehåndbold,1304.8,20,ST,False,NORMAL,23.5
-Line UNO,SJK,SønderjyskE Kvindehåndbold,1183.0,29,PL,False,NORMAL,91.1
-Ricka Falk GINDRUP,SJK,SønderjyskE Kvindehåndbold,1181.0,27,ST,False,NORMAL,67.8
-Pernille JOHANNSEN,SJK,SønderjyskE Kvindehåndbold,1171.3,25,HF,False,NORMAL,45.7
-Stine BROLØS,SJK,SønderjyskE Kvindehåndbold,1158.1,7,MV,True,NORMAL,11.5
-Tine GEERTSEN,SJK,SønderjyskE Kvindehåndbold,1145.2,3,HF,False,NORMAL,2.7
+Louise ELLEBÆK,SJK,SønderjyskE Kvindehåndbold,1363.4,19,PL,False,ELITE,34.4
+Lea HANSEN,SJK,SønderjyskE Kvindehåndbold,1344.6999999999998,18,HF,False,ELITE,35.6
+Rikke Hoffbeck PETERSEN,SJK,SønderjyskE Kvindehåndbold,1319.4,26,VF,False,ELITE,55.6
+Olivia SIMONSEN,SJK,SønderjyskE Kvindehåndbold,1270.4,20,ST,False,ELITE,23.5
+Josefine DRAGENBERG,SJK,SønderjyskE Kvindehåndbold,1256.8,8,ST,False,ELITE,16.5
+Ricka Falk GINDRUP,SJK,SønderjyskE Kvindehåndbold,1251.2,27,ST,False,ELITE,67.8
+Pernille JOHANNSEN,SJK,SønderjyskE Kvindehåndbold,1234.7,25,HF,False,NORMAL,45.7
+Line UNO,SJK,SønderjyskE Kvindehåndbold,1198.8,29,PL,False,NORMAL,91.1
 Sarah PAULSEN,SJK,SønderjyskE Kvindehåndbold,1121.2,31,PL,False,NORMAL,106.2
-Josefine DRAGENBERG,SJK,SønderjyskE Kvindehåndbold,1120.9,8,ST,False,NORMAL,16.5
+Stine BROLØS,SJK,SønderjyskE Kvindehåndbold,1101.8,7,MV,True,NORMAL,11.5
+Nora PERSSON,SJK,SønderjyskE Kvindehåndbold,1091.0,2,MV,True,NORMAL,-1.0
+Tine GEERTSEN,SJK,SønderjyskE Kvindehåndbold,1082.2,3,HF,False,NORMAL,2.7
 Ida LAGERBON,SJK,SønderjyskE Kvindehåndbold,1076.9,29,PL,False,NORMAL,61.9
 Nicoline OLSEN,SJK,SønderjyskE Kvindehåndbold,1063.1,28,HB,False,NORMAL,48.1
 Camille MANDRET,SJK,SønderjyskE Kvindehåndbold,1044.1,21,ST,False,NORMAL,29.1
 Sara IBRANOVIC,SJK,SønderjyskE Kvindehåndbold,1037.3,13,VF,False,NORMAL,22.3
-Nora PERSSON,SJK,SønderjyskE Kvindehåndbold,1014.0,2,MV,True,NORMAL,-1.0

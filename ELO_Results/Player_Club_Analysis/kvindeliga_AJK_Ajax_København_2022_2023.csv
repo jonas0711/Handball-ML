@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Cecilie SPECHT,AJK,Ajax København,1358.9,30,HB,False,NORMAL,96.6
-Anna GRUNDTVIG,AJK,Ajax København,1329.8,29,VF,False,NORMAL,90.7
-Amanda Loft HANSEN,AJK,Ajax København,1167.2,23,ST,False,NORMAL,44.4
-Sarah Nørklit LØNBORG,AJK,Ajax København,1157.5,11,MV,True,NORMAL,15.1
-Anne With JOHANSEN,AJK,Ajax København,1141.4,25,PL,False,NORMAL,47.8
-Simone PEDERSEN,AJK,Ajax København,1136.3,16,ST,False,NORMAL,38.2
-Natasja CLAUSEN,AJK,Ajax København,1127.9,2,MV,True,NORMAL,3.3
-Liv Sveinbjørnsdóttir POULSEN,AJK,Ajax København,1125.5,17,HF,False,NORMAL,20.6
-Emma Kiellberg JØRGENSEN,AJK,Ajax København,1086.2,9,PL,False,NORMAL,14.1
-Maja Eiberg JØRGENSEN,AJK,Ajax København,1082.0,27,PL,False,NORMAL,67.0
-Matilde KONDRUP NIELSEN,AJK,Ajax København,1074.2,6,VF,False,NORMAL,10.3
+Cecilie SPECHT,AJK,Ajax København,1324.1,30,HB,False,ELITE,96.6
+Anna GRUNDTVIG,AJK,Ajax København,1311.8,29,VF,False,ELITE,90.7
+Maja Eiberg JØRGENSEN,AJK,Ajax København,1189.6,27,PL,False,NORMAL,67.0
+Amanda Loft HANSEN,AJK,Ajax København,1115.2,23,ST,False,NORMAL,44.4
+Anne With JOHANSEN,AJK,Ajax København,1098.7,25,PL,False,NORMAL,47.8
+Sarah Nørklit LØNBORG,AJK,Ajax København,1091.5,11,MV,True,NORMAL,15.1
+Simone PEDERSEN,AJK,Ajax København,1088.9,16,ST,False,NORMAL,38.2
+Natasja CLAUSEN,AJK,Ajax København,1088.3,2,MV,True,NORMAL,3.3
+Liv Sveinbjørnsdóttir POULSEN,AJK,Ajax København,1077.1999999999998,17,HF,False,NORMAL,20.6
 Rosa SCHMIDT,AJK,Ajax København,1071.1,20,HF,False,NORMAL,56.1
 Suna Krossteig HANSEN,AJK,Ajax København,1067.7,26,PL,False,NORMAL,52.7
 Amanda Marie POULSEN,AJK,Ajax København,1066.0,26,PL,False,NORMAL,51.0
+Emma Kiellberg JØRGENSEN,AJK,Ajax København,1053.6,9,PL,False,NORMAL,14.1
+Matilde KONDRUP NIELSEN,AJK,Ajax København,1025.3,6,VF,False,NORMAL,10.3
 Emma Rose Penny LAURSEN,AJK,Ajax København,1025.1,10,PL,False,NORMAL,10.1
 Chantal WICK,AJK,Ajax København,1020.0,8,VB,False,NORMAL,5.0
 Katrine JACOBSEN,AJK,Ajax København,1016.5,3,PL,False,NORMAL,1.5

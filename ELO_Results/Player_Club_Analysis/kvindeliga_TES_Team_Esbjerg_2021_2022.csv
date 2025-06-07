@@ -1,19 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Kristine BREISTØL,TES,Team Esbjerg,1526.6,36,PL,False,NORMAL,169.8
-Vilde Mortensen INGSTAD,TES,Team Esbjerg,1484.4,24,ST,False,NORMAL,82.2
-Marit Røsberg JACOBSEN,TES,Team Esbjerg,1314.9,16,HF,False,NORMAL,53.9
-Kaja Kamp NIELSEN,TES,Team Esbjerg,1292.6,32,ST,False,NORMAL,73.3
-Annette JENSEN,TES,Team Esbjerg,1273.4,24,ST,False,NORMAL,51.9
-Mette TRANBORG,TES,Team Esbjerg,1262.3,35,HB,False,NORMAL,101.8
-Marit Malm FRAFJORD,TES,Team Esbjerg,1258.6,22,ST,False,NORMAL,48.3
-Estavana POLMAN,TES,Team Esbjerg,1222.0,5,PL,False,NORMAL,10.1
-Rikke POULSEN,TES,Team Esbjerg,1145.6,1,MV,True,NORMAL,-0.2
-Sanna SOLBERG,TES,Team Esbjerg,1138.8,22,VF,False,NORMAL,41.8
-Michala Elsberg MØLLER,TES,Team Esbjerg,1126.8,5,HB,False,NORMAL,6.0
+Kristine BREISTØL,TES,Team Esbjerg,1470.8,36,PL,False,LEGENDARY,169.8
+Vilde Mortensen INGSTAD,TES,Team Esbjerg,1331.0,24,ST,False,ELITE,82.2
+Mette TRANBORG,TES,Team Esbjerg,1318.4,35,HB,False,ELITE,101.8
+Kaja Kamp NIELSEN,TES,Team Esbjerg,1301.2,32,ST,False,ELITE,73.3
+Marit Røsberg JACOBSEN,TES,Team Esbjerg,1276.0,16,HF,False,ELITE,53.9
+Marit Malm FRAFJORD,TES,Team Esbjerg,1217.5,22,ST,False,NORMAL,48.3
+Annette JENSEN,TES,Team Esbjerg,1213.9,24,ST,False,NORMAL,51.9
+Line JØRGENSEN,TES,Team Esbjerg,1149.6,11,HF,False,NORMAL,30.9
+Sanna SOLBERG,TES,Team Esbjerg,1132.8,22,VF,False,NORMAL,41.8
+Estavana POLMAN,TES,Team Esbjerg,1132.1,5,PL,False,NORMAL,10.1
 Henny REISTAD,TES,Team Esbjerg,1120.5,30,PL,False,NORMAL,105.5
+Michala Elsberg MØLLER,TES,Team Esbjerg,1102.8,5,HB,False,NORMAL,6.0
 Michala MØLLER,TES,Team Esbjerg,1085.5,28,PL,False,NORMAL,70.5
+Rikke POULSEN,TES,Team Esbjerg,1070.3,1,MV,True,NORMAL,-0.2
 Beyza TÜRKOGLU,TES,Team Esbjerg,1060.4,21,HF,False,NORMAL,45.4
-Line JØRGENSEN,TES,Team Esbjerg,1045.9,11,HF,False,NORMAL,30.9
 Henny Ella REISTAD,TES,Team Esbjerg,1037.9,6,ST,False,NORMAL,22.9
 Sanna Charlotte SOLBERG-ISAKSEN,TES,Team Esbjerg,1025.5,5,VF,False,NORMAL,10.5
 Beyza Irem TÜRKOGLU,TES,Team Esbjerg,1022.3,4,HF,False,NORMAL,7.3

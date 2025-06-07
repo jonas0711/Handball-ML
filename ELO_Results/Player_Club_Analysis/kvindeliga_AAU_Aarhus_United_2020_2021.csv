@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-June BØTTGER,AAU,Aarhus United,1494.9,29,VF,False,NORMAL,93.3
-Annika MEYER,AAU,Aarhus United,1357.3,30,ST,False,NORMAL,77.9
-Line Berggren LARSEN,AAU,Aarhus United,1266.9,29,PL,False,NORMAL,59.6
-Emma MOGENSEN,AAU,Aarhus United,1259.4,12,PL,False,NORMAL,16.1
-Mathilde NEESGAARD,AAU,Aarhus United,1224.5,30,PL,True,NORMAL,106.8
-Charlotte Lund MIKKELSEN,AAU,Aarhus United,1201.8,10,HF,False,NORMAL,29.1
-Line ELLERTSEN,AAU,Aarhus United,1180.4,32,PL,False,NORMAL,106.8
-Cecilie Mørch HANSEN,AAU,Aarhus United,1172.7,17,VB,False,NORMAL,23.9
-Frederikke Glavind HEDEGAARD,AAU,Aarhus United,1136.1,25,HF,False,NORMAL,41.3
-Martina THÖRN,AAU,Aarhus United,1126.4,11,MV,True,NORMAL,-1.8
+June BØTTGER,AAU,Aarhus United,1339.0,29,VF,False,ELITE,93.3
+Line Berggren LARSEN,AAU,Aarhus United,1287.4,29,PL,False,ELITE,59.6
+Mathilde NEESGAARD,AAU,Aarhus United,1229.2,30,PL,True,NORMAL,106.8
+Charlotte Lund MIKKELSEN,AAU,Aarhus United,1203.0,10,HF,False,NORMAL,29.1
+Cecilie Mørch HANSEN,AAU,Aarhus United,1185.6,17,VB,False,NORMAL,23.9
+Line ELLERTSEN,AAU,Aarhus United,1168.8,32,PL,False,NORMAL,106.8
+Annika MEYER,AAU,Aarhus United,1155.9,30,ST,False,NORMAL,77.9
+Frederikke Glavind HEDEGAARD,AAU,Aarhus United,1100.1,25,HF,False,NORMAL,41.3
 Marielle MARTINSEN,AAU,Aarhus United,1090.8,29,PL,False,NORMAL,75.8
+Emma MOGENSEN,AAU,Aarhus United,1089.1,12,PL,False,NORMAL,16.1
+Martina THÖRN,AAU,Aarhus United,1059.5,11,MV,True,NORMAL,-1.8
+Sophia SNOGDAL,AAU,Aarhus United,1052.9,15,VF,False,NORMAL,22.5
 Marie SØRENSEN,AAU,Aarhus United,1040.3,18,ST,False,NORMAL,25.3
-Sophia SNOGDAL,AAU,Aarhus United,1037.5,15,VF,False,NORMAL,22.5
 Thea STURLUDOTTIR,AAU,Aarhus United,1029.2,12,HB,False,NORMAL,14.2
 Maria Berger WIERZBA,AAU,Aarhus United,1018.4,4,PL,False,NORMAL,3.4
 Nora PERSSON,AAU,Aarhus United,1014.4,2,MV,True,NORMAL,-0.6

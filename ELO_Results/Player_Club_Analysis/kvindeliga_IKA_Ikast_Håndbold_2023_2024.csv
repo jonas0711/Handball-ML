@@ -1,19 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Ingvild BAKKERUD,IKA,Ikast Håndbold,1520.3,32,VB,False,NORMAL,121.4
-Simone PETERSEN,IKA,Ikast Håndbold,1478.2,33,ST,False,NORMAL,79.3
-Emma FRIIS,IKA,Ikast Håndbold,1469.0,25,VF,False,NORMAL,71.9
-Melissa PETRÉN,IKA,Ikast Håndbold,1407.5,6,VF,False,NORMAL,7.8
-Maria LYKKEGAARD,IKA,Ikast Håndbold,1383.1,28,ST,False,NORMAL,33.5
-Stine SKOGRAND,IKA,Ikast Håndbold,1270.8,34,HB,False,NORMAL,63.3
-Julie SCAGLIONE,IKA,Ikast Håndbold,1247.4,18,PL,False,NORMAL,51.8
-Emma LINDQVIST,IKA,Ikast Håndbold,1242.5,31,HF,False,NORMAL,58.1
-Sarah IVERSEN,IKA,Ikast Håndbold,1220.1,30,ST,False,NORMAL,62.5
-Amanda Loft HANSEN,IKA,Ikast Håndbold,1189.2,16,ST,False,NORMAL,20.2
-Cecilie BRANDT,IKA,Ikast Håndbold,1178.2,5,HF,False,NORMAL,4.4
-Trine MORTENSEN,IKA,Ikast Håndbold,1143.2,20,VF,False,NORMAL,38.5
-Filippa IDÉHN,IKA,Ikast Håndbold,1129.1,2,MV,True,NORMAL,1.5
+Simone PETERSEN,IKA,Ikast Håndbold,1403.4,33,ST,False,LEGENDARY,79.3
+Ingvild BAKKERUD,IKA,Ikast Håndbold,1391.3000000000002,32,VB,False,ELITE,121.4
+Emma FRIIS,IKA,Ikast Håndbold,1377.4,25,VF,False,ELITE,71.9
+Sarah IVERSEN,IKA,Ikast Håndbold,1339.1,30,ST,False,ELITE,62.5
+Melissa PETRÉN,IKA,Ikast Håndbold,1308.4,6,VF,False,ELITE,7.8
+Stine SKOGRAND,IKA,Ikast Håndbold,1271.4,34,HB,False,ELITE,63.3
+Maria LYKKEGAARD,IKA,Ikast Håndbold,1260.9,28,ST,False,ELITE,33.5
+Julie SCAGLIONE,IKA,Ikast Håndbold,1237.2,18,PL,False,NORMAL,51.8
+Cecilie BRANDT,IKA,Ikast Håndbold,1229.4,5,HF,False,NORMAL,4.4
+Emma LINDQVIST,IKA,Ikast Håndbold,1227.8,31,HF,False,NORMAL,58.1
+Amanda Loft HANSEN,IKA,Ikast Håndbold,1139.4,16,ST,False,NORMAL,20.2
+Trine MORTENSEN,IKA,Ikast Håndbold,1136.9,20,VF,False,NORMAL,38.5
 Markéta JERÁBKOVÁ,IKA,Ikast Håndbold,1106.7,33,PL,False,NORMAL,91.7
 Line Mai HOUGAARD,IKA,Ikast Håndbold,1086.8,28,HF,False,NORMAL,71.8
+Filippa IDÉHN,IKA,Ikast Håndbold,1077.1,2,MV,True,NORMAL,1.5
 Simone BÖHME,IKA,Ikast Håndbold,1034.6,9,HF,False,NORMAL,19.6
 Caroline Kottal CLAUSEN,IKA,Ikast Håndbold,1020.4,5,HF,False,NORMAL,5.4
 Irma SCHJÖTT,IKA,Ikast Håndbold,1018.6,8,MV,True,NORMAL,3.6

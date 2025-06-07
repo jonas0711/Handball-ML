@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Stine HOLM,AJK,Ajax København,1260.0,15,HF,False,NORMAL,46.5
-Stine Eiberg JØRGENSEN,AJK,Ajax København,1209.6,30,PL,False,NORMAL,70.7
-Sofie BARDRUM,AJK,Ajax København,1191.1,28,ST,False,NORMAL,70.2
-Stine Nørklit LØNBORG,AJK,Ajax København,1189.7,29,PL,False,NORMAL,84.0
-Louisa MITTET,AJK,Ajax København,1189.2,27,HB,False,NORMAL,93.7
-Maja Eiberg JØRGENSEN,AJK,Ajax København,1177.0,14,PL,False,NORMAL,28.8
-Anna GRUNDTVIG,AJK,Ajax København,1174.5,23,VF,False,NORMAL,44.9
-Cecilie SPECHT,AJK,Ajax København,1170.0,29,HB,False,NORMAL,81.8
-Sarah Nørklit LØNBORG,AJK,Ajax København,1135.2,10,MV,True,NORMAL,6.8
-Siw AABECH,AJK,Ajax København,1115.3,23,PL,False,NORMAL,24.6
+Stine HOLM,AJK,Ajax København,1255.7,15,HF,False,ELITE,46.5
+Louisa MITTET,AJK,Ajax København,1183.5,27,HB,False,NORMAL,93.7
+Anna GRUNDTVIG,AJK,Ajax København,1165.9,23,VF,False,NORMAL,44.9
+Stine Nørklit LØNBORG,AJK,Ajax København,1161.8,29,PL,False,NORMAL,84.0
+Cecilie SPECHT,AJK,Ajax København,1150.5,29,HB,False,NORMAL,81.8
+Sofie BARDRUM,AJK,Ajax København,1135.2,28,ST,False,NORMAL,70.2
+Maja Eiberg JØRGENSEN,AJK,Ajax København,1117.8,14,PL,False,NORMAL,28.8
+Stine Eiberg JØRGENSEN,AJK,Ajax København,1085.7,30,PL,False,NORMAL,70.7
 Stine Bindslev HOLM,AJK,Ajax København,1069.3,13,HF,False,NORMAL,54.3
+Siw AABECH,AJK,Ajax København,1065.6,23,PL,False,NORMAL,24.6
+Sarah Nørklit LØNBORG,AJK,Ajax København,1064.3,10,MV,True,NORMAL,6.8
 Mathilde NIELSEN,AJK,Ajax København,1053.9,18,VF,False,NORMAL,38.9
 Rosa Skovlund SCHMIDT,AJK,Ajax København,1045.8,18,HF,False,NORMAL,30.8
 Emma Karsbæk EGGERTSEN,AJK,Ajax København,1021.8,7,PL,False,NORMAL,6.8

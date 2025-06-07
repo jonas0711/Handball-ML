@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Morten OLSEN,BSH,Bjerringbro-Silkeborg,1498.6,24,PL,False,NORMAL,97.5
-Peter BALLING,BSH,Bjerringbro-Silkeborg,1474.3,32,PL,False,NORMAL,75.0
-Alexander LYNGGAARD,BSH,Bjerringbro-Silkeborg,1415.4,28,ST,False,NORMAL,55.1
-Patrick BOLDSEN,BSH,Bjerringbro-Silkeborg,1271.3,24,HF,False,NORMAL,62.9
-Ludvig HALLBÄCK,BSH,Bjerringbro-Silkeborg,1257.5,31,PL,False,NORMAL,86.4
-August FRIDÉN,BSH,Bjerringbro-Silkeborg,1203.1,16,VF,False,NORMAL,31.5
-Johan SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1201.3,2,MV,True,NORMAL,1.7
-René Toft HANSEN,BSH,Bjerringbro-Silkeborg,1184.7,8,ST,False,NORMAL,7.2
-Mads LENBROCH,BSH,Bjerringbro-Silkeborg,1176.0,16,VF,False,NORMAL,38.4
-Thomas SOLSTAD,BSH,Bjerringbro-Silkeborg,1173.3,24,ST,False,NORMAL,67.0
+Morten OLSEN,BSH,Bjerringbro-Silkeborg,1418.4,24,PL,False,LEGENDARY,97.5
+Peter BALLING,BSH,Bjerringbro-Silkeborg,1403.4,32,PL,False,LEGENDARY,75.0
+Alexander LYNGGAARD,BSH,Bjerringbro-Silkeborg,1361.5,28,ST,False,ELITE,55.1
+William BOGOJEVIC,BSH,Bjerringbro-Silkeborg,1319.9,28,PL,False,ELITE,58.1
+Ludvig HALLBÄCK,BSH,Bjerringbro-Silkeborg,1260.8000000000002,31,PL,False,ELITE,86.4
+Patrick BOLDSEN,BSH,Bjerringbro-Silkeborg,1210.2,24,HF,False,NORMAL,62.9
+René Toft HANSEN,BSH,Bjerringbro-Silkeborg,1155.1,8,ST,False,NORMAL,7.2
+August FRIDÉN,BSH,Bjerringbro-Silkeborg,1150.7,16,VF,False,NORMAL,31.5
+Thomas SOLSTAD,BSH,Bjerringbro-Silkeborg,1137.6,24,ST,False,NORMAL,67.0
+Johan SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1136.7,2,MV,True,NORMAL,1.7
 Rasmus LAUGE,BSH,Bjerringbro-Silkeborg,1123.1,31,PL,False,NORMAL,108.1
+Mads LENBROCH,BSH,Bjerringbro-Silkeborg,1111.0,16,VF,False,NORMAL,38.4
 Nikolaj ØRIS,BSH,Bjerringbro-Silkeborg,1098.8,25,PL,False,NORMAL,83.8
 Mikkel LØVKVIST,BSH,Bjerringbro-Silkeborg,1093.2,9,MV,True,NORMAL,78.2
-William BOGOJEVIC,BSH,Bjerringbro-Silkeborg,1073.1,28,PL,False,NORMAL,58.1
 Victor ILSØE,BSH,Bjerringbro-Silkeborg,1026.5,9,HF,False,NORMAL,11.5
 Magnus RAHBEK,BSH,Bjerringbro-Silkeborg,1019.0,6,PL,False,NORMAL,4.0

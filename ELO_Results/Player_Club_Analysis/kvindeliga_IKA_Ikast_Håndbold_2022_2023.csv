@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Emma FRIIS,IKA,Ikast Håndbold,1464.9,29,VF,False,NORMAL,67.8
-Ingvild BAKKERUD,IKA,Ikast Håndbold,1432.8,34,VB,False,NORMAL,140.9
-Simone PETERSEN,IKA,Ikast Håndbold,1405.9,35,PL,False,NORMAL,165.5
-Line HOUGAARD,IKA,Ikast Håndbold,1278.0,25,HF,False,NORMAL,80.3
-Vilde Ingeborg JOHANSEN,IKA,Ikast Håndbold,1232.0,22,ST,False,NORMAL,62.7
-Stine SKOGRAND,IKA,Ikast Håndbold,1209.6,32,HB,False,NORMAL,51.4
-Julie SCAGLIONE,IKA,Ikast Håndbold,1196.5,33,VB,False,NORMAL,123.2
-Emma LINDQVIST,IKA,Ikast Håndbold,1181.1,30,HF,False,NORMAL,83.8
-Cecilie BRANDT,IKA,Ikast Håndbold,1174.6,30,HF,False,NORMAL,83.5
-Alberte EBLER,IKA,Ikast Håndbold,1159.2,7,HB,False,NORMAL,30.5
-Sarah IVERSEN,IKA,Ikast Håndbold,1156.6,29,ST,False,NORMAL,49.1
-Julie GANTZEL,IKA,Ikast Håndbold,1146.0,11,ST,False,NORMAL,11.7
-Jessica RYDE,IKA,Ikast Håndbold,1143.5,2,MV,True,NORMAL,-0.3
-Trine MORTENSEN,IKA,Ikast Håndbold,1092.0,22,VF,False,NORMAL,77.0
-Line UNO,IKA,Ikast Håndbold,1043.0,13,HF,False,NORMAL,28.0
-Andrea AUSTMO,IKA,Ikast Håndbold,1012.2,2,MV,True,NORMAL,-2.8
+Simone PETERSEN,IKA,Ikast Håndbold,1416.0,35,PL,False,LEGENDARY,175.9
+Ingvild BAKKERUD,IKA,Ikast Håndbold,1407.2,34,VB,False,LEGENDARY,146.4
+Emma FRIIS,IKA,Ikast Håndbold,1356.3,29,VF,False,ELITE,67.8
+Sarah IVERSEN,IKA,Ikast Håndbold,1311.6,29,ST,False,ELITE,49.1
+Line HOUGAARD,IKA,Ikast Håndbold,1277.2,25,HF,False,ELITE,84.8
+Vilde Ingeborg JOHANSEN,IKA,Ikast Håndbold,1239.9,22,ST,False,NORMAL,67.2
+Cecilie BRANDT,IKA,Ikast Håndbold,1225.0,30,HF,False,NORMAL,86.0
+Stine SKOGRAND,IKA,Ikast Håndbold,1223.7,32,HB,False,NORMAL,51.4
+Julie SCAGLIONE,IKA,Ikast Håndbold,1198.0,33,VB,False,NORMAL,129.5
+Emma LINDQVIST,IKA,Ikast Håndbold,1170.6,30,HF,False,NORMAL,83.8
+Julie GANTZEL,IKA,Ikast Håndbold,1139.1,11,ST,False,NORMAL,12.3
+Alberte EBLER,IKA,Ikast Håndbold,1122.5,7,HB,False,NORMAL,34.1
+Line UNO,IKA,Ikast Håndbold,1109.2,13,HF,False,NORMAL,30.5
+Trine MORTENSEN,IKA,Ikast Håndbold,1096.3,22,VF,False,NORMAL,81.3
+Jessica RYDE,IKA,Ikast Håndbold,1078.2,2,MV,True,NORMAL,-0.3
+Andrea AUSTMO,IKA,Ikast Håndbold,1011.8,2,MV,True,NORMAL,-3.2

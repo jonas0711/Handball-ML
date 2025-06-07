@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Eivind TANGEN,SKH,Skjern Håndbold,1500.4,24,HB,False,NORMAL,101.9
-Jesper KONRADSSON,SKH,Skjern Håndbold,1484.0,24,PL,False,NORMAL,86.3
-Bjarte MYRHOL,SKH,Skjern Håndbold,1471.6,17,ST,False,NORMAL,74.0
-Kasper SØNDERGAARD,SKH,Skjern Håndbold,1458.5,21,HB,False,NORMAL,58.2
-René RASMUSSEN,SKH,Skjern Håndbold,1441.2,24,HF,False,NORMAL,62.5
-Anders EGGERT,SKH,Skjern Håndbold,1399.2,12,VF,False,NORMAL,30.1
-Bjarke CHRISTENSEN,SKH,Skjern Håndbold,1386.3,17,VF,False,NORMAL,46.2
-Jonas Bruus TIDEMAND,SKH,Skjern Håndbold,1361.0,15,ST,False,NORMAL,24.4
-Jonathan STENBÄCKEN,SKH,Skjern Håndbold,1335.2,10,ST,False,NORMAL,8.4
-Thomas MOGENSEN,SKH,Skjern Håndbold,1181.5,20,PL,False,NORMAL,36.6
-Björgvin Pall GUSTAVSSON,SKH,Skjern Håndbold,1142.1,8,MV,True,NORMAL,12.2
+Jesper KONRADSSON,SKH,Skjern Håndbold,1358.0,24,PL,False,ELITE,86.3
+Eivind TANGEN,SKH,Skjern Håndbold,1339.6,24,HB,False,ELITE,101.9
+Bjarte MYRHOL,SKH,Skjern Håndbold,1319.8,17,ST,False,ELITE,74.0
+Kasper SØNDERGAARD,SKH,Skjern Håndbold,1282.6,21,HB,False,ELITE,58.2
+René RASMUSSEN,SKH,Skjern Håndbold,1221.6,24,HF,False,NORMAL,62.5
+Anders EGGERT,SKH,Skjern Håndbold,1185.6,12,VF,False,NORMAL,30.1
+Bjarke CHRISTENSEN,SKH,Skjern Håndbold,1152.8,17,VF,False,NORMAL,46.2
+Thomas MOGENSEN,SKH,Skjern Håndbold,1150.1999999999998,20,PL,False,NORMAL,36.6
+Jonathan STENBÄCKEN,SKH,Skjern Håndbold,1135.3000000000002,10,ST,False,NORMAL,8.4
+Morten BJØRNSHAUGE,SKH,Skjern Håndbold,1123.8000000000002,5,ST,False,NORMAL,11.9
+Jonas Bruus TIDEMAND,SKH,Skjern Håndbold,1121.1,15,ST,False,NORMAL,24.4
 Elvar Örn JÓNSSON,SKH,Skjern Håndbold,1093.1,23,PL,False,NORMAL,78.1
-Morten BJØRNSHAUGE,SKH,Skjern Håndbold,1026.9,5,ST,False,NORMAL,11.9
+Björgvin Pall GUSTAVSSON,SKH,Skjern Håndbold,1062.4,8,MV,True,NORMAL,12.2
 Robin HAUG,SKH,Skjern Håndbold,1026.1,5,MV,True,NORMAL,11.1

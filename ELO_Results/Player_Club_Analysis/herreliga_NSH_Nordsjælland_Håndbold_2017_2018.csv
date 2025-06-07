@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Nicolai PEDERSEN,NSH,Nordsjælland Håndbold,1437.4,31,VB,False,NORMAL,437.4
-Johan MEKLENBORG,NSH,Nordsjælland Håndbold,1347.8,29,PL,False,NORMAL,347.8
-Lasse UTH,NSH,Nordsjælland Håndbold,1320.0,32,VF,False,NORMAL,320.0
-Akutaaneq KREUTZMANN,NSH,Nordsjælland Håndbold,1294.7,31,HB,False,NORMAL,294.7
-Jesper DAHL,NSH,Nordsjælland Håndbold,1292.2,31,HB,False,NORMAL,292.2
-Dan Beck HANSEN,NSH,Nordsjælland Håndbold,1271.8,22,ST,False,NORMAL,271.8
-Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1251.5,22,HF,False,NORMAL,251.5
-Oliver ROEPSTORFF,NSH,Nordsjælland Håndbold,1246.6,24,PL,False,NORMAL,246.6
-Andreas Johann NIELSEN,NSH,Nordsjælland Håndbold,1242.9,22,ST,False,NORMAL,242.9
-Nichlas POULSEN,NSH,Nordsjælland Håndbold,1237.7,20,HF,False,NORMAL,237.7
-Christian KØHLER,NSH,Nordsjælland Håndbold,1223.9,15,PL,False,NORMAL,223.9
-Knud RONAU,NSH,Nordsjælland Håndbold,1223.7,13,ST,False,NORMAL,223.7
-Mike JENSEN,NSH,Nordsjælland Håndbold,1208.9,7,MV,True,NORMAL,208.9
-Mikkel PALMER,NSH,Nordsjælland Håndbold,1200.9,3,PL,False,NORMAL,200.9
-Jakob Maarth SKAKSEN,NSH,Nordsjælland Håndbold,1200.9,4,MV,True,NORMAL,200.9
-Anders MOSE,NSH,Nordsjælland Håndbold,1200.5,1,PL,False,NORMAL,200.5
+Nicolai PEDERSEN,NSH,Nordsjælland Håndbold,1252.4,31,VB,False,ELITE,237.4
+Johan MEKLENBORG,NSH,Nordsjælland Håndbold,1162.8,29,PL,False,NORMAL,147.8
+Lasse UTH,NSH,Nordsjælland Håndbold,1135.0,32,VF,False,NORMAL,120.0
+Akutaaneq KREUTZMANN,NSH,Nordsjælland Håndbold,1109.7,31,HB,False,NORMAL,94.7
+Jesper DAHL,NSH,Nordsjælland Håndbold,1107.2,31,HB,False,NORMAL,92.2
+Dan Beck HANSEN,NSH,Nordsjælland Håndbold,1086.8,22,ST,False,NORMAL,71.8
+Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1066.5,22,HF,False,NORMAL,51.5
+Oliver ROEPSTORFF,NSH,Nordsjælland Håndbold,1061.6,24,PL,False,NORMAL,46.6
+Andreas Johann NIELSEN,NSH,Nordsjælland Håndbold,1057.9,22,ST,False,NORMAL,42.9
+Nichlas POULSEN,NSH,Nordsjælland Håndbold,1052.7,20,HF,False,NORMAL,37.7
+Christian KØHLER,NSH,Nordsjælland Håndbold,1038.9,15,PL,False,NORMAL,23.9
+Knud RONAU,NSH,Nordsjælland Håndbold,1038.7,13,ST,False,NORMAL,23.7
+Mike JENSEN,NSH,Nordsjælland Håndbold,1023.9,7,MV,True,NORMAL,8.9
+Mikkel PALMER,NSH,Nordsjælland Håndbold,1015.9,3,PL,False,NORMAL,0.9
+Jakob Maarth SKAKSEN,NSH,Nordsjælland Håndbold,1015.9,4,MV,True,NORMAL,0.9
+Anders MOSE,NSH,Nordsjælland Håndbold,1015.5,1,PL,False,NORMAL,0.5

@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Mia REJ,KBH,København Håndbold,1410.4,33,PL,False,NORMAL,78.9
-Hanna BLOMSTRAND,KBH,København Håndbold,1337.0,24,HB,False,NORMAL,36.8
-Louise FØNS,KBH,København Håndbold,1332.1,27,VF,False,NORMAL,45.6
-Larissa NUSSER,KBH,København Håndbold,1268.0,32,ST,False,NORMAL,128.1
-Maria LYKKEGAARD,KBH,København Håndbold,1232.5,20,ST,False,NORMAL,44.1
-Anne Tolstrup PETERSEN,KBH,København Håndbold,1221.3,11,HF,False,NORMAL,17.7
-Maria HJERTNER,KBH,København Håndbold,1170.2,22,HB,False,NORMAL,66.7
-Johanna BUNDSEN,KBH,København Håndbold,1158.7,12,MV,True,NORMAL,2.3
-Amalie MILLING,KBH,København Håndbold,1135.1,2,MV,True,NORMAL,1.6
-Aimée Von PEREIRA,KBH,København Håndbold,1117.5,25,PL,False,NORMAL,52.5
+Larissa NUSSER,KBH,København Håndbold,1262.1999999999998,32,ST,False,ELITE,128.1
+Mia REJ,KBH,København Håndbold,1245.3000000000002,33,PL,False,NORMAL,78.9
+Anne Tolstrup PETERSEN,KBH,København Håndbold,1225.1,11,HF,False,NORMAL,17.7
+Maria HJERTNER,KBH,København Håndbold,1159.0,22,HB,False,NORMAL,66.7
+Louise FØNS,KBH,København Håndbold,1148.1,27,VF,False,NORMAL,45.6
+Hanna BLOMSTRAND,KBH,København Håndbold,1129.7,24,HB,False,NORMAL,36.8
+Maria LYKKEGAARD,KBH,København Håndbold,1112.6,20,ST,False,NORMAL,44.1
 Andrea HANSEN,KBH,København Håndbold,1088.9,25,HF,False,NORMAL,73.9
+Aimée Von PEREIRA,KBH,København Håndbold,1085.1,25,PL,False,NORMAL,52.5
+Johanna BUNDSEN,KBH,København Håndbold,1060.9,12,MV,True,NORMAL,2.3
+Amalie MILLING,KBH,København Håndbold,1058.0,2,MV,True,NORMAL,1.6
 Christina WILDBORK,KBH,København Håndbold,1053.5,18,PL,False,NORMAL,38.5
 Sofia HVENFELT,KBH,København Håndbold,1049.6,17,ST,False,NORMAL,34.6
 Clara Skyum THOMSEN,KBH,København Håndbold,1040.3,12,HB,False,NORMAL,25.3

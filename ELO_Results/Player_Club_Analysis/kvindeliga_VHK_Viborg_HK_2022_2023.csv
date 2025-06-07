@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Melissa PETRÉN,VHK,Viborg HK,1451.6,16,PL,False,NORMAL,60.5
-Moa HÖGDAHL,VHK,Viborg HK,1421.0,20,PL,False,NORMAL,70.2
-Maria FISKER,VHK,Viborg HK,1212.1,28,VF,False,NORMAL,64.8
-Mathilde RIVAS-TOFT,VHK,Viborg HK,1199.4,30,PL,False,NORMAL,111.1
-Sara HALD,VHK,Viborg HK,1198.5,26,ST,False,NORMAL,77.2
-Ida-Marie DAHL,VHK,Viborg HK,1185.4,23,ST,False,NORMAL,46.7
-Christina PEDERSEN,VHK,Viborg HK,1175.1,17,PL,False,NORMAL,52.1
-Thilde FRANDSEN,VHK,Viborg HK,1175.0,9,HF,False,NORMAL,10.2
-Tonje ENKERUD,VHK,Viborg HK,1149.3,28,ST,False,NORMAL,72.1
-Laura Holm ANDERSEN,VHK,Viborg HK,1133.9,7,VF,False,NORMAL,4.7
-Karen Klokker POULSEN,VHK,Viborg HK,1133.2,7,ST,False,NORMAL,11.4
+Melissa PETRÉN,VHK,Viborg HK,1403.4,16,PL,False,LEGENDARY,60.5
+Moa HÖGDAHL,VHK,Viborg HK,1332.8,20,PL,False,ELITE,70.2
+Sara HALD,VHK,Viborg HK,1198.8,26,ST,False,NORMAL,77.2
+Maria FISKER,VHK,Viborg HK,1195.5,28,VF,False,NORMAL,64.8
+Mathilde RIVAS-TOFT,VHK,Viborg HK,1187.6999999999998,30,PL,False,NORMAL,111.1
+Ida-Marie DAHL,VHK,Viborg HK,1184.3,23,ST,False,NORMAL,46.7
+Thilde FRANDSEN,VHK,Viborg HK,1161.0,9,HF,False,NORMAL,10.2
+Christina PEDERSEN,VHK,Viborg HK,1159.5,17,PL,False,NORMAL,52.1
+Tonje ENKERUD,VHK,Viborg HK,1140.6999999999998,28,ST,False,NORMAL,72.1
 Emilie HOVDEN,VHK,Viborg HK,1090.6,26,HF,False,NORMAL,75.6
+Laura Holm ANDERSEN,VHK,Viborg HK,1081.3,7,VF,False,NORMAL,4.7
+Karen Klokker POULSEN,VHK,Viborg HK,1080.6,7,ST,False,NORMAL,11.4
+Mathilde JUNCKER,VHK,Viborg HK,1077.6,3,MV,True,NORMAL,-0.8
 Charité MUMBONGO,VHK,Viborg HK,1049.2,22,PL,False,NORMAL,34.2
 Kerstin KÜNDIG,VHK,Viborg HK,1021.5,5,PL,False,NORMAL,6.5
 Ida Marie KAYSEN,VHK,Viborg HK,1014.5,1,MV,True,NORMAL,-0.5
-Mathilde JUNCKER,VHK,Viborg HK,1014.2,3,MV,True,NORMAL,-0.8

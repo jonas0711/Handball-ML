@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Sofie Bæk ANDERSEN,SVK,Silkeborg-Voel KFUM,1443.1,17,PL,False,NORMAL,43.8
-Lea HANSEN,SVK,Silkeborg-Voel KFUM,1382.3,28,HF,False,NORMAL,57.5
-Annika JAKOBSEN,SVK,Silkeborg-Voel KFUM,1371.0,26,HF,False,NORMAL,66.7
-Hege Bakken WAHLQUIST,SVK,Silkeborg-Voel KFUM,1357.4,24,VF,False,NORMAL,51.4
-Louise ELLEBÆK,SVK,Silkeborg-Voel KFUM,1270.8,21,PL,False,NORMAL,26.9
-Julie JENSEN,SVK,Silkeborg-Voel KFUM,1261.4,30,HB,False,NORMAL,124.7
-Line SKAK,SVK,Silkeborg-Voel KFUM,1174.7,24,ST,True,NORMAL,43.9
-Natasja ANDREASEN,SVK,Silkeborg-Voel KFUM,1153.8,19,PL,False,NORMAL,56.2
-Jane SCHUMACHER,SVK,Silkeborg-Voel KFUM,1149.8,13,PL,False,NORMAL,34.7
+Sofie Bæk ANDERSEN,SVK,Silkeborg-Voel KFUM,1271.2,17,PL,False,ELITE,43.8
+Julie JENSEN,SVK,Silkeborg-Voel KFUM,1246.5,30,HB,False,NORMAL,124.7
+Annika JAKOBSEN,SVK,Silkeborg-Voel KFUM,1206.9,26,HF,False,NORMAL,66.7
+Lea HANSEN,SVK,Silkeborg-Voel KFUM,1205.0,28,HF,False,NORMAL,57.5
+Hege Bakken WAHLQUIST,SVK,Silkeborg-Voel KFUM,1175.5,24,VF,False,NORMAL,51.4
+Jane SCHUMACHER,SVK,Silkeborg-Voel KFUM,1148.3,13,PL,False,NORMAL,34.7
 Eira AUNE,SVK,Silkeborg-Voel KFUM,1132.2,32,PL,False,NORMAL,117.2
-Mathilde KRISTENSEN,SVK,Silkeborg-Voel KFUM,1117.9,21,ST,False,NORMAL,40.0
+Louise ELLEBÆK,SVK,Silkeborg-Voel KFUM,1124.7,21,PL,False,NORMAL,26.9
+Natasja ANDREASEN,SVK,Silkeborg-Voel KFUM,1118.7,19,PL,False,NORMAL,56.2
+Line SKAK,SVK,Silkeborg-Voel KFUM,1118.6,24,ST,True,NORMAL,43.9
 Anna Lillesø NIELSEN,SVK,Silkeborg-Voel KFUM,1089.6,27,VF,False,NORMAL,74.6
+Mathilde KRISTENSEN,SVK,Silkeborg-Voel KFUM,1079.4,21,ST,False,NORMAL,40.0
 Stine BONDE,SVK,Silkeborg-Voel KFUM,1014.2,4,MV,True,NORMAL,-0.8
 Eli RAASOK,SVK,Silkeborg-Voel KFUM,1013.9,3,MV,True,NORMAL,-1.1

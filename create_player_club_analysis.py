@@ -26,7 +26,8 @@ from typing import Dict, List, Tuple
 from team_config import (
     HERRELIGA_TEAMS, KVINDELIGA_TEAMS, ALL_TEAMS,
     HERRELIGA_NAME_MAPPINGS, KVINDELIGA_NAME_MAPPINGS,
-    MIN_GAMES_FOR_TEAM_INCLUSION, SKIP_TEAMS
+    MIN_GAMES_FOR_TEAM_INCLUSION, SKIP_TEAMS,
+    PLAYER_NAME_ALIASES  # NEW: Import player aliases
 )
 
 class PlayerClubAnalyzer:
@@ -53,6 +54,19 @@ class PlayerClubAnalyzer:
         print("✅ Player-Club analyzer initialiseret med separate liga-processer")
         print(f"📅 Tilgængelige sæsoner: {len(self.seasons)}")
         
+    def _normalize_and_get_canonical_name(self, name: str) -> str:
+        """
+        NEW: Normalizes a player name and resolves it to its canonical version.
+        Mirrors the logic from the ELO systems for consistency.
+        """
+        if not isinstance(name, str):
+            return ""
+        # Trim leading/trailing and remove double spaces
+        normalized_name = " ".join(name.strip().split())
+        
+        # Check for an alias
+        return PLAYER_NAME_ALIASES.get(normalized_name, normalized_name)
+
     def get_team_code_from_name(self, team_name: str, league_context: str) -> str:
         """
         FINAL VERSION: Handles both team codes and team names as input to prevent false warnings.
@@ -161,6 +175,7 @@ class PlayerClubAnalyzer:
                             
                             # Primary player
                             if navn_1 and navn_1.strip() and navn_1 not in ["Retur", "Bold erobret", "Assist"]:
+                                canonical_navn_1 = self._normalize_and_get_canonical_name(navn_1) # NORMALIZE
                                 if hold == hjemme_code or hold == hold_hjemme:
                                     team_code = hjemme_code
                                 elif hold == ude_code or hold == hold_ude:
@@ -170,10 +185,11 @@ class PlayerClubAnalyzer:
                                     
                                 # ARMOR-PLATED VALIDATION: Only accept valid Herreliga teams
                                 if team_code in HERRELIGA_TEAMS:
-                                    herreliga_player_games[navn_1.strip()][team_code].add(db_file)
+                                    herreliga_player_games[canonical_navn_1][team_code].add(db_file)
                                     
                             # FIXED: Secondary player (assists and other same-team events)
                             if navn_2 and navn_2.strip() and haendelse_2 and navn_2 not in ["Retur", "Bold erobret", "Forårs. str."]:
+                                canonical_navn_2 = self._normalize_and_get_canonical_name(navn_2) # NORMALIZE
                                 # CRITICAL: Assists belong to SAME team as primary action
                                 if haendelse_2 == "Assist":
                                     if hold == hjemme_code or hold == hold_hjemme:
@@ -185,10 +201,11 @@ class PlayerClubAnalyzer:
                                         
                                     # ARMOR-PLATED VALIDATION
                                     if assist_team_code in HERRELIGA_TEAMS:
-                                        herreliga_player_games[navn_2.strip()][assist_team_code].add(db_file)
+                                        herreliga_player_games[canonical_navn_2][assist_team_code].add(db_file)
                                 
                             # Goalkeeper  
                             if mv and mv.strip():
+                                canonical_mv = self._normalize_and_get_canonical_name(mv) # NORMALIZE
                                 if hold == hjemme_code or hold == hold_hjemme:
                                     gk_team_code = ude_code
                                 elif hold == ude_code or hold == hold_ude:
@@ -198,7 +215,7 @@ class PlayerClubAnalyzer:
                                     
                                 # ARMOR-PLATED VALIDATION
                                 if gk_team_code in HERRELIGA_TEAMS:
-                                    herreliga_player_games[mv.strip()][gk_team_code].add(db_file)
+                                    herreliga_player_games[canonical_mv][gk_team_code].add(db_file)
                                 
                         except Exception as e:
                             continue
@@ -272,6 +289,7 @@ class PlayerClubAnalyzer:
                             
                             # Primary player
                             if navn_1 and navn_1.strip() and navn_1 not in ["Retur", "Bold erobret", "Assist"]:
+                                canonical_navn_1 = self._normalize_and_get_canonical_name(navn_1) # NORMALIZE
                                 if hold == hjemme_code or hold == hold_hjemme:
                                     team_code = hjemme_code
                                 elif hold == ude_code or hold == hold_ude:
@@ -281,10 +299,11 @@ class PlayerClubAnalyzer:
                                     
                                 # ARMOR-PLATED VALIDATION: Only accept valid Kvindeliga teams
                                 if team_code in KVINDELIGA_TEAMS:
-                                    kvindeliga_player_games[navn_1.strip()][team_code].add(db_file)
+                                    kvindeliga_player_games[canonical_navn_1][team_code].add(db_file)
                                     
                             # FIXED: Secondary player (assists and other same-team events)
                             if navn_2 and navn_2.strip() and haendelse_2 and navn_2 not in ["Retur", "Bold erobret", "Forårs. str."]:
+                                canonical_navn_2 = self._normalize_and_get_canonical_name(navn_2) # NORMALIZE
                                 # CRITICAL: Assists belong to SAME team as primary action
                                 if haendelse_2 == "Assist":
                                     if hold == hjemme_code or hold == hold_hjemme:
@@ -296,10 +315,11 @@ class PlayerClubAnalyzer:
                                         
                                     # ARMOR-PLATED VALIDATION
                                     if assist_team_code in KVINDELIGA_TEAMS:
-                                        kvindeliga_player_games[navn_2.strip()][assist_team_code].add(db_file)
+                                        kvindeliga_player_games[canonical_navn_2][assist_team_code].add(db_file)
                                 
                             # Goalkeeper  
                             if mv and mv.strip():
+                                canonical_mv = self._normalize_and_get_canonical_name(mv) # NORMALIZE
                                 if hold == hjemme_code or hold == hold_hjemme:
                                     gk_team_code = ude_code
                                 elif hold == ude_code or hold == hold_ude:
@@ -309,7 +329,7 @@ class PlayerClubAnalyzer:
                                     
                                 # ARMOR-PLATED VALIDATION
                                 if gk_team_code in KVINDELIGA_TEAMS:
-                                    kvindeliga_player_games[mv.strip()][gk_team_code].add(db_file)
+                                    kvindeliga_player_games[canonical_mv][gk_team_code].add(db_file)
                                 
                         except Exception as e:
                             continue
@@ -417,7 +437,7 @@ class PlayerClubAnalyzer:
             print(f"    🔵 Processerer {len(herreliga_df)} Herreliga spillere...")
             
             for _, player_row in herreliga_df.iterrows():
-                player_name = player_row['player']
+                player_name = self._normalize_and_get_canonical_name(player_row['player']) # NORMALIZE
                 
                 if player_name in herreliga_player_teams:
                     team_code = herreliga_player_teams[player_name]
@@ -446,7 +466,7 @@ class PlayerClubAnalyzer:
             print(f"    🔴 Processerer {len(kvindeliga_df)} Kvindeliga spillere...")
             
             for _, player_row in kvindeliga_df.iterrows():
-                player_name = player_row['player']
+                player_name = self._normalize_and_get_canonical_name(player_row['player']) # NORMALIZE
                 
                 if player_name in kvindeliga_player_teams:
                     team_code = kvindeliga_player_teams[player_name]

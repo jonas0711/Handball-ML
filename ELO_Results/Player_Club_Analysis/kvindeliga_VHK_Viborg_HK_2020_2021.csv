@@ -1,16 +1,16 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Kristina JØRGENSEN,VHK,Viborg HK,1559.0,36,PL,False,NORMAL,158.7
-Line HAUGSTED,VHK,Viborg HK,1499.8,37,PL,False,NORMAL,99.7
-Carin STRÖMBERG,VHK,Viborg HK,1470.7,32,PL,False,NORMAL,67.9
-Majbritt Toft HANSEN,VHK,Viborg HK,1320.2,25,ST,False,NORMAL,40.4
-Moa HÖGDAHL,VHK,Viborg HK,1280.0,34,HB,False,NORMAL,106.4
-Amalie Grøn HANSEN,VHK,Viborg HK,1229.7,13,VF,False,NORMAL,26.0
-Emma FRIBERG,VHK,Viborg HK,1168.4,1,MV,True,NORMAL,-0.2
-Marianne HAUGSTED,VHK,Viborg HK,1124.5,5,PL,False,NORMAL,2.2
-Maria FISKER,VHK,Viborg HK,1118.7,32,VF,False,NORMAL,50.7
-Anna KRISTENSEN,VHK,Viborg HK,1116.0,11,MV,True,NORMAL,6.9
-Madeleine ÖSTLUND,VHK,Viborg HK,1096.6,16,ST,False,NORMAL,22.3
+Kristina JØRGENSEN,VHK,Viborg HK,1435.5,36,PL,False,LEGENDARY,158.7
+Line HAUGSTED,VHK,Viborg HK,1298.3,37,PL,False,ELITE,99.7
+Moa HÖGDAHL,VHK,Viborg HK,1269.0,34,HB,False,ELITE,106.4
+Carin STRÖMBERG,VHK,Viborg HK,1248.5,32,PL,False,NORMAL,67.9
+Majbritt Toft HANSEN,VHK,Viborg HK,1149.5,25,ST,False,NORMAL,40.4
+Maria FISKER,VHK,Viborg HK,1103.9,32,VF,False,NORMAL,50.7
+Amalie Grøn HANSEN,VHK,Viborg HK,1093.1,13,VF,False,NORMAL,26.0
 Thilde FRANDSEN,VHK,Viborg HK,1069.5,29,HF,False,NORMAL,54.5
+Madeleine ÖSTLUND,VHK,Viborg HK,1064.3,16,ST,False,NORMAL,22.3
 Ida-Marie DAHL,VHK,Viborg HK,1062.3,23,ST,False,NORMAL,47.3
+Emma FRIBERG,VHK,Viborg HK,1060.4,1,MV,True,NORMAL,-0.2
+Marianne HAUGSTED,VHK,Viborg HK,1059.7,5,PL,False,NORMAL,2.2
 Laura DAMGAARD,VHK,Viborg HK,1054.8,27,PL,False,NORMAL,39.8
+Anna KRISTENSEN,VHK,Viborg HK,1052.9,11,MV,True,NORMAL,6.9
 Sanne Beck HANSEN,VHK,Viborg HK,1039.1,19,HF,False,NORMAL,24.1

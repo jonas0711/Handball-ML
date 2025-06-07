@@ -1,16 +1,16 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Louise FØNS,KBH,København Håndbold,1385.6,26,VF,False,NORMAL,59.2
-Larissa NUSSER,KBH,København Håndbold,1381.0,31,ST,False,NORMAL,109.8
-Melissa PETRÉN,KBH,København Håndbold,1376.4,30,PL,False,NORMAL,134.3
-Hanna BLOMSTRAND,KBH,København Håndbold,1336.8,13,HB,False,NORMAL,20.8
-Maria LYKKEGAARD,KBH,København Håndbold,1310.1,30,ST,False,NORMAL,74.0
-Maria HJERTNER,KBH,København Håndbold,1228.1,27,HB,False,NORMAL,60.2
-Johanna BUNDSEN,KBH,København Håndbold,1151.8,16,MV,True,NORMAL,-4.3
-Andrea HANSEN,KBH,København Håndbold,1147.7,23,HF,False,NORMAL,50.7
-Clara SKØTT,KBH,København Håndbold,1144.4,22,HF,False,NORMAL,45.1
-Christina WILDBORK,KBH,København Håndbold,1138.5,30,VB,False,NORMAL,79.0
-Amalie MILLING,KBH,København Håndbold,1138.0,2,MV,True,NORMAL,-0.6
-Sofia HVENFELT,KBH,København Håndbold,1109.9,23,ST,False,NORMAL,51.1
+Melissa PETRÉN,KBH,København Håndbold,1382.1,30,PL,False,ELITE,134.3
+Larissa NUSSER,KBH,København Håndbold,1342.1,31,ST,False,ELITE,109.8
+Louise FØNS,KBH,København Håndbold,1208.9,26,VF,False,NORMAL,59.2
+Maria HJERTNER,KBH,København Håndbold,1208.8,27,HB,False,NORMAL,60.2
+Maria LYKKEGAARD,KBH,København Håndbold,1191.8,30,ST,False,NORMAL,74.0
+Hanna BLOMSTRAND,KBH,København Håndbold,1145.8,13,HB,False,NORMAL,20.8
+Andrea HANSEN,KBH,København Håndbold,1142.9,23,HF,False,NORMAL,50.7
+Christina WILDBORK,KBH,København Håndbold,1135.1,30,VB,False,NORMAL,79.0
+Sofia HVENFELT,KBH,København Håndbold,1102.8,23,ST,False,NORMAL,51.1
+Clara SKØTT,KBH,København Håndbold,1097.8,22,HF,False,NORMAL,45.1
 Karoline LUND,KBH,København Håndbold,1082.2,29,VB,False,NORMAL,67.2
-Olivia MELLEGÅRD,KBH,København Håndbold,1039.8,14,VF,False,NORMAL,24.8
+Olivia MELLEGÅRD,KBH,København Håndbold,1073.7,14,VF,False,NORMAL,24.8
+Amalie MILLING,KBH,København Håndbold,1072.5,2,MV,True,NORMAL,-0.6
+Johanna BUNDSEN,KBH,København Håndbold,1060.6,16,MV,True,NORMAL,-4.3
 Clara Kofod ESSEMANN-BECK,KBH,København Håndbold,1020.2,10,VB,False,NORMAL,5.2

@@ -1,11 +1,11 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Johanna WESTBERG,NFH,Nykøbing F. Håndbold,1234.4,6,VB,False,NORMAL,234.4
-Kristina KRISTIANSEN,NFH,Nykøbing F. Håndbold,1232.1,6,ST,False,NORMAL,232.1
-Sarah IVERSEN,NFH,Nykøbing F. Håndbold,1224.2,6,ST,False,NORMAL,224.2
-Sofie Amalie OLSEN,NFH,Nykøbing F. Håndbold,1213.9,6,HF,False,NORMAL,213.9
-Lærke Nolsøe PEDERSEN,NFH,Nykøbing F. Håndbold,1211.0,6,VF,False,NORMAL,211.0
-Celine Lundbye KRISTIANSEN,NFH,Nykøbing F. Håndbold,1209.7,4,PL,False,NORMAL,209.7
-Angelica WALLÉN,NFH,Nykøbing F. Håndbold,1207.0,3,ST,False,NORMAL,207.0
-Emelie WESTBERG,NFH,Nykøbing F. Håndbold,1206.4,6,VB,False,NORMAL,206.4
-Anna LAGERQUIST,NFH,Nykøbing F. Håndbold,1204.2,5,ST,False,NORMAL,204.2
-Cecilie GREVE,NFH,Nykøbing F. Håndbold,1202.9,4,MV,True,NORMAL,202.9
+Johanna WESTBERG,NFH,Nykøbing F. Håndbold,1049.4,6,VB,False,NORMAL,34.4
+Kristina KRISTIANSEN,NFH,Nykøbing F. Håndbold,1047.1,6,ST,False,NORMAL,32.1
+Sarah IVERSEN,NFH,Nykøbing F. Håndbold,1039.2,6,ST,False,NORMAL,24.2
+Sofie Amalie OLSEN,NFH,Nykøbing F. Håndbold,1028.9,6,HF,False,NORMAL,13.9
+Lærke Nolsøe PEDERSEN,NFH,Nykøbing F. Håndbold,1026.0,6,VF,False,NORMAL,11.0
+Celine Lundbye KRISTIANSEN,NFH,Nykøbing F. Håndbold,1024.7,4,PL,False,NORMAL,9.7
+Angelica WALLÉN,NFH,Nykøbing F. Håndbold,1022.0,3,ST,False,NORMAL,7.0
+Emelie WESTBERG,NFH,Nykøbing F. Håndbold,1021.4,6,VB,False,NORMAL,6.4
+Anna LAGERQUIST,NFH,Nykøbing F. Håndbold,1019.2,5,ST,False,NORMAL,4.2
+Cecilie GREVE,NFH,Nykøbing F. Håndbold,1017.9,4,MV,True,NORMAL,2.9

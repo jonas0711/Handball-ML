@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Kristoffer VESTERGAARD,GIF,Grindsted GIF Håndbold,1427.4,58,PL,False,NORMAL,238.6
-Martin RISOM,GIF,Grindsted GIF Håndbold,1185.2,20,ST,False,NORMAL,68.7
-Jonas FUGLSBJERG,GIF,Grindsted GIF Håndbold,1169.2,15,PL,False,NORMAL,34.6
+Kristoffer VESTERGAARD,GIF,Grindsted GIF Håndbold,1391.6,58,PL,False,ELITE,238.6
+Frederik IVERSEN,GIF,Grindsted GIF Håndbold,1317.9,30,VF,False,ELITE,79.2
+Martin RISOM,GIF,Grindsted GIF Håndbold,1139.1,20,ST,False,NORMAL,68.7
+Jonas FUGLSBJERG,GIF,Grindsted GIF Håndbold,1118.6999999999998,15,PL,False,NORMAL,34.6
+Rolf RAVN,GIF,Grindsted GIF Håndbold,1118.0,8,ST,False,NORMAL,11.5
 Hjalmar ANDERSEN,GIF,Grindsted GIF Håndbold,1113.7,28,ST,False,NORMAL,98.7
 Kristian Krag ØRSTED,GIF,Grindsted GIF Håndbold,1109.3,31,ST,False,NORMAL,94.3
 Frederik NIELSEN,GIF,Grindsted GIF Håndbold,1102.4,27,ST,False,NORMAL,87.4
-Frederik IVERSEN,GIF,Grindsted GIF Håndbold,1094.2,30,VF,False,NORMAL,79.2
 Jakob VILLEMOES,GIF,Grindsted GIF Håndbold,1071.5,27,HF,False,NORMAL,56.5
 Thomas THEILGAARD,GIF,Grindsted GIF Håndbold,1061.7,25,HF,False,NORMAL,46.7
 Nicolai SKYTTE,GIF,Grindsted GIF Håndbold,1060.0,22,PL,False,NORMAL,45.0
 Christian WETCHE,GIF,Grindsted GIF Håndbold,1052.6,11,MV,True,NORMAL,37.6
 Bjarke NYBO,GIF,Grindsted GIF Håndbold,1041.4,15,PL,False,NORMAL,26.4
 Magnus SADOVA,GIF,Grindsted GIF Håndbold,1035.9,13,VF,False,NORMAL,20.9
-Rolf RAVN,GIF,Grindsted GIF Håndbold,1026.5,8,ST,False,NORMAL,11.5
 Nicklas Bjørn VASSVIK,GIF,Grindsted GIF Håndbold,1024.5,5,ST,False,NORMAL,9.5
 Daniel JØRGENSEN,GIF,Grindsted GIF Håndbold,1019.9,3,HF,False,NORMAL,4.9
 Frederik SKOVGAARD,GIF,Grindsted GIF Håndbold,1016.5,3,MV,True,NORMAL,1.5

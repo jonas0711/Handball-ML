@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Omar Ingi MAGNUSSON,AAH,Aalborg Håndbold,1541.1,34,HB,False,NORMAL,170.9
-Janus SMARÁSON,AAH,Aalborg Håndbold,1425.7,36,PL,False,NORMAL,129.6
-Mark STRANDGAARD,AAH,Aalborg Håndbold,1422.0,30,HF,False,NORMAL,97.0
-Andreas Holst JENSEN,AAH,Aalborg Håndbold,1409.7,22,VB,False,NORMAL,83.0
-Tobias ELLEBÆK,AAH,Aalborg Håndbold,1404.8,33,VB,False,NORMAL,76.8
-Sebastian BARTHOLD,AAH,Aalborg Håndbold,1376.0,29,VF,False,NORMAL,106.6
-Magnus SAUGSTRUP,AAH,Aalborg Håndbold,1351.5,29,ST,True,NORMAL,73.5
-René ANTONSEN,AAH,Aalborg Håndbold,1339.8,30,ST,False,NORMAL,70.9
-Jesper Meinby PEDERSEN,AAH,Aalborg Håndbold,1323.3,25,HF,False,NORMAL,43.8
-Mikael AGGEFORS,AAH,Aalborg Håndbold,1295.4,8,MV,True,NORMAL,6.6
-Buster JUUL,AAH,Aalborg Håndbold,1272.4,5,VF,False,NORMAL,5.4
-Aleksander Selmar PEDERSEN,AAH,Aalborg Håndbold,1239.4,4,ST,False,NORMAL,3.4
+Omar Ingi MAGNUSSON,AAH,Aalborg Håndbold,1325.7,34,HB,False,ELITE,170.9
+Mark STRANDGAARD,AAH,Aalborg Håndbold,1225.6,30,HF,False,NORMAL,97.0
+Janus SMARÁSON,AAH,Aalborg Håndbold,1223.5,36,PL,False,NORMAL,129.6
+Andreas Holst JENSEN,AAH,Aalborg Håndbold,1214.0,22,VB,False,NORMAL,83.0
+Tobias ELLEBÆK,AAH,Aalborg Håndbold,1197.6,33,VB,False,NORMAL,76.8
+Sebastian BARTHOLD,AAH,Aalborg Håndbold,1152.1,29,VF,False,NORMAL,106.6
+Magnus SAUGSTRUP,AAH,Aalborg Håndbold,1136.6,29,ST,True,NORMAL,73.5
+René ANTONSEN,AAH,Aalborg Håndbold,1124.3000000000002,30,ST,False,NORMAL,70.9
 Henrik MØLLGAARD,AAH,Aalborg Håndbold,1121.5,32,PL,False,NORMAL,106.5
+Jesper Meinby PEDERSEN,AAH,Aalborg Håndbold,1115.4,25,HF,False,NORMAL,43.8
+Buster JUUL,AAH,Aalborg Håndbold,1071.8000000000002,5,VF,False,NORMAL,5.4
+Aleksander Selmar PEDERSEN,AAH,Aalborg Håndbold,1056.7,4,ST,False,NORMAL,3.4
+Mikael AGGEFORS,AAH,Aalborg Håndbold,1047.1999999999998,8,MV,True,NORMAL,6.6
 Frederik Bech JENSEN,AAH,Aalborg Håndbold,1026.1,6,VF,False,NORMAL,11.1
 Kristian SAEVERÅS,AAH,Aalborg Håndbold,1020.9,4,MV,True,NORMAL,5.9
 Oliver Amnitzbøll NORLYK,AAH,Aalborg Håndbold,1018.8,4,HB,False,NORMAL,3.8

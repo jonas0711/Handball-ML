@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Jesper KOKHOLM,LTH,Lemvig-Thyborøn Håndbold,1502.3,28,HF,False,NORMAL,113.2
-Niels LINDHOLT,LTH,Lemvig-Thyborøn Håndbold,1404.9,27,ST,False,NORMAL,124.0
-Jeppe Gade NIELSEN,LTH,Lemvig-Thyborøn Håndbold,1371.6,25,PL,False,NORMAL,192.2
-Jacob HESSELLUND,LTH,Lemvig-Thyborøn Håndbold,1260.0,22,VF,False,NORMAL,65.0
-Jorn SMITS,LTH,Lemvig-Thyborøn Håndbold,1247.1,31,PL,False,NORMAL,99.2
-Mathias PORSHOLDT,LTH,Lemvig-Thyborøn Håndbold,1222.9,10,ST,False,NORMAL,15.8
-Mats Gordon KROG,LTH,Lemvig-Thyborøn Håndbold,1210.5,17,VF,False,NORMAL,85.6
-Anders FLÆNG,LTH,Lemvig-Thyborøn Håndbold,1189.8,8,HF,False,NORMAL,26.2
-Jon KATBALLE,LTH,Lemvig-Thyborøn Håndbold,1172.5,29,PL,False,NORMAL,78.6
-Amadeus HEDIN,LTH,Lemvig-Thyborøn Håndbold,1124.4,4,VB,False,NORMAL,2.5
-Thomas DAMGAARD,LTH,Lemvig-Thyborøn Håndbold,1121.6,26,PL,False,NORMAL,106.6
-Christian HOLM,LTH,Lemvig-Thyborøn Håndbold,1081.6,24,PL,False,NORMAL,66.6
-Fredrik CLEMENTSEN,LTH,Lemvig-Thyborøn Håndbold,1068.7,22,ST,False,NORMAL,53.7
+Jesper KOKHOLM,LTH,Lemvig-Thyborøn Håndbold,1418.3,28,HF,False,LEGENDARY,118.2
+Jeppe Gade NIELSEN,LTH,Lemvig-Thyborøn Håndbold,1312.1999999999998,25,PL,False,ELITE,203.1
+Niels LINDHOLT,LTH,Lemvig-Thyborøn Håndbold,1307.7,27,ST,False,ELITE,133.8
+Jacob HESSELLUND,LTH,Lemvig-Thyborøn Håndbold,1211.2,22,VF,False,NORMAL,69.2
+Mats Gordon KROG,LTH,Lemvig-Thyborøn Håndbold,1210.6,17,VF,False,NORMAL,92.4
+Jorn SMITS,LTH,Lemvig-Thyborøn Håndbold,1205.6,31,PL,False,NORMAL,102.7
+Mathias PORSHOLDT,LTH,Lemvig-Thyborøn Håndbold,1160.7,10,ST,False,NORMAL,15.8
+Jon KATBALLE,LTH,Lemvig-Thyborøn Håndbold,1137.8,29,PL,False,NORMAL,82.8
+Anders FLÆNG,LTH,Lemvig-Thyborøn Håndbold,1128.8,8,HF,False,NORMAL,27.7
+Thomas DAMGAARD,LTH,Lemvig-Thyborøn Håndbold,1127.3,26,PL,False,NORMAL,112.3
+Christian HOLM,LTH,Lemvig-Thyborøn Håndbold,1084.3,24,PL,False,NORMAL,69.3
+Amadeus HEDIN,LTH,Lemvig-Thyborøn Håndbold,1074.7,4,VB,False,NORMAL,2.5
+Fredrik CLEMENTSEN,LTH,Lemvig-Thyborøn Håndbold,1070.6,22,ST,False,NORMAL,55.6
 Vilhelm POULSEN,LTH,Lemvig-Thyborøn Håndbold,1057.4,21,HB,False,NORMAL,42.4
 Nicolai PUGHOLM,LTH,Lemvig-Thyborøn Håndbold,1035.8,13,ST,False,NORMAL,20.8
 Simon EGTVED,LTH,Lemvig-Thyborøn Håndbold,1020.7,3,MV,True,NORMAL,5.7

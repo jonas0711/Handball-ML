@@ -1,19 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Lasse HAMANN-BOERITHS,TMH,TMS Ringsted,1253.3,6,HF,False,NORMAL,7.9
-Morten Hempel JENSEN,TMH,TMS Ringsted,1166.0,24,PL,False,NORMAL,151.0
-Mads DUDEK,TMH,TMS Ringsted,1083.8,22,VF,False,NORMAL,68.8
+Morten Hempel JENSEN,TMH,TMS Ringsted,1235.1,24,PL,False,NORMAL,151.0
+Mads DUDEK,TMH,TMS Ringsted,1139.0,22,VF,False,NORMAL,68.8
+Martin Risom CHRISTENSEN,TMH,TMS Ringsted,1127.2,16,HB,False,NORMAL,46.3
+Lasse HAMANN-BOERITHS,TMH,TMS Ringsted,1099.7,6,HF,False,NORMAL,7.9
+Anton BRAMMING,TMH,TMS Ringsted,1096.8,15,VF,False,NORMAL,39.2
+Andreas MAGAARD,TMH,TMS Ringsted,1088.5,20,ST,False,NORMAL,49.8
+Frank MIKKELSEN,TMH,TMS Ringsted,1080.6,10,MV,True,NORMAL,12.9
 Oskar Vind RASMUSSEN,TMH,TMS Ringsted,1079.4,22,HF,False,NORMAL,64.4
+Minik Dahl HØEGH,TMH,TMS Ringsted,1075.7,9,PL,False,NORMAL,16.8
+Sebastian Reimer THOR,TMH,TMS Ringsted,1074.0,16,ST,False,NORMAL,23.9
 Lauritz LEGÉR,TMH,TMS Ringsted,1073.2,22,PL,False,NORMAL,58.2
-Andreas MAGAARD,TMH,TMS Ringsted,1064.8,20,ST,False,NORMAL,49.8
-Martin Risom CHRISTENSEN,TMH,TMS Ringsted,1061.3,16,HB,False,NORMAL,46.3
 Martin Mauer LARSEN,TMH,TMS Ringsted,1059.9,19,PL,False,NORMAL,44.9
-Anton BRAMMING,TMH,TMS Ringsted,1054.2,15,VF,False,NORMAL,39.2
-Sebastian Reimer THOR,TMH,TMS Ringsted,1038.9,16,ST,False,NORMAL,23.9
-Minik Dahl HØEGH,TMH,TMS Ringsted,1031.8,9,PL,False,NORMAL,16.8
 Andreas Sørensen HAMPE,TMH,TMS Ringsted,1030.9,6,PL,False,NORMAL,15.9
 Valdemar GRAVESEN,TMH,TMS Ringsted,1029.4,6,HF,False,NORMAL,14.4
 Oliver Klarskov KNUDSEN,TMH,TMS Ringsted,1028.5,5,PL,False,NORMAL,13.5
-Frank MIKKELSEN,TMH,TMS Ringsted,1027.9,10,MV,True,NORMAL,12.9
 Brian JØRGENSEN,TMH,TMS Ringsted,1025.4,2,MV,True,NORMAL,10.4
 Joachim Møller JACOBSEN,TMH,TMS Ringsted,1024.2,8,ST,False,NORMAL,9.2
 Tobias LANTZ-PEDERSEN,TMH,TMS Ringsted,1016.0,1,MV,True,NORMAL,1.0

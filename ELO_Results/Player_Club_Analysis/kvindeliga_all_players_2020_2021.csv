@@ -1,158 +1,159 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Kristina JØRGENSEN,VHK,Viborg HK,1559.0,36,PL,False,NORMAL,158.7
-Kristina KRISTIANSEN,NFH,Nykøbing F. Håndbold,1501.0,32,PL,False,NORMAL,101.3
-Line HAUGSTED,VHK,Viborg HK,1499.8,37,PL,False,NORMAL,99.7
-June BØTTGER,AAU,Aarhus United,1494.9,29,VF,False,NORMAL,93.3
-Vilde Mortensen INGSTAD,TES,Team Esbjerg,1478.6,26,ST,False,NORMAL,76.4
-Carin STRÖMBERG,VHK,Viborg HK,1470.7,32,PL,False,NORMAL,67.9
-Johanna WESTBERG,NFH,Nykøbing F. Håndbold,1469.7,28,PL,False,NORMAL,119.5
-Celine Lundbye KRISTIANSEN,NFH,Nykøbing F. Håndbold,1469.7,28,PL,False,NORMAL,67.6
-Sofie Bæk ANDERSEN,SVK,Silkeborg-Voel KFUM,1443.1,17,PL,False,NORMAL,43.8
-Lærke CHRISTENSEN,HOL,Holstebro Håndbold,1433.6,29,HB,False,NORMAL,106.8
-Mia REJ,KBH,København Håndbold,1410.4,33,PL,False,NORMAL,78.9
-Trine KNUDSEN,HHE,Horsens Håndbold Elite,1382.6,31,PL,False,NORMAL,107.1
-Lea HANSEN,SVK,Silkeborg-Voel KFUM,1382.3,28,HF,False,NORMAL,57.5
-Annika JAKOBSEN,SVK,Silkeborg-Voel KFUM,1371.0,26,HF,False,NORMAL,66.7
-Hege Bakken WAHLQUIST,SVK,Silkeborg-Voel KFUM,1357.4,24,VF,False,NORMAL,51.4
-Annika MEYER,AAU,Aarhus United,1357.3,30,ST,False,NORMAL,77.9
-Sofia DEEN,SKB,Skanderborg Håndbold,1343.2,30,PL,False,NORMAL,117.1
-Kristine BREISTØL,TES,Team Esbjerg,1341.3,32,PL,False,NORMAL,136.3
-Hanna BLOMSTRAND,KBH,København Håndbold,1337.0,24,HB,False,NORMAL,36.8
-Louise FØNS,KBH,København Håndbold,1332.1,27,VF,False,NORMAL,45.6
-Majbritt Toft HANSEN,VHK,Viborg HK,1320.2,25,ST,False,NORMAL,40.4
-Josefine DRAGENBERG,HOL,Holstebro Håndbold,1315.0,28,ST,False,NORMAL,85.0
-Emilie Ytting PEDERSEN,SKB,Skanderborg Håndbold,1304.8,27,VF,False,NORMAL,64.1
-Moa HÖGDAHL,VHK,Viborg HK,1280.0,34,HB,False,NORMAL,106.4
-Dione HOUSHEER,NFH,Nykøbing F. Håndbold,1274.7,19,HB,False,NORMAL,64.9
-Louise ELLEBÆK,SVK,Silkeborg-Voel KFUM,1270.8,21,PL,False,NORMAL,26.9
-Larissa NUSSER,KBH,København Håndbold,1268.0,32,ST,False,NORMAL,128.1
-Line Berggren LARSEN,AAU,Aarhus United,1266.9,29,PL,False,NORMAL,59.6
-Marit Røsberg JACOBSEN,TES,Team Esbjerg,1262.8,32,HF,False,NORMAL,90.4
-Julie JENSEN,SVK,Silkeborg-Voel KFUM,1261.4,30,HB,False,NORMAL,124.7
-Stine HOLM,AJK,Ajax København,1260.0,15,HF,False,NORMAL,46.5
-Emma MOGENSEN,AAU,Aarhus United,1259.4,12,PL,False,NORMAL,16.1
-Mathilde STORGAARD,SKB,Skanderborg Håndbold,1241.4,19,ST,False,NORMAL,20.2
-Henriette HANSEN,VEN,Vendsyssel Håndbold,1240.1,23,HF,False,NORMAL,72.5
-Melissa PETRÉN,HHE,Horsens Håndbold Elite,1234.2,26,PL,False,NORMAL,123.0
-Maria LYKKEGAARD,KBH,København Håndbold,1232.5,20,ST,False,NORMAL,44.1
-Amalie Grøn HANSEN,VHK,Viborg HK,1229.7,13,VF,False,NORMAL,26.0
-Mathilde NEESGAARD,AAU,Aarhus United,1224.5,30,PL,True,NORMAL,106.8
-Andrea West BENDTSEN,HOL,Holstebro Håndbold,1222.8,29,VB,False,NORMAL,115.9
-Anne Tolstrup PETERSEN,KBH,København Håndbold,1221.3,11,HF,False,NORMAL,17.7
-Maria Mose VESTERGAARD,HHE,Horsens Håndbold Elite,1219.6,26,VF,False,NORMAL,66.2
-Kaja Kamp NIELSEN,TES,Team Esbjerg,1216.5,25,ST,False,NORMAL,46.3
-Annette JENSEN,TES,Team Esbjerg,1213.2,36,PL,False,NORMAL,84.7
-Elma HALILCEVIC,TES,Team Esbjerg,1210.2,16,VF,False,NORMAL,17.8
-Stine Eiberg JØRGENSEN,AJK,Ajax København,1209.6,30,PL,False,NORMAL,70.7
-Marit Malm FRAFJORD,TES,Team Esbjerg,1209.3,27,ST,False,NORMAL,75.8
-Camilla PYTLICK,HOL,Holstebro Håndbold,1206.8,14,PL,False,NORMAL,33.2
-Charlotte Lund MIKKELSEN,AAU,Aarhus United,1201.8,10,HF,False,NORMAL,29.1
-Sabine ENGLERT,IKA,Ikast Håndbold,1198.6,8,MV,True,NORMAL,11.8
-Sofie BARDRUM,AJK,Ajax København,1191.1,28,ST,False,NORMAL,70.2
-Stine Nørklit LØNBORG,AJK,Ajax København,1189.7,29,PL,False,NORMAL,84.0
-Louisa MITTET,AJK,Ajax København,1189.2,27,HB,False,NORMAL,93.7
-Stine Baun ERIKSEN,SKB,Skanderborg Håndbold,1182.3,15,PL,False,NORMAL,13.6
-Sonja FREY,TES,Team Esbjerg,1181.3,30,ST,False,NORMAL,88.4
-Line ELLERTSEN,AAU,Aarhus United,1180.4,32,PL,False,NORMAL,106.8
-Julie HOLM,HOL,Holstebro Håndbold,1179.3,24,HB,False,NORMAL,70.4
-Sofie Brems ØSTERGAARD,HOL,Holstebro Håndbold,1178.1,29,HF,False,NORMAL,56.6
-Maja Eiberg JØRGENSEN,AJK,Ajax København,1177.0,14,PL,False,NORMAL,28.8
-Line SKAK,SVK,Silkeborg-Voel KFUM,1174.7,24,ST,True,NORMAL,43.9
-Anna GRUNDTVIG,AJK,Ajax København,1174.5,23,VF,False,NORMAL,44.9
-Cecilie Mørch HANSEN,AAU,Aarhus United,1172.7,17,VB,False,NORMAL,23.9
-Maria HJERTNER,KBH,København Håndbold,1170.2,22,HB,False,NORMAL,66.7
-Cecilie SPECHT,AJK,Ajax København,1170.0,29,HB,False,NORMAL,81.8
-Emma FRIBERG,VHK,Viborg HK,1168.4,1,MV,True,NORMAL,-0.2
-Johanna BUNDSEN,KBH,København Håndbold,1158.7,12,MV,True,NORMAL,2.3
-Emilie Bastrup BERTELSEN,HOL,Holstebro Håndbold,1158.7,19,VF,False,NORMAL,36.2
-Mette TRANBORG,TES,Team Esbjerg,1158.4,36,HB,False,NORMAL,143.4
-Frederikke GULMARK,HHE,Horsens Håndbold Elite,1155.3,19,VB,False,NORMAL,60.1
-Stine KRISTENSEN,SKB,Skanderborg Håndbold,1154.2,26,HF,False,NORMAL,60.1
-Natasja ANDREASEN,SVK,Silkeborg-Voel KFUM,1153.8,19,PL,False,NORMAL,56.2
-Rikke POULSEN,TES,Team Esbjerg,1150.8,5,MV,True,NORMAL,0.2
-Jane SCHUMACHER,SVK,Silkeborg-Voel KFUM,1149.8,13,PL,False,NORMAL,34.7
-Melina KRISTENSEN,SKB,Skanderborg Håndbold,1143.4,14,HF,False,NORMAL,35.5
-Jessica RYDE,IKA,Ikast Håndbold,1141.5,2,MV,True,NORMAL,-0.4
-Emma Gandrup ERNST,SKB,Skanderborg Håndbold,1140.9,16,PL,False,NORMAL,19.9
-Celine Lundbye KRISTIANSEN12,NFH,Nykøbing F. Håndbold,1140.8,5,HF,False,NORMAL,10.5
-Ditte VIND,HOL,Holstebro Håndbold,1137.9,2,MV,True,NORMAL,-1.0
-Stine BROLØS,RAN,Randers HK,1137.8,2,MV,True,NORMAL,-0.8
-Sarah STOUGAARD,SKB,Skanderborg Håndbold,1136.4,25,VF,False,NORMAL,33.6
-Sara KECECI,HOL,Holstebro Håndbold,1136.2,1,MV,True,NORMAL,-0.5
-Frederikke Glavind HEDEGAARD,AAU,Aarhus United,1136.1,25,HF,False,NORMAL,41.3
-Sarah Nørklit LØNBORG,AJK,Ajax København,1135.2,10,MV,True,NORMAL,6.8
-Amalie MILLING,KBH,København Håndbold,1135.1,2,MV,True,NORMAL,1.6
+Kristina JØRGENSEN,VHK,Viborg HK,1435.5,36,PL,False,LEGENDARY,158.7
+Trine KNUDSEN,HHE,Horsens Håndbold Elite,1353.8,31,PL,False,ELITE,107.1
+Sofia DEEN,SKB,Skanderborg Håndbold,1344.6,30,PL,False,ELITE,117.1
+June BØTTGER,AAU,Aarhus United,1339.0,29,VF,False,ELITE,93.3
+Kristine BREISTØL,TES,Team Esbjerg,1331.0,32,PL,False,ELITE,136.3
+Kristina KRISTIANSEN,NFH,Nykøbing F. Håndbold,1308.0,32,PL,False,ELITE,101.3
+Celine Lundbye KRISTIANSEN,NFH,Nykøbing F. Håndbold,1306.6999999999998,28,PL,False,ELITE,67.6
+Line HAUGSTED,VHK,Viborg HK,1298.3,37,PL,False,ELITE,99.7
+Line Berggren LARSEN,AAU,Aarhus United,1287.4,29,PL,False,ELITE,59.6
+Johanna WESTBERG,NFH,Nykøbing F. Håndbold,1287.4,28,PL,False,ELITE,119.5
+Vilde Mortensen INGSTAD,TES,Team Esbjerg,1277.7,26,ST,False,ELITE,76.4
+Lærke CHRISTENSEN,HOL,Holstebro Håndbold,1272.8,29,HB,False,ELITE,106.8
+Sofie Bæk ANDERSEN,SVK,Silkeborg-Voel KFUM,1271.2,17,PL,False,ELITE,43.8
+Moa HÖGDAHL,VHK,Viborg HK,1269.0,34,HB,False,ELITE,106.4
+Mette TRANBORG,TES,Team Esbjerg,1266.8000000000002,36,HB,False,ELITE,143.4
+Larissa NUSSER,KBH,København Håndbold,1262.1999999999998,32,ST,False,ELITE,128.1
+Marit Røsberg JACOBSEN,TES,Team Esbjerg,1256.1,32,HF,False,ELITE,90.4
+Stine HOLM,AJK,Ajax København,1255.7,15,HF,False,ELITE,46.5
+Dione HOUSHEER,NFH,Nykøbing F. Håndbold,1250.7,19,HB,False,ELITE,64.9
+Carin STRÖMBERG,VHK,Viborg HK,1248.5,32,PL,False,NORMAL,67.9
+Julie JENSEN,SVK,Silkeborg-Voel KFUM,1246.5,30,HB,False,NORMAL,124.7
+Mia REJ,KBH,København Håndbold,1245.3000000000002,33,PL,False,NORMAL,78.9
+Melissa PETRÉN,HHE,Horsens Håndbold Elite,1238.2,26,PL,False,NORMAL,123.0
+Mathilde NEESGAARD,AAU,Aarhus United,1229.2,30,PL,True,NORMAL,106.8
+Anne Tolstrup PETERSEN,KBH,København Håndbold,1225.1,11,HF,False,NORMAL,17.7
+Kaja Kamp NIELSEN,TES,Team Esbjerg,1221.1,25,ST,False,NORMAL,46.3
+Mette Brandt NIELSEN,VEN,Vendsyssel Håndbold,1208.6,14,ST,False,NORMAL,63.3
+Annika JAKOBSEN,SVK,Silkeborg-Voel KFUM,1206.9,26,HF,False,NORMAL,66.7
+Lea HANSEN,SVK,Silkeborg-Voel KFUM,1205.0,28,HF,False,NORMAL,57.5
+Charlotte Lund MIKKELSEN,AAU,Aarhus United,1203.0,10,HF,False,NORMAL,29.1
+Andrea West BENDTSEN,HOL,Holstebro Håndbold,1197.5,29,VB,False,NORMAL,115.9
+Cecilie Mørch HANSEN,AAU,Aarhus United,1185.6,17,VB,False,NORMAL,23.9
+Louisa MITTET,AJK,Ajax København,1183.5,27,HB,False,NORMAL,93.7
+Sonja FREY,TES,Team Esbjerg,1179.9,30,ST,False,NORMAL,88.4
+Hege Bakken WAHLQUIST,SVK,Silkeborg-Voel KFUM,1175.5,24,VF,False,NORMAL,51.4
+Line ELLERTSEN,AAU,Aarhus United,1168.8,32,PL,False,NORMAL,106.8
+Anna GRUNDTVIG,AJK,Ajax København,1165.9,23,VF,False,NORMAL,44.9
+Maria Mose VESTERGAARD,HHE,Horsens Håndbold Elite,1163.7,26,VF,False,NORMAL,66.2
+Marit Malm FRAFJORD,TES,Team Esbjerg,1163.5,27,ST,False,NORMAL,75.8
+Emilie Ytting PEDERSEN,SKB,Skanderborg Håndbold,1163.1,27,VF,False,NORMAL,64.1
+Stine Nørklit LØNBORG,AJK,Ajax København,1161.8,29,PL,False,NORMAL,84.0
+Maria HJERTNER,KBH,København Håndbold,1159.0,22,HB,False,NORMAL,66.7
+Annika MEYER,AAU,Aarhus United,1155.9,30,ST,False,NORMAL,77.9
+Annette JENSEN,TES,Team Esbjerg,1154.5,36,PL,False,NORMAL,84.7
+Emilie Bastrup BERTELSEN,HOL,Holstebro Håndbold,1151.7,19,VF,False,NORMAL,36.2
+Cecilie SPECHT,AJK,Ajax København,1150.5,29,HB,False,NORMAL,81.8
+Majbritt Toft HANSEN,VHK,Viborg HK,1149.5,25,ST,False,NORMAL,40.4
+Jane SCHUMACHER,SVK,Silkeborg-Voel KFUM,1148.3,13,PL,False,NORMAL,34.7
+Louise FØNS,KBH,København Håndbold,1148.1,27,VF,False,NORMAL,45.6
+Sofie Brems ØSTERGAARD,HOL,Holstebro Håndbold,1147.6,29,HF,False,NORMAL,56.6
+Frederikke GULMARK,HHE,Horsens Håndbold Elite,1146.1,19,VB,False,NORMAL,60.1
+Henriette HANSEN,VEN,Vendsyssel Håndbold,1145.2,23,HF,False,NORMAL,72.5
+Josefine DRAGENBERG,HOL,Holstebro Håndbold,1143.4,28,ST,False,NORMAL,85.0
+Daniela GUSTIN,HHE,Horsens Håndbold Elite,1137.8,20,HF,False,NORMAL,58.2
+Camilla PYTLICK,HOL,Holstebro Håndbold,1136.0,14,PL,False,NORMAL,33.2
+Sofie BARDRUM,AJK,Ajax København,1135.2,28,ST,False,NORMAL,70.2
 Jenny Helen CARLSON,HOL,Holstebro Håndbold,1133.6,27,PL,False,NORMAL,118.6
-Daniela GUSTIN,HHE,Horsens Håndbold Elite,1133.6,20,HF,False,NORMAL,58.2
-Caroline SVARRE,HOL,Holstebro Håndbold,1132.7,21,ST,False,NORMAL,37.7
 Eira AUNE,SVK,Silkeborg-Voel KFUM,1132.2,32,PL,False,NORMAL,117.2
-Louise EGESTORP,NFH,Nykøbing F. Håndbold,1131.1,5,MV,True,NORMAL,0.6
-Rikke Marie GRANLUND,TES,Team Esbjerg,1130.6,8,MV,True,NORMAL,7.7
-Althea REINHARDT,ODE,Odense Håndbold,1130.4,2,MV,True,NORMAL,-0.7
-Katrine LARSON,SKB,Skanderborg Håndbold,1130.1,20,PL,False,NORMAL,36.5
-Martina THÖRN,AAU,Aarhus United,1126.4,11,MV,True,NORMAL,-1.8
-Tess WESTER,ODE,Odense Håndbold,1126.3,10,MV,True,NORMAL,3.4
-Celine Lundbye KRISTIANSEN16,NFH,Nykøbing F. Håndbold,1125.6,4,HF,False,NORMAL,5.0
-Marianne HAUGSTED,VHK,Viborg HK,1124.5,5,PL,False,NORMAL,2.2
-Mathilde JUNCKER,RAN,Randers HK,1122.9,5,MV,True,NORMAL,3.7
+Hanna BLOMSTRAND,KBH,København Håndbold,1129.7,24,HB,False,NORMAL,36.8
+Louise ELLEBÆK,SVK,Silkeborg-Voel KFUM,1124.7,21,PL,False,NORMAL,26.9
 Lærke NOLSØE,NFH,Nykøbing F. Håndbold,1122.4,30,VF,False,NORMAL,107.4
-Maria FISKER,VHK,Viborg HK,1118.7,32,VF,False,NORMAL,50.7
-Mathilde KRISTENSEN,SVK,Silkeborg-Voel KFUM,1117.9,21,ST,False,NORMAL,40.0
-Aimée Von PEREIRA,KBH,København Håndbold,1117.5,25,PL,False,NORMAL,52.5
-Anna KRISTENSEN,VHK,Viborg HK,1116.0,11,MV,True,NORMAL,6.9
-Siw AABECH,AJK,Ajax København,1115.3,23,PL,False,NORMAL,24.6
-Frederikke RASMUSSEN,HHE,Horsens Håndbold Elite,1115.2,2,MV,True,NORMAL,3.1
-Lykke Frank HANSEN,NFH,Nykøbing F. Håndbold,1113.2,6,VF,False,NORMAL,10.7
+Sarah STOUGAARD,SKB,Skanderborg Håndbold,1122.4,25,VF,False,NORMAL,33.6
+Julie HOLM,HOL,Holstebro Håndbold,1120.3000000000002,24,HB,False,NORMAL,70.4
+Stine KRISTENSEN,SKB,Skanderborg Håndbold,1119.6999999999998,26,HF,False,NORMAL,60.1
+Natasja ANDREASEN,SVK,Silkeborg-Voel KFUM,1118.7,19,PL,False,NORMAL,56.2
+Line SKAK,SVK,Silkeborg-Voel KFUM,1118.6,24,ST,True,NORMAL,43.9
+Maja Eiberg JØRGENSEN,AJK,Ajax København,1117.8,14,PL,False,NORMAL,28.8
+Maria LYKKEGAARD,KBH,København Håndbold,1112.6,20,ST,False,NORMAL,44.1
+Maja Edling LAURITSEN,HOL,Holstebro Håndbold,1106.1999999999998,22,VF,False,NORMAL,49.6
 Sofie OLSEN,NFH,Nykøbing F. Håndbold,1104.0,29,HF,False,NORMAL,89.0
+Maria FISKER,VHK,Viborg HK,1103.9,32,VF,False,NORMAL,50.7
 Mette BEJDER,VEN,Vendsyssel Håndbold,1103.5,25,PL,False,NORMAL,88.5
-Emily BAUNSGAARD,HHE,Horsens Håndbold Elite,1101.2,12,HB,False,NORMAL,28.1
+Frederikke Glavind HEDEGAARD,AAU,Aarhus United,1100.1,25,HF,False,NORMAL,41.3
 Nikita Van Der VLIET,NFH,Nykøbing F. Håndbold,1099.0,28,ST,False,NORMAL,84.0
 Emilie BECH,SKB,Skanderborg Håndbold,1098.0,29,HF,False,NORMAL,83.0
-Madeleine ÖSTLUND,VHK,Viborg HK,1096.6,16,ST,False,NORMAL,22.3
 Christina PEDERSEN,VEN,Vendsyssel Håndbold,1095.7,26,PL,False,NORMAL,80.7
-Mette LASSEN,HHE,Horsens Håndbold Elite,1093.4,17,VF,False,NORMAL,30.0
+Katrine LARSON,SKB,Skanderborg Håndbold,1095.1,20,PL,False,NORMAL,36.5
+Emily BAUNSGAARD,HHE,Horsens Håndbold Elite,1095.0,12,HB,False,NORMAL,28.1
+Amalie Grøn HANSEN,VHK,Viborg HK,1093.1,13,VF,False,NORMAL,26.0
+Caroline SVARRE,HOL,Holstebro Håndbold,1092.1,21,ST,False,NORMAL,37.7
 Marielle MARTINSEN,AAU,Aarhus United,1090.8,29,PL,False,NORMAL,75.8
 Sanna SOLBERG,TES,Team Esbjerg,1089.7,31,VF,False,NORMAL,74.7
 Anna Lillesø NIELSEN,SVK,Silkeborg-Voel KFUM,1089.6,27,VF,False,NORMAL,74.6
+Emma MOGENSEN,AAU,Aarhus United,1089.1,12,PL,False,NORMAL,16.1
 Andrea HANSEN,KBH,København Håndbold,1088.9,25,HF,False,NORMAL,73.9
+Sofie Hartung SLETSKOV,VEN,Vendsyssel Håndbold,1087.4,25,PL,False,NORMAL,49.4
+Stine Eiberg JØRGENSEN,AJK,Ajax København,1085.7,30,PL,False,NORMAL,70.7
+Melina KRISTENSEN,SKB,Skanderborg Håndbold,1085.4,14,HF,False,NORMAL,35.5
 Pernille BRANDENBORG,VEN,Vendsyssel Håndbold,1085.3,25,ST,False,NORMAL,70.3
+Aimée Von PEREIRA,KBH,København Håndbold,1085.1,25,PL,False,NORMAL,52.5
 Amalie Wulff NIELSEN,NFH,Nykøbing F. Håndbold,1084.3,21,ST,False,NORMAL,69.3
+Mette LASSEN,HHE,Horsens Håndbold Elite,1083.8,17,VF,False,NORMAL,30.0
+Mathilde STORGAARD,SKB,Skanderborg Håndbold,1083.1,19,ST,False,NORMAL,20.2
+Susanne MADSEN,HHE,Horsens Håndbold Elite,1080.7,24,PL,False,NORMAL,34.7
 Nerea PENA,TES,Team Esbjerg,1079.6,19,ST,False,NORMAL,64.6
-Mette Brandt NIELSEN,VEN,Vendsyssel Håndbold,1078.3,14,ST,False,NORMAL,63.3
+Mathilde KRISTENSEN,SVK,Silkeborg-Voel KFUM,1079.4,21,ST,False,NORMAL,40.0
+Sofie FLADER,NFH,Nykøbing F. Håndbold,1078.7,13,ST,False,NORMAL,14.9
+Stine Baun ERIKSEN,SKB,Skanderborg Håndbold,1077.6999999999998,15,PL,False,NORMAL,13.6
+Elma HALILCEVIC,TES,Team Esbjerg,1076.2,16,VF,False,NORMAL,17.8
+Sabine ENGLERT,IKA,Ikast Håndbold,1075.1,8,MV,True,NORMAL,11.8
+Emma Gandrup ERNST,SKB,Skanderborg Håndbold,1073.7,16,PL,False,NORMAL,19.9
+Celine Lundbye KRISTIANSEN12,NFH,Nykøbing F. Håndbold,1070.5,5,HF,False,NORMAL,10.5
 Thilde FRANDSEN,VHK,Viborg HK,1069.5,29,HF,False,NORMAL,54.5
 Stine Bindslev HOLM,AJK,Ajax København,1069.3,13,HF,False,NORMAL,54.3
+Rikke Marie GRANLUND,TES,Team Esbjerg,1066.2,8,MV,True,NORMAL,7.7
+Siw AABECH,AJK,Ajax København,1065.6,23,PL,False,NORMAL,24.6
 Steinunn HANSDOTTIR,VEN,Vendsyssel Håndbold,1065.0,23,VF,False,NORMAL,50.0
 Johanna FORSBERG,NFH,Nykøbing F. Håndbold,1065.0,28,ST,False,NORMAL,50.0
-Maja Edling LAURITSEN,HOL,Holstebro Håndbold,1064.6,22,VF,False,NORMAL,49.6
-Sofie Hartung SLETSKOV,VEN,Vendsyssel Håndbold,1064.4,25,PL,False,NORMAL,49.4
+Sarah Nørklit LØNBORG,AJK,Ajax København,1064.3,10,MV,True,NORMAL,6.8
+Madeleine ÖSTLUND,VHK,Viborg HK,1064.3,16,ST,False,NORMAL,22.3
+Jessica RYDE,IKA,Ikast Håndbold,1063.1999999999998,2,MV,True,NORMAL,-0.4
 Ida-Marie DAHL,VHK,Viborg HK,1062.3,23,ST,False,NORMAL,47.3
+Sara KECECI,HOL,Holstebro Håndbold,1061.8,1,MV,True,NORMAL,-0.5
+Mathilde JUNCKER,RAN,Randers HK,1061.3,5,MV,True,NORMAL,3.7
+Rikke POULSEN,TES,Team Esbjerg,1061.3,5,MV,True,NORMAL,0.2
+Johanna BUNDSEN,KBH,København Håndbold,1060.9,12,MV,True,NORMAL,2.3
+Stine BROLØS,RAN,Randers HK,1060.8,2,MV,True,NORMAL,-0.8
+Stephanie ANDERSEN,HHE,Horsens Håndbold Elite,1060.6999999999998,1,MV,True,NORMAL,-0.4
+Celine Lundbye KRISTIANSEN16,NFH,Nykøbing F. Håndbold,1060.5,4,HF,False,NORMAL,5.0
+Emma FRIBERG,VHK,Viborg HK,1060.4,1,MV,True,NORMAL,-0.2
+Marianne HAUGSTED,VHK,Viborg HK,1059.7,5,PL,False,NORMAL,2.2
+Lykke Frank HANSEN,NFH,Nykøbing F. Håndbold,1059.6,6,VF,False,NORMAL,10.7
+Martina THÖRN,AAU,Aarhus United,1059.5,11,MV,True,NORMAL,-1.8
+Althea REINHARDT,ODE,Odense Håndbold,1059.5,2,MV,True,NORMAL,-0.7
+Ditte VIND,HOL,Holstebro Håndbold,1059.4,2,MV,True,NORMAL,-1.0
+Amalie MILLING,KBH,København Håndbold,1058.0,2,MV,True,NORMAL,1.6
+Louise EGESTORP,NFH,Nykøbing F. Håndbold,1056.6999999999998,5,MV,True,NORMAL,0.6
 Julie GANTZEL,HHE,Horsens Håndbold Elite,1056.0,23,ST,False,NORMAL,41.0
+Tess WESTER,ODE,Odense Håndbold,1055.3000000000002,10,MV,True,NORMAL,3.4
 Laura DAMGAARD,VHK,Viborg HK,1054.8,27,PL,False,NORMAL,39.8
 Mathilde NIELSEN,AJK,Ajax København,1053.9,18,VF,False,NORMAL,38.9
 Christina WILDBORK,KBH,København Håndbold,1053.5,18,PL,False,NORMAL,38.5
+Anna KRISTENSEN,VHK,Viborg HK,1052.9,11,MV,True,NORMAL,6.9
+Sophia SNOGDAL,AAU,Aarhus United,1052.9,15,VF,False,NORMAL,22.5
+Frederikke RASMUSSEN,HHE,Horsens Håndbold Elite,1052.4,2,MV,True,NORMAL,3.1
 Caroline Amalie RASMUSSEN,SKB,Skanderborg Håndbold,1050.4,13,PL,False,NORMAL,35.4
-Susanne MADSEN,HHE,Horsens Håndbold Elite,1049.7,24,PL,False,NORMAL,34.7
 Sofia HVENFELT,KBH,København Håndbold,1049.6,17,ST,False,NORMAL,34.6
 Celine Holst ELKJÆR,HHE,Horsens Håndbold Elite,1049.6,21,ST,False,NORMAL,34.6
 Maria Krogh HOLM,HHE,Horsens Håndbold Elite,1049.5,11,HF,False,NORMAL,34.5
-Emilie STEFFENSEN,NFH,Nykøbing F. Håndbold,1047.8,18,PL,False,NORMAL,32.8
 Ida-Louise ANDERSEN,VEN,Vendsyssel Håndbold,1047.8,12,VF,False,NORMAL,32.8
+Emilie STEFFENSEN,NFH,Nykøbing F. Håndbold,1047.8,18,PL,False,NORMAL,32.8
 Rosa Skovlund SCHMIDT,AJK,Ajax København,1045.8,18,HF,False,NORMAL,30.8
 Cecilie TERMANSEN,VEN,Vendsyssel Håndbold,1042.7,17,ST,False,NORMAL,27.7
 Maria HOLM,HHE,Horsens Håndbold Elite,1042.3,6,HF,False,NORMAL,27.3
 Isabella Fazekas JACOBSEN,HOL,Holstebro Håndbold,1041.1,17,ST,False,NORMAL,26.1
-Clara Skyum THOMSEN,KBH,København Håndbold,1040.3,12,HB,False,NORMAL,25.3
 Marie SØRENSEN,AAU,Aarhus United,1040.3,18,ST,False,NORMAL,25.3
+Clara Skyum THOMSEN,KBH,København Håndbold,1040.3,12,HB,False,NORMAL,25.3
 Sanne Beck HANSEN,VHK,Viborg HK,1039.1,19,HF,False,NORMAL,24.1
 Anne-Sofie FILTENBORG,HHE,Horsens Håndbold Elite,1037.9,14,HF,False,NORMAL,22.9
-Sophia SNOGDAL,AAU,Aarhus United,1037.5,15,VF,False,NORMAL,22.5
 Frida Maag DAMGAARD,VEN,Vendsyssel Håndbold,1037.3,9,PL,False,NORMAL,22.3
 Jessica HELLEBERG,KBH,København Håndbold,1037.0,17,VF,False,NORMAL,22.0
 Christina HAURUM,KBH,København Håndbold,1035.7,12,ST,False,NORMAL,20.7
 Lotte VESTERGAARD,SKB,Skanderborg Håndbold,1034.8,16,PL,False,NORMAL,19.8
 Camilla Askebjerg MADSEN,HHE,Horsens Håndbold Elite,1032.4,17,PL,False,NORMAL,17.4
 Alberte EBLER,SKB,Skanderborg Håndbold,1032.2,16,HF,False,NORMAL,17.2
-Sofie FLADER,NFH,Nykøbing F. Håndbold,1029.9,13,ST,False,NORMAL,14.9
 Thea STURLUDOTTIR,AAU,Aarhus United,1029.2,12,HB,False,NORMAL,14.2
 Sarah Vest KIRKELØKKE,SKB,Skanderborg Håndbold,1027.0,16,ST,False,NORMAL,12.0
 Clara SKØTT,KBH,København Håndbold,1026.4,6,HF,False,NORMAL,11.4
@@ -174,7 +175,6 @@ Mia Solberg SVELE,NFH,Nykøbing F. Håndbold,1017.6,4,PL,False,NORMAL,2.6
 Synna LIEN,VEN,Vendsyssel Håndbold,1016.6,5,MV,True,NORMAL,1.6
 Stefani STOJKOVIC,KBH,København Håndbold,1016.5,3,HF,False,NORMAL,1.5
 Louise PETTERSSON,AJK,Ajax København,1014.6,2,MV,True,NORMAL,-0.4
-Stephanie ANDERSEN,HHE,Horsens Håndbold Elite,1014.6,1,MV,True,NORMAL,-0.4
 Elin THORSTEINSDOTTIR,VEN,Vendsyssel Håndbold,1014.5,8,MV,True,NORMAL,-0.5
 Nora PERSSON,AAU,Aarhus United,1014.4,2,MV,True,NORMAL,-0.6
 Stine BONDE,SVK,Silkeborg-Voel KFUM,1014.2,4,MV,True,NORMAL,-0.8

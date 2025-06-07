@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Morten Hempel JENSEN,SAH,SAH - Skanderborg AGF,1490.6,30,PL,False,NORMAL,124.0
-Lars SKAARUP,SAH,SAH - Skanderborg AGF,1446.7,21,VF,False,NORMAL,46.9
-Morten BALLING,SAH,SAH - Skanderborg AGF,1427.4,8,PL,False,NORMAL,26.9
-Jonatan MOLLERUP,SAH,SAH - Skanderborg AGF,1375.8,28,PL,False,NORMAL,109.1
-Kristian BONEFELD,SAH,SAH - Skanderborg AGF,1290.6,6,PL,False,NORMAL,2.9
-Thor CHRISTENSEN,SAH,SAH - Skanderborg AGF,1289.5,22,ST,False,NORMAL,39.4
-Torben PETERSEN,SAH,SAH - Skanderborg AGF,1269.6,30,PL,False,NORMAL,57.9
-Mikkel LANG,SAH,SAH - Skanderborg AGF,1253.7,28,HF,False,NORMAL,101.3
-Salah BOUTAF,SAH,SAH - Skanderborg AGF,1244.9,14,MV,True,NORMAL,14.0
-Anton BRAMMING,SAH,SAH - Skanderborg AGF,1216.4,21,VF,False,NORMAL,31.8
-Kristoffer LAURSEN,SAH,SAH - Skanderborg AGF,1209.4,6,MV,True,NORMAL,12.2
-Lars MOUSING,SAH,SAH - Skanderborg AGF,1167.0,19,ST,False,NORMAL,59.8
+Morten Hempel JENSEN,SAH,SAH - Skanderborg AGF,1443.7,30,PL,False,LEGENDARY,124.0
+Lars SKAARUP,SAH,SAH - Skanderborg AGF,1389.6,21,VF,False,ELITE,46.9
+Torben PETERSEN,SAH,SAH - Skanderborg AGF,1379.0,30,PL,False,ELITE,57.9
+Jonatan MOLLERUP,SAH,SAH - Skanderborg AGF,1348.9,28,PL,False,ELITE,109.1
+Morten BALLING,SAH,SAH - Skanderborg AGF,1346.2,8,PL,False,ELITE,26.9
+Mathias BITSCH,SAH,SAH - Skanderborg AGF,1341.8,5,HB,False,ELITE,2.5
+Lars MOUSING,SAH,SAH - Skanderborg AGF,1293.6,19,ST,False,ELITE,59.8
+Thor CHRISTENSEN,SAH,SAH - Skanderborg AGF,1242.6,22,ST,False,NORMAL,39.4
+Anton BRAMMING,SAH,SAH - Skanderborg AGF,1221.0,21,VF,False,NORMAL,31.8
+Mikkel LANG,SAH,SAH - Skanderborg AGF,1214.9,28,HF,False,NORMAL,101.3
 Fredrik OLSSON,SAH,SAH - Skanderborg AGF,1162.0,30,PL,False,NORMAL,147.0
-Frederik ARNOLDSEN,SAH,SAH - Skanderborg AGF,1151.9,14,ST,False,NORMAL,20.6
+Kristian BONEFELD,SAH,SAH - Skanderborg AGF,1161.5,6,PL,False,NORMAL,2.9
+Salah BOUTAF,SAH,SAH - Skanderborg AGF,1159.4,14,MV,True,NORMAL,14.0
+Kristoffer LAURSEN,SAH,SAH - Skanderborg AGF,1143.7,6,MV,True,NORMAL,12.2
+Frederik ARNOLDSEN,SAH,SAH - Skanderborg AGF,1100.8,14,ST,False,NORMAL,20.6
 Magnus VEJSGAARD,SAH,SAH - Skanderborg AGF,1024.9,4,HF,False,NORMAL,9.9
-Mathias BITSCH,SAH,SAH - Skanderborg AGF,1017.5,5,HB,False,NORMAL,2.5

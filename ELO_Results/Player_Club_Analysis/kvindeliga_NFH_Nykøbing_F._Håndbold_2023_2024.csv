@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Moa HÖGDAHL,NFH,Nykøbing F. Håndbold,1533.0,12,PL,False,NORMAL,134.8
-Ayaka IKEHARA,NFH,Nykøbing F. Håndbold,1466.5,22,HF,False,NORMAL,67.1
-Kristina KRISTIANSEN,NFH,Nykøbing F. Håndbold,1458.3,29,PL,False,NORMAL,58.6
-Sofie BARDRUM,NFH,Nykøbing F. Håndbold,1388.4,31,ST,False,NORMAL,89.4
-Amalie WULFF,NFH,Nykøbing F. Håndbold,1283.4,26,ST,False,NORMAL,59.1
-Tyra AXNÉR,NFH,Nykøbing F. Håndbold,1275.2,30,PL,False,NORMAL,162.2
-Lærke NOLSØE,NFH,Nykøbing F. Håndbold,1266.7,34,VF,False,NORMAL,91.1
-Alberte KIELSTRUP,NFH,Nykøbing F. Håndbold,1253.5,33,HB,False,NORMAL,114.8
-Rosa Skovlund SCHMIDT,NFH,Nykøbing F. Håndbold,1240.6,21,HF,False,NORMAL,70.7
-Charlotte MIKKELSEN,NFH,Nykøbing F. Håndbold,1197.0,12,HF,False,NORMAL,20.8
-Mona OBAIDLI,NFH,Nykøbing F. Håndbold,1168.4,37,PL,False,NORMAL,153.4
-Cecilie GREVE,NFH,Nykøbing F. Håndbold,1139.5,8,MV,True,NORMAL,-5.4
-Matilde VESTERGAARD,NFH,Nykøbing F. Håndbold,1134.4,18,VF,False,NORMAL,20.5
-Caroline AAR,NFH,Nykøbing F. Håndbold,1104.3,27,ST,False,NORMAL,89.3
-Aimée Von PEREIRA,NFH,Nykøbing F. Håndbold,1052.8,22,PL,False,NORMAL,37.8
+Moa HÖGDAHL,NFH,Nykøbing F. Håndbold,1447.5,12,PL,False,LEGENDARY,146.8
+Kristina KRISTIANSEN,NFH,Nykøbing F. Håndbold,1395.0,29,PL,False,ELITE,59.2
+Sofie BARDRUM,NFH,Nykøbing F. Håndbold,1344.7,31,ST,False,ELITE,90.8
+Ayaka IKEHARA,NFH,Nykøbing F. Håndbold,1314.6,22,HF,False,ELITE,70.0
+Amalie WULFF,NFH,Nykøbing F. Håndbold,1302.8,26,ST,False,ELITE,59.1
+Tyra AXNÉR,NFH,Nykøbing F. Håndbold,1279.5,30,PL,False,ELITE,172.8
+Lærke NOLSØE,NFH,Nykøbing F. Håndbold,1219.0,34,VF,False,NORMAL,91.1
+Charlotte MIKKELSEN,NFH,Nykøbing F. Håndbold,1211.6,12,HF,False,NORMAL,20.8
+Alberte KIELSTRUP,NFH,Nykøbing F. Håndbold,1209.7,33,HB,False,NORMAL,114.8
+Rosa Skovlund SCHMIDT,NFH,Nykøbing F. Håndbold,1190.7,21,HF,False,NORMAL,72.9
+Mona OBAIDLI,NFH,Nykøbing F. Håndbold,1174.2,37,PL,False,NORMAL,159.2
+Aimée Von PEREIRA,NFH,Nykøbing F. Håndbold,1128.3,22,PL,False,NORMAL,39.7
+Caroline AAR,NFH,Nykøbing F. Håndbold,1110.2,27,ST,False,NORMAL,95.2
+Cecilie GREVE,NFH,Nykøbing F. Håndbold,1081.6,8,MV,True,NORMAL,-6.2
+Matilde VESTERGAARD,NFH,Nykøbing F. Håndbold,1079.1,18,VF,False,NORMAL,20.5
 Catharina BROCH,NFH,Nykøbing F. Håndbold,1013.9,2,MV,True,NORMAL,-1.1

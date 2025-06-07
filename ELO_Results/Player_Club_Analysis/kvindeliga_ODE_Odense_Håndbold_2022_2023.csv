@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Dione HOUSHEER,ODE,Odense Håndbold,1539.6,31,PL,False,NORMAL,137.3
-Mie HØJLUND,ODE,Odense Håndbold,1487.5,24,PL,False,NORMAL,86.6
-Ayaka IKEHARA,ODE,Odense Håndbold,1460.7,29,HF,False,NORMAL,61.3
-Rikke IVERSEN,ODE,Odense Håndbold,1448.1,27,ST,False,NORMAL,49.3
-Freja COHRT,ODE,Odense Håndbold,1419.2,14,VF,False,NORMAL,18.1
-Mia REJ,ODE,Odense Håndbold,1410.1,5,PL,False,NORMAL,10.2
-Larissa NUSSER,ODE,Odense Håndbold,1395.6,7,ST,False,NORMAL,10.9
-Sidsel MEJLVANG,ODE,Odense Håndbold,1381.2,19,ST,False,NORMAL,27.7
-Lois ABBINGH,ODE,Odense Håndbold,1290.8,25,PL,False,NORMAL,58.4
-Bo VAN WETERING,ODE,Odense Håndbold,1171.0,33,VF,False,NORMAL,84.3
-Martina THÖRN,ODE,Odense Håndbold,1145.3,7,MV,True,NORMAL,3.0
-Althea REINHARDT,ODE,Odense Håndbold,1138.5,2,MV,True,NORMAL,-1.7
-Kelly VOLLEBREGT,ODE,Odense Håndbold,1138.3,25,HF,False,NORMAL,46.9
-Maren AARDAHL,ODE,Odense Håndbold,1135.8,34,ST,False,NORMAL,70.5
+Dione HOUSHEER,ODE,Odense Håndbold,1436.8,31,PL,False,LEGENDARY,137.3
+Mie HØJLUND,ODE,Odense Håndbold,1364.8,24,PL,False,ELITE,86.6
+Rikke IVERSEN,ODE,Odense Håndbold,1327.2,27,ST,False,ELITE,49.3
+Sidsel MEJLVANG,ODE,Odense Håndbold,1311.6,19,ST,False,ELITE,27.7
+Larissa NUSSER,ODE,Odense Håndbold,1309.6,7,ST,False,ELITE,10.9
+Lois ABBINGH,ODE,Odense Håndbold,1292.1,25,PL,False,ELITE,58.4
+Mia REJ,ODE,Odense Håndbold,1285.8,5,PL,False,ELITE,10.2
+Ayaka IKEHARA,ODE,Odense Håndbold,1282.4,29,HF,False,ELITE,61.3
+Freja COHRT,ODE,Odense Håndbold,1254.1,14,VF,False,ELITE,18.1
+Helena ELVER,ODE,Odense Håndbold,1194.6,17,PL,False,NORMAL,34.4
+Tonje LØSETH,ODE,Odense Håndbold,1183.0,19,ST,False,NORMAL,24.7
+Bo VAN WETERING,ODE,Odense Håndbold,1161.9,33,VF,False,NORMAL,84.3
+Kelly VOLLEBREGT,ODE,Odense Håndbold,1128.1,25,HF,False,NORMAL,46.9
+Maren AARDAHL,ODE,Odense Håndbold,1126.5,34,ST,False,NORMAL,70.5
+Martina THÖRN,ODE,Odense Håndbold,1088.4,7,MV,True,NORMAL,3.0
+Althea REINHARDT,ODE,Odense Håndbold,1081.7,2,MV,True,NORMAL,-1.7
 Trine PEDERSEN,ODE,Odense Håndbold,1067.1,26,ST,False,NORMAL,52.1
-Helena ELVER,ODE,Odense Håndbold,1049.4,17,PL,False,NORMAL,34.4
-Tonje LØSETH,ODE,Odense Håndbold,1039.7,19,ST,False,NORMAL,24.7

@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-June BØTTGER,AAU,Aarhus United,1505.6,30,VF,False,NORMAL,104.0
-Mathilde NEESGAARD,AAU,Aarhus United,1386.4,29,PL,False,NORMAL,156.2
-Stine HOLM,AAU,Aarhus United,1302.4,21,HF,False,NORMAL,44.4
-Emma MOGENSEN,AAU,Aarhus United,1291.4,19,ST,False,NORMAL,23.3
-Line Berggren LARSEN,AAU,Aarhus United,1289.3,16,PL,False,NORMAL,15.2
-Line ELLERTSEN,AAU,Aarhus United,1286.5,30,PL,False,NORMAL,94.5
-Marielle MARTINSEN,AAU,Aarhus United,1177.6,28,PL,False,NORMAL,80.7
-Nora PERSSON,AAU,Aarhus United,1121.9,1,MV,True,NORMAL,-0.3
+Mathilde NEESGAARD,AAU,Aarhus United,1394.0,29,PL,False,ELITE,156.2
+June BØTTGER,AAU,Aarhus United,1393.2,30,VF,False,ELITE,104.0
+Line Berggren LARSEN,AAU,Aarhus United,1277.3,16,PL,False,ELITE,15.2
+Line ELLERTSEN,AAU,Aarhus United,1268.1,30,PL,False,ELITE,94.5
+Stine HOLM,AAU,Aarhus United,1265.8000000000002,21,HF,False,ELITE,44.4
+Marielle MARTINSEN,AAU,Aarhus United,1175.7,28,PL,False,NORMAL,80.7
+Emma MOGENSEN,AAU,Aarhus United,1116.8,19,ST,False,NORMAL,23.3
 Thea STANKIEWICZ,AAU,Aarhus United,1089.7,24,PL,False,NORMAL,74.7
-Sophia SNOGDAL,AAU,Aarhus United,1085.0,5,VF,False,NORMAL,6.8
 Katarina BERENS,AAU,Aarhus United,1072.4,25,ST,False,NORMAL,57.4
-Celine Holst ELKJÆR,AAU,Aarhus United,1071.1,14,ST,False,NORMAL,11.1
+Nora PERSSON,AAU,Aarhus United,1068.6,1,MV,True,NORMAL,-0.3
+Celine Holst ELKJÆR,AAU,Aarhus United,1066.9,14,ST,False,NORMAL,11.1
 Frederikke HEDEGAARD,AAU,Aarhus United,1066.0,24,HF,False,NORMAL,51.0
+Sophia SNOGDAL,AAU,Aarhus United,1061.0,5,VF,False,NORMAL,6.8
 Louise Bak JENSEN,AAU,Aarhus United,1013.0,3,MV,True,NORMAL,-2.0

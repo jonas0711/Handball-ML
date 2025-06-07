@@ -1,19 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Cecilie SPECHT,AJK,Ajax København,1277.2,30,HB,False,NORMAL,106.8
-Stine Eiberg JØRGENSEN,AJK,Ajax København,1271.1,24,PL,False,NORMAL,57.6
-Stine Nørklit LØNBORG,AJK,Ajax København,1259.4,27,PL,False,NORMAL,64.8
-Sofie BARDRUM,AJK,Ajax København,1250.6,26,ST,False,NORMAL,59.5
-Anna GRUNDTVIG,AJK,Ajax København,1240.0,30,VF,False,NORMAL,61.6
-Louisa MITTET,AJK,Ajax København,1196.7,5,PL,False,NORMAL,9.8
-Rosa Skovlund SCHMIDT,AJK,Ajax København,1164.6,29,HF,False,NORMAL,103.7
-Sarah Nørklit LØNBORG,AJK,Ajax København,1141.6,10,MV,True,NORMAL,4.3
-Emma Karsbæk EGGERTSEN,AJK,Ajax København,1121.7,23,PL,False,NORMAL,29.8
-Matilde Kondrup NIELSEN,AJK,Ajax København,1049.9,21,VF,False,NORMAL,34.9
+Cecilie SPECHT,AJK,Ajax København,1247.8,30,HB,False,NORMAL,106.8
+Stine Nørklit LØNBORG,AJK,Ajax København,1232.1,27,PL,False,NORMAL,64.8
+Anna GRUNDTVIG,AJK,Ajax København,1225.1999999999998,30,VF,False,NORMAL,61.6
+Sofie BARDRUM,AJK,Ajax København,1197.3,26,ST,False,NORMAL,59.5
+Louisa MITTET,AJK,Ajax København,1178.8,5,PL,False,NORMAL,9.8
+Rosa Skovlund SCHMIDT,AJK,Ajax København,1157.7,29,HF,False,NORMAL,103.7
+Stine Eiberg JØRGENSEN,AJK,Ajax København,1145.6,24,PL,False,NORMAL,57.6
+Simone Monsrud PEDERSEN,AJK,Ajax København,1132.6,9,ST,False,NORMAL,15.1
+Matilde Kondrup NIELSEN,AJK,Ajax København,1102.7,21,VF,False,NORMAL,34.9
+Emma Karsbæk EGGERTSEN,AJK,Ajax København,1077.9,23,PL,False,NORMAL,29.8
+Natasja CLAUSEN,AJK,Ajax København,1074.3,1,MV,True,NORMAL,-0.2
+Sarah Nørklit LØNBORG,AJK,Ajax København,1072.8,10,MV,True,NORMAL,4.3
 Olivia BLACK,AJK,Ajax København,1046.4,20,PL,False,NORMAL,31.4
 Emma Kiellberg JØRGENSEN,AJK,Ajax København,1035.4,15,PL,False,NORMAL,20.4
-Simone Monsrud PEDERSEN,AJK,Ajax København,1030.1,9,ST,False,NORMAL,15.1
 Simone PEDERSEN,AJK,Ajax København,1026.7,7,ST,False,NORMAL,11.7
 Anne With JOHANSEN,AJK,Ajax København,1025.9,8,HF,False,NORMAL,10.9
 Rikke VORGAARD,AJK,Ajax København,1020.3,5,HF,False,NORMAL,5.3
 Liv Sveinbjørnsdóttir POULSEN,AJK,Ajax København,1019.0,5,HF,False,NORMAL,4.0
-Natasja CLAUSEN,AJK,Ajax København,1014.8,1,MV,True,NORMAL,-0.2

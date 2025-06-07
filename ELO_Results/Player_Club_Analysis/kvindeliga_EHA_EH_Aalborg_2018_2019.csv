@@ -1,14 +1,14 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Anne BRINCH-NIELSEN,EHA,EH Aalborg,1277.1,27,HF,False,NORMAL,56.7
-Mathilde STORGAARD,EHA,EH Aalborg,1232.2,11,ST,False,NORMAL,19.0
-Emma FRIBERG,EHA,EH Aalborg,1209.1,13,MV,True,NORMAL,-3.5
 Julie JENSEN,EHA,EH Aalborg,1114.8,28,HB,False,NORMAL,99.8
 Laura Damgaard LUND,EHA,EH Aalborg,1099.7,28,PL,False,NORMAL,84.7
-Line  Berggren LARSEN,EHA,EH Aalborg,1088.4,28,PL,False,NORMAL,73.4
+Line Berggren LARSEN,EHA,EH Aalborg,1088.4,28,PL,False,NORMAL,73.4
+Anne BRINCH-NIELSEN,EHA,EH Aalborg,1087.2,27,HF,False,NORMAL,56.7
 Emma STEFFIN,EHA,EH Aalborg,1081.4,29,VF,False,NORMAL,66.4
 Julie AAGAARD,EHA,EH Aalborg,1061.3,18,HF,False,NORMAL,46.3
 Sara KJÆRSGAARD,EHA,EH Aalborg,1052.5,25,ST,False,NORMAL,37.5
+Mathilde STORGAARD,EHA,EH Aalborg,1043.4,11,ST,False,NORMAL,19.0
 Kathrine Laigaard SKALS,EHA,EH Aalborg,1028.1,21,PL,False,NORMAL,13.1
+Emma FRIBERG,EHA,EH Aalborg,1024.0,13,MV,True,NORMAL,-3.5
 Katja RYESBERG,EHA,EH Aalborg,1020.7,11,VF,False,NORMAL,5.7
 Mirja Lyngsø JENSEN,EHA,EH Aalborg,1018.8,3,ST,False,NORMAL,3.8
 Mille EISENHART,EHA,EH Aalborg,1018.8,5,PL,False,NORMAL,3.8

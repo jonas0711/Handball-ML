@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Kasper Irming ANDERSEN,SAH,SAH - Skanderborg AGF,1322.4,20,PL,False,NORMAL,322.4
-Morten BALLING,SAH,SAH - Skanderborg AGF,1299.5,28,PL,False,NORMAL,299.5
-Morten Kirk OLESEN,SAH,SAH - Skanderborg AGF,1277.0,21,PL,False,NORMAL,277.0
-Frederik LADEFOGED,SAH,SAH - Skanderborg AGF,1276.0,27,ST,False,NORMAL,276.0
-Andreas VÆVER,SAH,SAH - Skanderborg AGF,1269.4,29,VF,False,NORMAL,269.4
-Jonas EICHWALD,SAH,SAH - Skanderborg AGF,1258.0,18,HF,False,NORMAL,258.0
-Nikolaj A. NIELSEN,SAH,SAH - Skanderborg AGF,1227.3,15,ST,False,NORMAL,227.3
-Kristian BONEFELD,SAH,SAH - Skanderborg AGF,1225.9,16,HB,False,NORMAL,225.9
-Minik Dahl HØEGH,SAH,SAH - Skanderborg AGF,1220.8,7,PL,False,NORMAL,220.8
-Rasmus Kaagaard ANDERSEN,SAH,SAH - Skanderborg AGF,1210.5,7,PL,False,NORMAL,210.5
-Kristoffer LAURSEN,SAH,SAH - Skanderborg AGF,1206.0,5,MV,True,NORMAL,206.0
-Bertram OBLING,SAH,SAH - Skanderborg AGF,1203.9,5,MV,True,NORMAL,203.9
-Jeppe Johann JONASSON,SAH,SAH - Skanderborg AGF,1202.1,2,HF,False,NORMAL,202.1
-Matthias SMED,SAH,SAH - Skanderborg AGF,1201.9,2,HB,False,NORMAL,201.9
+Kasper Irming ANDERSEN,SAH,SAH - Skanderborg AGF,1137.4,20,PL,False,NORMAL,122.4
+Morten BALLING,SAH,SAH - Skanderborg AGF,1114.5,28,PL,False,NORMAL,99.5
+Morten Kirk OLESEN,SAH,SAH - Skanderborg AGF,1092.0,21,PL,False,NORMAL,77.0
+Frederik LADEFOGED,SAH,SAH - Skanderborg AGF,1091.0,27,ST,False,NORMAL,76.0
+Andreas VÆVER,SAH,SAH - Skanderborg AGF,1084.4,29,VF,False,NORMAL,69.4
+Jonas EICHWALD,SAH,SAH - Skanderborg AGF,1073.0,18,HF,False,NORMAL,58.0
+Nikolaj A. NIELSEN,SAH,SAH - Skanderborg AGF,1042.3,15,ST,False,NORMAL,27.3
+Kristian BONEFELD,SAH,SAH - Skanderborg AGF,1040.9,16,HB,False,NORMAL,25.9
+Minik Dahl HØEGH,SAH,SAH - Skanderborg AGF,1035.8,7,PL,False,NORMAL,20.8
+Rasmus Kaagaard ANDERSEN,SAH,SAH - Skanderborg AGF,1025.5,7,PL,False,NORMAL,10.5
+Kristoffer LAURSEN,SAH,SAH - Skanderborg AGF,1021.0,5,MV,True,NORMAL,6.0
+Bertram OBLING,SAH,SAH - Skanderborg AGF,1018.9,5,MV,True,NORMAL,3.9
+Jeppe Johann JONASSON,SAH,SAH - Skanderborg AGF,1017.1,2,HF,False,NORMAL,2.1
+Matthias SMED,SAH,SAH - Skanderborg AGF,1016.9,2,HB,False,NORMAL,1.9

@@ -1,14 +1,14 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Jesper DAHL,NSH,Nordsjælland Håndbold,1516.1,24,HB,False,NORMAL,130.5
-Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1418.2,24,HF,False,NORMAL,87.6
-Andreas Johann NIELSEN,NSH,Nordsjælland Håndbold,1356.5,21,ST,False,NORMAL,32.1
-Mathias MØLLER,NSH,Nordsjælland Håndbold,1284.1,20,PL,False,NORMAL,47.7
-Anders AGGER,NSH,Nordsjælland Håndbold,1263.6,17,ST,False,NORMAL,27.8
-Kasper KISUM,NSH,Nordsjælland Håndbold,1239.0,24,PL,False,NORMAL,94.6
-Frederik IVERSEN,NSH,Nordsjælland Håndbold,1207.4,24,VF,False,NORMAL,86.3
-Daniel Astrup PEDERSEN,NSH,Nordsjælland Håndbold,1191.8,5,ST,False,NORMAL,8.3
-Frederik Kjær ANDERSSON,NSH,Nordsjælland Håndbold,1175.3,3,MV,True,NORMAL,-2.5
-Tobias JØRGENSEN,NSH,Nordsjælland Håndbold,1169.8,23,PL,False,NORMAL,51.7
+Jesper DAHL,NSH,Nordsjælland Håndbold,1310.6,24,HB,False,ELITE,130.5
+Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1212.8,24,HF,False,NORMAL,87.6
+Kasper KISUM,NSH,Nordsjælland Håndbold,1210.1,24,PL,False,NORMAL,94.6
+Andreas Johann NIELSEN,NSH,Nordsjælland Håndbold,1147.3,21,ST,False,NORMAL,32.1
+Frederik IVERSEN,NSH,Nordsjælland Håndbold,1143.7,24,VF,False,NORMAL,86.3
+Mathias MØLLER,NSH,Nordsjælland Håndbold,1124.2,20,PL,False,NORMAL,47.7
+Tobias JØRGENSEN,NSH,Nordsjælland Håndbold,1117.0,23,PL,False,NORMAL,51.7
+Anders AGGER,NSH,Nordsjælland Håndbold,1099.7,17,ST,False,NORMAL,27.8
+Daniel Astrup PEDERSEN,NSH,Nordsjælland Håndbold,1063.3,5,ST,False,NORMAL,8.3
+Frederik Kjær ANDERSSON,NSH,Nordsjælland Håndbold,1060.8,3,MV,True,NORMAL,-2.5
 Matias Ravn CAMPBELL,NSH,Nordsjælland Håndbold,1051.3,20,PL,False,NORMAL,36.3
 Fabian SANDVEN,NSH,Nordsjælland Håndbold,1029.6,11,PL,False,NORMAL,14.6
 Marcus HOLMÉN,NSH,Nordsjælland Håndbold,1017.7,2,MV,True,NORMAL,2.7

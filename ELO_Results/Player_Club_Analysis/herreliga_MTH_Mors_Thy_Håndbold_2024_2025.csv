@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Nichlas HALD,MTH,Mors-Thy Håndbold,1485.0,30,PL,False,NORMAL,82.8
-Lasse PEDERSEN,MTH,Mors-Thy Håndbold,1469.6,25,HF,False,NORMAL,70.0
-Mads Svane KNUDSEN,MTH,Mors-Thy Håndbold,1441.6,27,PL,False,NORMAL,155.0
-Kasper LINDGREN,MTH,Mors-Thy Håndbold,1266.6,18,ST,False,NORMAL,32.7
-Henrik TILSTED,MTH,Mors-Thy Håndbold,1263.4,13,VF,False,NORMAL,32.4
-Marcus MIDTGAARD,MTH,Mors-Thy Håndbold,1259.7,27,PL,False,NORMAL,66.3
-Svend RUGHAVE,MTH,Mors-Thy Håndbold,1231.0,10,MV,True,NORMAL,19.9
-Magnus NORLYK,MTH,Mors-Thy Håndbold,1226.6,24,VF,False,NORMAL,60.8
-Victor NORLYK,MTH,Mors-Thy Håndbold,1214.4,25,PL,False,NORMAL,53.6
-Kasper DIDRIKSEN,MTH,Mors-Thy Håndbold,1200.7,25,ST,False,NORMAL,42.8
-Silas OVERBY,MTH,Mors-Thy Håndbold,1149.7,1,VF,False,NORMAL,0.9
-Henrik Toft HANSEN,MTH,Mors-Thy Håndbold,1127.9,24,ST,False,NORMAL,33.6
-Gustav SUNESEN,MTH,Mors-Thy Håndbold,1123.0,7,PL,False,NORMAL,10.1
-Rasmus MADSEN,MTH,Mors-Thy Håndbold,1063.9,28,HB,False,NORMAL,48.9
-Oliver LARSEN,MTH,Mors-Thy Håndbold,1038.6,6,MV,True,NORMAL,23.6
+Mads Svane KNUDSEN,MTH,Mors-Thy Håndbold,1471.9,27,PL,False,LEGENDARY,155.0
+Nichlas HALD,MTH,Mors-Thy Håndbold,1439.1,30,PL,False,LEGENDARY,82.8
+Lasse PEDERSEN,MTH,Mors-Thy Håndbold,1388.3,25,HF,False,ELITE,70.0
+Henrik TILSTED,MTH,Mors-Thy Håndbold,1297.3000000000002,13,VF,False,ELITE,32.4
+Marcus MIDTGAARD,MTH,Mors-Thy Håndbold,1235.1,27,PL,False,NORMAL,66.3
+Kasper LINDGREN,MTH,Mors-Thy Håndbold,1192.8,18,ST,False,NORMAL,32.7
+Magnus NORLYK,MTH,Mors-Thy Håndbold,1179.9,24,VF,False,NORMAL,60.8
+Svend RUGHAVE,MTH,Mors-Thy Håndbold,1169.2,10,MV,True,NORMAL,19.9
+Victor NORLYK,MTH,Mors-Thy Håndbold,1168.8,25,PL,False,NORMAL,53.6
+Rasmus MADSEN,MTH,Mors-Thy Håndbold,1161.9,28,HB,False,NORMAL,48.9
+Kasper DIDRIKSEN,MTH,Mors-Thy Håndbold,1156.6,25,ST,False,NORMAL,42.8
+Oliver LARSEN,MTH,Mors-Thy Håndbold,1132.4,6,MV,True,NORMAL,23.6
+Silas OVERBY,MTH,Mors-Thy Håndbold,1103.4,1,VF,False,NORMAL,0.9
+Henrik Toft HANSEN,MTH,Mors-Thy Håndbold,1093.6999999999998,24,ST,False,NORMAL,33.6
+Gustav SUNESEN,MTH,Mors-Thy Håndbold,1075.6999999999998,7,PL,False,NORMAL,10.1
 Malthe BULL,MTH,Mors-Thy Håndbold,1034.4,10,HF,False,NORMAL,19.4

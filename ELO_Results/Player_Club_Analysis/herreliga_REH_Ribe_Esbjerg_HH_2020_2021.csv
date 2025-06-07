@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Miha ZVIZEJ,REH,Ribe-Esbjerg HH,1511.7,27,ST,False,NORMAL,111.3
-Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1486.6,25,HF,False,NORMAL,88.0
-Runar KARASON,REH,Ribe-Esbjerg HH,1475.3,27,HB,False,NORMAL,178.8
-Lasse UTH,REH,Ribe-Esbjerg HH,1441.2,19,VF,False,NORMAL,39.6
-Besard HAKAJ,REH,Ribe-Esbjerg HH,1433.4,13,ST,False,NORMAL,35.4
-Nicolai NYGAARD,REH,Ribe-Esbjerg HH,1257.0,22,PL,False,NORMAL,122.7
-Kasper KVIST,REH,Ribe-Esbjerg HH,1245.6,19,VF,False,NORMAL,36.0
-Søren RASMUSSEN,REH,Ribe-Esbjerg HH,1211.7,8,MV,True,NORMAL,15.8
-Magnus SØNDENÅ,REH,Ribe-Esbjerg HH,1171.3,6,HF,False,NORMAL,8.6
-Daniel INGASON,REH,Ribe-Esbjerg HH,1154.2,12,PL,False,NORMAL,27.9
+Runar KARASON,REH,Ribe-Esbjerg HH,1419.0,27,HB,False,LEGENDARY,178.8
+Miha ZVIZEJ,REH,Ribe-Esbjerg HH,1349.8,27,ST,False,ELITE,111.3
+Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1295.0,25,HF,False,ELITE,88.0
+Besard HAKAJ,REH,Ribe-Esbjerg HH,1285.5,13,ST,False,ELITE,35.4
+Lasse UTH,REH,Ribe-Esbjerg HH,1277.3,19,VF,False,ELITE,39.6
+Nicolai NYGAARD,REH,Ribe-Esbjerg HH,1269.3,22,PL,False,ELITE,122.7
+Kasper KVIST,REH,Ribe-Esbjerg HH,1194.7,19,VF,False,NORMAL,36.0
 Jonas LARHOLM,REH,Ribe-Esbjerg HH,1133.9,25,PL,False,NORMAL,118.9
+Magnus SØNDENÅ,REH,Ribe-Esbjerg HH,1103.5,6,HF,False,NORMAL,8.6
+Søren RASMUSSEN,REH,Ribe-Esbjerg HH,1103.3,8,MV,True,NORMAL,15.8
+Daniel INGASON,REH,Ribe-Esbjerg HH,1078.0,12,PL,False,NORMAL,27.9
 Gunnar Steinn JONSSON,REH,Ribe-Esbjerg HH,1049.9,16,PL,False,NORMAL,34.9
 René VILLADSEN,REH,Ribe-Esbjerg HH,1037.2,3,MV,True,NORMAL,22.2
 Simon BIRKEFELDT,REH,Ribe-Esbjerg HH,1026.4,11,PL,False,NORMAL,11.4

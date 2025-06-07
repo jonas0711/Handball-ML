@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Verona REXHEPI,SKB,Skanderborg Håndbold,1323.4,30,PL,False,NORMAL,126.0
-Emilie BECH,SKB,Skanderborg Håndbold,1279.8,19,HF,False,NORMAL,36.0
-Clara BANG,SKB,Skanderborg Håndbold,1265.6,28,PL,False,NORMAL,123.0
-Boline LAURSEN,SKB,Skanderborg Håndbold,1219.9,31,ST,False,NORMAL,89.9
-Nicoline LAURITSEN,SKB,Skanderborg Håndbold,1203.4,26,ST,False,NORMAL,51.2
-Anne-Sofie FILTENBORG,SKB,Skanderborg Håndbold,1185.5,25,HF,False,NORMAL,31.1
-Christina HANSEN,SKB,Skanderborg Håndbold,1162.6,15,ST,False,NORMAL,17.4
-Josefine Kaae LARSEN,SKB,Skanderborg Håndbold,1158.4,12,VF,False,NORMAL,23.1
-Sarah ERNEBJERG,SKB,Skanderborg Håndbold,1154.9,13,MV,True,NORMAL,17.7
-Isabella MATHORNE,SKB,Skanderborg Håndbold,1140.9,3,MV,True,NORMAL,3.4
-Stine ALMIND,SKB,Skanderborg Håndbold,1135.9,2,MV,True,NORMAL,2.4
-Astrid LYNNERUP,SKB,Skanderborg Håndbold,1127.7,31,VF,False,NORMAL,112.7
+Clara BANG,SKB,Skanderborg Håndbold,1286.6,28,PL,False,ELITE,123.0
+Emilie BECH,SKB,Skanderborg Håndbold,1271.5,19,HF,False,ELITE,36.0
+Verona REXHEPI,SKB,Skanderborg Håndbold,1258.3,30,PL,False,ELITE,126.0
+Astrid LYNNERUP,SKB,Skanderborg Håndbold,1178.9,31,VF,False,NORMAL,112.7
+Boline LAURSEN,SKB,Skanderborg Håndbold,1168.8000000000002,31,ST,False,NORMAL,89.9
+Nicoline LAURITSEN,SKB,Skanderborg Håndbold,1146.3,26,ST,False,NORMAL,51.2
+Anne-Sofie FILTENBORG,SKB,Skanderborg Håndbold,1135.5,25,HF,False,NORMAL,31.1
+Christina HANSEN,SKB,Skanderborg Håndbold,1110.8000000000002,15,ST,False,NORMAL,17.4
+Josefine Kaae LARSEN,SKB,Skanderborg Håndbold,1105.8,12,VF,False,NORMAL,23.1
+Sarah ERNEBJERG,SKB,Skanderborg Håndbold,1104.7,13,MV,True,NORMAL,17.7
 Mia LAGUMDZIJA,SKB,Skanderborg Håndbold,1097.9,22,ST,False,NORMAL,82.9
+Isabella MATHORNE,SKB,Skanderborg Håndbold,1085.3000000000002,3,MV,True,NORMAL,3.4
+Stine ALMIND,SKB,Skanderborg Håndbold,1083.5,2,MV,True,NORMAL,2.4
 Filippa NEDOVIC,SKB,Skanderborg Håndbold,1052.8,18,ST,False,NORMAL,37.8
 Suna HANSEN,SKB,Skanderborg Håndbold,1039.5,15,PL,False,NORMAL,24.5
 Astrid LESLIE,SKB,Skanderborg Håndbold,1033.4,10,PL,False,NORMAL,18.4

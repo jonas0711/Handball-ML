@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Frederik TILSTED,TTH,TTH Holstebro,1478.1,22,PL,False,NORMAL,79.0
-Jonas Gade NIELSEN,TTH,TTH Holstebro,1472.6,29,HB,False,NORMAL,71.3
-Miha ZVIZEJ,TTH,TTH Holstebro,1470.7,27,ST,False,NORMAL,70.3
-Magnus BRAMMING,TTH,TTH Holstebro,1460.6,22,VF,False,NORMAL,57.9
-Jonas PORUP,TTH,TTH Holstebro,1422.7,13,PL,False,NORMAL,19.8
-Johan MEKLENBORG,TTH,TTH Holstebro,1419.3,8,ST,False,NORMAL,22.0
-Allan DAMGAARD,TTH,TTH Holstebro,1341.0,17,HF,False,NORMAL,30.4
-Christian JENSEN,TTH,TTH Holstebro,1307.5,19,HF,False,NORMAL,49.4
-Nikolaj MARKUSSEN,TTH,TTH Holstebro,1289.6,29,PL,False,NORMAL,162.9
-Nikolaj ENDERLEIT,TTH,TTH Holstebro,1243.1,14,PL,False,NORMAL,55.7
-Josip CAVAR,TTH,TTH Holstebro,1222.1,10,MV,True,NORMAL,18.1
-Emil JENSEN,TTH,TTH Holstebro,1188.5,17,PL,False,NORMAL,28.9
-Rasmus KIER,TTH,TTH Holstebro,1185.8,26,HF,False,NORMAL,76.5
-Mathias SMED,TTH,TTH Holstebro,1147.3,3,PL,False,NORMAL,0.1
+Nikolaj MARKUSSEN,TTH,TTH Holstebro,1520.5,29,PL,False,LEGENDARY,162.9
+Jonas Gade NIELSEN,TTH,TTH Holstebro,1387.3,29,HB,False,ELITE,71.3
+Miha ZVIZEJ,TTH,TTH Holstebro,1375.4,27,ST,False,ELITE,70.3
+Magnus BRAMMING,TTH,TTH Holstebro,1356.8000000000002,22,VF,False,ELITE,57.9
+Johan MEKLENBORG,TTH,TTH Holstebro,1351.5,8,ST,False,ELITE,22.0
+Frederik TILSTED,TTH,TTH Holstebro,1312.6,22,PL,False,ELITE,79.0
+Jonas PORUP,TTH,TTH Holstebro,1309.7,13,PL,False,ELITE,19.8
+Allan DAMGAARD,TTH,TTH Holstebro,1262.5,17,HF,False,ELITE,30.4
+Christian JENSEN,TTH,TTH Holstebro,1207.7,19,HF,False,NORMAL,49.4
+Rasmus KIER,TTH,TTH Holstebro,1179.1,26,HF,False,NORMAL,76.5
+Nikolaj ENDERLEIT,TTH,TTH Holstebro,1168.3,14,PL,False,NORMAL,55.7
+Josip CAVAR,TTH,TTH Holstebro,1136.0,10,MV,True,NORMAL,18.1
+Emil JENSEN,TTH,TTH Holstebro,1126.2,17,PL,False,NORMAL,28.9
+Mathias SMED,TTH,TTH Holstebro,1090.1999999999998,3,PL,False,NORMAL,0.1
 Dan BECK-HANSEN,TTH,TTH Holstebro,1081.7,27,ST,False,NORMAL,66.7
 Simon JENSEN,TTH,TTH Holstebro,1028.4,7,VF,False,NORMAL,13.4
 Sander Drange HEIEREN,TTH,TTH Holstebro,1025.8,11,MV,True,NORMAL,10.8

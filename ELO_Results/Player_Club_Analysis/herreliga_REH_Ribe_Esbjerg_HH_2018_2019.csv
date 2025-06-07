@@ -1,19 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Lukas KARLSSON,REH,Ribe-Esbjerg HH,1567.4,30,PL,False,NORMAL,167.6
-Nicolai PEDERSEN,REH,Ribe-Esbjerg HH,1463.9,24,PL,False,NORMAL,63.4
-Miha ZVIZEJ,REH,Ribe-Esbjerg HH,1403.4,28,ST,False,NORMAL,70.5
-Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1359.5,19,HF,False,NORMAL,59.1
-Pelle Schilling GULDAGER,REH,Ribe-Esbjerg HH,1340.8,15,VF,False,NORMAL,31.3
-Jonas Bruus TIDEMAND,REH,Ribe-Esbjerg HH,1333.8,23,ST,False,NORMAL,50.3
-Rasmus BOYSEN,REH,Ribe-Esbjerg HH,1265.6,3,VB,False,NORMAL,6.6
-Tim WINKLER,REH,Ribe-Esbjerg HH,1235.6,1,MV,True,NORMAL,-0.4
+Lukas KARLSSON,REH,Ribe-Esbjerg HH,1372.9,30,PL,False,ELITE,167.6
+Nicolai PEDERSEN,REH,Ribe-Esbjerg HH,1285.5,24,PL,False,ELITE,63.4
+Miha ZVIZEJ,REH,Ribe-Esbjerg HH,1183.8,28,ST,False,NORMAL,70.5
+Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1146.1999999999998,19,HF,False,NORMAL,59.1
 Runar KARASON,REH,Ribe-Esbjerg HH,1128.6,26,HB,False,NORMAL,113.6
 Kasper KVIST,REH,Ribe-Esbjerg HH,1109.8,26,VF,False,NORMAL,94.8
+Pelle Schilling GULDAGER,REH,Ribe-Esbjerg HH,1104.5,15,VF,False,NORMAL,31.3
 Gunnar STEINN JÓNSSON,REH,Ribe-Esbjerg HH,1102.2,24,PL,False,NORMAL,87.2
+Jonas Bruus TIDEMAND,REH,Ribe-Esbjerg HH,1093.2,23,ST,False,NORMAL,50.3
 Magnus SØNDENÅ,REH,Ribe-Esbjerg HH,1063.9,19,HF,False,NORMAL,48.9
+Søren Haagen ANDREASEN,REH,Ribe-Esbjerg HH,1052.7,1,MV,True,NORMAL,1.0
 Simen Nicolay SCHØNNINGSEN,REH,Ribe-Esbjerg HH,1052.0,19,PL,False,NORMAL,37.0
+Tim WINKLER,REH,Ribe-Esbjerg HH,1050.5,1,MV,True,NORMAL,-0.4
+Rasmus BOYSEN,REH,Ribe-Esbjerg HH,1045.1999999999998,3,VB,False,NORMAL,6.6
 Nikolaj ENDERLEIT,REH,Ribe-Esbjerg HH,1044.8,6,HB,False,NORMAL,29.8
 Simen Nicolay SCHØNNINGSEN1,REH,Ribe-Esbjerg HH,1037.5,8,HF,False,NORMAL,22.5
 Hermann Gabriel VILDALEN,REH,Ribe-Esbjerg HH,1030.9,6,VB,False,NORMAL,15.9
 Jacob HEINL,REH,Ribe-Esbjerg HH,1028.6,12,ST,False,NORMAL,13.6
-Søren Haagen ANDREASEN,REH,Ribe-Esbjerg HH,1016.0,1,MV,True,NORMAL,1.0

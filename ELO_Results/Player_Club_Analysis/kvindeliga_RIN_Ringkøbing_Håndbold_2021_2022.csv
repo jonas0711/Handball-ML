@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Julie HOLM,RIN,Ringkøbing Håndbold,1325.3,31,HB,False,NORMAL,146.7
-Caroline SVARRE,RIN,Ringkøbing Håndbold,1148.1,12,ST,False,NORMAL,17.0
-Alberte SIMONSEN,RIN,Ringkøbing Håndbold,1107.8,26,ST,False,NORMAL,92.8
+Julie HOLM,RIN,Ringkøbing Håndbold,1267.0,31,HB,False,ELITE,146.7
+Jane MEJLVANG,RIN,Ringkøbing Håndbold,1155.6,30,PL,False,NORMAL,72.8
+Alberte SIMONSEN,RIN,Ringkøbing Håndbold,1135.0,26,ST,False,NORMAL,92.8
+Marigona HAJDARI,RIN,Ringkøbing Håndbold,1120.2,27,PL,False,NORMAL,66.7
+Caroline SVARRE,RIN,Ringkøbing Håndbold,1110.9,12,ST,False,NORMAL,17.0
+Michelle BRANDSTRUP,RIN,Ringkøbing Håndbold,1109.2,21,HF,False,NORMAL,48.5
 Camilla FAARTOFT,RIN,Ringkøbing Håndbold,1099.3,29,PL,False,NORMAL,84.3
-Elin THORSTEINSDOTTIR,RIN,Ringkøbing Håndbold,1099.3,5,MV,True,NORMAL,-1.7
-Jane MEJLVANG,RIN,Ringkøbing Håndbold,1087.8,30,PL,False,NORMAL,72.8
-Marigona HAJDARI,RIN,Ringkøbing Håndbold,1081.7,27,PL,False,NORMAL,66.7
-Michelle BRANDSTRUP,RIN,Ringkøbing Håndbold,1063.5,21,HF,False,NORMAL,48.5
 Sascha JUUL,RIN,Ringkøbing Håndbold,1055.2,22,VF,False,NORMAL,40.2
 Nanna HINNERFELDT,RIN,Ringkøbing Håndbold,1052.2,24,ST,False,NORMAL,37.2
 Rikke JOCHUMSEN,RIN,Ringkøbing Håndbold,1050.8,21,VF,False,NORMAL,35.8
+Elin THORSTEINSDOTTIR,RIN,Ringkøbing Håndbold,1047.8,5,MV,True,NORMAL,-1.7
 Leonora DEMAJ,RIN,Ringkøbing Håndbold,1038.3,18,PL,False,NORMAL,23.3
 Marie-Louise SUNDGAARD,RIN,Ringkøbing Håndbold,1025.6,7,HF,False,NORMAL,10.6
 Marit HUIBERTS,RIN,Ringkøbing Håndbold,1019.3,2,MV,True,NORMAL,4.3

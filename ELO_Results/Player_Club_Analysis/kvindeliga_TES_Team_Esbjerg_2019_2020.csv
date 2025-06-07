@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Estavana POLMAN,TES,Team Esbjerg,1465.1,18,PL,False,NORMAL,84.3
-Vilde Mortensen INGSTAD,TES,Team Esbjerg,1439.1,14,ST,False,NORMAL,36.9
-Sanna Charlotte SOLBERG,TES,Team Esbjerg,1415.1,17,VF,False,NORMAL,36.3
-Clara MONTI DANIELSSON,TES,Team Esbjerg,1274.3,15,ST,False,NORMAL,28.2
-Elma HALILCEVIC,TES,Team Esbjerg,1202.1,10,VF,False,NORMAL,14.1
-Kristine BREISTØL,TES,Team Esbjerg,1197.7,23,PL,False,NORMAL,83.3
-Marit Røsberg JACOBSEN,TES,Team Esbjerg,1169.0,23,HF,False,NORMAL,69.0
-Rikke POULSEN,TES,Team Esbjerg,1168.9,2,MV,True,NORMAL,1.1
-Line JØRGENSEN,TES,Team Esbjerg,1136.3,22,HB,False,NORMAL,42.4
-Marit Malm FRAFJORD,TES,Team Esbjerg,1134.2,17,ST,False,NORMAL,43.1
-Rut JONSDOTTIR,TES,Team Esbjerg,1122.0,8,ST,False,NORMAL,17.0
-Rikke Marie GRANLUND,TES,Team Esbjerg,1103.1,9,MV,True,NORMAL,9.1
+Estavana POLMAN,TES,Team Esbjerg,1277.5,18,PL,False,ELITE,84.3
+Vilde Mortensen INGSTAD,TES,Team Esbjerg,1196.0,14,ST,False,NORMAL,36.9
+Kristine BREISTØL,TES,Team Esbjerg,1184.6,23,PL,False,NORMAL,83.3
+Marit Røsberg JACOBSEN,TES,Team Esbjerg,1166.4,23,HF,False,NORMAL,69.0
+Sanna Charlotte SOLBERG,TES,Team Esbjerg,1140.3,17,VF,False,NORMAL,36.3
+Line JØRGENSEN,TES,Team Esbjerg,1119.6,22,HB,False,NORMAL,42.4
+Clara MONTI DANIELSSON,TES,Team Esbjerg,1091.9,15,ST,False,NORMAL,28.2
 Sonja FREY,TES,Team Esbjerg,1086.4,23,PL,False,NORMAL,71.4
-Lene Østergaard NIELSEN,TES,Team Esbjerg,1023.7,7,HB,False,NORMAL,8.7
+Marit Malm FRAFJORD,TES,Team Esbjerg,1082.9,17,ST,False,NORMAL,43.1
+Rut JONSDOTTIR,TES,Team Esbjerg,1061.2,8,ST,False,NORMAL,17.0
+Elma HALILCEVIC,TES,Team Esbjerg,1056.8,10,VF,False,NORMAL,14.1
+Lene Østergaard NIELSEN,TES,Team Esbjerg,1054.6,7,HB,False,NORMAL,8.7
+Rikke Marie GRANLUND,TES,Team Esbjerg,1047.4,9,MV,True,NORMAL,9.1
+Rikke POULSEN,TES,Team Esbjerg,1041.8,2,MV,True,NORMAL,1.1

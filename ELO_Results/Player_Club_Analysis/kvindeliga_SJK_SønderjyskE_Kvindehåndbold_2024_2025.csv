@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Lea HANSEN,SJK,SønderjyskE Kvindehåndbold,1492.4,27,HF,False,NORMAL,90.8
-Melissa PETRÉN,SJK,SønderjyskE Kvindehåndbold,1481.3,32,PL,False,NORMAL,192.5
-June BØTTGER,SJK,SønderjyskE Kvindehåndbold,1471.3,26,VF,False,NORMAL,69.7
-Louise ELLEBÆK,SJK,SønderjyskE Kvindehåndbold,1447.4,17,VB,False,NORMAL,47.5
-Olivia SIMONSEN,SJK,SønderjyskE Kvindehåndbold,1388.1,24,ST,False,NORMAL,80.7
-Sarah PAULSEN,SJK,SønderjyskE Kvindehåndbold,1178.1,22,PL,False,NORMAL,57.0
-Josefine DRAGENBERG,SJK,SønderjyskE Kvindehåndbold,1168.5,16,ST,False,NORMAL,35.6
-Stine BROLØS,SJK,SønderjyskE Kvindehåndbold,1164.3,8,MV,True,NORMAL,8.4
-Nicoline OLSEN,SJK,SønderjyskE Kvindehåndbold,1146.1,28,HF,False,NORMAL,63.7
-Nora PERSSON,SJK,SønderjyskE Kvindehåndbold,1136.3,2,MV,True,NORMAL,0.8
-Sara IBRANOVIC,SJK,SønderjyskE Kvindehåndbold,1099.5,14,VF,False,NORMAL,20.1
-Ida-Marie DAHL,SJK,SønderjyskE Kvindehåndbold,1099.4,30,ST,True,NORMAL,84.4
+June BØTTGER,SJK,SønderjyskE Kvindehåndbold,1389.6,26,VF,False,ELITE,69.7
+Lea HANSEN,SJK,SønderjyskE Kvindehåndbold,1387.3,27,HF,False,ELITE,90.8
+Melissa PETRÉN,SJK,SønderjyskE Kvindehåndbold,1380.6,32,PL,False,ELITE,192.5
+Louise ELLEBÆK,SJK,SønderjyskE Kvindehåndbold,1380.5,17,VB,False,ELITE,47.5
+Olivia SIMONSEN,SJK,SønderjyskE Kvindehåndbold,1324.3,24,ST,False,ELITE,80.7
+Ida-Marie DAHL,SJK,SønderjyskE Kvindehåndbold,1271.7,30,ST,True,ELITE,84.4
+Josefine DRAGENBERG,SJK,SønderjyskE Kvindehåndbold,1230.1999999999998,16,ST,False,NORMAL,35.6
+Sarah PAULSEN,SJK,SønderjyskE Kvindehåndbold,1185.3,22,PL,False,NORMAL,57.0
+Nicoline OLSEN,SJK,SønderjyskE Kvindehåndbold,1132.3,28,HF,False,NORMAL,63.7
+Stine BROLØS,SJK,SønderjyskE Kvindehåndbold,1106.1,8,MV,True,NORMAL,8.4
+Nora PERSSON,SJK,SønderjyskE Kvindehåndbold,1098.4,2,MV,True,NORMAL,0.8
+Sara IBRANOVIC,SJK,SønderjyskE Kvindehåndbold,1067.4,14,VF,False,NORMAL,20.1
 Karine DAHLUM,SJK,SønderjyskE Kvindehåndbold,1061.6,23,HB,False,NORMAL,46.6
 Sidsel MYGIL MATTESEN,SJK,SønderjyskE Kvindehåndbold,1029.9,8,VF,False,NORMAL,14.9

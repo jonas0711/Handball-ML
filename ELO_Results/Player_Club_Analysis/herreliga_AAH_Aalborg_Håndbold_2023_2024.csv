@@ -1,20 +1,20 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Thomas ARNOLDSEN,AAH,Aalborg Håndbold,1466.7,21,PL,False,NORMAL,67.8
-Sebastian BARTHOLD,AAH,Aalborg Håndbold,1444.1,17,VF,False,NORMAL,42.0
-Henrik MØLLGAARD,AAH,Aalborg Håndbold,1403.7,11,PL,False,NORMAL,6.7
-Buster JUUL,AAH,Aalborg Håndbold,1380.8,21,VF,False,NORMAL,53.3
-Benjamin JAKOBSEN,AAH,Aalborg Håndbold,1353.7,1,ST,False,NORMAL,1.0
-Kristian BJØRNSEN,AAH,Aalborg Håndbold,1277.0,21,HF,False,NORMAL,51.3
-Rene ANTONSEN,AAH,Aalborg Håndbold,1273.2,26,ST,False,NORMAL,51.9
-Mikkel HANSEN,AAH,Aalborg Håndbold,1217.4,28,PL,False,NORMAL,96.2
-Martin LARSEN,AAH,Aalborg Håndbold,1185.2,18,HB,False,NORMAL,19.3
-Jesper NIELSEN,AAH,Aalborg Håndbold,1170.9,12,ST,False,NORMAL,19.1
-Marinus MUNK,AAH,Aalborg Håndbold,1163.3,18,PL,False,NORMAL,24.9
-Mads HOXER,AAH,Aalborg Håndbold,1143.4,34,PL,False,NORMAL,128.4
+Thomas ARNOLDSEN,AAH,Aalborg Håndbold,1469.0,21,PL,False,LEGENDARY,67.8
+Mads Hoxer HANGAARD,AAH,Aalborg Håndbold,1444.9,34,PL,False,LEGENDARY,128.4
+Sebastian BARTHOLD,AAH,Aalborg Håndbold,1364.8,17,VF,False,ELITE,42.0
+Henrik MØLLGAARD,AAH,Aalborg Håndbold,1354.5,11,PL,False,ELITE,6.7
+Mikkel HANSEN,AAH,Aalborg Håndbold,1271.4,28,PL,False,ELITE,96.2
+Kristian BJØRNSEN,AAH,Aalborg Håndbold,1268.9,21,HF,False,ELITE,51.3
+Benjamin JAKOBSEN,AAH,Aalborg Håndbold,1248.6,1,ST,False,NORMAL,1.0
+Rene ANTONSEN,AAH,Aalborg Håndbold,1239.8000000000002,26,ST,False,NORMAL,51.9
+Buster JUUL,AAH,Aalborg Håndbold,1234.9,21,VF,False,NORMAL,53.3
+Martin LARSEN,AAH,Aalborg Håndbold,1171.8,18,HB,False,NORMAL,19.3
+Jesper NIELSEN,AAH,Aalborg Håndbold,1167.4,12,ST,False,NORMAL,19.1
+Patrick WIESMACH,AAH,Aalborg Håndbold,1139.2,18,HF,False,NORMAL,32.0
+Marinus Grandahl MUNK,AAH,Aalborg Håndbold,1128.0,18,PL,False,NORMAL,24.9
 Simon HALD,AAH,Aalborg Håndbold,1104.6,31,ST,False,NORMAL,89.6
 Lukas NILSSON,AAH,Aalborg Håndbold,1101.6,28,PL,False,NORMAL,86.6
 Niklas LANDIN,AAH,Aalborg Håndbold,1091.3,10,MV,True,NORMAL,76.3
 Aleks VLAH,AAH,Aalborg Håndbold,1079.3,31,PL,False,NORMAL,64.3
 Jack THURIN,AAH,Aalborg Håndbold,1051.2,23,HB,False,NORMAL,36.2
-Patrick WIESMACH,AAH,Aalborg Håndbold,1047.0,18,HF,False,NORMAL,32.0
 Fabian NORSTEN,AAH,Aalborg Håndbold,1031.4,10,MV,True,NORMAL,16.4

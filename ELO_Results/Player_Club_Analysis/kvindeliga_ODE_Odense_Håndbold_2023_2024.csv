@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Dione HOUSHEER,ODE,Odense Håndbold,1535.5,36,HB,False,NORMAL,133.2
-Mie HØJLUND,ODE,Odense Håndbold,1499.4,29,PL,False,NORMAL,98.5
-Sidsel MEJLVANG,ODE,Odense Håndbold,1410.7,18,ST,False,NORMAL,24.8
-Elma HALILCEVIC,ODE,Odense Håndbold,1399.8,24,VF,False,NORMAL,40.9
-Larissa NUSSER,ODE,Odense Håndbold,1332.9,18,ST,False,NORMAL,21.6
-Nikita Van Der VLIET,ODE,Odense Håndbold,1282.6,17,ST,False,NORMAL,28.1
-Maren AARDAHL,ODE,Odense Håndbold,1210.5,25,ST,False,NORMAL,70.9
-Bo VAN WETERING,ODE,Odense Håndbold,1206.0,16,VF,False,NORMAL,34.1
-Nina DANO,ODE,Odense Håndbold,1162.0,14,PL,False,NORMAL,8.7
-Althea REINHARDT,ODE,Odense Håndbold,1160.0,2,MV,True,NORMAL,-0.6
-Helena ELVER,ODE,Odense Håndbold,1122.2,28,PL,False,NORMAL,34.1
+Dione HOUSHEER,ODE,Odense Håndbold,1458.0,36,HB,False,LEGENDARY,133.2
+Mie HØJLUND,ODE,Odense Håndbold,1428.2,29,PL,False,LEGENDARY,98.5
+Sidsel MEJLVANG,ODE,Odense Håndbold,1302.7,18,ST,False,ELITE,24.8
+Nikita Van Der VLIET,ODE,Odense Håndbold,1280.3,17,ST,False,ELITE,28.1
+Elma HALILCEVIC,ODE,Odense Håndbold,1271.0,24,VF,False,ELITE,40.9
+Helena ELVER,ODE,Odense Håndbold,1237.0,28,PL,False,NORMAL,34.1
+Larissa NUSSER,ODE,Odense Håndbold,1227.4,18,ST,False,NORMAL,21.6
+Maren AARDAHL,ODE,Odense Håndbold,1200.1,25,ST,False,NORMAL,70.9
+Bo VAN WETERING,ODE,Odense Håndbold,1195.6999999999998,16,VF,False,NORMAL,34.1
+Nina DANO,ODE,Odense Håndbold,1127.8,14,PL,False,NORMAL,8.7
+Althea REINHARDT,ODE,Odense Håndbold,1092.5,2,MV,True,NORMAL,-0.6
 Andrea Aagot HANSEN,ODE,Odense Håndbold,1064.1,23,HF,False,NORMAL,49.1
 Thale Rushfeldt DEILA,ODE,Odense Håndbold,1058.4,32,PL,False,NORMAL,43.4
 Ragnhild VALLE DAHL,ODE,Odense Håndbold,1054.4,24,PL,False,NORMAL,39.4

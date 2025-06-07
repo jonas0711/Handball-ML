@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Silje BRØNS,EHA,EH Aalborg,1276.7,30,PL,False,NORMAL,133.2
-Tine GEERTSEN,EHA,EH Aalborg,1164.5,6,ST,False,NORMAL,10.4
+Frederikke GULMARK,EHA,EH Aalborg,1283.0,28,PL,False,ELITE,80.8
+Silje BRØNS,EHA,EH Aalborg,1254.5,30,PL,False,ELITE,133.2
+Cecilie TERMANSEN,EHA,EH Aalborg,1153.2,26,ST,False,NORMAL,63.8
 Mette BRANDT,EHA,EH Aalborg,1129.9,22,ST,False,NORMAL,114.9
+Marlene DAHLMANN,EHA,EH Aalborg,1119.8,19,HF,False,NORMAL,41.5
 Maiken SKOV,EHA,EH Aalborg,1111.3,26,HF,False,NORMAL,96.3
+Tine GEERTSEN,EHA,EH Aalborg,1107.4,6,ST,False,NORMAL,10.4
+Lin JOHANNSEN,EHA,EH Aalborg,1099.6999999999998,9,VF,False,NORMAL,8.6
 Clara LERBY,EHA,EH Aalborg,1098.3,25,VF,False,NORMAL,83.3
-Frederikke GULMARK,EHA,EH Aalborg,1095.8,28,PL,False,NORMAL,80.8
-Cecilie TERMANSEN,EHA,EH Aalborg,1078.8,26,ST,False,NORMAL,63.8
 Anna Hviid BANG,EHA,EH Aalborg,1072.9,24,PL,False,NORMAL,57.9
 Camilla THORHAUGE,EHA,EH Aalborg,1063.1,19,ST,False,NORMAL,48.1
-Marlene DAHLMANN,EHA,EH Aalborg,1056.5,19,HF,False,NORMAL,41.5
 Johanne GRAUGAARD,EHA,EH Aalborg,1051.7,17,MV,True,NORMAL,36.7
 Mirja LYNGSØ,EHA,EH Aalborg,1043.5,15,ST,False,NORMAL,28.5
-Lin JOHANNSEN,EHA,EH Aalborg,1023.6,9,VF,False,NORMAL,8.6
 Annika FRIDHEIM,EHA,EH Aalborg,1021.5,4,MV,True,NORMAL,6.5
 Liv SVEINBJØRNSDÓTTIR,EHA,EH Aalborg,1019.8,4,HF,False,NORMAL,4.8
 Sofie LASSEN,EHA,EH Aalborg,1019.2,8,PL,True,NORMAL,4.2

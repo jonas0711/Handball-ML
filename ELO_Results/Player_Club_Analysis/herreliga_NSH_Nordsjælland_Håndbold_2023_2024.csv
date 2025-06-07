@@ -1,15 +1,15 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-Nichlas HALD,NSH,Nordsjælland Håndbold,1459.1,23,PL,False,NORMAL,161.0
-Jeppe CIESLAK,NSH,Nordsjælland Håndbold,1360.7,27,VF,False,NORMAL,198.9
-Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1346.8,30,HF,False,NORMAL,148.8
-Kristian OLSEN,NSH,Nordsjælland Håndbold,1301.4,28,PL,False,NORMAL,166.1
-Matias CAMPBELL,NSH,Nordsjælland Håndbold,1274.2,23,PL,False,NORMAL,99.3
-Julius MØRCH,NSH,Nordsjælland Håndbold,1226.4,22,ST,False,NORMAL,39.1
-Nikolaj LARSSON,NSH,Nordsjælland Håndbold,1161.9,22,HB,True,NORMAL,55.2
-Jimmi ANDERSEN,NSH,Nordsjælland Håndbold,1161.6,7,MV,True,NORMAL,-4.3
-Tim RANTALA,NSH,Nordsjælland Håndbold,1141.3,23,ST,False,NORMAL,48.5
-Gustav BRUUN,NSH,Nordsjælland Håndbold,1123.8,15,HF,False,NORMAL,108.8
-Justin MÜLLER,NSH,Nordsjælland Håndbold,1070.3,26,PL,False,NORMAL,55.3
+Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1454.7,30,HF,False,LEGENDARY,156.8
+Nichlas HALD,NSH,Nordsjælland Håndbold,1434.9,23,PL,False,LEGENDARY,168.3
+Jeppe CIESLAK,NSH,Nordsjælland Håndbold,1325.8,27,VF,False,ELITE,215.7
+Kristian OLSEN,NSH,Nordsjælland Håndbold,1297.4,28,PL,False,ELITE,174.5
+Matias CAMPBELL,NSH,Nordsjælland Håndbold,1275.6999999999998,23,PL,False,ELITE,102.1
+Julius MØRCH,NSH,Nordsjælland Håndbold,1190.1999999999998,22,ST,False,NORMAL,39.1
+Jonas RAUNDAHL,NSH,Nordsjælland Håndbold,1147.0,20,ST,False,NORMAL,43.1
+Gustav BRUUN,NSH,Nordsjælland Håndbold,1135.2,15,HF,False,NORMAL,120.2
+Nikolaj LARSSON,NSH,Nordsjælland Håndbold,1122.5,22,HB,True,NORMAL,57.1
+Jimmi ANDERSEN,NSH,Nordsjælland Håndbold,1113.1,7,MV,True,NORMAL,-4.3
+Tim RANTALA,NSH,Nordsjælland Håndbold,1100.1,23,ST,False,NORMAL,48.5
+Justin MÜLLER,NSH,Nordsjælland Håndbold,1071.5,26,PL,False,NORMAL,56.5
 Magnus PETERSEN,NSH,Nordsjælland Håndbold,1059.5,5,MV,True,NORMAL,44.5
-Jonas RAUNDAHL,NSH,Nordsjælland Håndbold,1058.1,20,ST,False,NORMAL,43.1
 Oliver KLARSKOV,NSH,Nordsjælland Håndbold,1050.7,16,PL,False,NORMAL,35.7
