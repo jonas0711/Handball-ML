@@ -1,0 +1,20 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Miha ZVIZEJ,REH,Ribe-Esbjerg HH,1511.0,31,ST,False,NORMAL,110.6
+Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1491.6,33,HF,False,NORMAL,93.0
+Marcus MØRK,REH,Ribe-Esbjerg HH,1464.8,22,PL,False,NORMAL,79.7
+Jonas LARHOLM,REH,Ribe-Esbjerg HH,1264.1,32,PL,False,NORMAL,129.5
+Søren RASMUSSEN,REH,Ribe-Esbjerg HH,1233.6,8,MV,True,NORMAL,38.8
+Christoffer LANGERHUUS,REH,Ribe-Esbjerg HH,1170.4,16,ST,False,NORMAL,25.9
+Andreas HAAGEN,REH,Ribe-Esbjerg HH,1170.1,5,MV,True,NORMAL,15.5
+Jonatan MOLLERUP,REH,Ribe-Esbjerg HH,1163.4,31,HB,False,NORMAL,148.4
+Tobias OLSEN,REH,Ribe-Esbjerg HH,1161.8,12,HB,False,NORMAL,14.0
+Morten JØRGENSEN,REH,Ribe-Esbjerg HH,1154.0,4,VF,False,NORMAL,5.4
+Torben PETERSEN,REH,Ribe-Esbjerg HH,1146.6,26,PL,False,NORMAL,131.6
+Simon BIRKEFELDT,REH,Ribe-Esbjerg HH,1087.1,5,HB,False,NORMAL,6.4
+Sune IVERSEN,REH,Ribe-Esbjerg HH,1080.0,24,VF,False,NORMAL,65.0
+William AAR,REH,Ribe-Esbjerg HH,1061.4,17,PL,True,NORMAL,46.4
+Emil Grønbech HANSEN,REH,Ribe-Esbjerg HH,1056.2,14,HB,False,NORMAL,41.2
+Jonas Hald CHRISTENSEN,REH,Ribe-Esbjerg HH,1042.5,16,VF,False,NORMAL,27.5
+Jesper LINDGREN,REH,Ribe-Esbjerg HH,1018.1,5,ST,False,NORMAL,3.1
+Sørenn RASMUSSEN,REH,Ribe-Esbjerg HH,1014.2,1,MV,True,NORMAL,-0.8
+Kim SONNE,REH,Ribe-Esbjerg HH,1013.9,2,MV,True,NORMAL,-1.1

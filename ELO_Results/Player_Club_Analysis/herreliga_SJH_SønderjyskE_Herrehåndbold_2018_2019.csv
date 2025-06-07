@@ -1,0 +1,20 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Aaron MENSING,SJH,SønderjyskE Herrehåndbold,1523.7,27,VB,False,NORMAL,178.7
+Chris Holm JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1435.1,18,PL,False,NORMAL,105.3
+Oliver Nøddesbo EGGERT,SJH,SønderjyskE Herrehåndbold,1428.5,25,PL,False,NORMAL,95.8
+Frederik LADEFOGED,SJH,SønderjyskE Herrehåndbold,1379.8,25,ST,False,NORMAL,74.5
+Mikkel Kjær MØLLER,SJH,SønderjyskE Herrehåndbold,1377.0,28,VF,False,NORMAL,95.2
+Rasmus NIELSEN,SJH,SønderjyskE Herrehåndbold,1368.8,17,HF,False,NORMAL,60.7
+Christian JENSEN,SJH,SønderjyskE Herrehåndbold,1331.8,14,HF,False,NORMAL,61.6
+Frederik BØRM,SJH,SønderjyskE Herrehåndbold,1328.5,29,ST,False,NORMAL,58.0
+Martin Kærgaard PEDERSEN,SJH,SønderjyskE Herrehåndbold,1327.3,15,ST,False,NORMAL,30.9
+Kasper OLSEN,SJH,SønderjyskE Herrehåndbold,1326.1,20,PL,False,NORMAL,50.5
+Alexander HANSEN,SJH,SønderjyskE Herrehåndbold,1285.8,11,HB,False,NORMAL,10.6
+Mikkel HANSEN,SJH,SønderjyskE Herrehåndbold,1260.4,11,VF,False,NORMAL,20.6
+Thorsten FRIES,SJH,SønderjyskE Herrehåndbold,1243.3,2,MV,True,NORMAL,2.3
+Kristian Dahl PEDERSEN,SJH,SønderjyskE Herrehåndbold,1230.7,7,MV,True,NORMAL,5.8
+Arnar Birkir HÁLFDÁNSSON,SJH,SønderjyskE Herrehåndbold,1089.5,24,HB,False,NORMAL,74.5
+Arnar Birkir HÁLFÁNSSON,SJH,SønderjyskE Herrehåndbold,1035.0,8,HB,False,NORMAL,20.0
+Steffan KJER HØI,SJH,SønderjyskE Herrehåndbold,1019.4,6,HF,False,NORMAL,4.4
+Rasmus BERTELSEN,SJH,SønderjyskE Herrehåndbold,1019.1,8,PL,False,NORMAL,4.1
+Henrik NORDLANDER,SJH,SønderjyskE Herrehåndbold,1016.1,1,MV,True,NORMAL,1.1

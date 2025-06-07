@@ -1,0 +1,4 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Martina THÖRN,RAN,Randers HK,1019.1,8,MV,True,NORMAL,4.1
+Stine BROLØS,RAN,Randers HK,1014.8,1,MV,True,NORMAL,-0.2
+Mathilde JUNCKER,RAN,Randers HK,1012.1,8,MV,True,NORMAL,-2.9

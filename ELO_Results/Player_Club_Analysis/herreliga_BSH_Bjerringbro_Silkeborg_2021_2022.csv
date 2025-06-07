@@ -1,0 +1,16 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Jacob LASSEN,BSH,Bjerringbro-Silkeborg,1662.8,37,PL,False,NORMAL,262.9
+Nikolaj Øris NIELSEN,BSH,Bjerringbro-Silkeborg,1537.9,35,PL,False,NORMAL,137.6
+Mads Kjeldgaard ANDERSEN,BSH,Bjerringbro-Silkeborg,1508.5,34,PL,False,NORMAL,106.8
+William BOGOJEVIC,BSH,Bjerringbro-Silkeborg,1277.8,37,PL,False,NORMAL,171.9
+Alexander LYNGGAARD,BSH,Bjerringbro-Silkeborg,1264.9,34,ST,False,NORMAL,146.5
+Aksel HORGEN,BSH,Bjerringbro-Silkeborg,1251.2,32,HF,False,NORMAL,113.5
+Sebastian SKØTT,BSH,Bjerringbro-Silkeborg,1250.1,9,VF,False,NORMAL,30.3
+Patrick BOLDSEN,BSH,Bjerringbro-Silkeborg,1178.6,14,HF,False,NORMAL,33.2
+Jeppe Gade NIELSEN,BSH,Bjerringbro-Silkeborg,1175.1,12,PL,False,NORMAL,25.3
+Johan SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1174.3,9,MV,True,NORMAL,33.0
+Mikkel Møller LØVKVIST,BSH,Bjerringbro-Silkeborg,1168.0,6,MV,True,NORMAL,15.4
+René Toft HANSEN,BSH,Bjerringbro-Silkeborg,1167.2,25,ST,False,NORMAL,75.3
+Sasser SONN,BSH,Bjerringbro-Silkeborg,1129.8,17,ST,False,NORMAL,29.8
+Henrik TILSTED,BSH,Bjerringbro-Silkeborg,1116.4,33,VF,False,NORMAL,101.4
+Ludvig HALLBÄCK,BSH,Bjerringbro-Silkeborg,1075.1,31,PL,False,NORMAL,60.1

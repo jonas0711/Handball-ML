@@ -1,18 +1,18 @@
 team_code,team_name,seasons_played,avg_rating,peak_rating,total_games,career_change,consistency
-TES,Team Esbjerg,8,2853.6,3272.8,249,859.2,380.0
-ODE,Odense Håndbold,8,2627.4,3142.8,255,685.7,325.9
-IKA,Ikast Håndbold,8,2260.9,2740.4,248,1251.9,401.0
-VHK,Viborg HK,8,2123.9,2679.9,236,132.1,401.5
-KBH,København Håndbold,8,2097.4,2834.9,233,19.8,445.2
-NFH,Nykøbing F. Håndbold,8,1852.7,2164.0,228,768.8,311.0
-AHB,Aarhus Håndbold Kvinder,8,1604.2,2219.3,204,136.9,318.2
-SVK,Silkeborg-Voel KFUM,8,1462.0,2039.4,216,1239.5,549.5
-SJE,SønderjyskE Kvindehåndbold,4,1417.9,2276.5,93,1002.5,609.6
-RAN,Randers HK,5,1320.5,1954.1,119,1296.6,509.3
-HHE,Horsens Håndbold Elite,6,1206.9,1956.1,176,1320.1,546.3
-RIN,Ringkøbing Håndbold,6,1038.4,1647.2,146,-435.8,486.3
-SKB,Skanderborg Håndbold,7,1029.1,1648.7,202,985.1,387.4
-EHA,EH Aalborg,4,920.4,1462.2,84,492.1,351.1
-AJA,Ajax København,6,848.7,1625.6,171,-874.6,513.7
-HOL,Holstebro Håndbold,6,746.0,1398.7,115,-1551.2,682.2
-BFH,Bjerringbro FH,3,615.3,971.4,64,1000.9,456.8
+TES,Team Esbjerg,8,2506.8,2874.2,249,660.1,271.2
+ODE,Odense Håndbold,8,2325.0,2764.6,255,668.0,260.0
+IKA,Ikast Håndbold,8,2035.0,2457.2,248,1034.4,325.2
+VHK,Viborg HK,8,1913.6,2316.9,236,179.5,266.8
+KBH,København Håndbold,8,1900.2,2404.9,233,-161.1,304.2
+NFH,Nykøbing F. Håndbold,8,1725.1,2007.3,228,564.0,240.2
+AAU,Aarhus United,7,1550.3,1936.1,178,-114.1,213.7
+SVK,Silkeborg-Voel KFUM,8,1457.9,1798.9,216,752.0,341.7
+SJK,SønderjyskE Kvindehåndbold,4,1416.5,2061.6,93,606.2,430.1
+RAN,Randers HK,5,1314.1,1729.7,119,854.5,348.9
+HHE,Horsens Håndbold Elite,6,1264.5,1806.5,176,823.8,349.6
+SKB,Skanderborg Håndbold,7,1122.3,1623.2,202,549.5,260.1
+RIN,Ringkøbing Håndbold,6,1075.9,1513.5,146,-236.5,335.3
+EHA,EH Aalborg,4,1041.1,1406.0,84,362.8,230.0
+AJK,Ajax København,6,1014.1,1446.7,171,-648.9,314.9
+HOL,Holstebro Håndbold,6,955.2,1295.4,115,-867.9,383.3
+BFH,Bjerringbro FH,3,829.8,992.7,64,468.3,216.1

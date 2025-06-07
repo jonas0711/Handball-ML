@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Line Berggren LARSEN,AHB,Aarhus Håndbold Kvinder,1520.5,25,PL,False,NORMAL,122.9
+Alberte EBLER,AHB,Aarhus Håndbold Kvinder,1292.3,16,HB,False,NORMAL,18.2
+Anna Berger WIERZBA,AHB,Aarhus Håndbold Kvinder,1285.5,24,PL,False,NORMAL,69.4
+Sophia SNOGDAL,AHB,Aarhus Håndbold Kvinder,1234.2,6,VF,False,NORMAL,17.4
+Katrine JACOBSEN,AHB,Aarhus Håndbold Kvinder,1203.6,15,ST,False,NORMAL,24.8
+Sabine ENGLERT,AHB,Aarhus Håndbold Kvinder,1184.1,8,MV,True,NORMAL,20.2
+Nikoline SAX,AHB,Aarhus Håndbold Kvinder,1179.8,9,PL,False,NORMAL,9.5
+Sarah Vest KIRKELØKKE,AHB,Aarhus Håndbold Kvinder,1179.3,21,ST,False,NORMAL,36.2
+Sofia DEEN,AHB,Aarhus Håndbold Kvinder,1169.6,25,PL,False,NORMAL,62.5
+Mathilde ØSTERGAARD,AHB,Aarhus Håndbold Kvinder,1166.5,23,VF,False,NORMAL,74.4
+Frederikke WAAGE-JENSEN,AHB,Aarhus Håndbold Kvinder,1155.4,18,HF,False,NORMAL,23.3
+Ida GÖTZSCHE,AHB,Aarhus Håndbold Kvinder,1116.4,12,HF,False,NORMAL,27.6
+Tania Bilde KNUDSEN,AHB,Aarhus Håndbold Kvinder,1046.3,8,HF,False,NORMAL,31.3
+Majken Hedegaard NIELSEN,AHB,Aarhus Håndbold Kvinder,1022.6,8,VF,False,NORMAL,7.6
+Elin THORSTEINSDOTTIR,AHB,Aarhus Håndbold Kvinder,1020.3,4,MV,True,NORMAL,5.3
+Freja GANDRUP ERNST,AHB,Aarhus Håndbold Kvinder,1018.4,5,PL,False,NORMAL,3.4

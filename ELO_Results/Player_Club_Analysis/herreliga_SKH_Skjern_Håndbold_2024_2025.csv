@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Noah GAUDIN,SKH,Skjern Håndbold,1612.1,34,PL,False,NORMAL,210.1
+Emil BERGHOLT,SKH,Skjern Håndbold,1482.7,31,ST,False,NORMAL,82.1
+René RASMUSSEN,SKH,Skjern Håndbold,1451.4,27,HF,False,NORMAL,51.0
+Lasse MIKKELSEN,SKH,Skjern Håndbold,1447.9,20,PL,False,NORMAL,46.6
+Eivind TANGEN,SKH,Skjern Håndbold,1447.3,27,HB,False,NORMAL,48.8
+Bjarke CHRISTENSEN,SKH,Skjern Håndbold,1437.8,13,VF,False,NORMAL,34.8
+Senjamin BURIC,SKH,Skjern Håndbold,1431.9,29,ST,False,NORMAL,74.7
+Jakob RASMUSSEN,SKH,Skjern Håndbold,1327.1,34,PL,False,NORMAL,89.3
+Christoffer BONDE,SKH,Skjern Håndbold,1304.3,7,MV,True,NORMAL,81.3
+Joaquim NAZARÉ,SKH,Skjern Håndbold,1230.6,35,PL,False,NORMAL,125.6
+Mads BJERGFELT,SKH,Skjern Håndbold,1198.5,17,PL,False,NORMAL,20.4
+Tim WINKLER,SKH,Skjern Håndbold,1194.2,5,MV,True,NORMAL,-5.1
+Viktor BERGHOLT,SKH,Skjern Håndbold,1164.1,22,VF,False,NORMAL,49.5
+Vetle RØNNINGEN,SKH,Skjern Håndbold,1148.9,9,ST,False,NORMAL,18.4
+Jonathan SØRENSEN,SKH,Skjern Håndbold,1020.6,3,HF,False,NORMAL,5.6
+Simo ŠIJAN,SKH,Skjern Håndbold,1018.5,3,PL,False,NORMAL,3.5

@@ -1,0 +1,17 @@
+team_code,team_name,league,seasons_played,avg_team_rating,avg_top7_rating,peak_team_rating,avg_elite_players,rating_consistency,career_development
+IKA,Ikast Håndbold,Kvindeliga,4,1311.0,1374.0,1356.3,0.0,58.1,129.5
+TES,Team Esbjerg,Kvindeliga,8,1310.7,1378.8,1366.8,0.0,45.3,98.1
+VHK,Viborg HK,Kvindeliga,8,1300.4,1361.8,1340.3,0.0,38.4,115.2
+NFH,Nykøbing F. Håndbold,Kvindeliga,8,1296.6,1362.9,1367.7,0.0,47.8,125.3
+ODE,Odense Håndbold,Kvindeliga,4,1296.2,1359.3,1331.9,0.0,37.9,77.3
+RIN,Ringkøbing Håndbold,Kvindeliga,5,1294.5,1346.2,1349.3,0.0,43.4,119.6
+KBH,København Håndbold,Kvindeliga,8,1291.3,1351.5,1340.1,0.0,39.5,120.9
+SJK,SønderjyskE Kvindehåndbold,Kvindeliga,4,1290.3,1353.0,1329.7,0.0,44.1,114.0
+SVK,Silkeborg-Voel KFUM,Kvindeliga,8,1288.5,1347.9,1336.2,0.0,43.0,132.5
+SKB,Skanderborg Håndbold,Kvindeliga,7,1288.3,1362.7,1338.3,0.0,26.3,47.1
+AAU,Aarhus United,Kvindeliga,7,1287.9,1349.2,1332.2,0.0,40.5,102.3
+HHE,Horsens Håndbold Elite,Kvindeliga,6,1281.9,1359.2,1305.0,0.0,25.8,69.7
+AJK,Ajax København,Kvindeliga,6,1271.5,1337.3,1288.6,0.0,18.5,23.1
+BFH,Bjerringbro FH,Kvindeliga,3,1264.0,1300.8,1316.7,0.0,45.5,111.1
+HOL,Holstebro Håndbold,Kvindeliga,4,1253.9,1296.6,1294.4,0.0,36.4,-60.5
+EHA,EH Aalborg,Kvindeliga,4,1246.6,1281.6,1266.5,0.0,21.0,25.0

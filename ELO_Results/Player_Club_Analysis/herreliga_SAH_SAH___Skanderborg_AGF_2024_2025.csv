@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Morten Hempel JENSEN,SAH,SAH - Skanderborg AGF,1500.0,32,PL,False,NORMAL,99.5
+Jeppe CIESLAK,SAH,SAH - Skanderborg AGF,1453.8,28,VF,False,NORMAL,68.8
+Jonatan MOLLERUP,SAH,SAH - Skanderborg AGF,1418.5,12,HF,False,NORMAL,29.8
+Morten BALLING,SAH,SAH - Skanderborg AGF,1413.9,22,PL,False,NORMAL,49.8
+Thor CHRISTENSEN,SAH,SAH - Skanderborg AGF,1317.5,16,ST,False,NORMAL,25.4
+Mikkel LANG,SAH,SAH - Skanderborg AGF,1307.4,21,HF,False,NORMAL,52.8
+Fredrik OLSSON,SAH,SAH - Skanderborg AGF,1275.6,32,PL,False,NORMAL,112.3
+Kristian BONEFELD,SAH,SAH - Skanderborg AGF,1244.9,4,PL,False,NORMAL,1.4
+Morten KAALUND,SAH,SAH - Skanderborg AGF,1231.7,27,ST,False,NORMAL,80.2
+Anton BRAMMING,SAH,SAH - Skanderborg AGF,1227.0,6,VF,False,NORMAL,6.7
+Kristoffer LAURSEN,SAH,SAH - Skanderborg AGF,1186.6,2,MV,True,NORMAL,-6.2
+Magnus BRANDBYGE,SAH,SAH - Skanderborg AGF,1181.7,3,MV,True,NORMAL,3.8
+Frederik ARNOLDSEN,SAH,SAH - Skanderborg AGF,1181.1,14,ST,False,NORMAL,26.8
+Emil LÆRKE,SAH,SAH - Skanderborg AGF,1162.7,26,PL,False,NORMAL,147.7
+Kristjan ÖRN KRISTJANSSON,SAH,SAH - Skanderborg AGF,1138.6,32,HB,False,NORMAL,123.6
+Andreas AAGREEN,SAH,SAH - Skanderborg AGF,1037.7,10,HF,False,NORMAL,22.7

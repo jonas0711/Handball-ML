@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Miha ZVIZEJ,REH,Ribe-Esbjerg HH,1511.7,27,ST,False,NORMAL,111.3
+Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1486.6,25,HF,False,NORMAL,88.0
+Runar KARASON,REH,Ribe-Esbjerg HH,1475.3,27,HB,False,NORMAL,178.8
+Lasse UTH,REH,Ribe-Esbjerg HH,1441.2,19,VF,False,NORMAL,39.6
+Besard HAKAJ,REH,Ribe-Esbjerg HH,1433.4,13,ST,False,NORMAL,35.4
+Nicolai NYGAARD,REH,Ribe-Esbjerg HH,1257.0,22,PL,False,NORMAL,122.7
+Kasper KVIST,REH,Ribe-Esbjerg HH,1245.6,19,VF,False,NORMAL,36.0
+Søren RASMUSSEN,REH,Ribe-Esbjerg HH,1211.7,8,MV,True,NORMAL,15.8
+Magnus SØNDENÅ,REH,Ribe-Esbjerg HH,1171.3,6,HF,False,NORMAL,8.6
+Daniel INGASON,REH,Ribe-Esbjerg HH,1154.2,12,PL,False,NORMAL,27.9
+Jonas LARHOLM,REH,Ribe-Esbjerg HH,1133.9,25,PL,False,NORMAL,118.9
+Gunnar Steinn JONSSON,REH,Ribe-Esbjerg HH,1049.9,16,PL,False,NORMAL,34.9
+René VILLADSEN,REH,Ribe-Esbjerg HH,1037.2,3,MV,True,NORMAL,22.2
+Simon BIRKEFELDT,REH,Ribe-Esbjerg HH,1026.4,11,PL,False,NORMAL,11.4
+Daniel Nygaard LUND,REH,Ribe-Esbjerg HH,1016.9,3,PL,False,NORMAL,1.9
+Christoffer LANGERHUUS,REH,Ribe-Esbjerg HH,1016.8,2,ST,False,NORMAL,1.8

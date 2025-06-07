@@ -1,0 +1,16 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Rune Hoyer SCHRØDER,TMT,TM Tønder Håndbold,1340.6,26,VB,False,NORMAL,340.6
+Oliver Nøddesbo EGGERT,TMT,TM Tønder Håndbold,1288.6,22,VB,False,NORMAL,288.6
+Kristian Stoklund LARSEN,TMT,TM Tønder Håndbold,1275.2,23,PL,False,NORMAL,275.2
+Ulrik Nøddesbo EGGERT,TMT,TM Tønder Håndbold,1273.1,25,HB,False,NORMAL,273.1
+Kristian KLITGAARD,TMT,TM Tønder Håndbold,1261.9,18,VF,False,NORMAL,261.9
+Martin Kærgaard PEDERSEN,TMT,TM Tønder Håndbold,1260.1,22,ST,False,NORMAL,260.1
+Emil BERGHOLT,TMT,TM Tønder Håndbold,1245.1,23,ST,True,NORMAL,245.1
+Hans Martin ASMUSSEN,TMT,TM Tønder Håndbold,1238.4,21,HF,False,NORMAL,238.4
+Thomas Schultz CLAUSEN,TMT,TM Tønder Håndbold,1226.1,14,HF,False,NORMAL,226.1
+Niclas THYSSEN,TMT,TM Tønder Håndbold,1225.4,15,VF,False,NORMAL,225.4
+Rolf RAVN,TMT,TM Tønder Håndbold,1224.6,16,HB,False,NORMAL,224.6
+Lasse HAMANN-BOERITHS,TMT,TM Tønder Håndbold,1214.5,11,PL,False,NORMAL,214.5
+Thomas OESEN,TMT,TM Tønder Håndbold,1207.4,8,PL,False,NORMAL,207.4
+Mathias Høyer MOSEL,TMT,TM Tønder Håndbold,1203.7,3,MV,True,NORMAL,203.7
+Mads THOMSEN,TMT,TM Tønder Håndbold,1201.9,3,ST,False,NORMAL,201.9

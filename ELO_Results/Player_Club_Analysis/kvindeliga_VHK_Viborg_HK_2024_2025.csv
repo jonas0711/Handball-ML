@@ -1,0 +1,16 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Marielle MARTINSEN,VHK,Viborg HK,1475.4,28,PL,False,NORMAL,73.1
+Christina PEDERSEN,VHK,Viborg HK,1434.5,29,PL,False,NORMAL,104.1
+Sara HALD,VHK,Viborg HK,1405.4,31,ST,False,NORMAL,103.3
+Camilla DEGN,VHK,Viborg HK,1321.8,12,VF,False,NORMAL,41.2
+Alberte SIMONSEN,VHK,Viborg HK,1279.2,21,VF,False,NORMAL,36.2
+Maria FISKER,VHK,Viborg HK,1278.4,7,VF,False,NORMAL,14.2
+Henriette HANSEN,VHK,Viborg HK,1229.1,30,HF,False,NORMAL,66.5
+Louise SØNDERGAARD,VHK,Viborg HK,1216.2,31,HB,False,NORMAL,93.9
+Jana MITTÚN,VHK,Viborg HK,1171.3,31,ST,False,NORMAL,107.8
+Ida Marie KAYSEN,VHK,Viborg HK,1153.9,1,MV,True,NORMAL,-0.4
+Louise Bak JENSEN,VHK,Viborg HK,1135.2,6,MV,True,NORMAL,9.4
+Laura THESTRUP,VHK,Viborg HK,1088.0,16,PL,False,NORMAL,16.6
+Anne HYKKELBJERG,VHK,Viborg HK,1034.1,12,ST,False,NORMAL,19.1
+Nanna Skovmose VINTHER,VHK,Viborg HK,1026.4,6,HF,False,NORMAL,11.4
+Elma ÖRTEMARK,VHK,Viborg HK,1025.5,13,PL,False,NORMAL,10.5

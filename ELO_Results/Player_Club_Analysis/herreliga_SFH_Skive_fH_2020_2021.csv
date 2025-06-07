@@ -1,0 +1,9 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Jeppe Gade NIELSEN,SFH,Skive fH,1212.5,3,PL,False,NORMAL,212.5
+Joshua Krohn GRACE,SFH,Skive fH,1208.4,2,HB,False,NORMAL,208.4
+Tobias Svend RASMUSSEN,SFH,Skive fH,1206.7,2,PL,False,NORMAL,206.7
+Andreas Søgaard RASMUSSEN,SFH,Skive fH,1206.2,2,ST,False,NORMAL,206.2
+Nickolei JENSEN,SFH,Skive fH,1205.1,2,PL,False,NORMAL,205.1
+Magnus SØNNICHSEN,SFH,Skive fH,1204.7,2,HF,False,NORMAL,204.7
+Malte JUSTESEN,SFH,Skive fH,1204.6,2,VF,False,NORMAL,204.6
+Daniel GULDSMED,SFH,Skive fH,1203.3,2,ST,False,NORMAL,203.3

@@ -1,0 +1,238 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Anders Kragh MARTINUSEN,FHK,Fredericia Håndbold Klub,1616.2,38,PL,False,NORMAL,218.0
+Noah GAUDIN,SKH,Skjern Håndbold,1589.6,36,PL,False,NORMAL,187.6
+Martin BISGAARD,FHK,Fredericia Håndbold Klub,1531.3,37,VF,False,NORMAL,129.7
+Frederik TILSTED,MTH,Mors-Thy Håndbold,1502.3,22,PL,False,NORMAL,103.2
+Morten OLSEN,BSH,Bjerringbro-Silkeborg,1498.6,24,PL,False,NORMAL,97.5
+Sander ØVERJORDET,KIF,KIF Kolding,1497.6,24,PL,False,NORMAL,132.5
+Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1497.0,33,HF,False,NORMAL,98.4
+Morten Hempel JENSEN,SAH,SAH - Skanderborg AGF,1490.6,30,PL,False,NORMAL,124.0
+Lasse MIKKELSEN,SKH,Skjern Håndbold,1477.6,20,PL,False,NORMAL,76.3
+Marcus MØRK,REH,Ribe-Esbjerg HH,1475.4,26,PL,False,NORMAL,72.7
+Peter BALLING,BSH,Bjerringbro-Silkeborg,1474.3,32,PL,False,NORMAL,75.0
+Bjarke CHRISTENSEN,KIF,KIF Kolding,1472.4,23,VF,False,NORMAL,69.4
+Nikolaj MARKUSSEN,TTH,TTH Holstebro,1469.8,32,PL,False,NORMAL,162.4
+Thomas ARNOLDSEN,AAH,Aalborg Håndbold,1466.7,21,PL,False,NORMAL,67.8
+Eivind TANGEN,SKH,Skjern Håndbold,1465.7,16,HB,False,NORMAL,67.2
+Miha ZVIZEJ,TTH,TTH Holstebro,1459.9,27,ST,False,NORMAL,59.5
+Nichlas HALD,NSH,Nordsjælland Håndbold,1459.1,23,PL,False,NORMAL,161.0
+Morten BJØRNSHAUGE,SJH,SønderjyskE Herrehåndbold,1456.1,28,ST,False,NORMAL,96.8
+Lasse PEDERSEN,MTH,Mors-Thy Håndbold,1455.5,28,HF,False,NORMAL,55.9
+Marcus DAHLIN,REH,Ribe-Esbjerg HH,1454.3,23,HB,False,NORMAL,52.3
+Andreas LANG,SJH,SønderjyskE Herrehåndbold,1453.1,28,PL,False,NORMAL,139.3
+Kristian STOKLUND,FHK,Fredericia Håndbold Klub,1452.6,26,PL,False,NORMAL,52.2
+Nicolaj NØRAGER,TTH,TTH Holstebro,1452.2,29,PL,False,NORMAL,86.7
+Lars SKAARUP,SAH,SAH - Skanderborg AGF,1446.7,21,VF,False,NORMAL,46.9
+Jonas LARHOLM,REH,Ribe-Esbjerg HH,1446.1,23,PL,False,NORMAL,48.4
+Sebastian BARTHOLD,AAH,Aalborg Håndbold,1444.1,17,VF,False,NORMAL,42.0
+Benjamin PEDERSEN,KIF,KIF Kolding,1443.7,28,ST,False,NORMAL,114.3
+Jonas Gade NIELSEN,TTH,TTH Holstebro,1438.6,20,HB,False,NORMAL,37.3
+René RASMUSSEN,SKH,Skjern Håndbold,1437.2,24,HF,False,NORMAL,36.8
+Oliver NORLYK,KIF,KIF Kolding,1432.9,28,PL,False,NORMAL,156.4
+Emil BERGHOLT,SKH,Skjern Håndbold,1430.1,15,ST,False,NORMAL,29.5
+Magnus BRAMMING,TTH,TTH Holstebro,1427.6,18,VF,False,NORMAL,24.9
+Morten BALLING,SAH,SAH - Skanderborg AGF,1427.4,8,PL,False,NORMAL,26.9
+Niels LINDHOLT,LTH,Lemvig-Thyborøn Håndbold,1417.8,13,ST,False,NORMAL,15.4
+Alexander LYNGGAARD,BSH,Bjerringbro-Silkeborg,1415.4,28,ST,False,NORMAL,55.1
+Lasse UTH,SKH,Skjern Håndbold,1415.3,7,VF,False,NORMAL,13.7
+Morten JØRGENSEN,REH,Ribe-Esbjerg HH,1408.9,27,VF,False,NORMAL,69.8
+Kristian STRANDEN,SJH,SønderjyskE Herrehåndbold,1408.4,24,VB,False,NORMAL,45.4
+Johan MEKLENBORG,TTH,TTH Holstebro,1408.2,16,PL,False,NORMAL,57.5
+Jonas PORUP,TTH,TTH Holstebro,1404.1,4,PL,False,NORMAL,1.2
+Henrik MØLLGAARD,AAH,Aalborg Håndbold,1403.7,11,PL,False,NORMAL,6.7
+Buster JUUL,AAH,Aalborg Håndbold,1380.8,21,VF,False,NORMAL,53.3
+Jonatan MOLLERUP,SAH,SAH - Skanderborg AGF,1375.8,28,PL,False,NORMAL,109.1
+Kasper YOUNG,FHK,Fredericia Håndbold Klub,1373.2,34,HF,False,NORMAL,99.7
+Thomas BOILESEN,TTH,TTH Holstebro,1372.8,14,PL,False,NORMAL,30.7
+Emil MADSEN,GOG,GOG,1372.7,31,PL,False,NORMAL,168.2
+Jeppe CIESLAK,NSH,Nordsjælland Håndbold,1360.7,27,VF,False,NORMAL,198.9
+Nikolaj ENDERLEIT,TTH,TTH Holstebro,1358.5,29,PL,False,NORMAL,110.0
+Senjamin BURIC,SKH,Skjern Håndbold,1354.9,31,ST,False,NORMAL,109.9
+Benjamin JAKOBSEN,AAH,Aalborg Håndbold,1353.7,1,ST,False,NORMAL,1.0
+Viktor NEVERS,KIF,KIF Kolding,1351.9,27,HF,False,NORMAL,77.9
+Carl-Emil HAUNSTRUP,NSH,Nordsjælland Håndbold,1346.8,30,HF,False,NORMAL,148.8
+Andreas SØGAARD,REH,Ribe-Esbjerg HH,1328.3,38,ST,False,NORMAL,119.2
+Nicolaj JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1327.0,30,PL,False,NORMAL,168.2
+Christoffer DREYER,TMH,TMS Ringsted,1311.0,28,PL,False,NORMAL,134.8
+Jakob FREDERIKSEN,REH,Ribe-Esbjerg HH,1307.6,11,HF,False,NORMAL,15.1
+Christoffer CICHOSZ,TTH,TTH Holstebro,1307.3,28,ST,False,NORMAL,60.0
+Kristian OLSEN,NSH,Nordsjælland Håndbold,1301.4,28,PL,False,NORMAL,166.1
+Jorn SMITS,LTH,Lemvig-Thyborøn Håndbold,1298.2,18,PL,False,NORMAL,47.5
+Kristian BONEFELD,SAH,SAH - Skanderborg AGF,1290.6,6,PL,False,NORMAL,2.9
+Thor CHRISTENSEN,SAH,SAH - Skanderborg AGF,1289.5,22,ST,False,NORMAL,39.4
+Sebastian HENNEBERG,FHK,Fredericia Håndbold Klub,1283.4,31,PL,False,NORMAL,101.9
+Jonathan WÜRTZ,SKH,Skjern Håndbold,1279.8,3,VB,False,NORMAL,0.4
+Elvar ASGEIRSSON,REH,Ribe-Esbjerg HH,1277.5,33,PL,False,NORMAL,104.8
+Alec SMIT,SJH,SønderjyskE Herrehåndbold,1277.4,19,HF,False,NORMAL,54.6
+Kristian BJØRNSEN,AAH,Aalborg Håndbold,1277.0,21,HF,False,NORMAL,51.3
+Matias CAMPBELL,NSH,Nordsjælland Håndbold,1274.2,23,PL,False,NORMAL,99.3
+Rene ANTONSEN,AAH,Aalborg Håndbold,1273.2,26,ST,False,NORMAL,51.9
+Patrick BOLDSEN,BSH,Bjerringbro-Silkeborg,1271.3,24,HF,False,NORMAL,62.9
+Mads Svane KNUDSEN,MTH,Mors-Thy Håndbold,1269.7,30,PL,False,NORMAL,152.3
+Torben PETERSEN,SAH,SAH - Skanderborg AGF,1269.6,30,PL,False,NORMAL,57.9
+Nikolaj NIELSEN,FHK,Fredericia Håndbold Klub,1266.4,23,ST,False,NORMAL,35.5
+Tobias MØLLER,SJH,SønderjyskE Herrehåndbold,1265.0,11,VF,False,NORMAL,13.3
+Emil GRØNBECH,REH,Ribe-Esbjerg HH,1260.7,38,HB,False,NORMAL,130.7
+Ludvig HALLBÄCK,BSH,Bjerringbro-Silkeborg,1257.5,31,PL,False,NORMAL,86.4
+Alfred JÖNSSON,SKH,Skjern Håndbold,1255.0,15,PL,False,NORMAL,37.8
+Mikkel LANG,SAH,SAH - Skanderborg AGF,1253.7,28,HF,False,NORMAL,101.3
+Simon BIRKEFELDT,REH,Ribe-Esbjerg HH,1246.5,20,HB,False,NORMAL,24.4
+Salah BOUTAF,SAH,SAH - Skanderborg AGF,1244.9,14,MV,True,NORMAL,14.0
+Hakan SAHIN,TMH,TMS Ringsted,1242.9,21,ST,False,NORMAL,36.5
+Nicolaj SPANGGAARD,MTH,Mors-Thy Håndbold,1241.6,28,PL,False,NORMAL,59.3
+William AAR,REH,Ribe-Esbjerg HH,1239.3,36,PL,False,NORMAL,122.7
+Christoffer BONDE,SKH,Skjern Håndbold,1234.8,13,MV,True,NORMAL,62.0
+Henrik TILSTED,MTH,Mors-Thy Håndbold,1232.9,21,VF,False,NORMAL,60.1
+Jakob RASMUSSEN,SKH,Skjern Håndbold,1232.8,30,PL,False,NORMAL,65.5
+Svend RUGHAVE,MTH,Mors-Thy Håndbold,1229.1,10,MV,True,NORMAL,43.3
+Kasper LARSEN,SJH,SønderjyskE Herrehåndbold,1228.0,5,MV,True,NORMAL,38.6
+Malthe Rolighed BULL,MTH,Mors-Thy Håndbold,1227.7,23,HF,False,NORMAL,63.7
+Kasper LINDGREN,MTH,Mors-Thy Håndbold,1226.8,19,ST,False,NORMAL,31.0
+Julius MØRCH,NSH,Nordsjælland Håndbold,1226.4,22,ST,False,NORMAL,39.1
+Mikkel HANSEN,AAH,Aalborg Håndbold,1217.4,28,PL,False,NORMAL,96.2
+Anders ZACHARIASSEN,GOG,GOG,1216.9,18,ST,False,NORMAL,35.2
+Tim WINKLER,SKH,Skjern Håndbold,1216.7,8,MV,True,NORMAL,24.3
+Anton BRAMMING,SAH,SAH - Skanderborg AGF,1216.4,21,VF,False,NORMAL,31.8
+Josip CAVAR,TTH,TTH Holstebro,1211.9,8,MV,True,NORMAL,-0.2
+Kristoffer LAURSEN,SAH,SAH - Skanderborg AGF,1209.4,6,MV,True,NORMAL,12.2
+Emil JENSEN,LTH,Lemvig-Thyborøn Håndbold,1208.9,16,PL,False,NORMAL,21.4
+Nicolai PEDERSEN,GOG,GOG,1207.8,28,PL,False,NORMAL,88.2
+Vilhelm POULSEN,LTH,Lemvig-Thyborøn Håndbold,1205.7,26,PL,False,NORMAL,92.2
+August FRIDÉN,BSH,Bjerringbro-Silkeborg,1203.1,16,VF,False,NORMAL,31.5
+Frederik BJERRE,TTH,TTH Holstebro,1201.8,27,VF,False,NORMAL,77.8
+Johan SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1201.3,2,MV,True,NORMAL,1.7
+Emil TELLERUP,LTH,Lemvig-Thyborøn Håndbold,1200.9,5,MV,True,NORMAL,1.9
+Lauritz LEGÉR,GOG,GOG,1200.5,11,PL,False,NORMAL,12.6
+August WIGER,SJH,SønderjyskE Herrehåndbold,1198.9,8,PL,False,NORMAL,21.7
+Hjalte LYKKE,GOG,GOG,1197.4,13,HF,False,NORMAL,17.4
+Thomas DAMGAARD,TTH,TTH Holstebro,1195.1,21,PL,False,NORMAL,68.0
+Marcus MIDTGAARD,MTH,Mors-Thy Håndbold,1193.1,21,PL,False,NORMAL,51.8
+Kasper KILDELUND,GOG,GOG,1191.5,10,HF,False,NORMAL,14.5
+Victor WOLF,TMH,TMS Ringsted,1190.5,26,VF,False,NORMAL,175.5
+Simen PETTERSEN,SKH,Skjern Håndbold,1187.4,25,PL,False,NORMAL,49.2
+Martin LARSEN,AAH,Aalborg Håndbold,1185.2,18,HB,False,NORMAL,19.3
+Jon KATBALLE,LTH,Lemvig-Thyborøn Håndbold,1185.0,10,PL,False,NORMAL,11.5
+Kristoffer VESTERGAARD,MTH,Mors-Thy Håndbold,1184.8,17,PL,False,NORMAL,21.2
+René Toft HANSEN,BSH,Bjerringbro-Silkeborg,1184.7,8,ST,False,NORMAL,7.2
+Mathias SMED,TTH,TTH Holstebro,1183.2,4,PL,False,NORMAL,1.5
+Jesper LINDGREN,REH,Ribe-Esbjerg HH,1183.2,3,VB,False,NORMAL,1.4
+Nikolaj SVALASTOG,SJH,SønderjyskE Herrehåndbold,1183.1,24,VF,False,NORMAL,49.8
+Rasmus HENRIKSEN,MTH,Mors-Thy Håndbold,1182.0,14,MV,True,NORMAL,23.7
+Magnus BRANDBYGE,KIF,KIF Kolding,1181.1,10,MV,True,NORMAL,30.8
+Axel FRANZÉN,REH,Ribe-Esbjerg HH,1180.5,19,ST,False,NORMAL,29.6
+Pelle BOESEN,KIF,KIF Kolding,1177.3,8,ST,False,NORMAL,13.9
+Henrik JAKOBSEN,GOG,GOG,1177.2,30,ST,False,NORMAL,76.5
+Jeppe GADE,LTH,Lemvig-Thyborøn Håndbold,1176.8,26,PL,False,NORMAL,161.8
+Sebastian AUGUSTINUSSEN,SJH,SønderjyskE Herrehåndbold,1176.5,23,HF,False,NORMAL,56.6
+Mads LENBROCH,BSH,Bjerringbro-Silkeborg,1176.0,16,VF,False,NORMAL,38.4
+Tobias OLSEN,SJH,SønderjyskE Herrehåndbold,1174.2,5,PL,False,NORMAL,2.5
+Thomas SOLSTAD,BSH,Bjerringbro-Silkeborg,1173.3,24,ST,False,NORMAL,67.0
+Mads BJERGFELT,SKH,Skjern Håndbold,1173.0,6,PL,False,NORMAL,9.1
+Lasse BALSTAD,FHK,Fredericia Håndbold Klub,1172.9,10,ST,False,NORMAL,13.0
+Joachim Lyng ALS,GOG,GOG,1171.8,5,VF,False,NORMAL,11.4
+Jesper NIELSEN,AAH,Aalborg Håndbold,1170.9,12,ST,False,NORMAL,19.1
+Rasmus HOUMØLLER,MTH,Mors-Thy Håndbold,1170.3,6,ST,False,NORMAL,10.2
+Matthias DORGELO,GOG,GOG,1169.0,4,MV,True,NORMAL,-2.5
+Simon EGTVED,LTH,Lemvig-Thyborøn Håndbold,1167.1,4,MV,True,NORMAL,0.3
+Lars MOUSING,SAH,SAH - Skanderborg AGF,1167.0,19,ST,False,NORMAL,59.8
+Thorsten FRIES,FHK,Fredericia Håndbold Klub,1165.3,5,MV,True,NORMAL,10.4
+Mathias HEDEGAARD,KIF,KIF Kolding,1164.4,24,ST,False,NORMAL,75.2
+Magnus NORLYK,MTH,Mors-Thy Håndbold,1163.5,19,VF,False,NORMAL,43.0
+Marinus MUNK,AAH,Aalborg Håndbold,1163.3,18,PL,False,NORMAL,24.9
+Fredrik CLEMENTSEN,LTH,Lemvig-Thyborøn Håndbold,1162.8,20,ST,False,NORMAL,49.2
+Emil JESSEN,LTH,Lemvig-Thyborøn Håndbold,1162.2,20,VB,False,NORMAL,41.0
+Fredrik OLSSON,SAH,SAH - Skanderborg AGF,1162.0,30,PL,False,NORMAL,147.0
+Nikolaj LARSSON,NSH,Nordsjælland Håndbold,1161.9,22,HB,True,NORMAL,55.2
+Jimmi ANDERSEN,NSH,Nordsjælland Håndbold,1161.6,7,MV,True,NORMAL,-4.3
+Oliver WOSNIAK,TMH,TMS Ringsted,1159.3,29,VB,False,NORMAL,144.3
+Peter LUND,KIF,KIF Kolding,1159.0,15,HF,False,NORMAL,20.2
+Victor NORLYK,MTH,Mors-Thy Håndbold,1158.3,25,PL,False,NORMAL,65.3
+Christian HOLM,LTH,Lemvig-Thyborøn Håndbold,1158.1,14,PL,False,NORMAL,38.2
+Erik TOFT,KIF,KIF Kolding,1157.7,23,PL,False,NORMAL,142.7
+Kasper DIDRIKSEN,MTH,Mors-Thy Håndbold,1157.3,26,ST,False,NORMAL,67.5
+James JUNIOR SCOTT,FHK,Fredericia Håndbold Klub,1155.9,26,PL,False,NORMAL,34.6
+Nicolai COLUNGA,TMH,TMS Ringsted,1153.8,29,PL,False,NORMAL,138.8
+Dan BECK-HANSEN,SKH,Skjern Håndbold,1153.2,12,ST,False,NORMAL,31.3
+Frederik ARNOLDSEN,SAH,SAH - Skanderborg AGF,1151.9,14,ST,False,NORMAL,20.6
+Jacob BAGERSTED,SJH,SønderjyskE Herrehåndbold,1150.1,26,ST,False,NORMAL,43.6
+Sander Drange HEIEREN,TTH,TTH Holstebro,1147.7,5,MV,True,NORMAL,34.6
+Einar ÓLAFSSON,FHK,Fredericia Håndbold Klub,1144.3,6,ST,False,NORMAL,6.8
+Mads HOXER,AAH,Aalborg Håndbold,1143.4,34,PL,False,NORMAL,128.4
+Tobias NIELSEN,TMH,TMS Ringsted,1141.5,30,HF,False,NORMAL,126.5
+Tim RANTALA,NSH,Nordsjælland Håndbold,1141.3,23,ST,False,NORMAL,48.5
+Kevin GULLIKSEN,TTH,TTH Holstebro,1134.8,27,HF,False,NORMAL,119.8
+Benjamin HALLGREN,TMH,TMS Ringsted,1134.2,21,ST,False,NORMAL,119.2
+Tobias THULIN,GOG,GOG,1131.0,11,MV,True,NORMAL,16.5
+Gustav BRUUN,NSH,Nordsjælland Håndbold,1123.8,15,HF,False,NORMAL,108.8
+Rasmus LAUGE,BSH,Bjerringbro-Silkeborg,1123.1,31,PL,False,NORMAL,108.1
+Joachim MØLLER,TMH,TMS Ringsted,1122.2,29,ST,False,NORMAL,107.2
+Mads THYMANN,MTH,Mors-Thy Håndbold,1120.3,3,PL,False,NORMAL,2.0
+Vetle RØNNINGEN,KIF,KIF Kolding,1118.3,10,ST,False,NORMAL,7.9
+Andreas ELBÆK,KIF,KIF Kolding,1118.0,10,ST,False,NORMAL,20.1
+Aaron MENSING,GOG,GOG,1115.7,22,PL,False,NORMAL,100.7
+Jonas LANGERHUUS,FHK,Fredericia Håndbold Klub,1112.5,4,PL,False,NORMAL,2.9
+Nicolai PUGHOLM,LTH,Lemvig-Thyborøn Håndbold,1106.8,13,ST,False,NORMAL,17.1
+Oliver EGGERT,SJH,SønderjyskE Herrehåndbold,1105.0,28,PL,False,NORMAL,90.0
+Simon HALD,AAH,Aalborg Håndbold,1104.6,31,ST,False,NORMAL,89.6
+Viktor BERGHOLT,SKH,Skjern Håndbold,1102.9,31,VF,False,NORMAL,87.9
+Lukas NILSSON,AAH,Aalborg Håndbold,1101.6,28,PL,False,NORMAL,86.6
+Nikolaj ØRIS,BSH,Bjerringbro-Silkeborg,1098.8,25,PL,False,NORMAL,83.8
+Evgeni PEVNOV,FHK,Fredericia Håndbold Klub,1097.8,31,ST,False,NORMAL,82.8
+Joaquim NAZARÉ,SKH,Skjern Håndbold,1097.7,28,PL,False,NORMAL,82.7
+Reinier TABOADA,FHK,Fredericia Håndbold Klub,1096.4,35,PL,False,NORMAL,81.4
+Alexander BLONZ,GOG,GOG,1095.5,30,VF,False,NORMAL,80.5
+Andreas HAAGEN,TMH,TMS Ringsted,1095.2,12,MV,True,NORMAL,80.2
+Mikkel LØVKVIST,BSH,Bjerringbro-Silkeborg,1093.2,9,MV,True,NORMAL,78.2
+Niklas LANDIN,AAH,Aalborg Håndbold,1091.3,10,MV,True,NORMAL,76.3
+Frederik HORN,TMH,TMS Ringsted,1089.8,21,PL,False,NORMAL,74.8
+Oskar VIND,GOG,GOG,1084.7,27,HF,False,NORMAL,69.7
+Mark NIKOLAJSEN,TMH,TMS Ringsted,1083.6,17,PL,False,NORMAL,68.6
+Aleks VLAH,AAH,Aalborg Håndbold,1079.3,31,PL,False,NORMAL,64.3
+Jens SVANE,KIF,KIF Kolding,1077.8,25,ST,False,NORMAL,62.8
+Niklas KRAFT,REH,Ribe-Esbjerg HH,1074.9,6,MV,True,NORMAL,59.9
+William BOGOJEVIC,BSH,Bjerringbro-Silkeborg,1073.1,28,PL,False,NORMAL,58.1
+Tobias BAY,LTH,Lemvig-Thyborøn Håndbold,1071.2,24,VF,False,NORMAL,56.2
+Sebastian FRANDSEN,FHK,Fredericia Håndbold Klub,1071.1,8,MV,True,NORMAL,56.1
+Justin MÜLLER,NSH,Nordsjælland Håndbold,1070.3,26,PL,False,NORMAL,55.3
+Tobias MYSSING,LTH,Lemvig-Thyborøn Håndbold,1066.5,21,HF,False,NORMAL,51.5
+Jonas Kruse KRISTENSEN,FHK,Fredericia Håndbold Klub,1065.1,23,PL,False,NORMAL,50.1
+Magnus PETERSEN,NSH,Nordsjælland Håndbold,1059.5,5,MV,True,NORMAL,44.5
+Jonas RAUNDAHL,NSH,Nordsjælland Håndbold,1058.1,20,ST,False,NORMAL,43.1
+Aron MENSING,GOG,GOG,1057.7,9,PL,False,NORMAL,42.7
+Fredrik MOSSESTAD,FHK,Fredericia Håndbold Klub,1054.6,19,HF,False,NORMAL,39.6
+Ágúst BJÖRGVINSSON,REH,Ribe-Esbjerg HH,1054.0,16,MV,True,NORMAL,39.0
+Henrik Toft HANSEN,MTH,Mors-Thy Håndbold,1051.7,22,ST,False,NORMAL,36.7
+Jack THURIN,AAH,Aalborg Håndbold,1051.2,23,HB,False,NORMAL,36.2
+Oliver KLARSKOV,NSH,Nordsjælland Håndbold,1050.7,16,PL,False,NORMAL,35.7
+Sander HEIEREN,TTH,TTH Holstebro,1049.8,10,MV,True,NORMAL,34.8
+Patrick WIESMACH,AAH,Aalborg Håndbold,1047.0,18,HF,False,NORMAL,32.0
+Jens KVIST,LTH,Lemvig-Thyborøn Håndbold,1046.2,15,HF,False,NORMAL,31.2
+Anders AGGER,TMH,TMS Ringsted,1043.7,19,ST,False,NORMAL,28.7
+Robert TIMMERMEISTER,KIF,KIF Kolding,1042.4,17,PL,False,NORMAL,27.4
+Anton LINDSKOG,GOG,GOG,1041.1,12,ST,False,NORMAL,26.1
+Jens Kromann MØLLER,TTH,TTH Holstebro,1039.8,9,HF,False,NORMAL,24.8
+Sune IVERSEN,REH,Ribe-Esbjerg HH,1037.3,13,VF,False,NORMAL,22.3
+Anton HELLBERG,KIF,KIF Kolding,1036.6,6,MV,True,NORMAL,21.6
+Fabian NORSTEN,AAH,Aalborg Håndbold,1031.4,10,MV,True,NORMAL,16.4
+Mats GORDON,LTH,Lemvig-Thyborøn Håndbold,1030.7,9,VF,False,NORMAL,15.7
+Andreas CORTÉS,TMH,TMS Ringsted,1030.7,11,PL,False,NORMAL,15.7
+Linus PERSSON,GOG,GOG,1029.7,7,ST,False,NORMAL,14.7
+Frederik BAY,KIF,KIF Kolding,1027.3,5,VF,False,NORMAL,12.3
+Victor ILSØE,BSH,Bjerringbro-Silkeborg,1026.5,9,HF,False,NORMAL,11.5
+Magnus VEJSGAARD,SAH,SAH - Skanderborg AGF,1024.9,4,HF,False,NORMAL,9.9
+Magnus HOLPERT,SJH,SønderjyskE Herrehåndbold,1024.5,9,PL,False,NORMAL,9.5
+Johan NILSSON,MTH,Mors-Thy Håndbold,1024.3,10,VB,False,NORMAL,9.3
+Julius STEN,SJH,SønderjyskE Herrehåndbold,1023.9,6,MV,True,NORMAL,8.9
+Pelle SCHILLING,SJH,SønderjyskE Herrehåndbold,1023.0,4,VF,False,NORMAL,8.0
+Jonas FUGLSBJERG,KIF,KIF Kolding,1022.8,5,VB,False,NORMAL,7.8
+Gustav SUNESEN,MTH,Mors-Thy Håndbold,1022.1,7,PL,False,NORMAL,7.1
+Malte EICHHORST,TMH,TMS Ringsted,1020.5,3,MV,True,NORMAL,5.5
+Martin RISOM,KIF,KIF Kolding,1020.4,6,PL,False,NORMAL,5.4
+Christian NIM,TMH,TMS Ringsted,1020.3,3,HB,False,NORMAL,5.3
+Frederik CLAUSEN,GOG,GOG,1019.0,5,ST,False,NORMAL,4.0
+Magnus RAHBEK,BSH,Bjerringbro-Silkeborg,1019.0,6,PL,False,NORMAL,4.0
+Morten VIUM,SKH,Skjern Håndbold,1018.6,4,HF,False,NORMAL,3.6
+Jonas JEPSEN,TTH,TTH Holstebro,1017.8,4,PL,False,NORMAL,2.8
+Mathias BITSCH,SAH,SAH - Skanderborg AGF,1017.5,5,HB,False,NORMAL,2.5
+Rasmus DØSSING,KIF,KIF Kolding,1017.0,2,MV,True,NORMAL,2.0
+Tobias LANTZ,TMH,TMS Ringsted,1012.7,8,MV,True,NORMAL,-2.3

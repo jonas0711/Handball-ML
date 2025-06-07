@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Anne BRINCH-NIELSEN,EHA,EH Aalborg,1345.2,23,HF,False,NORMAL,68.5
+Mathilde STORGAARD,EHA,EH Aalborg,1249.4,8,ST,False,NORMAL,19.3
+Jenny KARLSSON,EHA,EH Aalborg,1208.4,23,PL,False,NORMAL,91.4
+Emma FRIBERG,EHA,EH Aalborg,1199.0,6,MV,True,NORMAL,7.9
+Line  Berggren LARSEN,EHA,EH Aalborg,1195.1,17,PL,False,NORMAL,104.2
+Cecilie Mørch HANSEN,EHA,EH Aalborg,1149.1,21,PL,False,NORMAL,75.8
+Mirja Lyngsø JENSEN,EHA,EH Aalborg,1127.8,9,ST,False,NORMAL,14.7
+Emma STEFFIN,EHA,EH Aalborg,1098.6,5,VF,False,NORMAL,6.2
+Sara KJÆRSGAARD,EHA,EH Aalborg,1098.0,17,ST,False,NORMAL,37.2
+Julie AAGAARD,EHA,EH Aalborg,1096.0,17,PL,False,NORMAL,25.9
+Anna LILLESØ,EHA,EH Aalborg,1061.3,21,VF,False,NORMAL,46.3
+Ida ANDERSEN,EHA,EH Aalborg,1043.8,10,VF,False,NORMAL,28.8
+Hanna ÅHLÉN,EHA,EH Aalborg,1035.3,17,PL,False,NORMAL,20.3
+Sofie NIELSEN,EHA,EH Aalborg,1023.2,8,HF,False,NORMAL,8.2
+Natascha WOLLESEN,EHA,EH Aalborg,1021.5,6,PL,False,NORMAL,6.5
+Mie LARSEN,EHA,EH Aalborg,1014.6,1,MV,True,NORMAL,-0.4

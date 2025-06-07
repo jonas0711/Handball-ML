@@ -41,6 +41,9 @@ from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
 
+# Import specific Herreliga mappings
+from team_config import HERRELIGA_TEAMS, HERRELIGA_NAME_MAPPINGS
+
 # === FORBEDRET HERRELIGA TEAM SYSTEM PARAMETRE ===
 BASE_TEAM_RATING = 1400           # Base rating for teams (højere end spillere)
 HOME_ADVANTAGE = 75               # Hjemmebane fordel i ELO points
@@ -56,139 +59,9 @@ K_FACTORS = {
     'elite': 35          # ØGET fra 15 - selv elite hold kan ændre sig betydeligt
 }
 
-# Herreliga team koder og navne
-HERRELIGA_TEAMS = {
-    'AAH': 'Aalborg Håndbold',
-    'BSH': 'Bjerringbro-Silkeborg', 
-    'FHK': 'Fredericia Håndbold Klub',
-    'GIF': 'Grindsted GIF Håndbold',
-    'GOG': 'GOG',
-    'KIF': 'KIF Kolding',
-    'MTH': 'Mors-Thy Håndbold',
-    'NSH': 'Nordsjælland Håndbold',
-    'REH': 'Ribe-Esbjerg HH',
-    'SAH': 'SAH - Skanderborg AGF',
-    'SKH': 'Skjern Håndbold',
-    'SJE': 'SønderjyskE Herrehåndbold',
-    'TTH': 'TTH Holstebro',
-    # EKSTRA TEAMS FUNDET I DATA  
-    'TMS': 'TMS Ringsted',             # TMS Ringsted (EGET HOLD)
-    'LTH': 'Lemvig-Thyborøn Håndbold', # Lemvig-Thyborøn (EGET HOLD)
-    'ARH': 'Århus Håndbold',           # Århus Håndbold (fusionerede med Skanderborg 2021)
-    'SKI': 'Skive fH',
-    'AJA': 'Ajax København',
-    'HØJ': 'HØJ Elite',
-    'HCM': 'HC Midtjylland',
-    'TSY': 'Team Sydhavsøerne',
-    'TMT': 'TM Tønder Håndbold'
-}
+# Herreliga team koder og navne er nu importeret fra team_config.py
 
-# FORBEDRET TEAM MAPPING SYSTEM - håndterer navnevariationer på tværs af sæsoner
-TEAM_NAME_MAPPINGS = {
-    # Aalborg Håndbold variationer
-    'aalborg håndbold': 'AAH',
-    'aalborg': 'AAH',
-    
-    # Århus Håndbold (SEPARAT KLUB - fusionerede med Skanderborg i 2021)
-    'århus håndbold': 'ARH',  # Klubs egen kode
-    'aarhus håndbold': 'ARH',
-    
-    # Bjerringbro-Silkeborg variationer
-    'bjerringbro-silkeborg': 'BSH',
-    'bjerringbro silkeborg': 'BSH',
-    
-    # Fredericia variationer (KRITISK - mange variationer)
-    'fredericia hk': 'FHK',
-    'fredericia håndbold klub': 'FHK',
-    'fredericia håndboldklub': 'FHK',
-    'fredericia': 'FHK',
-    
-    # Grindsted variationer
-    'grindsted gif håndbold': 'GIF',
-    'grindsted gif, håndbold': 'GIF',
-    'grindsted gif': 'GIF',
-    'grindsted': 'GIF',
-    
-    # GOG
-    'gog': 'GOG',
-    
-    # KIF Kolding variationer (inkl. tidlige sæsoner)
-    'kif kolding': 'KIF',
-    'kif kolding københavn': 'KIF',  # 2017-2018 navn
-    'kif': 'KIF',
-    
-    # Mors-Thy Håndbold
-    'mors-thy håndbold': 'MTH',
-    'mors thy': 'MTH',
-    
-    # Nordsjælland Håndbold
-    'nordsjælland håndbold': 'NSH',
-    'nordsjælland': 'NSH',
-    
-    # Ribe-Esbjerg HH
-    'ribe-esbjerg hh': 'REH',
-    'ribe esbjerg': 'REH',
-    
-    # SAH variationer (KRITISK - flere forskellige betydninger)
-    'sah - skjern håndbold': 'SKH',  # SAH som Skjern
-    'sah – skanderborg agf': 'SAH',  # SAH som Skanderborg AGF
-    'sah - skanderborg agf': 'SAH',
-    'skanderborg agf': 'SAH',
-    'skanderborg': 'SAH',
-    
-    # Skjern Håndbold
-    'skjern håndbold': 'SKH',
-    'skjern': 'SKH',
-    
-    # SønderjyskE variationer (KRITISK)
-    'sønderjyske': 'SJE',
-    'sønderjyske herrer': 'SJE',
-    'sønderjyske herrehåndbold': 'SJE',
-    'sønderjyske håndbold': 'SJE',
-    
-    # TTH Holstebro
-    'tth holstebro': 'TTH',
-    'tth': 'TTH',
-    'holstebro': 'TTH',
-    
-    # EKSTRA MAPPINGS BASERET PÅ UNMAPPED TEAMS
-    # TMS Ringsted
-    'tms ringsted': 'TMS',
-    'tms': 'TMS',
-    
-    # Lemvig-Thyborøn Håndbold (EGET HOLD)
-    'lemvig-thyborøn håndbold': 'LTH',
-    'lemvig thyborøn': 'LTH',
-    'lemvig': 'LTH',
-    
-    # Mors-Thy Håndbold (EGET HOLD - allerede i HERRELIGA_TEAMS som MTH)
-    
-    # Skive fH
-    'skive fh': 'SKI',
-    'skive': 'SKI',
-    
-    # Ajax København
-    'ajax københavn': 'AJA',
-    'ajax': 'AJA',
-    
-    # HØJ Elite
-    'høj elite': 'HØJ',
-    'høj': 'HØJ',
-    
-    # HC Midtjylland
-    'hc midtjylland': 'HCM',
-    'fc midtjylland': 'HCM',
-    'midtjylland': 'HCM',
-    
-    # Team Sydhavsøerne
-    'team sydhavsøerne': 'TSY',
-    'sydhavsøerne': 'TSY',
-    
-    # TM Tønder Håndbold (2017-2018)
-    'tm tønder håndbold': 'TMT',
-    'tm tønder': 'TMT',
-    'tønder': 'TMT'
-}
+# FORBEDRET TEAM MAPPING SYSTEM er nu importeret fra team_config.py
 
 class HerreligaTeamSeasonalEloSystem:
     """
@@ -245,30 +118,24 @@ class HerreligaTeamSeasonalEloSystem:
         
     def get_team_code_from_name(self, team_name: str) -> str:
         """
-        FORBEDRET TEAM CODE FINDER - håndterer navnevariationer på tværs af sæsoner
+        REFACTORED: Uses the dedicated HERRELIGA_NAME_MAPPINGS for accuracy.
         """
         if not team_name:
             return "UNK"
-            
-        team_name_lower = team_name.lower().strip()
+
+        clean_name = team_name.strip().lower()
         
-        # First try exact mapping
-        if team_name_lower in TEAM_NAME_MAPPINGS:
-            return TEAM_NAME_MAPPINGS[team_name_lower]
-            
-        # Then try partial matching
-        for mapping_name, code in TEAM_NAME_MAPPINGS.items():
-            if mapping_name in team_name_lower or team_name_lower in mapping_name:
+        # Direct lookup in the Herreliga-specific mapping
+        if clean_name in HERRELIGA_NAME_MAPPINGS:
+            return HERRELIGA_NAME_MAPPINGS[clean_name]
+
+        # Fallback search through keys (less reliable, but a good backup)
+        for key, code in HERRELIGA_NAME_MAPPINGS.items():
+            if key in clean_name:
                 return code
-                
-        # Legacy fallback - try original method
-        for code, name in HERRELIGA_TEAMS.items():
-            if name.lower() in team_name_lower or team_name_lower in name.lower():
-                return code
-                
-        # Final fallback
+    
         print(f"⚠️ UNMAPPED HERRELIGA TEAM: '{team_name}'")
-        return team_name[:3].upper()
+        return "UNK"
         
     def calculate_expected_score(self, team_a_rating: float, team_b_rating: float, 
                                is_home: bool = False) -> float:
@@ -394,8 +261,8 @@ class HerreligaTeamSeasonalEloSystem:
                         hjemme_k = self.get_k_factor(team_ratings[hjemme_code], team_games[hjemme_code])
                         ude_k = self.get_k_factor(team_ratings[ude_code], team_games[ude_code])
                         
-                        # Update ratings with ADDITIONAL AMPLIFICATION FACTOR
-                        AMPLIFICATION_FACTOR = 3.0  # 🚀 TREDOBLER alle rating ændringer!
+                        # Update ratings with a more moderate AMPLIFICATION FACTOR
+                        AMPLIFICATION_FACTOR = 2.0  # JUSTERET fra 3.0 til 2.0 for mere stabilitet
                         
                         hjemme_change = hjemme_k * goal_factor * (hjemme_score - hjemme_expected) * AMPLIFICATION_FACTOR
                         ude_change = ude_k * goal_factor * (ude_score - ude_expected) * AMPLIFICATION_FACTOR

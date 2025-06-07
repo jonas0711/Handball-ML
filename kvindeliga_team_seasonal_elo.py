@@ -43,6 +43,9 @@ from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
 
+# Import specific Kvindeliga mappings
+from team_config import KVINDELIGA_TEAMS, KVINDELIGA_NAME_MAPPINGS
+
 # === FORBEDRET KVINDELIGA TEAM SYSTEM PARAMETRE ===
 BASE_TEAM_RATING = 1400           # Base rating for teams (højere end spillere)
 HOME_ADVANTAGE = 75               # Hjemmebane fordel i ELO points
@@ -58,120 +61,9 @@ K_FACTORS = {
     'elite': 35          # ØGET fra 15 - selv elite hold kan ændre sig betydeligt
 }
 
-# Kvindeliga team koder og navne
-KVINDELIGA_TEAMS = {
-    'AHB': 'Aarhus Håndbold Kvinder',
-    'BFH': 'Bjerringbro FH',
-    'EHA': 'EH Aalborg',
-    'HHE': 'Horsens Håndbold Elite',
-    'IKA': 'Ikast Håndbold',
-    'KBH': 'København Håndbold',
-    'NFH': 'Nykøbing F. Håndbold',
-    'ODE': 'Odense Håndbold',
-    'RIN': 'Ringkøbing Håndbold',
-    'SVK': 'Silkeborg-Voel KFUM',
-    'SKB': 'Skanderborg Håndbold',
-    'SJE': 'SønderjyskE Kvindehåndbold',
-    'TES': 'Team Esbjerg',
-    'VHK': 'Viborg HK',
-    'TMS': 'TMS Ringsted',
-    # EKSTRA TEAMS FUNDET I DATA
-    'VEN': 'Vendsyssel Håndbold',
-    'RAN': 'Randers HK',
-    'HOL': 'Holstebro Håndbold',
-    'AJA': 'Ajax København'  # Separat hold - ikke tilknyttet København Håndbold
-}
+# Kvindeliga team koder og navne er nu importeret fra team_config.py
 
-# FORBEDRET TEAM MAPPING SYSTEM - håndterer navnevariationer på tværs af sæsoner
-TEAM_NAME_MAPPINGS = {
-    # Aarhus variationer (KRITISK)
-    'aarhus united': 'AHB',
-    'aarhus håndbold kvinder': 'AHB',
-    'aarhus håndbold': 'AHB',
-    'aarhus': 'AHB',
-    
-    # Bjerringbro FH
-    'bjerringbro fh': 'BFH',
-    'bjerringbro': 'BFH',
-    
-    # EH Aalborg
-    'eh aalborg': 'EHA',
-    'eh aalborg kvinder': 'EHA',
-    
-    # Horsens Håndbold Elite
-    'horsens håndbold elite': 'HHE',
-    'horsens': 'HHE',
-    
-    # Ikast Håndbold
-    'ikast håndbold': 'IKA',
-    'ikast': 'IKA',
-    
-    # København variationer (KRITISK)
-    'ajax københavn': 'AJA',  # Ajax København (EGET SELVSTÆNDIGT HOLD siden 1934)
-    'københavn håndbold': 'KBH',
-    'fc københavn': 'KBH',
-    'københavn': 'KBH',
-    
-    # Nykøbing F. variationer (KRITISK)
-    'nykøbing f. håndbold': 'NFH',
-    'nykøbing f. håndboldklub': 'NFH',
-    'nykøbing f.': 'NFH',
-    'nykøbing': 'NFH',
-    
-    # Odense Håndbold
-    'odense håndbold': 'ODE',
-    'odense': 'ODE',
-    
-    # Ringkøbing Håndbold
-    'ringkøbing håndbold': 'RIN',
-    'ringkøbing': 'RIN',
-    
-    # Silkeborg-Voel KFUM variationer (KRITISK)
-    'silkeborg-voel kfum': 'SVK',
-    'voel kfum': 'SVK',
-    'silkeborg voel': 'SVK',
-    'voel': 'SVK',
-    
-    # Skanderborg Håndbold
-    'skanderborg håndbold': 'SKB',
-    'skanderborg': 'SKB',
-    
-    # SønderjyskE variationer (KRITISK)
-    'sønderjyske': 'SJE',
-    'sønderjyske kvindehåndbold': 'SJE',
-    'sønderjyske kvinder': 'SJE',
-    'sønderjyske håndbold': 'SJE',
-    
-    # Team Esbjerg
-    'team esbjerg': 'TES',
-    'esbjerg': 'TES',
-    
-    # Viborg HK
-    'viborg hk': 'VHK',
-    'viborg': 'VHK',
-    
-    # TMS Ringsted
-    'tms ringsted': 'TMS',
-    'tms': 'TMS',
-    'ringsted': 'TMS',
-    
-    # EKSTRA MAPPINGS BASERET PÅ UNMAPPED TEAMS  
-    # Vendsyssel Håndbold
-    'vendsyssel håndbold': 'VEN',
-    'vendsyssel': 'VEN',
-    
-    # Randers HK
-    'randers hk': 'RAN',
-    'randers': 'RAN',
-    
-    # Holstebro Håndbold
-    'holstebro håndbold': 'HOL',
-    'holstebro': 'HOL',
-    
-    # FC Midtjylland (2017-2018) - BLEV TIL IKAST HÅNDBOLD
-    'fc midtjylland': 'IKA',  # FC Midtjylland var forgænger til nuværende Ikast Håndbold
-    'midtjylland': 'IKA'
-}
+# FORBEDRET TEAM MAPPING SYSTEM er nu importeret fra team_config.py
 
 class KvindeligaTeamSeasonalEloSystem:
     """
@@ -228,30 +120,24 @@ class KvindeligaTeamSeasonalEloSystem:
         
     def get_team_code_from_name(self, team_name: str) -> str:
         """
-        FORBEDRET TEAM CODE FINDER - håndterer navnevariationer på tværs af sæsoner
+        REFACTORED: Uses the dedicated KVINDELIGA_NAME_MAPPINGS for accuracy.
         """
         if not team_name:
             return "UNK"
-            
-        team_name_lower = team_name.lower().strip()
+
+        clean_name = team_name.strip().lower()
         
-        # First try exact mapping
-        if team_name_lower in TEAM_NAME_MAPPINGS:
-            return TEAM_NAME_MAPPINGS[team_name_lower]
-            
-        # Then try partial matching
-        for mapping_name, code in TEAM_NAME_MAPPINGS.items():
-            if mapping_name in team_name_lower or team_name_lower in mapping_name:
+        # Direct lookup in the Kvindeliga-specific mapping
+        if clean_name in KVINDELIGA_NAME_MAPPINGS:
+            return KVINDELIGA_NAME_MAPPINGS[clean_name]
+
+        # Fallback search through keys
+        for key, code in KVINDELIGA_NAME_MAPPINGS.items():
+            if key in clean_name:
                 return code
-                
-        # Legacy fallback - try original method
-        for code, name in KVINDELIGA_TEAMS.items():
-            if name.lower() in team_name_lower or team_name_lower in name.lower():
-                return code
-                
-        # Final fallback
+    
         print(f"⚠️ UNMAPPED KVINDELIGA TEAM: '{team_name}'")
-        return team_name[:3].upper()
+        return "UNK"
         
     def calculate_expected_score(self, team_a_rating: float, team_b_rating: float, 
                                is_home: bool = False) -> float:
@@ -377,8 +263,8 @@ class KvindeligaTeamSeasonalEloSystem:
                         hjemme_k = self.get_k_factor(team_ratings[hjemme_code], team_games[hjemme_code])
                         ude_k = self.get_k_factor(team_ratings[ude_code], team_games[ude_code])
                         
-                        # Update ratings with ADDITIONAL AMPLIFICATION FACTOR
-                        AMPLIFICATION_FACTOR = 3.0  # 🚀 TREDOBLER alle rating ændringer!
+                        # Update ratings with a more moderate AMPLIFICATION FACTOR
+                        AMPLIFICATION_FACTOR = 2.0  # JUSTERET fra 3.0 til 2.0 for mere stabilitet
                         
                         hjemme_change = hjemme_k * goal_factor * (hjemme_score - hjemme_expected) * AMPLIFICATION_FACTOR
                         ude_change = ude_k * goal_factor * (ude_score - ude_expected) * AMPLIFICATION_FACTOR

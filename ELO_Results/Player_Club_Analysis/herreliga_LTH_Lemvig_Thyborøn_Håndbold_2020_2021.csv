@@ -1,0 +1,19 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Jonas LANGERHUUS,LTH,Lemvig-Thyborøn Håndbold,1371.1,24,PL,False,NORMAL,105.8
+Mark NIKOLAJSEN,LTH,Lemvig-Thyborøn Håndbold,1343.5,20,PL,False,NORMAL,106.0
+Jesper KOKHOLM,LTH,Lemvig-Thyborøn Håndbold,1318.4,26,HF,False,NORMAL,91.0
+Jacob ØSTERGAARD,LTH,Lemvig-Thyborøn Håndbold,1313.8,12,ST,False,NORMAL,17.0
+Rasmus PORUP,LTH,Lemvig-Thyborøn Håndbold,1300.1,20,PL,False,NORMAL,89.7
+Frederik IVERSEN,LTH,Lemvig-Thyborøn Håndbold,1263.3,16,VF,False,NORMAL,54.9
+Christian Sabroe HOLM,LTH,Lemvig-Thyborøn Håndbold,1250.9,7,PL,False,NORMAL,9.3
+Søren NØRGAARD,LTH,Lemvig-Thyborøn Håndbold,1226.7,11,VF,False,NORMAL,37.0
+Niels LINDHOLT,LTH,Lemvig-Thyborøn Håndbold,1215.0,17,ST,False,NORMAL,56.1
+Nicolai Pugholm HVID,LTH,Lemvig-Thyborøn Håndbold,1205.2,13,ST,False,NORMAL,28.8
+Mads Thymann HANSEN,LTH,Lemvig-Thyborøn Håndbold,1160.7,24,PL,False,NORMAL,145.7
+Nicolaj Kjær SPANGGAARD,LTH,Lemvig-Thyborøn Håndbold,1084.1,25,PL,False,NORMAL,69.1
+Thomas Bohl DAMGAARD,LTH,Lemvig-Thyborøn Håndbold,1074.1,24,PL,False,NORMAL,59.1
+Mikkel SANDHOLM,LTH,Lemvig-Thyborøn Håndbold,1056.5,17,HF,False,NORMAL,41.5
+Pelle SCHILLING,LTH,Lemvig-Thyborøn Håndbold,1044.4,10,VF,False,NORMAL,29.4
+Sasser SONN,LTH,Lemvig-Thyborøn Håndbold,1029.4,9,ST,False,NORMAL,14.4
+Ronnie Schmidt NICOLAISEN,LTH,Lemvig-Thyborøn Håndbold,1023.9,2,MV,True,NORMAL,8.9
+Shadrach-Amie NSONI,LTH,Lemvig-Thyborøn Håndbold,1012.4,3,MV,True,NORMAL,-2.6

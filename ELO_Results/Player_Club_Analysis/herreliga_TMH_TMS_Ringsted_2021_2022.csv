@@ -1,0 +1,16 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Mark NIKOLAJSEN,TMH,TMS Ringsted,1504.4,26,PL,False,NORMAL,136.9
+Martin Risom CHRISTENSEN,TMH,TMS Ringsted,1250.8,28,HB,False,NORMAL,142.4
+Oliver Klarskov KNUDSEN,TMH,TMS Ringsted,1212.9,23,PL,False,NORMAL,85.6
+Oskar Vind RASMUSSEN,TMH,TMS Ringsted,1191.0,28,HF,False,NORMAL,97.3
+Oliver Sonne WOSNIAK,TMH,TMS Ringsted,1171.7,10,PL,False,NORMAL,24.8
+Lauritz LEGÉR,TMH,TMS Ringsted,1160.2,25,PL,False,NORMAL,76.1
+Tobias LANTZ-PEDERSEN,TMH,TMS Ringsted,1153.0,5,MV,True,NORMAL,0.4
+Anton BRAMMING,TMH,TMS Ringsted,1147.0,18,VF,False,NORMAL,47.9
+Pelle SCHILLING,TMH,TMS Ringsted,1142.0,17,VF,False,NORMAL,34.0
+Joachim Møller JACOBSEN,TMH,TMS Ringsted,1115.1,9,ST,False,NORMAL,10.5
+Sebastian Reimer THOR,TMH,TMS Ringsted,1107.0,17,ST,False,NORMAL,20.4
+Anders Agger PEDERSEN,TMH,TMS Ringsted,1072.8,23,ST,False,NORMAL,57.8
+Frederik Horn JAKOBSEN,TMH,TMS Ringsted,1035.9,11,VF,True,NORMAL,20.9
+Joachim Møller JAKOBSEN,TMH,TMS Ringsted,1026.8,7,ST,False,NORMAL,11.8
+Patrick BOLS,TMH,TMS Ringsted,1002.7,5,MV,True,NORMAL,-12.3

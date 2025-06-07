@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Morten BJØRNSHAUGE,SJH,SønderjyskE Herrehåndbold,1456.1,28,ST,False,NORMAL,96.8
+Andreas LANG,SJH,SønderjyskE Herrehåndbold,1453.1,28,PL,False,NORMAL,139.3
+Kristian STRANDEN,SJH,SønderjyskE Herrehåndbold,1408.4,24,VB,False,NORMAL,45.4
+Nicolaj JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1327.0,30,PL,False,NORMAL,168.2
+Alec SMIT,SJH,SønderjyskE Herrehåndbold,1277.4,19,HF,False,NORMAL,54.6
+Tobias MØLLER,SJH,SønderjyskE Herrehåndbold,1265.0,11,VF,False,NORMAL,13.3
+Kasper LARSEN,SJH,SønderjyskE Herrehåndbold,1228.0,5,MV,True,NORMAL,38.6
+August WIGER,SJH,SønderjyskE Herrehåndbold,1198.9,8,PL,False,NORMAL,21.7
+Nikolaj SVALASTOG,SJH,SønderjyskE Herrehåndbold,1183.1,24,VF,False,NORMAL,49.8
+Sebastian AUGUSTINUSSEN,SJH,SønderjyskE Herrehåndbold,1176.5,23,HF,False,NORMAL,56.6
+Tobias OLSEN,SJH,SønderjyskE Herrehåndbold,1174.2,5,PL,False,NORMAL,2.5
+Jacob BAGERSTED,SJH,SønderjyskE Herrehåndbold,1150.1,26,ST,False,NORMAL,43.6
+Oliver EGGERT,SJH,SønderjyskE Herrehåndbold,1105.0,28,PL,False,NORMAL,90.0
+Magnus HOLPERT,SJH,SønderjyskE Herrehåndbold,1024.5,9,PL,False,NORMAL,9.5
+Julius STEN,SJH,SønderjyskE Herrehåndbold,1023.9,6,MV,True,NORMAL,8.9
+Pelle SCHILLING,SJH,SønderjyskE Herrehåndbold,1023.0,4,VF,False,NORMAL,8.0

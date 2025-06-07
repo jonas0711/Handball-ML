@@ -1,0 +1,19 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Line Berggren LARSEN,SKB,Skanderborg Håndbold,1556.1,30,PL,False,NORMAL,158.5
+Mathilde STORGAARD,SKB,Skanderborg Håndbold,1367.2,13,ST,False,NORMAL,28.4
+Laura Holm ANDERSEN,SKB,Skanderborg Håndbold,1268.7,29,VF,False,NORMAL,121.8
+Emilie BECH,SKB,Skanderborg Håndbold,1245.0,17,HF,False,NORMAL,31.7
+Stine Opstrup KRISTENSEN,SKB,Skanderborg Håndbold,1228.2,10,VF,False,NORMAL,36.6
+Verona REXHEPI,SKB,Skanderborg Håndbold,1188.3,26,PL,False,NORMAL,46.4
+Anna VENG,SKB,Skanderborg Håndbold,1167.3,10,MV,True,NORMAL,8.5
+Henriette HANSEN,SKB,Skanderborg Håndbold,1161.3,27,HF,False,NORMAL,146.3
+Sarah Vest KIRKELØKKE,SKB,Skanderborg Håndbold,1142.1,18,ST,False,NORMAL,24.0
+Clara BANG,SKB,Skanderborg Håndbold,1138.5,22,PL,False,NORMAL,123.5
+Anne BERGGREEN,SKB,Skanderborg Håndbold,1125.4,25,HB,False,NORMAL,42.2
+Sofie SCHELDE-RASMUSSEN,SKB,Skanderborg Håndbold,1107.4,15,PL,False,NORMAL,23.1
+Sofia STENHOLT,SKB,Skanderborg Håndbold,1078.9,16,PL,False,NORMAL,63.9
+Emilie ROSBORG,SKB,Skanderborg Håndbold,1037.9,12,VF,False,NORMAL,22.9
+Filippa Nedovic LARSEN,SKB,Skanderborg Håndbold,1033.0,16,ST,False,NORMAL,18.0
+Sofia BRO,SKB,Skanderborg Håndbold,1030.2,9,PL,False,NORMAL,15.2
+Stine ALMIND,SKB,Skanderborg Håndbold,1016.8,3,MV,True,NORMAL,1.8
+Isabella MATHORNE,SKB,Skanderborg Håndbold,1013.8,2,MV,True,NORMAL,-1.2

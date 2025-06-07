@@ -1,0 +1,16 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Mattias THYNELL,KIF,KIF Kolding,1529.0,20,VB,False,NORMAL,131.2
+Chris Holm JØRGENSEN,KIF,KIF Kolding,1519.4,24,PL,False,NORMAL,116.7
+Jens PESCHARDT,KIF,KIF Kolding,1466.7,22,PL,False,NORMAL,92.5
+Martin LARSEN,KIF,KIF Kolding,1443.5,12,ST,False,NORMAL,45.8
+Andreas VÆVER,KIF,KIF Kolding,1376.9,15,VF,False,NORMAL,44.1
+Olafur GUSTAFSSON,KIF,KIF Kolding,1357.7,1,PL,False,NORMAL,-0.1
+Andreas FLODMAN,KIF,KIF Kolding,1247.2,23,HF,False,NORMAL,95.6
+Anders PETERSEN,KIF,KIF Kolding,1240.0,3,MV,True,NORMAL,12.7
+Alexander MORSTEN,KIF,KIF Kolding,1211.9,22,ST,False,NORMAL,82.7
+Rickard FRISK,KIF,KIF Kolding,1192.6,10,MV,True,NORMAL,1.2
+Benjamin B PEDERSEN,KIF,KIF Kolding,1171.4,19,ST,False,NORMAL,39.6
+Fredrik GUSTAVSSON,KIF,KIF Kolding,1037.9,11,VF,False,NORMAL,22.9
+Árni Bragi EYJÓLFSSON,KIF,KIF Kolding,1027.3,7,HF,False,NORMAL,12.3
+Troels VEJBY JØRGENSEN,KIF,KIF Kolding,1025.9,7,PL,False,NORMAL,10.9
+Rasmus DØSSING,KIF,KIF Kolding,1014.6,1,MV,True,NORMAL,-0.4

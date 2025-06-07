@@ -1,0 +1,15 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Nikolaj Øris NIELSEN,BSH,Bjerringbro-Silkeborg,1531.3,24,PL,False,NORMAL,131.0
+Nikolaj MARKUSSEN,BSH,Bjerringbro-Silkeborg,1512.2,22,PL,False,NORMAL,112.9
+Jacob LASSEN,BSH,Bjerringbro-Silkeborg,1489.3,22,PL,False,NORMAL,89.4
+Johan HANSEN,BSH,Bjerringbro-Silkeborg,1484.2,22,HF,False,NORMAL,86.1
+Sebastian SKUBE,BSH,Bjerringbro-Silkeborg,1475.7,22,PL,False,NORMAL,77.6
+Michael KNUDSEN,BSH,Bjerringbro-Silkeborg,1466.1,22,ST,False,NORMAL,66.1
+Jesper NØDDESBO,BSH,Bjerringbro-Silkeborg,1457.8,20,ST,False,NORMAL,57.6
+Mads Kjeldgaard ANDERSEN,BSH,Bjerringbro-Silkeborg,1421.2,20,PL,False,NORMAL,62.3
+Mads Øris NIELSEN,BSH,Bjerringbro-Silkeborg,1375.6,13,PL,False,NORMAL,17.0
+Kasper LARSEN,BSH,Bjerringbro-Silkeborg,1232.0,3,MV,True,NORMAL,10.6
+Klaus THOMSEN,BSH,Bjerringbro-Silkeborg,1229.0,1,PL,False,NORMAL,-0.1
+Aljosa REZAR,BSH,Bjerringbro-Silkeborg,1209.8,3,MV,True,NORMAL,5.5
+August BASKÅR PEDERSEN,BSH,Bjerringbro-Silkeborg,1169.4,20,VF,False,NORMAL,50.0
+Thrainn Orri JONSSON,BSH,Bjerringbro-Silkeborg,1020.9,5,ST,False,NORMAL,5.9

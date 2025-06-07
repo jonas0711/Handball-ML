@@ -33,8 +33,14 @@ from typing import Dict, List, Tuple, Optional
 import warnings
 warnings.filterwarnings('ignore')
 
+# Import central team configuration
+from team_config import (
+    HERRELIGA_TEAMS, KVINDELIGA_TEAMS, ALL_TEAMS,
+    HERRELIGA_NAME_MAPPINGS, KVINDELIGA_NAME_MAPPINGS,
+    SKIP_TEAMS, MIN_GAMES_FOR_TEAM_INCLUSION
+)
+
 # === SYSTEM PARAMETRE ===
-MIN_GAMES_FOR_TEAM_INCLUSION = 3    # Mindst 3 kampe for at tælle med på holdet
 MIN_PLAYERS_FOR_TEAM_RATING = 5     # Mindst 5 spillere for at beregne hold rating
 
 # VÆGTNINGSFAKTORER FOR POSITIONER
@@ -48,293 +54,7 @@ POSITION_WEIGHTS = {
     'HB': 0.95   # Højre back
 }
 
-# === TEAM MAPPINGS ===
-# Extended team mappings from existing team ELO systems
-
-# Teams to skip during processing (problematic or invalid codes)
-SKIP_TEAMS = {
-    'UNKNOWN',  # Generic unknown team entries
-    'NULL',     # Null entries
-    'N/A',      # Not applicable entries
-    'HIH',      # Unknown team code appearing in older data
-    'OHC',      # Unknown team code appearing in older data  
-    'RHK'       # Unknown team code appearing in older data
-}
-
-# Herreliga team mappings - FIXED: SJE removed, separate codes added
-HERRELIGA_TEAMS = {
-    'AAH': 'Aalborg Håndbold',
-    'BSH': 'Bjerringbro-Silkeborg',
-    'FHK': 'Fredericia Håndbold Klub',
-    'GIF': 'Grindsted GIF Håndbold',
-    'GOG': 'GOG',
-    'KIF': 'KIF Kolding',
-    'MTH': 'Mors-Thy Håndbold',
-    'NSH': 'Nordsjælland Håndbold',
-    'REH': 'Ribe-Esbjerg HH',
-    'SAH': 'SAH - Skanderborg AGF',
-    'SKH': 'Skjern Håndbold',
-    'SJH': 'SønderjyskE Herrehåndbold',    # FIXED: New code for men's team
-    'TTH': 'TTH Holstebro',
-    'TMH': 'TMS Ringsted',                # FIXED: New code for men's team
-    'LTH': 'Lemvig-Thyborøn Håndbold',
-    'ARH': 'Århus Håndbold',
-    'SKI': 'Skive fH',
-    'AJH': 'Ajax København',              # FIXED: New code for men's team
-    'HØJ': 'HØJ Elite',
-    'HCM': 'HC Midtjylland',
-    'TSY': 'Team Sydhavsøerne',
-    'TMT': 'TM Tønder Håndbold',
-    # NEW MAPPINGS FOR UNMAPPED TEAMS
-    'AAU': 'Aalborg Universitet Håndbold',  # Aalborg Universitet
-    'AJX': 'Ajax København',                # Ajax København (forkortelse)
-    'SFH': 'Silkeborg fH',                  # Silkeborg fH
-    'VF': 'Vendsyssel F',                   # Vendsyssel F (forkortelse)
-}
-
-# Kvindeliga team mappings - FIXED: SJE changed to SJK, separate codes added
-KVINDELIGA_TEAMS = {
-    'AHB': 'Aarhus Håndbold Kvinder',
-    'BFH': 'Bjerringbro FH',
-    'EHA': 'EH Aalborg',
-    'HHE': 'Horsens Håndbold Elite',
-    'IKA': 'Ikast Håndbold',
-    'KBH': 'København Håndbold',
-    'NFH': 'Nykøbing F. Håndbold',
-    'ODE': 'Odense Håndbold',
-    'RIN': 'Ringkøbing Håndbold',
-    'SVK': 'Silkeborg-Voel KFUM',
-    'SKB': 'Skanderborg Håndbold',
-    'SJK': 'SønderjyskE Kvindehåndbold',    # FIXED: New code for women's team
-    'TES': 'Team Esbjerg',
-    'VHK': 'Viborg HK',
-    'TMK': 'TMS Ringsted',                 # FIXED: New code for women's team
-    'VEN': 'Vendsyssel Håndbold',
-    'RAN': 'Randers HK',
-    'HOL': 'Holstebro Håndbold',
-    'AJK': 'Ajax København',               # FIXED: New code for women's team
-    # NEW MAPPINGS FOR UNMAPPED TEAMS
-    'AAU': 'Aalborg Universitet Håndbold',  # Aalborg Universitet
-    'SFH': 'Silkeborg fH',                  # Silkeborg fH  
-    'VF': 'Vendsyssel F',                   # Vendsyssel F (forkortelse)
-}
-
-# Combined teams dictionary for lookup
-ALL_TEAMS = {**HERRELIGA_TEAMS, **KVINDELIGA_TEAMS}
-
-# EXTENSIVE TEAM NAME MAPPINGS for database analysis
-TEAM_NAME_MAPPINGS = {
-    # === HERRELIGA MAPPINGS ===
-    # Aalborg variationer
-    'aalborg håndbold': 'AAH',
-    'aalborg': 'AAH',
-    'aalborg universitet håndbold': 'AAU',    # NEW: Aalborg Universitet
-    'aalborg universitet': 'AAU',             # NEW
-    'aau håndbold': 'AAU',                    # NEW
-    
-    # Ajax variationer - FIXED: Gender-specific mappings
-    'ajax københavn': 'AJH',                 # Default to men's team
-    'ajax': 'AJH',                           # Default to men's team
-    'ajx': 'AJX',                            # NEW: Ajax forkortelse
-    'ajax kvindehåndbold': 'AJK',            # FIXED: Women's team
-    'ajax kvinder': 'AJK',                   # FIXED: Women's team
-    'ajax kbh kvinder': 'AJK',               # FIXED: Women's team
-    'ajax københavn kvinder': 'AJK',         # FIXED: Women's team
-    
-    # Bjerringbro-Silkeborg variationer
-    'bjerringbro-silkeborg': 'BSH',
-    'bjerringbro silkeborg': 'BSH',
-    
-    # Fredericia variationer
-    'fredericia hk': 'FHK',
-    'fredericia håndbold klub': 'FHK',
-    'fredericia håndboldklub': 'FHK',
-    'fredericia': 'FHK',
-    
-    # Grindsted variationer
-    'grindsted gif håndbold': 'GIF',
-    'grindsted gif, håndbold': 'GIF',
-    'grindsted gif': 'GIF',
-    'grindsted': 'GIF',
-    
-    # GOG
-    'gog': 'GOG',
-    
-    # KIF Kolding variationer
-    'kif kolding': 'KIF',
-    'kif kolding københavn': 'KIF',
-    'kif': 'KIF',
-    
-    # Mors-Thy Håndbold
-    'mors-thy håndbold': 'MTH',
-    'mors thy': 'MTH',
-    
-    # Nordsjælland Håndbold
-    'nordsjælland håndbold': 'NSH',
-    'nordsjælland': 'NSH',
-    
-    # Ribe-Esbjerg HH
-    'ribe-esbjerg hh': 'REH',
-    'ribe esbjerg': 'REH',
-    
-    # SAH variationer
-    'sah - skjern håndbold': 'SKH',
-    'sah – skanderborg agf': 'SAH',
-    'sah - skanderborg agf': 'SAH',
-    'skanderborg agf': 'SAH',
-    'skanderborg': 'SAH',
-    
-    # Silkeborg variationer
-    'silkeborg fh': 'SFH',                    # NEW: Silkeborg fH
-    'silkeborg': 'SFH',                       # NEW
-    'sfh': 'SFH',                             # NEW
-    
-    # Skjern Håndbold
-    'skjern håndbold': 'SKH',
-    'skjern': 'SKH',
-    
-    # SønderjyskE legacy fix - CRITICAL: Always map SJE to SJK 
-    'sje': 'SJK',                             # FIXED: Legacy SJE code always goes to Kvindeliga
-    
-    # SønderjyskE variationer - FIXED: Gender-specific mappings
-    'sønderjyske': 'SJH',                     # Default to men's team
-    'sønderjyske herrer': 'SJH',
-    'sønderjyske herrehåndbold': 'SJH', 
-    'sønderjyske håndbold': 'SJH',            # Default to men's team
-    'sønderjyskE herrehåndbold': 'SJH',       # FIXED: New men's code
-    'sønderjyskE håndbold': 'SJH',            # Default to men's team
-    'sønderjyskE kvindehåndbold': 'SJK',      # FIXED: New women's code
-    'sønderjyskE kvinder': 'SJK',             # FIXED: New women's code
-    'sønderjyske kvindehåndbold': 'SJK',      # FIXED: New women's code
-    'sønderjyske kvinder': 'SJK',             # FIXED: New women's code
-    
-    # TTH Holstebro
-    'tth holstebro': 'TTH',
-    'tth': 'TTH',
-    'holstebro': 'TTH',
-    
-    # Vendsyssel variationer
-    'vendsyssel håndbold': 'VEN',
-    'vendsyssel': 'VEN',
-    'vendsyssel f': 'VF',                     # NEW: Vendsyssel F
-    'vf': 'VF',                               # NEW
-    
-    # TMS Ringsted - FIXED: Gender-specific mappings
-    'tms ringsted': 'TMH',                    # Default to men's team
-    'tms': 'TMH',                             # Default to men's team
-    'tms ringsted kvinder': 'TMK',            # FIXED: Women's team
-    'tms kvinder': 'TMK',                     # FIXED: Women's team
-    
-    # Lemvig-Thyborøn Håndbold
-    'lemvig-thyborøn håndbold': 'LTH',
-    'lemvig thyborøn': 'LTH',
-    'lemvig': 'LTH',
-    
-    # Århus Håndbold
-    'århus håndbold': 'ARH',
-    'aarhus håndbold': 'ARH',
-    
-    # Skive fH
-    'skive fh': 'SKI',
-    'skive': 'SKI',
-    
-    # HØJ Elite
-    'høj elite': 'HØJ',
-    'høj': 'HØJ',
-    
-    # HC Midtjylland
-    'hc midtjylland': 'HCM',
-    'fc midtjylland': 'HCM',
-    'midtjylland': 'HCM',
-    
-    # Team Sydhavsøerne
-    'team sydhavsøerne': 'TSY',
-    'sydhavsøerne': 'TSY',
-    
-    # TM Tønder Håndbold
-    'tm tønder håndbold': 'TMT',
-    'tm tønder': 'TMT',
-    'tønder': 'TMT',
-    
-    # === KVINDELIGA MAPPINGS ===
-    # Aarhus variationer
-    'aarhus united': 'AHB',
-    'aarhus håndbold kvinder': 'AHB',
-    'aarhus håndbold': 'AHB',
-    'aarhus': 'AHB',
-    
-    # Ajax Kvindeliga
-    'ajax københavn kvinder': 'AJK',
-    'ajax kvinder': 'AJK',
-    'ajax kvindehåndbold': 'AJK',
-    
-    # Bjerringbro FH
-    'bjerringbro fh': 'BFH',
-    'bjerringbro': 'BFH',
-    
-    # EH Aalborg
-    'eh aalborg': 'EHA',
-    'eh aalborg kvinder': 'EHA',
-    
-    # Horsens Håndbold Elite
-    'horsens håndbold elite': 'HHE',
-    'horsens': 'HHE',
-    
-    # Ikast Håndbold
-    'ikast håndbold': 'IKA',
-    'ikast': 'IKA',
-    
-    # København variationer
-    'københavn håndbold': 'KBH',
-    'fc københavn': 'KBH',
-    'københavn': 'KBH',
-    
-    # Nykøbing F. variationer
-    'nykøbing f. håndbold': 'NFH',
-    'nykøbing f. håndboldklub': 'NFH',
-    'nykøbing f.': 'NFH',
-    'nykøbing': 'NFH',
-    
-    # Odense Håndbold
-    'odense håndbold': 'ODE',
-    'odense': 'ODE',
-    
-    # Ringkøbing Håndbold
-    'ringkøbing håndbold': 'RIN',
-    'ringkøbing': 'RIN',
-    
-    # Silkeborg-Voel KFUM variationer
-    'silkeborg-voel kfum': 'SVK',
-    'voel kfum': 'SVK',
-    'silkeborg voel': 'SVK',
-    'voel': 'SVK',
-    
-    # Skanderborg Håndbold
-    'skanderborg håndbold': 'SKB',
-    'skanderborg': 'SKB',
-    
-    # SønderjyskE Kvindeliga variationer
-    'sønderjyske kvindehåndbold': 'SJK',
-    'sønderjyske kvinder': 'SJK',
-    'sønderjyskE kvindehåndbold': 'SJK',
-    'sønderjyskE kvinder': 'SJK',
-    
-    # Team Esbjerg
-    'team esbjerg': 'TES',
-    'esbjerg': 'TES',
-    
-    # Viborg HK
-    'viborg hk': 'VHK',
-    'viborg': 'VHK',
-    
-    # Randers HK
-    'randers hk': 'RAN',
-    'randers': 'RAN',
-    
-    # Holstebro Håndbold
-    'holstebro håndbold': 'HOL',
-    'holstebro': 'HOL'
-}
+# Team-definitioner er nu importeret fra team_config.py
 
 class PlayerBasedTeamEloSystem:
     """
@@ -370,6 +90,7 @@ class PlayerBasedTeamEloSystem:
         print(f"📅 Tilgængelige sæsoner: {len(self.seasons)}")
         print(f"🎯 Min games for team inclusion: {MIN_GAMES_FOR_TEAM_INCLUSION}")
         print(f"👥 Min players for team rating: {MIN_PLAYERS_FOR_TEAM_RATING}")
+        print(f"🔀 Kontekst-baseret team-mapping er aktiv")
         
     def validate_data_availability(self):
         """Validerer at nødvendig data er tilgængelig"""
@@ -415,56 +136,42 @@ class PlayerBasedTeamEloSystem:
         self.seasons = valid_seasons
         print(f"\n📊 {len(self.seasons)} gyldige sæsoner klar til processering")
         
-    def get_team_code_from_name(self, team_name: str) -> str:
+    def get_team_code_from_name(self, team_name: str, league_context: str) -> str:
         """
-        FIXED: Mapper holdnavn til holdkode med korrekt SønderjyskE håndtering
+        REFACTORED: Selects the correct mapping dict based on league_context.
         """
         if not team_name:
             return "UNK"
-            
-        team_name_lower = team_name.lower().strip()
-        
-        # CRITICAL FIX: Handle exact "SJE" team name from database
-        if team_name_lower == 'sje' or team_name.strip() == 'SJE':
-            return 'SJK'  # Always map SJE to Kvindeliga
-        
-        # SPECIAL HANDLING for SønderjyskE - detect if it's men or women
-        if 'sønderjyske' in team_name_lower or 'sønderjyskE' in team_name:
-            if any(keyword in team_name_lower for keyword in ['kvinde', 'women', 'damer']):
-                return 'SJK'  # Kvindeliga
-            elif any(keyword in team_name_lower for keyword in ['herre', 'men', 'herrer']):
-                return 'SJH'  # Herreliga
-            else:
-                # Default legacy fallback for sønderjyske without keywords
-                return 'SJK'  # Default to women's team for historical data
-        
-        # First try exact mapping
-        if team_name_lower in TEAM_NAME_MAPPINGS:
-            code = TEAM_NAME_MAPPINGS[team_name_lower]
-            # Check if team should be skipped
-            if code in SKIP_TEAMS:
-                return "UNK"  # Return unknown for skipped teams
-            return code
-            
-        # Then try partial matching
-        for mapping_name, code in TEAM_NAME_MAPPINGS.items():
-            if code in SKIP_TEAMS:
-                continue  # Skip teams in SKIP_TEAMS
-            if mapping_name in team_name_lower or team_name_lower in mapping_name:
+
+        # Choose the correct mapping dictionary and valid team set
+        if league_context == 'herre':
+            mapping_dict = HERRELIGA_NAME_MAPPINGS
+            valid_teams = HERRELIGA_TEAMS
+        elif league_context == 'kvinde':
+            mapping_dict = KVINDELIGA_NAME_MAPPINGS
+            valid_teams = KVINDELIGA_TEAMS
+        else:
+            # Fallback if context is invalid, though this shouldn't happen
+            print(f"⚠️ Invalid league context: '{league_context}'")
+            return "UNK"
+
+        clean_name = team_name.strip().lower()
+
+        # Direct lookup in the context-specific mapping
+        if clean_name in mapping_dict:
+            code = mapping_dict[clean_name]
+            # Final check to ensure the code is valid for the league
+            if code in valid_teams:
                 return code
-                
-        # Legacy fallback
-        for code, name in ALL_TEAMS.items():
-            if code in SKIP_TEAMS:
-                continue  # Skip teams in SKIP_TEAMS
-            if name.lower() in team_name_lower or team_name_lower in name.lower():
+
+        # Fallback search
+        for key, code in mapping_dict.items():
+            if key in clean_name and code in valid_teams:
                 return code
-                
-        # Generate unknown code (but don't spam warnings for known skipped teams)
-        potential_code = team_name[:3].upper()
-        if potential_code not in SKIP_TEAMS:
-            print(f"⚠️ UNMAPPED TEAM: '{team_name}'")
-        return potential_code
+
+        # If still not found, return UNK but don't print a warning here
+        # as this function is used speculatively sometimes.
+        return "UNK"
         
     def determine_player_teams_from_database(self, season: str) -> Dict[str, str]:
         """
@@ -475,11 +182,14 @@ class PlayerBasedTeamEloSystem:
         
         player_team_games = defaultdict(lambda: defaultdict(int))  # player -> team -> games
         
-        # Process both leagues
-        for league_dir, league_name in [(self.herreliga_dir, "Herreliga"), 
+        # Process both leagues, but ensure context is passed
+        for league_dir, league_name_full in [(self.herreliga_dir, "Herreliga"), 
                                        (self.kvindeliga_dir, "Kvindeliga")]:
             season_path = os.path.join(league_dir, season)
             
+            # FIXED: Set correct short-form context
+            league_context = 'herre' if league_name_full == 'Herreliga' else 'kvinde'
+
             if not os.path.exists(season_path):
                 continue
                 
@@ -491,7 +201,16 @@ class PlayerBasedTeamEloSystem:
                 try:
                     conn = sqlite3.connect(db_path)
                     cursor = conn.cursor()
-                    
+
+                    # NY KODE: Tjek om 'match_info' tabellen eksisterer
+                    cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='match_info'")
+                    if cursor.fetchone() is None:
+                        # Hvis tabellen ikke findes, spring filen over
+                        print(f"    ⚠️ 'match_info' tabel ikke fundet i {db_file}. Skipper fil.")
+                        conn.close()
+                        continue
+                    # SLUT PÅ NY KODE
+
                     # Get match info for team names
                     cursor.execute("SELECT * FROM match_info LIMIT 1")
                     match_info = cursor.fetchone()
@@ -502,9 +221,9 @@ class PlayerBasedTeamEloSystem:
                         
                     kamp_id, hold_hjemme, hold_ude, resultat, halvleg_resultat, dato, sted, turnering = match_info
                     
-                    # Get team codes
-                    hjemme_code = self.get_team_code_from_name(hold_hjemme)
-                    ude_code = self.get_team_code_from_name(hold_ude)
+                    # Get team codes with league context
+                    hjemme_code = self.get_team_code_from_name(hold_hjemme, league_context)
+                    ude_code = self.get_team_code_from_name(hold_ude, league_context)
                     
                     # Process match events to find player-team associations
                     cursor.execute("SELECT * FROM match_events")
@@ -523,7 +242,7 @@ class PlayerBasedTeamEloSystem:
                                 elif hold == ude_code or hold == hold_ude:
                                     team_code = ude_code
                                 else:
-                                    team_code = self.get_team_code_from_name(hold) if hold else "UNK"
+                                    team_code = self.get_team_code_from_name(hold, league_context) if hold else "UNK"
                                     
                                 player_team_games[navn_1.strip()][team_code] += 1
                                 
@@ -537,30 +256,31 @@ class PlayerBasedTeamEloSystem:
                                     elif hold == ude_code or hold == hold_ude:
                                         team_code = ude_code
                                     else:
-                                        team_code = self.get_team_code_from_name(hold) if hold else "UNK"
+                                        team_code = self.get_team_code_from_name(hold, league_context) if hold else "UNK"
                                         
                                     player_team_games[navn_2.strip()][team_code] += 1
-                                    
+
                             # Goalkeeper (mv) - altid modsatte hold af primary action
                             if mv and mv.strip():
-                                # Målvogter tilhører det modsatte hold af det angivne i 'hold' feltet
+                                gk_team_code = "UNK"
+                                
                                 if hold == hjemme_code or hold == hold_hjemme:
                                     gk_team_code = ude_code
                                 elif hold == ude_code or hold == hold_ude:
                                     gk_team_code = hjemme_code
-                                else:
-                                    # Fallback
-                                    gk_team_code = hjemme_code if hold != hjemme_code else ude_code
-                                    
-                                player_team_games[mv.strip()][gk_team_code] += 1
+
+                                if gk_team_code != "UNK":
+                                    player_team_games[mv.strip()][gk_team_code] += 1
                                 
                         except Exception as e:
                             continue  # Skip problematic events
                             
                     conn.close()
                     
-                except Exception as e:
+                except sqlite3.Error as e:
                     print(f"    ⚠️ Fejl i {db_file}: {e}")
+                    if conn:
+                        conn.close()
                     continue
                     
         # Determine primary team for each player (team with most games)
@@ -568,8 +288,13 @@ class PlayerBasedTeamEloSystem:
         
         for player_name, team_games in player_team_games.items():
             if team_games:
+                # Filter out any UNK teams before finding max
+                valid_teams = {team: games for team, games in team_games.items() if team != "UNK"}
+                if not valid_teams:
+                    continue
+
                 # Find team with most games
-                primary_team = max(team_games.items(), key=lambda x: x[1])
+                primary_team = max(valid_teams.items(), key=lambda x: x[1])
                 
                 # Only include if player has enough games
                 if primary_team[1] >= MIN_GAMES_FOR_TEAM_INCLUSION:
@@ -582,12 +307,14 @@ class PlayerBasedTeamEloSystem:
         """Loader spillernes ELO ratings for en given sæson"""
         season_formatted = season.replace("-", "_")
         
-        # Try combined file first, then herreliga file
+        # Try combined file first, then league-specific files
         combined_file = os.path.join(self.player_csv_dir, f"seasonal_elo_{season_formatted}.csv")
         herreliga_file = os.path.join(self.player_csv_dir, f"herreliga_seasonal_elo_{season_formatted}.csv")
+        kvindeliga_file = os.path.join(self.player_csv_dir, f"kvindeliga_seasonal_elo_{season_formatted}.csv")
         
         dfs = []
         
+        # Load any available files
         if os.path.exists(combined_file):
             df_combined = pd.read_csv(combined_file)
             dfs.append(df_combined)
@@ -595,6 +322,10 @@ class PlayerBasedTeamEloSystem:
         if os.path.exists(herreliga_file):
             df_herreliga = pd.read_csv(herreliga_file)
             dfs.append(df_herreliga)
+            
+        if os.path.exists(kvindeliga_file):
+            df_kvindeliga = pd.read_csv(kvindeliga_file)
+            dfs.append(df_kvindeliga)
             
         if not dfs:
             print(f"  ❌ Ingen spillerdata for {season}")
@@ -925,20 +656,18 @@ class PlayerBasedTeamEloSystem:
         self.validate_data_availability()
         
         # Process each season
-        all_season_results = {}
+        self.all_season_results = {}
         
         for season in self.seasons:
             print(f"\n📅 === SÆSON {season} ===")
             season_results = self.process_season(season)
             
             if season_results:
-                all_season_results[season] = season_results
+                self.all_season_results[season] = season_results
                 self.save_season_csv(season_results, season)
             
         # Generate comparative analysis
-        if all_season_results:
-            print(f"\n📊 SAMMENLIGNENDE ANALYSE PÅ TVÆRS AF SÆSONER")
-            print("=" * 70)
+        if self.all_season_results:
             self.generate_comparative_analysis()
             
         print(f"\n\n✅ SPILLERBASERET TEAM ANALYSE KOMPLET!")
@@ -968,7 +697,7 @@ class PlayerBasedTeamEloSystem:
         
         # Summary statistics
         total_seasons = len(self.seasons)
-        total_teams_processed = sum(len(results) for results in all_season_results.values())
+        total_teams_processed = sum(len(results) for results in self.all_season_results.values())
         
         print(f"\n📈 SYSTEM STATISTIKKER:")
         print(f"  • {total_seasons} sæsoner processeret")

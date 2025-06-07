@@ -1,0 +1,16 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Henriette HANSEN,VEN,Vendsyssel Håndbold,1240.1,23,HF,False,NORMAL,72.5
+Mette BEJDER,VEN,Vendsyssel Håndbold,1103.5,25,PL,False,NORMAL,88.5
+Christina PEDERSEN,VEN,Vendsyssel Håndbold,1095.7,26,PL,False,NORMAL,80.7
+Pernille BRANDENBORG,VEN,Vendsyssel Håndbold,1085.3,25,ST,False,NORMAL,70.3
+Mette Brandt NIELSEN,VEN,Vendsyssel Håndbold,1078.3,14,ST,False,NORMAL,63.3
+Steinunn HANSDOTTIR,VEN,Vendsyssel Håndbold,1065.0,23,VF,False,NORMAL,50.0
+Sofie Hartung SLETSKOV,VEN,Vendsyssel Håndbold,1064.4,25,PL,False,NORMAL,49.4
+Ida-Louise ANDERSEN,VEN,Vendsyssel Håndbold,1047.8,12,VF,False,NORMAL,32.8
+Cecilie TERMANSEN,VEN,Vendsyssel Håndbold,1042.7,17,ST,False,NORMAL,27.7
+Frida Maag DAMGAARD,VEN,Vendsyssel Håndbold,1037.3,9,PL,False,NORMAL,22.3
+Sofie Lassen NYGAARD,VEN,Vendsyssel Håndbold,1025.4,11,PL,False,NORMAL,10.4
+Sara Jakobsen MADSEN,VEN,Vendsyssel Håndbold,1025.1,10,HB,False,NORMAL,10.1
+Ida Hyldgaard Sejr JESPERSEN,VEN,Vendsyssel Håndbold,1018.6,3,ST,False,NORMAL,3.6
+Synna LIEN,VEN,Vendsyssel Håndbold,1016.6,5,MV,True,NORMAL,1.6
+Elin THORSTEINSDOTTIR,VEN,Vendsyssel Håndbold,1014.5,8,MV,True,NORMAL,-0.5

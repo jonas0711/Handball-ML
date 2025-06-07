@@ -1,0 +1,15 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Pelle Schilling GULDAGER,LTH,Lemvig-Thyborøn Håndbold,1367.5,14,VF,False,NORMAL,27.6
+Jørgen RASMUSSEN,LTH,Lemvig-Thyborøn Håndbold,1367.4,18,VF,False,NORMAL,62.2
+Nicolaj SPANGGAARD,LTH,Lemvig-Thyborøn Håndbold,1310.1,19,HB,False,NORMAL,33.3
+Jacob ØSTERGAARD,LTH,Lemvig-Thyborøn Håndbold,1294.7,15,ST,False,NORMAL,31.2
+Jonas LANGERHUUS,LTH,Lemvig-Thyborøn Håndbold,1262.9,23,HB,False,NORMAL,113.6
+Christian Sabroe HOLM,LTH,Lemvig-Thyborøn Håndbold,1243.3,17,VB,False,NORMAL,42.8
+Mark NIKOLAJSEN,LTH,Lemvig-Thyborøn Håndbold,1236.4,20,PL,False,NORMAL,92.7
+Jesper KOKHOLM,LTH,Lemvig-Thyborøn Håndbold,1229.3,24,HF,False,NORMAL,75.3
+Ronnie NICOLAISEN,LTH,Lemvig-Thyborøn Håndbold,1228.3,5,MV,True,NORMAL,-0.8
+Rasmus PORUP,LTH,Lemvig-Thyborøn Håndbold,1211.1,22,PL,False,NORMAL,85.1
+Mads THYMANN,LTH,Lemvig-Thyborøn Håndbold,1185.4,15,VB,False,NORMAL,41.4
+Mathias PORSHOLDT,LTH,Lemvig-Thyborøn Håndbold,1134.3,18,ST,False,NORMAL,29.4
+Nicolai Pugholm HVID,LTH,Lemvig-Thyborøn Håndbold,1023.9,6,ST,False,NORMAL,8.9
+Shadrach Amie NSONI,LTH,Lemvig-Thyborøn Håndbold,1016.8,1,MV,True,NORMAL,1.8

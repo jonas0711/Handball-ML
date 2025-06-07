@@ -1,0 +1,15 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Kristina JØRGENSEN,VHK,Viborg HK,1476.0,32,PL,False,NORMAL,127.3
+Carin STRÖMBERG,VHK,Viborg HK,1397.7,32,PL,False,NORMAL,63.8
+Line HAUGSTED,VHK,Viborg HK,1385.3,29,PL,False,NORMAL,85.3
+Ann Grete NØRGAARD,VHK,Viborg HK,1357.8,29,VF,False,NORMAL,66.1
+Line UNO,VHK,Viborg HK,1353.4,21,PL,False,NORMAL,32.1
+Stine Bodholt NIELSEN,VHK,Viborg HK,1348.3,27,ST,False,NORMAL,59.2
+Amalie Grøn HANSEN,VHK,Viborg HK,1238.1,19,VF,False,NORMAL,27.3
+Anne-Sofie Filtenborg NIELSEN,VHK,Viborg HK,1217.2,4,HF,False,NORMAL,4.5
+Rikke POULSEN,VHK,Viborg HK,1212.5,6,MV,True,NORMAL,-0.6
+Moa HÖGDAHL,VHK,Viborg HK,1110.8,32,PL,False,NORMAL,95.8
+Stine ANDERSEN,VHK,Viborg HK,1085.1,27,HF,False,NORMAL,70.1
+Ida-Marie Moesgaard DAHL,VHK,Viborg HK,1060.0,25,ST,False,NORMAL,45.0
+Pauline BØGELUND,VHK,Viborg HK,1041.8,14,HF,False,NORMAL,26.8
+Josephine NORDSTRØM,VHK,Viborg HK,1014.7,1,MV,True,NORMAL,-0.3

@@ -1,0 +1,14 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Jesper KONRADSSON,SKH,Skjern Håndbold,1542.8,29,PL,False,NORMAL,145.1
+Eivind TANGEN,SKH,Skjern Håndbold,1535.9,30,HB,False,NORMAL,137.4
+René RASMUSSEN,SKH,Skjern Håndbold,1481.0,29,HF,False,NORMAL,80.6
+Bjarte MYRHOL,SKH,Skjern Håndbold,1463.1,17,ST,False,NORMAL,65.5
+Anders EGGERT,SKH,Skjern Håndbold,1441.3,19,VF,False,NORMAL,43.4
+Jørgen RASMUSSEN,SKH,Skjern Håndbold,1405.3,19,VF,False,NORMAL,39.9
+Jonathan STENBÄCKEN,SKH,Skjern Håndbold,1348.0,20,PL,False,NORMAL,27.1
+Elvar Örn JÓNSSON,SKH,Skjern Håndbold,1239.7,30,PL,False,NORMAL,103.4
+Robin HAUG,SKH,Skjern Håndbold,1172.6,6,MV,True,NORMAL,-4.0
+Jonathan WÜRTZ,SKH,Skjern Håndbold,1143.6,14,PL,False,NORMAL,27.7
+Jonas TIDEMAND,SKH,Skjern Håndbold,1076.3,23,ST,False,NORMAL,61.3
+Oliver NORLYK,SKH,Skjern Håndbold,1054.4,21,HB,False,NORMAL,39.4
+Svend RUGHAVE,SKH,Skjern Håndbold,1030.3,3,MV,True,NORMAL,15.3

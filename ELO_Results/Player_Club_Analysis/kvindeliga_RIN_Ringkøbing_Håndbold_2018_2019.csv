@@ -1,0 +1,18 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Natasha NOLEVSKA,RIN,Ringkøbing Håndbold,1305.1,18,HF,False,NORMAL,28.6
+Henriette HANSEN,RIN,Ringkøbing Håndbold,1256.9,25,HF,False,NORMAL,48.8
+Simone Hebsgaard RASMUSSEN,RIN,Ringkøbing Håndbold,1249.4,21,VF,False,NORMAL,36.9
+Jane MEJLVANG,RIN,Ringkøbing Håndbold,1243.3,10,PL,False,NORMAL,33.7
+Marigona HAJDARI,RIN,Ringkøbing Håndbold,1242.9,22,PL,False,NORMAL,31.6
+Stine Baun ERIKSEN,RIN,Ringkøbing Håndbold,1216.2,6,VB,False,NORMAL,7.3
+Ida Staxen LAGERBON,RIN,Ringkøbing Håndbold,1082.2,23,PL,False,NORMAL,67.2
+Michelle BRANDSTRUP,RIN,Ringkøbing Håndbold,1056.2,15,HB,False,NORMAL,41.2
+Sille THOMSEN,RIN,Ringkøbing Håndbold,1049.5,19,ST,False,NORMAL,34.5
+Camilla MAIBOM,RIN,Ringkøbing Håndbold,1037.2,7,PL,False,NORMAL,22.2
+Nicoline BERTHELSEN,RIN,Ringkøbing Håndbold,1028.5,9,PL,False,NORMAL,13.5
+Nanna Hinnerfeldt ANDERSEN,RIN,Ringkøbing Håndbold,1027.2,13,ST,False,NORMAL,12.2
+Alberte SIMONSEN,RIN,Ringkøbing Håndbold,1026.4,8,PL,False,NORMAL,11.4
+Nanna Hinnerfeldt ANDERSENAssist,RIN,Ringkøbing Håndbold,1024.4,7,ST,False,NORMAL,9.4
+Naja Nissen KRISTENSEN,RIN,Ringkøbing Håndbold,1020.7,13,VF,False,NORMAL,5.7
+Natasja CLAUSEN,RIN,Ringkøbing Håndbold,1017.9,4,MV,True,NORMAL,2.9
+Arlinda HAJDARI,RIN,Ringkøbing Håndbold,1016.6,3,HB,False,NORMAL,1.6

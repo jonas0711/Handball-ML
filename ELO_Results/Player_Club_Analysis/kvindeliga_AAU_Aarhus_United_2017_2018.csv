@@ -1,0 +1,11 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Birna BERG HARALDSDOTTIR,AAU,Aarhus United,1203.7,1,PL,False,NORMAL,3.7
+Julie PONTOPPIDAN,AAU,Aarhus United,1201.7,1,PL,False,NORMAL,1.7
+Emma MOGENSEN,AAU,Aarhus United,1201.1,1,HB,False,NORMAL,1.1
+Celine Elkjær HOLST,AAU,Aarhus United,1201.0,1,ST,False,NORMAL,1.0
+Amanda BROGAARD,AAU,Aarhus United,1200.8,1,PL,False,NORMAL,0.8
+June BØTTGER,AAU,Aarhus United,1200.8,1,VF,False,NORMAL,0.8
+Simone Cathrine PETERSEN,AAU,Aarhus United,1200.8,1,PL,False,NORMAL,0.8
+Majbritt Toft HANSEN,AAU,Aarhus United,1200.7,1,ST,False,NORMAL,0.7
+Sofie FLADER,AAU,Aarhus United,1200.6,1,HB,False,NORMAL,0.6
+Louise KRISTENSEN,AAU,Aarhus United,1199.8,1,HF,False,NORMAL,-0.2

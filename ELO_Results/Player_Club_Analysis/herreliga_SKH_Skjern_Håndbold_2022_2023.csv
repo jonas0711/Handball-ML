@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Eivind TANGEN,SKH,Skjern Håndbold,1588.1,37,PL,False,NORMAL,189.6
+Emil BERGHOLT,SKH,Skjern Håndbold,1500.6,24,ST,False,NORMAL,100.0
+Lasse UTH,SKH,Skjern Håndbold,1468.2,30,VF,False,NORMAL,66.6
+Lasse MIKKELSEN,SKH,Skjern Håndbold,1441.3,15,PL,False,NORMAL,61.3
+René RASMUSSEN,SKH,Skjern Håndbold,1430.5,19,HF,False,NORMAL,30.1
+Jørgen RASMUSSEN,SKH,Skjern Håndbold,1414.2,11,VF,False,NORMAL,13.5
+Jonathan WÜRTZ,SKH,Skjern Håndbold,1270.7,28,PL,False,NORMAL,106.8
+Oliver NORLYK,SKH,Skjern Håndbold,1267.8,31,PL,False,NORMAL,57.8
+Senjamin BURIC,SKH,Skjern Håndbold,1245.6,28,ST,False,NORMAL,93.2
+Alfred JÖNSSON,SKH,Skjern Håndbold,1211.9,31,PL,False,NORMAL,122.5
+Sveinn JÓHANNSSON,SKH,Skjern Håndbold,1186.7,4,ST,False,NORMAL,7.5
+Robin HAUG,SKH,Skjern Håndbold,1185.5,5,MV,True,NORMAL,12.4
+Jakob RASMUSSEN,SKH,Skjern Håndbold,1165.0,31,PL,False,NORMAL,80.0
+Christoffer BONDE,SKH,Skjern Håndbold,1163.3,11,MV,True,NORMAL,53.7
+Mikkel LANG,SKH,Skjern Håndbold,1143.2,12,HF,False,NORMAL,20.2
+Simen PETTERSEN,SKH,Skjern Håndbold,1134.4,36,PL,False,NORMAL,119.4

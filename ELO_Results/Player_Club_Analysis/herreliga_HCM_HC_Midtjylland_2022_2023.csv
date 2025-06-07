@@ -1,0 +1,18 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Magnus SØNNICHSEN,HCM,HC Midtjylland,1214.9,18,HF,False,NORMAL,30.2
+Valdemar HERMANSEN,HCM,HC Midtjylland,1194.2,16,ST,False,NORMAL,29.8
+Frederik SASS,HCM,HC Midtjylland,1135.7,13,VF,False,NORMAL,37.0
+Jonas LANGERHUUS,HCM,HC Midtjylland,1100.0,23,PL,False,NORMAL,85.0
+Bjarke JØRGENSEN,HCM,HC Midtjylland,1078.3,24,PL,False,NORMAL,63.3
+Kasper KVIST,HCM,HC Midtjylland,1076.9,21,VF,False,NORMAL,61.9
+Jonathan SØRENSEN,HCM,HC Midtjylland,1071.2,22,HF,False,NORMAL,56.2
+Rasmus MADSEN,HCM,HC Midtjylland,1068.8,24,PL,True,NORMAL,53.8
+Mathias NIKOLAJSEN,HCM,HC Midtjylland,1066.3,26,PL,False,NORMAL,51.3
+Rasmus GRAFFE,HCM,HC Midtjylland,1056.5,10,PL,False,NORMAL,41.5
+Mikkel MADSEN,HCM,HC Midtjylland,1055.4,18,PL,False,NORMAL,40.4
+Frederik HUMMELMOSE,HCM,HC Midtjylland,1040.2,5,MV,True,NORMAL,25.2
+Kasper DIDRIKSEN,HCM,HC Midtjylland,1037.2,14,ST,False,NORMAL,22.2
+Mathias HEDEGAARD,HCM,HC Midtjylland,1036.5,12,ST,False,NORMAL,21.5
+René VILLADSEN,HCM,HC Midtjylland,1035.2,3,MV,True,NORMAL,20.2
+Andreas THOMSEN,HCM,HC Midtjylland,1020.2,6,PL,False,NORMAL,5.2
+Jeppe KROGH,HCM,HC Midtjylland,1016.8,2,ST,False,NORMAL,1.8

@@ -1,0 +1,19 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Mie HØJLUND,ODE,Odense Håndbold,1457.2,23,PL,False,NORMAL,56.3
+Elma HALILCEVIC,ODE,Odense Håndbold,1432.0,23,VF,False,NORMAL,39.6
+Anna GRUNDTVIG,ODE,Odense Håndbold,1420.5,21,VF,False,NORMAL,36.7
+Nikita Van Der VLIET,ODE,Odense Håndbold,1326.5,22,ST,False,NORMAL,38.0
+Maren AARDAHL,ODE,Odense Håndbold,1263.8,29,ST,False,NORMAL,50.8
+Clara Skyum THOMSEN,ODE,Odense Håndbold,1219.1,23,HB,False,NORMAL,28.2
+Helena ELVER,ODE,Odense Håndbold,1207.0,29,ST,False,NORMAL,81.4
+Malin AUNE,ODE,Odense Håndbold,1159.0,28,HF,False,NORMAL,71.7
+Althea REINHARDT,ODE,Odense Håndbold,1157.4,3,MV,True,NORMAL,3.1
+Thale Rushfeldt DEILA,ODE,Odense Håndbold,1131.3,27,PL,False,NORMAL,66.9
+Yara TEN HOLTE,ODE,Odense Håndbold,1130.9,13,MV,True,NORMAL,23.5
+Ragnhild DAHL,ODE,Odense Håndbold,1070.3,29,PL,False,NORMAL,55.3
+Helene FAUSKE,ODE,Odense Håndbold,1062.6,27,PL,False,NORMAL,47.6
+Louise BURGAARD,ODE,Odense Håndbold,1062.3,23,ST,False,NORMAL,47.3
+Lysa DEFO,ODE,Odense Håndbold,1057.8,23,ST,False,NORMAL,42.8
+Andrea HANSEN,ODE,Odense Håndbold,1044.2,13,HF,False,NORMAL,29.2
+Andrea Nørklit JØRGENSEN,ODE,Odense Håndbold,1019.5,1,MV,True,NORMAL,4.5
+Katrine LUNDE,ODE,Odense Håndbold,1015.9,2,MV,True,NORMAL,0.9

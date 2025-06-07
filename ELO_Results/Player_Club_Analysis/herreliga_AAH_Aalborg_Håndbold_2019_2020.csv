@@ -1,0 +1,16 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Janus SMARÁSON,AAH,Aalborg Håndbold,1505.1,21,PL,False,NORMAL,102.2
+Tobias ELLEBÆK,AAH,Aalborg Håndbold,1475.2,23,VB,False,NORMAL,90.0
+Mark STRANDGAARD,AAH,Aalborg Håndbold,1458.6,20,HF,False,NORMAL,58.2
+Sebastian BARTHOLD,AAH,Aalborg Håndbold,1435.3,20,VF,False,NORMAL,60.1
+Omar Ingi MAGNUSSON,AAH,Aalborg Håndbold,1427.6,6,HB,False,NORMAL,26.8
+Magnus SAUGSTRUP,AAH,Aalborg Håndbold,1419.3,23,ST,False,NORMAL,66.4
+René ANTONSEN,AAH,Aalborg Håndbold,1360.5,10,ST,False,NORMAL,17.1
+Buster JUUL,AAH,Aalborg Håndbold,1278.4,17,VF,False,NORMAL,29.1
+Mikael AGGEFORS,AAH,Aalborg Håndbold,1265.5,2,MV,True,NORMAL,-0.9
+Henrik MØLLGAARD,AAH,Aalborg Håndbold,1260.0,24,PL,False,NORMAL,108.6
+Oliver Amnitzbøll NORLYK,AAH,Aalborg Håndbold,1234.5,21,HB,False,NORMAL,41.0
+Kristian SAEVERÅS,AAH,Aalborg Håndbold,1209.3,5,MV,True,NORMAL,15.1
+Benjamin JAKOBSEN,AAH,Aalborg Håndbold,1121.8,12,ST,False,NORMAL,23.1
+Mishels LIABA,AAH,Aalborg Håndbold,1059.2,13,VB,False,NORMAL,44.2
+Mads CHRISTIANSEN,AAH,Aalborg Håndbold,1051.7,21,HB,False,NORMAL,36.7

@@ -1,0 +1,16 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Nikolaj Øris NIELSEN,BSH,Bjerringbro-Silkeborg,1615.7,33,PL,False,NORMAL,215.4
+Sebastian SKUBE,BSH,Bjerringbro-Silkeborg,1526.7,33,PL,False,NORMAL,128.6
+Nikolaj MARKUSSEN,BSH,Bjerringbro-Silkeborg,1508.0,23,PL,False,NORMAL,116.7
+Jacob LASSEN,BSH,Bjerringbro-Silkeborg,1479.1,35,HB,False,NORMAL,133.3
+Michael KNUDSEN,BSH,Bjerringbro-Silkeborg,1414.0,34,ST,False,NORMAL,98.3
+Johan HANSEN,BSH,Bjerringbro-Silkeborg,1405.8,34,HF,False,NORMAL,134.2
+Jesper NØDDESBO,BSH,Bjerringbro-Silkeborg,1393.0,30,ST,False,NORMAL,97.1
+Mads Øris NIELSEN,BSH,Bjerringbro-Silkeborg,1350.7,33,PL,False,NORMAL,90.2
+Rasmus THIEMER-JENSEN,BSH,Bjerringbro-Silkeborg,1300.6,13,ST,False,NORMAL,18.1
+Stefan HUNDSTRUP,BSH,Bjerringbro-Silkeborg,1265.7,10,VF,False,NORMAL,16.7
+Jens Dolberg PLOUGSTRUP,BSH,Bjerringbro-Silkeborg,1253.8,14,PL,False,NORMAL,15.0
+Klaus THOMSEN,BSH,Bjerringbro-Silkeborg,1241.0,2,VB,False,NORMAL,1.1
+Kasper LARSEN,BSH,Bjerringbro-Silkeborg,1227.7,2,MV,True,NORMAL,-0.6
+August BASKÅR PEDERSEN,BSH,Bjerringbro-Silkeborg,1055.8,22,VF,False,NORMAL,40.8
+Aljosa REZAR,BSH,Bjerringbro-Silkeborg,1016.5,2,MV,True,NORMAL,1.5

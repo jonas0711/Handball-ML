@@ -1,0 +1,18 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Peter BALLING,TTH,TTH Holstebro,1338.8,30,HB,False,NORMAL,338.8
+Viktor ÖSTLUND,TTH,TTH Holstebro,1318.6,29,VB,False,NORMAL,318.6
+Jac KARLSSON,TTH,TTH Holstebro,1276.3,30,ST,False,NORMAL,276.3
+Magnus BRAMMING,TTH,TTH Holstebro,1269.1,25,VF,False,NORMAL,269.1
+Lars MOUSING,TTH,TTH Holstebro,1267.2,29,ST,False,NORMAL,267.2
+Martin Lysdahl HANSEN,TTH,TTH Holstebro,1261.4,30,PL,False,NORMAL,261.4
+Kasper Emil KILDELUND,TTH,TTH Holstebro,1254.8,26,HF,False,NORMAL,254.8
+Vignir SVARVARSSON,TTH,TTH Holstebro,1249.6,19,ST,False,NORMAL,249.6
+Emil SIDELMANN,TTH,TTH Holstebro,1229.5,13,VF,False,NORMAL,229.5
+Jonas PORUP,TTH,TTH Holstebro,1228.5,21,PL,False,NORMAL,228.5
+Simon Ellersgaard BIRKEFELDT,TTH,TTH Holstebro,1227.8,22,HB,False,NORMAL,227.8
+Jeppe Faurholt HAUSKOV,TTH,TTH Holstebro,1220.1,8,HF,False,NORMAL,220.1
+Simon Ellersgaard BIRKEFELDT1,TTH,TTH Holstebro,1206.8,5,ST,False,NORMAL,206.8
+Simon GADE,TTH,TTH Holstebro,1206.5,3,MV,True,NORMAL,206.5
+Anders AGGER,TTH,TTH Holstebro,1204.7,4,ST,False,NORMAL,204.7
+Torbjörn SITTRUP BERGERUD,TTH,TTH Holstebro,1202.0,5,MV,True,NORMAL,202.0
+Simon Ellersgaard BIRKEFELDTRetur,TTH,TTH Holstebro,1200.8,6,PL,False,NORMAL,200.8

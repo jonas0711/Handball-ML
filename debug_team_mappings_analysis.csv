@@ -49,14 +49,6 @@ REH,2021-2022,Ribe-Esbjerg HH,Herreliga,22,1293.2,player_based_herreliga_team_el
 REH,2022-2023,Ribe-Esbjerg HH,Herreliga,21,1345.3,player_based_herreliga_team_elo_2022_2023.csv,False,False,,Herreliga
 REH,2023-2024,Ribe-Esbjerg HH,Herreliga,18,1362.4,player_based_herreliga_team_elo_2023_2024.csv,False,False,,Herreliga
 REH,2024-2025,Ribe-Esbjerg HH,Herreliga,17,1353.4,player_based_herreliga_team_elo_2024_2025.csv,False,False,,Herreliga
-SJE,2017-2018,SønderjyskE Kvindehåndbold,Herreliga,17,1245.7,player_based_herreliga_team_elo_2017_2018.csv,False,True,Women's team in men's league,Herreliga
-SJE,2018-2019,SønderjyskE Kvindehåndbold,Herreliga,19,1293.1,player_based_herreliga_team_elo_2018_2019.csv,False,True,Women's team in men's league,Herreliga
-SJE,2019-2020,SønderjyskE Kvindehåndbold,Herreliga,19,1306.9,player_based_herreliga_team_elo_2019_2020.csv,False,True,Women's team in men's league,Herreliga
-SJE,2020-2021,SønderjyskE Kvindehåndbold,Herreliga,26,1275.3,player_based_herreliga_team_elo_2020_2021.csv,False,True,Women's team in men's league,Herreliga
-SJE,2021-2022,SønderjyskE Kvindehåndbold,Herreliga,20,1316.0,player_based_herreliga_team_elo_2021_2022.csv,False,True,Women's team in men's league,Herreliga
-SJE,2022-2023,SønderjyskE Kvindehåndbold,Herreliga,38,1311.8,player_based_herreliga_team_elo_2022_2023.csv,False,True,Women's team in men's league,Herreliga
-SJE,2023-2024,SønderjyskE Kvindehåndbold,Herreliga,37,1313.3,player_based_herreliga_team_elo_2023_2024.csv,False,True,Women's team in men's league,Herreliga
-SJE,2024-2025,SønderjyskE Kvindehåndbold,Herreliga,34,1328.1,player_based_herreliga_team_elo_2024_2025.csv,False,True,Women's team in men's league,Herreliga
 MTH,2017-2018,Mors-Thy Håndbold,Herreliga,18,1242.4,player_based_herreliga_team_elo_2017_2018.csv,False,False,,Herreliga
 MTH,2018-2019,Mors-Thy Håndbold,Herreliga,17,1282.4,player_based_herreliga_team_elo_2018_2019.csv,False,False,,Herreliga
 MTH,2019-2020,Mors-Thy Håndbold,Herreliga,20,1298.9,player_based_herreliga_team_elo_2019_2020.csv,False,False,,Herreliga
@@ -98,11 +90,11 @@ LTH,2020-2021,Lemvig-Thyborøn Håndbold,Herreliga,18,1319.0,player_based_herrel
 LTH,2021-2022,Lemvig-Thyborøn Håndbold,Herreliga,22,1302.7,player_based_herreliga_team_elo_2021_2022.csv,False,False,,Herreliga
 LTH,2022-2023,Lemvig-Thyborøn Håndbold,Herreliga,19,1336.3,player_based_herreliga_team_elo_2022_2023.csv,False,False,,Herreliga
 LTH,2023-2024,Lemvig-Thyborøn Håndbold,Herreliga,17,1313.6,player_based_herreliga_team_elo_2023_2024.csv,False,False,,Herreliga
-TMS,2018-2019,TMS Ringsted,Herreliga,19,1247.2,player_based_herreliga_team_elo_2018_2019.csv,False,False,,Herreliga
-TMS,2020-2021,TMS Ringsted,Herreliga,21,1237.4,player_based_herreliga_team_elo_2020_2021.csv,False,False,,Herreliga
-TMS,2021-2022,TMS Ringsted,Herreliga,26,1266.0,player_based_herreliga_team_elo_2021_2022.csv,False,False,,Herreliga
-TMS,2023-2024,TMS Ringsted,Herreliga,21,1270.9,player_based_herreliga_team_elo_2023_2024.csv,False,False,,Herreliga
-TMS,2024-2025,TMS Ringsted,Herreliga,20,1305.1,player_based_herreliga_team_elo_2024_2025.csv,False,False,,Herreliga
+TMH,2018-2019,TMS Ringsted,Herreliga,19,1247.2,player_based_herreliga_team_elo_2018_2019.csv,False,False,,Herreliga
+TMH,2020-2021,TMS Ringsted,Herreliga,21,1237.4,player_based_herreliga_team_elo_2020_2021.csv,False,False,,Herreliga
+TMH,2021-2022,TMS Ringsted,Herreliga,26,1266.0,player_based_herreliga_team_elo_2021_2022.csv,False,False,,Herreliga
+TMH,2023-2024,TMS Ringsted,Herreliga,21,1270.9,player_based_herreliga_team_elo_2023_2024.csv,False,False,,Herreliga
+TMH,2024-2025,TMS Ringsted,Herreliga,20,1305.1,player_based_herreliga_team_elo_2024_2025.csv,False,False,,Herreliga
 AJX,2018-2019,Ajax København,Herreliga,15,1244.0,player_based_herreliga_team_elo_2018_2019.csv,False,False,,Herreliga
 AJX,2019-2020,Ajax København,Herreliga,14,1281.0,player_based_herreliga_team_elo_2019_2020.csv,False,False,,Herreliga
 AJX,2020-2021,Ajax København,Herreliga,27,1252.6,player_based_herreliga_team_elo_2020_2021.csv,False,False,,Herreliga
@@ -122,6 +114,14 @@ SFH,2024-2025,Silkeborg fH,Herreliga,14,1274.3,player_based_herreliga_team_elo_2
 TSY,2022-2023,Team Sydhavsøerne,Herreliga,10,1214.5,player_based_herreliga_team_elo_2022_2023.csv,False,False,,Herreliga
 SAH,2024-2025,SAH - Skanderborg AGF,Herreliga,16,1360.7,player_based_herreliga_team_elo_2024_2025.csv,False,False,,Herreliga
 GIF,2024-2025,Grindsted GIF Håndbold,Herreliga,18,1274.6,player_based_herreliga_team_elo_2024_2025.csv,False,False,,Herreliga
+SJK,2017-2018,SønderjyskE Kvindehåndbold,Kvindeliga,15,1251.2,player_based_kvindeliga_team_elo_2017_2018.csv,False,False,,Kvindeliga
+SJK,2018-2019,SønderjyskE Kvindehåndbold,Kvindeliga,16,1306.6,player_based_kvindeliga_team_elo_2018_2019.csv,False,False,,Kvindeliga
+SJK,2019-2020,SønderjyskE Kvindehåndbold,Kvindeliga,17,1312.1,player_based_kvindeliga_team_elo_2019_2020.csv,False,False,,Kvindeliga
+SJK,2020-2021,SønderjyskE Kvindehåndbold,Kvindeliga,24,1276.2,player_based_kvindeliga_team_elo_2020_2021.csv,False,False,,Kvindeliga
+SJK,2021-2022,SønderjyskE Kvindehåndbold,Kvindeliga,17,1327.3,player_based_kvindeliga_team_elo_2021_2022.csv,False,False,,Kvindeliga
+SJK,2022-2023,SønderjyskE Kvindehåndbold,Kvindeliga,35,1313.0,player_based_kvindeliga_team_elo_2022_2023.csv,False,False,,Kvindeliga
+SJK,2023-2024,SønderjyskE Kvindehåndbold,Kvindeliga,34,1314.8,player_based_kvindeliga_team_elo_2023_2024.csv,False,False,,Kvindeliga
+SJK,2024-2025,SønderjyskE Kvindehåndbold,Kvindeliga,32,1329.4,player_based_kvindeliga_team_elo_2024_2025.csv,False,False,,Kvindeliga
 TES,2017-2018,Team Esbjerg,Kvindeliga,13,1222.8,player_based_kvindeliga_team_elo_2017_2018.csv,False,False,,Kvindeliga
 TES,2018-2019,Team Esbjerg,Kvindeliga,16,1261.8,player_based_kvindeliga_team_elo_2018_2019.csv,False,False,,Kvindeliga
 TES,2019-2020,Team Esbjerg,Kvindeliga,15,1299.7,player_based_kvindeliga_team_elo_2019_2020.csv,False,False,,Kvindeliga

@@ -1,0 +1,18 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Magnus Haubro JENSEN,SFH,Skive fH,1253.7,26,PL,False,NORMAL,68.9
+Tobias Svend RASMUSSEN,SFH,Skive fH,1217.7,21,PL,False,NORMAL,70.7
+Andreas Søgaard RASMUSSEN,SFH,Skive fH,1214.2,25,ST,False,NORMAL,65.5
+Malte JUSTESEN,SFH,Skive fH,1208.5,25,VF,False,NORMAL,62.6
+Nickolei JENSEN,SFH,Skive fH,1194.4,24,PL,False,NORMAL,48.3
+Magnus SØNNICHSEN,SFH,Skive fH,1180.9,21,HF,False,NORMAL,30.4
+Oliver JUHL,SFH,Skive fH,1179.3,24,HF,False,NORMAL,45.0
+Shadrach-Amie NSONI,SFH,Skive fH,1164.2,3,MV,True,NORMAL,12.6
+Mads PETER-LØNBORG,SFH,Skive fH,1097.1,28,PL,False,NORMAL,82.1
+Matias DAMGAARD,SFH,Skive fH,1069.5,25,PL,False,NORMAL,54.5
+Anders GADE,SFH,Skive fH,1056.1,19,PL,False,NORMAL,41.1
+Frederik SASS,SFH,Skive fH,1042.5,11,VF,False,NORMAL,27.5
+Benjamin HOLM,SFH,Skive fH,1041.4,15,HB,False,NORMAL,26.4
+Andreas Søgaard RASMUSSENAssist,SFH,Skive fH,1030.8,11,ST,False,NORMAL,15.8
+Andreas Bohl DAMGAARD,SFH,Skive fH,1024.0,5,PL,False,NORMAL,9.0
+Søren Tau SØRENSEN,SFH,Skive fH,1023.5,10,ST,False,NORMAL,8.5
+Magnus BRANDBYGE,SFH,Skive fH,1017.7,7,MV,True,NORMAL,2.7

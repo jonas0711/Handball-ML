@@ -1,0 +1,16 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Mads Kjeldgaard ANDERSEN,BSH,Bjerringbro-Silkeborg,1567.6,32,PL,False,NORMAL,165.9
+Nikolaj Øris NIELSEN,BSH,Bjerringbro-Silkeborg,1541.1,32,PL,False,NORMAL,140.8
+Peter BALLING,BSH,Bjerringbro-Silkeborg,1498.1,32,PL,False,NORMAL,98.8
+Alexander LYNGGAARD,BSH,Bjerringbro-Silkeborg,1357.9,30,ST,False,NORMAL,91.5
+Aksel HORGEN,BSH,Bjerringbro-Silkeborg,1293.6,21,HF,False,NORMAL,44.6
+Patrick BOLDSEN,BSH,Bjerringbro-Silkeborg,1208.9,13,HF,False,NORMAL,31.5
+Mikkel Møller LØVKVIST,BSH,Bjerringbro-Silkeborg,1206.0,7,MV,True,NORMAL,38.1
+Johan SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1200.7,8,MV,True,NORMAL,25.8
+René Toft HANSEN,BSH,Bjerringbro-Silkeborg,1172.8,9,ST,False,NORMAL,6.4
+Henrik TILSTED,BSH,Bjerringbro-Silkeborg,1171.1,20,VF,False,NORMAL,47.9
+Ludvig HALLBÄCK,BSH,Bjerringbro-Silkeborg,1167.1,30,PL,False,NORMAL,82.5
+August FRIDÉN,BSH,Bjerringbro-Silkeborg,1164.9,9,VF,False,NORMAL,23.8
+Emil JESSEN,BSH,Bjerringbro-Silkeborg,1115.2,15,PL,False,NORMAL,22.5
+Thomas SOLSTAD,BSH,Bjerringbro-Silkeborg,1064.3,20,ST,False,NORMAL,49.3
+Thomas Alfred SOLSTAD,BSH,Bjerringbro-Silkeborg,1025.9,8,ST,False,NORMAL,10.9

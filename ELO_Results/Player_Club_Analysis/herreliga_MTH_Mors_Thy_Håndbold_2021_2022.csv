@@ -1,0 +1,18 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Erik Thorsteinsen TOFT,MTH,Mors-Thy Håndbold,1593.2,32,PL,False,NORMAL,193.7
+Bjarke CHRISTENSEN,MTH,Mors-Thy Håndbold,1511.7,31,VF,False,NORMAL,108.7
+Lasse PEDERSEN,MTH,Mors-Thy Håndbold,1503.2,33,HF,False,NORMAL,103.6
+Mads Hoxer HANGAARD,MTH,Mors-Thy Håndbold,1308.4,25,HB,False,NORMAL,157.7
+Sander ØVERJORDET,MTH,Mors-Thy Håndbold,1211.1,30,PL,False,NORMAL,114.5
+Kasper LINDGREN,MTH,Mors-Thy Håndbold,1199.9,8,ST,False,NORMAL,11.0
+Viktor Siersbæk BERGHOLT,MTH,Mors-Thy Håndbold,1161.8,4,VF,False,NORMAL,11.5
+Jacob Mikkel HANSEN,MTH,Mors-Thy Håndbold,1158.3,5,HF,False,NORMAL,8.3
+Tim SØRENSEN,MTH,Mors-Thy Håndbold,1151.8,26,HF,False,NORMAL,61.7
+Rasmus BECH,MTH,Mors-Thy Håndbold,1118.3,3,MV,True,NORMAL,-3.6
+Axel FRANZÉN,MTH,Mors-Thy Håndbold,1100.9,27,ST,False,NORMAL,85.9
+Andreas Johann NIELSEN,MTH,Mors-Thy Håndbold,1054.9,24,ST,False,NORMAL,39.9
+Emil HANSSON,MTH,Mors-Thy Håndbold,1042.5,18,PL,False,NORMAL,27.5
+Marcus MIDTGAARD,MTH,Mors-Thy Håndbold,1036.6,15,PL,False,NORMAL,21.6
+Rasmus HENRIKSEN,MTH,Mors-Thy Håndbold,1035.4,9,MV,True,NORMAL,20.4
+Victor Amnitzbøll NORLYK,MTH,Mors-Thy Håndbold,1024.8,6,PL,False,NORMAL,9.8
+Jonas HERMANNSEN,MTH,Mors-Thy Håndbold,1016.8,3,ST,False,NORMAL,1.8

@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Erik Thorsteinsen TOFT,MTH,Mors-Thy Håndbold,1487.4,22,VB,False,NORMAL,87.9
+Marcus DAHLIN,MTH,Mors-Thy Håndbold,1442.7,17,HB,False,NORMAL,40.7
+Lasse PEDERSEN,MTH,Mors-Thy Håndbold,1422.8,24,HF,False,NORMAL,62.3
+Stefan NIELSEN,MTH,Mors-Thy Håndbold,1344.6,4,VB,False,NORMAL,0.8
+Allan Toft HANSEN,MTH,Mors-Thy Håndbold,1330.6,14,ST,False,NORMAL,21.6
+Jens Dolberg PLOUGSTRUP,MTH,Mors-Thy Håndbold,1323.0,23,PL,False,NORMAL,61.4
+Emil BERGHOLT,MTH,Mors-Thy Håndbold,1311.7,23,ST,False,NORMAL,74.6
+Frederik TILSTED,MTH,Mors-Thy Håndbold,1310.7,22,PL,False,NORMAL,55.0
+Jonas Gade NIELSEN,MTH,Mors-Thy Håndbold,1268.3,22,HB,False,NORMAL,69.5
+Kasper LINDGREN,MTH,Mors-Thy Håndbold,1254.4,4,ST,False,NORMAL,3.5
+Mads HOXER,MTH,Mors-Thy Håndbold,1239.9,17,HB,False,NORMAL,38.2
+Søren PEDERSEN,MTH,Mors-Thy Håndbold,1226.3,7,MV,True,NORMAL,-2.8
+Søren NØRGAARD,MTH,Mors-Thy Håndbold,1164.0,8,VF,False,NORMAL,15.7
+Jacob HESSELLUND,MTH,Mors-Thy Håndbold,1065.9,19,VF,False,NORMAL,50.9
+Nicklas Graugaard NIELSEN,MTH,Mors-Thy Håndbold,1026.0,2,MV,True,NORMAL,11.0
+Tobias RASMUSSEN,MTH,Mors-Thy Håndbold,1024.1,8,PL,False,NORMAL,9.1

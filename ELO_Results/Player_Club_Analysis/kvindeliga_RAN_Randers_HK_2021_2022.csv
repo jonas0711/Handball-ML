@@ -1,0 +1,4 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Eli RAASOK,RAN,Randers HK,1124.0,1,MV,True,NORMAL,1.0
+Stephanie ANDERSEN,RAN,Randers HK,1123.3,1,MV,True,NORMAL,-0.2
+Monika KONGSGAARD,RAN,Randers HK,1015.5,5,MV,True,NORMAL,0.5

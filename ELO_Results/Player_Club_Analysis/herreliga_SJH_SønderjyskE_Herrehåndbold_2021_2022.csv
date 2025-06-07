@@ -1,0 +1,18 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Frederik LADEFOGED,SJH,SønderjyskE Herrehåndbold,1498.6,30,ST,False,NORMAL,96.2
+Marcus DAHLIN,SJH,SønderjyskE Herrehåndbold,1448.9,19,PL,False,NORMAL,46.9
+Oliver NØDDESBO EGGERT,SJH,SønderjyskE Herrehåndbold,1435.0,21,PL,False,NORMAL,37.3
+Thomas MOGENSEN,SJH,SønderjyskE Herrehåndbold,1303.8,6,PL,False,NORMAL,13.9
+Alec SMIT,SJH,SønderjyskE Herrehåndbold,1266.0,25,HF,False,NORMAL,80.8
+Noah GAUDIN,SJH,SønderjyskE Herrehåndbold,1264.7,22,PL,False,NORMAL,123.3
+Morten BJØRNSHAUGE,SJH,SønderjyskE Herrehåndbold,1236.4,18,ST,False,NORMAL,23.4
+Kristian STRANDEN,SJH,SønderjyskE Herrehåndbold,1224.2,32,PL,False,NORMAL,126.2
+Kasper LARSEN,SJH,SønderjyskE Herrehåndbold,1207.8,6,MV,True,NORMAL,14.1
+Tobias MØLLER,SJH,SønderjyskE Herrehåndbold,1189.1,27,VF,False,NORMAL,67.1
+Sveinn JÓHANNSSON,SJH,SønderjyskE Herrehåndbold,1179.9,15,ST,False,NORMAL,34.1
+Viktor NEVERS,SJH,SønderjyskE Herrehåndbold,1171.8,16,HF,False,NORMAL,21.4
+Andreas LANG,SJH,SønderjyskE Herrehåndbold,1143.2,32,PL,False,NORMAL,128.2
+August WIGER,SJH,SønderjyskE Herrehåndbold,1083.7,25,PL,False,NORMAL,68.7
+Nikolaj SVALASTOG,SJH,SønderjyskE Herrehåndbold,1047.9,18,VF,False,NORMAL,32.9
+Malthe KRONBORG EBSEN,SJH,SønderjyskE Herrehåndbold,1016.1,2,MV,True,NORMAL,1.1
+Malthe KRONBORG,SJH,SønderjyskE Herrehåndbold,1014.1,2,MV,True,NORMAL,-0.9

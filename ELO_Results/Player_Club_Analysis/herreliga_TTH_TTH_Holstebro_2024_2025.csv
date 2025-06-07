@@ -1,0 +1,19 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Nikolaj MARKUSSEN,TTH,TTH Holstebro,1471.8,20,PL,False,NORMAL,72.5
+Miha ZVIZEJ,TTH,TTH Holstebro,1469.7,28,ST,False,NORMAL,69.3
+Magnus BRAMMING,TTH,TTH Holstebro,1455.3,21,VF,False,NORMAL,52.6
+Johan MEKLENBORG,TTH,TTH Holstebro,1426.5,10,PL,False,NORMAL,29.2
+William AAR,TTH,TTH Holstebro,1375.3,35,PL,False,NORMAL,133.1
+Christoffer CICHOSZ,TTH,TTH Holstebro,1349.4,17,ST,False,NORMAL,36.0
+Thomas DAMGAARD,TTH,TTH Holstebro,1320.1,35,PL,False,NORMAL,121.3
+Jonas PORUP,TTH,TTH Holstebro,1282.3,8,PL,False,NORMAL,5.4
+Frederik BJERRE,TTH,TTH Holstebro,1268.4,23,VF,False,NORMAL,61.3
+Kevin GULLIKSEN,TTH,TTH Holstebro,1244.5,34,HF,False,NORMAL,104.1
+Rasmus HENRIKSEN,TTH,TTH Holstebro,1190.8,1,MV,True,NORMAL,7.6
+Mathias SMED,TTH,TTH Holstebro,1183.8,2,ST,False,NORMAL,2.2
+Sander HEIEREN,TTH,TTH Holstebro,1149.0,11,MV,True,NORMAL,27.7
+Edwin ASPENBÄCK,TTH,TTH Holstebro,1120.3,29,PL,False,NORMAL,105.3
+Sven EHRIG,TTH,TTH Holstebro,1058.6,19,HF,False,NORMAL,43.6
+Frank MIKKELSEN,TTH,TTH Holstebro,1033.7,7,MV,True,NORMAL,18.7
+Sebastian ØRUM,TTH,TTH Holstebro,1030.7,12,ST,False,NORMAL,15.7
+Simon KIRKEGAARD,TTH,TTH Holstebro,1025.9,8,HF,False,NORMAL,10.9

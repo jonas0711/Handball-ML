@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Louise FØNS,KBH,København Håndbold,1404.2,14,VF,False,NORMAL,27.7
+Maria LYKKEGAARD,KBH,København Håndbold,1344.6,18,ST,False,NORMAL,29.8
+Andrea HANSEN,KBH,København Håndbold,1204.4,25,HF,False,NORMAL,55.8
+Clara SKØTT,KBH,København Håndbold,1184.9,14,HF,False,NORMAL,41.3
+Sofia HVENFELT,KBH,København Håndbold,1172.3,25,ST,False,NORMAL,60.1
+Stine JØRGENSEN,KBH,København Håndbold,1156.9,29,VB,False,NORMAL,141.9
+Pernille BRANDENBORG,KBH,København Håndbold,1154.1,14,ST,False,NORMAL,18.9
+Christina WILDBORK,KBH,København Håndbold,1142.8,4,VB,False,NORMAL,4.5
+Karoline LUND,KBH,København Håndbold,1129.4,18,PL,False,NORMAL,31.5
+Anne Christine BOSSEN,KBH,København Håndbold,1124.2,2,MV,True,NORMAL,0.4
+Silje BRØNS,KBH,København Håndbold,1106.3,27,PL,False,NORMAL,91.3
+Emma NAVNE,KBH,København Håndbold,1098.6,27,PL,False,NORMAL,83.6
+Fie WOLLER,KBH,København Håndbold,1090.3,28,VF,False,NORMAL,75.3
+Clara Skyum THOMSEN,KBH,København Håndbold,1058.7,18,HB,False,NORMAL,43.7
+Catharina MOLENAAR,KBH,København Håndbold,1034.6,18,PL,False,NORMAL,19.6
+Katharina FILTER,KBH,København Håndbold,1022.8,14,MV,True,NORMAL,7.8

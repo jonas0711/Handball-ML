@@ -1,0 +1,18 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Jacob HOLM,REH,Ribe-Esbjerg HH,1378.0,29,PL,False,NORMAL,378.0
+Lukas KARLSSON,REH,Ribe-Esbjerg HH,1365.2,27,PL,False,NORMAL,365.2
+Morten NYBERG,REH,Ribe-Esbjerg HH,1325.4,20,PL,False,NORMAL,325.4
+Miha ZVIZEJ,REH,Ribe-Esbjerg HH,1298.9,27,ST,False,NORMAL,298.9
+Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1267.5,23,HF,False,NORMAL,267.5
+Yehia ELDERAA,REH,Ribe-Esbjerg HH,1263.6,17,VB,False,NORMAL,263.6
+Pelle Schilling GULDAGER,REH,Ribe-Esbjerg HH,1259.6,19,VF,False,NORMAL,259.6
+Rasmus NIELSEN,REH,Ribe-Esbjerg HH,1257.8,19,HF,False,NORMAL,257.8
+Lasse NIKOLAJSEN,REH,Ribe-Esbjerg HH,1236.0,15,VF,False,NORMAL,236.0
+Philip HOLM,REH,Ribe-Esbjerg HH,1222.5,21,PL,False,NORMAL,222.5
+Rasmus BOYSEN,REH,Ribe-Esbjerg HH,1221.7,17,PL,True,NORMAL,221.7
+Jonas Bruus TIDEMAND,REH,Ribe-Esbjerg HH,1217.0,9,ST,False,NORMAL,217.0
+Søren Tau SØRENSEN,REH,Ribe-Esbjerg HH,1214.8,10,ST,False,NORMAL,214.8
+Kasper NIELSEN,REH,Ribe-Esbjerg HH,1200.4,1,ST,False,NORMAL,200.4
+Emil TELLERUP,REH,Ribe-Esbjerg HH,1199.9,1,MV,True,NORMAL,199.9
+Tim WINKLER,REH,Ribe-Esbjerg HH,1199.2,3,MV,True,NORMAL,199.2
+Rasmus Schmidt LIND,REH,Ribe-Esbjerg HH,1199.0,3,MV,True,NORMAL,199.0

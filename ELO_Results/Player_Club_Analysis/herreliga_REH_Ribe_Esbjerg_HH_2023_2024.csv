@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1497.0,33,HF,False,NORMAL,98.4
+Marcus MØRK,REH,Ribe-Esbjerg HH,1475.4,26,PL,False,NORMAL,72.7
+Marcus DAHLIN,REH,Ribe-Esbjerg HH,1454.3,23,HB,False,NORMAL,52.3
+Jonas LARHOLM,REH,Ribe-Esbjerg HH,1446.1,23,PL,False,NORMAL,48.4
+Morten JØRGENSEN,REH,Ribe-Esbjerg HH,1408.9,27,VF,False,NORMAL,69.8
+Andreas SØGAARD,REH,Ribe-Esbjerg HH,1328.3,38,ST,False,NORMAL,119.2
+Jakob FREDERIKSEN,REH,Ribe-Esbjerg HH,1307.6,11,HF,False,NORMAL,15.1
+Elvar ASGEIRSSON,REH,Ribe-Esbjerg HH,1277.5,33,PL,False,NORMAL,104.8
+Emil GRØNBECH,REH,Ribe-Esbjerg HH,1260.7,38,HB,False,NORMAL,130.7
+Simon BIRKEFELDT,REH,Ribe-Esbjerg HH,1246.5,20,HB,False,NORMAL,24.4
+William AAR,REH,Ribe-Esbjerg HH,1239.3,36,PL,False,NORMAL,122.7
+Jesper LINDGREN,REH,Ribe-Esbjerg HH,1183.2,3,VB,False,NORMAL,1.4
+Axel FRANZÉN,REH,Ribe-Esbjerg HH,1180.5,19,ST,False,NORMAL,29.6
+Niklas KRAFT,REH,Ribe-Esbjerg HH,1074.9,6,MV,True,NORMAL,59.9
+Ágúst BJÖRGVINSSON,REH,Ribe-Esbjerg HH,1054.0,16,MV,True,NORMAL,39.0
+Sune IVERSEN,REH,Ribe-Esbjerg HH,1037.3,13,VF,False,NORMAL,22.3

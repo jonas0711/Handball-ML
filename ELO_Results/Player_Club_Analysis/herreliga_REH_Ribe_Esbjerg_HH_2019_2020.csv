@@ -1,0 +1,15 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Miha ZVIZEJ,REH,Ribe-Esbjerg HH,1484.1,23,ST,False,NORMAL,83.7
+Lasse UTH,REH,Ribe-Esbjerg HH,1431.1,13,VF,False,NORMAL,29.5
+Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1414.7,20,HF,False,NORMAL,59.1
+Lars MOUSING,REH,Ribe-Esbjerg HH,1412.6,19,ST,False,NORMAL,48.7
+Runar KARASON,REH,Ribe-Esbjerg HH,1293.7,23,HB,False,NORMAL,143.8
+Gunnar STEINN JÓNSSON,REH,Ribe-Esbjerg HH,1229.3,22,PL,False,NORMAL,87.3
+Tim WINKLER,REH,Ribe-Esbjerg HH,1226.9,2,MV,True,NORMAL,4.5
+Kasper KVIST,REH,Ribe-Esbjerg HH,1203.4,15,VF,False,NORMAL,47.5
+Magnus SØNDENÅ,REH,Ribe-Esbjerg HH,1151.3,14,HF,False,NORMAL,26.7
+Simen Nicolay SCHØNNINGSEN,REH,Ribe-Esbjerg HH,1146.7,20,HB,False,NORMAL,39.6
+Nicolai NYGAARD,REH,Ribe-Esbjerg HH,1133.1,23,PL,False,NORMAL,118.1
+Daniel INGASON,REH,Ribe-Esbjerg HH,1031.6,9,PL,False,NORMAL,16.6
+Niels DAHL,REH,Ribe-Esbjerg HH,1024.1,9,PL,False,NORMAL,9.1
+Søren RASMUSSEN,REH,Ribe-Esbjerg HH,1017.3,4,MV,True,NORMAL,2.3

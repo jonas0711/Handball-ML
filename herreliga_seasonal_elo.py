@@ -36,6 +36,9 @@ from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
 
+# Import player aliases
+from team_config import PLAYER_NAME_ALIASES
+
 # === FORBEDREDE SYSTEM PARAMETRE ===
 BASE_RATING = 1000                 # REDUCERET fra 1200 - giver mere plads til spredning over mange sæsoner
 MIN_GAMES_FOR_FULL_CARRY = 12      # Reduceret for at flere får carry-over
@@ -71,7 +74,8 @@ class HerreligaSeasonalEloSystem:
         
         # Sæson data storage
         self.all_season_results = {}
-        self.player_career_data = defaultdict(list)
+        # NEW: Global player database for long-term ELO memory
+        self.player_career_database = {}
         self.team_season_performance = defaultdict(dict)
         
         # Available seasons
@@ -327,7 +331,11 @@ class HerreligaSeasonalEloSystem:
                             master_system.player_elos[player_name] = master_system.rating_bounds['default_goalkeeper']
             
             # Process ONLY Herreliga for this season
+            # Temporarily point master system to Herreliga directory
+            original_dir = master_system.database_dir
+            master_system.database_dir = self.herreliga_dir
             herreliga_matches = master_system.process_season_database(season)
+            master_system.database_dir = original_dir # Reset original path
             
             if herreliga_matches == 0:
                 print(f"❌ Ingen Herreliga kampe processeret for {season}")
@@ -441,6 +449,123 @@ class HerreligaSeasonalEloSystem:
         print(f"📏 Rating spread: {rating_spread:.0f} points")
         print(f"🏆 Elite spillere: {elite_count}, Legendary: {legendary_count}")
         
+    def _get_all_player_names_for_season(self, season: str) -> set:
+        """
+        Henter alle unikke spillernavne fra database-filerne for en given sæson.
+        """
+        player_names = set()
+        season_path = os.path.join(self.herreliga_dir, season)
+
+        if not os.path.exists(season_path):
+            return player_names
+
+        for db_file in os.listdir(season_path):
+            if not db_file.endswith('.db'):
+                continue
+            
+            db_path = os.path.join(season_path, db_file)
+            try:
+                conn = sqlite3.connect(db_path)
+                cursor = conn.cursor()
+                # Check if match_events table exists
+                cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='match_events';")
+                if cursor.fetchone() is None:
+                    conn.close()
+                    continue
+
+                for col in ['navn_1', 'navn_2', 'mv']:
+                    cursor.execute(f"SELECT DISTINCT {col} FROM match_events")
+                    for row in cursor.fetchall():
+                        if row[0] and isinstance(row[0], str) and row[0].strip() and row[0] not in ["Retur", "Bold erobret", "Assist", "Forårs. str."]:
+                            player_names.add(row[0].strip())
+                conn.close()
+            except Exception as e:
+                print(f"  ⚠️ Kunne ikke læse spillernavne fra {db_file}: {e}")
+                continue
+        
+        return player_names
+
+    def _normalize_and_get_canonical_name(self, name: str) -> str:
+        """
+        NEW: Normalizes a player name and resolves it to its canonical version.
+        1. Trims extra whitespace.
+        2. Resolves aliases from PLAYER_NAME_ALIASES.
+        """
+        # Trim leading/trailing and remove double spaces
+        normalized_name = " ".join(name.strip().split())
+        
+        # Check for an alias
+        return PLAYER_NAME_ALIASES.get(normalized_name, normalized_name)
+
+    def _find_player_name_mapping(self, current_names: set, previous_player_data: dict) -> dict:
+        """
+        ROBUST NAVNE-MATCHING (REVISED)
+        Connects current season names to the canonical names in the career database.
+        1. Applies normalization and aliasing to all names.
+        2. Prioritizes direct matches of canonical names.
+        3. Falls back to Levenshtein for fuzzy matching.
+        """
+        print(f"  🧠 Forsøger robust navne-matching for {len(current_names)} spillere mod karriere-databasen...")
+        mapping = {}
+        
+        # Create a set of canonical names from the career database for efficient lookup
+        canonical_career_names = {self._normalize_and_get_canonical_name(name) for name in previous_player_data.keys()}
+        
+        # --- TRIN 1: DIREKTE MATCH EFTER NORMALISERING OG ALIASING ---
+        unmatched_current = set()
+        direct_matches_found = 0
+        
+        for name in current_names:
+            canonical_name = self._normalize_and_get_canonical_name(name)
+            if canonical_name in canonical_career_names:
+                mapping[name] = canonical_name
+                direct_matches_found += 1
+            else:
+                unmatched_current.add(name)
+
+        if direct_matches_found > 0:
+            print(f"    ✅ Trin 1: Fandt {direct_matches_found} direkte matches via kanoniske navne.")
+            
+        # --- TRIN 2: LEVENSHTEIN MATCH FOR RESTERENDE (For små stavefejl) ---
+        levenshtein_matches_found = 0
+        if unmatched_current and canonical_career_names:
+            try:
+                from Levenshtein import ratio as levenshtein_ratio
+                levenshtein_available = True
+            except ImportError:
+                levenshtein_available = False
+            
+            if levenshtein_available:
+                # Sorter for determinisme
+                for curr_name in sorted(list(unmatched_current)):
+                    # Normalize current name for matching
+                    normalized_curr = " ".join(curr_name.lower().strip().split())
+                    
+                    best_match = None
+                    highest_score = 0.88 # Højere tærskel for at undgå forkerte matches
+
+                    for career_name in sorted(list(canonical_career_names)):
+                        normalized_career = " ".join(career_name.lower().strip().split())
+                        score = levenshtein_ratio(normalized_curr, normalized_career)
+                        if score > highest_score:
+                            highest_score = score
+                            best_match = career_name
+                    
+                    if best_match:
+                        mapping[curr_name] = best_match
+                        canonical_career_names.remove(best_match) # Avoid re-matching
+                        levenshtein_matches_found += 1
+                        print(f"        🤝 LEVENSHTEIN: '{curr_name}' -> '{best_match}' (Score: {highest_score:.2f})")
+        
+        if levenshtein_matches_found > 0:
+            print(f"    ✅ Trin 2: Fandt {levenshtein_matches_found} Levenshtein-baserede matches.")
+
+        total_mapped = len(mapping)
+        unmapped_count = len(current_names) - total_mapped
+        print(f"    📊 Resultat: {total_mapped} spillere mappet, {unmapped_count} nye/ukendte spillere.")
+
+        return mapping
+
     def run_complete_herreliga_analysis(self):
         """
         🚀 HOVEDFUNKTION - Kører komplet Herreliga sæson-baseret analyse
@@ -449,19 +574,25 @@ class HerreligaSeasonalEloSystem:
         print("=" * 70)
         print("🎯 KUN HERRELIGA - ULTRA-INDIVIDUELLE START RATINGS")
         
-        previous_season_data = None
+        # previous_season_data is now self.player_career_database
         
         for season in self.seasons:
             print(f"\n📅 === HERRELIGA SÆSON {season} ===")
             
-            # Calculate start ratings from previous season
+            # Calculate start ratings from the global career database
             start_ratings = {}
             
-            if previous_season_data:
-                print(f"📈 Beregner ultra-individuelle start ratings fra {len(previous_season_data)} spillere")
+            # Get all unique player names appearing in the current season's database files
+            current_season_names = self._get_all_player_names_for_season(season)
+            
+            if self.player_career_database:
+                # Map current raw names to the canonical names stored in the career database
+                name_mapping = self._find_player_name_mapping(current_season_names, self.player_career_database)
+
+                print(f"📈 Beregner ultra-individuelle start ratings for {len(current_season_names)} spillere")
                 
                 # Calculate league statistics for reference
-                prev_ratings = [data['final_rating'] for data in previous_season_data.values()]
+                prev_ratings = [data['final_rating'] for data in self.player_career_database.values()]
                 league_stats = {
                     'avg_rating': np.mean(prev_ratings) if prev_ratings else BASE_RATING,
                     'median_rating': np.median(prev_ratings) if prev_ratings else BASE_RATING,
@@ -473,65 +604,55 @@ class HerreligaSeasonalEloSystem:
                 print(f"   📊 Median: {league_stats['median_rating']:.1f}")
                 print(f"   📏 Standardafvigelse: {league_stats['std_rating']:.1f}")
                 
-                regression_stats = {'bonus': 0, 'penalty': 0, 'significant': 0, 'ultra_bonus': 0}
-                
-                for player_name, player_data in previous_season_data.items():
+                # Calculate start ratings for all players in the current season
+                for player_name in sorted(list(current_season_names)):
+                    # Find the corresponding canonical name from the career DB
+                    canonical_name = name_mapping.get(player_name)
+                    # Get the historical data for that player
+                    player_career_data = self.player_career_database.get(canonical_name) if canonical_name else None
+
                     start_rating = self.calculate_ultra_individual_start_rating(
-                        player_name, player_data, None, league_stats
+                        player_name, player_career_data, None, league_stats
                     )
                     start_ratings[player_name] = start_rating
-                    
-                    # Track regression statistics  
-                    if start_rating > BASE_RATING + 100:
-                        regression_stats['ultra_bonus'] += 1
-                    elif start_rating > BASE_RATING:
-                        regression_stats['bonus'] += 1
-                    elif start_rating < BASE_RATING:
-                        regression_stats['penalty'] += 1
-                        
-                    if abs(start_rating - player_data['final_rating']) > 75:
-                        regression_stats['significant'] += 1
-                        
-                # Calculate final spread
-                if start_ratings:
-                    min_start = min(start_ratings.values())
-                    max_start = max(start_ratings.values())
-                    start_spread = max_start - min_start
-                    
-                    print(f"📊 Ultra-individuelle start ratings oversigt:")
-                    print(f"   🚀 {regression_stats['ultra_bonus']} spillere med ultra bonus (>+100)")
-                    print(f"   ⬆️ {regression_stats['bonus']} spillere med bonus start")
-                    print(f"   ⬇️ {regression_stats['penalty']} spillere med penalty start")
-                    print(f"   🔄 {regression_stats['significant']} spillere med betydelig regression")
-                    print(f"   📏 Start rating spread: {start_spread:.0f} points ({min_start:.0f} - {max_start:.0f})")
             else:
                 print("📊 Første sæson - alle starter på base rating med positions-justeringer")
-                
+                # Even in the first season, we must normalize names
+                for player_name in sorted(list(current_season_names)):
+                    start_ratings[player_name] = self.calculate_ultra_individual_start_rating(player_name)
+
             # Run master system for this Herreliga season
             season_results = self.run_herreliga_season(season, start_ratings)
             
             if not season_results:
                 print(f"⚠️ Springer over Herreliga {season} - ingen resultater")
                 continue
-                
-            # Store results
-            self.all_season_results[season] = season_results
             
-            # Update player career data
-            for player_name, player_data in season_results.items():
-                self.player_career_data[player_name].append({
-                    'season': season,
-                    'final_rating': player_data['final_rating'],
-                    'games': player_data['games'],
-                    'position': player_data['primary_position'],
-                    'rating_change': player_data['rating_change']
-                })
+            # NEW: Consolidate season results to handle intra-season duplicates (like Marinus Munk)
+            # and update the global career database
+            canonical_season_results = {}
+            for raw_name, player_data in season_results.items():
+                canonical_name = self._normalize_and_get_canonical_name(raw_name)
+
+                # If canonical name already processed, we must merge.
+                # We prioritize the entry with more games, as it's more representative.
+                if canonical_name in canonical_season_results:
+                    if player_data['games'] > canonical_season_results[canonical_name]['games']:
+                        print(f"    🔄 Konsoliderer duplikat for '{canonical_name}': "
+                              f"beholder version med {player_data['games']} kampe.")
+                        canonical_season_results[canonical_name] = player_data
+                else:
+                    canonical_season_results[canonical_name] = player_data
             
-            # Save season CSV
+            # Update the global career database with the consolidated results
+            print(f"💾 Opdaterer karrieredatabasen med {len(canonical_season_results)} unikke spillere.")
+            self.player_career_database.update(canonical_season_results)
+            
+            # Store results for final report
+            self.all_season_results[season] = self.player_career_database.copy()
+            
+            # Save season CSV (based on the original, non-consolidated results for season-specific accuracy)
             self.save_herreliga_season_csv(season_results, season)
-            
-            # Set up for next season
-            previous_season_data = season_results
             
         print(f"\n✅ HERRELIGA ANALYSE KOMPLET!")
         print("=" * 70)

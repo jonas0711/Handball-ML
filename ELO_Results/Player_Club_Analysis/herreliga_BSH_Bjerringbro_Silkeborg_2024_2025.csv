@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Morten OLSEN,BSH,Bjerringbro-Silkeborg,1517.8,24,PL,False,NORMAL,116.7
+Peter BALLING,BSH,Bjerringbro-Silkeborg,1486.3,31,HB,True,NORMAL,87.0
+Alexander LYNGGAARD,BSH,Bjerringbro-Silkeborg,1446.6,22,ST,False,NORMAL,48.9
+Patrick BOLDSEN,BSH,Bjerringbro-Silkeborg,1347.8,29,HF,False,NORMAL,79.8
+Anders ZACHARIASSEN,BSH,Bjerringbro-Silkeborg,1299.1,29,ST,False,NORMAL,76.1
+Benjamin JAKOBSEN,BSH,Bjerringbro-Silkeborg,1235.4,7,ST,False,NORMAL,13.6
+Mads LENBROCH,BSH,Bjerringbro-Silkeborg,1228.6,25,VF,False,NORMAL,49.5
+August FRIDÉN,BSH,Bjerringbro-Silkeborg,1205.0,3,VF,False,NORMAL,1.4
+Kasper LARSEN,BSH,Bjerringbro-Silkeborg,1201.8,2,MV,True,NORMAL,6.0
+Rasmus LAUGE,BSH,Bjerringbro-Silkeborg,1200.4,14,PL,False,NORMAL,70.1
+René Toft HANSEN,BSH,Bjerringbro-Silkeborg,1190.3,5,ST,False,NORMAL,7.8
+Mikkel LØVKVIST,BSH,Bjerringbro-Silkeborg,1185.9,8,MV,True,NORMAL,34.5
+Magnus RAHBEK,BSH,Bjerringbro-Silkeborg,1179.3,27,PL,False,NORMAL,62.4
+Nikolaj LÆSØ,BSH,Bjerringbro-Silkeborg,1131.3,32,PL,False,NORMAL,116.3
+Lasse SUNDE LID,BSH,Bjerringbro-Silkeborg,1041.3,16,HB,False,NORMAL,26.3
+Gudmundur Bragi ASTPARSSON,BSH,Bjerringbro-Silkeborg,1028.9,11,PL,False,NORMAL,13.9

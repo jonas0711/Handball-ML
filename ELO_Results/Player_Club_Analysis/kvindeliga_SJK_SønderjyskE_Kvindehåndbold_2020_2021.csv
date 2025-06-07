@@ -1,0 +1,9 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Pernille JOHANNSEN,SJK,SønderjyskE Kvindehåndbold,1283.9,1,HF,False,NORMAL,3.4
+Lene ØSTERGAARD,SJK,SønderjyskE Kvindehåndbold,1214.1,4,PL,False,NORMAL,14.1
+Camilla AASTRUP,SJK,SønderjyskE Kvindehåndbold,1204.4,1,ST,False,NORMAL,4.4
+Celina Hehnel HANSEN,SJK,SønderjyskE Kvindehåndbold,1203.3,1,HF,False,NORMAL,3.3
+Sofie SCHELDE-RASMUSSEN13,SJK,SønderjyskE Kvindehåndbold,1201.9,1,ST,False,NORMAL,1.9
+Sofie SCHELDE-RASMUSSEN,SJK,SønderjyskE Kvindehåndbold,1201.7,1,PL,False,NORMAL,1.7
+Alberte Stenderup RASMUSSEN,SJK,SønderjyskE Kvindehåndbold,1201.6,1,MV,True,NORMAL,1.6
+Jackie MORENO,SJK,SønderjyskE Kvindehåndbold,1200.8,1,VF,False,NORMAL,0.8

@@ -1,0 +1,18 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Line Berggren LARSEN,SKB,Skanderborg Håndbold,1487.3,28,VF,False,NORMAL,189.4
+Cecilie Mørch HANSEN,SKB,Skanderborg Håndbold,1411.1,28,PL,False,NORMAL,144.2
+Mathilde STORGAARD,SKB,Skanderborg Håndbold,1332.3,13,ST,False,NORMAL,51.5
+Melina KRISTENSEN,SKB,Skanderborg Håndbold,1325.3,26,HF,False,NORMAL,128.9
+Rikke Hoffbeck PETERSEN,SKB,Skanderborg Håndbold,1242.4,25,VF,False,NORMAL,227.4
+Emilie BECH,SKB,Skanderborg Håndbold,1209.0,24,HF,False,NORMAL,66.1
+Emma Gandrup ERNST,SKB,Skanderborg Håndbold,1197.1,5,PL,False,NORMAL,31.1
+Stine Opstrup KRISTENSEN,SKB,Skanderborg Håndbold,1191.4,25,HF,False,NORMAL,104.8
+Katrine LARSON,SKB,Skanderborg Håndbold,1179.9,4,ST,False,NORMAL,8.6
+Sofia Bro STENHOLT,SKB,Skanderborg Håndbold,1157.6,17,PL,False,NORMAL,21.8
+Emma FRIBERG,SKB,Skanderborg Håndbold,1145.6,8,MV,True,NORMAL,2.1
+Anna VENG,SKB,Skanderborg Håndbold,1137.0,5,MV,True,NORMAL,-0.8
+Steinunn HANSDOTTIR,SKB,Skanderborg Håndbold,1135.8,17,VF,False,NORMAL,22.9
+Lotte VESTERGAARD,SKB,Skanderborg Håndbold,1113.3,11,PL,False,NORMAL,9.0
+Caroline Amalie RASMUSSEN,SKB,Skanderborg Håndbold,1112.2,7,HB,False,NORMAL,8.6
+Sarah Vest KIRKELØKKE,SKB,Skanderborg Håndbold,1112.0,19,ST,False,NORMAL,22.8
+Anne BERGGREEN,SKB,Skanderborg Håndbold,1039.5,15,PL,False,NORMAL,24.5

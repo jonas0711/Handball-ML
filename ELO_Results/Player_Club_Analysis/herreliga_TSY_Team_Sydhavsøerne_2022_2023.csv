@@ -1,0 +1,11 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Lasse HØJGAARD,TSY,Team Sydhavsøerne,1320.2,2,VF,False,NORMAL,6.4
+Nicolaj JØRGENSEN,TSY,Team Sydhavsøerne,1212.4,2,PL,False,NORMAL,212.4
+Daniel SØRENSEN,TSY,Team Sydhavsøerne,1209.9,2,HF,False,NORMAL,209.9
+Kasper OLSEN,TSY,Team Sydhavsøerne,1207.5,2,VB,False,NORMAL,207.5
+Daniel Astrup PEDERSEN,TSY,Team Sydhavsøerne,1206.5,2,ST,False,NORMAL,206.5
+Nicklas Bjerre PETERSEN,TSY,Team Sydhavsøerne,1203.3,2,ST,False,NORMAL,203.3
+Lukas EICHWALD,TSY,Team Sydhavsøerne,1203.3,1,HF,False,NORMAL,203.3
+Alexander Engholm NIELSEN,TSY,Team Sydhavsøerne,1202.8,2,HB,False,NORMAL,202.8
+Niels DAHL,TSY,Team Sydhavsøerne,1201.5,1,PL,False,NORMAL,201.5
+Oliver LARSEN,TSY,Team Sydhavsøerne,1199.6,1,MV,True,NORMAL,199.6

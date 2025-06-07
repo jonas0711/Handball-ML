@@ -1,0 +1,16 @@
+team_code,team_name,total_players,avg_rating,max_rating,min_rating,total_games,avg_games_per_player,elite_players,goalkeepers,positions_represented,position_distribution
+SAH,SAH - Skanderborg AGF,12,1305.8,1546.4,1057.6,274,22.8,0,0,4,"{'PL': 6, 'VF': 2, 'HF': 1, 'ST': 3}"
+SKH,Skjern Håndbold,16,1301.1,1588.1,1134.4,353,22.1,0,2,5,"{'PL': 7, 'ST': 3, 'VF': 2, 'HF': 2, 'MV': 2}"
+AAH,Aalborg Håndbold,19,1289.7,1566.9,1020.2,375,19.7,0,2,6,"{'PL': 9, 'VF': 2, 'HF': 2, 'ST': 3, 'MV': 2, 'VB': 1}"
+TTH,TTH Holstebro,17,1281.5,1478.1,1025.8,301,17.7,0,2,6,"{'PL': 6, 'HB': 1, 'ST': 3, 'VF': 2, 'HF': 3, 'MV': 2}"
+BSH,Bjerringbro-Silkeborg,15,1250.3,1567.6,1025.9,286,19.1,0,2,5,"{'PL': 5, 'ST': 4, 'HF': 2, 'MV': 2, 'VF': 2}"
+REH,Ribe-Esbjerg HH,18,1249.9,1693.0,1022.5,324,18.0,0,2,6,"{'HB': 3, 'HF': 2, 'PL': 6, 'VF': 3, 'MV': 2, 'ST': 2}"
+FHK,Fredericia Håndbold Klub,17,1237.7,1545.6,1017.0,338,19.9,0,4,6,"{'PL': 5, 'VF': 3, 'ST': 3, 'HF': 2, 'HB': 1, 'MV': 3}"
+KIF,KIF Kolding,15,1228.2,1526.1,1048.9,329,21.9,0,2,5,"{'VF': 1, 'PL': 6, 'ST': 3, 'HF': 3, 'MV': 2}"
+ARH,Århus Håndbold,2,1224.5,1242.5,1206.5,19,9.5,0,2,1,{'MV': 2}
+SJH,SønderjyskE Herrehåndbold,17,1218.8,1427.9,1029.0,278,16.4,0,2,6,"{'VB': 1, 'PL': 6, 'ST': 3, 'HF': 3, 'VF': 2, 'MV': 2}"
+LTH,Lemvig-Thyborøn Håndbold,17,1182.9,1502.3,1016.8,313,18.4,0,2,7,"{'HF': 2, 'ST': 4, 'PL': 5, 'VF': 2, 'VB': 1, 'HB': 1, 'MV': 2}"
+GOG,GOG,17,1179.9,1459.1,1011.7,318,18.7,0,2,5,"{'PL': 8, 'VF': 2, 'HF': 2, 'ST': 3, 'MV': 2}"
+NSH,Nordsjælland Håndbold,16,1150.7,1287.6,1040.7,276,17.2,0,2,6,"{'PL': 4, 'ST': 3, 'HF': 3, 'VF': 2, 'MV': 2, 'HB': 2}"
+MTH,Mors-Thy Håndbold,19,1142.7,1475.0,1018.1,321,16.9,0,3,5,"{'HF': 2, 'ST': 4, 'PL': 8, 'MV': 3, 'VF': 2}"
+HCM,HC Midtjylland,17,1076.7,1214.9,1016.8,257,15.1,0,3,5,"{'HF': 2, 'ST': 4, 'VF': 2, 'PL': 7, 'MV': 2}"

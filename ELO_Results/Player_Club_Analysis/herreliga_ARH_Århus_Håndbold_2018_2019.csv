@@ -1,0 +1,16 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Anders Kragh MARTINUSEN,ARH,Århus Håndbold,1504.2,31,HB,False,NORMAL,124.7
+Torben PETERSEN,ARH,Århus Håndbold,1458.0,29,PL,False,NORMAL,88.0
+Sebastian HENNEBERG,ARH,Århus Håndbold,1453.0,27,PL,False,NORMAL,106.3
+Besard HAKAJ,ARH,Århus Håndbold,1408.1,31,ST,False,NORMAL,108.9
+Nikolaj LÆSØ,ARH,Århus Håndbold,1384.5,32,PL,False,NORMAL,128.6
+Nikolai Skovmand VINTHER,ARH,Århus Håndbold,1332.8,25,HF,False,NORMAL,49.4
+Tobias Torpegaard MØLLER,ARH,Århus Håndbold,1322.7,22,VF,False,NORMAL,50.8
+Fredrik Schilling SØRENSEN,ARH,Århus Håndbold,1304.0,15,VF,False,NORMAL,36.4
+Anton LAURSEN,ARH,Århus Håndbold,1252.3,7,PL,False,NORMAL,11.1
+Peter LUND,ARH,Århus Håndbold,1239.5,4,PL,False,NORMAL,3.6
+Jonas LANGERHUUS,ARH,Århus Håndbold,1087.0,24,HB,False,NORMAL,72.0
+Mads Peter LØNBORG,ARH,Århus Håndbold,1046.8,21,HF,False,NORMAL,31.8
+Kristian RAMMEL,ARH,Århus Håndbold,1036.6,14,ST,False,NORMAL,21.6
+Jens FREDSGAARD,ARH,Århus Håndbold,1017.2,2,MV,True,NORMAL,2.2
+Christoffer Hoffmann BONDE,ARH,Århus Håndbold,1014.4,1,MV,True,NORMAL,-0.6

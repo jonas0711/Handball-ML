@@ -1,0 +1,8 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Ulrik Nøddesbo EGGERT,TMT,TM Tønder Håndbold,1304.2,1,PL,False,NORMAL,3.8
+Lasse NIKOLAJSEN,TMT,TM Tønder Håndbold,1301.8,1,VF,False,NORMAL,6.0
+Lasse HAMANN-BOERITHS,TMT,TM Tønder Håndbold,1277.2,1,PL,False,NORMAL,2.4
+Rolf RAVN,TMT,TM Tønder Håndbold,1275.0,1,PL,False,NORMAL,-0.1
+Emil BERGHOLT,TMT,TM Tønder Håndbold,1269.2,1,ST,False,NORMAL,3.7
+Hans Martin ASMUSSEN,TMT,TM Tønder Håndbold,1264.8,1,ST,False,NORMAL,1.8
+Felix KASCH,TMT,TM Tønder Håndbold,1205.7,1,PL,False,NORMAL,205.7

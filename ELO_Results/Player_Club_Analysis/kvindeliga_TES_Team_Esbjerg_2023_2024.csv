@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Kristine BREISTØL,TES,Team Esbjerg,1508.4,31,PL,False,NORMAL,105.9
+Kaja Kamp NIELSEN,TES,Team Esbjerg,1473.0,35,ST,False,NORMAL,97.5
+Rikke IVERSEN,TES,Team Esbjerg,1470.2,31,ST,False,NORMAL,71.4
+Marit Røsberg JACOBSEN,TES,Team Esbjerg,1445.7,25,HF,False,NORMAL,69.8
+Henny REISTAD,TES,Team Esbjerg,1372.6,24,PL,False,NORMAL,101.3
+Nora MØRK,TES,Team Esbjerg,1298.9,29,ST,False,NORMAL,176.5
+Anne Tolstrup PETERSEN,TES,Team Esbjerg,1288.7,26,HF,False,NORMAL,67.0
+Michala MØLLER,TES,Team Esbjerg,1253.6,34,PL,False,NORMAL,89.6
+Sanna SOLBERG,TES,Team Esbjerg,1238.6,30,VF,False,NORMAL,72.9
+Caroline GADE,TES,Team Esbjerg,1164.9,6,VF,False,NORMAL,5.9
+Amalie MILLING,TES,Team Esbjerg,1161.1,2,MV,True,NORMAL,-0.6
+Anna KRISTENSEN,TES,Team Esbjerg,1156.1,7,MV,True,NORMAL,2.8
+Julie Bøe JACOBSEN,TES,Team Esbjerg,1143.7,21,PL,False,NORMAL,41.3
+Kathrine HEINDAHL,TES,Team Esbjerg,1114.7,5,ST,False,NORMAL,15.3
+Live RUSHFELDT DEILA,TES,Team Esbjerg,1046.4,20,PL,False,NORMAL,31.4
+Luciana REBELO,TES,Team Esbjerg,1024.7,11,HB,False,NORMAL,9.7

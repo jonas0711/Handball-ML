@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Martin LARSEN,AAH,Aalborg Håndbold,1474.0,63,HB,False,NORMAL,474.0
+Andreas Holst JENSEN,AAH,Aalborg Håndbold,1325.4,37,VB,False,NORMAL,325.4
+Tobias ELLEBÆK,AAH,Aalborg Håndbold,1310.3,31,VB,False,NORMAL,310.3
+Patrick WIESMACH,AAH,Aalborg Håndbold,1290.3,27,HF,False,NORMAL,290.3
+Lovro JOTIC,AAH,Aalborg Håndbold,1279.9,32,PL,False,NORMAL,279.9
+Simon Hald JENSEN,AAH,Aalborg Håndbold,1277.7,34,ST,False,NORMAL,277.7
+Janus SMARÁSON,AAH,Aalborg Håndbold,1273.9,29,PL,False,NORMAL,273.9
+Jesper Meinby PEDERSEN,AAH,Aalborg Håndbold,1255.2,24,HF,False,NORMAL,255.2
+Buster JUUL,AAH,Aalborg Håndbold,1252.0,26,VF,False,NORMAL,252.0
+Magnus SAUGSTRUP,AAH,Aalborg Håndbold,1248.8,21,ST,False,NORMAL,248.8
+Arnor ATLASON,AAH,Aalborg Håndbold,1244.2,16,ST,False,NORMAL,244.2
+René ANTONSEN,AAH,Aalborg Håndbold,1237.5,20,ST,False,NORMAL,237.5
+Sebastian BARTHOLD,AAH,Aalborg Håndbold,1228.7,18,VF,False,NORMAL,228.7
+Mikael AGGEFORS,AAH,Aalborg Håndbold,1211.6,9,MV,True,NORMAL,211.6
+Jakob HESSELLUND,AAH,Aalborg Håndbold,1209.8,8,HF,False,NORMAL,209.8
+Søren PEDERSEN,AAH,Aalborg Håndbold,1209.2,7,MV,True,NORMAL,209.2

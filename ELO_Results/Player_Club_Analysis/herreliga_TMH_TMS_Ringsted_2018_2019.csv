@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Morten NYBERG,TMH,TMS Ringsted,1528.8,26,HB,False,NORMAL,126.4
+Nicolai NØRAGER,TMH,TMS Ringsted,1141.3,26,PL,False,NORMAL,126.3
+Michael RIIS,TMH,TMS Ringsted,1116.9,19,PL,False,NORMAL,101.9
+Anders MØLLER,TMH,TMS Ringsted,1095.9,25,HF,False,NORMAL,80.9
+Benjamin B PEDERSEN,TMH,TMS Ringsted,1080.0,24,ST,False,NORMAL,65.0
+Morten Hempel JENSEN,TMH,TMS Ringsted,1076.8,24,VB,False,NORMAL,61.8
+Mads DUDEK,TMH,TMS Ringsted,1068.8,18,VF,False,NORMAL,53.8
+Lasse Sinding JENSEN,TMH,TMS Ringsted,1046.3,17,PL,False,NORMAL,31.3
+Sebastian Reimer THOR,TMH,TMS Ringsted,1046.2,17,ST,False,NORMAL,31.2
+Simon OMME,TMH,TMS Ringsted,1045.8,13,HF,False,NORMAL,30.8
+Andreas MAGAARD,TMH,TMS Ringsted,1031.1,12,ST,False,NORMAL,16.1
+Jakob J JESSEN,TMH,TMS Ringsted,1030.9,7,VF,False,NORMAL,15.9
+Anton BRAMMING,TMH,TMS Ringsted,1027.2,8,VF,False,NORMAL,12.2
+Frederik Kjær ANDERSSON,TMH,TMS Ringsted,1025.0,5,MV,True,NORMAL,10.0
+Mikkel TØNNERS,TMH,TMS Ringsted,1019.0,5,MV,True,NORMAL,4.0
+Nicklas Bertram SELVIG,TMH,TMS Ringsted,1017.9,3,PL,False,NORMAL,2.9

@@ -1,0 +1,18 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Mathias JØRGENSEN,REH,Ribe-Esbjerg HH,1488.7,27,HF,False,NORMAL,90.1
+Morten JØRGENSEN,REH,Ribe-Esbjerg HH,1450.0,20,VF,False,NORMAL,50.8
+Marcus MØRK,REH,Ribe-Esbjerg HH,1429.3,16,PL,False,NORMAL,26.6
+Andreas SØGAARD,REH,Ribe-Esbjerg HH,1409.2,27,ST,False,NORMAL,74.7
+Alfred JÖNSSON,REH,Ribe-Esbjerg HH,1386.5,29,PL,False,NORMAL,124.1
+Elvar ASGEIRSSON,REH,Ribe-Esbjerg HH,1356.9,26,PL,False,NORMAL,71.6
+Nicolaj SPANGGAARD,REH,Ribe-Esbjerg HH,1326.7,29,PL,False,NORMAL,79.1
+Simon BIRKEFELDT,REH,Ribe-Esbjerg HH,1241.5,5,PL,False,NORMAL,2.4
+Jonathan WÜRTZ,REH,Ribe-Esbjerg HH,1221.6,18,PL,False,NORMAL,19.6
+Axel FRANZÉN,REH,Ribe-Esbjerg HH,1201.7,13,ST,False,NORMAL,22.8
+Christian TERMANSEN,REH,Ribe-Esbjerg HH,1199.1,15,PL,False,NORMAL,21.0
+Mads LAURIDSEN,REH,Ribe-Esbjerg HH,1160.9,6,HF,False,NORMAL,8.4
+Niklas KRAFT,REH,Ribe-Esbjerg HH,1152.2,4,MV,True,NORMAL,6.9
+Ágúst BJÖRGVINSSON,REH,Ribe-Esbjerg HH,1124.9,11,MV,True,NORMAL,6.2
+Sune IVERSEN,REH,Ribe-Esbjerg HH,1117.5,11,VF,False,NORMAL,24.4
+Karl WALLINIUS,REH,Ribe-Esbjerg HH,1085.0,19,PL,False,NORMAL,70.0
+Andre Sindre AHO,REH,Ribe-Esbjerg HH,1057.1,12,ST,False,NORMAL,42.1

@@ -1,0 +1,9 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Emma FRIBERG,RIN,Ringkøbing Håndbold,1203.0,1,MV,True,NORMAL,3.0
+Louise Gundesbøl SØRENSEN,RIN,Ringkøbing Håndbold,1201.2,1,HF,False,NORMAL,1.2
+Henriette HANSEN,RIN,Ringkøbing Håndbold,1200.8,1,HF,False,NORMAL,0.8
+Marigona HAJDARI,RIN,Ringkøbing Håndbold,1200.6,1,VB,False,NORMAL,0.6
+Jane MEJLVANG,RIN,Ringkøbing Håndbold,1200.4,1,HB,False,NORMAL,0.4
+Simone Hebsgaard RASMUSSEN,RIN,Ringkøbing Håndbold,1200.3,1,VB,False,NORMAL,0.3
+Stine Baun ERIKSEN,RIN,Ringkøbing Håndbold,1199.9,1,VB,False,NORMAL,-0.1
+Daniella DRAGOJEVIC,RIN,Ringkøbing Håndbold,1199.9,1,PL,False,NORMAL,-0.1

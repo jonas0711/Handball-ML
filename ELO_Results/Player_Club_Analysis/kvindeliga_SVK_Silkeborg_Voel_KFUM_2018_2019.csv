@@ -1,0 +1,17 @@
+player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
+Sofie Bæk ANDERSEN,SVK,Silkeborg-Voel KFUM,1335.6,29,PL,False,NORMAL,117.8
+Rikke IVERSEN,SVK,Silkeborg-Voel KFUM,1285.0,27,ST,False,NORMAL,72.4
+Lea HANSEN,SVK,Silkeborg-Voel KFUM,1273.1,24,HF,False,NORMAL,59.6
+Emilie Ytting PEDERSEN,SVK,Silkeborg-Voel KFUM,1267.5,25,VF,False,NORMAL,54.7
+Helene KINDBERG,SVK,Silkeborg-Voel KFUM,1252.8,26,HB,False,NORMAL,44.7
+Hege Bakken WAHLQUIST,SVK,Silkeborg-Voel KFUM,1243.3,15,VF,False,NORMAL,30.1
+Louise ELLEBÆK,SVK,Silkeborg-Voel KFUM,1227.8,7,PL,False,NORMAL,18.2
+Camilla FANGEL,SVK,Silkeborg-Voel KFUM,1225.7,11,ST,False,NORMAL,14.3
+Othilia Brøndum CHRISTENSEN,SVK,Silkeborg-Voel KFUM,1224.6,20,PL,False,NORMAL,15.2
+Louise LYKSBORG,SVK,Silkeborg-Voel KFUM,1221.9,8,HF,False,NORMAL,12.5
+Susann MÜLLER,SVK,Silkeborg-Voel KFUM,1130.0,30,PL,False,NORMAL,115.0
+Jane SCHUMACHER,SVK,Silkeborg-Voel KFUM,1048.7,14,PL,False,NORMAL,33.7
+Andrea West BENDTSEN,SVK,Silkeborg-Voel KFUM,1040.1,18,VB,False,NORMAL,25.1
+Mathilde SØRENSEN,SVK,Silkeborg-Voel KFUM,1025.2,7,VF,False,NORMAL,10.2
+Stine Bonde AAGAARD,SVK,Silkeborg-Voel KFUM,1015.7,1,MV,True,NORMAL,0.7
+Stephanie ANDERSEN,SVK,Silkeborg-Voel KFUM,1014.0,2,MV,True,NORMAL,-1.0
