@@ -630,22 +630,58 @@ class HerreligaSeasonalEloSystem:
             
             # NEW: Consolidate season results to handle intra-season duplicates (like Marinus Munk)
             # and update the global career database
-            canonical_season_results = {}
+            merged_canonical_results = {}
             for raw_name, player_data in season_results.items():
                 canonical_name = self._normalize_and_get_canonical_name(raw_name)
 
-                # If canonical name already processed, we must merge.
-                # We prioritize the entry with more games, as it's more representative.
-                if canonical_name in canonical_season_results:
-                    if player_data['games'] > canonical_season_results[canonical_name]['games']:
-                        print(f"    🔄 Konsoliderer duplikat for '{canonical_name}': "
-                              f"beholder version med {player_data['games']} kampe.")
-                        canonical_season_results[canonical_name] = player_data
+                # If canonical name already processed, we must MERGE the results.
+                if canonical_name in merged_canonical_results:
+                    existing_data = merged_canonical_results[canonical_name]
+                    
+                    # Sum games and actions
+                    existing_data['games'] += player_data['games']
+                    existing_data['total_actions'] += player_data['total_actions']
+                    
+                    # Sum the rating change. This is an approximation, but far better than discarding data.
+                    existing_data['rating_change'] += player_data['rating_change']
+                    
+                    # Keep the primary position from the entry with more games as it's more representative
+                    if player_data['games'] > existing_data.get('__source_games', 0):
+                        existing_data['primary_position'] = player_data['primary_position']
+                        existing_data['position_name'] = player_data['position_name']
+                        existing_data['__source_games'] = player_data['games'] # Track for subsequent merges
                 else:
-                    canonical_season_results[canonical_name] = player_data
-            
+                    # First time seeing this canonical name this season, just add it.
+                    player_data['__source_games'] = player_data['games']
+                    merged_canonical_results[canonical_name] = player_data
+
+            # After merging, recalculate final_rating and other derived metrics for the canonical entries
+            canonical_season_results = {}
+            for canonical_name, data in merged_canonical_results.items():
+                # Recalculate final rating based on the summed change
+                data['final_rating'] = data['start_rating'] + data['rating_change']
+
+                # Recalculate other derived metrics
+                if data['games'] > 0:
+                    data['rating_per_game'] = data['rating_change'] / data['games']
+                    data['rating_consistency'] = abs(data['rating_change']) / data['games']
+                
+                # Recalculate elite status based on the new final rating
+                # (Assuming master_system's bounds are accessible or can be hardcoded)
+                if data['final_rating'] >= 1400: # legendary_threshold
+                    data['elite_status'] = "LEGENDARY"
+                elif data['final_rating'] >= 1250: # elite_threshold
+                    data['elite_status'] = "ELITE"
+                else:
+                    data['elite_status'] = "NORMAL"
+
+                # Clean up temporary key and ensure player name is canonical
+                data.pop('__source_games', None)
+                data['player'] = canonical_name
+                canonical_season_results[canonical_name] = data
+
             # Update the global career database with the consolidated results
-            print(f"💾 Opdaterer karrieredatabasen med {len(canonical_season_results)} unikke spillere.")
+            print(f"💾 Opdaterer karrieredatabasen med {len(canonical_season_results)} unikke, konsoliderede spillere.")
             self.player_career_database.update(canonical_season_results)
             
             # Store results for final report

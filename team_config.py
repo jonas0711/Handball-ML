@@ -136,5 +136,16 @@ KVINDELIGA_NAME_MAPPINGS = {
     'ajx': 'AJK', # Added likely typo
 }
 
+# === PLAYER NAME ALIASES (FIX FOR HISTORICAL INCONSISTENCIES) ===
+# This mapping helps bridge major name changes or persistent typos across seasons.
+# The key is the ALIAS (old or incorrect name), and the value is the CANONICAL name.
+# The system will normalize all aliases to the canonical name before processing.
+PLAYER_NAME_ALIASES = {
+    # Alias -> Canonical Name
+    "Marinus MUNK": "Marinus Grandahl MUNK",
+    "Mads HOXER": "Mads Hoxer HANGAARD",
+    # Handles the extra space issue for Line Larsen programmatically, but an alias could be a backup
+}
+
 # --- DEPRECATED MAPPINGS (DO NOT USE) ---
 # TEAM_NAME_MAPPINGS = { ... } 

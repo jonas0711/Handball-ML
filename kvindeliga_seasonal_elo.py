@@ -36,6 +36,9 @@ from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
 
+# Import player aliases
+from team_config import PLAYER_NAME_ALIASES
+
 # === FORBEDREDE SYSTEM PARAMETRE (Synkroniseret med Herreliga) ===
 BASE_RATING = 1000                 # REDUCERET fra 1200 - giver mere plads til spredning
 MIN_GAMES_FOR_FULL_CARRY = 12      # Reduceret for at flere får carry-over
@@ -71,7 +74,8 @@ class KvindeligaSeasonalEloSystem:
         
         # Sæson data storage
         self.all_season_results = {}
-        self.player_career_data = defaultdict(list)
+        # NEW: Global player database for long-term ELO memory
+        self.player_career_database = {}
         self.team_season_performance = defaultdict(dict)
         
         # Available seasons
@@ -417,71 +421,51 @@ class KvindeligaSeasonalEloSystem:
         
         return player_names
 
-    def _find_player_name_mapping(self, current_names: set, previous_data: dict) -> dict:
+    def _normalize_and_get_canonical_name(self, name: str) -> str:
         """
-        ROBUST NAVNE-MATCHING (REGELBASERET)
-        Prioriterer matches i en logisk rækkefølge for at sikre stabilitet.
-        1. Direkte match efter normalisering.
-        2. Subset match (når et navn er en del af et andet).
-        3. Levenshtein-baseret match for stavefejl.
+        NEW: Normalizes a player name and resolves it to its canonical version.
+        1. Trims extra whitespace.
+        2. Resolves aliases from PLAYER_NAME_ALIASES.
         """
-        print(f"  🧠 Forsøger robust, regelbaseret navne-matching for {len(current_names)} spillere...")
+        # Trim leading/trailing and remove double spaces
+        normalized_name = " ".join(name.strip().split())
+        
+        # Check for an alias
+        # A little more robust: convert alias keys to same format
+        return PLAYER_NAME_ALIASES.get(normalized_name, normalized_name)
+
+    def _find_player_name_mapping(self, current_names: set, previous_player_data: dict) -> dict:
+        """
+        ROBUST NAVNE-MATCHING (REVISED)
+        Connects current season names to the canonical names in the career database.
+        1. Applies normalization and aliasing to all names.
+        2. Prioritizes direct matches of canonical names.
+        3. Falls back to Levenshtein for fuzzy matching.
+        """
+        print(f"  🧠 Forsøger robust navne-matching for {len(current_names)} spillere mod karriere-databasen...")
         mapping = {}
         
-        # Kopier forrige navne, så vi kan fjerne dem, når de er matchet
-        available_prev_names = set(previous_data.keys())
+        # Create a set of canonical names from the career database for efficient lookup
+        canonical_career_names = {self._normalize_and_get_canonical_name(name) for name in previous_player_data.keys()}
         
-        # --- TRIN 1: NORMALISERING & DIREKTE MATCHES ---
-        normalized_prev_map = {' '.join(name.lower().split()): name for name in available_prev_names}
+        # --- TRIN 1: DIREKTE MATCH EFTER NORMALISERING OG ALIASING ---
         unmatched_current = set()
-        
         direct_matches_found = 0
+        
         for name in current_names:
-            normalized_name = ' '.join(name.lower().split())
-            if normalized_name in normalized_prev_map:
-                original_prev_name = normalized_prev_map[normalized_name]
-                mapping[name] = original_prev_name
-                available_prev_names.remove(original_prev_name)
-                del normalized_prev_map[normalized_name]
+            canonical_name = self._normalize_and_get_canonical_name(name)
+            if canonical_name in canonical_career_names:
+                mapping[name] = canonical_name
                 direct_matches_found += 1
             else:
                 unmatched_current.add(name)
-        
+
         if direct_matches_found > 0:
-            print(f"    ✅ Trin 1: Fandt {direct_matches_found} direkte matches efter normalisering.")
-
-        # --- TRIN 2: SUBSET MATCHES (Højeste prioritet for navneændringer) ---
-        subset_matches_found = 0
-        still_unmatched = set()
-        if unmatched_current and available_prev_names:
-            sorted_unmatched = sorted(list(unmatched_current))
+            print(f"    ✅ Trin 1: Fandt {direct_matches_found} direkte matches via kanoniske navne.")
             
-            for curr_name in sorted_unmatched:
-                normalized_curr_parts = set(' '.join(curr_name.lower().split()).split())
-                best_match = None
-                
-                for prev_name in sorted(list(available_prev_names)):
-                    normalized_prev_parts = set(' '.join(prev_name.lower().split()).split())
-                    
-                    if normalized_curr_parts.issubset(normalized_prev_parts) or normalized_prev_parts.issubset(normalized_curr_parts):
-                        best_match = prev_name
-                        break
-                
-                if best_match:
-                    mapping[curr_name] = best_match
-                    available_prev_names.remove(best_match)
-                    subset_matches_found += 1
-                    print(f"        🤝 SUBSET: '{curr_name}' -> '{best_match}'")
-                else:
-                    still_unmatched.add(curr_name)
-            unmatched_current = still_unmatched
-
-        if subset_matches_found > 0:
-            print(f"    ✅ Trin 2: Fandt {subset_matches_found} subset-baserede matches.")
-            
-        # --- TRIN 3: LEVENSHTEIN MATCH (For små stavefejl) ---
+        # --- TRIN 2: LEVENSHTEIN MATCH FOR RESTERENDE (For små stavefejl) ---
         levenshtein_matches_found = 0
-        if unmatched_current and available_prev_names:
+        if unmatched_current and canonical_career_names:
             try:
                 from Levenshtein import ratio as levenshtein_ratio
                 levenshtein_available = True
@@ -489,26 +473,29 @@ class KvindeligaSeasonalEloSystem:
                 levenshtein_available = False
             
             if levenshtein_available:
+                # Sorter for determinisme
                 for curr_name in sorted(list(unmatched_current)):
-                    normalized_curr = ' '.join(curr_name.lower().split())
-                    best_match = None
-                    highest_score = 0.85
+                    # Normalize current name for matching
+                    normalized_curr = " ".join(curr_name.lower().strip().split())
                     
-                    for prev_name in sorted(list(available_prev_names)):
-                        normalized_prev = ' '.join(prev_name.lower().split())
-                        score = levenshtein_ratio(normalized_curr, normalized_prev)
+                    best_match = None
+                    highest_score = 0.88 # Højere tærskel
+
+                    for career_name in sorted(list(canonical_career_names)):
+                        normalized_career = " ".join(career_name.lower().strip().split())
+                        score = levenshtein_ratio(normalized_curr, normalized_career)
                         if score > highest_score:
                             highest_score = score
-                            best_match = prev_name
+                            best_match = career_name
                     
                     if best_match:
                         mapping[curr_name] = best_match
-                        available_prev_names.remove(best_match)
+                        canonical_career_names.remove(best_match) # Avoid re-matching
                         levenshtein_matches_found += 1
                         print(f"        🤝 LEVENSHTEIN: '{curr_name}' -> '{best_match}' (Score: {highest_score:.2f})")
-            
+        
         if levenshtein_matches_found > 0:
-            print(f"    ✅ Trin 3: Fandt {levenshtein_matches_found} Levenshtein-baserede matches.")
+            print(f"    ✅ Trin 2: Fandt {levenshtein_matches_found} Levenshtein-baserede matches.")
 
         total_mapped = len(mapping)
         unmapped_count = len(current_names) - total_mapped
@@ -524,19 +511,20 @@ class KvindeligaSeasonalEloSystem:
         print("=" * 70)
         print("🎯 KUN KVINDELIGA - ULTRA-INDIVIDUELLE START RATINGS")
         
-        previous_season_data = None
+        previous_season_data = None # This will now be sourced from self.player_career_database
         
         for season in self.seasons:
             print(f"\n📅 === KVINDELIGA SÆSON {season} ===")
             
             start_ratings = {}
-            if previous_season_data:
-                current_season_names = self._get_all_player_names_for_season(season)
-                name_mapping = self._find_player_name_mapping(current_season_names, previous_season_data)
+            current_season_names = self._get_all_player_names_for_season(season)
+            
+            if self.player_career_database:
+                name_mapping = self._find_player_name_mapping(current_season_names, self.player_career_database)
 
                 print(f"📈 Beregner ultra-individuelle start ratings for {len(current_season_names)} spillere")
                 
-                prev_ratings = [data['final_rating'] for data in previous_season_data.values()]
+                prev_ratings = [data['final_rating'] for data in self.player_career_database.values()]
                 league_stats = {
                     'avg_rating': np.mean(prev_ratings) if prev_ratings else BASE_RATING,
                     'median_rating': np.median(prev_ratings) if prev_ratings else BASE_RATING,
@@ -547,15 +535,17 @@ class KvindeligaSeasonalEloSystem:
                       f"Median: {league_stats['median_rating']:.1f}, Std: {league_stats['std_rating']:.1f}")
                 
                 for player_name in sorted(list(current_season_names)):
-                    previous_name = name_mapping.get(player_name)
-                    player_data = previous_season_data.get(previous_name) if previous_name else None
+                    canonical_name = name_mapping.get(player_name)
+                    player_career_data = self.player_career_database.get(canonical_name) if canonical_name else None
 
                     start_rating = self.calculate_ultra_individual_start_rating(
-                        player_name, player_data, None, league_stats
+                        player_name, player_career_data, None, league_stats
                     )
                     start_ratings[player_name] = start_rating
             else:
                 print("📊 Første sæson - alle starter på base rating med positions-justeringer")
+                for player_name in sorted(list(current_season_names)):
+                    start_ratings[player_name] = self.calculate_ultra_individual_start_rating(player_name)
                 
             season_results = self.run_kvindeliga_season(season, start_ratings)
             
@@ -563,17 +553,56 @@ class KvindeligaSeasonalEloSystem:
                 print(f"⚠️ Springer over Kvindeliga {season} - ingen resultater")
                 continue
                 
-            self.all_season_results[season] = season_results
+            # NEW: Consolidate results and update career database with MERGE logic
+            merged_canonical_results = {}
+            for raw_name, player_data in season_results.items():
+                canonical_name = self._normalize_and_get_canonical_name(raw_name)
+
+                if canonical_name in merged_canonical_results:
+                    existing_data = merged_canonical_results[canonical_name]
+                    
+                    # Sum games and actions
+                    existing_data['games'] += player_data['games']
+                    existing_data['total_actions'] += player_data['total_actions']
+                    
+                    # Sum the rating change
+                    existing_data['rating_change'] += player_data['rating_change']
+                    
+                    # Keep primary position from the entry with more games
+                    if player_data['games'] > existing_data.get('__source_games', 0):
+                        existing_data['primary_position'] = player_data['primary_position']
+                        existing_data['position_name'] = player_data['position_name']
+                        existing_data['__source_games'] = player_data['games']
+                else:
+                    player_data['__source_games'] = player_data['games']
+                    merged_canonical_results[canonical_name] = player_data
             
-            for player_name, player_data in season_results.items():
-                self.player_career_data[player_name].append({
-                    'season': season, 'final_rating': player_data['final_rating'],
-                    'games': player_data['games'], 'position': player_data['primary_position'],
-                    'rating_change': player_data['rating_change']
-                })
+            # After merging, recalculate final_rating and other derived metrics
+            canonical_season_results = {}
+            for canonical_name, data in merged_canonical_results.items():
+                data['final_rating'] = data['start_rating'] + data['rating_change']
+
+                if data['games'] > 0:
+                    data['rating_per_game'] = data['rating_change'] / data['games']
+                    data['rating_consistency'] = abs(data['rating_change']) / data['games']
+                
+                if data['final_rating'] >= 1400: # legendary_threshold
+                    data['elite_status'] = "LEGENDARY"
+                elif data['final_rating'] >= 1250: # elite_threshold
+                    data['elite_status'] = "ELITE"
+                else:
+                    data['elite_status'] = "NORMAL"
+
+                data.pop('__source_games', None)
+                data['player'] = canonical_name
+                canonical_season_results[canonical_name] = data
+
+            print(f"💾 Opdaterer karrieredatabasen med {len(canonical_season_results)} unikke, konsoliderede spillere.")
+            self.player_career_database.update(canonical_season_results)
+
+            self.all_season_results[season] = self.player_career_database.copy()
             
             self.save_kvindeliga_season_csv(season_results, season)
-            previous_season_data = season_results
             
         print(f"\n✅ KVINDELIGA ANALYSE KOMPLET!")
         print("=" * 70)
