@@ -860,7 +860,13 @@ class MasterHandballEloSystem:
             pos_mult = 1.0      # Ingen position multiplier for penalty vægte
             momentum_mult = 1.0 # Ingen momentum multiplier for penalty vægte
         else:
-            pos_mult = self.get_position_multiplier(position, action)
+            # Princip 1: ELO Beregning Position-Uafhængig for markspillere.
+            # Målvogtere beholder deres unikke multipliers for at anerkende deres specielle rolle.
+            if position == 'MV':
+                pos_mult = self.get_position_multiplier(position, action)
+            else:
+                pos_mult = 1.0 # ELO er nu position-agnostisk for markspillere
+            
             momentum_mult = self.get_momentum_multiplier(player_name)
         
         # 🎯 NYT: KONTEKSTUEL VIGTIGHED

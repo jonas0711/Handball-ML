@@ -39,6 +39,87 @@ warnings.filterwarnings('ignore')
 # Import player aliases
 from team_config import PLAYER_NAME_ALIASES
 
+# Princip 2: Separat Position Analyse System
+class PositionAnalyzer:
+    """
+    Analyserer en hel sæson for at bestemme spilleres primære positioner.
+    Fokuserer kun på "rene" positioner og ignorerer situationsbestemte.
+    """
+    def __init__(self, base_dir: str = ".", league_dir: str = "Herreliga-database"):
+        self.base_dir = base_dir
+        self.league_dir_path = os.path.join(base_dir, league_dir)
+        self.pure_positions = {'VF', 'HF', 'VB', 'PL', 'HB', 'ST'}
+        
+        # Data containers
+        self.player_positions = defaultdict(Counter)
+        self.confirmed_goalkeepers = set()
+        
+        # Mapping from position code to full name
+        self.position_map = {
+            'MV': 'Målvogter',
+            'VF': 'Venstre fløj', 'HF': 'Højre fløj', 'VB': 'Venstre back',
+            'PL': 'Playmaker', 'HB': 'Højre back', 'ST': 'Streg', 'Ukendt': 'Ukendt'
+        }
+
+    def analyze_season(self, season: str):
+        print(f"📊 Starter positionsanalyse for Herreliga sæson {season}...")
+        season_path = os.path.join(self.league_dir_path, season)
+        if not os.path.exists(season_path):
+            print(f"  ❌ Sæsonsti ikke fundet: {season_path}")
+            return
+
+        db_files = [f for f in os.listdir(season_path) if f.endswith('.db')]
+        for db_file in db_files:
+            db_path = os.path.join(season_path, db_file)
+            try:
+                conn = sqlite3.connect(db_path)
+                # Brug pandas for effektiv og robust datalæsning
+                events_df = pd.read_sql_query("SELECT navn_1, pos, mv FROM match_events", conn)
+                conn.close()
+
+                # Fjern ugyldige værdier
+                events_df.dropna(subset=['navn_1', 'pos', 'mv'], how='all', inplace=True)
+
+                # Identificer målvogtere
+                goalkeepers = events_df['mv'].astype(str).str.strip()
+                valid_goalkeepers = goalkeepers[(goalkeepers.notna()) & (goalkeepers != '') & (goalkeepers != 'nan') & (goalkeepers != '0')]
+                self.confirmed_goalkeepers.update(valid_goalkeepers)
+
+                # Analyser markspilleres positioner
+                field_players = events_df[['navn_1', 'pos']].copy()
+                field_players['navn_1'] = field_players['navn_1'].astype(str).str.strip()
+                field_players['pos'] = field_players['pos'].astype(str).str.strip()
+                
+                # Filtrer til kun rene positioner
+                valid_events = field_players[field_players['pos'].isin(self.pure_positions) & (field_players['navn_1'] != '')]
+                
+                # Tæl positioner
+                position_counts = valid_events.groupby(['navn_1', 'pos']).size().reset_index(name='counts')
+                
+                for _, row in position_counts.iterrows():
+                    self.player_positions[row['navn_1']][row['pos']] += row['counts']
+                    
+            except Exception as e:
+                print(f"  ⚠️ Fejl under læsning af {db_file}: {e}")
+
+        print(f"✅ Positionsanalyse for {season} fuldført.")
+        print(f"  - {len(self.player_positions)} markspillere analyseret.")
+        print(f"  - {len(self.confirmed_goalkeepers)} målvogtere identificeret.")
+
+    def get_primary_position(self, player_name: str) -> Tuple[str, str]:
+        # Først, tjek om spilleren er en bekræftet målvogter
+        if player_name in self.confirmed_goalkeepers:
+            return 'MV', self.position_map['MV']
+
+        # Dernæst, find markspillerens primære position
+        if player_name in self.player_positions and self.player_positions[player_name]:
+            positions = self.player_positions[player_name]
+            primary_pos_code = positions.most_common(1)[0][0]
+            return primary_pos_code, self.position_map.get(primary_pos_code, 'Ukendt')
+        
+        # Fallback for spillere uden registrerede "rene" positioner (f.eks. kun 'Gbr')
+        return 'Ukendt', 'Ukendt'
+
 # === FORBEDREDE SYSTEM PARAMETRE ===
 BASE_RATING = 1000                 # REDUCERET fra 1200 - giver mere plads til spredning over mange sæsoner
 MIN_GAMES_FOR_FULL_CARRY = 12      # Reduceret for at flere får carry-over
@@ -302,7 +383,7 @@ class HerreligaSeasonalEloSystem:
                   
         return round(new_start_rating, 1)
         
-    def run_herreliga_season(self, season: str, start_ratings: Dict = None) -> Dict:
+    def run_herreliga_season(self, season: str, start_ratings: Dict = None, position_analyzer: Optional[PositionAnalyzer] = None) -> Dict:
         """
         Kører master ELO systemet for kun Herreliga i en enkelt sæson
         """
@@ -353,14 +434,18 @@ class HerreligaSeasonalEloSystem:
                 if games > 0:
                     start_rating = start_ratings.get(player_name, BASE_RATING) if start_ratings else BASE_RATING
                     
-                    # Find primary position
-                    positions = master_system.player_positions[player_name]
-                    primary_position = positions.most_common(1)[0][0] if positions else 'PL'
-                    
-                    # Position info
-                    position_name = master_system.standard_positions.get(primary_position, 'Unknown')
-                    is_goalkeeper = player_name in master_system.confirmed_goalkeepers
-                    
+                    # Princip 3: Brug den separate positionsanalyse til at bestemme position
+                    if position_analyzer:
+                        primary_position, position_name = position_analyzer.get_primary_position(player_name)
+                        is_goalkeeper = (primary_position == 'MV')
+                    else:
+                        # Fallback til gammel (mindre præcis) metode hvis analyzer ikke er tilgængelig
+                        positions = master_system.player_positions[player_name]
+                        primary_position = positions.most_common(1)[0][0] if positions else 'Ukendt'
+                        position_name = master_system.standard_positions.get(primary_position, 'Ukendt')
+                        is_goalkeeper = player_name in master_system.confirmed_goalkeepers
+                        positions = master_system.player_positions[player_name] # Sørg for at positions er defineret
+
                     # Elite status
                     if final_rating >= master_system.rating_bounds['legendary_threshold']:
                         elite_status = "LEGENDARY"
@@ -397,7 +482,7 @@ class HerreligaSeasonalEloSystem:
                         'is_goalkeeper': is_goalkeeper,
                         'elite_status': elite_status,
                         'momentum_factor': round(momentum, 3),
-                        'total_actions': sum(positions.values()) if positions else 0,
+                        'total_actions': sum(master_system.player_positions[player_name].values()) if master_system.player_positions[player_name] else 0,
                         'rating_per_game': round(rating_per_game, 3),
                         'performance_level': performance_level,
                         'rating_consistency': round(rating_consistency, 1)
@@ -584,6 +669,10 @@ class HerreligaSeasonalEloSystem:
         for season in self.seasons:
             print(f"\n📅 === HERRELIGA SÆSON {season} ===")
             
+            # Princip 2: Kør separat positionsanalyse FØR ELO-beregning
+            position_analyzer = PositionAnalyzer(self.base_dir, league_dir="Herreliga-database")
+            position_analyzer.analyze_season(season)
+
             # Calculate start ratings from the global career database
             start_ratings = {}
             
@@ -627,7 +716,7 @@ class HerreligaSeasonalEloSystem:
                     start_ratings[player_name] = self.calculate_ultra_individual_start_rating(player_name)
 
             # Run master system for this Herreliga season
-            season_results = self.run_herreliga_season(season, start_ratings)
+            season_results = self.run_herreliga_season(season, start_ratings, position_analyzer)
             
             if not season_results:
                 print(f"⚠️ Springer over Herreliga {season} - ingen resultater")
