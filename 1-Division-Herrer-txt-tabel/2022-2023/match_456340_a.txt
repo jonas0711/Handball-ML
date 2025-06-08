@@ -1,0 +1,634 @@
+Detaljeret kamprapport
+Kamp nr: 456 340  Række: 1. Division Herrer (M)
+Dato: 31/1-2023  Kl: 20:00
+Hal:  Dansk Kabel TV Arena, Dansk Kabel TV Arena
+TMS Ringsted - FIF
+Side 1 af 1
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+1
+0.00
+2
+0.27
+1-0
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+3
+0.58
+1-1
+FIF
+Mål
+42
+NICKELSEN Einar
+4
+1.31
+2-1
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+5
+2.20
+2-2
+FIF
+Mål
+42
+NICKELSEN Einar
+6
+3.02
+3-2
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+7
+3.12
+3-3
+FIF
+Mål
+42
+NICKELSEN Einar
+8
+4.02
+3-4
+FIF
+Mål
+32
+KVIST Jens
+9
+4.39
+4-4
+TMS
+Mål
+44
+HORN Frederik
+10
+5.55
+5-4
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+11
+6.38
+5-5
+FIF
+Mål
+4
+KELLER Nikolai Emil
+12
+7.24
+TMS
+Tilkendt straffekast
+0
+13
+7.49
+TMS
+Brændt straffe
+81
+NIELSEN Tobias
+14
+8.47
+5-6
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+15
+10.03
+FIF
+Advarsel
+4
+KELLER Nikolai Emil
+16
+10.59
+5-7
+FIF
+Mål
+32
+KVIST Jens
+17
+11.07
+TMS
+Team Time Out
+18
+11.25
+FIF
+Udvisning
+11
+ROSSI Christophe
+19
+12.05
+TMS
+Advarsel
+2
+MØLLER Joachim
+20
+12.17
+5-8
+FIF
+Mål
+7
+CHRISTENSEN Carl Baun
+21
+13.04
+6-8
+TMS
+Mål
+31
+KRISTENSEN Morten Nyberg
+22
+14.26
+6-9
+FIF
+Mål
+25
+JEPPESEN Joachim Storm
+23
+15.00
+7-9
+TMS
+Mål
+2
+MØLLER Joachim
+24
+15.08
+7-10
+FIF
+Mål
+4
+KELLER Nikolai Emil
+25
+15.48
+TMS
+Tilkendt straffekast
+0
+26
+16.04
+8-10
+TMS
+Mål – straffekast
+21
+JUUL Andreas
+27
+17.57
+TMS
+Tilkendt straffekast
+0
+28
+18.11
+9-10
+TMS
+Mål – straffekast
+21
+JUUL Andreas
+29
+18.15
+FIF
+Team Time Out
+30
+19.17
+TMS
+Advarsel
+6
+THOR Sebastian
+31
+20.21
+10-10
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+32
+20.42
+TMS
+Udvisning
+6
+THOR Sebastian
+33
+20.42
+FIF
+Tilkendt straffekast
+0
+34
+20.45
+10-11
+FIF
+Mål – straffekast
+32
+KVIST Jens
+35
+21.21
+10-12
+FIF
+Mål
+30
+STEN Julius Christian
+36
+21.49
+10-13
+FIF
+Mål
+11
+ROSSI Christophe
+37
+22.23
+11-13
+TMS
+Mål
+44
+HORN Frederik
+38
+23.23
+FIF
+11
+ROSSI Christophe
+39
+25.12
+11-14
+FIF
+Mål
+42
+NICKELSEN Einar
+40
+25.48
+12-14
+TMS
+Mål
+7
+BARSLUND Oliver
+41
+26.51
+12-15
+FIF
+Mål
+9
+LIND Mathies
+42
+27.16
+13-15
+TMS
+Mål
+81
+NIELSEN Tobias
+
+--- Side 2 ---
+Kamp nr: 456 340  Række: 1. Division Herrer (M) TMS Ringsted - FIF
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+43
+28.22
+14-15
+TMS
+Mål
+7
+BARSLUND Oliver
+44
+29.44
+TMS
+Tilkendt straffekast
+0
+45
+29.48
+TMS
+Brændt straffe
+21
+JUUL Andreas
+46
+30.00
+14-15
+Halvtid
+47
+30.00
+48
+30.47
+14-16
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+49
+31.14
+TMS
+Tilkendt straffekast
+0
+50
+31.33
+15-16
+TMS
+Mål – straffekast
+5
+NIKOLAJSEN Mark
+51
+31.57
+15-17
+FIF
+Mål
+42
+NICKELSEN Einar
+52
+32.45
+16-17
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+53
+33.19
+16-18
+FIF
+Mål
+4
+KELLER Nikolai Emil
+54
+34.18
+16-19
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+55
+34.22
+TMS
+Udvisning
+6
+THOR Sebastian
+56
+34.22
+17-19
+TMS
+Mål
+31
+KRISTENSEN Morten Nyberg
+57
+35.37
+17-20
+FIF
+Mål
+30
+STEN Julius Christian
+58
+36.11
+18-20
+TMS
+Mål
+21
+JUUL Andreas
+59
+38.00
+18-21
+FIF
+Mål
+32
+KVIST Jens
+60
+38.29
+19-21
+TMS
+Mål
+21
+JUUL Andreas
+61
+38.40
+19-22
+FIF
+Mål
+25
+JEPPESEN Joachim Storm
+62
+38.48
+TMS
+Tilkendt straffekast
+0
+63
+39.08
+20-22
+TMS
+Mål – straffekast
+5
+NIKOLAJSEN Mark
+64
+41.28
+20-23
+FIF
+Mål
+37
+HAASTRUP Nikolaj Otto Vedtofte
+65
+41.36
+TMS
+Udvisning
+2
+MØLLER Joachim
+66
+41.43
+20-24
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+67
+42.42
+21-24
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+68
+43.41
+22-24
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+69
+44.31
+22-25
+FIF
+Mål
+4
+KELLER Nikolai Emil
+70
+45.52
+22-26
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+71
+45.59
+TMS
+Team Time Out
+72
+46.20
+23-26
+TMS
+Mål
+2
+MØLLER Joachim
+73
+47.14
+23-27
+FIF
+Mål
+4
+KELLER Nikolai Emil
+74
+47.23
+24-27
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+75
+47.47
+24-28
+FIF
+Mål
+32
+KVIST Jens
+76
+48.03
+24-29
+FIF
+Mål
+9
+LIND Mathies
+77
+48.37
+25-29
+TMS
+Mål
+25
+AGGER Anders
+78
+49.39
+TMS
+Tilkendt straffekast
+0
+79
+49.48
+26-29
+TMS
+Mål – straffekast
+5
+NIKOLAJSEN Mark
+80
+51.31
+27-29
+TMS
+Mål
+21
+JUUL Andreas
+81
+52.07
+27-30
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+82
+52.14
+FIF
+Udvisning
+25
+JEPPESEN Joachim Storm
+83
+52.14
+TMS
+Tilkendt straffekast
+0
+84
+52.17
+28-30
+TMS
+Mål – straffekast
+5
+NIKOLAJSEN Mark
+85
+52.49
+28-31
+FIF
+Mål
+7
+CHRISTENSEN Carl Baun
+86
+53.13
+29-31
+TMS
+Mål
+2
+MØLLER Joachim
+87
+54.09
+30-31
+TMS
+Mål
+21
+JUUL Andreas
+88
+54.18
+FIF
+Team Time Out
+Side 2 af 3
+
+--- Side 3 ---
+Kamp nr: 456 340  Række: 1. Division Herrer (M) TMS Ringsted - FIF
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+89
+55.16
+31-31
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+90
+58.37
+31-32
+FIF
+Mål
+32
+KVIST Jens
+91
+58.37
+TMS
+Udvisning
+31
+KRISTENSEN Morten Nyberg
+92
+58.58
+32-32
+TMS
+Mål
+44
+HORN Frederik
+93
+59.15
+FIF
+Team Time Out
+94
+59.39
+TMS
+Team Time Out
+95
+60.00
+32-32
+Fuld tid
+96
+60.00
+Side 3 af 3

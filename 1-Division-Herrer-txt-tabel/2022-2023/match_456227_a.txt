@@ -1,0 +1,556 @@
+Detaljeret kamprapport
+Kamp nr: 456 227  Række: 1. Division Herrer (M)
+Dato: 2/9-2022  Kl: 19:30
+Hal:  Ølstykke-hallerne, Ølstykke-hallerne
+HØJ Elite - Roskilde Håndbold
+Side 1 af 1
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+1
+0.00
+2
+1.07
+1-0
+HOJ
+Mål
+28
+IVERSEN Frederik
+3
+1.48
+2-0
+HOJ
+Mål
+24
+WETZEL Tobias
+4
+2.37
+2-1
+ROS
+Mål
+23
+SKYTTE Malthe
+5
+3.50
+HOJ
+Advarsel
+23
+JONASSON Jeppe
+6
+4.30
+3-1
+HOJ
+Mål
+51
+HÖNING Max
+7
+4.39
+3-2
+ROS
+Mål
+22
+JACOBSEN Jasper
+8
+4.48
+4-2
+HOJ
+Mål
+23
+JONASSON Jeppe
+9
+7.35
+HOJ
+Udvisning
+23
+JONASSON Jeppe
+10
+7.57
+5-2
+HOJ
+Mål
+51
+HÖNING Max
+11
+8.33
+6-2
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+12
+8.37
+ROS
+Team Time Out
+13
+10.03
+7-2
+HOJ
+Mål
+28
+IVERSEN Frederik
+14
+10.04
+ROS
+Udvisning
+77
+HJORTH Jeppe
+15
+11.06
+ROS
+Tilkendt straffekast
+0
+16
+11.08
+ROS
+Advarsel
+A
+OLSEN Kenneth Eugen
+17
+11.08
+ROS
+Tilkendt straffekast
+0
+18
+11.12
+7-3
+ROS
+Mål – straffekast
+30
+KEMPF Philip
+19
+12.09
+7-4
+ROS
+Mål
+23
+SKYTTE Malthe
+20
+12.52
+7-5
+ROS
+Mål
+23
+SKYTTE Malthe
+21
+13.29
+8-5
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+22
+13.44
+9-5
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+23
+15.01
+9-6
+ROS
+Mål
+77
+HJORTH Jeppe
+24
+16.31
+10-6
+HOJ
+Mål
+88
+PARBST Victor
+25
+17.37
+11-6
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+26
+19.24
+11-7
+ROS
+Mål
+77
+HJORTH Jeppe
+27
+19.46
+ROS
+Udvisning
+77
+HJORTH Jeppe
+28
+19.49
+HOJ
+Udvisning
+10
+GARSDAL Lucas Lenler
+29
+19.49
+ROS
+Tilkendt straffekast
+0
+30
+19.52
+11-8
+ROS
+Mål – straffekast
+30
+KEMPF Philip
+31
+19.57
+HOJ
+Team Time Out
+32
+20.42
+12-8
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+33
+21.08
+13-8
+HOJ
+Mål
+88
+PARBST Victor
+34
+21.48
+14-8
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+35
+22.50
+15-8
+HOJ
+Mål
+4
+HEMMINGSEN Lauge
+36
+23.23
+15-9
+ROS
+Mål
+24
+JØRGENSEN Emil Beck
+37
+23.35
+HOJ
+Tilkendt straffekast
+0
+38
+24.03
+HOJ
+Brændt straffe
+9
+HANSEN Roi Berg
+39
+24.55
+16-9
+HOJ
+Mål
+51
+HÖNING Max
+40
+25.04
+ROS
+Team Time Out
+41
+25.29
+16-10
+ROS
+Mål
+15
+KRISTENSEN Magnus
+42
+26.59
+16-11
+ROS
+Mål
+30
+KEMPF Philip
+
+--- Side 2 ---
+Kamp nr: 456 227  Række: 1. Division Herrer (M) HØJ Elite - Roskilde Håndbold
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+43
+27.34
+17-11
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+44
+27.48
+17-12
+ROS
+Mål
+15
+KRISTENSEN Magnus
+45
+29.57
+HOJ
+Udvisning
+4
+HEMMINGSEN Lauge
+46
+30.00
+17-12
+Halvtid
+47
+30.00
+48
+31.40
+17-13
+ROS
+Mål
+30
+KEMPF Philip
+49
+33.58
+HOJ
+Udvisning
+2
+HANSEN Alexander Sohn
+50
+34.45
+18-13
+HOJ
+Mål
+5
+SPELLERBERG Bo
+51
+35.10
+18-14
+ROS
+Mål
+24
+JØRGENSEN Emil Beck
+52
+35.47
+19-14
+HOJ
+Mål
+14
+PLANT Magnus
+53
+35.59
+19-15
+ROS
+Mål
+23
+SKYTTE Malthe
+54
+36.53
+20-15
+HOJ
+Mål
+9
+HANSEN Roi Berg
+55
+37.44
+ROS
+Udvisning
+15
+KRISTENSEN Magnus
+56
+37.53
+21-15
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+57
+38.46
+22-15
+HOJ
+Mål
+5
+SPELLERBERG Bo
+58
+39.43
+22-16
+ROS
+Mål
+23
+SKYTTE Malthe
+59
+39.56
+23-16
+HOJ
+Mål
+24
+WETZEL Tobias
+60
+40.34
+ROS
+Udvisning
+4
+HANSEN Anders Bech
+61
+40.38
+24-16
+HOJ
+Mål
+5
+SPELLERBERG Bo
+62
+41.22
+25-16
+HOJ
+Mål
+14
+PLANT Magnus
+63
+42.18
+HOJ
+Udvisning
+23
+JONASSON Jeppe
+64
+42.18
+ROS
+Tilkendt straffekast
+0
+65
+42.20
+25-17
+ROS
+Mål – straffekast
+30
+KEMPF Philip
+66
+43.20
+25-18
+ROS
+Mål
+33
+KRISTENSEN Simon Hald
+67
+44.09
+26-18
+HOJ
+Mål
+9
+HANSEN Roi Berg
+68
+45.13
+27-18
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+69
+45.45
+ROS
+Team Time Out
+70
+48.10
+HOJ
+Tilkendt straffekast
+0
+71
+48.13
+HOJ
+Brændt straffe
+28
+IVERSEN Frederik
+72
+48.16
+28-18
+HOJ
+Mål
+28
+IVERSEN Frederik
+73
+49.49
+HOJ
+Team Time Out
+74
+50.02
+29-18
+HOJ
+Mål
+2
+HANSEN Alexander Sohn
+75
+51.28
+30-18
+HOJ
+Mål
+20
+MYSSING Tobias
+76
+54.15
+31-18
+HOJ
+Mål
+88
+PARBST Victor
+77
+55.05
+31-19
+ROS
+Mål
+14
+CHRISTIANSEN Rogvi Dal
+78
+55.52
+31-20
+ROS
+Mål
+66
+HÜTTEL Viktor
+79
+56.08
+31-21
+ROS
+Mål
+14
+CHRISTIANSEN Rogvi Dal
+80
+57.25
+31-22
+ROS
+Mål
+4
+HANSEN Anders Bech
+81
+57.30
+32-22
+HOJ
+Mål
+4
+HEMMINGSEN Lauge
+82
+58.59
+32-23
+ROS
+Mål
+14
+CHRISTIANSEN Rogvi Dal
+83
+59.10
+33-23
+HOJ
+Mål
+28
+IVERSEN Frederik
+84
+60.00
+33-23
+Fuld tid
+85
+60.00
+Side 2 af 2

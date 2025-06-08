@@ -1,0 +1,528 @@
+Detaljeret kamprapport
+Kamp nr: 456 387  Række: 1. Division Herrer (M)
+Dato: 24/3-2023  Kl: 19:45
+Hal:  Skæringhallen A, Skæringhallen A
+Aarhus HC - IK Skovbakken
+Side 1 af 1
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+1
+0.00
+2
+0.50
+1-0
+AHC
+Mål
+6
+SKOV Markus
+3
+1.46
+1-1
+IKS
+Mål
+6
+GADE Anders
+4
+2.19
+2-1
+AHC
+Mål
+4
+MOGENSEN Nikolaj
+5
+3.37
+2-2
+IKS
+Mål
+5
+SØNDERGAARD Carl
+6
+4.33
+3-2
+AHC
+Mål
+15
+HERKULES Jonas
+7
+5.09
+AHC
+Advarsel
+4
+MOGENSEN Nikolaj
+8
+6.39
+3-3
+IKS
+Mål
+15
+JOHANSEN Mads Baadsgaard
+9
+6.45
+4-3
+AHC
+Mål
+99
+HALD CHRISTENSEN Jonas
+10
+7.58
+4-4
+IKS
+Mål
+19
+SIDELMANN Emil
+11
+8.55
+5-4
+AHC
+Mål
+5
+JENSEN Frederik bech
+12
+9.03
+5-5
+IKS
+Mål
+7
+KNUDSEN Kasper
+13
+10.02
+IKS
+Advarsel
+10
+EGDAL Marius
+14
+10.26
+6-5
+AHC
+Mål
+99
+HALD CHRISTENSEN Jonas
+15
+10.37
+6-6
+IKS
+Mål
+79
+GROULEFF Victor Kiærbye
+16
+11.08
+7-6
+AHC
+Mål
+6
+SKOV Markus
+17
+11.55
+8-6
+AHC
+Mål
+4
+MOGENSEN Nikolaj
+18
+13.14
+9-6
+AHC
+Mål
+4
+MOGENSEN Nikolaj
+19
+14.14
+10-6
+AHC
+Mål
+15
+HERKULES Jonas
+20
+14.21
+IKS
+Team Time Out
+21
+14.52
+10-7
+IKS
+Mål
+7
+KNUDSEN Kasper
+22
+15.38
+10-8
+IKS
+Mål
+6
+GADE Anders
+23
+16.10
+11-8
+AHC
+Mål
+4
+MOGENSEN Nikolaj
+24
+17.58
+12-8
+AHC
+Mål
+9
+WITT Nicolai
+25
+19.02
+12-9
+IKS
+Mål
+7
+KNUDSEN Kasper
+26
+19.37
+AHC
+Tilkendt straffekast
+0
+27
+19.37
+IKS
+Udvisning
+18
+LOFT Jakob Appel
+28
+19.37
+AHC
+Brændt straffe
+21
+RAHBEK Marcus
+29
+20.37
+12-10
+IKS
+Mål
+8
+SVENSSON Emil Hørmann
+30
+21.08
+13-10
+AHC
+Mål
+11
+MUNDUS-PEDERSEN Mikkel
+31
+22.02
+13-11
+IKS
+Mål
+6
+GADE Anders
+32
+23.05
+14-11
+AHC
+Mål
+5
+JENSEN Frederik bech
+33
+23.29
+AHC
+Udvisning
+4
+MOGENSEN Nikolaj
+34
+23.54
+AHC
+Team Time Out
+35
+24.27
+15-11
+AHC
+Mål
+8
+ABILDGAARD Marcus
+36
+25.23
+16-11
+AHC
+Mål
+9
+WITT Nicolai
+37
+27.10
+17-11
+AHC
+Mål
+18
+BILLE Rasmus
+38
+27.43
+17-12
+IKS
+Mål
+4
+JØRGENSEN Tobias Oliver Lund
+39
+28.16
+IKS
+Udvisning
+4
+JØRGENSEN Tobias Oliver Lund
+40
+28.45
+18-12
+AHC
+Mål
+9
+WITT Nicolai
+41
+30.00
+19-12
+AHC
+Mål
+8
+ABILDGAARD Marcus
+42
+30.00
+19-12
+Halvtid
+
+--- Side 2 ---
+Kamp nr: 456 387  Række: 1. Division Herrer (M) Aarhus HC - IK Skovbakken
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+43
+30.00
+44
+30.53
+20-12
+AHC
+Mål
+99
+HALD CHRISTENSEN Jonas
+45
+31.34
+21-12
+AHC
+Mål
+5
+JENSEN Frederik bech
+46
+33.51
+22-12
+AHC
+Mål
+4
+MOGENSEN Nikolaj
+47
+34.14
+23-12
+AHC
+Mål
+4
+MOGENSEN Nikolaj
+48
+34.17
+IKS
+Team Time Out
+49
+34.42
+23-13
+IKS
+Mål
+4
+JØRGENSEN Tobias Oliver Lund
+50
+35.23
+23-14
+IKS
+Mål
+6
+GADE Anders
+51
+37.00
+23-15
+IKS
+Mål
+18
+LOFT Jakob Appel
+52
+37.44
+24-15
+AHC
+Mål
+4
+MOGENSEN Nikolaj
+53
+39.15
+24-16
+IKS
+Mål
+4
+JØRGENSEN Tobias Oliver Lund
+54
+40.04
+25-16
+AHC
+Mål
+4
+MOGENSEN Nikolaj
+55
+40.49
+25-17
+IKS
+Mål
+5
+SØNDERGAARD Carl
+56
+41.01
+26-17
+AHC
+Mål
+5
+JENSEN Frederik bech
+57
+41.29
+26-18
+IKS
+Mål
+6
+GADE Anders
+58
+42.18
+26-19
+IKS
+Mål
+4
+JØRGENSEN Tobias Oliver Lund
+59
+43.09
+27-19
+AHC
+Mål
+99
+HALD CHRISTENSEN Jonas
+60
+46.30
+28-19
+AHC
+Mål
+15
+HERKULES Jonas
+61
+48.08
+29-19
+AHC
+Mål
+15
+HERKULES Jonas
+62
+48.48
+29-20
+IKS
+Mål
+18
+LOFT Jakob Appel
+63
+49.24
+30-20
+AHC
+Mål
+11
+MUNDUS-PEDERSEN Mikkel
+64
+49.35
+30-21
+IKS
+Mål
+14
+NØDDESBO Malte Friis
+65
+50.11
+31-21
+AHC
+Mål
+21
+RAHBEK Marcus
+66
+51.14
+32-21
+AHC
+Mål
+4
+MOGENSEN Nikolaj
+67
+51.38
+IKS
+Team Time Out
+68
+53.24
+AHC
+Team Time Out
+69
+53.59
+33-21
+AHC
+Mål
+11
+MUNDUS-PEDERSEN Mikkel
+70
+54.05
+33-22
+IKS
+Mål
+14
+NØDDESBO Malte Friis
+71
+54.39
+34-22
+AHC
+Mål
+6
+SKOV Markus
+72
+55.25
+34-23
+IKS
+Mål
+25
+SANGGAARD Patrick
+73
+57.35
+IKS
+Udvisning
+23
+PEDERSEN Mikkel Høgfeldt
+74
+57.52
+AHC
+Tilkendt straffekast
+0
+75
+58.15
+35-23
+AHC
+Mål – straffekast
+99
+HALD CHRISTENSEN Jonas
+76
+59.24
+36-23
+AHC
+Mål
+8
+ABILDGAARD Marcus
+77
+59.52
+36-24
+IKS
+Mål
+4
+JØRGENSEN Tobias Oliver Lund
+78
+60.00
+36-24
+Fuld tid
+79
+60.00
+Side 2 af 2

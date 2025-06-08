@@ -1,0 +1,609 @@
+Detaljeret kamprapport
+Kamp nr: 456 334  Række: 1. Division Herrer (M)
+Dato: 22/1-2023  Kl: 15:00
+Hal:  Rækker Mølle hallen hal 1, Rækker Mølle-Hallen
+Rækker Mølle Håndbold - HØJ Elite
+Side 1 af 1
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+1
+0.00
+2
+0.38
+1-0
+RÆK
+Mål
+6
+PEDERSEN Mads Rønbjerg
+3
+0.47
+1-1
+HOJ
+Mål
+28
+IVERSEN Frederik
+4
+0.48
+RÆK
+Udvisning
+4
+HEDEGAARD Mathias
+5
+1.21
+2-1
+RÆK
+Mål
+19
+HEJSEL Mathias
+6
+1.38
+2-2
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+7
+2.16
+2-3
+HOJ
+Mål
+24
+WETZEL Tobias
+8
+4.19
+HOJ
+Advarsel
+24
+WETZEL Tobias
+9
+4.53
+2-4
+HOJ
+Mål
+24
+WETZEL Tobias
+10
+6.02
+2-5
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+11
+6.28
+3-5
+RÆK
+Mål
+15
+HAMANN-BOERITHS Lasse
+12
+7.03
+4-5
+RÆK
+Mål
+4
+HEDEGAARD Mathias
+13
+7.51
+4-6
+HOJ
+Mål
+24
+WETZEL Tobias
+14
+8.06
+5-6
+RÆK
+Mål
+6
+PEDERSEN Mads Rønbjerg
+15
+8.54
+RÆK
+Tilkendt straffekast
+0
+16
+9.06
+6-6
+RÆK
+Mål – straffekast
+17
+SKRÆDDERGAARD Mathias
+17
+9.43
+HOJ
+Tilkendt straffekast
+0
+18
+9.54
+6-7
+HOJ
+Mål – straffekast
+5
+SPELLERBERG Bo
+19
+11.14
+HOJ
+Tilkendt straffekast
+0
+20
+11.16
+RÆK
+Advarsel
+7
+NIELSEN Morten Kirkeby
+21
+11.25
+6-8
+HOJ
+Mål – straffekast
+5
+SPELLERBERG Bo
+22
+12.10
+7-8
+RÆK
+Mål
+9
+KIRKEBY NIELSEN Lasse
+23
+12.45
+7-9
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+24
+13.40
+7-10
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+25
+13.53
+8-10
+RÆK
+Mål
+15
+HAMANN-BOERITHS Lasse
+26
+15.01
+RÆK
+Udvisning
+7
+NIELSEN Morten Kirkeby
+27
+15.09
+8-11
+HOJ
+Mål
+24
+WETZEL Tobias
+28
+16.12
+HOJ
+Tilkendt straffekast
+0
+29
+16.12
+8-12
+HOJ
+Mål – straffekast
+5
+SPELLERBERG Bo
+30
+17.20
+9-12
+RÆK
+Mål
+15
+HAMANN-BOERITHS Lasse
+31
+18.06
+HOJ
+Tilkendt straffekast
+0
+32
+18.24
+9-13
+HOJ
+Mål – straffekast
+5
+SPELLERBERG Bo
+33
+18.32
+RÆK
+Team Time Out
+34
+18.58
+10-13
+RÆK
+Mål
+26
+SANDGAARD Lukas
+35
+19.42
+10-14
+HOJ
+Mål
+28
+IVERSEN Frederik
+36
+20.18
+11-14
+RÆK
+Mål
+15
+HAMANN-BOERITHS Lasse
+37
+21.29
+11-15
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+38
+22.20
+12-15
+RÆK
+Mål
+19
+HEJSEL Mathias
+39
+23.01
+13-15
+RÆK
+Mål
+19
+HEJSEL Mathias
+40
+23.40
+HOJ
+Udvisning
+23
+JONASSON Jeppe
+41
+24.07
+14-15
+RÆK
+Mål
+17
+SKRÆDDERGAARD Mathias
+42
+25.03
+HOJ
+Udvisning
+10
+GARSDAL Lucas Lenler
+
+--- Side 2 ---
+Kamp nr: 456 334  Række: 1. Division Herrer (M) Rækker Mølle Håndbold - HØJ Elite
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+43
+25.43
+HOJ
+Team Time Out
+44
+26.06
+14-16
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+45
+26.14
+15-16
+RÆK
+Mål
+4
+HEDEGAARD Mathias
+46
+26.48
+16-16
+RÆK
+Mål
+9
+KIRKEBY NIELSEN Lasse
+47
+28.09
+16-17
+HOJ
+Mål
+2
+HANSEN Alexander Sohn
+48
+29.37
+17-17
+RÆK
+Mål
+15
+HAMANN-BOERITHS Lasse
+49
+30.00
+17-17
+Halvtid
+50
+30.00
+51
+30.33
+HOJ
+Udvisning
+24
+WETZEL Tobias
+52
+32.47
+RÆK
+Advarsel
+A
+HANSEN Rasmus
+53
+33.41
+RÆK
+Udvisning(x2)
+7
+NIELSEN Morten Kirkeby
+54
+33.41
+RÆK
+Rødt kort
+7
+NIELSEN Morten Kirkeby
+55
+33.55
+17-18
+HOJ
+Mål
+20
+MYSSING Tobias
+56
+35.18
+17-19
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+57
+35.55
+18-19
+RÆK
+Mål
+17
+SKRÆDDERGAARD Mathias
+58
+37.03
+19-19
+RÆK
+Mål
+17
+SKRÆDDERGAARD Mathias
+59
+37.40
+19-20
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+60
+38.28
+19-21
+HOJ
+Mål
+51
+HÖNING Max
+61
+39.06
+RÆK
+Udvisning
+26
+SANDGAARD Lukas
+62
+39.06
+HOJ
+Advarsel
+5
+SPELLERBERG Bo
+63
+39.21
+19-22
+HOJ
+Mål
+88
+PARBST Victor
+64
+40.23
+19-23
+HOJ
+Mål
+20
+MYSSING Tobias
+65
+40.55
+20-23
+RÆK
+Mål
+23
+DOHM Lasse
+66
+41.07
+RÆK
+Udvisning
+23
+DOHM Lasse
+67
+41.07
+HOJ
+Tilkendt straffekast
+0
+68
+41.10
+HOJ
+Brændt straffe
+5
+SPELLERBERG Bo
+69
+41.46
+21-23
+RÆK
+Mål
+4
+HEDEGAARD Mathias
+70
+41.47
+HOJ
+Udvisning
+23
+JONASSON Jeppe
+71
+42.07
+22-23
+RÆK
+Mål
+9
+KIRKEBY NIELSEN Lasse
+72
+43.35
+HOJ
+Team Time Out
+73
+45.00
+22-24
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+74
+45.18
+23-24
+RÆK
+Mål
+15
+HAMANN-BOERITHS Lasse
+75
+47.48
+23-25
+HOJ
+Mål
+24
+WETZEL Tobias
+76
+49.37
+23-26
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+77
+49.43
+RÆK
+Team Time Out
+78
+50.06
+24-26
+RÆK
+Mål
+9
+KIRKEBY NIELSEN Lasse
+79
+51.41
+RÆK
+Tilkendt straffekast
+0
+80
+51.53
+25-26
+RÆK
+Mål – straffekast
+15
+HAMANN-BOERITHS Lasse
+81
+53.39
+25-27
+HOJ
+Mål
+6
+SLUNDT Morten
+82
+54.21
+25-28
+HOJ
+Mål
+6
+SLUNDT Morten
+83
+54.21
+RÆK
+Udvisning
+26
+SANDGAARD Lukas
+84
+55.14
+25-29
+HOJ
+Mål
+5
+SPELLERBERG Bo
+85
+55.38
+26-29
+RÆK
+Mål
+15
+HAMANN-BOERITHS Lasse
+86
+56.02
+26-30
+HOJ
+Mål
+6
+SLUNDT Morten
+87
+57.04
+26-31
+HOJ
+Mål
+24
+WETZEL Tobias
+88
+57.16
+RÆK
+Team Time Out
+Side 2 af 3
+
+--- Side 3 ---
+Kamp nr: 456 334  Række: 1. Division Herrer (M) Rækker Mølle Håndbold - HØJ Elite
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+89
+57.43
+27-31
+RÆK
+Mål
+19
+HEJSEL Mathias
+90
+59.45
+HOJ
+Udvisning
+6
+SLUNDT Morten
+91
+60.00
+27-31
+Fuld tid
+92
+60.00
+Side 3 af 3

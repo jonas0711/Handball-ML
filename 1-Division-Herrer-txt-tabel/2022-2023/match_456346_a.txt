@@ -1,0 +1,547 @@
+Detaljeret kamprapport
+Kamp nr: 456 346  Række: 1. Division Herrer (M)
+Dato: 4/2-2023  Kl: 16:00
+Hal:  Viby Sj. Idrætscenter 1, Viby Sj. Idrætscenter
+Roskilde Håndbold - Skive fH
+Side 1 af 1
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+1
+0.00
+2
+0.34
+0-1
+SFH
+Mål
+47
+JENSEN Nickolei
+3
+1.19
+0-2
+SFH
+Mål
+21
+RAUNDAHL Jonas
+4
+3.06
+SFH
+Advarsel
+47
+JENSEN Nickolei
+5
+3.24
+1-2
+ROS
+Mål
+24
+JØRGENSEN Emil Beck
+6
+3.41
+1-3
+SFH
+Mål
+21
+RAUNDAHL Jonas
+7
+4.13
+2-3
+ROS
+Mål
+14
+CHRISTIANSEN Rogvi Dal
+8
+5.59
+3-3
+ROS
+Mål
+24
+JØRGENSEN Emil Beck
+9
+6.42
+ROS
+Advarsel
+77
+HJORTH Jeppe
+10
+8.56
+SFH
+Tilkendt straffekast
+0
+11
+9.09
+SFH
+Brændt straffe
+9
+BAY Tobias
+12
+9.23
+4-3
+ROS
+Mål
+22
+JACOBSEN Jasper
+13
+10.18
+ROS
+Tilkendt straffekast
+0
+14
+10.18
+5-3
+ROS
+Mål – straffekast
+30
+KEMPF Philip
+15
+11.29
+6-3
+ROS
+Mål
+22
+JACOBSEN Jasper
+16
+11.40
+6-4
+SFH
+Mål
+21
+RAUNDAHL Jonas
+17
+12.11
+7-4
+ROS
+Mål
+22
+JACOBSEN Jasper
+18
+12.47
+7-5
+SFH
+Mål
+31
+JUHL Oliver
+19
+14.25
+SFH
+Tilkendt straffekast
+0
+20
+14.41
+SFH
+Brændt straffe
+11
+SKØTT Sebastian
+21
+15.19
+7-6
+SFH
+Mål
+21
+RAUNDAHL Jonas
+22
+15.34
+ROS
+Tilkendt straffekast
+0
+23
+15.43
+8-6
+ROS
+Mål – straffekast
+30
+KEMPF Philip
+24
+16.29
+SFH
+Team Time Out
+0
+25
+16.30
+9-6
+ROS
+Mål
+23
+SKYTTE Malthe
+26
+18.29
+10-6
+ROS
+Mål
+23
+SKYTTE Malthe
+27
+18.38
+SFH
+Team Time Out
+28
+19.40
+10-7
+SFH
+Mål
+6
+DAMGAARD Matias
+29
+19.52
+SFH
+Advarsel
+29
+TAU Søren
+30
+20.40
+11-7
+ROS
+Mål
+24
+JØRGENSEN Emil Beck
+31
+22.17
+12-7
+ROS
+Mål
+77
+HJORTH Jeppe
+32
+22.25
+12-8
+SFH
+Mål
+18
+HERMANNSEN Jonas
+33
+23.00
+SFH
+Udvisning
+29
+TAU Søren
+34
+23.28
+13-8
+ROS
+Mål
+10
+BUSCK-RASMUSSEN Anton
+35
+24.58
+13-9
+SFH
+Mål
+11
+SKØTT Sebastian
+36
+25.50
+13-10
+SFH
+Mål
+18
+HERMANNSEN Jonas
+37
+26.31
+13-11
+SFH
+Mål
+31
+JUHL Oliver
+38
+26.36
+ROS
+Udvisning
+23
+SKYTTE Malthe
+39
+27.06
+SFH
+Udvisning
+21
+RAUNDAHL Jonas
+40
+27.20
+14-11
+ROS
+Mål
+24
+JØRGENSEN Emil Beck
+41
+29.14
+15-11
+ROS
+Mål
+10
+BUSCK-RASMUSSEN Anton
+42
+29.43
+ROS
+Team Time Out
+
+--- Side 2 ---
+Kamp nr: 456 346  Række: 1. Division Herrer (M) Roskilde Håndbold - Skive fH
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+43
+30.00
+15-11
+Halvtid
+44
+30.00
+45
+31.02
+16-11
+ROS
+Mål
+23
+SKYTTE Malthe
+46
+31.45
+17-11
+ROS
+Mål
+33
+KRISTENSEN Simon Hald
+47
+31.53
+17-12
+SFH
+Mål
+20
+HOLM Benjamin
+48
+33.37
+17-13
+SFH
+Mål
+4
+HYLDGAARD Joachim
+49
+33.46
+18-13
+ROS
+Mål
+77
+HJORTH Jeppe
+50
+35.58
+19-13
+ROS
+Mål
+24
+JØRGENSEN Emil Beck
+51
+37.04
+20-13
+ROS
+Mål
+24
+JØRGENSEN Emil Beck
+52
+41.49
+20-14
+SFH
+Mål
+31
+JUHL Oliver
+53
+42.26
+ROS
+Tilkendt straffekast
+0
+54
+42.26
+21-14
+ROS
+Mål – straffekast
+30
+KEMPF Philip
+55
+43.07
+22-14
+ROS
+Mål
+33
+KRISTENSEN Simon Hald
+56
+43.50
+22-15
+SFH
+Mål
+6
+DAMGAARD Matias
+57
+44.04
+23-15
+ROS
+Mål
+30
+KEMPF Philip
+58
+44.38
+23-16
+SFH
+Mål
+31
+JUHL Oliver
+59
+45.32
+24-16
+ROS
+Mål
+77
+HJORTH Jeppe
+60
+46.08
+SFH
+Tilkendt straffekast
+0
+61
+46.16
+24-17
+SFH
+Mål – straffekast
+9
+BAY Tobias
+62
+47.29
+24-18
+SFH
+Mål
+47
+JENSEN Nickolei
+63
+48.14
+25-18
+ROS
+Mål
+14
+CHRISTIANSEN Rogvi Dal
+64
+48.27
+26-18
+ROS
+Mål
+33
+KRISTENSEN Simon Hald
+65
+49.06
+26-19
+SFH
+Mål
+6
+DAMGAARD Matias
+66
+49.52
+27-19
+ROS
+Mål
+22
+JACOBSEN Jasper
+67
+50.11
+ROS
+Udvisning
+15
+KRISTENSEN Magnus
+68
+51.18
+27-20
+SFH
+Mål
+31
+JUHL Oliver
+69
+53.11
+ROS
+Team Time Out
+70
+53.32
+28-20
+ROS
+Mål
+77
+HJORTH Jeppe
+71
+53.43
+28-21
+SFH
+Mål
+47
+JENSEN Nickolei
+72
+54.19
+29-21
+ROS
+Mål
+30
+KEMPF Philip
+73
+54.55
+29-22
+SFH
+Mål
+31
+JUHL Oliver
+74
+55.33
+SFH
+Udvisning
+8
+PEDERSEN Phillip
+75
+55.49
+30-22
+ROS
+Mål
+24
+JØRGENSEN Emil Beck
+76
+56.15
+30-23
+SFH
+Mål
+47
+JENSEN Nickolei
+77
+56.53
+30-24
+SFH
+Mål
+11
+SKØTT Sebastian
+78
+57.18
+31-24
+ROS
+Mål
+30
+KEMPF Philip
+79
+58.15
+32-24
+ROS
+Mål
+14
+CHRISTIANSEN Rogvi Dal
+80
+58.55
+SFH
+Tilkendt straffekast
+0
+81
+58.55
+32-25
+SFH
+Mål – straffekast
+9
+BAY Tobias
+82
+60.00
+32-25
+Fuld tid
+83
+60.00
+Side 2 af 2

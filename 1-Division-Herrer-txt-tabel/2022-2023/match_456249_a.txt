@@ -1,0 +1,610 @@
+Detaljeret kamprapport
+Kamp nr: 456 249  Række: 1. Division Herrer (M)
+Dato: 24/9-2022  Kl: 15:30
+Hal:  Frederiksberg Opvisning, Frederiksberg-Hallerne
+FIF - TMS Ringsted
+Side 1 af 1
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+1
+0.00
+2
+0.52
+1-0
+FIF
+Mål
+32
+KVIST Jens
+3
+1.46
+TMS
+Udvisning
+2
+MØLLER Joachim
+4
+2.02
+2-0
+FIF
+Mål
+25
+JEPPESEN Joachim Storm
+5
+3.51
+2-1
+TMS
+Mål
+17
+WOSNIAK Oliver
+6
+5.37
+3-1
+FIF
+Mål
+17
+LYKSTED Oliver Tvenstrup
+7
+6.57
+3-2
+TMS
+Mål
+83
+SCHILLING Pelle
+8
+7.06
+4-2
+FIF
+Mål
+25
+JEPPESEN Joachim Storm
+9
+7.45
+4-3
+TMS
+Mål
+21
+JUUL Andreas Cortés
+10
+8.41
+4-4
+TMS
+Mål
+17
+WOSNIAK Oliver
+11
+10.48
+5-4
+FIF
+Mål
+25
+JEPPESEN Joachim Storm
+12
+11.39
+5-5
+TMS
+Mål
+17
+WOSNIAK Oliver
+13
+11.46
+6-5
+FIF
+Mål
+42
+NICKELSEN Einar
+14
+12.40
+TMS
+Team Time Out
+15
+13.55
+6-6
+TMS
+Mål
+17
+WOSNIAK Oliver
+16
+14.28
+7-6
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+17
+15.08
+7-7
+TMS
+Mål
+21
+JUUL Andreas Cortés
+18
+18.03
+FIF
+Tilkendt straffekast
+0
+19
+18.24
+8-7
+FIF
+Mål – straffekast
+42
+NICKELSEN Einar
+20
+19.06
+9-7
+FIF
+Mål
+32
+KVIST Jens
+21
+19.54
+9-8
+TMS
+Mål
+25
+AGGER Anders
+22
+21.17
+10-8
+FIF
+Mål
+32
+KVIST Jens
+23
+21.54
+10-9
+TMS
+Mål
+85
+TESGAARD Oliver
+24
+22.45
+TMS
+Tilkendt straffekast
+0
+25
+23.06
+10-10
+TMS
+Mål – straffekast
+21
+JUUL Andreas Cortés
+26
+23.47
+FIF
+Udvisning
+42
+NICKELSEN Einar
+27
+24.13
+10-11
+TMS
+Mål
+81
+NIELSEN Tobias
+28
+25.03
+11-11
+FIF
+Mål
+8
+LIND Mathies
+29
+26.14
+12-11
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+30
+26.59
+FIF
+Team Time Out
+31
+27.09
+13-11
+FIF
+Mål
+7
+CHRISTENSEN Carl Baun
+32
+27.40
+13-12
+TMS
+Mål
+85
+TESGAARD Oliver
+33
+28.19
+14-12
+FIF
+Mål
+8
+LIND Mathies
+34
+28.28
+FIF
+Udvisning
+8
+LIND Mathies
+35
+28.44
+14-13
+TMS
+Mål
+83
+SCHILLING Pelle
+36
+28.51
+TMS
+37
+28.51
+TMS
+Udvisning
+5
+NIKOLAJSEN Mark
+38
+28.51
+TMS
+Advarsel
+A
+KEHR Michael
+39
+30.00
+15-13
+FIF
+Mål
+32
+KVIST Jens
+40
+30.00
+15-13
+Halvtid
+41
+30.00
+42
+30.25
+16-13
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+
+--- Side 2 ---
+Kamp nr: 456 249  Række: 1. Division Herrer (M) FIF - TMS Ringsted
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+43
+31.10
+TMS
+Tilkendt straffekast
+0
+44
+31.28
+16-14
+TMS
+Mål – straffekast
+21
+JUUL Andreas Cortés
+45
+32.19
+17-14
+FIF
+Mål
+8
+LIND Mathies
+46
+32.33
+17-15
+TMS
+Mål
+17
+WOSNIAK Oliver
+47
+33.12
+18-15
+FIF
+Mål
+8
+LIND Mathies
+48
+33.56
+19-15
+FIF
+Mål
+42
+NICKELSEN Einar
+49
+34.11
+19-16
+TMS
+Mål
+17
+WOSNIAK Oliver
+50
+35.08
+19-17
+TMS
+Mål
+17
+WOSNIAK Oliver
+51
+35.51
+20-17
+FIF
+Mål
+7
+CHRISTENSEN Carl Baun
+52
+35.52
+TMS
+Udvisning
+6
+THOR Sebastian
+53
+36.12
+20-18
+TMS
+Mål
+17
+WOSNIAK Oliver
+54
+36.21
+21-18
+FIF
+Mål
+7
+CHRISTENSEN Carl Baun
+55
+36.45
+FIF
+Udvisning
+15
+BOMELA Alexander
+56
+36.45
+TMS
+Tilkendt straffekast
+0
+57
+36.45
+21-19
+TMS
+Mål – straffekast
+21
+JUUL Andreas Cortés
+58
+37.24
+22-19
+FIF
+Mål
+8
+LIND Mathies
+59
+37.47
+22-20
+TMS
+Mål
+21
+JUUL Andreas Cortés
+60
+37.57
+23-20
+FIF
+Mål
+7
+CHRISTENSEN Carl Baun
+61
+38.16
+23-21
+TMS
+Mål
+21
+JUUL Andreas Cortés
+62
+39.17
+23-22
+TMS
+Mål
+17
+WOSNIAK Oliver
+63
+40.42
+24-22
+FIF
+Mål
+72
+LIND Fredrik Damsbjerg
+64
+41.25
+24-23
+TMS
+Mål
+17
+WOSNIAK Oliver
+65
+42.07
+24-24
+TMS
+Mål
+83
+SCHILLING Pelle
+66
+42.50
+24-25
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+67
+43.05
+FIF
+Team Time Out
+68
+43.36
+TMS
+Tilkendt straffekast
+0
+69
+43.53
+TMS
+Brændt straffe
+21
+JUUL Andreas Cortés
+70
+46.06
+24-26
+TMS
+Mål
+6
+THOR Sebastian
+71
+46.41
+TMS
+Udvisning
+17
+WOSNIAK Oliver
+72
+46.55
+25-26
+FIF
+Mål
+72
+LIND Fredrik Damsbjerg
+73
+48.13
+26-26
+FIF
+Mål
+4
+KELLER Nikolai Emil
+74
+48.42
+26-27
+TMS
+Mål
+21
+JUUL Andreas Cortés
+75
+49.54
+26-28
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+76
+50.06
+FIF
+Tilkendt straffekast
+0
+77
+50.07
+FIF
+Brændt straffe
+42
+NICKELSEN Einar
+78
+51.26
+26-29
+TMS
+Mål
+81
+NIELSEN Tobias
+79
+51.33
+27-29
+FIF
+Mål
+25
+JEPPESEN Joachim Storm
+80
+52.16
+TMS
+Team Time Out
+81
+52.57
+27-30
+TMS
+Mål
+17
+WOSNIAK Oliver
+82
+53.34
+28-30
+FIF
+Mål
+32
+KVIST Jens
+83
+54.41
+TMS
+Udvisning
+2
+MØLLER Joachim
+84
+56.04
+29-30
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+85
+56.47
+29-31
+TMS
+Mål
+5
+NIKOLAJSEN Mark
+86
+57.33
+30-31
+FIF
+Mål
+8
+LIND Mathies
+87
+58.15
+TMS
+Team Time Out
+88
+58.59
+31-31
+FIF
+Mål
+77
+DJURHUUS Jónas Gunnarsson
+Side 2 af 3
+
+--- Side 3 ---
+Kamp nr: 456 249  Række: 1. Division Herrer (M) FIF - TMS Ringsted
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+89
+59.51
+FIF
+Team Time Out
+90
+60.00
+32-31
+FIF
+Mål
+8
+LIND Mathies
+91
+60.00
+32-31
+Fuld tid
+92
+60.00
+Side 3 af 3

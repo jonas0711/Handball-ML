@@ -1,0 +1,521 @@
+Detaljeret kamprapport
+Kamp nr: 456 375  Række: 1. Division Herrer (M)
+Dato: 4/3-2023  Kl: 15:00
+Hal:  Jyllinge-hallen, Jyllingehallen
+HØJ Elite - Otterup HK
+Side 1 af 1
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+1
+0.00
+2
+0.29
+1-0
+HOJ
+Mål
+51
+HÖNING Max
+3
+1.25
+1-1
+OHK
+Mål
+7
+SELL Søren
+4
+2.14
+1-2
+OHK
+Mål
+2
+CHRISTENSEN Mikel Dalby
+5
+2.24
+HOJ
+Tilkendt straffekast
+0
+6
+2.44
+2-2
+HOJ
+Mål – straffekast
+5
+SPELLERBERG Bo
+7
+3.21
+2-3
+OHK
+Mål
+15
+HUUS Christopher
+8
+4.01
+2-4
+OHK
+Mål
+5
+NIELSEN Nick Bøg
+9
+4.07
+3-4
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+10
+5.02
+4-4
+HOJ
+Mål
+51
+HÖNING Max
+11
+5.50
+4-5
+OHK
+Mål
+15
+HUUS Christopher
+12
+6.54
+4-6
+OHK
+Mål
+5
+NIELSEN Nick Bøg
+13
+7.12
+OHK
+Advarsel
+2
+CHRISTENSEN Mikel Dalby
+14
+7.15
+HOJ
+Tilkendt straffekast
+0
+15
+7.25
+5-6
+HOJ
+Mål – straffekast
+5
+SPELLERBERG Bo
+16
+11.30
+HOJ
+Advarsel
+24
+WETZEL Tobias
+17
+11.56
+6-6
+HOJ
+Mål
+28
+IVERSEN Frederik
+18
+12.56
+7-6
+HOJ
+Mål
+2
+HANSEN Alexander Sohn
+19
+13.52
+OHK
+Udvisning
+2
+CHRISTENSEN Mikel Dalby
+20
+15.42
+8-6
+HOJ
+Mål
+28
+IVERSEN Frederik
+21
+16.51
+9-6
+HOJ
+Mål
+24
+WETZEL Tobias
+22
+17.06
+OHK
+Team Time Out
+23
+17.54
+10-6
+HOJ
+Mål
+2
+HANSEN Alexander Sohn
+24
+18.51
+11-6
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+25
+19.49
+HOJ
+Udvisning
+4
+HEMMINGSEN Lauge
+26
+20.10
+11-7
+OHK
+Mål
+10
+OMME Simon
+27
+20.58
+12-7
+HOJ
+Mål
+2
+HANSEN Alexander Sohn
+28
+21.17
+12-8
+OHK
+Mål
+10
+OMME Simon
+29
+22.29
+12-9
+OHK
+Mål
+4
+GLASIUS Morten
+30
+24.23
+13-9
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+31
+25.14
+OHK
+Udvisning
+5
+NIELSEN Nick Bøg
+32
+25.30
+14-9
+HOJ
+Mål
+24
+WETZEL Tobias
+33
+26.20
+14-10
+OHK
+Mål
+13
+MOSE Rasmus
+34
+27.36
+HOJ
+Team Time Out
+35
+28.45
+15-10
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+36
+29.36
+OHK
+Tilkendt straffekast
+0
+37
+29.54
+15-11
+OHK
+Mål – straffekast
+10
+OMME Simon
+38
+30.00
+15-11
+Halvtid
+39
+30.00
+40
+31.09
+16-11
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+41
+31.29
+16-12
+OHK
+Mål
+15
+HUUS Christopher
+42
+32.10
+OHK
+Udvisning
+2
+CHRISTENSEN Mikel Dalby
+
+--- Side 2 ---
+Kamp nr: 456 375  Række: 1. Division Herrer (M) HØJ Elite - Otterup HK
+Linje Tid
+Mål
+Hold
+Hændelse
+Nr
+Spiller
+43
+32.10
+HOJ
+Tilkendt straffekast
+0
+44
+32.10
+17-12
+HOJ
+Mål – straffekast
+5
+SPELLERBERG Bo
+45
+33.04
+18-12
+HOJ
+Mål
+9
+HANSEN Roi Berg
+46
+33.45
+19-12
+HOJ
+Mål
+23
+JONASSON Jeppe
+47
+37.01
+20-12
+HOJ
+Mål
+4
+HEMMINGSEN Lauge
+48
+37.13
+HOJ
+Udvisning
+24
+WETZEL Tobias
+49
+37.28
+20-13
+OHK
+Mål
+6
+SVAGIN Jeppe Bach
+50
+38.06
+21-13
+HOJ
+Mål
+20
+MYSSING Tobias
+51
+38.30
+21-14
+OHK
+Mål
+4
+GLASIUS Morten
+52
+39.11
+21-15
+OHK
+Mål
+10
+OMME Simon
+53
+41.35
+22-15
+HOJ
+Mål
+4
+HEMMINGSEN Lauge
+54
+42.32
+22-16
+OHK
+Mål
+4
+GLASIUS Morten
+55
+43.05
+23-16
+HOJ
+Mål
+2
+HANSEN Alexander Sohn
+56
+43.12
+OHK
+Team Time Out
+57
+43.34
+23-17
+OHK
+Mål
+10
+OMME Simon
+58
+43.43
+24-17
+HOJ
+Mål
+4
+HEMMINGSEN Lauge
+59
+45.36
+24-18
+OHK
+Mål
+21
+LARSEN Jeppe Lisberg
+60
+45.41
+25-18
+HOJ
+Mål
+20
+MYSSING Tobias
+61
+46.21
+26-18
+HOJ
+Mål
+20
+MYSSING Tobias
+62
+48.54
+27-18
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+63
+49.01
+OHK
+Team Time Out
+64
+49.24
+27-19
+OHK
+Mål
+13
+MOSE Rasmus
+65
+51.50
+28-19
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+66
+52.36
+28-20
+OHK
+Mål
+13
+MOSE Rasmus
+67
+52.42
+29-20
+HOJ
+Mål
+23
+JONASSON Jeppe
+68
+54.05
+HOJ
+Team Time Out
+69
+54.23
+30-20
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+70
+55.29
+31-20
+HOJ
+Mål
+11
+STROUSTRUP Marcus
+71
+55.36
+31-21
+OHK
+Mål
+3
+LARSEN Kristian
+72
+56.08
+32-21
+HOJ
+Mål
+10
+GARSDAL Lucas Lenler
+73
+56.18
+32-22
+OHK
+Mål
+10
+OMME Simon
+74
+57.28
+OHK
+Tilkendt straffekast
+0
+75
+57.48
+OHK
+Brændt straffe
+10
+OMME Simon
+76
+58.51
+32-23
+OHK
+Mål
+13
+MOSE Rasmus
+77
+59.58
+33-23
+HOJ
+Mål
+12
+MIKKELSEN Frank
+78
+60.00
+33-23
+Fuld tid
+79
+60.00
+Side 2 af 2
