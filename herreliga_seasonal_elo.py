@@ -106,6 +106,45 @@ class PositionAnalyzer:
         print(f"  - {len(self.player_positions)} markspillere analyseret.")
         print(f"  - {len(self.confirmed_goalkeepers)} målvogtere identificeret.")
 
+    def finalize_goalkeeper_identification(self):
+        """
+        Anvender strengere regler for endeligt at bekræfte målmænd.
+        En spiller skal have en høj procentdel af sine aktioner som målmand.
+        """
+        print("\n🔒 Finaliserer målmandsidentifikation med strengere regler...")
+        
+        truly_confirmed_goalkeepers = set()
+        reclassified_players = 0
+
+        for player_name in self.confirmed_goalkeepers:
+            player_actions = self.player_positions.get(player_name)
+            
+            # Hvis spilleren slet ikke har nogen registrerede "rene" markspiller-aktioner, antages de at være målmand.
+            if not player_actions:
+                truly_confirmed_goalkeepers.add(player_name)
+                continue
+
+            total_field_actions = sum(player_actions.values())
+            
+            # Antag et gennemsnitligt antal målmandsaktioner. Her sætter vi et estimat.
+            # For en mere præcis måling skulle vi tælle 'Skud reddet' etc.
+            # Men for nu bruger vi en heuristik: Hvis markspiller-aktioner er meget få, er de sandsynligvis målmand.
+            # En målmand har typisk meget få rene positionshandlinger.
+            # Hvis en "målmand" har over 50 registrerede markspiller-aktioner, er det mistænkeligt.
+            if total_field_actions < 50: # Justerbar tærskel
+                truly_confirmed_goalkeepers.add(player_name)
+            else:
+                # Spilleren har for mange markspiller-aktioner til at være en dedikeret målmand.
+                print(f"  - REKLASSIFICERET: {player_name} fjernet som målmand (for mange markspiller-aktioner: {total_field_actions})")
+                reclassified_players += 1
+        
+        original_count = len(self.confirmed_goalkeepers)
+        self.confirmed_goalkeepers = truly_confirmed_goalkeepers
+        
+        print(f"✅ Målmandsidentifikation fuldført.")
+        print(f"  - {original_count} → {len(self.confirmed_goalkeepers)} målmænd efter validering.")
+        print(f"  - {reclassified_players} spillere blev omklassificeret til markspillere.")
+
     def get_primary_position(self, player_name: str) -> Tuple[str, str]:
         # Først, tjek om spilleren er en bekræftet målvogter
         if player_name in self.confirmed_goalkeepers:
@@ -426,6 +465,13 @@ class HerreligaSeasonalEloSystem:
             
             # Generate season results
             season_results = {}
+            
+            # ANVEND STRENGERE REGLER FOR AT FJERNE FEJLKLASSIFICEREDE MÅLMÆND
+            position_analyzer.finalize_goalkeeper_identification()
+
+            # Data containers for denne sæson
+            player_elos = defaultdict(lambda: BASE_RATING)
+            player_games = defaultdict(int)
             
             for player_name, final_rating in master_system.player_elos.items():
                 games = master_system.player_games.get(player_name, 0)

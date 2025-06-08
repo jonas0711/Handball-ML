@@ -98,7 +98,51 @@ class PositionAnalyzer:
 
         print(f"✅ Positionsanalyse for {season} fuldført.")
         print(f"  - {len(self.player_positions)} markspillere analyseret.")
-        print(f"  - {len(self.confirmed_goalkeepers)} målvogtere identificeret.")
+        print(f"  - {len(self.confirmed_goalkeepers)} målmænd identificeret.")
+
+    def finalize_goalkeeper_identification(self):
+        """
+        🔒 Finaliserer målmandsidentifikation med STRENGERE regler for at undgå fejl.
+        En spiller skal opfylde ALLE følgende krav for at være målmand:
+        1. Mindst 60% af deres samlede aktioner skal være målmands-specifikke.
+        2. Må ikke have mere end 20 markspiller-aktioner.
+        """
+        print("\n🔒 Finaliserer målmandsidentifikation med strengere regler...")
+        reclassified_players = set()
+        
+        # Itererer over en kopi for at kunne modificere undervejs
+        for player_name in list(self.confirmed_goalkeepers):
+            positions = self.player_positions.get(player_name, Counter())
+            goalkeeper_actions = positions.get('MV', 0)
+            field_actions = sum(count for pos, count in positions.items() if pos != 'MV')
+            total_actions = goalkeeper_actions + field_actions
+            
+            is_valid_goalkeeper = True
+            reason = ""
+
+            if total_actions > 0:
+                goalkeeper_ratio = goalkeeper_actions / total_actions
+                if goalkeeper_ratio < 0.60:
+                    is_valid_goalkeeper = False
+                    reason = f"for lav målmands-andel ({goalkeeper_ratio:.1%})"
+                elif field_actions > 20: # Hård grænse for markspiller-aktioner
+                    is_valid_goalkeeper = False
+                    reason = f"for mange markspiller-aktioner ({field_actions})"
+            elif total_actions == 0:
+                 # Hvis ingen aktioner, kan de ikke valideres - behold som MV for nu
+                 pass
+
+            if not is_valid_goalkeeper:
+                reclassified_players.add(player_name)
+                print(f"  - REKLASSIFICERET: {player_name} fjernet som målmand ({reason})")
+
+        original_count = len(self.confirmed_goalkeepers)
+        self.confirmed_goalkeepers -= reclassified_players
+        
+        print("✅ Målmandsidentifikation fuldført.")
+        print(f"  - {original_count} → {len(self.confirmed_goalkeepers)} målmænd efter validering.")
+        if reclassified_players:
+            print(f"  - {len(reclassified_players)} spillere blev omklassificeret til markspillere.")
 
     def get_primary_position(self, player_name: str) -> Tuple[str, str]:
         if player_name in self.confirmed_goalkeepers:
@@ -603,6 +647,7 @@ class KvindeligaSeasonalEloSystem:
             # Princip 2: Kør separat positionsanalyse for Kvindeliga
             position_analyzer = PositionAnalyzer(self.base_dir, league_dir="Kvindeliga-database")
             position_analyzer.analyze_season(season)
+            position_analyzer.finalize_goalkeeper_identification()
 
             start_ratings = {}
             current_season_names = self._get_all_player_names_for_season(season)

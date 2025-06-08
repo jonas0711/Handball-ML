@@ -423,8 +423,8 @@ class MasterHandballEloSystem:
             mv_actions = position_counts.get('MV', 0)
             total_actions = sum(position_counts.values())
             
-            # Hvis spilleren har mindst 20% MV aktioner, klassificer som målvogter
-            if total_actions > 0 and mv_actions / total_actions >= 0.2:
+            # Hvis spilleren har mindst 60% MV aktioner, klassificer som målvogter (ØGET FRA 20%)
+            if total_actions > 0 and mv_actions / total_actions >= 0.6:
                 return True
                 
         # Check om spilleren har målvogter-specifikke handlinger
@@ -1256,14 +1256,28 @@ class MasterHandballEloSystem:
             total_actions = sum(position_counts.values())
             primary_percentage = position_counts[primary_position] / total_actions * 100
             
+            # Hent målvogter-specifikke stats
+            stats = self.goalkeeper_stats.get(player_name, {'saves': 0, 'penalty_saves': 0})
+            total_saves = stats.get('saves', 0) + stats.get('penalty_saves', 0)
+
             # Kun klassificer som målvogter hvis:
             # 1. Primær position er MV 
             # 2. De har målvogter aktioner
             # 3. Mindst 60% af deres aktioner er på MV position
+            # 4. De har mindst 5 redninger (skud eller straffe)
             if (primary_position == 'MV' and 
                 self.player_goalkeeper_actions.get(player_name, 0) > 0 and
-                primary_percentage >= 60):
-                updated_goalkeepers.add(player_name)
+                primary_percentage >= 60 and
+                total_saves >= 5):
+                
+                # REALITY CHECK: Advar hvis en "målvogter" har en unaturlig høj rating
+                player_rating = self.player_elos.get(player_name, self.rating_bounds['default_player'])
+                if player_rating > 1400:
+                    print(f"  ⚠️  REALITY CHECK: {player_name} opfylder MV-kriterier, men har ELO > 1400 ({player_rating:.0f}). Reklassificeres som markspiller.")
+                    position_changes += 1 # Tæller som en ændring
+                else:
+                    updated_goalkeepers.add(player_name)
+            
             elif player_name in self.confirmed_goalkeepers:
                 # Spiller var før målvogter men har nu flere aktioner på anden position
                 position_changes += 1
