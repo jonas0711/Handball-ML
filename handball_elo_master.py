@@ -76,7 +76,7 @@ class MasterHandballEloSystem:
         self.k_factors = {
             'team': 14,          # Team K-faktor (reduceret for stabilitet)
             'player': 8,         # Udspiller K-faktor (øget for responsivitet)
-            'goalkeeper': 6      # Målvogter K-faktor (øget for balance)
+            'goalkeeper': 8      # Målvogter K-faktor (øget for balance)
         }
         
         # Rating bounds (DRAMATISK udvidet range for større spredning)
@@ -121,8 +121,8 @@ class MasterHandballEloSystem:
             'Forårs. str.': -35,               # Flyttet fra negativ sektion
             
             # === POSITIVE HANDLINGER FOR MÅLVOGTERE (REBALANCERET!) ===
-            'Skud reddet': 45,                 # REDUCERET fra 85 - var alt for højt!
-            'Straffekast reddet': 65,          # REDUCERET fra 120 - var alt for højt!
+            'Skud reddet': 70,                 # REDUCERET fra 85 - var alt for højt!
+            'Straffekast reddet': 120,          # REDUCERET fra 120 - var alt for højt!
             
             # === NEUTRALE/SVAGT NEGATIVE ===
             'Skud på stolpe': -5,              # Øget fra -3
@@ -155,8 +155,8 @@ class MasterHandballEloSystem:
         # === KRITISK: MÅLVOGTER-SPECIFIKKE VÆGTE (MODERERET!) ===
         # Når modstanderen scorer MOD målvogteren - MODERAT STRAF
         self.goalkeeper_penalty_weights = {
-            'Mål': -25,                        # ØGET fra -15 - mere realistisk straf
-            'Mål på straffe': -30,             # ØGET fra -20 - straffe skal stadig straffe
+            'Mål': -15,                        # ØGET fra -15 - mere realistisk straf
+            'Mål på straffe': -20,             # ØGET fra -20 - straffe skal stadig straffe
             'Skud på stolpe': 15,              # REDUCERET fra 25 - var for højt
             'Straffekast på stolpe': 20,       # REDUCERET fra 35 - var for højt
         }
@@ -170,10 +170,10 @@ class MasterHandballEloSystem:
                 'role': 'Defensiv specialist og sidste linje - KRITISK for håndbold',
                 
                 # MODERATE BONUSER for redninger (ikke for højt!)
-                'Skud reddet': 2.2,                # KRAFTIGT REDUCERET fra 6.5 - var alt for højt!
-                'Straffekast reddet': 2.8,          # KRAFTIGT REDUCERET fra 8.0 - var alt for højt!
-                'Skud på stolpe': 1.8,              # KRAFTIGT REDUCERET fra 4.5 - var alt for højt!
-                'Straffekast på stolpe': 2.2,       # KRAFTIGT REDUCERET fra 6.0 - var alt for højt!
+                'Skud reddet': 3.0,                # KRAFTIGT REDUCERET fra 6.5 - var alt for højt!
+                'Straffekast reddet': 3.5,          # KRAFTIGT REDUCERET fra 8.0 - var alt for højt!
+                'Skud på stolpe': 2.5,              # KRAFTIGT REDUCERET fra 4.5 - var alt for højt!
+                'Straffekast på stolpe': 3.0,       # KRAFTIGT REDUCERET fra 6.0 - var alt for højt!
                 
                 # SCORENDE MÅLVOGTER (sjældent men værdifuldt)
                 'Mål': 2.0,                         # REDUCERET fra 3.5 - var for højt
@@ -783,10 +783,10 @@ class MasterHandballEloSystem:
         # MODERATE BONUS for målvogter redninger - kun i kritiske situationer!
         if action in ['Skud reddet', 'Straffekast reddet']:
             if timing_multiplier >= 2.0 and score_diff <= 1:  # Meget tæt slutspil
-                goalkeeper_critical_bonus = 1.8  # REDUCERET fra 5.0 - var alt for højt!
+                goalkeeper_critical_bonus = 3.0  # REDUCERET fra 5.0 - var alt for højt!
                 print(f"      🥅⚡ MÅLVOGTER KRITISK: {action} i tæt slutspil ved {time_val:.1f} min!")
             elif timing_multiplier >= 1.8 and score_diff <= 2:  # Tæt kamp i vigtig fase
-                goalkeeper_critical_bonus = 1.5  # REDUCERET fra 3.5 - var alt for højt!
+                goalkeeper_critical_bonus = 2.2  # REDUCERET fra 3.5 - var alt for højt!
                 print(f"      🥅📈 MÅLVOGTER VIGTIG: {action} i tæt kamp ved {time_val:.1f} min!")
             elif timing_multiplier >= 1.5 and score_diff <= 1:  # Kun meget kritiske situationer
                 goalkeeper_critical_bonus = 1.3  # REDUCERET fra 2.5 - kun for virkelig kritiske!
