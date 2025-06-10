@@ -468,6 +468,9 @@ class HerreligaSeasonalEloSystem:
             
             # ANVEND STRENGERE REGLER FOR AT FJERNE FEJLKLASSIFICEREDE MÅLMÆND
             position_analyzer.finalize_goalkeeper_identification()
+            
+            # ANVEND MASTER SYSTEMETS STRENGE REGLER EFTER SÆSON-PROCESSERING
+            master_system.finalize_goalkeeper_identification()
 
             # Data containers for denne sæson
             player_elos = defaultdict(lambda: BASE_RATING)

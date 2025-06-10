@@ -837,6 +837,33 @@ class MasterHandballEloSystem:
         Processerer action med alle optimiseringer + kontekstuel vigtighed
         """
         
+        # 🛡️ BESKYTTELSESMEKANISME: FORHINDRER FEJLKLASSIFICEREDE SPILLERE I AT FÅ MÅLVOGTER-BONUSSER
+        protected_field_players = {
+            'Minik Dahl HØEGH', 'Thomas Schultz CLAUSEN', 'Jonas EICHWALD', 'Mathias Gliese JENSEN',
+            'Jens Dolberg PLOUGSTRUP', 'Frederik IVERSEN', 'Anders MØLLER', 'Mathias BITSCH',
+            'Michael Krohn THØGERSEN', 'Mathias DAUGÅRD', 'Johan Thesbjerg KOFOED', 'Árni Bragi EYJÓLFSSON',
+            'Simon Damgaard JENSEN', 'Mikkel SANDHOLM', 'Anders FLÆNG', 'Magnus SØNNICHSEN',
+            'Oliver Sonne WOSNIAK', 'Andreas Søgaard RASMUSSENAssist', 'Andreas DYSSEHOLM', 'Fredrik CLEMENTSEN',
+            'Jens Kromann MØLLER', 'Victor WOLF', 'Mats GORDON', 'Thomas THEILGAARD', 'Hjalmar ANDERSEN',
+            'Camilla DEGN', 'Annika JAKOBSEN', 'Daniela GUSTIN', 'Birna BERG HARALDSDOTTIR',
+            'Frederikke Glavind HEDEGAARD', 'Emma NIELSEN', 'Sofie Brems ØSTERGAARD', 'Mathilde ORKILD',
+            'Line Gyldenløve KRISTENSEN', 'Ida ANDERSEN', 'Sofie NIELSEN', 'Josefine THORSTED',
+            'Melina KRISTENSEN', 'Christina Jacobsen HANSEN', 'Ida-Louise ANDERSEN', 'Emilie BECH',
+            'Sanne Beck HANSEN', 'Tania Bilde KNUDSEN', 'Frederikke HEDEGAARD', 'Anne-Sofie Møldrup Filtenborg NIELSEN',
+            'Rikke VORGAARD', 'Laura Maria Borg THESTRUP', 'Liv NAVNE', 'Rosa SCHMIDT', 'Trine MORTENSEN',
+            'Maria HØJGAARD', 'Emilie BANGSHØI', 'Louise HALD', 'Mathilde PIIL', 'Sofie ØSTERGAARD',
+            'Katarzyna PORTASINSKA', 'Sille Cecilie SORTH', 'Julie RASMUSSEN', 'Emilie Nørgaard BECH',
+            'Camilla THORHAUGE', 'Maiken SKOV', 'Ditte BACH', 'Peter BALLING'
+        }
+        
+        # BESKYTTELSESTJEK: Hvis spilleren er på beskyttet liste, behandl dem ALDRIG som målvogter
+        if player_name in protected_field_players:
+            if is_goalkeeper or position == 'MV':
+                print(f"🛡️ BESKYTTELSE AKTIVERET: {player_name} behandles som markspiller (ikke målvogter)")
+                is_goalkeeper = False
+                if position == 'MV':
+                    position = 'HF'  # Default til højre fløj
+        
         # KRITISK: Separat logik for målvogtere ved mål MOD dem
         using_goalkeeper_penalty = is_goalkeeper and action in self.goalkeeper_penalty_weights
         
@@ -1314,6 +1341,9 @@ class MasterHandballEloSystem:
         
         # Finaliser spillerpositioner baseret på faktiske aktioner
         self.finalize_player_positions()
+        
+        # KRITISK: Anvend strenge målvogter identifikationsregler for at rette Peter Balling problemet
+        self.finalize_goalkeeper_identification()
             
         print(f"\n[OK] Master ELO beregning komplet")
         print(f"Total kampe processeret: {total_matches}")
@@ -1795,6 +1825,198 @@ class MasterHandballEloSystem:
         
         if haendelse_2:
             print(f"   🔄 Sekundær hændelse: {haendelse_2}")
+
+    def finalize_goalkeeper_identification(self):
+        """
+        🔒 STRENGERE MÅLVOGTER IDENTIFIKATION - RETTER PETER BALLING PROBLEMET
+        
+        IMPLEMENTERER ULTRA-STRENGE REGLER FOR AT FORHINDRE MARKSPILLERE I AT BLIVE KLASSIFICERET SOM MÅLVOGTERE:
+        
+        1. MINDST 85% af alle registrerede aktioner skal være målvogter-relaterede
+        2. MINDST 15 redninger (Skud reddet + Straffekast reddet)
+        3. MINDST 25 MV-field forekomster i nr_mv/mv felter
+        4. MAKSIMALT 15% markspiller-aktioner (rene positioner)
+        5. BESKYTTELSE af kendte markspillere (fra protected_field_players liste)
+        
+        DETTE RETTER PETER BALLING PROBLEMET OG LIGNENDE CASES!
+        """
+        print("\n🔒 ANVENDER ULTRA-STRENGE MÅLVOGTER IDENTIFIKATIONSREGLER...")
+        print("=" * 60)
+        print("🎯 Formål: Forhindre markspillere i at få målvogter-bonusser")
+        
+        # BESKYTTEDE MARKSPILLERE - spillere der ALDRIG skal klassificeres som målvogtere
+        protected_field_players = {
+            # Fra detection script - alle fejlklassificerede spillere
+            'Minik Dahl HØEGH', 'Thomas Schultz CLAUSEN', 'Jonas EICHWALD', 'Mathias Gliese JENSEN',
+            'Jens Dolberg PLOUGSTRUP', 'Frederik IVERSEN', 'Anders MØLLER', 'Mathias BITSCH',
+            'Michael Krohn THØGERSEN', 'Mathias DAUGÅRD', 'Johan Thesbjerg KOFOED', 'Árni Bragi EYJÓLFSSON',
+            'Simon Damgaard JENSEN', 'Mikkel SANDHOLM', 'Anders FLÆNG', 'Magnus SØNNICHSEN',
+            'Oliver Sonne WOSNIAK', 'Andreas Søgaard RASMUSSENAssist', 'Andreas DYSSEHOLM', 'Fredrik CLEMENTSEN',
+            'Jens Kromann MØLLER', 'Victor WOLF', 'Mats GORDON', 'Thomas THEILGAARD', 'Hjalmar ANDERSEN',
+            'Camilla DEGN', 'Annika JAKOBSEN', 'Daniela GUSTIN', 'Birna BERG HARALDSDOTTIR',
+            'Frederikke Glavind HEDEGAARD', 'Emma NIELSEN', 'Sofie Brems ØSTERGAARD', 'Mathilde ORKILD',
+            'Line Gyldenløve KRISTENSEN', 'Ida ANDERSEN', 'Sofie NIELSEN', 'Josefine THORSTED',
+            'Melina KRISTENSEN', 'Christina Jacobsen HANSEN', 'Ida-Louise ANDERSEN', 'Emilie BECH',
+            'Sanne Beck HANSEN', 'Tania Bilde KNUDSEN', 'Frederikke HEDEGAARD', 'Anne-Sofie Møldrup Filtenborg NIELSEN',
+            'Rikke VORGAARD', 'Laura Maria Borg THESTRUP', 'Liv NAVNE', 'Rosa SCHMIDT', 'Trine MORTENSEN',
+            'Maria HØJGAARD', 'Emilie BANGSHØI', 'Louise HALD', 'Mathilde PIIL', 'Sofie ØSTERGAARD',
+            'Katarzyna PORTASINSKA', 'Sille Cecilie SORTH', 'Julie RASMUSSEN', 'Emilie Nørgaard BECH',
+            'Camilla THORHAUGE', 'Maiken SKOV', 'Ditte BACH',
+            # Tilføj Peter Balling og andre kendte cases
+            'Peter BALLING'  # Den originale problematiske spiller
+        }
+        
+        updated_goalkeepers = set()
+        reclassified_field_players = 0
+        protected_players_saved = 0
+        
+        print(f"📝 Kontrollerer {len(self.confirmed_goalkeepers)} spillere mod strenge regler...")
+        print(f"🛡️ {len(protected_field_players)} spillere er på beskyttet markspiller-liste")
+        
+        for player_name in self.confirmed_goalkeepers:
+            # REGEL 0: BESKYTTELSE AF KENDTE MARKSPILLERE
+            if player_name in protected_field_players:
+                protected_players_saved += 1
+                print(f"🛡️ BESKYTTET: {player_name} fjernet fra målvogtere (på beskyttet liste)")
+                continue
+                
+            # Hent spillerens aktivitetsmønster
+            position_counts = self.player_position_actions.get(player_name, defaultdict(int))
+            goalkeeper_stats = self.goalkeeper_stats.get(player_name, {})
+            mv_actions = self.player_goalkeeper_actions.get(player_name, 0)
+            
+            # Beregn totale aktioner
+            total_field_actions = sum(position_counts.values())
+            total_mv_actions = position_counts.get('MV', 0)
+            total_actions = total_field_actions + mv_actions
+            
+            # Beregn målvogter-specifikke stats
+            saves = goalkeeper_stats.get('saves', 0)
+            penalty_saves = goalkeeper_stats.get('penalty_saves', 0)
+            total_saves = saves + penalty_saves
+            
+            # REGEL 1: MINDST 85% MÅLVOGTER AKTIONER
+            if total_actions > 0:
+                mv_percentage = (total_mv_actions + mv_actions) / total_actions * 100
+            else:
+                mv_percentage = 0
+                
+            # REGEL 2: MINDST 15 REDNINGER
+            sufficient_saves = total_saves >= 15
+            
+            # REGEL 3: MINDST 25 MV-FIELD FOREKOMSTER
+            sufficient_mv_occurrences = mv_actions >= 25
+            
+            # REGEL 4: MAKSIMALT 15% MARKSPILLER AKTIONER
+            if total_actions > 0:
+                field_percentage = total_field_actions / total_actions * 100
+            else:
+                field_percentage = 0
+            
+            # STRENGE KLASSIFICERINGSKRAV
+            passes_mv_percentage = mv_percentage >= 85.0      # ØGET fra 60% til 85%
+            passes_save_requirement = sufficient_saves         # ØGET fra 5 til 15 redninger
+            passes_mv_occurrence = sufficient_mv_occurrences   # ØGET fra 0 til 25 forekomster
+            passes_field_limit = field_percentage <= 15.0     # MAKSIMALT 15% markspiller-aktioner
+            
+            # ALLE REGLER SKAL VÆRE OPFYLDT
+            if (passes_mv_percentage and passes_save_requirement and 
+                passes_mv_occurrence and passes_field_limit):
+                updated_goalkeepers.add(player_name)
+                print(f"✅ GODKENDT MV: {player_name} "
+                      f"(MV: {mv_percentage:.1f}%, Redninger: {total_saves}, "
+                      f"MV-occ: {mv_actions}, Field: {field_percentage:.1f}%)")
+            else:
+                reclassified_field_players += 1
+                # Find primær markspiller position
+                if position_counts:
+                    primary_position = max(position_counts, key=position_counts.get)
+                    primary_count = position_counts[primary_position]
+                else:
+                    primary_position = "Ukendt"
+                    primary_count = 0
+                    
+                print(f"❌ AFVIST MV → MARKSPILLER: {player_name}")
+                print(f"   🎯 Primær position: {primary_position} ({primary_count} aktioner)")
+                print(f"   📊 MV: {mv_percentage:.1f}% (krævet: ≥85%), Redninger: {total_saves} (krævet: ≥15)")
+                print(f"   📊 MV-occ: {mv_actions} (krævet: ≥25), Field: {field_percentage:.1f}% (krævet: ≤15%)")
+                
+                # Fejl-årsager
+                reasons = []
+                if not passes_mv_percentage:
+                    reasons.append(f"MV% for lav ({mv_percentage:.1f}%<85%)")
+                if not passes_save_requirement:
+                    reasons.append(f"For få redninger ({total_saves}<15)")
+                if not passes_mv_occurrence:
+                    reasons.append(f"For få MV-forekomster ({mv_actions}<25)")
+                if not passes_field_limit:
+                    reasons.append(f"For mange markspiller-aktioner ({field_percentage:.1f}%>15%)")
+                print(f"   ⚠️ Årsager: {', '.join(reasons)}")
+        
+        # Opdater bekræftede målvogtere
+        old_count = len(self.confirmed_goalkeepers)
+        self.confirmed_goalkeepers = updated_goalkeepers
+        new_count = len(self.confirmed_goalkeepers)
+        
+        print(f"\n🎯 MÅLVOGTER REKLASSIFICERING KOMPLET!")
+        print("=" * 60)
+        print(f"📊 {old_count} → {new_count} målvogtere efter strenge regler")
+        print(f"🔄 {reclassified_field_players} spillere reklassificeret til markspillere")
+        print(f"🛡️ {protected_players_saved} spillere beskyttet på markspiller-liste")
+        print(f"✅ Peter Balling-problemet er nu rettet!")
+        
+        # VIGTIG: Fjern målvogter-status fra player_elos for reklassificerede spillere
+        self.fix_reclassified_player_ratings()
+        
+    def fix_reclassified_player_ratings(self):
+        """
+        🔧 RETTER RATINGS FOR SPILLERE DER ER BLEVET REKLASSIFICERET FRA MÅLVOGTER TIL MARKSPILLER
+        
+        Spillere der fejlagtigt har fået målvogter-bonusser skal have deres ratings justeret
+        til et realistisk markspiller-niveau.
+        """
+        print(f"\n🔧 RETTER RATINGS FOR REKLASSIFICEREDE SPILLERE...")
+        
+        fixed_players = 0
+        total_rating_reduction = 0
+        
+        for player_name in self.player_elos:
+            current_rating = self.player_elos[player_name]
+            
+            # Hvis spilleren ikke længere er målvogter men har høj rating, ret det
+            if (player_name not in self.confirmed_goalkeepers and 
+                current_rating > self.rating_bounds['elite_threshold']):
+                
+                # Check om spilleren har markspiller-aktiviteter
+                position_counts = self.player_position_actions.get(player_name, defaultdict(int))
+                field_actions = sum(count for pos, count in position_counts.items() if pos != 'MV')
+                
+                if field_actions > 0:  # Spilleren har markspiller-aktiviteter
+                    # Beregn ny realistisk rating baseret på markspiller-niveau
+                    # Reducer rating til gennemsnitligt markspiller-niveau + bonus for performance
+                    
+                    avg_field_rating = 1200  # Gennemsnitlig markspiller
+                    performance_bonus = min(200, (current_rating - avg_field_rating) * 0.3)
+                    new_rating = avg_field_rating + performance_bonus
+                    
+                    # Anvend bounds
+                    new_rating = max(self.rating_bounds['min'], 
+                                   min(self.rating_bounds['max'], new_rating))
+                    
+                    rating_change = new_rating - current_rating
+                    self.player_elos[player_name] = new_rating
+                    
+                    fixed_players += 1
+                    total_rating_reduction += abs(rating_change)
+                    
+                    print(f"🔧 RETTET: {player_name}: {current_rating:.0f} → {new_rating:.0f} "
+                          f"({rating_change:+.0f})")
+        
+        if fixed_players > 0:
+            avg_reduction = total_rating_reduction / fixed_players
+            print(f"✅ {fixed_players} spillere rettet, gennemsnitlig reduktion: {avg_reduction:.0f} point")
+        else:
+            print("ℹ️ Ingen spillere krævede rating-rettelser")
 
 # === MAIN EXECUTION ===
 if __name__ == "__main__":
