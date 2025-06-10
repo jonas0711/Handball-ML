@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-SEBASTIAN SKUBE,BSH,Bjerringbro-Silkeborg,1677.3,35,HF,False,LEGENDARY,275.2
-JACOB LASSEN,BSH,Bjerringbro-Silkeborg,1674.6,35,HF,False,LEGENDARY,330.2
-NIKOLAJ ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1623.6,33,HF,False,LEGENDARY,226.0
-MADS KJELDGAARD ANDERSEN,BSH,Bjerringbro-Silkeborg,1503.6,33,HF,False,LEGENDARY,157.1
-JESPER NØDDESBO,BSH,Bjerringbro-Silkeborg,1296.7,28,HF,False,ELITE,64.4
-AUGUST BASKÅR PEDERSEN,BSH,Bjerringbro-Silkeborg,1276.7,29,VF,False,ELITE,125.5
-MADS ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1274.1,30,HF,False,ELITE,77.2
-AKSEL HORGEN,BSH,Bjerringbro-Silkeborg,1198.6,34,HF,False,NORMAL,183.6
-WILLIAM BOGOJEVIC,BSH,Bjerringbro-Silkeborg,1187.1,33,HF,False,NORMAL,172.1
-ALEXANDER LYNGGAARD,BSH,Bjerringbro-Silkeborg,1118.3,35,ST,False,NORMAL,103.3
-SEBASTIAN SKØTT,BSH,Bjerringbro-Silkeborg,1114.6,14,VF,False,NORMAL,25.4
-KASPER LARSEN,BSH,Bjerringbro-Silkeborg,1087.2,32,MV,True,NORMAL,11.3
-KLAUS THOMSEN,BSH,Bjerringbro-Silkeborg,1038.5,18,HF,False,NORMAL,-15.5
-RENÉ TOFT HANSEN,BSH,Bjerringbro-Silkeborg,1038.2,33,HF,False,NORMAL,23.2
-JOHAN SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1031.9,26,MV,True,NORMAL,16.9
-LEON HENRIKSEN,BSH,Bjerringbro-Silkeborg,1013.7,5,HF,False,NORMAL,-1.3
+JACOB LASSEN,BSH,Bjerringbro-Silkeborg,1702.6999999999998,35,PL,False,LEGENDARY,339.1
+SEBASTIAN SKUBE,BSH,Bjerringbro-Silkeborg,1665.2,35,PL,False,LEGENDARY,266.3
+NIKOLAJ ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1654.7,33,PL,False,LEGENDARY,251.9
+MADS KJELDGAARD ANDERSEN,BSH,Bjerringbro-Silkeborg,1496.0,33,PL,False,LEGENDARY,158.4
+KASPER LARSEN,BSH,Bjerringbro-Silkeborg,1330.0,32,MV,True,ELITE,155.6
+JESPER NØDDESBO,BSH,Bjerringbro-Silkeborg,1328.1,28,ST,False,ELITE,73.7
+MADS ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1325.0,30,PL,False,ELITE,84.3
+AUGUST BASKÅR PEDERSEN,BSH,Bjerringbro-Silkeborg,1246.1,29,VF,False,NORMAL,110.2
+JOHAN SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1199.2,26,MV,True,NORMAL,184.2
+WILLIAM BOGOJEVIC,BSH,Bjerringbro-Silkeborg,1198.5,33,PL,False,NORMAL,183.5
+AKSEL HORGEN,BSH,Bjerringbro-Silkeborg,1196.3,34,HF,False,NORMAL,181.3
+SEBASTIAN SKØTT,BSH,Bjerringbro-Silkeborg,1129.7,14,VF,False,NORMAL,25.5
+ALEXANDER LYNGGAARD,BSH,Bjerringbro-Silkeborg,1116.9,35,ST,False,NORMAL,101.9
+KLAUS THOMSEN,BSH,Bjerringbro-Silkeborg,1059.6,18,Ukendt,False,NORMAL,-15.6
+RENÉ TOFT HANSEN,BSH,Bjerringbro-Silkeborg,1040.5,33,ST,False,NORMAL,25.5
+LEON HENRIKSEN,BSH,Bjerringbro-Silkeborg,1013.7,5,Ukendt,False,NORMAL,-1.3

@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-LOUISE ELLEBÆK,SJK,SønderjyskE Kvindehåndbold,1547.1,26,HF,False,LEGENDARY,302.9
-LEA HANSEN,SJK,SønderjyskE Kvindehåndbold,1529.6,24,HF,False,LEGENDARY,228.9
-SARAH DALSGAARD PAULSEN,SJK,SønderjyskE Kvindehåndbold,1362.9,23,HF,False,ELITE,347.9
-PERNILLE JOHANNSEN,SJK,SønderjyskE Kvindehåndbold,1296.4,28,HF,False,ELITE,189.2
-OLIVIA SIMONSEN,SJK,SønderjyskE Kvindehåndbold,1271.6,28,HF,False,ELITE,186.0
-JOSEFINE DRAGENBERG,SJK,SønderjyskE Kvindehåndbold,1267.7,24,HF,False,ELITE,102.7
-METTE LASSEN,SJK,SønderjyskE Kvindehåndbold,1245.0,23,VF,False,NORMAL,150.3
-RICKA FALK GINDRUP,SJK,SønderjyskE Kvindehåndbold,1212.7,25,ST,False,NORMAL,121.7
-CELINA HEHNEL HANSEN,SJK,SønderjyskE Kvindehåndbold,1179.9,19,HF,False,NORMAL,89.7
-ELINE OSLAND,SJK,SønderjyskE Kvindehåndbold,1161.9,25,HF,False,NORMAL,146.9
-KATJA JOHANSEN,SJK,SønderjyskE Kvindehåndbold,1158.6,21,VF,False,NORMAL,67.3
-SOFIE SCHELDE-RASMUSSEN,SJK,SønderjyskE Kvindehåndbold,1125.2,24,HF,False,NORMAL,28.8
-STINE BROLØS,SJK,SønderjyskE Kvindehåndbold,1082.9,23,MV,True,NORMAL,0.8
-ALBERTE STENDERUP RASMUSSEN,SJK,SønderjyskE Kvindehåndbold,1080.1,26,MV,True,NORMAL,-11.0
-TINE GEERTSEN,SJK,SønderjyskE Kvindehåndbold,1011.4,6,HF,False,NORMAL,-3.6
-PETER NIELSEN,SJK,SønderjyskE Kvindehåndbold,1010.0,12,HF,False,NORMAL,-5.0
+LOUISE ELLEBÆK,SJK,SønderjyskE Kvindehåndbold,1592.4,26,VB,False,LEGENDARY,333.7
+LEA HANSEN,SJK,SønderjyskE Kvindehåndbold,1486.3,24,HF,False,LEGENDARY,195.6
+SARAH DALSGAARD PAULSEN,SJK,SønderjyskE Kvindehåndbold,1407.6,23,PL,False,LEGENDARY,392.6
+PERNILLE JOHANNSEN,SJK,SønderjyskE Kvindehåndbold,1281.2,28,HF,False,ELITE,169.2
+JOSEFINE DRAGENBERG,SJK,SønderjyskE Kvindehåndbold,1269.3,24,ST,False,ELITE,101.5
+OLIVIA SIMONSEN,SJK,SønderjyskE Kvindehåndbold,1257.0,28,PL,False,ELITE,154.7
+RICKA FALK GINDRUP,SJK,SønderjyskE Kvindehåndbold,1225.3,25,ST,False,NORMAL,133.6
+METTE LASSEN,SJK,SønderjyskE Kvindehåndbold,1221.3,23,VF,False,NORMAL,129.8
+ELINE OSLAND,SJK,SønderjyskE Kvindehåndbold,1191.3,25,VB,False,NORMAL,176.3
+CELINA HEHNEL HANSEN,SJK,SønderjyskE Kvindehåndbold,1174.8,19,HB,False,NORMAL,86.5
+KATJA JOHANSEN,SJK,SønderjyskE Kvindehåndbold,1163.9,21,VF,False,NORMAL,64.7
+SOFIE SCHELDE-RASMUSSEN,SJK,SønderjyskE Kvindehåndbold,1135.4,24,PL,False,NORMAL,37.4
+STINE BROLØS,SJK,SønderjyskE Kvindehåndbold,1088.5,23,MV,True,NORMAL,0.8
+ALBERTE STENDERUP RASMUSSEN,SJK,SønderjyskE Kvindehåndbold,1081.9,26,MV,True,NORMAL,-14.4
+TINE GEERTSEN,SJK,SønderjyskE Kvindehåndbold,1011.3,6,PL,False,NORMAL,-3.7
+PETER NIELSEN,SJK,SønderjyskE Kvindehåndbold,1010.0,12,Ukendt,False,NORMAL,-5.0

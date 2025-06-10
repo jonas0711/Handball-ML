@@ -1,21 +1,21 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-AARON MENSING,SJH,SønderjyskE Herrehåndbold,1400.6,27,HF,False,LEGENDARY,213.3
-CHRIS HOLM JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1327.9,18,HF,False,ELITE,148.2
-OLIVER NØDDESBO EGGERT,SJH,SønderjyskE Herrehåndbold,1313.1,29,HF,False,ELITE,143.5
-MIKKEL KJÆR MØLLER,SJH,SønderjyskE Herrehåndbold,1306.4,28,HF,False,ELITE,163.1
-CHRISTIAN JENSEN,SJH,SønderjyskE Herrehåndbold,1225.9,14,HF,False,NORMAL,113.1
-RASMUS NIELSEN,SJH,SønderjyskE Herrehåndbold,1201.1,18,HF,False,NORMAL,97.1
-FREDERIK LADEFOGED,SJH,SønderjyskE Herrehåndbold,1198.8,29,HF,False,NORMAL,85.2
-KASPER OLSEN,SJH,SønderjyskE Herrehåndbold,1163.9,23,HF,False,NORMAL,59.2
-ARNAR BIRKIR HÁLFDÁNSSON,SJH,SønderjyskE Herrehåndbold,1151.7,24,HF,False,NORMAL,136.7
-ALEXANDER HANSEN,SJH,SønderjyskE Herrehåndbold,1137.4,14,HF,False,NORMAL,15.7
-FREDERIK BØRM,SJH,SønderjyskE Herrehåndbold,1129.7,32,ST,False,NORMAL,70.8
-MARTIN KÆRGAARD PEDERSEN,SJH,SønderjyskE Herrehåndbold,1102.0,19,ST,False,NORMAL,35.0
-MIKKEL HANSEN,SJH,SønderjyskE Herrehåndbold,1093.2,14,HF,False,NORMAL,33.5
-ARNAR BIRKIR HÁLFÁNSSON,SJH,SønderjyskE Herrehåndbold,1049.2,8,HF,False,NORMAL,34.2
-KRISTIAN DAHL PEDERSEN,SJH,SønderjyskE Herrehåndbold,1042.7,30,MV,True,NORMAL,5.8
-THORSTEN FRIES,SJH,SønderjyskE Herrehåndbold,1034.8,26,MV,True,NORMAL,2.3
-KASPER CHRISTENSEN,SJH,SønderjyskE Herrehåndbold,1034.1999999999998,8,HF,False,NORMAL,-2.4
-STEFFAN KJER HØI,SJH,SønderjyskE Herrehåndbold,1024.5,6,HF,False,NORMAL,9.5
-RASMUS BERTELSEN,SJH,SønderjyskE Herrehåndbold,1017.1,26,HF,False,NORMAL,2.1
-HENRIK NORDLANDER,SJH,SønderjyskE Herrehåndbold,1016.1,19,MV,True,NORMAL,1.1
+AARON MENSING,SJH,SønderjyskE Herrehåndbold,1497.5,27,VB,False,LEGENDARY,267.2
+CHRIS HOLM JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1381.9,18,PL,False,ELITE,157.1
+OLIVER NØDDESBO EGGERT,SJH,SønderjyskE Herrehåndbold,1352.0,29,PL,False,ELITE,159.9
+MIKKEL KJÆR MØLLER,SJH,SønderjyskE Herrehåndbold,1286.9,28,VF,False,ELITE,158.8
+FREDERIK LADEFOGED,SJH,SønderjyskE Herrehåndbold,1198.0,29,ST,False,NORMAL,86.7
+CHRISTIAN JENSEN,SJH,SønderjyskE Herrehåndbold,1197.6,14,HF,False,NORMAL,97.4
+RASMUS NIELSEN,SJH,SønderjyskE Herrehåndbold,1195.0,18,HF,False,NORMAL,96.1
+KASPER OLSEN,SJH,SønderjyskE Herrehåndbold,1178.7,23,PL,False,NORMAL,68.0
+ARNAR BIRKIR HÁLFDÁNSSON,SJH,SønderjyskE Herrehåndbold,1153.7,24,HB,False,NORMAL,138.7
+ALEXANDER HANSEN,SJH,SønderjyskE Herrehåndbold,1145.9,14,HB,False,NORMAL,17.8
+FREDERIK BØRM,SJH,SønderjyskE Herrehåndbold,1137.8,32,ST,False,NORMAL,71.2
+MARTIN KÆRGAARD PEDERSEN,SJH,SønderjyskE Herrehåndbold,1112.2,19,ST,False,NORMAL,37.7
+MIKKEL HANSEN,SJH,SønderjyskE Herrehåndbold,1092.4,14,VF,False,NORMAL,29.0
+ARNAR BIRKIR HÁLFÁNSSON,SJH,SønderjyskE Herrehåndbold,1055.2,8,HB,False,NORMAL,40.2
+KRISTIAN DAHL PEDERSEN,SJH,SønderjyskE Herrehåndbold,1044.9,30,MV,True,NORMAL,5.5
+THORSTEN FRIES,SJH,SønderjyskE Herrehåndbold,1043.1,26,MV,True,NORMAL,2.3
+KASPER CHRISTENSEN,SJH,SønderjyskE Herrehåndbold,1037.5,8,Ukendt,False,NORMAL,-2.4
+STEFFAN KJER HØI,SJH,SønderjyskE Herrehåndbold,1023.3,6,HF,False,NORMAL,8.3
+HENRIK NORDLANDER,SJH,SønderjyskE Herrehåndbold,1018.5,19,MV,True,NORMAL,3.5
+RASMUS BERTELSEN,SJH,SønderjyskE Herrehåndbold,1016.2,26,PL,False,NORMAL,1.2

@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-MIA REJ,KBH,København Håndbold,1409.7,23,HF,False,LEGENDARY,253.5
-DEBBIE BONT,KBH,København Håndbold,1311.8000000000002,24,HF,False,ELITE,107.4
-LINN BLOHM,KBH,København Håndbold,1274.0,24,ST,False,ELITE,128.4
-LARISSA NUSSER,KBH,København Håndbold,1262.5,24,HF,False,ELITE,154.8
-LOUISE FØNS,KBH,København Håndbold,1190.6,16,HF,False,NORMAL,32.2
-HANNA BLOMSTRAND,KBH,København Håndbold,1164.1,18,HF,False,NORMAL,53.2
-MARIA HJERTNER,KBH,København Håndbold,1120.6,24,HF,False,NORMAL,105.6
-ANDREA ULRIKKA AAGOT HANSEN,KBH,København Håndbold,1087.0,20,HF,False,NORMAL,39.2
-MARIE WALL,KBH,København Håndbold,1079.6,14,HF,False,NORMAL,31.4
-OLIVIA MELLEGÅRD,KBH,København Håndbold,1062.5,21,HF,False,NORMAL,47.5
-JOHANNA BUNDSEN,KBH,København Håndbold,1045.5,5,MV,True,NORMAL,4.2
-AIMÉE VON PEREIRA,KBH,København Håndbold,1042.0,21,HF,False,NORMAL,27.0
-AMALIE MILLING,KBH,København Håndbold,1029.2,21,MV,True,NORMAL,-2.5
-NYALA KRULLAARS,KBH,København Håndbold,1023.1,8,HF,False,NORMAL,8.1
-PAULINA USCINOWICZ,KBH,København Håndbold,1020.7,13,HF,False,NORMAL,5.7
-SIRI YDE,KBH,København Håndbold,1015.0,12,PL,True,NORMAL,0.0
+MIA REJ,KBH,København Håndbold,1397.1,23,PL,False,ELITE,250.7
+DEBBIE BONT,KBH,København Håndbold,1281.6,24,HF,False,ELITE,104.3
+LINN BLOHM,KBH,København Håndbold,1279.2,24,ST,False,ELITE,124.4
+LARISSA NUSSER,KBH,København Håndbold,1238.5,24,PL,False,NORMAL,144.7
+HANNA BLOMSTRAND,KBH,København Håndbold,1178.6,18,HB,False,NORMAL,61.4
+LOUISE FØNS,KBH,København Håndbold,1170.8,16,VF,False,NORMAL,29.6
+MARIA HJERTNER,KBH,København Håndbold,1152.5,24,HB,False,NORMAL,137.5
+ANDREA ULRIKKA AAGOT HANSEN,KBH,København Håndbold,1083.8,20,HF,False,NORMAL,37.7
+MARIE WALL,KBH,København Håndbold,1078.3,14,VF,False,NORMAL,28.0
+OLIVIA MELLEGÅRD,KBH,København Håndbold,1062.5,21,VF,False,NORMAL,47.5
+JOHANNA BUNDSEN,KBH,København Håndbold,1044.7,5,MV,True,NORMAL,6.5
+AIMÉE VON PEREIRA,KBH,København Håndbold,1041.4,21,PL,False,NORMAL,26.4
+AMALIE MILLING,KBH,København Håndbold,1030.6,21,MV,True,NORMAL,-2.5
+NYALA KRULLAARS,KBH,København Håndbold,1024.5,8,VB,False,NORMAL,9.5
+PAULINA USCINOWICZ,KBH,København Håndbold,1020.0,13,VB,False,NORMAL,5.0
+SIRI YDE,KBH,København Håndbold,1015.0,12,MV,True,NORMAL,0.0

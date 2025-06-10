@@ -248,70 +248,179 @@ class KvindeligaSeasonalEloSystem:
         2. Momentum sidste kampe (seneste 5 kampe vægtning)  
         3. Position-specifik progression rate
         4. Konsistens gennem sæsonen
-        5. Hold-styrke og liga-sværhedsgrad
-        6. Antal kampe spillet (stabilitet)
-        7. Elite status (progression sværhedsgrad)
+        5. Hold-prestations påvirkning
+        6. Liga-relative performance
+        7. Karriere-trend hvis flere sæsoner
+        8. Spillestil stabilitet (flere positioner = mindre carryover)
         """
-        if previous_season_data is None:
-            return BASE_RATING
-
-        # Standardiser spillernavnet for at finde det i datasættet
-        player_name_upper = " ".join(player_name.strip().upper().split())
         
-        # Find det kanoniske navn, der matcher
-        canonical_name = None
-        for name, data in previous_season_data.items():
-            if " ".join(name.strip().upper().split()) == player_name_upper:
-                canonical_name = name
-                break
+        if not previous_season_data:
+            # Nye spillere får base rating med lille variation baseret på position
+            position = previous_season_data.get('primary_position', 'PL') if previous_season_data else 'PL'
+            position_adjustment = {
+                'MV': 30,    # Målvogtere starter højere (reduceret fra 50)
+                'PL': 15,    # Playmaker starter lidt højere (reduceret fra 20)
+                'ST': 10,    # Streg starter lidt højere
+                'VF': 0, 'HF': 0, 'VB': 0, 'HB': 0  # Andre på base
+            }.get(position, 0)
+            
+            return BASE_RATING + position_adjustment
+            
+        # === HENT TIDLIGERE SÆSON DATA ===
+        prev_rating = previous_season_data.get('final_rating', BASE_RATING)
+        prev_games = previous_season_data.get('games', 0)
+        prev_elite_status = previous_season_data.get('elite_status', 'NORMAL')
+        prev_position = previous_season_data.get('primary_position', 'PL')
+        prev_consistency = previous_season_data.get('rating_consistency', 50)  # Lavere = mere konsistent
+        prev_rating_per_game = previous_season_data.get('rating_per_game', 0)
         
-        # Hvis spilleren ikke blev fundet i sidste sæsons data, returneres base rating
-        if not canonical_name:
-            return BASE_RATING
+        # === BEREGN LEAGUE BASELINE ===
+        league_avg = league_stats.get('avg_rating', BASE_RATING) if league_stats else BASE_RATING
+        distance_from_league_avg = prev_rating - league_avg
         
-        player_data = previous_season_data[canonical_name]
+        # === 1. GAMES FACTOR (Forbedret graduering) ===
+        if prev_games >= MIN_GAMES_FOR_FULL_CARRY:
+            games_factor = 1.0  # Fuld carryover
+        elif prev_games >= 8:
+            # Gradueret mellem 8-12 kampe
+            games_factor = 0.7 + 0.3 * (prev_games - 8) / (MIN_GAMES_FOR_FULL_CARRY - 8)
+        elif prev_games >= 4:
+            # Minimal carryover
+            games_factor = 0.4 + 0.3 * (prev_games - 4) / 4
+        else:
+            games_factor = 0.25  # Meget minimal carryover
+            
+        # === 2. POSITION PROGRESSION FACTOR ===
+        position_factor = POSITION_PROGRESSION_RATES.get(prev_position, 1.0)
         
-        # === 1. GRUNDLAG: Sidste sæsons endelige rating ===
-        final_rating = player_data.get('final_rating', BASE_RATING)
+        # === 3. ELITE STATUS FACTOR (Modificeret for mere nuance) ===
+        if prev_elite_status == 'LEGENDARY':
+            elite_factor = 0.55  # Stærk regression for legendary
+        elif prev_elite_status == 'ELITE':
+            elite_factor = 0.70  # Moderat regression for elite
+        else:
+            # Normal spillere får bonusser baseret på performance
+            if prev_rating > league_avg + 50:
+                elite_factor = 0.85  # Svag regression for gode normale spillere
+            else:
+                elite_factor = 0.95  # Minimal regression for gennemsnitlige
+                
+        # === 4. KONSISTENS FACTOR (NY!) ===
+        # Spillere med høj konsistens får større carryover
+        if prev_consistency < 30:  # Meget konsistent
+            consistency_factor = 1.1
+        elif prev_consistency < 50:  # Rimelig konsistent  
+            consistency_factor = 1.05
+        elif prev_consistency < 80:  # Inkonsistent
+            consistency_factor = 0.95
+        else:  # Meget inkonsistent
+            consistency_factor = 0.85
+            
+        # === 5. MOMENTUM FACTOR (NY!) ===
+        # Baseret på rating per game - højere = bedre momentum
+        if prev_rating_per_game > 10:  # Stærk sæson performance
+            momentum_factor = 1.15
+        elif prev_rating_per_game > 5:  # God performance
+            momentum_factor = 1.08
+        elif prev_rating_per_game > 0:  # Positiv performance
+            momentum_factor = 1.02
+        elif prev_rating_per_game > -5:  # Svag performance
+            momentum_factor = 0.95
+        else:  # Dårlig performance
+            momentum_factor = 0.85
+            
+        # === 6. HOLD PERFORMANCE FACTOR (NY!) ===
+        team_factor = 1.0
+        if team_performance:
+            team_avg_rating = team_performance.get('avg_team_rating', league_avg)
+            if team_avg_rating > league_avg + 100:  # Stærkt hold
+                team_factor = 1.05  # Lille bonus for at spille på godt hold
+            elif team_avg_rating < league_avg - 100:  # Svagt hold
+                team_factor = 0.98  # Lille straf
+                
+        # === 7. DISTANCE REGRESSION (DRAMATISK ØGET SPREDNING) ===
+        abs_distance = abs(distance_from_league_avg)
         
-        # === 2. REGRESSION MOD MIDDELVÆRDIEN ===
-        # Stærkere regression for spillere langt fra middelværdien
-        distance_from_mean = final_rating - BASE_RATING
-        regression_effect = distance_from_mean * REGRESSION_STRENGTH
-        regressed_rating = final_rating - regression_effect
+        # DRAMATISK ØGET SPREDNING: Meget mindre regression for at skabe større forskelle
+        # Tjek om spilleren var OVER gennemsnittet (positiv performance)
+        if distance_from_league_avg > 0:  # Spilleren var bedre end gennemsnittet
+            # MEGET mindre regression for at bevare fordele
+            if abs_distance > 500:
+                distance_factor = 0.85  # DRAMATISK ØGET fra 0.65 - elite skal beholde mest
+            elif abs_distance > 400:
+                distance_factor = 0.90  # DRAMATISK ØGET fra 0.75 - stor belønning
+            elif abs_distance > 300:
+                distance_factor = 0.95  # DRAMATISK ØGET fra 0.85 - Anders får stor belønning!
+            elif abs_distance > 200:
+                distance_factor = 0.97  # DRAMATISK ØGET fra 0.90 - gode spillere belønnes
+            elif abs_distance > 100:
+                distance_factor = 0.98  # DRAMATISK ØGET fra 0.95 - minimal regression
+            else:
+                distance_factor = 0.99  # Næsten ingen regression for let over gennemsnit
+        else:  # Spilleren var under gennemsnittet (dårlig performance)
+            # MEGET mere aggressiv regression for dårlige spillere
+            if abs_distance > 400:
+                distance_factor = 0.15  # DRAMATISK REDUCERET fra 0.25 - hård straf
+            elif abs_distance > 300:
+                distance_factor = 0.25  # REDUCERET fra 0.35 - stor straf
+            elif abs_distance > 200:
+                distance_factor = 0.35  # REDUCERET fra 0.50 - betydelig straf
+            elif abs_distance > 100:
+                distance_factor = 0.55  # REDUCERET fra 0.70 - moderat straf
+            else:
+                distance_factor = 0.75  # REDUCERET fra 0.85 - svag straf
+            
+        # === KOMBINER ALLE FAKTORER ===
+        combined_factor = (games_factor * position_factor * elite_factor * 
+                          consistency_factor * momentum_factor * team_factor * distance_factor)
         
-        # === 3. SPIL-VÆGTET JUSTERING (Carry-over) ===
-        games_played = player_data.get('games', 0)
-        carry_factor = min(games_played / MIN_GAMES_FOR_FULL_CARRY, 1.0)
+        # === BEREGN NY START RATING ===
+        adjusted_distance = distance_from_league_avg * combined_factor
+        new_start_rating = league_avg + adjusted_distance
         
-        # Juster hvor meget af den oprindelige rating, der "bæres over"
-        start_rating = (regressed_rating * carry_factor) + (BASE_RATING * (1 - carry_factor))
+        # === ANVEND CAPS MED GRADUERET OVERGANG (forbedret for gode spillere) ===
+        rating_change = new_start_rating - BASE_RATING
         
-        # === 4. MOMENTUM FRA SLUTNINGEN AF SIDSTE SÆSON ===
-        momentum = player_data.get('momentum_factor', 1.0)
-        # Anvend momentum (kan være > 1 eller < 1)
-        momentum_adjustment = (momentum - 1.0) * 50  # Justerbar effekt
+        # EXCEPTIONAL BONUS for toppræsterende spillere (justeret til lavere base)
+        if prev_rating_per_game > 8 and prev_games >= MIN_GAMES_FOR_FULL_CARRY:
+            # STOR ekstra bonus for exceptionelle spillere
+            exceptional_bonus = min(120, (prev_rating_per_game - 8) * 8)  # Reduceret fra 150/10
+            new_start_rating += exceptional_bonus
+            print(f"      🌟 EXCEPTIONAL BONUS for {player_name}: +{exceptional_bonus:.0f} "
+                  f"(RPG: {prev_rating_per_game:.1f})")
+        elif prev_rating_per_game > 5 and prev_games >= 8:
+            # Moderat bonus for gode spillere
+            moderate_bonus = min(60, (prev_rating_per_game - 5) * 6)  # Reduceret fra 75/8
+            new_start_rating += moderate_bonus
+            print(f"      ⭐ MODERATE BONUS for {player_name}: +{moderate_bonus:.0f} "
+                  f"(RPG: {prev_rating_per_game:.1f})")
         
-        # === 5. KONSISTENS-FAKTOR ===
-        consistency = player_data.get('rating_consistency', 50) # Højere er dårligere
-        consistency_penalty = max(0, (consistency - 15)) * 1.5 # Straf for inkonsistens
+        # Apply caps
+        rating_change = new_start_rating - BASE_RATING
+        if rating_change > MAX_CARRY_BONUS:
+            new_start_rating = BASE_RATING + MAX_CARRY_BONUS
+        elif rating_change < MIN_CARRY_PENALTY:
+            new_start_rating = BASE_RATING + MIN_CARRY_PENALTY
+            
+        # === FINAL SMALL RANDOMIZATION FOR UNIQUENESS ===
+        # Tilføj lille tilfældig variation (±3 points) for at sikre unikke ratings
+        np.random.seed(hash(player_name) % 1000)  # Konsistent per spiller
+        unique_adjustment = np.random.uniform(-3, 3)
+        new_start_rating += unique_adjustment
         
-        # === 6. POSITIONS-SPECIFIK PROGRESSION ===
-        position = player_data.get('primary_position', 'Ukendt')
-        progression_rate = POSITION_PROGRESSION_RATES.get(position, 1.0)
-        position_bonus = (progression_rate - 1.0) * 100 # Justerbar effekt
-        
-        # Sammensæt den endelige start-rating
-        final_start_rating = start_rating + momentum_adjustment - consistency_penalty + position_bonus
-
-        # Sørg for at ratingen er inden for et rimeligt spænd
-        final_start_rating = np.clip(
-            final_start_rating,
-            BASE_RATING + MIN_CARRY_PENALTY,
-            BASE_RATING + MAX_CARRY_BONUS
-        )
-        
-        return float(final_start_rating)
+        # FORBEDRET DEBUG OUTPUT - viser alle faktorer
+        total_change = new_start_rating - prev_rating
+        if abs(total_change) > 30:
+            print(f"    📊 {player_name} ({prev_position}): {prev_rating:.0f} → {new_start_rating:.0f} "
+                  f"({total_change:+.0f})")
+            print(f"       🎯 Faktorer: Games:{games_factor:.2f}, Pos:{position_factor:.2f}, "
+                  f"Elite:{elite_factor:.2f}, Consistency:{consistency_factor:.2f}")
+            print(f"       ⚡ Momentum:{momentum_factor:.2f}, Team:{team_factor:.2f}, "
+                  f"Distance:{distance_factor:.2f}")
+            print(f"       📈 Combined:{combined_factor:.3f}, RPG:{prev_rating_per_game:.1f}, "
+                  f"Distance from avg:{distance_from_league_avg:.0f}")
+                  
+        return round(new_start_rating, 1)
 
     def run_kvindeliga_season(self, season: str, start_ratings: Dict = None, position_analyzer: Optional[PositionAnalyzer] = None) -> Dict:
         """
@@ -565,85 +674,172 @@ class KvindeligaSeasonalEloSystem:
                 levenshtein_available = False
             
             if levenshtein_available:
-                for unmatched_name in unmatched_current:
-                    # Find det bedste match over en vis tærskel
+                # Sorter for determinisme
+                for curr_name in sorted(list(unmatched_current)):
+                    # Normalize current name for matching
+                    normalized_curr = " ".join(curr_name.lower().strip().split())
+                    
                     best_match = None
-                    highest_ratio = 0.88 # Høj tærskel for at undgå falske positiver
-                    
-                    # Standardiser det uoverensstemmende navn én gang
-                    normalized_unmatched = self._normalize_and_get_canonical_name(unmatched_name)
-                    
-                    for career_name in canonical_career_names:
-                        # Sammenlign de allerede normaliserede navne
-                        similarity = levenshtein_ratio(normalized_unmatched, career_name)
-                        if similarity > highest_ratio:
-                            highest_ratio = similarity
+                    highest_score = 0.88 # Højere tærskel for at undgå forkerte matches
+
+                    for career_name in sorted(list(canonical_career_names)):
+                        normalized_career = " ".join(career_name.lower().strip().split())
+                        score = levenshtein_ratio(normalized_curr, normalized_career)
+                        if score > highest_score:
+                            highest_score = score
                             best_match = career_name
-                            
+                    
                     if best_match:
-                        # Undgå at matche samme karriere-navn til flere nuværende navne
-                        if best_match not in mapping.values():
-                            mapping[unmatched_name] = best_match
-                            levenshtein_matches_found += 1
-                        else:
-                            print(f"      ⚠️ Levenshtein-match for '{unmatched_name}' til '{best_match}' blev afvist (allerede mappet).")
+                        mapping[curr_name] = best_match
+                        canonical_career_names.remove(best_match) # Avoid re-matching
+                        levenshtein_matches_found += 1
+                        print(f"        🤝 LEVENSHTEIN: '{curr_name}' -> '{best_match}' (Score: {highest_score:.2f})")
         
         if levenshtein_matches_found > 0:
-            print(f"    ✅ Trin 2: Fandt {levenshtein_matches_found} yderligere matches via Levenshtein.")
+            print(f"    ✅ Trin 2: Fandt {levenshtein_matches_found} Levenshtein-baserede matches.")
 
-        # Returner den endelige mapping
+        total_mapped = len(mapping)
+        unmapped_count = len(current_names) - total_mapped
+        print(f"    📊 Resultat: {total_mapped} spillere mappet, {unmapped_count} nye/ukendte spillere.")
+
         return mapping
 
     def run_complete_kvindeliga_analysis(self):
         """
-        Kører hele ELO-analysen for alle Kvindeliga sæsoner i rækkefølge.
+        🚀 HOVEDFUNKTION - Kører komplet Kvindeliga sæson-baseret analyse
         """
-        print("\n\n=== STARTER FULD KVINDELIGA ELO ANALYSE ===")
-        print("===========================================")
+        print("\n🚀 STARTER KOMPLET KVINDELIGA SÆSON-BASERET ANALYSE")
+        print("=" * 70)
+        print("🎯 KUN KVINDELIGA - ULTRA-INDIVIDUELLE START RATINGS")
         
-        previous_season_player_data = {}
+        # previous_season_data is now self.player_career_database
         
-        # Første sæsonanalyse for at finde alle spillere
-        position_analyzer = PositionAnalyzer(self.base_dir, league_dir="Kvindeliga-database")
         for season in self.seasons:
+            print(f"\n📅 === KVINDELIGA SÆSON {season} ===")
+            
+            # Princip 2: Kør separat positionsanalyse FØR ELO-beregning
+            position_analyzer = PositionAnalyzer(self.base_dir, league_dir="Kvindeliga-database")
             position_analyzer.analyze_season(season)
-            
-        for season in self.seasons:
-            print(f"\n--- SÆSON {season} ---")
-            
-            # 1. Hent alle unikke navne for den nuværende sæson
-            current_season_player_names = self._get_all_player_names_for_season(season)
-            print(f"  - Fundet {len(current_season_player_names)} unikke spillernavne i databasen.")
-            
-            # 2. Find mapping mellem nuværende navne og kanoniske navne fra forrige sæson
-            player_name_mapping = self._find_player_name_mapping(current_season_player_names, previous_season_player_data)
-            print(f"  - {len(player_name_mapping)} spillere matchet til forrige sæson.")
-            
-            # 3. Beregn start ratings for alle spillere i den nuværende sæson
+
+            # Calculate start ratings from the global career database
             start_ratings = {}
-            for current_name in current_season_player_names:
-                canonical_name = player_name_mapping.get(current_name, current_name)
-                
-                previous_data = previous_season_player_data.get(canonical_name)
-                
-                start_ratings[current_name] = self.calculate_ultra_individual_start_rating(
-                    player_name=current_name,
-                    previous_season_data=previous_season_player_data,
-                )
             
-            # 4. Kør ELO-beregningen for sæsonen
+            # Get all unique player names appearing in the current season's database files
+            current_season_names = self._get_all_player_names_for_season(season)
+            
+            if self.player_career_database:
+                # Map current raw names to the canonical names stored in the career database
+                name_mapping = self._find_player_name_mapping(current_season_names, self.player_career_database)
+
+                print(f"📈 Beregner ultra-individuelle start ratings for {len(current_season_names)} spillere")
+                
+                # Calculate league statistics for reference
+                prev_ratings = [data['final_rating'] for data in self.player_career_database.values()]
+                league_stats = {
+                    'avg_rating': np.mean(prev_ratings) if prev_ratings else BASE_RATING,
+                    'median_rating': np.median(prev_ratings) if prev_ratings else BASE_RATING,
+                    'std_rating': np.std(prev_ratings) if prev_ratings else 50
+                }
+                
+                print(f"📊 Forrige sæson Kvindeliga stats:")
+                print(f"   🎯 Gennemsnit: {league_stats['avg_rating']:.1f}")
+                print(f"   📊 Median: {league_stats['median_rating']:.1f}")
+                print(f"   �� Standardafvigelse: {league_stats['std_rating']:.1f}")
+                
+                # Calculate start ratings for all players in the current season
+                for player_name in sorted(list(current_season_names)):
+                    # Find the corresponding canonical name from the career DB
+                    canonical_name = name_mapping.get(player_name)
+                    # Get the historical data for that player
+                    player_career_data = self.player_career_database.get(canonical_name) if canonical_name else None
+
+                    start_rating = self.calculate_ultra_individual_start_rating(
+                        player_name, player_career_data, None, league_stats
+                    )
+                    start_ratings[player_name] = start_rating
+            else:
+                print("📊 Første sæson - alle starter på base rating med positions-justeringer")
+                # Even in the first season, we must normalize names
+                for player_name in sorted(list(current_season_names)):
+                    start_ratings[player_name] = self.calculate_ultra_individual_start_rating(player_name)
+
+            # Run master system for this Kvindeliga season
             season_results = self.run_kvindeliga_season(season, start_ratings, position_analyzer)
             
-            # 5. Opdater karriere-databasen med resultaterne fra denne sæson
-            if season_results:
-                print(f"  - Opdaterer karriere-databasen med {len(season_results)} spilleres resultater...")
-                for player_name, data in season_results.items():
-                    # Brug det kanoniske navn for at sikre konsistens
-                    canonical_name = player_name_mapping.get(player_name, player_name)
-                    previous_season_player_data[canonical_name] = data
+            if not season_results:
+                print(f"⚠️ Springer over Kvindeliga {season} - ingen resultater")
+                continue
             
-        print("\n=== FULD KVINDELIGA ANALYSE FULDFØRT ===")
+            # NEW: Consolidate season results to handle intra-season duplicates
+            # and update the global career database
+            merged_canonical_results = {}
+            for raw_name, player_data in season_results.items():
+                canonical_name = self._normalize_and_get_canonical_name(raw_name)
 
+                # If canonical name already processed, we must MERGE the results.
+                if canonical_name in merged_canonical_results:
+                    existing_data = merged_canonical_results[canonical_name]
+                    
+                    # Sum games and actions
+                    existing_data['games'] += player_data['games']
+                    existing_data['total_actions'] += player_data['total_actions']
+                    
+                    # Sum the rating change. This is an approximation, but far better than discarding data.
+                    existing_data['rating_change'] += player_data['rating_change']
+                    
+                    # Keep the primary position from the entry with more games as it's more representative
+                    if player_data['games'] > existing_data.get('__source_games', 0):
+                        existing_data['primary_position'] = player_data['primary_position']
+                        existing_data['position_name'] = player_data['position_name']
+                        existing_data['__source_games'] = player_data['games'] # Track for subsequent merges
+                else:
+                    # First time seeing this canonical name this season, just add it.
+                    player_data['__source_games'] = player_data['games']
+                    merged_canonical_results[canonical_name] = player_data
+
+            # After merging, recalculate final_rating and other derived metrics for the canonical entries
+            canonical_season_results = {}
+            for canonical_name, data in merged_canonical_results.items():
+                # Recalculate final rating based on the summed change
+                data['final_rating'] = data['start_rating'] + data['rating_change']
+
+                # Recalculate other derived metrics
+                if data['games'] > 0:
+                    data['rating_per_game'] = data['rating_change'] / data['games']
+                    data['rating_consistency'] = abs(data['rating_change']) / data['games']
+                
+                # Recalculate elite status based on the new final rating
+                # (Assuming master_system's bounds are accessible or can be hardcoded)
+                if data['final_rating'] >= 1400: # legendary_threshold
+                    data['elite_status'] = "LEGENDARY"
+                elif data['final_rating'] >= 1250: # elite_threshold
+                    data['elite_status'] = "ELITE"
+                else:
+                    data['elite_status'] = "NORMAL"
+
+                # Clean up temporary key and ensure player name is canonical
+                data.pop('__source_games', None)
+                data['player'] = canonical_name
+                canonical_season_results[canonical_name] = data
+
+            # Update the global career database with the consolidated results
+            print(f"💾 Opdaterer karrieredatabasen med {len(canonical_season_results)} unikke, konsoliderede spillere.")
+            self.player_career_database.update(canonical_season_results)
+            
+            # Store results for final report
+            self.all_season_results[season] = self.player_career_database.copy()
+            
+            # Save season CSV (based on the original, non-consolidated results for season-specific accuracy)
+            self.save_kvindeliga_season_csv(season_results, season)
+            
+        print(f"\n✅ KVINDELIGA ANALYSE KOMPLET!")
+        print("=" * 70)
+        print("📁 Genererede Kvindeliga filer:")
+        for season in self.all_season_results.keys():
+            print(f"  • kvindeliga_seasonal_elo_{season.replace('-', '_')}.csv")
+
+
+# === MAIN EXECUTION ===
 if __name__ == '__main__':
     # Initialiser og kør det sæson-baserede ELO system for Kvindeliga
     kvindeliga_elo_system = KvindeligaSeasonalEloSystem()

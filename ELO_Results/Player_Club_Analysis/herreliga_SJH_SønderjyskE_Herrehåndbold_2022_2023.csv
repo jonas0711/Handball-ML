@@ -1,19 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-NOAH GAUDIN,SJH,SønderjyskE Herrehåndbold,1642.0,24,HF,False,LEGENDARY,271.2
-ANDREAS LANG,SJH,SønderjyskE Herrehåndbold,1597.5,30,HF,False,LEGENDARY,337.9
-TOBIAS MØLLER,SJH,SønderjyskE Herrehåndbold,1497.6,29,HF,False,LEGENDARY,177.0
-KRISTIAN STRANDEN,SJH,SønderjyskE Herrehåndbold,1418.4,19,HF,False,LEGENDARY,140.8
-KASPER KISUM,SJH,SønderjyskE Herrehåndbold,1397.8000000000002,16,HF,False,ELITE,68.4
-OLIVER NØDDESBO EGGERT,SJH,SønderjyskE Herrehåndbold,1356.4,12,HF,False,ELITE,53.8
-AUGUST WIGER,SJH,SønderjyskE Herrehåndbold,1330.1999999999998,27,HF,False,ELITE,192.6
-ALEC SMIT,SJH,SønderjyskE Herrehåndbold,1250.4,5,HF,False,ELITE,5.8
-MORTEN BJØRNSHAUGE,SJH,SønderjyskE Herrehåndbold,1237.1999999999998,30,ST,False,NORMAL,98.1
-SEBASTIAN AUGUSTINUSSEN,SJH,SønderjyskE Herrehåndbold,1204.4,29,HF,False,NORMAL,59.5
-TOBIAS OLSEN,SJH,SønderjyskE Herrehåndbold,1162.4,19,HF,False,NORMAL,35.6
-NIKOLAJ SVALASTOG,SJH,SønderjyskE Herrehåndbold,1153.9,21,HF,False,NORMAL,72.2
-KENNETH BACH HANSEN,SJH,SønderjyskE Herrehåndbold,1125.1,7,HF,False,NORMAL,8.6
-KASPER LARSEN,SJH,SønderjyskE Herrehåndbold,1123.2,25,MV,True,NORMAL,10.4
-RASMUS BECH,SJH,SønderjyskE Herrehåndbold,1120.7,28,MV,True,NORMAL,34.8
-RASMUS GLAD VANDBÆK,SJH,SønderjyskE Herrehåndbold,1119.9,7,HF,False,NORMAL,-2.3
-JACOB BAGERSTED,SJH,SønderjyskE Herrehåndbold,1110.7,29,ST,False,NORMAL,95.7
-MARIUS FERKINGSTAD,SJH,SønderjyskE Herrehåndbold,1031.2,7,ST,False,NORMAL,16.2
+NOAH GAUDIN,SJH,SønderjyskE Herrehåndbold,1672.1,24,PL,False,LEGENDARY,289.1
+ANDREAS LANG,SJH,SønderjyskE Herrehåndbold,1651.3,30,PL,False,LEGENDARY,352.8
+RASMUS BECH,SJH,SønderjyskE Herrehåndbold,1570.5,28,MV,True,LEGENDARY,472.3
+TOBIAS MØLLER,SJH,SønderjyskE Herrehåndbold,1498.9,29,VF,False,LEGENDARY,180.5
+KRISTIAN STRANDEN,SJH,SønderjyskE Herrehåndbold,1497.4,19,PL,False,LEGENDARY,164.1
+KASPER KISUM,SJH,SønderjyskE Herrehåndbold,1399.9,16,PL,False,ELITE,74.7
+OLIVER NØDDESBO EGGERT,SJH,SønderjyskE Herrehåndbold,1395.3,12,VB,False,ELITE,58.8
+KASPER LARSEN,SJH,SønderjyskE Herrehåndbold,1395.1,25,MV,True,ELITE,99.8
+AUGUST WIGER,SJH,SønderjyskE Herrehåndbold,1363.5,27,PL,False,ELITE,210.6
+MORTEN BJØRNSHAUGE,SJH,SønderjyskE Herrehåndbold,1261.3,30,ST,False,ELITE,105.1
+ALEC SMIT,SJH,SønderjyskE Herrehåndbold,1232.1,5,HF,False,NORMAL,6.6
+SEBASTIAN AUGUSTINUSSEN,SJH,SønderjyskE Herrehåndbold,1193.4,29,HF,False,NORMAL,57.3
+TOBIAS OLSEN,SJH,SønderjyskE Herrehåndbold,1184.8,19,PL,False,NORMAL,38.3
+NIKOLAJ SVALASTOG,SJH,SønderjyskE Herrehåndbold,1143.7,21,VF,False,NORMAL,66.0
+RASMUS GLAD VANDBÆK,SJH,SønderjyskE Herrehåndbold,1142.2,7,Ukendt,False,NORMAL,-2.3
+KENNETH BACH HANSEN,SJH,SønderjyskE Herrehåndbold,1139.6999999999998,7,HF,False,NORMAL,7.1
+JACOB BAGERSTED,SJH,SønderjyskE Herrehåndbold,1111.5,29,ST,False,NORMAL,96.5
+MARIUS FERKINGSTAD,SJH,SønderjyskE Herrehåndbold,1031.3,7,ST,False,NORMAL,16.3

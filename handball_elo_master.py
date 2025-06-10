@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """
-🏆 MASTER HÅNDBOL ELO SYSTEM - ULTIMATIV KOMBINATION
+MASTER HÅNDBOL ELO SYSTEM - ULTIMATIV KOMBINATION
 =======================================================
 
 KOMBINERER DET BEDSTE FRA ALLE SYSTEMER:
-✅ Korrekt målvogter identifikation (Goalkeeper-Optimized)
-✅ Avanceret kontekst vægtning (Advanced)  
-✅ Robust rating system (Ultimate)
-✅ Optimerede K-faktorer (Refined)
-✅ 7 standard positioner inkl. målvogtere
-✅ Momentum tracking og performance bonuser
-✅ Linear Elo model med bias reduktion
-✅ Multi-level validation og error handling
+- Korrekt målvogter identifikation (Goalkeeper-Optimized)
+- Avanceret kontekst vægtning (Advanced)  
+- Robust rating system (Ultimate)
+- Optimerede K-faktorer (Refined)
+- 7 standard positioner inkl. målvogtere
+- Momentum tracking og performance bonuser
+- Linear Elo model med bias reduktion
+- Multi-level validation og error handling
 
 DET ULTIMATIVE HÅNDBOL ELO SYSTEM!
 """
@@ -26,7 +26,7 @@ from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
 
-print("🏆 MASTER HÅNDBOL ELO SYSTEM - ULTIMATIV KOMBINATION")
+print("MASTER HÅNDBOL ELO SYSTEM - ULTIMATIV KOMBINATION")
 print("=" * 80)
 
 class MasterHandballEloSystem:
@@ -36,7 +36,7 @@ class MasterHandballEloSystem:
     
     def __init__(self, base_dir: str = "."):
         """Initialiserer master ELO system"""
-        print("🎯 Initialiserer Master Håndbol ELO System...")
+        print("Initialiserer Master Håndbol ELO System...")
         
         self.base_dir = base_dir
         self.database_dir = os.path.join(base_dir, "Herreliga-database")
@@ -76,7 +76,7 @@ class MasterHandballEloSystem:
         self.k_factors = {
             'team': 14,          # Team K-faktor (reduceret for stabilitet)
             'player': 8,         # Udspiller K-faktor (øget for responsivitet)
-            'goalkeeper': 8      # Målvogter K-faktor (øget for balance)
+            'goalkeeper': 12      # Målvogter K-faktor (øget for balance)
         }
         
         # Rating bounds (DRAMATISK udvidet range for større spredning)
@@ -94,7 +94,7 @@ class MasterHandballEloSystem:
         self.scale_factors = {
             'team': 0.012,       # ØGET team action impact
             'player': 0.008,     # ØGET player action impact  
-            'goalkeeper': 0.010, # ØGET målvogter action impact
+            'goalkeeper': 0.015, # ØGET målvogter action impact
             'max_change': 16     # ØGET max rating ændring per action
         }
         
@@ -155,10 +155,10 @@ class MasterHandballEloSystem:
         # === KRITISK: MÅLVOGTER-SPECIFIKKE VÆGTE (MODERERET!) ===
         # Når modstanderen scorer MOD målvogteren - MODERAT STRAF
         self.goalkeeper_penalty_weights = {
-            'Mål': -15,                        # ØGET fra -15 - mere realistisk straf
-            'Mål på straffe': -20,             # ØGET fra -20 - straffe skal stadig straffe
-            'Skud på stolpe': 15,              # REDUCERET fra 25 - var for højt
-            'Straffekast på stolpe': 20,       # REDUCERET fra 35 - var for højt
+            'Mål': -8,                        # ØGET fra -15 - mere realistisk straf
+            'Mål på straffe': -12,             # ØGET fra -20 - straffe skal stadig straffe
+            'Skud på stolpe': 25,              # REDUCERET fra 25 - var for højt
+            'Straffekast på stolpe': 30,       # REDUCERET fra 35 - var for højt
         }
         
         # === POSITIONSSPECIFIKKE MULTIPLIERS ===
@@ -170,10 +170,10 @@ class MasterHandballEloSystem:
                 'role': 'Defensiv specialist og sidste linje - KRITISK for håndbold',
                 
                 # MODERATE BONUSER for redninger (ikke for højt!)
-                'Skud reddet': 3.0,                # KRAFTIGT REDUCERET fra 6.5 - var alt for højt!
-                'Straffekast reddet': 3.5,          # KRAFTIGT REDUCERET fra 8.0 - var alt for højt!
-                'Skud på stolpe': 2.5,              # KRAFTIGT REDUCERET fra 4.5 - var alt for højt!
-                'Straffekast på stolpe': 3.0,       # KRAFTIGT REDUCERET fra 6.0 - var alt for højt!
+                'Skud reddet': 4.5,                # KRAFTIGT REDUCERET fra 6.5 - var alt for højt!
+                'Straffekast reddet': 6.0,          # KRAFTIGT REDUCERET fra 8.0 - var alt for højt!
+                'Skud på stolpe': 3.5,              # KRAFTIGT REDUCERET fra 4.5 - var alt for højt!
+                'Straffekast på stolpe': 4.0,       # KRAFTIGT REDUCERET fra 6.0 - var alt for højt!
                 
                 # SCORENDE MÅLVOGTER (sjældent men værdifuldt)
                 'Mål': 2.0,                         # REDUCERET fra 3.5 - var for højt
@@ -185,7 +185,7 @@ class MasterHandballEloSystem:
                 'Tabt bold': 0.8,                   # ØGET fra 0.5 - mere realistisk
                 'Regelfejl': 0.9,                   # ØGET fra 0.6 - mere realistisk
                 
-                'default_action': 1.2               # KRAFTIGT REDUCERET fra 2.5 - var alt for højt!
+                'default_action': 1.8               # KRAFTIGT REDUCERET fra 2.5 - var alt for højt!
             },
             'VF': {  # VENSTRE FLØJ - JUSTERET FOR BEDRE BALANCE
                 'name': 'Venstre fløj',
@@ -354,20 +354,20 @@ class MasterHandballEloSystem:
             }
         }
         
-        print("✅ Master håndbold system initialiseret")
-        print(f"🏐 7 standard håndbold positioner (inkl. målvogtere)")
-        print(f"⚖️ {len(self.action_weights)} håndbold action vægte optimeret")
-        print(f"🥅 Målvogter K-faktor: {self.k_factors['goalkeeper']} (målvogter fokuseret)")
-        print(f"⏰ Håndbold timing: 60 min (2x30 min), kritiske faser: 28-30 & 58-60 min")
-        print(f"🎯 Kontekst multipliers: tid (1.0-3.0x), score (0.65-1.7x)")
-        print(f"🥅 Målvogter redning multipliers: 1.8x (normal) til 2.2x (straffe)")
-        print(f"🔥 Målvogter kritisk bonus: op til 2.5x i slutfasen!")
+        print("Master håndbold system initialiseret")
+        print(f"7 standard håndbold positioner (inkl. målvogtere)")
+        print(f"{len(self.action_weights)} håndbold action vægte optimeret")
+        print(f"Målvogter K-faktor: {self.k_factors['goalkeeper']} (målvogter fokuseret)")
+        print(f"Håndbold timing: 60 min (2x30 min), kritiske faser: 28-30 & 58-60 min")
+        print(f"Kontekst multipliers: tid (1.0-3.0x), score (0.65-1.7x)")
+        print(f"Målvogter redning multipliers: 1.8x (normal) til 2.2x (straffe)")
+        print(f"Målvogter kritisk bonus: op til 2.5x i slutfasen!")
         print(f"")
-        print(f"🏆 ELITE PROGRESSION SYSTEM:")
-        print(f"  📈 Normal progression (<{self.rating_bounds['elite_threshold']}): 100% hastighed")
-        print(f"  ⭐ Elite progression ({self.rating_bounds['elite_threshold']}-{self.rating_bounds['legendary_threshold']}): 60% hastighed")
-        print(f"  🌟 Legendary progression (>{self.rating_bounds['legendary_threshold']}): 30% hastighed")
-        print(f"  👑 Max rating: {self.rating_bounds['max']} (kun for ekstraordinære spillere)")
+        print(f"ELITE PROGRESSION SYSTEM:")
+        print(f"  Normal progression (<{self.rating_bounds['elite_threshold']}): 100% hastighed")
+        print(f"  Elite progression ({self.rating_bounds['elite_threshold']}-{self.rating_bounds['legendary_threshold']}): 60% hastighed")
+        print(f"  Legendary progression (>{self.rating_bounds['legendary_threshold']}): 30% hastighed")
+        print(f"  Max rating: {self.rating_bounds['max']} (kun for ekstraordinære spillere)")
         
     def determine_player_team(self, event_data: dict) -> list:
         """
@@ -783,14 +783,14 @@ class MasterHandballEloSystem:
         # MODERATE BONUS for målvogter redninger - kun i kritiske situationer!
         if action in ['Skud reddet', 'Straffekast reddet']:
             if timing_multiplier >= 2.0 and score_diff <= 1:  # Meget tæt slutspil
-                goalkeeper_critical_bonus = 3.0  # REDUCERET fra 5.0 - var alt for højt!
-                print(f"      🥅⚡ MÅLVOGTER KRITISK: {action} i tæt slutspil ved {time_val:.1f} min!")
+                goalkeeper_critical_bonus = 4.0  # REDUCERET fra 5.0 - var alt for højt!
+                print(f"      [MV KRITISK]: {action} i tæt slutspil ved {time_val:.1f} min!")
             elif timing_multiplier >= 1.8 and score_diff <= 2:  # Tæt kamp i vigtig fase
-                goalkeeper_critical_bonus = 2.2  # REDUCERET fra 3.5 - var alt for højt!
-                print(f"      🥅📈 MÅLVOGTER VIGTIG: {action} i tæt kamp ved {time_val:.1f} min!")
+                goalkeeper_critical_bonus = 3.0  # REDUCERET fra 3.5 - var alt for højt!
+                print(f"      [MV VIGTIG]: {action} i tæt kamp ved {time_val:.1f} min!")
             elif timing_multiplier >= 1.5 and score_diff <= 1:  # Kun meget kritiske situationer
-                goalkeeper_critical_bonus = 1.3  # REDUCERET fra 2.5 - kun for virkelig kritiske!
-                print(f"      🥅⚡ MÅLVOGTER KRITISK REDNING: {action} ved {time_val:.1f} min!")
+                goalkeeper_critical_bonus = 1.8  # REDUCERET fra 2.5 - kun for virkelig kritiske!
+                print(f"      [MV KRITISK REDNING]: {action} ved {time_val:.1f} min!")
             # Fjernet generelle bonuser - kun kritiske situationer!
         
         # === 7. KOMBINER ALLE FAKTORER ===
@@ -819,12 +819,12 @@ class MasterHandballEloSystem:
                 situation_type += "CRITICAL-ERROR "
                 
             current_leader = "HJEMME" if home_score > away_score else "UDE" if away_score > home_score else "LIGE"
-            action_marker = "🚀" if action_type == 'POSITIVE' else "💥" if action_type == 'NEGATIVE' else "⚡"
+            action_marker = "[+]" if action_type == 'POSITIVE' else "[-]" if action_type == 'NEGATIVE' else "[~]"
             
             print(f"  {action_marker} VIGTIG SITUATION: {action} ({action_type}) ved {time_val:.1f} min")
-            print(f"       📊 Score: {home_score}-{away_score} ({current_leader})")
-            print(f"       🔥 Kontekst: x{context_multiplier:.1f} | {situation_type.strip()}")
-            print(f"       📈 Momentum faktorer: comeback:{momentum_analysis['comeback']:.1f}, "
+            print(f"       [Info] Score: {home_score}-{away_score} ({current_leader})")
+            print(f"       [Info] Kontekst: x{context_multiplier:.1f} | {situation_type.strip()}")
+            print(f"       [Info] Momentum faktorer: comeback:{momentum_analysis['comeback']:.1f}, "
                   f"lead-loss:{momentum_analysis['lead_loss']:.1f}, change:{momentum_analysis['leadership_change']:.1f}")
                   
         return context_multiplier
@@ -999,17 +999,17 @@ class MasterHandballEloSystem:
         
         # Debug log for store ændringer MED kontekst og elite info
         if abs(rating_change) > 3:
-            gk_marker = "🥅" if is_goalkeeper else ""
+            gk_marker = "[MV]" if is_goalkeeper else ""
             context_info = f"ctx:{context_mult:.1f}x" if context_mult > 1.5 else ""
             elite_info = f"[{elite_status}]" if elite_status != "NORMAL" else ""
             
             # ADVARSEL hvis ikke-målvogter får MV position
             if position == 'MV' and not is_goalkeeper:
-                print(f"  ⚠️  {player_name} FEJL(MV men ikke målvogter): {action} = {rating_change:+.1f} "
-                      f"→ {new_rating:.0f}")
+                print(f"  [ADVARSEL] {player_name} FEJL(MV men ikke målvogter): {action} = {rating_change:+.1f} "
+                      f"-> {new_rating:.0f}")
             else:
-                print(f"  📊 {player_name} {gk_marker}({position}){elite_info}: {action} = {rating_change:+.1f} "
-                      f"→ {new_rating:.0f} {context_info}")
+                print(f"  [Update] {player_name} {gk_marker}({position}){elite_info}: {action} = {rating_change:+.1f} "
+                      f"-> {new_rating:.0f} {context_info}")
                   
     def process_match_database(self, db_path: str) -> bool:
         """Processerer en enkelt kamp database med fuld optimering"""
@@ -1023,7 +1023,7 @@ class MasterHandballEloSystem:
             
             if 'match_info' not in tables or 'match_events' not in tables:
                 conn.close()
-                print(f"⚠️  Springer over {db_path} - mangler tabeller")
+                print(f"[ADVARSEL] Springer over {db_path} - mangler tabeller")
                 return False
             
             match_info = pd.read_sql_query("SELECT * FROM match_info", conn)
@@ -1124,7 +1124,7 @@ class MasterHandballEloSystem:
                     if goalkeeper_in_mv not in players_in_match:
                         # Målvogteren optræder kun i mv-feltet - tilføj ham til kampen
                         players_in_match.add(goalkeeper_in_mv)
-                        print(f"🥅 MÅLVOGTER-FIX: {goalkeeper_in_mv} tilføjet som deltagende i kampen")
+                        print(f"[FIX] Målvogter-fix: {goalkeeper_in_mv} tilføjet som deltagende i kampen")
                     
             # Opdater team Elos efter kamp
             self.update_team_elos_post_match(home_team, away_team, final_home, final_away)
@@ -1137,7 +1137,7 @@ class MasterHandballEloSystem:
             return True
             
         except Exception as e:
-            print(f"❌ Database fejl i {db_path}: {e}")
+            print(f"[FEJL] Database fejl i {db_path}: {e}")
             return False
             
     def update_team_elos_post_match(self, home_team: str, away_team: str,
@@ -1210,14 +1210,14 @@ class MasterHandballEloSystem:
         season_path = os.path.join(self.database_dir, season)
         
         if not os.path.exists(season_path):
-            print(f"❌ Sæson directory ikke fundet: {season_path}")
+            print(f"[FEJL] Sæson directory ikke fundet: {season_path}")
             return 0
             
         processed_matches = 0
         db_files = [f for f in os.listdir(season_path) if f.endswith('.db')]
         db_files.sort()
         
-        print(f"🏐 Processerer sæson {season} - {len(db_files)} kampe")
+        print(f"Processerer sæson {season} - {len(db_files)} kampe")
         
         for db_file in db_files:
             db_path = os.path.join(season_path, db_file)
@@ -1228,19 +1228,19 @@ class MasterHandballEloSystem:
                     processed_matches += 1
                     # Progress update hver 50. kamp
                     if processed_matches % 50 == 0:
-                        print(f"   📈 {processed_matches}/{len(db_files)} kampe processeret...")
+                        print(f"   [Progress] {processed_matches}/{len(db_files)} kampe processeret...")
             except Exception as e:
-                print(f"❌ Kritisk fejl i {db_file}: {e}")
+                print(f"[FEJL] Kritisk fejl i {db_file}: {e}")
                 continue
                 
-        print(f"✅ Sæson {season}: {processed_matches} kampe processeret")
-        print(f"🥅 Målvogtere identificeret: {len(self.confirmed_goalkeepers)}")
+        print(f"[OK] Sæson {season}: {processed_matches} kampe processeret")
+        print(f"Målvogtere identificeret: {len(self.confirmed_goalkeepers)}")
         
         return processed_matches
         
     def finalize_player_positions(self):
         """Finaliser spillernes positioner baseret på flest aktioner"""
-        print("\n🎯 FINALISERER SPILLERPOSITIONER BASERET PÅ AKTIONER...")
+        print("\nFinaliserer spillerpositioner baseret på aktioner...")
         
         updated_goalkeepers = set()
         position_changes = 0
@@ -1270,13 +1270,9 @@ class MasterHandballEloSystem:
                 primary_percentage >= 60 and
                 total_saves >= 5):
                 
-                # REALITY CHECK: Advar hvis en "målvogter" har en unaturlig høj rating
-                player_rating = self.player_elos.get(player_name, self.rating_bounds['default_player'])
-                if player_rating > 1400:
-                    print(f"  ⚠️  REALITY CHECK: {player_name} opfylder MV-kriterier, men har ELO > 1400 ({player_rating:.0f}). Reklassificeres som markspiller.")
-                    position_changes += 1 # Tæller som en ændring
-                else:
-                    updated_goalkeepers.add(player_name)
+                # En spiller, der opfylder disse kriterier, er en målmand.
+                # ELO-checket er fjernet for at undgå at fejlagtigt reklassificere elite-målmænd.
+                updated_goalkeepers.add(player_name)
             
             elif player_name in self.confirmed_goalkeepers:
                 # Spiller var før målvogter men har nu flere aktioner på anden position
@@ -1297,18 +1293,18 @@ class MasterHandballEloSystem:
         
     def calculate_all_seasons(self):
         """Beregner Master ELO for alle sæsoner"""
-        print("\n🚀 STARTER MASTER ELO BEREGNING")
+        print("\nStarter master ELO beregning")
         print("=" * 50)
         
         if not os.path.exists(self.database_dir):
-            print(f"❌ Database directory ikke fundet: {self.database_dir}")
+            print(f"[FEJL] Database directory ikke fundet: {self.database_dir}")
             return
             
         seasons = [d for d in os.listdir(self.database_dir)
                   if os.path.isdir(os.path.join(self.database_dir, d))]
         seasons.sort()
         
-        print(f"📅 Fundet {len(seasons)} sæsoner: {seasons}")
+        print(f"[Info] Fundet {len(seasons)} sæsoner: {seasons}")
         
         total_matches = 0
         
@@ -1319,20 +1315,20 @@ class MasterHandballEloSystem:
         # Finaliser spillerpositioner baseret på faktiske aktioner
         self.finalize_player_positions()
             
-        print(f"\n✅ MASTER ELO BEREGNING KOMPLET")
-        print(f"🏐 Total kampe processeret: {total_matches}")
-        print(f"👥 Teams: {len(self.team_elos)}")
-        print(f"🏃 Spillere: {len(self.player_elos)}")
-        print(f"🥅 Målvogtere: {len(self.confirmed_goalkeepers)}")
-        print(f"⚡ Actions processeret: {self.system_stats['actions_processed']}")
-        print(f"📈 Rating ændringer: {self.system_stats['rating_changes']}")
+        print(f"\n[OK] Master ELO beregning komplet")
+        print(f"Total kampe processeret: {total_matches}")
+        print(f"Teams: {len(self.team_elos)}")
+        print(f"Spillere: {len(self.player_elos)}")
+        print(f"Målvogtere: {len(self.confirmed_goalkeepers)}")
+        print(f"Actions processeret: {self.system_stats['actions_processed']}")
+        print(f"Rating ændringer: {self.system_stats['rating_changes']}")
         
         self.generate_master_analysis()
         self.save_master_ratings()
         
     def generate_master_analysis(self):
         """Genererer master analyse"""
-        print("\n📊 MASTER SYSTEM ANALYSE")
+        print("\nMaster system analyse")
         print("-" * 40)
         
         # Analyser positioner
@@ -1366,14 +1362,14 @@ class MasterHandballEloSystem:
             
         goalkeepers.sort(key=lambda x: x[1], reverse=True)
         
-        print(f"\n🥅 MÅLVOGTER DETALJER ({len(goalkeepers)} spillere):")
+        print(f"\nMålvogter detaljer ({len(goalkeepers)} spillere):")
         if goalkeepers:
             gk_ratings = [rating for _, rating, _ in goalkeepers]
-            print(f"📊 Gennemsnit: {np.mean(gk_ratings):.0f}")
-            print(f"📊 Standardafvigelse: {np.std(gk_ratings):.0f}")
-            print(f"📊 Range: {min(gk_ratings):.0f} - {max(gk_ratings):.0f}")
+            print(f"Gennemsnit: {np.mean(gk_ratings):.0f}")
+            print(f"Standardafvigelse: {np.std(gk_ratings):.0f}")
+            print(f"Range: {min(gk_ratings):.0f} - {max(gk_ratings):.0f}")
             
-            print("🏆 Top 10 målvogtere:")
+            print("Top 10 målvogtere:")
             for i, (name, rating, stats) in enumerate(goalkeepers[:10]):
                 saves = stats.get('saves', 0)
                 pen_saves = stats.get('penalty_saves', 0)
@@ -1396,28 +1392,28 @@ class MasterHandballEloSystem:
         self.system_stats['legendary_players'] = legendary_count
         
         # FORBEDRET SYSTEM PERFORMANCE med momentum statistikker
-        print(f"\n⚡ SYSTEM PERFORMANCE:")
-        print(f"📈 Actions processeret: {self.system_stats['actions_processed']:,}")
-        print(f"🔄 Rating ændringer: {self.system_stats['rating_changes']:,}")
-        print(f"🎯 Ændring ratio: {self.system_stats['rating_changes']/self.system_stats['actions_processed']*100:.1f}%")
-        print(f"💥 Ultra-kritiske øjeblikke (>2.5x): {self.system_stats['ultra_critical_moments']:,}")
-        print(f"🔥 Kritiske øjeblikke (>2.0x): {self.system_stats['critical_moments']:,}")
-        print(f"⚡ Høj kontekst (>1.5x): {self.system_stats['high_context_actions']:,}")
+        print(f"\nSystem performance:")
+        print(f"Actions processeret: {self.system_stats['actions_processed']:,}")
+        print(f"Rating ændringer: {self.system_stats['rating_changes']:,}")
+        print(f"Ændring ratio: {self.system_stats['rating_changes']/self.system_stats['actions_processed']*100:.1f}%")
+        print(f"Ultra-kritiske øjeblikke (>2.5x): {self.system_stats['ultra_critical_moments']:,}")
+        print(f"Kritiske øjeblikke (>2.0x): {self.system_stats['critical_moments']:,}")
+        print(f"Høj kontekst (>1.5x): {self.system_stats['high_context_actions']:,}")
         
         # NYE MOMENTUM STATISTIKKER
         momentum_stats = self.system_stats['momentum_situations']
-        print(f"\n🎭 MOMENTUM SITUATIONER:")
-        print(f"📈 Comeback situationer: {momentum_stats['comebacks']:,}")
-        print(f"📉 Føring-smid situationer: {momentum_stats['lead_losses']:,}")
-        print(f"👑 Lederskifte situationer: {momentum_stats['leadership_changes']:,}")
-        print(f"💥 Kritiske fejl situationer: {momentum_stats['critical_errors']:,}")
+        print(f"\nMomentum situationer:")
+        print(f"Comeback situationer: {momentum_stats['comebacks']:,}")
+        print(f"Føring-smid situationer: {momentum_stats['lead_losses']:,}")
+        print(f"Lederskifte situationer: {momentum_stats['leadership_changes']:,}")
+        print(f"Kritiske fejl situationer: {momentum_stats['critical_errors']:,}")
         
         # ELITE SPILLERE STATISTIKKER
-        print(f"\n🏆 ELITE SPILLERE FORDELING:")
-        print(f"⭐ Elite spillere (≥{self.rating_bounds['elite_threshold']}): {elite_count:,}")
-        print(f"🌟 Legendariske spillere (≥{self.rating_bounds['legendary_threshold']}): {legendary_count:,}")
-        print(f"👑 Max rating spillere ({self.rating_bounds['max']}): {max_rating_count:,}")
-        print(f"🎯 Højeste rating opnået: {self.system_stats['max_rating_reached']:.0f}")
+        print(f"\nElite spillere fordeling:")
+        print(f"Elite spillere (>{self.rating_bounds['elite_threshold']}): {elite_count:,}")
+        print(f"Legendariske spillere (>{self.rating_bounds['legendary_threshold']}): {legendary_count:,}")
+        print(f"Max rating spillere ({self.rating_bounds['max']}): {max_rating_count:,}")
+        print(f"Højeste rating opnået: {self.system_stats['max_rating_reached']:.0f}")
         
         # FORBEDRET KONTEKST STATISTIKKER
         total_actions = self.system_stats['actions_processed']
@@ -1435,19 +1431,19 @@ class MasterHandballEloSystem:
             leadership_change_pct = momentum_stats['leadership_changes'] / total_actions * 100
             critical_error_pct = momentum_stats['critical_errors'] / total_actions * 100
             
-            print(f"📊 Ultra-kritiske øjeblikke: {ultra_critical_pct:.2f}% af alle aktioner")
-            print(f"📊 Kritiske øjeblikke: {critical_pct:.1f}% af alle aktioner")
-            print(f"📊 Høj kontekst aktioner: {high_context_pct:.1f}% af alle aktioner")
-            print(f"📊 Elite spillere: {elite_pct:.1f}% af alle spillere")
-            print(f"📊 Legendariske spillere: {legendary_pct:.2f}% af alle spillere")
-            print(f"📊 Comeback situationer: {comeback_pct:.2f}% af alle aktioner")
-            print(f"📊 Føring-smid situationer: {lead_loss_pct:.2f}% af alle aktioner")
-            print(f"📊 Lederskifte situationer: {leadership_change_pct:.2f}% af alle aktioner")
-            print(f"📊 Kritiske fejl situationer: {critical_error_pct:.2f}% af alle aktioner")
+            print(f"[Info] Ultra-kritiske øjeblikke: {ultra_critical_pct:.2f}% af alle aktioner")
+            print(f"[Info] Kritiske øjeblikke: {critical_pct:.1f}% af alle aktioner")
+            print(f"[Info] Høj kontekst aktioner: {high_context_pct:.1f}% af alle aktioner")
+            print(f"[Info] Elite spillere: {elite_pct:.1f}% af alle spillere")
+            print(f"[Info] Legendariske spillere: {legendary_pct:.2f}% af alle spillere")
+            print(f"[Info] Comeback situationer: {comeback_pct:.2f}% af alle aktioner")
+            print(f"[Info] Føring-smid situationer: {lead_loss_pct:.2f}% af alle aktioner")
+            print(f"[Info] Lederskifte situationer: {leadership_change_pct:.2f}% af alle aktioner")
+            print(f"[Info] Kritiske fejl situationer: {critical_error_pct:.2f}% af alle aktioner")
         
     def save_master_ratings(self):
         """Gemmer master ratings"""
-        print("\n💾 GEMMER MASTER RATINGS")
+        print("\nGemmer master ratings")
         print("-" * 40)
         
         # === TEAM RATINGS ===
@@ -1462,7 +1458,7 @@ class MasterHandballEloSystem:
             
         team_df = pd.DataFrame(team_data)
         team_df.to_csv('master_team_elo_ratings.csv', index=False)
-        print(f"✅ Team ratings: master_team_elo_ratings.csv ({len(team_df)} teams)")
+        print(f"[OK] Team ratings: master_team_elo_ratings.csv ({len(team_df)} teams)")
         
         # === PLAYER RATINGS ===
         player_data = []
@@ -1514,15 +1510,15 @@ class MasterHandballEloSystem:
             
         player_df = pd.DataFrame(player_data)
         player_df.to_csv('master_player_elo_ratings.csv', index=False)
-        print(f"✅ Player ratings: master_player_elo_ratings.csv ({len(player_df)} spillere)")
+        print(f"[OK] Player ratings: master_player_elo_ratings.csv ({len(player_df)} spillere)")
         
         # === MATCH RESULTS ===
         if self.match_results:
             match_df = pd.DataFrame(self.match_results)
             match_df.to_csv('master_match_elo_results.csv', index=False)
-            print(f"✅ Match results: master_match_elo_results.csv ({len(match_df)} kampe)")
+            print(f"[OK] Match results: master_match_elo_results.csv ({len(match_df)} kampe)")
             
-        print("💾 Alle master ratings gemt!")
+        print("Alle master ratings gemt!")
 
     # === VALIDATION SYSTEM FOR DATA.MD COMPLIANCE ===
     # Tilføjer omfattende validering for at sikre korrekt implementering

@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-JESPER DAHL,NSH,Nordsjælland Håndbold,1570.2,32,HF,False,LEGENDARY,240.4
-CARL-EMIL HAUNSTRUP,NSH,Nordsjælland Håndbold,1491.3000000000002,31,HF,False,LEGENDARY,179.9
-TOBIAS JØRGENSEN,NSH,Nordsjælland Håndbold,1383.6999999999998,31,HF,False,ELITE,187.6
-KASPER KISUM,NSH,Nordsjælland Håndbold,1380.5,27,HF,False,ELITE,69.4
-NICHLAS HALD,NSH,Nordsjælland Håndbold,1231.1,31,HF,False,NORMAL,216.1
-ANDREAS MAGAARD,NSH,Nordsjælland Håndbold,1229.6,31,ST,False,NORMAL,131.2
-MATIAS CAMPBELL,NSH,Nordsjælland Håndbold,1166.8,25,HF,False,NORMAL,151.8
-HAKAN SAHIN,NSH,Nordsjælland Håndbold,1119.8,13,HF,False,NORMAL,19.8
-JEPPE CIESLAK,NSH,Nordsjælland Håndbold,1082.5,17,HF,False,NORMAL,67.5
-JIMMI ANDERSEN,NSH,Nordsjælland Håndbold,1077.9,32,MV,True,NORMAL,6.9
-RASMUS MADSBØLL WENNEKE,NSH,Nordsjælland Håndbold,1061.5,17,VF,False,NORMAL,46.5
-MAGNUS KRONBORG,NSH,Nordsjælland Håndbold,1053.8,19,HF,False,NORMAL,38.8
-THOMAS KJÆRGAARD,NSH,Nordsjælland Håndbold,1048.1,27,HF,False,NORMAL,33.1
-RASMUS MADSBØLL WENNEKE,NSH,Nordsjælland Håndbold,1045.8,14,VF,False,NORMAL,30.8
-JULIUS MØRCH-RASMUSSEN,NSH,Nordsjælland Håndbold,1034.2,15,HF,False,NORMAL,19.2
-FREDERIK ANDERSSON,NSH,Nordsjælland Håndbold,1033.4,26,MV,True,NORMAL,18.4
-JULIUS MØRCH,NSH,Nordsjælland Håndbold,1025.6,6,ST,False,NORMAL,10.6
+JESPER DAHL,NSH,Nordsjælland Håndbold,1554.4,32,HB,False,LEGENDARY,242.7
+CARL-EMIL HAUNSTRUP,NSH,Nordsjælland Håndbold,1465.5,31,HF,False,LEGENDARY,177.5
+KASPER KISUM,NSH,Nordsjælland Håndbold,1461.8,27,VB,False,LEGENDARY,79.0
+TOBIAS JØRGENSEN,NSH,Nordsjælland Håndbold,1399.2,31,PL,False,ELITE,188.5
+NICHLAS HALD,NSH,Nordsjælland Håndbold,1268.6,31,PL,False,ELITE,253.6
+ANDREAS MAGAARD,NSH,Nordsjælland Håndbold,1239.4,31,ST,False,NORMAL,136.3
+MATIAS CAMPBELL,NSH,Nordsjælland Håndbold,1179.4,25,PL,False,NORMAL,164.4
+JIMMI ANDERSEN,NSH,Nordsjælland Håndbold,1154.2,32,MV,True,NORMAL,74.3
+HAKAN SAHIN,NSH,Nordsjælland Håndbold,1132.6,13,ST,False,NORMAL,19.7
+FREDERIK ANDERSSON,NSH,Nordsjælland Håndbold,1109.7,26,MV,True,NORMAL,94.7
+JEPPE CIESLAK,NSH,Nordsjælland Håndbold,1077.7,17,VF,False,NORMAL,62.7
+MAGNUS KRONBORG,NSH,Nordsjælland Håndbold,1066.9,19,PL,False,NORMAL,51.9
+RASMUS MADSBØLL WENNEKE,NSH,Nordsjælland Håndbold,1054.5,17,VF,False,NORMAL,39.5
+THOMAS KJÆRGAARD,NSH,Nordsjælland Håndbold,1053.5,27,HB,False,NORMAL,38.5
+RASMUS MADSBØLL WENNEKE,NSH,Nordsjælland Håndbold,1041.6,14,VF,False,NORMAL,26.6
+JULIUS MØRCH-RASMUSSEN,NSH,Nordsjælland Håndbold,1036.3,15,ST,False,NORMAL,21.3
+JULIUS MØRCH,NSH,Nordsjælland Håndbold,1026.3,6,ST,False,NORMAL,11.3

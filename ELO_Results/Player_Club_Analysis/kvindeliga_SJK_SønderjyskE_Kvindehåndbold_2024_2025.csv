@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-MELISSA PETRÉN,SJK,SønderjyskE Kvindehåndbold,1582.1,32,HF,False,LEGENDARY,320.3
-SARAH PAULSEN,SJK,SønderjyskE Kvindehåndbold,1470.1,22,HF,False,LEGENDARY,160.4
-LEA HANSEN,SJK,SønderjyskE Kvindehåndbold,1452.5,30,HF,False,LEGENDARY,130.1
-IDA-MARIE DAHL,SJK,SønderjyskE Kvindehåndbold,1452.3,31,HF,True,LEGENDARY,200.6
-OLIVIA SIMONSEN,SJK,SønderjyskE Kvindehåndbold,1442.8,28,HF,False,LEGENDARY,169.7
-LOUISE ELLEBÆK,SJK,SønderjyskE Kvindehåndbold,1440.1,21,HF,False,LEGENDARY,106.0
-JUNE BØTTGER,SJK,SønderjyskE Kvindehåndbold,1417.1,26,VF,False,LEGENDARY,92.3
-NICOLINE OLSEN,SJK,SønderjyskE Kvindehåndbold,1376.9,32,HF,False,ELITE,142.0
-JOSEFINE DRAGENBERG,SJK,SønderjyskE Kvindehåndbold,1251.9,21,HF,False,ELITE,44.7
-STINE BROLØS,SJK,SønderjyskE Kvindehåndbold,1122.4,32,MV,True,NORMAL,8.4
-PETER NIELSEN,SJK,SønderjyskE Kvindehåndbold,1095.8000000000002,7,HF,False,NORMAL,-3.1
-SARA IBRANOVIC,SJK,SønderjyskE Kvindehåndbold,1093.6,14,VF,False,NORMAL,23.9
-NORA PERSSON,SJK,SønderjyskE Kvindehåndbold,1091.6,22,MV,True,NORMAL,0.8
-KARINE DAHLUM,SJK,SønderjyskE Kvindehåndbold,1085.5,23,HF,False,NORMAL,70.5
-SIDSEL MYGIL MATTESEN,SJK,SønderjyskE Kvindehåndbold,1029.0,10,VF,False,NORMAL,14.0
-SIDSEL MYGIL MATTESEN,SJK,SønderjyskE Kvindehåndbold,1016.5,2,HF,False,NORMAL,1.5
+MELISSA PETRÉN,SJK,SønderjyskE Kvindehåndbold,1614.0,32,PL,False,LEGENDARY,363.2
+SARAH PAULSEN,SJK,SønderjyskE Kvindehåndbold,1511.6,22,PL,False,LEGENDARY,162.7
+IDA-MARIE DAHL,SJK,SønderjyskE Kvindehåndbold,1476.3,31,ST,False,LEGENDARY,193.7
+LOUISE ELLEBÆK,SJK,SønderjyskE Kvindehåndbold,1467.4,21,VB,False,LEGENDARY,106.9
+OLIVIA SIMONSEN,SJK,SønderjyskE Kvindehåndbold,1439.2,28,ST,False,LEGENDARY,158.7
+LEA HANSEN,SJK,SønderjyskE Kvindehåndbold,1427.2,30,HF,False,LEGENDARY,116.7
+JUNE BØTTGER,SJK,SønderjyskE Kvindehåndbold,1392.9,26,VF,False,ELITE,81.2
+NICOLINE OLSEN,SJK,SønderjyskE Kvindehåndbold,1347.8,32,HB,False,ELITE,128.2
+JOSEFINE DRAGENBERG,SJK,SønderjyskE Kvindehåndbold,1256.3,21,ST,False,ELITE,44.2
+STINE BROLØS,SJK,SønderjyskE Kvindehåndbold,1128.4,32,MV,True,NORMAL,8.1
+PETER NIELSEN,SJK,SønderjyskE Kvindehåndbold,1104.3000000000002,7,Ukendt,False,NORMAL,-3.1
+NORA PERSSON,SJK,SønderjyskE Kvindehåndbold,1097.2,22,MV,True,NORMAL,0.8
+KARINE DAHLUM,SJK,SønderjyskE Kvindehåndbold,1092.8,23,HB,False,NORMAL,77.8
+SARA IBRANOVIC,SJK,SønderjyskE Kvindehåndbold,1086.2,14,VF,False,NORMAL,24.4
+SIDSEL MYGIL MATTESEN,SJK,SønderjyskE Kvindehåndbold,1028.9,10,VF,False,NORMAL,13.9
+SIDSEL MYGIL MATTESEN,SJK,SønderjyskE Kvindehåndbold,1016.8,2,HF,False,NORMAL,1.8

@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-NICOLAJ JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1822.0,30,HF,False,LEGENDARY,424.3
-AUGUST WIGER,SJH,SønderjyskE Herrehåndbold,1444.1,29,HF,False,LEGENDARY,143.7
-MORTEN BJØRNSHAUGE,SJH,SønderjyskE Herrehåndbold,1393.6,26,ST,False,ELITE,85.2
-SEBASTIAN AUGUSTINUSSEN,SJH,SønderjyskE Herrehåndbold,1320.7,24,HF,False,ELITE,77.0
-NIKOLAJ SVALASTOG,SJH,SønderjyskE Herrehåndbold,1318.4,18,HF,False,ELITE,88.2
-MAGNUS FREDRIKSEN,SJH,SønderjyskE Herrehåndbold,1233.5,30,HF,False,NORMAL,218.5
-TOBIAS OLSEN,SJH,SønderjyskE Herrehåndbold,1226.1999999999998,13,HF,False,NORMAL,45.6
-JACOB BAGERSTED,SJH,SønderjyskE Herrehåndbold,1175.2,28,ST,False,NORMAL,24.9
-TOBIAS GREGERS SCHMIDT,SJH,SønderjyskE Herrehåndbold,1165.2,17,HF,False,NORMAL,23.7
-PATRICK VOLZ,SJH,SønderjyskE Herrehåndbold,1162.6,27,VF,False,NORMAL,147.6
-EBBE STANKIEWICZ,SJH,SønderjyskE Herrehåndbold,1148.9,30,HF,False,NORMAL,133.9
-MATTHIAS DORGELO,SJH,SønderjyskE Herrehåndbold,1133.4,22,MV,True,NORMAL,20.7
-GABRIEL SETTERBLOM,SJH,SønderjyskE Herrehåndbold,1130.3,22,HF,False,NORMAL,115.3
-RASMUS GLAD VANDBÆK,SJH,SønderjyskE Herrehåndbold,1129.3,5,HF,False,NORMAL,-1.4
-MAGNUS HOLPERT,SJH,SønderjyskE Herrehåndbold,1117.1,9,HF,False,NORMAL,20.2
-JULIUS STEN,SJH,SønderjyskE Herrehåndbold,1094.9,29,MV,True,NORMAL,8.1
-LUCAS REHFUS,SJH,SønderjyskE Herrehåndbold,1024.1,9,HF,False,NORMAL,9.1
+NICOLAJ JØRGENSEN,SJH,SønderjyskE Herrehåndbold,1837.6,30,PL,False,LEGENDARY,435.6
+AUGUST WIGER,SJH,SønderjyskE Herrehåndbold,1446.0,29,PL,False,LEGENDARY,134.4
+MORTEN BJØRNSHAUGE,SJH,SønderjyskE Herrehåndbold,1408.2,26,ST,False,LEGENDARY,89.8
+SEBASTIAN AUGUSTINUSSEN,SJH,SønderjyskE Herrehåndbold,1309.9,24,HF,False,ELITE,68.2
+NIKOLAJ SVALASTOG,SJH,SønderjyskE Herrehåndbold,1291.7,18,VF,False,ELITE,76.5
+MATTHIAS DORGELO,SJH,SønderjyskE Herrehåndbold,1282.2,22,MV,True,ELITE,138.3
+TOBIAS OLSEN,SJH,SønderjyskE Herrehåndbold,1253.1,13,PL,False,ELITE,41.0
+MAGNUS FREDRIKSEN,SJH,SønderjyskE Herrehåndbold,1215.3,30,PL,False,NORMAL,200.3
+JACOB BAGERSTED,SJH,SønderjyskE Herrehåndbold,1187.8,28,ST,False,NORMAL,26.2
+TOBIAS GREGERS SCHMIDT,SJH,SønderjyskE Herrehåndbold,1184.8,17,ST,False,NORMAL,23.8
+JULIUS STEN,SJH,SønderjyskE Herrehåndbold,1179.3,29,MV,True,NORMAL,68.7
+RASMUS GLAD VANDBÆK,SJH,SønderjyskE Herrehåndbold,1157.8,5,Ukendt,False,NORMAL,-1.4
+PATRICK VOLZ,SJH,SønderjyskE Herrehåndbold,1146.8,27,VF,False,NORMAL,131.8
+EBBE STANKIEWICZ,SJH,SønderjyskE Herrehåndbold,1136.7,30,HF,False,NORMAL,121.7
+GABRIEL SETTERBLOM,SJH,SønderjyskE Herrehåndbold,1125.9,22,PL,False,NORMAL,110.9
+MAGNUS HOLPERT,SJH,SønderjyskE Herrehåndbold,1120.8,9,PL,False,NORMAL,20.1
+LUCAS REHFUS,SJH,SønderjyskE Herrehåndbold,1024.5,9,VB,False,NORMAL,9.5

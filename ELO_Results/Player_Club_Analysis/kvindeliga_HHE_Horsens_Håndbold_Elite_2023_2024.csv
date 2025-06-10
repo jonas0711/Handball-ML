@@ -1,19 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-MAI KRAGBALLE,HHE,Horsens Håndbold Elite,1776.4,29,HF,False,LEGENDARY,389.2
-KRISTIN THORLEIFSDÓTTIR,HHE,Horsens Håndbold Elite,1768.9,29,HF,False,LEGENDARY,380.0
-ANNIKA MEYER,HHE,Horsens Håndbold Elite,1423.1,30,ST,False,LEGENDARY,182.8
-MAJBRITT TOFT HANSEN,HHE,Horsens Håndbold Elite,1313.5,28,ST,False,ELITE,62.3
-MELANIE BAK,HHE,Horsens Håndbold Elite,1293.8,22,HF,False,ELITE,205.1
-LAURA DAMGAARD,HHE,Horsens Håndbold Elite,1276.0,7,HF,False,ELITE,25.7
-HEGE LØKEN,HHE,Horsens Håndbold Elite,1260.1,29,HF,False,ELITE,192.4
-ELIN HANSSON,HHE,Horsens Håndbold Elite,1233.5,30,VF,False,NORMAL,218.5
-FAYE JANSON,HHE,Horsens Håndbold Elite,1142.8,26,HF,False,NORMAL,127.8
-ANNE-SOFIE FILTENBORG,HHE,Horsens Håndbold Elite,1121.6,19,HF,False,NORMAL,23.7
-MARIA HØJGAARD,HHE,Horsens Håndbold Elite,1109.1,5,VF,False,NORMAL,4.6
-DICTE ANDERSEN,HHE,Horsens Håndbold Elite,1107.1999999999998,9,HF,False,NORMAL,7.1
-EMILY STANG SANDO,HHE,Horsens Håndbold Elite,1084.2,17,MV,True,NORMAL,4.8
-ANNETTE WIRÉN LARSEN,HHE,Horsens Håndbold Elite,1067.9,7,HF,False,NORMAL,52.9
-SILLE SORTH,HHE,Horsens Håndbold Elite,1055.8,14,HF,False,NORMAL,40.8
-SMILLA HEDE,HHE,Horsens Håndbold Elite,1023.6,9,HF,False,NORMAL,8.6
+KRISTIN THORLEIFSDÓTTIR,HHE,Horsens Håndbold Elite,1822.3,29,PL,False,LEGENDARY,424.4
+MAI KRAGBALLE,HHE,Horsens Håndbold Elite,1804.8,29,PL,False,LEGENDARY,402.4
+ANNIKA MEYER,HHE,Horsens Håndbold Elite,1421.8,30,ST,False,LEGENDARY,188.2
+MAJBRITT TOFT HANSEN,HHE,Horsens Håndbold Elite,1316.3000000000002,28,ST,False,ELITE,62.9
+LAURA DAMGAARD,HHE,Horsens Håndbold Elite,1310.9,7,PL,False,ELITE,27.3
+MELANIE BAK,HHE,Horsens Håndbold Elite,1271.6,22,PL,False,ELITE,186.3
+HEGE LØKEN,HHE,Horsens Håndbold Elite,1246.8000000000002,29,HF,False,NORMAL,179.4
+ELIN HANSSON,HHE,Horsens Håndbold Elite,1207.9,30,VF,False,NORMAL,192.9
+FAYE JANSON,HHE,Horsens Håndbold Elite,1167.0,26,PL,False,NORMAL,152.0
+ANNE-SOFIE FILTENBORG,HHE,Horsens Håndbold Elite,1123.8,19,HF,False,NORMAL,21.2
+DICTE ANDERSEN,HHE,Horsens Håndbold Elite,1113.1,9,PL,False,NORMAL,8.6
+MARIA HØJGAARD,HHE,Horsens Håndbold Elite,1111.4,5,VF,False,NORMAL,5.6
+EMILY STANG SANDO,HHE,Horsens Håndbold Elite,1095.2,17,MV,True,NORMAL,4.7
+ANNETTE WIRÉN LARSEN,HHE,Horsens Håndbold Elite,1073.3,7,PL,False,NORMAL,58.3
+SILLE SORTH,HHE,Horsens Håndbold Elite,1046.8,14,HF,False,NORMAL,31.8
+SMILLA HEDE,HHE,Horsens Håndbold Elite,1028.7,9,VB,False,NORMAL,13.7
 MATHILDE BISGAARD,HHE,Horsens Håndbold Elite,1014.7,28,MV,True,NORMAL,-0.3
-MAYSSA PESSOA,HHE,Horsens Håndbold Elite,999.7,12,MV,True,NORMAL,-15.3
+MAYSSA PESSOA,HHE,Horsens Håndbold Elite,992.3,12,MV,True,NORMAL,-22.7

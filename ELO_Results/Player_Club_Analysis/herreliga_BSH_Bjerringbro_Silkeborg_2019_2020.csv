@@ -1,16 +1,16 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-SEBASTIAN SKUBE,BSH,Bjerringbro-Silkeborg,1562.6,22,HF,False,LEGENDARY,160.5
-NIKOLAJ ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1560.7,24,HF,False,LEGENDARY,191.5
-JOHAN HANSEN,BSH,Bjerringbro-Silkeborg,1481.0,24,HF,False,LEGENDARY,207.2
-NIKOLAJ MARKUSSEN,BSH,Bjerringbro-Silkeborg,1473.4,22,HF,False,LEGENDARY,169.7
-JACOB LASSEN,BSH,Bjerringbro-Silkeborg,1457.1,24,HF,False,LEGENDARY,140.9
-MADS KJELDGAARD ANDERSEN,BSH,Bjerringbro-Silkeborg,1385.2,23,HF,False,ELITE,125.8
-MICHAEL KNUDSEN,BSH,Bjerringbro-Silkeborg,1307.5,24,ST,False,ELITE,69.3
-JESPER NØDDESBO,BSH,Bjerringbro-Silkeborg,1263.3,23,HF,False,ELITE,66.5
-MADS ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1199.5,14,HF,False,NORMAL,21.5
-AUGUST BASKÅR PEDERSEN,BSH,Bjerringbro-Silkeborg,1145.6,23,VF,False,NORMAL,71.4
-KASPER LARSEN,BSH,Bjerringbro-Silkeborg,1063.6999999999998,23,MV,True,NORMAL,10.6
-PETER BREDSDORFF-LARSEN,BSH,Bjerringbro-Silkeborg,1063.4,5,HF,False,NORMAL,-1.5
-ALJOSA REZAR,BSH,Bjerringbro-Silkeborg,1048.4,20,MV,True,NORMAL,5.5
-THRAINN ORRI JONSSON,BSH,Bjerringbro-Silkeborg,1025.8,8,HF,False,NORMAL,10.8
-KLAUS THOMSEN,BSH,Bjerringbro-Silkeborg,1017.3,9,HF,False,NORMAL,-7.3
+NIKOLAJ ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1620.9,24,PL,False,LEGENDARY,218.1
+SEBASTIAN SKUBE,BSH,Bjerringbro-Silkeborg,1553.9,22,PL,False,LEGENDARY,155.0
+NIKOLAJ MARKUSSEN,BSH,Bjerringbro-Silkeborg,1536.3,22,PL,False,LEGENDARY,184.0
+JOHAN HANSEN,BSH,Bjerringbro-Silkeborg,1462.1,24,HF,False,LEGENDARY,204.5
+JACOB LASSEN,BSH,Bjerringbro-Silkeborg,1449.2,24,PL,False,LEGENDARY,143.3
+MADS KJELDGAARD ANDERSEN,BSH,Bjerringbro-Silkeborg,1410.8,23,PL,False,LEGENDARY,129.2
+MICHAEL KNUDSEN,BSH,Bjerringbro-Silkeborg,1301.8,24,ST,False,ELITE,70.1
+JESPER NØDDESBO,BSH,Bjerringbro-Silkeborg,1275.5,23,ST,False,ELITE,64.4
+MADS ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1258.5,14,PL,False,ELITE,28.8
+KASPER LARSEN,BSH,Bjerringbro-Silkeborg,1182.1999999999998,23,MV,True,NORMAL,122.6
+AUGUST BASKÅR PEDERSEN,BSH,Bjerringbro-Silkeborg,1132.9,23,VF,False,NORMAL,64.1
+ALJOSA REZAR,BSH,Bjerringbro-Silkeborg,1128.5,20,MV,True,NORMAL,67.5
+PETER BREDSDORFF-LARSEN,BSH,Bjerringbro-Silkeborg,1071.0,5,Ukendt,False,NORMAL,-1.5
+KLAUS THOMSEN,BSH,Bjerringbro-Silkeborg,1042.4,9,Ukendt,False,NORMAL,-7.7
+THRAINN ORRI JONSSON,BSH,Bjerringbro-Silkeborg,1025.0,8,ST,False,NORMAL,10.0

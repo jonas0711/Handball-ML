@@ -1,18 +1,18 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-RUNE HOYER SCHRØDER,FHK,Fredericia Håndbold Klub,1343.8,22,HF,False,ELITE,154.0
-KRISTIAN STOKLUND LARSEN,FHK,Fredericia Håndbold Klub,1336.5,24,HF,False,ELITE,223.0
-JAKOB MIKKELSEN,FHK,Fredericia Håndbold Klub,1175.8,23,HF,False,NORMAL,160.8
-RASMUS MEYER EJLERSEN,FHK,Fredericia Håndbold Klub,1157.1,24,HF,False,NORMAL,77.0
-MARTIN BISGAARD,FHK,Fredericia Håndbold Klub,1140.0,24,HF,False,NORMAL,125.0
-KASPER YOUNG ANDERSEN,FHK,Fredericia Håndbold Klub,1119.5,22,HF,False,NORMAL,104.5
-RUNE ANDERSEN,FHK,Fredericia Håndbold Klub,1101.4,23,HF,False,NORMAL,86.4
-NIKOLAJ VESTERGAARD MEHL,FHK,Fredericia Håndbold Klub,1088.1,23,HF,False,NORMAL,73.1
-EMIL TELLERUP,FHK,Fredericia Håndbold Klub,1086.8,23,MV,True,NORMAL,44.5
-JAKOB FREDERIKSEN,FHK,Fredericia Håndbold Klub,1070.1,21,HF,False,NORMAL,55.1
-MATHIAS HEDEGAARD,FHK,Fredericia Håndbold Klub,1057.6,22,HF,False,NORMAL,42.6
-VICTOR SKILLHAMMAR,FHK,Fredericia Håndbold Klub,1041.0,9,HF,False,NORMAL,26.0
-KRISTIAN FAURHOLT LOHMANN OLSEN,FHK,Fredericia Håndbold Klub,1033.5,6,HF,False,NORMAL,18.5
-MARCUS RAHBEK,FHK,Fredericia Håndbold Klub,1032.4,12,VF,False,NORMAL,17.4
-JESPER LINDGREN,FHK,Fredericia Håndbold Klub,1027.7,19,HF,False,NORMAL,12.7
-JESPER HOUMARK,FHK,Fredericia Håndbold Klub,1013.4,7,HF,False,NORMAL,-1.6
-JIMMI ANDERSEN,FHK,Fredericia Håndbold Klub,1010.5,22,MV,True,NORMAL,-4.5
+KRISTIAN STOKLUND LARSEN,FHK,Fredericia Håndbold Klub,1411.2,24,PL,False,LEGENDARY,256.7
+RUNE HOYER SCHRØDER,FHK,Fredericia Håndbold Klub,1399.0,22,VB,False,ELITE,166.6
+EMIL TELLERUP,FHK,Fredericia Håndbold Klub,1324.6,23,MV,True,ELITE,277.9
+JAKOB MIKKELSEN,FHK,Fredericia Håndbold Klub,1187.3,23,HB,False,NORMAL,172.3
+RASMUS MEYER EJLERSEN,FHK,Fredericia Håndbold Klub,1161.0,24,ST,False,NORMAL,76.1
+MARTIN BISGAARD,FHK,Fredericia Håndbold Klub,1131.0,24,VF,False,NORMAL,116.0
+KASPER YOUNG ANDERSEN,FHK,Fredericia Håndbold Klub,1117.1,22,HF,False,NORMAL,102.1
+RUNE ANDERSEN,FHK,Fredericia Håndbold Klub,1099.7,23,PL,False,NORMAL,84.7
+NIKOLAJ VESTERGAARD MEHL,FHK,Fredericia Håndbold Klub,1099.6,23,PL,False,NORMAL,84.6
+JAKOB FREDERIKSEN,FHK,Fredericia Håndbold Klub,1066.2,21,HF,False,NORMAL,51.2
+MATHIAS HEDEGAARD,FHK,Fredericia Håndbold Klub,1060.6,22,ST,False,NORMAL,45.6
+VICTOR SKILLHAMMAR,FHK,Fredericia Håndbold Klub,1039.0,9,PL,False,NORMAL,24.0
+KRISTIAN FAURHOLT LOHMANN OLSEN,FHK,Fredericia Håndbold Klub,1035.3,6,PL,False,NORMAL,20.3
+MARCUS RAHBEK,FHK,Fredericia Håndbold Klub,1030.8,12,VF,False,NORMAL,15.8
+JESPER LINDGREN,FHK,Fredericia Håndbold Klub,1024.9,19,ST,False,NORMAL,9.9
+JIMMI ANDERSEN,FHK,Fredericia Håndbold Klub,1023.3,22,MV,True,NORMAL,8.3
+JESPER HOUMARK,FHK,Fredericia Håndbold Klub,1013.4,7,Ukendt,False,NORMAL,-1.6

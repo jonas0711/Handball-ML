@@ -1,20 +1,20 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-KELLY DULFER,KBH,København Håndbold,1283.8,31,HF,False,ELITE,185.6
-JENNY ALM,KBH,København Håndbold,1266.7,36,HF,False,ELITE,193.5
-MIA REJ,KBH,København Håndbold,1253.6,6,HF,False,ELITE,54.1
-DEBBIE BONT,KBH,København Håndbold,1209.5,32,HF,False,NORMAL,129.1
-ANNE CECILIE DE LA COUR,KBH,København Håndbold,1200.9,31,HF,False,NORMAL,133.2
-MAI KRAGBALLE,KBH,København Håndbold,1166.7,36,HF,False,NORMAL,131.3
-LOUISE FØNS,KBH,København Håndbold,1159.1,35,HF,False,NORMAL,117.1
-LINN BLOHM,KBH,København Håndbold,1147.1,33,HF,False,NORMAL,119.2
-HANNA BLOMSTRAND,KBH,København Håndbold,1107.7,31,HF,False,NORMAL,78.3
-MARIA LYKKEGAARD,KBH,København Håndbold,1104.5,32,HF,False,NORMAL,58.2
-LARISSA NUSSER,KBH,København Håndbold,1102.9,33,HF,False,NORMAL,87.9
-ANNIKA MEYER,KBH,København Håndbold,1060.1,20,HF,False,NORMAL,30.8
-THEA MØRK,KBH,København Håndbold,1060.0,12,HF,False,NORMAL,45.0
-ANDREA ULRIKKA AAGOT HANSEN,KBH,København Håndbold,1045.7,18,HF,False,NORMAL,30.7
-LINE BJØRNSEN,KBH,København Håndbold,1045.5,11,HF,False,NORMAL,15.5
-JOHANNA BUNDSEN,KBH,København Håndbold,1025.2,24,MV,True,NORMAL,1.4
-MARIE WALL,KBH,København Håndbold,1021.6,6,HF,False,NORMAL,6.6
-EMILY STANG SANDO,KBH,København Håndbold,1016.1,28,MV,True,NORMAL,-2.4
+JENNY ALM,KBH,København Håndbold,1296.4,36,PL,False,ELITE,198.3
+KELLY DULFER,KBH,København Håndbold,1284.9,31,PL,False,ELITE,177.6
+ANNE CECILIE DE LA COUR,KBH,København Håndbold,1273.6,31,HB,False,ELITE,180.2
+MIA REJ,KBH,København Håndbold,1251.4,6,VB,False,ELITE,50.1
+MAI KRAGBALLE,KBH,København Håndbold,1206.6,36,PL,False,NORMAL,167.3
+DEBBIE BONT,KBH,København Håndbold,1182.4,32,HF,False,NORMAL,115.6
+LINN BLOHM,KBH,København Håndbold,1148.8,33,ST,False,NORMAL,116.3
+LOUISE FØNS,KBH,København Håndbold,1142.1,35,VF,False,NORMAL,103.9
+HANNA BLOMSTRAND,KBH,København Håndbold,1115.9,31,HB,False,NORMAL,82.5
+MARIA LYKKEGAARD,KBH,København Håndbold,1103.2,32,ST,False,NORMAL,53.5
+LARISSA NUSSER,KBH,København Håndbold,1090.8,33,PL,False,NORMAL,75.8
+ANNIKA MEYER,KBH,København Håndbold,1056.7,20,ST,False,NORMAL,29.2
+THEA MØRK,KBH,København Håndbold,1052.6,12,VF,False,NORMAL,37.6
+LINE BJØRNSEN,KBH,København Håndbold,1045.6,11,HF,False,NORMAL,14.0
+ANDREA ULRIKKA AAGOT HANSEN,KBH,København Håndbold,1042.6,18,HF,False,NORMAL,27.6
+JOHANNA BUNDSEN,KBH,København Håndbold,1022.6,24,MV,True,NORMAL,1.2
+MARIE WALL,KBH,København Håndbold,1022.0,6,VF,False,NORMAL,7.0
+EMILY STANG SANDO,KBH,København Håndbold,1018.8,28,MV,True,NORMAL,-2.4
 AMALIE MILLING,KBH,København Håndbold,1014.7,22,MV,True,NORMAL,-0.3

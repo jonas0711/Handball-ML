@@ -1,19 +1,19 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-ANDERS KRAGH MARTINUSEN,FHK,Fredericia Håndbold Klub,1879.1,31,MV,True,LEGENDARY,481.4
-KRISTIAN STOKLUND,FHK,Fredericia Håndbold Klub,1737.8,37,HF,False,LEGENDARY,340.2
-NICOLAJ NØRAGER,FHK,Fredericia Håndbold Klub,1637.1,36,HF,False,LEGENDARY,248.7
-MARTIN BISGAARD,FHK,Fredericia Håndbold Klub,1599.0,36,VF,False,LEGENDARY,242.3
-KASPER YOUNG,FHK,Fredericia Håndbold Klub,1414.0,35,HF,False,LEGENDARY,200.9
-RASMUS MEYER EJLERSEN,FHK,Fredericia Håndbold Klub,1353.9,36,HF,False,ELITE,64.2
-JAKOB FREDERIKSEN,FHK,Fredericia Håndbold Klub,1338.4,17,HF,False,ELITE,39.7
-MADS CHRISTIANSEN,FHK,Fredericia Håndbold Klub,1293.1,20,HF,False,ELITE,48.5
-NIKOLAJ NIELSEN,FHK,Fredericia Håndbold Klub,1284.7,20,ST,False,ELITE,34.4
-REINER TABOADA,FHK,Fredericia Håndbold Klub,1270.0,35,HF,False,ELITE,255.0
-JAMES JUNIOR SCOTT,FHK,Fredericia Håndbold Klub,1161.2,33,HF,False,NORMAL,146.2
-EMIL TELLERUP,FHK,Fredericia Håndbold Klub,1142.4,22,MV,True,NORMAL,20.7
-LASSE BALSTAD,FHK,Fredericia Håndbold Klub,1093.5,38,HF,False,NORMAL,48.1
-THORSTEN FRIES,FHK,Fredericia Håndbold Klub,1090.8,36,MV,True,NORMAL,27.0
-KIM SONNE,FHK,Fredericia Håndbold Klub,1074.6,9,MV,True,NORMAL,-1.2
-EINAR ÓLAFSSON,FHK,Fredericia Håndbold Klub,1040.5,26,HF,False,NORMAL,25.5
-MADS LENBROCH,FHK,Fredericia Håndbold Klub,1030.7,6,VF,False,NORMAL,15.7
-GUDMUNDUR GUDMUNDSSON,FHK,Fredericia Håndbold Klub,1011.7,9,HF,False,NORMAL,-3.3
+ANDERS KRAGH MARTINUSEN,FHK,Fredericia Håndbold Klub,2029.7,31,PL,False,LEGENDARY,630.9
+KRISTIAN STOKLUND,FHK,Fredericia Håndbold Klub,1749.8,37,PL,False,LEGENDARY,352.0
+NICOLAJ NØRAGER,FHK,Fredericia Håndbold Klub,1625.1,36,PL,False,LEGENDARY,227.6
+MARTIN BISGAARD,FHK,Fredericia Håndbold Klub,1536.3,36,VF,False,LEGENDARY,208.5
+EMIL TELLERUP,FHK,Fredericia Håndbold Klub,1431.6,22,MV,True,LEGENDARY,141.8
+KASPER YOUNG,FHK,Fredericia Håndbold Klub,1390.5,35,HF,False,ELITE,179.2
+RASMUS MEYER EJLERSEN,FHK,Fredericia Håndbold Klub,1373.4,36,ST,False,ELITE,71.7
+THORSTEN FRIES,FHK,Fredericia Håndbold Klub,1358.6999999999998,36,MV,True,ELITE,261.1
+NIKOLAJ NIELSEN,FHK,Fredericia Håndbold Klub,1348.3000000000002,20,ST,False,ELITE,39.9
+JAKOB FREDERIKSEN,FHK,Fredericia Håndbold Klub,1315.7,17,HF,False,ELITE,37.8
+MADS CHRISTIANSEN,FHK,Fredericia Håndbold Klub,1287.1,20,HB,False,ELITE,52.2
+REINER TABOADA,FHK,Fredericia Håndbold Klub,1266.4,35,PL,False,ELITE,251.4
+JAMES JUNIOR SCOTT,FHK,Fredericia Håndbold Klub,1193.3,33,PL,False,NORMAL,178.3
+LASSE BALSTAD,FHK,Fredericia Håndbold Klub,1105.4,38,ST,False,NORMAL,42.6
+KIM SONNE,FHK,Fredericia Håndbold Klub,1087.9,9,MV,True,NORMAL,-0.6
+EINAR ÓLAFSSON,FHK,Fredericia Håndbold Klub,1032.5,26,VF,False,NORMAL,17.5
+MADS LENBROCH,FHK,Fredericia Håndbold Klub,1028.2,6,VF,False,NORMAL,13.2
+GUDMUNDUR GUDMUNDSSON,FHK,Fredericia Håndbold Klub,1011.7,9,Ukendt,False,NORMAL,-3.3

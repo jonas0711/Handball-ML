@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-MADS KJELDGAARD ANDERSEN,BSH,Bjerringbro-Silkeborg,1749.1,32,HF,False,LEGENDARY,348.6
-NIKOLAJ ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1647.0,32,HF,False,LEGENDARY,249.4
-PETER BALLING,BSH,Bjerringbro-Silkeborg,1636.9,32,HF,False,LEGENDARY,237.7
-AKSEL HORGEN,BSH,Bjerringbro-Silkeborg,1447.3,29,HF,False,LEGENDARY,92.6
-HENRIK TILSTED,BSH,Bjerringbro-Silkeborg,1418.1,26,HF,False,LEGENDARY,97.8
-ALEXANDER LYNGGAARD,BSH,Bjerringbro-Silkeborg,1388.4,32,HF,False,ELITE,143.0
-LUDVIG HALLBÄCK,BSH,Bjerringbro-Silkeborg,1368.1,31,HF,False,ELITE,185.5
-PATRICK BOLDSEN,BSH,Bjerringbro-Silkeborg,1215.1,17,HF,False,NORMAL,59.7
-EMIL JESSEN,BSH,Bjerringbro-Silkeborg,1180.4,18,HF,False,NORMAL,36.0
-AUGUST FRIDÉN,BSH,Bjerringbro-Silkeborg,1153.4,16,HF,False,NORMAL,40.3
-RENÉ TOFT HANSEN,BSH,Bjerringbro-Silkeborg,1151.2,23,HF,False,NORMAL,5.9
-MIKKEL MØLLER LØVKVIST,BSH,Bjerringbro-Silkeborg,1128.5,29,MV,True,NORMAL,38.1
-JOHAN SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1128.2,28,MV,True,NORMAL,25.8
-PATRICK WESTERHOLM,BSH,Bjerringbro-Silkeborg,1123.7,5,HF,False,NORMAL,-1.1
-THOMAS SOLSTAD,BSH,Bjerringbro-Silkeborg,1111.8,20,HF,False,NORMAL,96.8
-THOMAS ALFRED SOLSTAD,BSH,Bjerringbro-Silkeborg,1037.6,11,HF,False,NORMAL,22.6
+MADS KJELDGAARD ANDERSEN,BSH,Bjerringbro-Silkeborg,1762.4,32,PL,False,LEGENDARY,360.6
+NIKOLAJ ØRIS NIELSEN,BSH,Bjerringbro-Silkeborg,1681.9,32,PL,False,LEGENDARY,279.1
+PETER BALLING,BSH,Bjerringbro-Silkeborg,1656.1,32,PL,False,LEGENDARY,256.2
+MIKKEL MØLLER LØVKVIST,BSH,Bjerringbro-Silkeborg,1522.9,29,MV,True,LEGENDARY,296.2
+JOHAN SJÖSTRAND,BSH,Bjerringbro-Silkeborg,1490.7,28,MV,True,LEGENDARY,176.4
+HENRIK TILSTED,BSH,Bjerringbro-Silkeborg,1432.4,26,VF,False,LEGENDARY,82.3
+AKSEL HORGEN,BSH,Bjerringbro-Silkeborg,1404.0,29,HF,False,LEGENDARY,80.6
+ALEXANDER LYNGGAARD,BSH,Bjerringbro-Silkeborg,1392.8,32,ST,False,ELITE,137.5
+LUDVIG HALLBÄCK,BSH,Bjerringbro-Silkeborg,1384.5,31,PL,False,ELITE,202.1
+EMIL JESSEN,BSH,Bjerringbro-Silkeborg,1223.7,18,PL,False,NORMAL,46.3
+PATRICK BOLDSEN,BSH,Bjerringbro-Silkeborg,1217.6,17,HF,False,NORMAL,57.3
+AUGUST FRIDÉN,BSH,Bjerringbro-Silkeborg,1165.1,16,VF,False,NORMAL,36.4
+PATRICK WESTERHOLM,BSH,Bjerringbro-Silkeborg,1139.9,5,Ukendt,False,NORMAL,-1.1
+RENÉ TOFT HANSEN,BSH,Bjerringbro-Silkeborg,1138.8,23,ST,False,NORMAL,3.8
+THOMAS SOLSTAD,BSH,Bjerringbro-Silkeborg,1109.3,20,ST,False,NORMAL,94.3
+THOMAS ALFRED SOLSTAD,BSH,Bjerringbro-Silkeborg,1036.7,11,ST,False,NORMAL,21.7

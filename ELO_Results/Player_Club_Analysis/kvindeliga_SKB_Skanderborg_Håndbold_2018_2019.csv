@@ -1,17 +1,17 @@
 player,team_code,team_name,final_rating,games,primary_position,is_goalkeeper,elite_status,rating_change
-STINE HOLM,SKB,Skanderborg Håndbold,1279.4,29,MV,True,ELITE,264.4
-TRINE KNUDSEN,SKB,Skanderborg Håndbold,1275.4,29,HF,False,ELITE,260.4
-METTE BRANDT NIELSEN,SKB,Skanderborg Håndbold,1166.1,29,HF,False,NORMAL,151.1
-SOFIE ALNOR,SKB,Skanderborg Håndbold,1162.0,29,VF,False,NORMAL,147.0
-SIDSEL MEJLVANG,SKB,Skanderborg Håndbold,1090.2,25,ST,False,NORMAL,75.2
-MARIE AAMAND SØRENSEN,SKB,Skanderborg Håndbold,1069.0,27,HF,False,NORMAL,54.0
-SOFIA DEEN,SKB,Skanderborg Håndbold,1064.7,26,HF,False,NORMAL,49.7
-STINE KRISTENSEN,SKB,Skanderborg Håndbold,1060.1,27,HF,False,NORMAL,45.1
-SOFIE BLICHER-TOFT,SKB,Skanderborg Håndbold,1050.6,15,HF,False,NORMAL,21.9
-KATRINE LARSON,SKB,Skanderborg Håndbold,1047.7,13,HF,False,NORMAL,32.7
-MELANIE FUGLSBJERG,SKB,Skanderborg Håndbold,1046.6,22,HF,False,NORMAL,31.6
-SOFIE HARTUNG SLETSKOV,SKB,Skanderborg Håndbold,1029.5,14,HF,False,NORMAL,14.5
-KAMILLA BRUUS,SKB,Skanderborg Håndbold,1018.2,11,HF,False,NORMAL,3.2
-ANNA KRISTENSEN,SKB,Skanderborg Håndbold,1014.2,28,MV,True,NORMAL,-0.8
+STINE HOLM,SKB,Skanderborg Håndbold,1439.9,29,HF,False,LEGENDARY,424.9
+TRINE KNUDSEN,SKB,Skanderborg Håndbold,1299.8000000000002,29,PL,False,ELITE,257.1
+METTE BRANDT NIELSEN,SKB,Skanderborg Håndbold,1177.8,29,PL,False,NORMAL,162.8
+SOFIE ALNOR,SKB,Skanderborg Håndbold,1147.8,29,VF,False,NORMAL,132.8
+SIDSEL MEJLVANG,SKB,Skanderborg Håndbold,1092.1,25,ST,False,NORMAL,77.1
+SOFIA DEEN,SKB,Skanderborg Håndbold,1077.9,26,PL,False,NORMAL,62.9
+MARIE AAMAND SØRENSEN,SKB,Skanderborg Håndbold,1068.5,27,ST,False,NORMAL,53.5
+SOFIE BLICHER-TOFT,SKB,Skanderborg Håndbold,1059.0,15,PL,False,NORMAL,28.9
+STINE KRISTENSEN,SKB,Skanderborg Håndbold,1054.4,27,HB,False,NORMAL,39.4
+KATRINE LARSON,SKB,Skanderborg Håndbold,1048.7,13,HB,False,NORMAL,33.7
+MELANIE FUGLSBJERG,SKB,Skanderborg Håndbold,1045.7,22,HF,False,NORMAL,30.7
+SOFIE HARTUNG SLETSKOV,SKB,Skanderborg Håndbold,1028.8,14,PL,False,NORMAL,13.8
+KAMILLA BRUUS,SKB,Skanderborg Håndbold,1018.8,11,ST,False,NORMAL,3.8
+ANNA KRISTENSEN,SKB,Skanderborg Håndbold,1016.2,28,MV,True,NORMAL,1.2
 MONIKA KONGSGAARD,SKB,Skanderborg Håndbold,1012.7,25,MV,True,NORMAL,-2.3
-SOFIE SCHELDE-RASMUSSEN,SKB,Skanderborg Håndbold,1011.7,6,HF,False,NORMAL,-3.3
+SOFIE SCHELDE-RASMUSSEN,SKB,Skanderborg Håndbold,1011.7,6,Ukendt,False,NORMAL,-3.3
