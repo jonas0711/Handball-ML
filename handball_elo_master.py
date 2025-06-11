@@ -24,6 +24,9 @@ from collections import defaultdict, Counter
 from typing import Dict, List, Tuple, Optional, Set
 from datetime import datetime
 import warnings
+
+from team_config import HERRELIGA_PROTECTED_PLAYERS, KVINDELIGA_PROTECTED_PLAYERS
+
 warnings.filterwarnings('ignore')
 
 print("MASTER HÅNDBOL ELO SYSTEM - ULTIMATIV KOMBINATION")
@@ -41,12 +44,21 @@ class MasterHandballEloSystem:
     Ultimativt håndbol ELO system - kombinerer alle bedste features
     """
     
-    def __init__(self, base_dir: str = "."):
+    def __init__(self, base_dir: str = ".", league: str = 'Herreliga'):
         """Initialiserer master ELO system"""
-        print("Initialiserer Master Håndbol ELO System...")
+        print(f"Initialiserer Master Håndbol ELO System for {league}...")
         
         self.base_dir = base_dir
-        self.database_dir = os.path.join(base_dir, "Herreliga-database")
+        self.league = league
+        
+        if self.league == 'Herreliga':
+            self.database_dir = os.path.join(base_dir, "Herreliga-database")
+            self.protected_field_players = HERRELIGA_PROTECTED_PLAYERS
+        elif self.league == 'Kvindeliga':
+            self.database_dir = os.path.join(base_dir, "Kvindeliga-database")
+            self.protected_field_players = KVINDELIGA_PROTECTED_PLAYERS
+        else:
+            raise ValueError(f"Ukendt liga: {self.league}")
         
         # === POSITIONSDEFINITIONER (data.md korrekt) ===
         # Målvogtere identificeres gennem nr_mv/mv felter!
@@ -869,29 +881,11 @@ class MasterHandballEloSystem:
         Processerer action med alle optimiseringer + kontekstuel vigtighed
         """
         
-        # 🛡️ BESKYTTELSESMEKANISME: FORHINDRER FEJLKLASSIFICEREDE SPILLERE I AT FÅ MÅLVOGTER-BONUSSER
-        protected_field_players = {
-            'Minik Dahl HØEGH', 'Thomas Schultz CLAUSEN', 'Jonas EICHWALD', 'Mathias Gliese JENSEN',
-            'Jens Dolberg PLOUGSTRUP', 'Frederik IVERSEN', 'Anders MØLLER', 'Mathias BITSCH',
-            'Michael Krohn THØGERSEN', 'Mathias DAUGÅRD', 'Johan Thesbjerg KOFOED', 'Árni Bragi EYJÓLFSSON',
-            'Simon Damgaard JENSEN', 'Mikkel SANDHOLM', 'Anders FLÆNG', 'Magnus SØNNICHSEN',
-            'Oliver Sonne WOSNIAK', 'Andreas Søgaard RASMUSSENAssist', 'Andreas DYSSEHOLM', 'Fredrik CLEMENTSEN',
-            'Jens Kromann MØLLER', 'Victor WOLF', 'Mats GORDON', 'Thomas THEILGAARD', 'Hjalmar ANDERSEN',
-            'Camilla DEGN', 'Annika JAKOBSEN', 'Daniela GUSTIN', 'Birna BERG HARALDSDOTTIR',
-            'Frederikke Glavind HEDEGAARD', 'Emma NIELSEN', 'Sofie Brems ØSTERGAARD', 'Mathilde ORKILD',
-            'Line Gyldenløve KRISTENSEN', 'Ida ANDERSEN', 'Sofie NIELSEN', 'Josefine THORSTED',
-            'Melina KRISTENSEN', 'Christina Jacobsen HANSEN', 'Ida-Louise ANDERSEN', 'Emilie BECH',
-            'Sanne Beck HANSEN', 'Tania Bilde KNUDSEN', 'Frederikke HEDEGAARD', 'Anne-Sofie Møldrup Filtenborg NIELSEN',
-            'Rikke VORGAARD', 'Laura Maria Borg THESTRUP', 'Liv NAVNE', 'Rosa SCHMIDT', 'Trine MORTENSEN',
-            'Maria HØJGAARD', 'Emilie BANGSHØI', 'Louise HALD', 'Mathilde PIIL', 'Sofie ØSTERGAARD',
-            'Katarzyna PORTASINSKA', 'Sille Cecilie SORTH', 'Julie RASMUSSEN', 'Emilie Nørgaard BECH',
-            'Camilla THORHAUGE', 'Maiken SKOV', 'Ditte BACH', 'Peter BALLING'
-        }
-        
+        # 🛡️ BESKYTTELSESMEKANISME: Anvender den liga-specifikke beskyttelsesliste
         # BESKYTTELSESTJEK: Hvis spilleren er på beskyttet liste, behandl dem ALDRIG som målvogter
-        if player_name in protected_field_players:
+        if player_name in self.protected_field_players:
             if is_goalkeeper or position == 'MV':
-                print(f"🛡️ BESKYTTELSE AKTIVERET: {player_name} behandles som markspiller (ikke målvogter)")
+                print(f"🛡️ BESKYTTELSE AKTIVERET ({self.league}): {player_name} behandles som markspiller (ikke målvogter)")
                 is_goalkeeper = False
                 if position == 'MV':
                     position = 'HF'  # Default til højre fløj
@@ -1880,40 +1874,20 @@ class MasterHandballEloSystem:
         """
         print("\n🔒 ANVENDER ULTRA-STRENGE MÅLVOGTER IDENTIFIKATIONSREGLER...")
         print("=" * 60)
-        print("🎯 Formål: Forhindre markspillere i at få målvogter-bonusser")
-        
-        # BESKYTTEDE MARKSPILLERE - spillere der ALDRIG skal klassificeres som målvogtere
-        protected_field_players = {
-            # Fra detection script - alle fejlklassificerede spillere
-            'Minik Dahl HØEGH', 'Thomas Schultz CLAUSEN', 'Jonas EICHWALD', 'Mathias Gliese JENSEN',
-            'Jens Dolberg PLOUGSTRUP', 'Frederik IVERSEN', 'Anders MØLLER', 'Mathias BITSCH',
-            'Michael Krohn THØGERSEN', 'Mathias DAUGÅRD', 'Johan Thesbjerg KOFOED', 'Árni Bragi EYJÓLFSSON',
-            'Simon Damgaard JENSEN', 'Mikkel SANDHOLM', 'Anders FLÆNG', 'Magnus SØNNICHSEN',
-            'Oliver Sonne WOSNIAK', 'Andreas Søgaard RASMUSSENAssist', 'Andreas DYSSEHOLM', 'Fredrik CLEMENTSEN',
-            'Jens Kromann MØLLER', 'Victor WOLF', 'Mats GORDON', 'Thomas THEILGAARD', 'Hjalmar ANDERSEN',
-            'Camilla DEGN', 'Annika JAKOBSEN', 'Daniela GUSTIN', 'Birna BERG HARALDSDOTTIR',
-            'Frederikke Glavind HEDEGAARD', 'Emma NIELSEN', 'Sofie Brems ØSTERGAARD', 'Mathilde ORKILD',
-            'Line Gyldenløve KRISTENSEN', 'Ida ANDERSEN', 'Sofie NIELSEN', 'Josefine THORSTED',
-            'Melina KRISTENSEN', 'Christina Jacobsen HANSEN', 'Ida-Louise ANDERSEN', 'Emilie BECH',
-            'Sanne Beck HANSEN', 'Tania Bilde KNUDSEN', 'Frederikke HEDEGAARD', 'Anne-Sofie Møldrup Filtenborg NIELSEN',
-            'Rikke VORGAARD', 'Laura Maria Borg THESTRUP', 'Liv NAVNE', 'Rosa SCHMIDT', 'Trine MORTENSEN',
-            'Maria HØJGAARD', 'Emilie BANGSHØI', 'Louise HALD', 'Mathilde PIIL', 'Sofie ØSTERGAARD',
-            'Katarzyna PORTASINSKA', 'Sille Cecilie SORTH', 'Julie RASMUSSEN', 'Emilie Nørgaard BECH',
-            'Camilla THORHAUGE', 'Maiken SKOV', 'Ditte BACH', 'Peter BALLING'  # Den originale problematiske spiller
-        }
+        print(f"🎯 Formål: Forhindre markspillere i at få målvogter-bonusser i {self.league}")
         
         updated_goalkeepers = set()
         reclassified_field_players = 0
         protected_players_saved = 0
         
         print(f"📝 Kontrollerer {len(self.confirmed_goalkeepers)} spillere mod strenge regler...")
-        print(f"🛡️ {len(protected_field_players)} spillere er på beskyttet markspiller-liste")
+        print(f"🛡️ {len(self.protected_field_players)} spillere er på den beskyttede liste for {self.league}")
         
         for player_name in self.confirmed_goalkeepers:
             # REGEL 0: BESKYTTELSE AF KENDTE MARKSPILLERE
-            if player_name in protected_field_players:
+            if player_name in self.protected_field_players:
                 protected_players_saved += 1
-                print(f"🛡️ BESKYTTET: {player_name} fjernet fra målvogtere (på beskyttet liste)")
+                print(f"🛡️ BESKYTTET ({self.league}): {player_name} fjernet fra målvogtere (på beskyttet liste)")
                 continue
                 
             # Hent spillerens aktivitetsmønster

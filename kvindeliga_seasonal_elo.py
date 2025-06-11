@@ -102,8 +102,13 @@ class KvindeligaSeasonalEloSystem(_BaseSeasonalEloSystem):
         print(f"🏆 Elite spillere: {elite}, Legendary: {legend}")
 
     # ------- Aliasmetoder (kalder base) -------
+    def run_herreliga_season(self, season: str, start_ratings: Dict = None, position_analyzer: Optional[PositionAnalyzer] = None, league: str = "Kvindeliga"):
+        """Override der tvinger liga-parameteren til 'Kvindeliga'."""
+        return super().run_herreliga_season(season, start_ratings, position_analyzer, league="Kvindeliga")
+
     def run_kvindeliga_season(self, season: str, start_ratings: Dict = None, position_analyzer: Optional[PositionAnalyzer] = None):
-        return super().run_herreliga_season(season, start_ratings, position_analyzer)
+        # Videresend eksplicit league-parameter så master-systemet bruger Kvindeliga-konfigurationen.
+        return super().run_herreliga_season(season, start_ratings, position_analyzer, league="Kvindeliga")
 
     def run_complete_kvindeliga_analysis(self):
         print("\n🚀 STARTER KOMPLET KVINDELIGA SÆSON-ANALYSE (Wrapper)")

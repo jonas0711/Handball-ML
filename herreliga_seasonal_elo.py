@@ -422,7 +422,7 @@ class HerreligaSeasonalEloSystem:
                   
         return round(new_start_rating, 1)
         
-    def run_herreliga_season(self, season: str, start_ratings: Dict = None, position_analyzer: Optional[PositionAnalyzer] = None) -> Dict:
+    def run_herreliga_season(self, season: str, start_ratings: Dict = None, position_analyzer: Optional[PositionAnalyzer] = None, league: str = "Herreliga") -> Dict:
         """
         Kører master ELO systemet for kun Herreliga i en enkelt sæson
         """
@@ -433,8 +433,10 @@ class HerreligaSeasonalEloSystem:
             # Import master system
             from handball_elo_master import MasterHandballEloSystem
             
-            # Create fresh instance for this season (kun Herreliga)
-            master_system = MasterHandballEloSystem(self.base_dir)
+            # Opret liga-bevidst master-system.  
+            # 'league' stammer fra funktions-parameteren og kan derfor være
+            # "Herreliga" (default) eller "Kvindeliga" når wrapperen kalder.
+            master_system = MasterHandballEloSystem(self.base_dir, league=league)
             
             # Set start ratings if provided
             if start_ratings:

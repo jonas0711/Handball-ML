@@ -32,8 +32,9 @@ class GoalkeeperMisclassificationDetector:
     Analyserer alle spillere for at identificere fejlklassificerede målvogtere
     """
     
-    def __init__(self, base_dir: str = "."):
+    def __init__(self, base_dir: str = ".", league: str = "All"):
         self.base_dir = base_dir
+        self.league = league
         
         # Database directories  
         self.herreliga_dir = os.path.join(base_dir, "Herreliga-database")
@@ -59,11 +60,13 @@ class GoalkeeperMisclassificationDetector:
         self.hybrid_players = []
         self.protected_field_players = []  # Spillere der ALDRIG skal have målvogter-bonus
         
-        print("✅ Detektor initialiseret")
-        print(f"📁 Herreliga directory: {self.herreliga_dir}")
-        print(f"📁 Kvindeliga directory: {self.kvindeliga_dir}")
+        print(f"✅ Detektor initialiseret for: {self.league}")
+        if self.league in ["Herreliga", "All"]:
+            print(f"📁 Herreliga directory: {self.herreliga_dir}")
+        if self.league in ["Kvindeliga", "All"]:
+            print(f"📁 Kvindeliga directory: {self.kvindeliga_dir}")
         
-    def analyze_player_database(self, db_path: str, season: str, league: str):
+    def analyze_player_database(self, db_path: str, season: str, league_name: str):
         """Analyserer en enkelt database fil for spillerdata"""
         try:
             conn = sqlite3.connect(db_path)
@@ -86,7 +89,7 @@ class GoalkeeperMisclassificationDetector:
                 
             # Analyser hver event
             for _, event in events_df.iterrows():
-                self.process_event(event, season, league)
+                self.process_event(event, season, league_name)
                 
         except Exception as e:
             print(f"  ⚠️ Fejl i {db_path}: {e}")
@@ -133,8 +136,8 @@ class GoalkeeperMisclassificationDetector:
                 stats['goalkeeper_goals_against'] += 1
                 
     def analyze_all_seasons(self):
-        """Analyserer alle sæsoner i begge ligaer"""
-        print("\n📊 ANALYSERER ALLE SÆSONER FOR FEJLKLASSIFICEREDE MÅLVOGTERE")
+        """Analyserer alle sæsoner i den specificerede liga"""
+        print(f"\n📊 ANALYSERER SÆSONER FOR: {self.league}")
         print("-" * 70)
         
         # Definer sæsoner
@@ -147,35 +150,49 @@ class GoalkeeperMisclassificationDetector:
         total_players_found = 0
         
         # Analyser Herreliga
-        print("\n🔵 HERRELIGA ANALYSE")
-        for season in seasons:
-            season_path = os.path.join(self.herreliga_dir, season)
-            if os.path.exists(season_path):
-                db_files = [f for f in os.listdir(season_path) if f.endswith('.db')]
-                print(f"  📅 {season}: {len(db_files)} kampe")
-                
-                for db_file in db_files:
-                    db_path = os.path.join(season_path, db_file)
-                    self.analyze_player_database(db_path, season, "Herreliga")
-                    total_files_processed += 1
+        if self.league in ["Herreliga", "All"]:
+            print("\n🔵 HERRELIGA ANALYSE")
+            for season in seasons:
+                season_path = os.path.join(self.herreliga_dir, season)
+                if os.path.exists(season_path):
+                    db_files = [f for f in os.listdir(season_path) if f.endswith('.db')]
+                    print(f"  📅 {season}: {len(db_files)} kampe")
+                    
+                    for db_file in db_files:
+                        db_path = os.path.join(season_path, db_file)
+                        self.analyze_player_database(db_path, season, "Herreliga")
+                        total_files_processed += 1
                     
         # Analyser Kvindeliga  
-        print("\n🔴 KVINDELIGA ANALYSE")
-        for season in seasons:
-            season_path = os.path.join(self.kvindeliga_dir, season)
-            if os.path.exists(season_path):
-                db_files = [f for f in os.listdir(season_path) if f.endswith('.db')]
-                print(f"  📅 {season}: {len(db_files)} kampe")
-                
-                for db_file in db_files:
-                    db_path = os.path.join(season_path, db_file)
-                    self.analyze_player_database(db_path, season, "Kvindeliga")
-                    total_files_processed += 1
+        if self.league in ["Kvindeliga", "All"]:
+            print("\n🔴 KVINDELIGA ANALYSE")
+            for season in seasons:
+                season_path = os.path.join(self.kvindeliga_dir, season)
+                if os.path.exists(season_path):
+                    db_files = [f for f in os.listdir(season_path) if f.endswith('.db')]
+                    print(f"  📅 {season}: {len(db_files)} kampe")
+                    
+                    for db_file in db_files:
+                        db_path = os.path.join(season_path, db_file)
+                        self.analyze_player_database(db_path, season, "Kvindeliga")
+                        total_files_processed += 1
                     
         total_players_found = len(self.player_stats)
-        print(f"\n✅ ANALYSE KOMPLET")
+        print(f"\n✅ ANALYSE KOMPLET FOR {self.league}")
         print(f"📄 {total_files_processed} database filer processeret")
         print(f"👥 {total_players_found} unikke spillere analyseret")
+        
+        # Gem beskyttede markspillere i en tekstfil
+        output_filename = f"protected_players_{self.league.lower()}.txt"
+        with open(output_filename, 'w', encoding='utf-8') as f:
+            for player_name in sorted(self.protected_field_players):
+                f.write(f"{player_name}\n")
+        
+        print(f"\n💾 Resultater gemt!")
+        print(f"   - Beskyttede markspillere: {output_filename} ({len(self.protected_field_players)} spillere)")
+        
+        # Returner listen for eventuel brug i andre scripts
+        return self.protected_field_players
         
     def classify_players(self):
         """Klassificerer spillere baseret på deres aktivitetsmønster"""
@@ -357,16 +374,20 @@ class GoalkeeperMisclassificationDetector:
         
         return classification_results
 
-# === MAIN EXECUTION ===
+# === SCRIPT EXECUTION ===
 if __name__ == "__main__":
-    print("🔍 STARTER DETEKTOR FOR FEJLKLASSIFICEREDE MÅLVOGTERE")
-    print("=" * 80)
+    print("🚀 Starter analyse for at identificere fejlklassificerede målvogtere...")
     
-    # Opret detektor
-    detector = GoalkeeperMisclassificationDetector()
+    # Kør separat analyse for Herreliga
+    print("\n" + "="*20 + " ANALYSE FOR HERRELIGA " + "="*20)
+    detector_herre = GoalkeeperMisclassificationDetector(league="Herreliga")
+    herre_protected = detector_herre.run_complete_analysis()
+    print(f"✅ Herreliga analyse færdig. {len(herre_protected)} spillere tilføjet til beskyttelsesliste.")
     
-    # Kør komplet analyse
-    results = detector.run_complete_analysis()
-    
-    print("\n🎯 ANALYSE KOMPLET!")
-    print("=" * 80) 
+    # Kør separat analyse for Kvindeliga
+    print("\n" + "="*20 + " ANALYSE FOR KVINDELIGA " + "="*20)
+    detector_kvinde = GoalkeeperMisclassificationDetector(league="Kvindeliga")
+    kvinde_protected = detector_kvinde.run_complete_analysis()
+    print(f"✅ Kvindeliga analyse færdig. {len(kvinde_protected)} spillere tilføjet til beskyttelsesliste.")
+
+    print("\n🏁 Fuld analyse gennemført for begge ligaer.") 

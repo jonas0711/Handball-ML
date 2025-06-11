@@ -150,13 +150,20 @@ PLAYER_NAME_ALIASES = {
 # --- DEPRECATED MAPPINGS (DO NOT USE) ---
 # TEAM_NAME_MAPPINGS = { ... }
 
-# BESKYTTEDE MARKSPILLERE - Spillere der ALDRIG skal klassificeres som målvogtere
-# Baseret på detection script resultater - disse spillere er primært markspillere 
-# men har fejlagtigt optrådt i målvogter-data
-PROTECTED_FIELD_PLAYERS = {
-    # HERRELIGA - Fejlklassificerede markspillere
+# ==============================================================================
+# LIGA-SPECIFIKKE BESKYTTEDE MARKSPILLERE
+# ==============================================================================
+# Disse lister indeholder spillere, der er identificeret som primære markspillere,
+# men som fejlagtigt kan optræde i målvogter-data. Ved at adskille listerne
+# undgår vi, at en fejlklassifikation i den ene liga påvirker den anden.
+
+# ------------------------------------------------------------------------------
+# HERRELIGA BESKYTTEDE MARKSPILLERE
+# ------------------------------------------------------------------------------
+# Spillere fra Herreligaen, der ikke skal klassificeres som målvogtere.
+HERRELIGA_PROTECTED_PLAYERS = {
     'Minik Dahl HØEGH',           # PL - 60.3% markspiller aktioner
-    'Thomas Schultz CLAUSEN',      # HF - 62.5% markspiller aktioner  
+    'Thomas Schultz CLAUSEN',      # HF - 62.5% markspiller aktioner
     'Jonas EICHWALD',             # HF - 61.9% markspiller aktioner
     'Mathias Gliese JENSEN',      # HF - 60.7% markspiller aktioner
     'Jens Dolberg PLOUGSTRUP',    # PL - 60.6% markspiller aktioner
@@ -180,49 +187,59 @@ PROTECTED_FIELD_PLAYERS = {
     'Mats GORDON',                # VF - 60.0% markspiller aktioner
     'Thomas THEILGAARD',          # HF - 62.7% markspiller aktioner
     'Hjalmar ANDERSEN',           # ST - 68.4% markspiller aktioner
-    
-    # KVINDELIGA - Fejlklassificerede markspillere
-    'Camilla DEGN',               # VF - 60.8% markspiller aktioner
-    'Annika JAKOBSEN',            # HF - 70.6% markspiller aktioner
-    'Daniela GUSTIN',             # HF - 67.5% markspiller aktioner
-    'Birna BERG HARALDSDOTTIR',   # PL - 70.0% markspiller aktioner
-    'Frederikke Glavind HEDEGAARD', # HF - 67.7% markspiller aktioner
-    'Emma NIELSEN',               # HF - 64.5% markspiller aktioner
-    'Sofie Brems ØSTERGAARD',     # HF - 66.2% markspiller aktioner
-    'Mathilde ORKILD',            # HF - 60.1% markspiller aktioner
-    'Line Gyldenløve KRISTENSEN', # PL - 63.3% markspiller aktioner
-    'Ida ANDERSEN',               # VF - 60.5% markspiller aktioner
-    'Sofie NIELSEN',              # HF - 60.0% markspiller aktioner
-    'Josefine THORSTED',          # HF - 64.3% markspiller aktioner
-    'Melina KRISTENSEN',          # HF - 67.6% markspiller aktioner
-    'Christina Jacobsen HANSEN',   # ST - 68.6% markspiller aktioner
-    'Ida-Louise ANDERSEN',        # VF - 67.6% markspiller aktioner
-    'Emilie BECH',                # HF - 67.0% markspiller aktioner
-    'Sanne Beck HANSEN',          # HF - 60.4% markspiller aktioner
-    'Tania Bilde KNUDSEN',        # HF - 67.8% markspiller aktioner
-    'Frederikke HEDEGAARD',       # HF - 67.4% markspiller aktioner
-    'Anne-Sofie Møldrup Filtenborg NIELSEN', # HF - 62.1% markspiller aktioner
-    'Rikke VORGAARD',             # HF - 65.5% markspiller aktioner
-    'Laura Maria Borg THESTRUP',  # PL - 65.9% markspiller aktioner
-    'Liv NAVNE',                  # HB - 60.5% markspiller aktioner
-    'Rosa SCHMIDT',               # HF - 63.7% markspiller aktioner
-    'Trine MORTENSEN',            # VF - 61.6% markspiller aktioner
-    'Maria HØJGAARD',             # VF - 62.2% markspiller aktioner
-    'Emilie BANGSHØI',            # VF - 68.0% markspiller aktioner
-    'Louise HALD',                # HF - 73.4% markspiller aktioner
-    'Mathilde PIIL',              # VF - 61.5% markspiller aktioner
-    'Sofie ØSTERGAARD',           # HF - 66.5% markspiller aktioner
-    'Katarzyna PORTASINSKA',      # HF - 62.5% markspiller aktioner
-    'Sille Cecilie SORTH',        # HF - 70.1% markspiller aktioner
-    'Julie RASMUSSEN',            # HF - 68.0% markspiller aktioner
-    'Emilie Nørgaard BECH',       # HF - 65.4% markspiller aktioner
-    'Camilla THORHAUGE',          # ST - 65.0% markspiller aktioner
-    'Maiken SKOV',                # HF - 65.1% markspiller aktioner
-    'Ditte BACH',                 # HF - 61.0% markspiller aktioner
-    
-    # KENDTE PROBLEMATISKE SPILLERE (selv om de ikke optræder i aktuelle data)
-    'Peter BALLING',              # Den originale problematiske spiller - HB/højreback
+    'Peter BALLING',              # Kendt problematisk spiller
 }
+
+# ------------------------------------------------------------------------------
+# KVINDELIGA BESKYTTEDE MARKSPILLERE
+# ------------------------------------------------------------------------------
+# Denne liste er bevidst tom. Den fælles analyse i detect_misclassified_goalkeepers.py
+# har fejlagtigt klassificeret mange legitime Kvindeliga-målvogtere som markspillere.
+# Indtil detektionsalgoritmen er forbedret og kan køre liga-separat, vil vi
+# ikke anvende nogen beskyttelse for Kvindeligaen for at undgå at blokere
+# ægte målvogtere.
+KVINDELIGA_PROTECTED_PLAYERS = {
+    # 'Camilla DEGN',               # VF - Fejlagtigt klassificeret
+    # 'Annika JAKOBSEN',            # HF - Fejlagtigt klassificeret
+    # 'Daniela GUSTIN',             # HF - Fejlagtigt klassificeret
+    # 'Birna BERG HARALDSDOTTIR',   # PL - Fejlagtigt klassificeret
+    # 'Frederikke Glavind HEDEGAARD', # HF - Fejlagtigt klassificeret
+    # 'Emma NIELSEN',               # HF - Fejlagtigt klassificeret
+    # 'Sofie Brems ØSTERGAARD',     # HF - Fejlagtigt klassificeret
+    # 'Mathilde ORKILD',            # HF - Fejlagtigt klassificeret
+    # 'Line Gyldenløve KRISTENSEN', # PL - Fejlagtigt klassificeret
+    # 'Ida ANDERSEN',               # VF - Fejlagtigt klassificeret
+    # 'Sofie NIELSEN',              # HF - Fejlagtigt klassificeret
+    # 'Josefine THORSTED',          # HF - Fejlagtigt klassificeret
+    # 'Melina KRISTENSEN',          # HF - Fejlagtigt klassificeret
+    # 'Christina Jacobsen HANSEN',   # ST - Fejlagtigt klassificeret
+    # 'Ida-Louise ANDERSEN',        # VF - Fejlagtigt klassificeret
+    # 'Emilie BECH',                # HF - Fejlagtigt klassificeret
+    # 'Sanne Beck HANSEN',          # HF - Fejlagtigt klassificeret
+    # 'Tania Bilde KNUDSEN',        # HF - Fejlagtigt klassificeret
+    # 'Frederikke HEDEGAARD',       # HF - Fejlagtigt klassificeret
+    # 'Anne-Sofie Møldrup Filtenborg NIELSEN', # HF - Fejlagtigt klassificeret
+    # 'Rikke VORGAARD',             # HF - Fejlagtigt klassificeret
+    # 'Laura Maria Borg THESTRUP',  # PL - Fejlagtigt klassificeret
+    # 'Liv NAVNE',                  # HB - Fejlagtigt klassificeret
+    # 'Rosa SCHMIDT',               # HF - Fejlagtigt klassificeret
+    # 'Trine MORTENSEN',            # VF - Fejlagtigt klassificeret
+    # 'Maria HØJGAARD',             # VF - Fejlagtigt klassificeret
+    # 'Emilie BANGSHØI',            # VF - Fejlagtigt klassificeret
+    # 'Louise HALD',                # HF - Fejlagtigt klassificeret
+    # 'Mathilde PIIL',              # VF - Fejlagtigt klassificeret
+    # 'Sofie ØSTERGAARD',           # HF - Fejlagtigt klassificeret
+    # 'Katarzyna PORTASINSKA',      # HF - Fejlagtigt klassificeret
+    # 'Sille Cecilie SORTH',        # HF - Fejlagtigt klassificeret
+    # 'Julie RASMUSSEN',            # HF - Fejlagtigt klassificeret
+    # 'Emilie Nørgaard BECH',       # HF - Fejlagtigt klassificeret
+    # 'Camilla THORHAUGE',          # ST - Fejlagtigt klassificeret
+    # 'Maiken SKOV',                # HF - Fejlagtigt klassificeret
+    # 'Ditte BACH',                 # HF - Fejlagtigt klassificeret
+}
+
+# --- GAMMEL FÆLLES LISTE (DEPRECATED) ---
+# PROTECTED_FIELD_PLAYERS = { ... }
 
 # SPILLERNAVN ALIASER
 # Mapper variationer af spillernavne til deres kanoniske form
@@ -265,13 +282,13 @@ def is_protected_field_player(player_name: str) -> bool:
     normalized_name = " ".join(player_name.strip().upper().split())
     
     # Check både det givne navn og eventuelle aliaser
-    for protected_name in PROTECTED_FIELD_PLAYERS:
+    for protected_name in HERRELIGA_PROTECTED_PLAYERS:
         if normalized_name == " ".join(protected_name.strip().upper().split()):
             return True
             
     # Check aliaser
     canonical_name = PLAYER_NAME_ALIASES.get(player_name)
-    if canonical_name and canonical_name in PROTECTED_FIELD_PLAYERS:
+    if canonical_name and canonical_name in HERRELIGA_PROTECTED_PLAYERS:
         return True
         
     return False
@@ -299,5 +316,5 @@ if __name__ == "__main__":
         is_protected = is_protected_field_player(player)
         print(f"✅ {player}: {'BESKYTTET' if is_protected else 'ikke beskyttet'}")
     
-    print(f"\n📊 Total beskyttede spillere: {len(PROTECTED_FIELD_PLAYERS)}")
+    print(f"\n📊 Total beskyttede spillere: {len(HERRELIGA_PROTECTED_PLAYERS)}")
     print(f"📝 Spillernavn aliaser: {len(PLAYER_NAME_ALIASES)}") 
