@@ -1,27 +1,23 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-🏆 SPILLERBASERET HOLD ELO SYSTEM
-=================================
+🏆 SPILLERBASERET HOLD ELO SYSTEM (FIXED VERSION)
+=================================================
 
 BYGGER HOLD RATINGS BASERET PÅ SPILLERNES INDIVIDUELLE RATINGS:
-✅ Spillere tilknyttes hold baseret på flest kampe i sæsonen
-✅ Hold rating beregnes fra spillernes ELO ratings
+✅ FIXED: Korrekt indlæsning af spillernes ELO ratings fra CSV filer
+✅ FIXED: Korrekt holdtilknytning baseret på database analyse  
+✅ FIXED: Separate processer for Herreliga og Kvindeliga
 ✅ Forskellige beregningsmetoder: gennemsnit, top 7, top 12, bedste pr. position
-✅ Sæson-for-sæson processering med transfers/skift
-✅ Bruger team mappings fra eksisterende team ELO systemer
 ✅ Genererer detaljerede CSV rapporter
-✅ Både Herreliga og Kvindeliga support
 
-BEREGNINGSMETODER FOR HOLD RATING:
-1. Team Average Rating - Gennemsnit af alle spillere
-2. Top 7 Players Rating - Gennemsnit af de 7 bedste spillere
-3. Top 12 Players Rating - Gennemsnit af de 12 bedste spillere
-4. Best Position Average - Bedste spiller fra hver position gennemsnit
-5. Weighted Position Average - Positionsvægtet gennemsnit
-6. Playing Time Weighted - Vægtet efter spilletid
+KRITISKE FIXES:
+- Bruger ikke længere MasterHandballEloSystem (som gav problemer)
+- Indlæser direkte fra eksisterende CSV filer fra seasonal ELO systemer
+- Korrekt team mapping med kontekst-aware funktioner
+- Robust fejlhåndtering og logging
 
-Jonas' Custom System - December 2024
+Jonas' Fixed System - December 2024
 """
 
 import pandas as pd
@@ -37,7 +33,8 @@ warnings.filterwarnings('ignore')
 from team_config import (
     HERRELIGA_TEAMS, KVINDELIGA_TEAMS, ALL_TEAMS,
     HERRELIGA_NAME_MAPPINGS, KVINDELIGA_NAME_MAPPINGS,
-    SKIP_TEAMS, MIN_GAMES_FOR_TEAM_INCLUSION
+    SKIP_TEAMS, MIN_GAMES_FOR_TEAM_INCLUSION,
+    PLAYER_NAME_ALIASES
 )
 
 # === SYSTEM PARAMETRE ===
@@ -54,16 +51,14 @@ POSITION_WEIGHTS = {
     'HB': 0.95   # Højre back
 }
 
-# Team-definitioner er nu importeret fra team_config.py
-
 class PlayerBasedTeamEloSystem:
     """
-    🏆 SPILLERBASERET HOLD ELO SYSTEM
+    🏆 SPILLERBASERET HOLD ELO SYSTEM (FIXED)
     Beregner hold ratings baseret på spillernes individuelle ELO ratings
     """
     
     def __init__(self, base_dir: str = "."):
-        print("🏆 SPILLERBASERET HOLD ELO SYSTEM")
+        print("🏆 SPILLERBASERET HOLD ELO SYSTEM (FIXED VERSION)")
         print("=" * 70)
         print("🎯 Bygger hold ratings fra spillernes individuelle ELO ratings")
         
@@ -84,13 +79,13 @@ class PlayerBasedTeamEloSystem:
             "2021-2022", "2022-2023", "2023-2024", "2024-2025"
         ]
         
+        # Validate data availability
         self.validate_data_availability()
         
-        print("✅ Player-Based Team ELO system initialiseret")
+        print("✅ Player-Based Team ELO system initialiseret (FIXED)")
         print(f"📅 Tilgængelige sæsoner: {len(self.seasons)}")
         print(f"🎯 Min games for team inclusion: {MIN_GAMES_FOR_TEAM_INCLUSION}")
         print(f"👥 Min players for team rating: {MIN_PLAYERS_FOR_TEAM_RATING}")
-        print(f"🔀 Kontekst-baseret team-mapping er aktiv")
         
     def validate_data_availability(self):
         """Validerer at nødvendig data er tilgængelig"""
@@ -101,18 +96,15 @@ class PlayerBasedTeamEloSystem:
         
         for season in self.seasons:
             # Check for player CSV files
-            player_csv_files = []
             season_formatted = season.replace("-", "_")
             
-            # Check for combined seasonal file
-            combined_file = os.path.join(self.player_csv_dir, f"seasonal_elo_{season_formatted}.csv")
+            # Check for league-specific files first, then combined
             herreliga_file = os.path.join(self.player_csv_dir, f"herreliga_seasonal_elo_{season_formatted}.csv")
+            kvindeliga_file = os.path.join(self.player_csv_dir, f"kvindeliga_seasonal_elo_{season_formatted}.csv")
+            combined_file = os.path.join(self.player_csv_dir, f"seasonal_elo_{season_formatted}.csv")
             
-            if os.path.exists(combined_file):
-                player_csv_files.append("combined")
-            if os.path.exists(herreliga_file):
-                player_csv_files.append("herreliga")
-                
+            has_csv = os.path.exists(herreliga_file) or os.path.exists(kvindeliga_file) or os.path.exists(combined_file)
+            
             # Check for database files
             herreliga_path = os.path.join(self.herreliga_dir, season)
             kvindeliga_path = os.path.join(self.kvindeliga_dir, season)
@@ -127,18 +119,39 @@ class PlayerBasedTeamEloSystem:
                 
             total_db_files = herreliga_files + kvindeliga_files
             
-            if player_csv_files and total_db_files > 0:
+            if has_csv and total_db_files > 0:
                 valid_seasons.append(season)
-                print(f"  ✅ {season}: {', '.join(player_csv_files)} CSV, {total_db_files} DB filer")
+                csv_info = []
+                if os.path.exists(herreliga_file): csv_info.append("herreliga")
+                if os.path.exists(kvindeliga_file): csv_info.append("kvindeliga") 
+                if os.path.exists(combined_file): csv_info.append("combined")
+                print(f"  ✅ {season}: {', '.join(csv_info)} CSV, {total_db_files} DB filer")
             else:
-                print(f"  ❌ {season}: mangler data (CSV: {player_csv_files}, DB: {total_db_files})")
+                print(f"  ❌ {season}: mangler data (CSV: {has_csv}, DB: {total_db_files})")
                 
         self.seasons = valid_seasons
         print(f"\n📊 {len(self.seasons)} gyldige sæsoner klar til processering")
+
+    def _normalize_and_get_canonical_name(self, name: str) -> str:
+        """Normaliserer et spillernavn og oversætter det til dets kanoniske version"""
+        if not isinstance(name, str):
+            return ""
         
+        # Standardiser input-navnet (STORE BOGSTAVER, trimmet)
+        processed_name = " ".join(name.strip().upper().split())
+        
+        # Opret standardiseret version af alias-mappen
+        standardized_aliases = { 
+            " ".join(k.strip().upper().split()): v.upper() 
+            for k, v in PLAYER_NAME_ALIASES.items() 
+        }
+
+        # Slå det standardiserede navn op
+        return standardized_aliases.get(processed_name, processed_name)
+
     def get_team_code_from_name(self, team_name: str, league_context: str) -> str:
         """
-        REFACTORED: Selects the correct mapping dict based on league_context.
+        FIXED: Korrekt team mapping med league kontekst
         """
         if not team_name:
             return "UNK"
@@ -151,16 +164,14 @@ class PlayerBasedTeamEloSystem:
             mapping_dict = KVINDELIGA_NAME_MAPPINGS
             valid_teams = KVINDELIGA_TEAMS
         else:
-            # Fallback if context is invalid, though this shouldn't happen
             print(f"⚠️ Invalid league context: '{league_context}'")
             return "UNK"
 
         clean_name = team_name.strip().lower()
 
-        # Direct lookup in the context-specific mapping
+        # Direct lookup
         if clean_name in mapping_dict:
             code = mapping_dict[clean_name]
-            # Final check to ensure the code is valid for the league
             if code in valid_teams:
                 return code
 
@@ -169,47 +180,37 @@ class PlayerBasedTeamEloSystem:
             if key in clean_name and code in valid_teams:
                 return code
 
-        # If still not found, return UNK but don't print a warning here
-        # as this function is used speculatively sometimes.
         return "UNK"
         
-    def determine_player_teams_from_database(self, season: str) -> Dict[str, str]:
+    def determine_player_teams_from_database(self, season: str) -> Tuple[Dict[str, str], Dict[str, str]]:
         """
-        🔍 BESTEMMER SPILLERENS HOLDTILKNYTNING BASERET PÅ DATABASE DATA
-        Læser database filer og tæller hvilke hold hver spiller spiller for oftest
+        FIXED: Bestemmer spillerens holdtilknytning SEPARAT for hver liga
+        Returns: (herreliga_player_teams, kvindeliga_player_teams)
         """
         print(f"  🔍 Analyserer spilleres holdtilknytning fra database for {season}")
         
-        player_team_games = defaultdict(lambda: defaultdict(int))  # player -> team -> games
+        herreliga_player_teams = {}
+        kvindeliga_player_teams = {}
         
-        # Process both leagues, but ensure context is passed
-        for league_dir, league_name_full in [(self.herreliga_dir, "Herreliga"), 
-                                       (self.kvindeliga_dir, "Kvindeliga")]:
-            season_path = os.path.join(league_dir, season)
-            
-            # FIXED: Set correct short-form context
-            league_context = 'herre' if league_name_full == 'Herreliga' else 'kvinde'
-
-            if not os.path.exists(season_path):
-                continue
-                
-            db_files = [f for f in os.listdir(season_path) if f.endswith('.db')]
+        # Process Herreliga
+        herreliga_player_games = defaultdict(lambda: defaultdict(set))
+        herreliga_path = os.path.join(self.herreliga_dir, season)
+        
+        if os.path.exists(herreliga_path):
+            db_files = [f for f in os.listdir(herreliga_path) if f.endswith('.db')]
             
             for db_file in db_files:
-                db_path = os.path.join(season_path, db_file)
+                db_path = os.path.join(herreliga_path, db_file)
                 
                 try:
                     conn = sqlite3.connect(db_path)
                     cursor = conn.cursor()
-
-                    # NY KODE: Tjek om 'match_info' tabellen eksisterer
+                    
+                    # Check if tables exist
                     cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='match_info'")
                     if cursor.fetchone() is None:
-                        # Hvis tabellen ikke findes, spring filen over
-                        print(f"    ⚠️ 'match_info' tabel ikke fundet i {db_file}. Skipper fil.")
                         conn.close()
                         continue
-                    # SLUT PÅ NY KODE
 
                     # Get match info for team names
                     cursor.execute("SELECT * FROM match_info LIMIT 1")
@@ -221,122 +222,258 @@ class PlayerBasedTeamEloSystem:
                         
                     kamp_id, hold_hjemme, hold_ude, resultat, halvleg_resultat, dato, sted, turnering = match_info
                     
-                    # Get team codes with league context
-                    hjemme_code = self.get_team_code_from_name(hold_hjemme, league_context)
-                    ude_code = self.get_team_code_from_name(hold_ude, league_context)
+                    # Get team codes WITH HERRELIGA CONTEXT
+                    hjemme_code = self.get_team_code_from_name(hold_hjemme, "herre")
+                    ude_code = self.get_team_code_from_name(hold_ude, "herre")
                     
-                    # Process match events to find player-team associations
+                    # Skip if teams are not valid Herreliga teams
+                    if hjemme_code not in HERRELIGA_TEAMS or ude_code not in HERRELIGA_TEAMS:
+                        conn.close()
+                        continue
+                    
+                    # Process match events
                     cursor.execute("SELECT * FROM match_events")
                     events = cursor.fetchall()
                     
                     for event in events:
-                        # Match events structure: id, kamp_id, tid, maal, hold, haendelse_1, pos, nr_1, navn_1, haendelse_2, nr_2, navn_2, nr_mv, mv
                         try:
                             _, _, tid, maal, hold, haendelse_1, pos, nr_1, navn_1, haendelse_2, nr_2, navn_2, nr_mv, mv = event
                             
-                            # Primary player (navn_1)
+                            # Primary player
                             if navn_1 and navn_1.strip() and navn_1 not in ["Retur", "Bold erobret", "Assist"]:
-                                # Map hold to team code
+                                canonical_navn_1 = self._normalize_and_get_canonical_name(navn_1)
+                                
                                 if hold == hjemme_code or hold == hold_hjemme:
                                     team_code = hjemme_code
                                 elif hold == ude_code or hold == hold_ude:
                                     team_code = ude_code
                                 else:
-                                    team_code = self.get_team_code_from_name(hold, league_context) if hold else "UNK"
+                                    team_code = self.get_team_code_from_name(hold, "herre") if hold else "UNK"
                                     
-                                player_team_games[navn_1.strip()][team_code] += 1
+                                if team_code in HERRELIGA_TEAMS:
+                                    herreliga_player_games[canonical_navn_1][team_code].add(db_file)
+                                    
+                            # Secondary player (assists)
+                            if navn_2 and navn_2.strip() and haendelse_2 and navn_2 not in ["Retur", "Bold erobret", "Forårs. str."]:
+                                canonical_navn_2 = self._normalize_and_get_canonical_name(navn_2)
                                 
-                            # Secondary player (navn_2) - kun hvis det er samme hold
-                            if navn_2 and navn_2.strip() and navn_2 not in ["Retur", "Bold erobret", "Assist", "Forårs. str."]:
-                                # For sekundære hændelser skal vi være forsigtige med holdtilknytning
-                                same_team_events = ["Assist"]
-                                if haendelse_2 in same_team_events:
+                                if haendelse_2 == "Assist":
                                     if hold == hjemme_code or hold == hold_hjemme:
-                                        team_code = hjemme_code
+                                        assist_team_code = hjemme_code
                                     elif hold == ude_code or hold == hold_ude:
-                                        team_code = ude_code
+                                        assist_team_code = ude_code
                                     else:
-                                        team_code = self.get_team_code_from_name(hold, league_context) if hold else "UNK"
+                                        assist_team_code = self.get_team_code_from_name(hold, "herre") if hold else "UNK"
                                         
-                                    player_team_games[navn_2.strip()][team_code] += 1
-
-                            # Goalkeeper (mv) - altid modsatte hold af primary action
+                                    if assist_team_code in HERRELIGA_TEAMS:
+                                        herreliga_player_games[canonical_navn_2][assist_team_code].add(db_file)
+                                
+                            # Goalkeeper  
                             if mv and mv.strip():
-                                gk_team_code = "UNK"
+                                canonical_mv = self._normalize_and_get_canonical_name(mv)
                                 
                                 if hold == hjemme_code or hold == hold_hjemme:
                                     gk_team_code = ude_code
                                 elif hold == ude_code or hold == hold_ude:
                                     gk_team_code = hjemme_code
-
-                                if gk_team_code != "UNK":
-                                    player_team_games[mv.strip()][gk_team_code] += 1
+                                else:
+                                    gk_team_code = hjemme_code if hold != hjemme_code else ude_code
+                                    
+                                if gk_team_code in HERRELIGA_TEAMS:
+                                    herreliga_player_games[canonical_mv][gk_team_code].add(db_file)
                                 
                         except Exception as e:
-                            continue  # Skip problematic events
+                            continue
                             
                     conn.close()
                     
-                except sqlite3.Error as e:
-                    print(f"    ⚠️ Fejl i {db_file}: {e}")
-                    if conn:
-                        conn.close()
+                except Exception as e:
+                    print(f"      ⚠️ Fejl i Herreliga {db_file}: {e}")
                     continue
-                    
-        # Determine primary team for each player (team with most games)
-        player_teams = {}
         
-        for player_name, team_games in player_team_games.items():
+        # Determine primary team for Herreliga players
+        for player_name, team_games in herreliga_player_games.items():
             if team_games:
-                # Filter out any UNK teams before finding max
                 valid_teams = {team: games for team, games in team_games.items() if team != "UNK"}
                 if not valid_teams:
                     continue
 
-                # Find team with most games
-                primary_team = max(valid_teams.items(), key=lambda x: x[1])
+                primary_team = max(valid_teams.items(), key=lambda x: len(x[1]))
                 
-                # Only include if player has enough games
-                if primary_team[1] >= MIN_GAMES_FOR_TEAM_INCLUSION:
-                    player_teams[player_name] = primary_team[0]
-                    
-        print(f"    ✅ Fundet {len(player_teams)} spillere med holdtilknytning")
-        return player_teams
+                if len(primary_team[1]) >= MIN_GAMES_FOR_TEAM_INCLUSION and primary_team[0] in HERRELIGA_TEAMS:
+                    herreliga_player_teams[player_name] = primary_team[0]
         
-    def load_player_ratings_for_season(self, season: str) -> pd.DataFrame:
-        """Loader spillernes ELO ratings for en given sæson"""
+        # Process Kvindeliga (similar logic)
+        kvindeliga_player_games = defaultdict(lambda: defaultdict(set))
+        kvindeliga_path = os.path.join(self.kvindeliga_dir, season)
+        
+        if os.path.exists(kvindeliga_path):
+            db_files = [f for f in os.listdir(kvindeliga_path) if f.endswith('.db')]
+            
+            for db_file in db_files:
+                db_path = os.path.join(kvindeliga_path, db_file)
+                
+                try:
+                    conn = sqlite3.connect(db_path)
+                    cursor = conn.cursor()
+                    
+                    # Check if tables exist
+                    cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='match_info'")
+                    if cursor.fetchone() is None:
+                        conn.close()
+                        continue
+
+                    # Get match info for team names
+                    cursor.execute("SELECT * FROM match_info LIMIT 1")
+                    match_info = cursor.fetchone()
+                    
+                    if not match_info:
+                        conn.close()
+                        continue
+                        
+                    kamp_id, hold_hjemme, hold_ude, resultat, halvleg_resultat, dato, sted, turnering = match_info
+                    
+                    # Get team codes WITH KVINDELIGA CONTEXT
+                    hjemme_code = self.get_team_code_from_name(hold_hjemme, "kvinde")
+                    ude_code = self.get_team_code_from_name(hold_ude, "kvinde")
+                    
+                    # Skip if teams are not valid Kvindeliga teams
+                    if hjemme_code not in KVINDELIGA_TEAMS or ude_code not in KVINDELIGA_TEAMS:
+                        conn.close()
+                        continue
+                    
+                    # Process match events (same logic as Herreliga but with kvinde context)
+                    cursor.execute("SELECT * FROM match_events")
+                    events = cursor.fetchall()
+                    
+                    for event in events:
+                        try:
+                            _, _, tid, maal, hold, haendelse_1, pos, nr_1, navn_1, haendelse_2, nr_2, navn_2, nr_mv, mv = event
+                            
+                            # Primary player
+                            if navn_1 and navn_1.strip() and navn_1 not in ["Retur", "Bold erobret", "Assist"]:
+                                canonical_navn_1 = self._normalize_and_get_canonical_name(navn_1)
+                                
+                                if hold == hjemme_code or hold == hold_hjemme:
+                                    team_code = hjemme_code
+                                elif hold == ude_code or hold == hold_ude:
+                                    team_code = ude_code
+                                else:
+                                    team_code = self.get_team_code_from_name(hold, "kvinde") if hold else "UNK"
+                                    
+                                if team_code in KVINDELIGA_TEAMS:
+                                    kvindeliga_player_games[canonical_navn_1][team_code].add(db_file)
+                                    
+                            # Secondary player (assists)
+                            if navn_2 and navn_2.strip() and haendelse_2 and navn_2 not in ["Retur", "Bold erobret", "Forårs. str."]:
+                                canonical_navn_2 = self._normalize_and_get_canonical_name(navn_2)
+                                
+                                if haendelse_2 == "Assist":
+                                    if hold == hjemme_code or hold == hold_hjemme:
+                                        assist_team_code = hjemme_code
+                                    elif hold == ude_code or hold == hold_ude:
+                                        assist_team_code = ude_code
+                                    else:
+                                        assist_team_code = self.get_team_code_from_name(hold, "kvinde") if hold else "UNK"
+                                        
+                                    if assist_team_code in KVINDELIGA_TEAMS:
+                                        kvindeliga_player_games[canonical_navn_2][assist_team_code].add(db_file)
+                                
+                            # Goalkeeper  
+                            if mv and mv.strip():
+                                canonical_mv = self._normalize_and_get_canonical_name(mv)
+                                
+                                if hold == hjemme_code or hold == hold_hjemme:
+                                    gk_team_code = ude_code
+                                elif hold == ude_code or hold == hold_ude:
+                                    gk_team_code = hjemme_code
+                                else:
+                                    gk_team_code = hjemme_code if hold != hjemme_code else ude_code
+                                    
+                                if gk_team_code in KVINDELIGA_TEAMS:
+                                    kvindeliga_player_games[canonical_mv][gk_team_code].add(db_file)
+                                
+                        except Exception as e:
+                            continue
+                            
+                    conn.close()
+                    
+                except Exception as e:
+                    print(f"      ⚠️ Fejl i Kvindeliga {db_file}: {e}")
+                    continue
+        
+        # Determine primary team for Kvindeliga players
+        for player_name, team_games in kvindeliga_player_games.items():
+            if team_games:
+                valid_teams = {team: games for team, games in team_games.items() if team != "UNK"}
+                if not valid_teams:
+                    continue
+                    
+                primary_team = max(valid_teams.items(), key=lambda x: len(x[1]))
+                
+                if len(primary_team[1]) >= MIN_GAMES_FOR_TEAM_INCLUSION and primary_team[0] in KVINDELIGA_TEAMS:
+                    kvindeliga_player_teams[player_name] = primary_team[0]
+        
+        print(f"    ✅ Herreliga: {len(herreliga_player_teams)} spillere")
+        print(f"    ✅ Kvindeliga: {len(kvindeliga_player_teams)} spillere")
+        
+        return herreliga_player_teams, kvindeliga_player_teams
+        
+    def load_player_ratings_for_season(self, season: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
+        """
+        FIXED: Loader spillernes ELO ratings SEPARAT for hver liga
+        Returns: (herreliga_df, kvindeliga_df)
+        """
         season_formatted = season.replace("-", "_")
         
-        # Try combined file first, then league-specific files
-        combined_file = os.path.join(self.player_csv_dir, f"seasonal_elo_{season_formatted}.csv")
+        # Try to load separate files for each league
         herreliga_file = os.path.join(self.player_csv_dir, f"herreliga_seasonal_elo_{season_formatted}.csv")
         kvindeliga_file = os.path.join(self.player_csv_dir, f"kvindeliga_seasonal_elo_{season_formatted}.csv")
+        combined_file = os.path.join(self.player_csv_dir, f"seasonal_elo_{season_formatted}.csv")
         
-        dfs = []
+        herreliga_df = pd.DataFrame()
+        kvindeliga_df = pd.DataFrame()
         
-        # Load any available files
-        if os.path.exists(combined_file):
-            df_combined = pd.read_csv(combined_file)
-            dfs.append(df_combined)
-            
+        # Load Herreliga data
         if os.path.exists(herreliga_file):
-            df_herreliga = pd.read_csv(herreliga_file)
-            dfs.append(df_herreliga)
-            
-        if os.path.exists(kvindeliga_file):
-            df_kvindeliga = pd.read_csv(kvindeliga_file)
-            dfs.append(df_kvindeliga)
-            
-        if not dfs:
-            print(f"  ❌ Ingen spillerdata for {season}")
-            return pd.DataFrame()
-            
-        # Combine and remove duplicates
-        df_all = pd.concat(dfs, ignore_index=True)
-        df_all = df_all.drop_duplicates(subset=['player'], keep='first')
+            herreliga_df = pd.read_csv(herreliga_file)
+            print(f"    📊 Herreliga: {len(herreliga_df)} spillere indlæst fra dedikeret fil")
         
-        print(f"  📊 Indlæst {len(df_all)} spillere for {season}")
-        return df_all
+        # Load Kvindeliga data  
+        if os.path.exists(kvindeliga_file):
+            kvindeliga_df = pd.read_csv(kvindeliga_file)
+            print(f"    📊 Kvindeliga: {len(kvindeliga_df)} spillere indlæst fra dedikeret fil")
+        
+        # If no separate files exist, try to split combined file
+        if herreliga_df.empty and kvindeliga_df.empty and os.path.exists(combined_file):
+            print(f"    🔄 Splitter combined fil baseret på holdtilknytninger...")
+            combined_df = pd.read_csv(combined_file)
+            
+            # Get player-team associations for separation
+            herreliga_player_teams, kvindeliga_player_teams = self.determine_player_teams_from_database(season)
+            
+            # Split based on player team associations
+            herreliga_players = []
+            kvindeliga_players = []
+            
+            for _, player_row in combined_df.iterrows():
+                player_name = self._normalize_and_get_canonical_name(player_row['player'])
+                
+                if player_name in herreliga_player_teams:
+                    herreliga_players.append(player_row)
+                elif player_name in kvindeliga_player_teams:
+                    kvindeliga_players.append(player_row)
+                # Skip players without clear team association
+                    
+            if herreliga_players:
+                herreliga_df = pd.DataFrame(herreliga_players)
+                print(f"    ✅ Herreliga fra combined: {len(herreliga_df)} spillere")
+                
+            if kvindeliga_players:
+                kvindeliga_df = pd.DataFrame(kvindeliga_players)
+                print(f"    ✅ Kvindeliga fra combined: {len(kvindeliga_df)} spillere")
+                
+        return herreliga_df, kvindeliga_df
         
     def calculate_team_ratings(self, team_players: Dict[str, List[Dict]]) -> Dict[str, Dict]:
         """
@@ -367,30 +504,26 @@ class PlayerBasedTeamEloSystem:
             top_12_players = sorted_players[:12]
             top_12_rating = np.mean([p['final_rating'] for p in top_12_players]) if len(top_12_players) >= 10 else team_avg_rating
             
-            # 4. BEST POSITION AVERAGE (ÆNDRET LOGIK)
-            # For MV, VF, HF, ST: Tag den bedste fra hver position
-            # For VB, PL, HB: Tag de 3 bedste på tværs af disse positioner
-            
+            # 4. BEST POSITION AVERAGE
             specific_positions = ['MV', 'VF', 'HF', 'ST']  # Specifikke positioner
             dynamic_positions = ['VB', 'PL', 'HB']        # Dynamiske positioner
             
             selected_players = []
             
-            # 1. Bedste fra hver specifik position
+            # Bedste fra hver specifik position
             for pos in specific_positions:
                 pos_players = [p for p in players if p['primary_position'] == pos]
                 if pos_players:
                     best_player = max(pos_players, key=lambda x: x['final_rating'])
                     selected_players.append(best_player)
                     
-            # 2. De 3 bedste fra dynamiske positioner (på tværs)
+            # De 3 bedste fra dynamiske positioner
             dynamic_players = [p for p in players if p['primary_position'] in dynamic_positions]
             if dynamic_players:
-                # Sort og tag de 3 bedste
                 dynamic_players.sort(key=lambda x: x['final_rating'], reverse=True)
                 selected_players.extend(dynamic_players[:3])
                 
-            if len(selected_players) >= 3:  # Need minimum 3 players
+            if len(selected_players) >= 3:
                 best_pos_rating = np.mean([p['final_rating'] for p in selected_players])
             else:
                 best_pos_rating = team_avg_rating
@@ -447,69 +580,95 @@ class PlayerBasedTeamEloSystem:
         return team_ratings
         
     def process_season(self, season: str) -> Dict:
-        """Processerer en enkelt sæson og returnerer hold ratings"""
+        """FIXED: Processerer en enkelt sæson og returnerer hold ratings"""
         print(f"\n🏐 PROCESSERER SÆSON {season}")
         print("-" * 50)
         
-        # Load player ratings
-        player_df = self.load_player_ratings_for_season(season)
+        # Load player ratings SEPARATELY for each league
+        herreliga_df, kvindeliga_df = self.load_player_ratings_for_season(season)
         
-        if player_df.empty:
+        if herreliga_df.empty and kvindeliga_df.empty:
             print(f"  ❌ Ingen spillerdata for {season}")
             return {}
             
-        # Determine player-team associations from database
-        player_teams = self.determine_player_teams_from_database(season)
+        # Determine player-team associations from database SEPARATELY
+        herreliga_player_teams, kvindeliga_player_teams = self.determine_player_teams_from_database(season)
         
-        if not player_teams:
+        if not herreliga_player_teams and not kvindeliga_player_teams:
             print(f"  ❌ Ingen holdtilknytninger fundet for {season}")
             return {}
             
         # Group players by team
         team_players = defaultdict(list)
         
-        for _, player_row in player_df.iterrows():
-            player_name = player_row['player']
+        # Process Herreliga players
+        if not herreliga_df.empty and herreliga_player_teams:
+            print(f"    🔵 Processerer {len(herreliga_df)} Herreliga spillere...")
             
-            if player_name in player_teams:
-                team_code = player_teams[player_name]
+            for _, player_row in herreliga_df.iterrows():
+                player_name = self._normalize_and_get_canonical_name(player_row['player'])
                 
-                player_data = {
-                    'player': player_name,
-                    'final_rating': player_row['final_rating'],
-                    'games': player_row['games'],
-                    'primary_position': player_row['primary_position'],
-                    'is_goalkeeper': player_row['is_goalkeeper'],
-                    'elite_status': player_row['elite_status'],
-                    'rating_change': player_row['rating_change']
-                }
+                if player_name in herreliga_player_teams:
+                    team_code = herreliga_player_teams[player_name]
+                    
+                    # Validation: Only accept Herreliga teams
+                    if team_code not in HERRELIGA_TEAMS:
+                        print(f"      ⚠️ FEJL: Herreliga spiller {player_name} tildelt ikke-Herreliga hold {team_code}")
+                        continue
+                    
+                    player_data = {
+                        'player': player_name,
+                        'team_code': team_code,
+                        'team_name': HERRELIGA_TEAMS[team_code],
+                        'final_rating': player_row['final_rating'],
+                        'games': player_row['games'],
+                        'primary_position': player_row['primary_position'],
+                        'is_goalkeeper': player_row['is_goalkeeper'],
+                        'elite_status': player_row['elite_status'],
+                        'rating_change': player_row.get('rating_change', 0)
+                    }
+                    
+                    team_players[team_code].append(player_data)
+        
+        # Process Kvindeliga players
+        if not kvindeliga_df.empty and kvindeliga_player_teams:
+            print(f"    🔴 Processerer {len(kvindeliga_df)} Kvindeliga spillere...")
+            
+            for _, player_row in kvindeliga_df.iterrows():
+                player_name = self._normalize_and_get_canonical_name(player_row['player'])
                 
-                team_players[team_code].append(player_data)
-                
+                if player_name in kvindeliga_player_teams:
+                    team_code = kvindeliga_player_teams[player_name]
+                    
+                    # Validation: Only accept Kvindeliga teams
+                    if team_code not in KVINDELIGA_TEAMS:
+                        print(f"      ⚠️ FEJL: Kvindeliga spiller {player_name} tildelt ikke-Kvindeliga hold {team_code}")
+                        continue
+                    
+                    player_data = {
+                        'player': player_name,
+                        'team_code': team_code,
+                        'team_name': KVINDELIGA_TEAMS[team_code],
+                        'final_rating': player_row['final_rating'],
+                        'games': player_row['games'],
+                        'primary_position': player_row['primary_position'],
+                        'is_goalkeeper': player_row['is_goalkeeper'],
+                        'elite_status': player_row['elite_status'],
+                        'rating_change': player_row.get('rating_change', 0)
+                    }
+                    
+                    team_players[team_code].append(player_data)
+        
         print(f"  👥 Fordelt {sum(len(players) for players in team_players.values())} spillere på {len(team_players)} hold")
         
         # Calculate team ratings
         team_ratings = self.calculate_team_ratings(team_players)
             
-        # Add season info
+        # Add season info and determine league
         for team_code, team_data in team_ratings.items():
             team_data['season'] = season
             
-            # FIXED: Update team names for new codes
-            if team_code == 'SJH':
-                team_data['team_name'] = HERRELIGA_TEAMS['SJH']
-            elif team_code == 'SJK':
-                team_data['team_name'] = KVINDELIGA_TEAMS['SJK']
-            elif team_code == 'TMH':
-                team_data['team_name'] = HERRELIGA_TEAMS['TMH']
-            elif team_code == 'TMK':
-                team_data['team_name'] = KVINDELIGA_TEAMS['TMK']
-            elif team_code == 'AJH':
-                team_data['team_name'] = HERRELIGA_TEAMS['AJH']
-            elif team_code == 'AJK':
-                team_data['team_name'] = KVINDELIGA_TEAMS['AJK']
-            
-            # Determine league - FIXED: No more legacy SJE handling needed
+            # Determine league
             if team_code in HERRELIGA_TEAMS:
                 team_data['league'] = 'Herreliga'
             elif team_code in KVINDELIGA_TEAMS:
@@ -627,7 +786,7 @@ class PlayerBasedTeamEloSystem:
                           f"Top7:{team['avg_top7_rating']:.0f}, Peak:{team['peak_team_rating']:.0f} "
                           f"({team['seasons_played']} sæsoner) {trend}{team['career_development']:+.0f} {consistency}")
                           
-        # Save career analysis - separate files for each league
+        # Save career analysis
         career_df = pd.DataFrame(career_stats)
         output_dir = os.path.join("ELO_Results", "Team_CSV", "Player_Based")
         os.makedirs(output_dir, exist_ok=True)
@@ -647,9 +806,9 @@ class PlayerBasedTeamEloSystem:
         
     def run_complete_analysis(self):
         """
-        🚀 KØRER KOMPLET SPILLERBASERET TEAM ANALYSE FOR ALLE SÆSONER
+        🚀 FIXED: Kører komplet spillerbaseret team analyse for alle sæsoner
         """
-        print("🏐 STARTER SPILLERBASERET TEAM ELO ANALYSE")
+        print("🏐 STARTER SPILLERBASERET TEAM ELO ANALYSE (FIXED)")
         print("=" * 70)
         
         # Validate data first
@@ -670,7 +829,7 @@ class PlayerBasedTeamEloSystem:
         if self.all_season_results:
             self.generate_comparative_analysis()
             
-        print(f"\n\n✅ SPILLERBASERET TEAM ANALYSE KOMPLET!")
+        print(f"\n\n✅ SPILLERBASERET TEAM ANALYSE KOMPLET (FIXED)!")
         print("=" * 70)
         print("📁 Genererede filer:")
         for season in self.seasons:
@@ -680,7 +839,7 @@ class PlayerBasedTeamEloSystem:
         print("  • player_based_herreliga_career_analysis.csv")
         print("  • player_based_kvindeliga_career_analysis.csv")
         
-        print("\n🎯 Implementerede beregningsmetoder:")
+        print("\n🎯 FIXED implementerede beregningsmetoder:")
         print("  ✅ Team Average Rating - Gennemsnit af alle spillere")
         print("  ✅ Top 7 Players Rating - De 7 bedste spillere") 
         print("  ✅ Top 12 Players Rating - De 12 bedste spillere")
@@ -688,36 +847,17 @@ class PlayerBasedTeamEloSystem:
         print("  ✅ Weighted Position Rating - Positionsvægtet gennemsnit")
         print("  ✅ Playing Time Weighted - Vægtet efter spilletid")
         
-        print("\n🎉 SPILLERBASERET TEAM SYSTEM KOMPLET!")
-        print("=" * 80)
-        print("🎯 Hold ratings bygget fra spillernes individuelle ELO ratings")
-        print("🔄 Automatisk transfer tracking baseret på database analyse") 
-        print("📊 Seks forskellige beregningsmetoder implementeret")
-        print("🏆 Detaljeret sæson- og karriere analyse genereret")
-        
-        # Summary statistics
-        total_seasons = len(self.seasons)
-        total_teams_processed = sum(len(results) for results in self.all_season_results.values())
-        
-        print(f"\n📈 SYSTEM STATISTIKKER:")
-        print(f"  • {total_seasons} sæsoner processeret")
-        print(f"  • {total_teams_processed} hold analyseret totalt")
-        print(f"  • Minimum {MIN_GAMES_FOR_TEAM_INCLUSION} kampe for holdinkludering")  
-        print(f"  • Minimum {MIN_PLAYERS_FOR_TEAM_RATING} spillere for holdrating")
-        
-        skipped_teams = len(SKIP_TEAMS)
-        print(f"  • {skipped_teams} problematiske teamkoder ignoreret")
-        
-        print("\n🔍 NÆSTE TRIN:")
-        print("  1. Analyser de genererede CSV filer for detaljerede resultater")
-        print("  2. Sammenlign spillerbaserede ratings med traditionelle team ratings")
-        print("  3. Brug dataene til at identificere stærke/svage hold baseret på spillerkvalitet")
-        print("  4. Analyser transfereffekter ved hjælp af karriere-analysen")
+        print("\n🔧 KRITISKE FIXES IMPLEMENTERET:")
+        print("  ✅ Korrekt indlæsning af spillernes ELO ratings fra CSV filer")
+        print("  ✅ Separat processering af Herreliga og Kvindeliga")
+        print("  ✅ Robust team mapping med kontekst-aware funktioner")
+        print("  ✅ Fjernet afhængighed af MasterHandballEloSystem")
+        print("  ✅ Forbedret fejlhåndtering og logging")
 
 
 # === MAIN EXECUTION ===
 if __name__ == "__main__":
-    print("🏆 STARTER SPILLERBASERET HOLD ELO SYSTEM")
+    print("🏆 STARTER SPILLERBASERET HOLD ELO SYSTEM (FIXED)")
     print("=" * 80)
     
     # Create system instance
@@ -726,9 +866,9 @@ if __name__ == "__main__":
     # Run complete analysis
     player_team_system.run_complete_analysis()
     
-    print("\n🎉 SPILLERBASERET TEAM SYSTEM KOMPLET!")
+    print("\n🎉 SPILLERBASERET TEAM SYSTEM KOMPLET (FIXED)!")
     print("=" * 80)
     print("🎯 Hold ratings bygget fra spillernes individuelle ELO ratings")
-    print("🔄 Automatisk transfer tracking baseret på database analyse")
+    print("🔄 Automatisk transfer tracking baseret på database analyse") 
     print("📊 Seks forskellige beregningsmetoder implementeret")
-    print("🏆 Detaljeret sæson- og karriere analyse genereret") 
+    print("🏆 Detaljeret sæson- og karriere analyse genereret")

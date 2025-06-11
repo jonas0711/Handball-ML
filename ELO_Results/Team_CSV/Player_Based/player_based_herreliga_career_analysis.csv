@@ -1,17 +1,16 @@
 team_code,team_name,league,seasons_played,avg_team_rating,avg_top7_rating,peak_team_rating,avg_elite_players,rating_consistency,career_development
-SKH,Skjern Håndbold,Herreliga,8,1337.9,1415.9,1364.3,0.0,26.9,75.7
-SAH,SAH - Skanderborg AGF,Herreliga,5,1333.1,1397.7,1375.8,0.0,47.9,120.6
-BSH,Bjerringbro-Silkeborg,Herreliga,8,1331.8,1415.8,1363.2,0.0,27.7,68.6
-AAH,Aalborg Håndbold,Herreliga,8,1329.2,1408.1,1364.6,0.0,28.6,69.7
-REH,Ribe-Esbjerg HH,Herreliga,8,1318.3,1402.8,1372.2,0.0,39.0,104.5
-TTH,TTH Holstebro,Herreliga,8,1317.1,1393.7,1355.3,0.0,37.3,97.4
-FHK,Fredericia Håndbold Klub,Herreliga,6,1312.1,1391.0,1354.1,0.0,36.7,62.4
-KIF,KIF Kolding,Herreliga,8,1308.7,1395.0,1338.4,0.0,20.9,28.6
-SJH,SønderjyskE Herrehåndbold,Herreliga,8,1308.2,1380.4,1333.5,0.0,25.9,83.4
-LTH,Lemvig-Thyborøn Håndbold,Herreliga,6,1306.9,1376.3,1338.0,0.0,24.3,55.3
-MTH,Mors-Thy Håndbold,Herreliga,8,1299.7,1371.7,1348.0,0.0,27.0,103.2
-NSH,Nordsjælland Håndbold,Herreliga,7,1293.8,1367.6,1324.0,0.0,25.6,61.4
-GOG,GOG,Herreliga,8,1292.7,1379.2,1332.0,0.0,21.2,48.3
-ARH,Århus Håndbold,Herreliga,3,1286.2,1348.9,1302.5,0.0,17.4,40.4
-TMH,TMS Ringsted,Herreliga,5,1272.5,1341.2,1306.5,0.0,26.7,59.3
-SFH,Skive fH,Herreliga,4,1242.4,1264.0,1280.2,0.0,37.1,73.8
+SAH,SAH - Skanderborg AGF,Herreliga,5,1252.7,1378.9,1338.6,7.6,101.9,265.4
+SKH,Skjern Håndbold,Herreliga,8,1244.4,1389.0,1366.3,7.0,85.4,274.8
+BSH,Bjerringbro-Silkeborg,Herreliga,8,1240.4,1406.0,1323.3,6.5,74.7,243.0
+AAH,Aalborg Håndbold,Herreliga,8,1239.5,1384.7,1340.8,8.5,79.4,184.2
+TTH,TTH Holstebro,Herreliga,8,1223.5,1370.8,1316.4,7.5,82.3,244.9
+FHK,Fredericia Håndbold Klub,Herreliga,6,1223.0,1396.3,1312.5,7.2,69.8,135.0
+REH,Ribe-Esbjerg HH,Herreliga,8,1205.1,1340.7,1334.0,6.0,89.4,225.4
+SJH,SønderjyskE Herrehåndbold,Herreliga,8,1184.9,1310.6,1264.4,4.6,63.4,139.5
+KIF,KIF Kolding,Herreliga,8,1178.3,1314.6,1249.0,5.1,51.8,131.7
+NSH,Nordsjælland Håndbold,Herreliga,7,1171.6,1291.0,1274.4,3.6,69.2,189.2
+MTH,Mors-Thy Håndbold,Herreliga,8,1170.7,1302.4,1274.1,4.4,63.0,210.0
+GOG,GOG,Herreliga,8,1170.0,1321.9,1242.0,4.1,51.4,135.4
+LTH,Lemvig-Thyborøn Håndbold,Herreliga,6,1159.3,1264.8,1201.0,3.5,48.0,137.0
+TMH,TMS Ringsted,Herreliga,5,1151.2,1264.4,1244.2,3.2,69.4,180.0
+ARH,Århus Håndbold,Herreliga,3,1121.4,1218.0,1151.3,2.3,32.2,74.6
