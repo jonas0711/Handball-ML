@@ -29,6 +29,13 @@ warnings.filterwarnings('ignore')
 print("MASTER HÅNDBOL ELO SYSTEM - ULTIMATIV KOMBINATION")
 print("=" * 80)
 
+# === KONSTANTER FOR STRAM MÅLVOGTER-IDENTIFIKATION (NY) ===
+GOALKEEPER_MIN_MV_OCCURRENCES = 10  # Min antal mv-forekomster før potentiel målvogter
+GOALKEEPER_MIN_SAVES = 5            # Min antal registrerede redninger (skud + straffe)
+GOALKEEPER_MIN_MV_RATIO = 0.5       # Min andel af aktioner der er målmandsrelaterede
+
+VERBOSE_LOGGING = False  # Sæt True for detaljeret debuglog
+
 class MasterHandballEloSystem:
     """
     Ultimativt håndbol ELO system - kombinerer alle bedste features
@@ -169,11 +176,11 @@ class MasterHandballEloSystem:
                 'name': 'Målvogter',
                 'role': 'Defensiv specialist og sidste linje - KRITISK for håndbold',
                 
-                # MODERATE BONUSER for redninger (ikke for højt!)
-                'Skud reddet': 4.5,                # KRAFTIGT REDUCERET fra 6.5 - var alt for højt!
-                'Straffekast reddet': 6.0,          # KRAFTIGT REDUCERET fra 8.0 - var alt for højt!
-                'Skud på stolpe': 3.5,              # KRAFTIGT REDUCERET fra 4.5 - var alt for højt!
-                'Straffekast på stolpe': 4.0,       # KRAFTIGT REDUCERET fra 6.0 - var alt for højt!
+                # FINJUSTERET BONUSER (yderligere ~10% reduktion)
+                'Skud reddet': 4.0,                # -11% (var 4.5)
+                'Straffekast reddet': 5.3,          # -12% (var 6.0)
+                'Skud på stolpe': 3.0,              # -14% (var 3.5)
+                'Straffekast på stolpe': 3.6,       # -10% (var 4.0)
                 
                 # SCORENDE MÅLVOGTER (sjældent men værdifuldt)
                 'Mål': 2.0,                         # REDUCERET fra 3.5 - var for højt
@@ -185,7 +192,7 @@ class MasterHandballEloSystem:
                 'Tabt bold': 0.8,                   # ØGET fra 0.5 - mere realistisk
                 'Regelfejl': 0.9,                   # ØGET fra 0.6 - mere realistisk
                 
-                'default_action': 1.8               # KRAFTIGT REDUCERET fra 2.5 - var alt for højt!
+                'default_action': 1.6               # Yderligere -11% (var 1.8)
             },
             'VF': {  # VENSTRE FLØJ - JUSTERET FOR BEDRE BALANCE
                 'name': 'Venstre fløj',
@@ -324,6 +331,8 @@ class MasterHandballEloSystem:
         
         # Målvogter tracking
         self.confirmed_goalkeepers = set()
+        # Track spillere som er blevet reklassificeret fra målvogter → markspiller
+        self.reclassified_to_field = set()
         self.goalkeeper_stats = defaultdict(lambda: {
             'saves': 0, 'penalty_saves': 0, 'goals_against': 0,
             'goals_scored': 0, 'appearances': 0
@@ -371,7 +380,7 @@ class MasterHandballEloSystem:
         
     def determine_player_team(self, event_data: dict) -> list:
         """
-        Bestemmer spillers hold baseret på data.md regler
+        Bestemmer spillers hold og (NY) markerer kun ægte målvogtere som målvogtere
         Returnerer [(player_name, team, is_goalkeeper), ...]
         """
         players_found = []
@@ -398,59 +407,79 @@ class MasterHandballEloSystem:
                 players_found.append((player_2, "OPPONENT", False))
                 
         # === GOALKEEPER (mv) ===
-        # KRITISK FIX: Accepter målvogtere hvis mv-feltet er udfyldt, uanset nr_mv
         goalkeeper = str(event_data.get('mv', '')).strip()
-        nr_mv = str(event_data.get('nr_mv', '')).strip()
-        
-        # Accepter målvogter hvis mv-feltet indeholder et navn (mindre restriktiv)
-        if (goalkeeper and goalkeeper not in ['nan', '', 'None', '0']):
-            # Tæl målvogter action
-            self.player_goalkeeper_actions[goalkeeper] += 1
-            # Målvogteren tilhører ALTID det modsatte hold (data.md)
-            players_found.append((goalkeeper, "OPPONENT", True))
+        if goalkeeper and goalkeeper not in ['nan', '', 'None', '0']:
+            # Tæl mv-action (sker også i update_goalkeeper_from_event, men skader ikke)
+            # (mv-action er allerede talt i update_goalkeeper_from_event)
+            is_gk_now = self.identify_goalkeeper_by_name(goalkeeper)
+            players_found.append((goalkeeper, "OPPONENT", is_gk_now))
             
         return players_found
         
     def identify_goalkeeper_by_name(self, player_name: str) -> bool:
-        """FORBEDRET: Identificerer målvogter baseret på bekræftet status eller MV aktioner"""
-        # KRITISK FIX: Hvis spilleren er bekræftet målvogter (fra database), accepter det
+        """Identificerer målvogter baseret på stramme tærskler for mv-forekomster, redninger og MV-ratio"""
+        # 1) Allerede bekræftet
         if player_name in self.confirmed_goalkeepers:
             return True
-            
-        # Alternativt: Check om spilleren har betydelige MV aktioner
-        if player_name in self.player_position_actions:
-            position_counts = self.player_position_actions[player_name]
-            mv_actions = position_counts.get('MV', 0)
-            total_actions = sum(position_counts.values())
-            
-            # Hvis spilleren har mindst 60% MV aktioner, klassificer som målvogter (ØGET FRA 20%)
-            if total_actions > 0 and mv_actions / total_actions >= 0.6:
-                return True
-                
-        # Check om spilleren har målvogter-specifikke handlinger
-        return self.player_goalkeeper_actions.get(player_name, 0) > 0
+
+        # 2) Opsamlede mv-data
+        mv_occ = self.player_goalkeeper_actions.get(player_name, 0)
+        stats = self.goalkeeper_stats.get(player_name, {})
+        saves_total = stats.get('saves', 0) + stats.get('penalty_saves', 0)
+
+        # 3) Beregn MV-ratio ift. markspiller-aktioner
+        pos_counts = self.player_position_actions.get(player_name, {})
+        mv_from_pos = pos_counts.get('MV', 0)
+        total_actions = mv_occ + sum(pos_counts.values())
+        mv_ratio = (mv_occ + mv_from_pos) / total_actions if total_actions else 0
+
+        # 4) Returner TRUE først når alle minimumskrav er opfyldt
+        if (mv_occ >= GOALKEEPER_MIN_MV_OCCURRENCES and
+            saves_total >= GOALKEEPER_MIN_SAVES and
+            mv_ratio >= GOALKEEPER_MIN_MV_RATIO):
+            return True
+
+        return False
         
     def update_goalkeeper_from_event(self, event_data: dict):
-        """Opdaterer målvogter identification og stats"""
+        """Opdaterer målvogteridentifikation og stats (NY STRAM LOGIK)"""
         goalkeeper = str(event_data.get('mv', '')).strip()
         nr_mv = str(event_data.get('nr_mv', '')).strip()
-        
-        # KRITISK FIX: Accepter målvogter hvis mv-feltet er udfyldt
-        if (goalkeeper and goalkeeper not in ['nan', '', 'None', '0']):
-            # Registrer som bekræftet målvogter (midlertidigt)
+
+        # Tjek at vi faktisk har et navn i mv-feltet
+        if not goalkeeper or goalkeeper in ['nan', '', 'None', '0']:
+            return  # Ingen gyldig målvogterregistrering i denne hændelse
+
+        # Opdater tælling af mv-forekomster (bruges til senere tærskelcheck)
+        self.player_goalkeeper_actions[goalkeeper] += 1
+
+        # Opdater målvogter-specifikke statistikker
+        haendelse_1 = str(event_data.get('haendelse_1', '')).strip()
+        if haendelse_1 == 'Skud reddet':
+            self.goalkeeper_stats[goalkeeper]['saves'] += 1
+        elif haendelse_1 == 'Straffekast reddet':
+            self.goalkeeper_stats[goalkeeper]['penalty_saves'] += 1
+        elif haendelse_1 == 'Mål':
+            self.goalkeeper_stats[goalkeeper]['goals_against'] += 1
+
+        self.goalkeeper_stats[goalkeeper]['appearances'] += 1
+
+        # --- NY TÆRSKELBASERET KONFIRMERING ---
+        mv_occ = self.player_goalkeeper_actions[goalkeeper]
+        saves_total = (self.goalkeeper_stats[goalkeeper]['saves'] +
+                       self.goalkeeper_stats[goalkeeper]['penalty_saves'])
+        # Beregn foreløbig MV-ratio baseret på registrerede positioner
+        pos_counts = self.player_position_actions.get(goalkeeper, {})
+        mv_from_pos = pos_counts.get('MV', 0)
+        total_actions = sum(pos_counts.values()) + mv_occ  # medtag mv-forekomster
+        mv_ratio = (mv_from_pos + mv_occ) / total_actions if total_actions else 0
+
+        # Kun når alle minimums-krav er opfyldt tilføjes spilleren som bekræftet målvogter
+        if (mv_occ >= GOALKEEPER_MIN_MV_OCCURRENCES and
+            saves_total >= GOALKEEPER_MIN_SAVES and
+            mv_ratio >= GOALKEEPER_MIN_MV_RATIO):
             self.confirmed_goalkeepers.add(goalkeeper)
-            
-            # Opdater målvogter statistikker
-            haendelse_1 = str(event_data.get('haendelse_1', '')).strip()
-            if haendelse_1 == 'Skud reddet':
-                self.goalkeeper_stats[goalkeeper]['saves'] += 1
-            elif haendelse_1 == 'Straffekast reddet':
-                self.goalkeeper_stats[goalkeeper]['penalty_saves'] += 1
-            elif haendelse_1 == 'Mål':
-                self.goalkeeper_stats[goalkeeper]['goals_against'] += 1
-                
-            self.goalkeeper_stats[goalkeeper]['appearances'] += 1
-            
+        
     def get_position_for_player(self, player_name: str, pos_field: str, is_goalkeeper: bool) -> str:
         """Bestemmer spillers position - FORBEDRET til at håndtere situationsspecifikke positioner"""
         # FØRST: Tjek om spilleren er eksplicit markeret som målvogter
@@ -784,13 +813,16 @@ class MasterHandballEloSystem:
         if action in ['Skud reddet', 'Straffekast reddet']:
             if timing_multiplier >= 2.0 and score_diff <= 1:  # Meget tæt slutspil
                 goalkeeper_critical_bonus = 4.0  # REDUCERET fra 5.0 - var alt for højt!
-                print(f"      [MV KRITISK]: {action} i tæt slutspil ved {time_val:.1f} min!")
+                if VERBOSE_LOGGING:
+                    print(f"      [MV KRITISK]: {action} i tæt slutspil ved {time_val:.1f} min!")
             elif timing_multiplier >= 1.8 and score_diff <= 2:  # Tæt kamp i vigtig fase
                 goalkeeper_critical_bonus = 3.0  # REDUCERET fra 3.5 - var alt for højt!
-                print(f"      [MV VIGTIG]: {action} i tæt kamp ved {time_val:.1f} min!")
+                if VERBOSE_LOGGING:
+                    print(f"      [MV VIGTIG]: {action} i tæt kamp ved {time_val:.1f} min!")
             elif timing_multiplier >= 1.5 and score_diff <= 1:  # Kun meget kritiske situationer
                 goalkeeper_critical_bonus = 1.8  # REDUCERET fra 2.5 - kun for virkelig kritiske!
-                print(f"      [MV KRITISK REDNING]: {action} ved {time_val:.1f} min!")
+                if VERBOSE_LOGGING:
+                    print(f"      [MV KRITISK REDNING]: {action} ved {time_val:.1f} min!")
             # Fjernet generelle bonuser - kun kritiske situationer!
         
         # === 7. KOMBINER ALLE FAKTORER ===
@@ -807,7 +839,7 @@ class MasterHandballEloSystem:
         context_multiplier = max(0.4, min(5.0, context_multiplier))  # REDUCERET max tilbage til 5.0
         
         # === 7. DEBUG LOG FOR VIGTIGE SITUATIONER ===
-        if context_multiplier > 2.0 or momentum_analysis['max_multiplier'] > 1.5:
+        if (context_multiplier > 2.0 or momentum_analysis['max_multiplier'] > 1.5) and VERBOSE_LOGGING:
             situation_type = ""
             if momentum_analysis['comeback'] > 1.5:
                 situation_type += "COMEBACK "
@@ -864,6 +896,12 @@ class MasterHandballEloSystem:
                 if position == 'MV':
                     position = 'HF'  # Default til højre fløj
         
+        # --- NYT SIKKERHEDS-TJEK -----------------------------------------
+        # Hvis spilleren ikke er målvogter, ignorér rene målvogter-handlinger
+        if not is_goalkeeper and action in ['Skud reddet', 'Straffekast reddet',
+                                            'Skud på stolpe', 'Straffekast på stolpe']:
+            return  # Markspillere skal ikke have målvogter-bonus
+        
         # KRITISK: Separat logik for målvogtere ved mål MOD dem
         using_goalkeeper_penalty = is_goalkeeper and action in self.goalkeeper_penalty_weights
         
@@ -889,10 +927,10 @@ class MasterHandballEloSystem:
         else:
             # Princip 1: ELO Beregning Position-Uafhængig for markspillere.
             # Målvogtere beholder deres unikke multipliers for at anerkende deres specielle rolle.
-            if position == 'MV':
+            if is_goalkeeper and position == 'MV':
                 pos_mult = self.get_position_multiplier(position, action)
             else:
-                pos_mult = 1.0 # ELO er nu position-agnostisk for markspillere
+                pos_mult = 1.0  # Markspillere får aldrig målvogter-multipliers
             
             momentum_mult = self.get_momentum_multiplier(player_name)
         
@@ -1025,7 +1063,7 @@ class MasterHandballEloSystem:
             self.system_stats['max_rating_reached'] = new_rating
         
         # Debug log for store ændringer MED kontekst og elite info
-        if abs(rating_change) > 3:
+        if abs(rating_change) > 3 and VERBOSE_LOGGING:
             gk_marker = "[MV]" if is_goalkeeper else ""
             context_info = f"ctx:{context_mult:.1f}x" if context_mult > 1.5 else ""
             elite_info = f"[{elite_status}]" if elite_status != "NORMAL" else ""
@@ -1861,9 +1899,7 @@ class MasterHandballEloSystem:
             'Rikke VORGAARD', 'Laura Maria Borg THESTRUP', 'Liv NAVNE', 'Rosa SCHMIDT', 'Trine MORTENSEN',
             'Maria HØJGAARD', 'Emilie BANGSHØI', 'Louise HALD', 'Mathilde PIIL', 'Sofie ØSTERGAARD',
             'Katarzyna PORTASINSKA', 'Sille Cecilie SORTH', 'Julie RASMUSSEN', 'Emilie Nørgaard BECH',
-            'Camilla THORHAUGE', 'Maiken SKOV', 'Ditte BACH',
-            # Tilføj Peter Balling og andre kendte cases
-            'Peter BALLING'  # Den originale problematiske spiller
+            'Camilla THORHAUGE', 'Maiken SKOV', 'Ditte BACH', 'Peter BALLING'  # Den originale problematiske spiller
         }
         
         updated_goalkeepers = set()
@@ -1902,7 +1938,7 @@ class MasterHandballEloSystem:
                 mv_percentage = 0
                 
             # REGEL 2: MINDST 15 REDNINGER
-            sufficient_saves = total_saves >= 15
+            sufficient_saves = total_saves >= 14
             
             # REGEL 3: MINDST 25 MV-FIELD FOREKOMSTER
             sufficient_mv_occurrences = mv_actions >= 25
@@ -1980,37 +2016,36 @@ class MasterHandballEloSystem:
         fixed_players = 0
         total_rating_reduction = 0
         
-        for player_name in self.player_elos:
-            current_rating = self.player_elos[player_name]
+        for player_name in self.reclassified_to_field:
+            # Kun spillere der BLEV reklassificeret skal justeres
+            current_rating = self.player_elos.get(player_name, None)
+            if current_rating is None:
+                continue
             
-            # Hvis spilleren ikke længere er målvogter men har høj rating, ret det
-            if (player_name not in self.confirmed_goalkeepers and 
-                current_rating > self.rating_bounds['elite_threshold']):
+            # Check om spilleren har markspiller-aktiviteter
+            position_counts = self.player_position_actions.get(player_name, defaultdict(int))
+            field_actions = sum(count for pos, count in position_counts.items() if pos != 'MV')
+            
+            if field_actions > 0:  # Spilleren har markspiller-aktiviteter
+                # Beregn ny realistisk rating baseret på markspiller-niveau
+                # Reducer rating til gennemsnitligt markspiller-niveau + bonus for performance
                 
-                # Check om spilleren har markspiller-aktiviteter
-                position_counts = self.player_position_actions.get(player_name, defaultdict(int))
-                field_actions = sum(count for pos, count in position_counts.items() if pos != 'MV')
+                avg_field_rating = 1200  # Gennemsnitlig markspiller
+                performance_bonus = min(200, (current_rating - avg_field_rating) * 0.3)
+                new_rating = avg_field_rating + performance_bonus
                 
-                if field_actions > 0:  # Spilleren har markspiller-aktiviteter
-                    # Beregn ny realistisk rating baseret på markspiller-niveau
-                    # Reducer rating til gennemsnitligt markspiller-niveau + bonus for performance
-                    
-                    avg_field_rating = 1200  # Gennemsnitlig markspiller
-                    performance_bonus = min(200, (current_rating - avg_field_rating) * 0.3)
-                    new_rating = avg_field_rating + performance_bonus
-                    
-                    # Anvend bounds
-                    new_rating = max(self.rating_bounds['min'], 
-                                   min(self.rating_bounds['max'], new_rating))
-                    
-                    rating_change = new_rating - current_rating
-                    self.player_elos[player_name] = new_rating
-                    
-                    fixed_players += 1
-                    total_rating_reduction += abs(rating_change)
-                    
-                    print(f"🔧 RETTET: {player_name}: {current_rating:.0f} → {new_rating:.0f} "
-                          f"({rating_change:+.0f})")
+                # Anvend bounds
+                new_rating = max(self.rating_bounds['min'], 
+                               min(self.rating_bounds['max'], new_rating))
+                
+                rating_change = new_rating - current_rating
+                self.player_elos[player_name] = new_rating
+                
+                fixed_players += 1
+                total_rating_reduction += abs(rating_change)
+                
+                print(f"🔧 RETTET: {player_name}: {current_rating:.0f} → {new_rating:.0f} "
+                      f"({rating_change:+.0f})")
         
         if fixed_players > 0:
             avg_reduction = total_rating_reduction / fixed_players
