@@ -1,0 +1,186 @@
+AVANCERET DYBDEGÅENDE ANALYSERAPPORT FOR HÅNDBOLDMODELLER
+=========================================================
+
+Dato: 2025-06-12
+Udarbejdet af: AI Assistant
+
+Denne rapport dykker ned i modellernes performance på tværs af hold, sikkerhedsniveauer og fejltyper.
+
+--- ANALYSE FOR HERRELIGA ---
+=============================
+
+ANALYSE 1: HOLD-SPECIFIK PERFORMANCE
+----------------------------------------
+Her undersøger vi, hvor præcis modellen er for hvert enkelt hold, både generelt, hjemme og ude.
+
+Bedst forudsagte hold (Højeste nøjagtighed):
+                 Hold  Kampe Total Acc. Hjemme Acc. Ude Acc.
+     Aalborg Håndbold     35      88.6%       94.4%    82.4%
+          KIF Kolding     26      76.9%       69.2%    84.6%
+        TTH Holstebro     35      74.3%       82.4%    66.7%
+Nordsjælland Håndbold     30      73.3%       73.3%    73.3%
+      Skjern Håndbold     36      69.4%       76.5%    63.2%
+
+Dårligst forudsagte hold (Laveste nøjagtighed):
+                     Hold  Kampe Total Acc. Hjemme Acc. Ude Acc.
+ Fredericia Håndbold Klub     26      53.8%       46.2%    61.5%
+  Grindsted GIF, Håndbold     20      50.0%       47.1%    66.7%
+Sønderjyske Herrehåndbold     30      50.0%       66.7%    33.3%
+                 Skive fH      3      33.3%        0.0%    50.0%
+          Skanderborg AGF      4      25.0%       25.0%     nan%
+
+Fuld oversigt:
+                     Hold  Kampe Total Acc. Hjemme Acc. Ude Acc.
+         Aalborg Håndbold     35      88.6%       94.4%    82.4%
+              KIF Kolding     26      76.9%       69.2%    84.6%
+            TTH Holstebro     35      74.3%       82.4%    66.7%
+    Nordsjælland Håndbold     30      73.3%       73.3%    73.3%
+          Skjern Håndbold     36      69.4%       76.5%    63.2%
+            Grindsted GIF     13      69.2%        nan%    69.2%
+  Fredericia Håndboldklub      6      66.7%       66.7%    66.7%
+          Ribe-Esbjerg HH     30      66.7%       73.3%    60.0%
+                      GOG     36      61.1%       63.2%    58.8%
+    SAH – Skanderborg AGF     28      60.7%       50.0%    68.8%
+             TMS Ringsted     30      60.0%       53.3%    66.7%
+    Bjerringbro-Silkeborg     32      59.4%       50.0%    68.8%
+        Mors-Thy Håndbold     32      56.2%       62.5%    50.0%
+ Fredericia Håndbold Klub     26      53.8%       46.2%    61.5%
+  Grindsted GIF, Håndbold     20      50.0%       47.1%    66.7%
+Sønderjyske Herrehåndbold     30      50.0%       66.7%    33.3%
+                 Skive fH      3      33.3%        0.0%    50.0%
+          Skanderborg AGF      4      25.0%       25.0%     nan%
+
+ANALYSE 2: CONFIDENCE NIVEAU
+----------------------------------------
+Dette viser, om modellen er mere præcis, når den er mere sikker i sin sag.
+
+     Confidence Niveau Nøjagtighed  Antal Kampe
+ 0-20% (Meget usikker)       59.1%           66
+      20-40% (Usikker)       52.5%           61
+     40-60% (Tæt kamp)       70.3%           64
+       60-80% (Sikker)       84.4%           32
+80-100% (Meget sikker)      100.0%            3
+
+ANALYSE 3: STØRSTE FORUDSIGELSESFEJL
+----------------------------------------
+Dette er de kampe, hvor modellen var mest sikker, men alligevel tog fejl. Disse 'upsets' er vigtige at forstå.
+
+Kamp: SAH – Skanderborg AGF vs Grindsted GIF
+  - Forudsigelse: SAH – Skanderborg AGF vinder med 86.0% sandsynlighed (Confidence: 72.1%)
+  - Faktisk vinder: Grindsted GIF
+  - Resultat: ❌ Forkert
+
+Kamp: Mors-Thy Håndbold vs Aalborg Håndbold
+  - Forudsigelse: Aalborg Håndbold vinder med 85.7% sandsynlighed (Confidence: 71.3%)
+  - Faktisk vinder: Mors-Thy Håndbold
+  - Resultat: ❌ Forkert
+
+Kamp: Skjern Håndbold vs Bjerringbro-Silkeborg
+  - Forudsigelse: Skjern Håndbold vinder med 82.5% sandsynlighed (Confidence: 65.0%)
+  - Faktisk vinder: Bjerringbro-Silkeborg
+  - Resultat: ❌ Forkert
+
+Kamp: Aalborg Håndbold vs Skjern Håndbold
+  - Forudsigelse: Aalborg Håndbold vinder med 82.4% sandsynlighed (Confidence: 64.9%)
+  - Faktisk vinder: Skjern Håndbold
+  - Resultat: ❌ Forkert
+
+Kamp: SAH – Skanderborg AGF vs Ribe-Esbjerg HH
+  - Forudsigelse: SAH – Skanderborg AGF vinder med 80.3% sandsynlighed (Confidence: 60.7%)
+  - Faktisk vinder: Ribe-Esbjerg HH
+  - Resultat: ❌ Forkert
+
+ANALYSE 4: VIGTIGSTE FEATURES
+----------------------------------------
+Dette er de top 20 datakilder, som modellen lægger mest vægt på, når den laver en forudsigelse.
+
+Fejl under hentning af feature importance: This RandomForestClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+
+--- ANALYSE FOR KVINDELIGA ---
+==============================
+
+ANALYSE 1: HOLD-SPECIFIK PERFORMANCE
+----------------------------------------
+Her undersøger vi, hvor præcis modellen er for hvert enkelt hold, både generelt, hjemme og ude.
+
+Bedst forudsagte hold (Højeste nøjagtighed):
+              Hold  Kampe Total Acc. Hjemme Acc. Ude Acc.
+Holstebro Håndbold      2     100.0%      100.0%   100.0%
+    Ikast Håndbold     35      91.4%       94.4%    88.2%
+      Team Esbjerg     35      88.6%       88.2%    88.9%
+   Odense Håndbold     35      85.7%       83.3%    88.2%
+         Viborg HK     32      81.2%       87.5%    75.0%
+
+Dårligst forudsagte hold (Laveste nøjagtighed):
+                   Hold  Kampe Total Acc. Hjemme Acc. Ude Acc.
+ Horsens Håndbold Elite     32      68.8%       62.5%    75.0%
+         Bjerringbro FH     30      63.3%       73.3%    53.3%
+Aarhus Håndbold Kvinder     26      57.7%       53.8%    61.5%
+   Nykøbing F. Håndbold     32      56.2%       56.2%    56.2%
+              Voel KFUM      2      50.0%       50.0%     nan%
+
+Fuld oversigt:
+                      Hold  Kampe Total Acc. Hjemme Acc. Ude Acc.
+        Holstebro Håndbold      2     100.0%      100.0%   100.0%
+            Ikast Håndbold     35      91.4%       94.4%    88.2%
+              Team Esbjerg     35      88.6%       88.2%    88.9%
+           Odense Håndbold     35      85.7%       83.3%    88.2%
+                 Viborg HK     32      81.2%       87.5%    75.0%
+SønderjyskE Kvindehåndbold     32      78.1%       68.8%    87.5%
+        København Håndbold     35      77.1%       76.5%    77.8%
+       Silkeborg-Voel KFUM     28      75.0%       76.9%    73.3%
+      Skanderborg Håndbold     32      75.0%       81.2%    68.8%
+                EH Aalborg     30      73.3%       73.3%    73.3%
+       Ringkøbing Håndbold     30      70.0%       66.7%    73.3%
+    Horsens Håndbold Elite     32      68.8%       62.5%    75.0%
+            Bjerringbro FH     30      63.3%       73.3%    53.3%
+   Aarhus Håndbold Kvinder     26      57.7%       53.8%    61.5%
+      Nykøbing F. Håndbold     32      56.2%       56.2%    56.2%
+                 Voel KFUM      2      50.0%       50.0%     nan%
+
+ANALYSE 2: CONFIDENCE NIVEAU
+----------------------------------------
+Dette viser, om modellen er mere præcis, når den er mere sikker i sin sag.
+
+     Confidence Niveau Nøjagtighed  Antal Kampe
+ 0-20% (Meget usikker)       56.4%           39
+      20-40% (Usikker)       63.9%           36
+     40-60% (Tæt kamp)       70.2%           47
+       60-80% (Sikker)       78.6%           42
+80-100% (Meget sikker)       95.0%           60
+
+ANALYSE 3: STØRSTE FORUDSIGELSESFEJL
+----------------------------------------
+Dette er de kampe, hvor modellen var mest sikker, men alligevel tog fejl. Disse 'upsets' er vigtige at forstå.
+
+Kamp: Bjerringbro FH vs Nykøbing F. Håndbold
+  - Forudsigelse: Nykøbing F. Håndbold vinder med 92.0% sandsynlighed (Confidence: 83.9%)
+  - Faktisk vinder: Bjerringbro FH
+  - Resultat: ❌ Forkert
+
+Kamp: SønderjyskE Kvindehåndbold vs Skanderborg Håndbold
+  - Forudsigelse: SønderjyskE Kvindehåndbold vinder med 91.6% sandsynlighed (Confidence: 83.2%)
+  - Faktisk vinder: Skanderborg Håndbold
+  - Resultat: ❌ Forkert
+
+Kamp: Horsens Håndbold Elite vs København Håndbold
+  - Forudsigelse: København Håndbold vinder med 90.7% sandsynlighed (Confidence: 81.5%)
+  - Faktisk vinder: Horsens Håndbold Elite
+  - Resultat: ❌ Forkert
+
+Kamp: Aarhus Håndbold Kvinder vs Skanderborg Håndbold
+  - Forudsigelse: Skanderborg Håndbold vinder med 89.6% sandsynlighed (Confidence: 79.1%)
+  - Faktisk vinder: Aarhus Håndbold Kvinder
+  - Resultat: ❌ Forkert
+
+Kamp: Odense Håndbold vs Nykøbing F. Håndbold
+  - Forudsigelse: Odense Håndbold vinder med 88.4% sandsynlighed (Confidence: 76.7%)
+  - Faktisk vinder: Nykøbing F. Håndbold
+  - Resultat: ❌ Forkert
+
+ANALYSE 4: VIGTIGSTE FEATURES
+----------------------------------------
+Dette er de top 20 datakilder, som modellen lægger mest vægt på, når den laver en forudsigelse.
+
+Fejl under hentning af feature importance: This RandomForestClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+

@@ -203,14 +203,17 @@ class HandballMatchPredictor:
         print(f"🎯 Making predictions...")
         
         try:
-            # Make predictions with safe categorical encoding
-            predictions, probabilities = self._safe_predict(X_test)
+            # KALD DEN KORREKTE PREDICT FUNKTION
+            # Den centraliserede predict-funktion i UltimateHandballPredictor håndterer
+            # selv al preprocessing og sikrer konsistens.
+            predictions, probabilities = self.model.predict(X_test)
             
             # Create results dataframe
             results = test_data[metadata_cols + ['target_home_win']].copy()
             results['predicted_home_win'] = predictions
             results['home_win_probability'] = probabilities
             results['away_win_probability'] = 1 - probabilities
+            results['confidence'] = abs(probabilities - 0.5) * 2
             results['correct_prediction'] = (predictions == y_test).astype(int)
             
             # Calculate performance metrics
@@ -239,555 +242,190 @@ class HandballMatchPredictor:
             print(f"❌ Fejl ved prediction: {str(e)}")
             return pd.DataFrame()
     
-    def generate_features_for_new_matches(self, matches: List[Dict]) -> pd.DataFrame:
+    def generate_features_for_new_match(self, match: Dict) -> Optional[pd.DataFrame]:
         """
-        Genererer features for nye kampe der skal forudsiges
-        
-        Args:
-            matches: List af match dictionaries med:
-                - home_team: str
-                - away_team: str  
-                - match_date: str (YYYY-MM-DD)
-                - venue: str (optional)
-                - season: str (optional)
-        
-        Returns:
-            DataFrame med features klar til prediction
-        """
-        print(f"\n🔧 GENERERER FEATURES FOR NYE KAMPE")
-        print("-" * 50)
-        
-        if not matches:
-            print("❌ Ingen kampe at generere features for!")
-            return pd.DataFrame()
-        
-        print(f"📊 Antal kampe: {len(matches)}")
-        
-        # Validate matches
-        validated_matches = []
-        for i, match in enumerate(matches):
-            try:
-                # Parse match date
-                if isinstance(match['match_date'], str):
-                    match_date = datetime.strptime(match['match_date'], "%Y-%m-%d")
-                else:
-                    match_date = match['match_date']
-                
-                # Set defaults
-                venue = match.get('venue', 'Unknown')
-                season = match.get('season', '2024-2025')
-                
-                validated_match = {
-                    'kamp_id': f'PRED_{i+1}_{match["home_team"]}_{match["away_team"]}',
-                    'home_team': match['home_team'],
-                    'away_team': match['away_team'],
-                    'match_date': match_date,
-                    'venue': venue,
-                    'season': season,
-                    'league': self.league
-                }
-                
-                validated_matches.append(validated_match)
-                print(f"   ✅ {match['home_team']} vs {match['away_team']} ({match_date.strftime('%Y-%m-%d')})")
-                
-            except Exception as e:
-                print(f"   ❌ Fejl i match {i+1}: {str(e)}")
-        
-        if not validated_matches:
-            print("❌ Ingen gyldige kampe!")
-            return pd.DataFrame()
-        
-        # Generate features for each match
-        print(f"\n🏗️  GENERERING AF FEATURES...")
-        feature_rows = []
-        
-        for match in validated_matches:
-            try:
-                print(f"   Genererer features for: {match['home_team']} vs {match['away_team']}")
-                
-                # Generate samme features som træningsdata
-                features = self._generate_match_features(match)
-                feature_rows.append(features)
-                
-            except Exception as e:
-                print(f"   ❌ Fejl ved feature generation: {str(e)}")
-        
-        if not feature_rows:
-            print("❌ Ingen features genereret!")
-            return pd.DataFrame()
-        
-        # Create DataFrame
-        features_df = pd.DataFrame(feature_rows)
-        print(f"\n✅ Features genereret: {features_df.shape}")
-        print(f"   Kolonner: {features_df.shape[1]}")
-        
-        return features_df
-    
-    def _generate_match_features(self, match: Dict) -> Dict:
-        """
-        Genererer ALL features for en enkelt kamp
-        Bruger SAMME logic som HandballMLDatasetGenerator
-        
-        Args:
-            match: Match dictionary
-            
-        Returns:
-            Dictionary med alle features
-        """
-        home_team = match['home_team']
-        away_team = match['away_team']
-        match_date = match['match_date']
-        season = match['season']
-        
-        # Initialize features dictionary
-        features = {
-            # Metadata (samme som træningsdata)
-            'kamp_id': match['kamp_id'],
-            'season': season,
-            'match_date': match_date.strftime('%Y-%m-%d'),
-            'home_team': home_team,
-            'away_team': away_team,
-            'venue': match['venue'],
-            'league': match['league'],
-        }
-        
-        try:
-            # 1. HOLD STATISTIKKER (historiske før kampen)
-            print(f"      📊 Calculating team stats...")
-            home_stats = self.feature_generator.calculate_team_historical_stats(home_team, match_date)
-            away_stats = self.feature_generator.calculate_team_historical_stats(away_team, match_date)
-            
-            # Add prefix
-            for key, value in home_stats.items():
-                features[f'home_{key}'] = value
-            for key, value in away_stats.items():
-                features[f'away_{key}'] = value
-        except Exception as e:
-            print(f"        ⚠️  Team stats fejl: {str(e)}")
-            # Add default stats
-            default_stats = self.feature_generator._get_default_team_stats()
-            for key, value in default_stats.items():
-                features[f'home_{key}'] = value
-                features[f'away_{key}'] = value
-        
-        try:
-            # 2. SPILLER FEATURES
-            print(f"      🏃 Calculating player features...")
-            home_players = self.feature_generator.calculate_player_features(home_team, match_date)
-            away_players = self.feature_generator.calculate_player_features(away_team, match_date)
-            
-            for key, value in home_players.items():
-                features[f'home_players_{key}'] = value
-            for key, value in away_players.items():
-                features[f'away_players_{key}'] = value
-        except Exception as e:
-            print(f"        ⚠️  Player features fejl: {str(e)}")
-            # Add default player features
-            default_player_features = {
-                'squad_size': 15, 'total_goals_by_players': 0, 'total_assists_by_players': 0,
-                'total_saves_by_goalkeepers': 0, 'num_goalkeepers': 2, 'top_scorer_goals': 0,
-                'top_assistant_assists': 0, 'top_goalkeeper_saves': 0, 'avg_goals_per_player': 0.0,
-                'goals_concentration': 0.0
-            }
-            for key, value in default_player_features.items():
-                features[f'home_players_{key}'] = value
-                features[f'away_players_{key}'] = value
-        
-        try:
-            # 3. POSITIONSSPECIFIKKE FEATURES  
-            print(f"      🎯 Calculating positional features...")
-            home_positions = self.feature_generator.calculate_positional_features(home_team, match_date)
-            away_positions = self.feature_generator.calculate_positional_features(away_team, match_date)
-            
-            for key, value in home_positions.items():
-                features[f'home_{key}'] = value
-            for key, value in away_positions.items():
-                features[f'away_{key}'] = value
-        except Exception as e:
-            print(f"        ⚠️  Positional features fejl: {str(e)}")
-            # Add default positional features
-            positions = ['VF', 'HF', 'VB', 'PL', 'HB', 'ST', 'MV', 'Gbr', '1:e', '2:e']
-            for team in ['home', 'away']:
-                for pos in positions:
-                    features[f'{team}_pos_{pos}_total_actions'] = 0
-                    features[f'{team}_pos_{pos}_attempts'] = 0
-                    features[f'{team}_pos_{pos}_goals'] = 0
-                    features[f'{team}_pos_{pos}_assists'] = 0
-                    features[f'{team}_pos_{pos}_goal_conversion'] = 0.0
-                    features[f'{team}_pos_{pos}_goal_share'] = 0.0
-                    features[f'{team}_pos_{pos}_attempt_share'] = 0.0
-                    features[f'{team}_pos_{pos}_action_share'] = 0.0
-        
-        try:
-            # 4. ELO FEATURES
-            print(f"      ⭐ Calculating ELO features...")
-            home_elo = self.feature_generator.calculate_squad_elo_features(home_team, match_date, season)
-            away_elo = self.feature_generator.calculate_squad_elo_features(away_team, match_date, season)
-            
-            for key, value in home_elo.items():
-                features[f'home_{key}'] = value
-            for key, value in away_elo.items():
-                features[f'away_{key}'] = value
-        except Exception as e:
-            print(f"        ⚠️  ELO features fejl: {str(e)}")
-            # Add default ELO features
-            default_elo = {
-                'elo_squad_avg_rating': 1200, 'elo_squad_median_rating': 1200,
-                'elo_squad_max_rating': 1200, 'elo_squad_min_rating': 1200,
-                'elo_squad_std_rating': 50, 'elo_squad_experience_ratio': 0.5
-            }
-            for key, value in default_elo.items():
-                features[f'home_{key}'] = value
-                features[f'away_{key}'] = value
-        
-        try:
-            # 5. ELO TRENDS
-            print(f"      📈 Calculating ELO trends...")
-            home_elo_trends = self.feature_generator.calculate_elo_trends(home_team, match_date, season)
-            away_elo_trends = self.feature_generator.calculate_elo_trends(away_team, match_date, season)
-            
-            for key, value in home_elo_trends.items():
-                features[f'home_{key}'] = value
-            for key, value in away_elo_trends.items():
-                features[f'away_{key}'] = value
-        except Exception as e:
-            print(f"        ⚠️  ELO trends fejl: {str(e)}")
-            # Add default ELO trend features
-            default_trends = {
-                'elo_season_progression': 0.5, 'elo_recent_trend_5': 0.0,
-                'elo_season_volatility': 50, 'elo_consistency_score': 0.5
-            }
-            for key, value in default_trends.items():
-                features[f'home_{key}'] = value
-                features[f'away_{key}'] = value
-        
-        try:
-            # 6. HEAD-TO-HEAD FEATURES
-            print(f"      🤝 Calculating head-to-head...")
-            h2h_stats = self.feature_generator.calculate_head_to_head_stats(home_team, away_team, match_date)
-            
-            for key, value in h2h_stats.items():
-                features[f'h2h_{key}'] = value
-        except Exception as e:
-            print(f"        ⚠️  H2H features fejl: {str(e)}")
-            # Add default H2H features
-            default_h2h = {
-                'games_played': 0, 'team_a_wins': 0, 'team_b_wins': 0, 'draws': 0,
-                'team_a_goals': 0, 'team_b_goals': 0, 'avg_total_goals': 25.0,
-                'avg_goal_difference': 0.0, 'days_since_last_h2h': 365
-            }
-            for key, value in default_h2h.items():
-                features[f'h2h_{key}'] = value
-        
-        try:
-            # 6B. ELO MATCH CONTEXT FEATURES
-            print(f"      🎯 Calculating ELO match context...")
-            elo_context = self.feature_generator.get_match_context_elo_features(home_team, away_team, match_date, season)
-            
-            for key, value in elo_context.items():
-                features[key] = value
-        except Exception as e:
-            print(f"        ⚠️  ELO context fejl: {str(e)}")
-            # Add default ELO context features
-            default_elo_context = {
-                'elo_h2h_home_advantage': 0.0, 'elo_h2h_rating_consistency': 0.0,
-                'elo_h2h_avg_quality': 1275.0, 'elo_h2h_competitiveness': 0.5,
-                'elo_expected_goal_difference': 0.0, 'elo_blowout_probability': 0.0,
-                'elo_close_match_probability': 0.0, 'elo_form_convergence': 0.0,
-                'elo_momentum_clash': 0.0, 'elo_peak_vs_peak': 0.0,
-                'elo_context_importance': 1.0, 'elo_upset_potential': 0.0,
-                'elo_volatility_factor': 1.0
-            }
-            for key, value in default_elo_context.items():
-                features[key] = value
-        
-        try:
-            # 7. TEMPORAL FEATURES
-            print(f"      ⏰ Calculating temporal features...")
-            temporal = self.feature_generator.calculate_temporal_features(match_date, season)
-            features.update(temporal)
-        except Exception as e:
-            print(f"        ⚠️  Temporal features fejl: {str(e)}")
-            # Add default temporal features
-            features.update({
-                'day_of_week': match_date.weekday(),
-                'month': match_date.month,
-                'is_weekend': match_date.weekday() >= 5,
-                'season_progress': 0.5,
-                'days_from_season_start': 100
-            })
-        
-        try:
-            # 8. LIGA CONTEXT
-            print(f"      🏆 Calculating league context...")
-            home_context = self.feature_generator.calculate_league_context_features(home_team, match_date, season)
-            away_context = self.feature_generator.calculate_league_context_features(away_team, match_date, season)
-            
-            for key, value in home_context.items():
-                features[f'home_league_{key}'] = value
-            for key, value in away_context.items():
-                features[f'away_league_{key}'] = value
-        except Exception as e:
-            print(f"        ⚠️  League context fejl: {str(e)}")
-            # Add default league features
-            default_league = {
-                'league_position': 7, 'total_teams_in_league': 14, 'points_before_match': 15,
-                'goal_difference_before_match': 0, 'is_top_half': True, 'is_top_3': False,
-                'is_bottom_3': False, 'position_percentile': 0.5
-            }
-            for key, value in default_league.items():
-                features[f'home_league_{key}'] = value
-                features[f'away_league_{key}'] = value
-        
-        # 9. CALCULATED DIFFERENTIALS (samme som træningsdata)
-        print(f"      🧮 Calculating differentials...")
-        try:
-            # Basic differentials
-            features['team_strength_diff'] = features.get('home_offensive_strength', 25) - features.get('away_defensive_strength', 10)
-            features['defensive_diff'] = features.get('home_defensive_strength', 10) - features.get('away_offensive_strength', 25)
-            features['form_diff'] = features.get('home_momentum', 0) - features.get('away_momentum', 0)
-            
-            # ELO differentials
-            features['elo_team_rating_diff'] = features.get('home_elo_squad_avg_rating', 1200) - features.get('away_elo_squad_avg_rating', 1200)
-            features['elo_experience_diff'] = features.get('home_elo_squad_experience_ratio', 0.5) - features.get('away_elo_squad_experience_ratio', 0.5)
-            
-            # Advanced metrics
-            features['total_firepower'] = features.get('home_offensive_strength', 25) + features.get('away_offensive_strength', 25)
-            features['home_advantage_strength'] = features.get('home_home_win_rate', 0.5) - features.get('away_away_win_rate', 0.3)
-            
-            # ELO prediction metrics (KRITISKE FEATURES)
-            home_elo_rating = features.get('home_elo_squad_avg_rating', 1200)
-            away_elo_rating = features.get('away_elo_squad_avg_rating', 1200)
-            elo_home_win_prob = 1 / (1 + 10**((away_elo_rating - home_elo_rating)/400))
-            features['elo_home_win_probability'] = elo_home_win_prob
-            features['elo_away_win_probability'] = 1 - elo_home_win_prob
-            features['elo_match_predictability'] = abs(elo_home_win_prob - 0.5) * 2
-            
-            # Advanced ELO metrics
-            features['elo_match_quality'] = (home_elo_rating + away_elo_rating) / 2
-            features['elo_combined_elite_talent'] = features.get('home_elo_squad_elite_count', 0) + features.get('away_elo_squad_elite_count', 0)
-            features['elo_combined_experience'] = features.get('home_elo_squad_experienced_players', 0) + features.get('away_elo_squad_experienced_players', 0)
-            
-        except Exception as e:
-            print(f"        ⚠️  Differentials fejl: {str(e)}")
-            # Add default differentials
-            features.update({
-                'team_strength_diff': 0, 'defensive_diff': 0, 'form_diff': 0,
-                'elo_team_rating_diff': 0, 'total_firepower': 50, 'home_advantage_strength': 0.2,
-                'elo_home_win_probability': 0.5, 'elo_away_win_probability': 0.5,
-                'elo_match_predictability': 0.0, 'elo_match_quality': 1200,
-                'elo_combined_elite_talent': 0, 'elo_combined_experience': 0
-            })
-        
-        print(f"      ✅ Features generated: {len(features)} features")
-        return features
-    
-    def _safe_predict(self, X_test: pd.DataFrame) -> Tuple[np.ndarray, np.ndarray]:
-        """
-        Safe prediction that manually handles preprocessing to avoid categorical encoding issues
-        """
-        X_processed = X_test.copy()
-        
-        # Step 1: Apply categorical encoding with safe fallbacks
-        for col, encoder in self.model.preprocessing_components['categorical_encoders'].items():
-            if col in X_processed.columns:
-                try:
-                    # Convert to string, but handle float->int conversion first
-                    col_data = X_processed[col].copy()
-                    
-                    # Convert 0.0 -> 0, 1.0 -> 1, etc. for consistency
-                    if col_data.dtype in ['float64', 'float32']:
-                        if col_data.dropna().apply(lambda x: x == int(x) if pd.notnull(x) and np.isfinite(x) else True).all():
-                            col_data = col_data.astype('int64')
-                    
-                    # Convert to string
-                    col_strings = col_data.astype(str)
-                    
-                    # Try encoding with fallback for unseen labels
-                    try:
-                        X_processed[col] = encoder.transform(col_strings)
-                    except ValueError as e:
-                        if "unseen labels" in str(e):
-                            # Map unseen values to known classes
-                            known_classes = set(encoder.classes_)
-                            default_class = encoder.classes_[0] if len(encoder.classes_) > 0 else '0'
-                            safe_strings = col_strings.apply(lambda x: x if x in known_classes else default_class)
-                            X_processed[col] = encoder.transform(safe_strings)
-                        else:
-                            raise e
-                except Exception as e:
-                    print(f"      ⚠️  Failed to encode '{col}': {e}")
-                    X_processed[col] = 0
-        
-        # Step 2: Apply outlier bounds
-        for col, (lower, upper) in self.model.preprocessing_components['outlier_bounds'].items():
-            if col in X_processed.columns:
-                X_processed[col] = X_processed[col].clip(lower=lower, upper=upper)
-        
-        # Step 3: Apply imputation  
-        X_processed = pd.DataFrame(
-            self.model.preprocessing_components['imputer'].transform(X_processed),
-            columns=X_processed.columns,
-            index=X_processed.index
-        )
-        
-        # Step 4: Apply feature selection
-        X_selected = self.model.feature_selector.transform(X_processed)
-        
-        # Step 5: Apply scaling
-        X_scaled = self.model.scaler.transform(X_selected)
-        
-        # Step 6: Make predictions
-        predictions = self.model.model.predict(X_scaled)
-        probabilities = self.model.model.predict_proba(X_scaled)[:, 1]
-        
-        return predictions, probabilities
+        Genererer features for en enkelt ny kamp ved at bruge den centrale funktion i HandballMLDatasetGenerator.
 
-    def _handle_unseen_categorical_values(self, X_test: pd.DataFrame) -> pd.DataFrame:
-        """
-        Håndterer nye kategoriske værdier i test data
-        """
-        print("🔧 Håndterer nye kategoriske værdier...")
-        
-        X_test_processed = X_test.copy()
-        
-        # Konvertér ALLE kolonner til numerisk format
-        for col in X_test_processed.columns:
-            if X_test_processed[col].dtype == 'object' or X_test_processed[col].dtype.name == 'category':
-                print(f"   🔧 Konverterer '{col}': {X_test_processed[col].unique()[:5]}...")
-                
-                try:
-                    # Forsøg at konvertere til float først
-                    X_test_processed[col] = pd.to_numeric(X_test_processed[col], errors='coerce')
-                except:
-                    pass
-                
-                # Hvis stadig ikke numerisk, lav ordinal encoding
-                if X_test_processed[col].dtype == 'object' or X_test_processed[col].dtype.name == 'category':
-                    unique_values = X_test_processed[col].dropna().unique()
-                    value_map = {val: i for i, val in enumerate(unique_values)}
-                    X_test_processed[col] = X_test_processed[col].map(value_map)
-                
-                # Fyld NaN med 0
-                X_test_processed[col] = X_test_processed[col].fillna(0)
-                
-                # Sørg for at det er numerisk
-                X_test_processed[col] = pd.to_numeric(X_test_processed[col], errors='coerce').fillna(0)
-        
-        # Double check - konvertér alle til float64
-        for col in X_test_processed.columns:
-            X_test_processed[col] = X_test_processed[col].astype('float64')
-        
-        print(f"   📊 Alle kolonner konverteret til numeriske: {X_test_processed.shape[1]} kolonner")
-        print(f"   📊 Data types efter konvertering: {X_test_processed.dtypes.value_counts().to_dict()}")
-        
-        return X_test_processed
-    
-    def predict_single_match(self, home_team: str, away_team: str, match_date) -> Dict:
-        """
-        Forudsiger en enkelt kamp
-        
         Args:
-            home_team: Hjemmehold navn
-            away_team: Udehold navn
-            match_date: Dato for kampen
-            
+            match: Dictionary med kampinformation:
+                - home_team (str)
+                - away_team (str)
+                - match_date (datetime)
+                - season (str)
+
         Returns:
-            Dict med prediction, probabilities og confidence
+            En DataFrame med en enkelt række indeholdende de genererede features, klar til modellen.
+            Returnerer None, hvis features ikke kunne genereres.
         """
-        try:
-            # Prepare match data
-            if isinstance(match_date, str):
-                match_date = datetime.strptime(match_date, "%Y-%m-%d")
-            
-            match = {
-                'home_team': home_team,
-                'away_team': away_team,
-                'match_date': match_date.strftime("%Y-%m-%d"),
-                'venue': 'Unknown',
-                'season': '2024-2025'
-            }
-            
-            # Predict using the predict_matches method
-            predictions_df = self.predict_matches([match])
-            
-            if predictions_df.empty:
-                return None
-            
-            # Extract result
-            row = predictions_df.iloc[0]
-            return {
-                'prediction': row['predicted_home_win'],
-                'probabilities': [row['away_win_probability'], row['home_win_probability']],
-                'confidence': row['prediction_confidence'],
-                'home_team': home_team,
-                'away_team': away_team
-            }
-            
-        except Exception as e:
-            print(f"❌ Prediction error: {str(e)}")
+        print(f"⚙️ Generating features for: {match['home_team']} vs {match['away_team']}")
+        
+        if not hasattr(self.feature_generator, 'generate_features_for_single_match'):
+            print("❌ Kritisk fejl: `generate_features_for_single_match` findes ikke i feature generatoren.")
+            print("   Sørg for, at du bruger den nyeste version af `ml.py`.")
             return None
-    
+
+        try:
+            # Kald den nye, centrale funktion
+            feature_dict = self.feature_generator.generate_features_for_single_match(match)
+
+            if not feature_dict:
+                print("⚠️  Kunne ikke generere features for kampen.")
+                return None
+
+            # Konverter feature dictionary til en DataFrame
+            # Modellen forventer en DataFrame som input
+            features_df = pd.DataFrame([feature_dict])
+            
+            # Drop ikke-feature kolonner som modellen ikke skal se direkte
+            metadata_cols = ['kamp_id', 'season', 'match_date', 'home_team', 'away_team', 'venue', 'league']
+            feature_cols = [col for col in features_df.columns if col not in metadata_cols]
+            
+            print(f"✅ Features genereret. Antal: {len(feature_cols)}")
+            
+            return features_df[feature_cols]
+
+        except Exception as e:
+            print(f"❌ En uventet fejl opstod under feature-generering: {e}")
+            import traceback
+            traceback.print_exc()
+            return None
+
+    def predict_single_match(self, home_team: str, away_team: str, match_date: datetime) -> Optional[Dict]:
+        """
+        Forudsiger en enkelt kamp ved EFFICIENT at generere features kun for denne kamp.
+        Dette erstatter den tidligere, langsomme metode, der regenererede hele datasættet.
+
+        Args:
+            home_team (str): Hjemmeholdets navn.
+            away_team (str): Udeholdets navn.
+            match_date (datetime): Kampdato.
+
+        Returns:
+            Et dictionary med forudsigelsesresultater, eller None ved fejl.
+        """
+        # Formål: At forudsige en enkelt kamp hurtigt og effektivt.
+        # Hvorfor: Den tidligere metode tog for lang tid. Denne nye metode bruger
+        # `generate_features_for_single_match` til kun at beregne de nødvendige features.
+        print(f"\n⚡️ EFFICIENT PREDICTION FOR: {home_team} vs {away_team} ⚡️")
+        print("---------------------------------------------------------")
+
+        # Tjek om modellen er loadet korrekt. Uden en model kan vi ikke forudsige.
+        if self.model is None:
+            print("❌ Ingen trænet model tilgængelig. Kan ikke fortsætte.")
+            return None
+
+        try:
+            # Trin 1: Definer kampinformation.
+            # Dette dictionary indeholder de nødvendige data for feature-generatoren.
+            # Vi normaliserer holdnavne for at matche dem, der bruges i datasættet.
+            print("⚙️  Trin 1: Klargør kampinformation...")
+            match_info = {
+                'home_team': self.feature_generator.normalize_team_name(home_team),
+                'away_team': self.feature_generator.normalize_team_name(away_team),
+                'match_date': match_date,
+                'season': self.get_season_from_date(match_date)
+            }
+            print(f"   - Hjemmehold: {match_info['home_team']}")
+            print(f"   - Udehold: {match_info['away_team']}")
+            print(f"   - Sæson: {match_info['season']}")
+
+            # Trin 2: Generer features specifikt for denne kamp.
+            # Dette er den hurtige del. Vi kalder funktionen, der kun fokuserer på
+            # de to involverede hold og deres historik.
+            print("⚙️  Trin 2: Genererer features for den specifikke kamp...")
+            features_df = self.generate_features_for_new_match(match_info)
+
+            # Hvis der ikke kunne genereres features, afbrydes processen.
+            if features_df is None or features_df.empty:
+                print(f"❌ Kunne ikke generere features for kampen.")
+                return None
+
+            # Trin 3: Klargør data til modellen (er nu simplere)
+            # Den nye `predict` metode i UltimateHandballPredictor håndterer selv
+            # manglende kolonner og den fulde preprocessing-pipeline.
+            # Vi sender derfor den genererede feature-DataFrame direkte.
+            print("⚙️  Trin 3: Sender features til modellen...")
+            X_new = features_df
+            print(f"✅ Data klargjort med {len(X_new.columns)} features.")
+
+            # Trin 4: Kør selve forudsigelsen.
+            # Modellen tager de klargjorte features og returnerer en forudsigelse og sandsynligheder.
+            print("🧠 Trin 4: Model forudsiger kamp...")
+            predictions, probabilities = self.model.predict(X_new)
+
+            # Opret et resultat-dictionary for nem adgang.
+            prediction_result = {
+                'prediction': predictions[0],
+                'home_win_probability': probabilities[0],
+                'away_win_probability': 1 - probabilities[0],
+                'confidence': abs(probabilities[0] - 0.5) * 2
+            }
+            
+            print("✅ Forudsigelse fuldført.")
+            return prediction_result
+
+        except Exception as e:
+            # Fejlhåndtering, hvis noget går galt undervejs.
+            print(f"❌ En uventet fejl opstod under den effektive forudsigelse: {e}")
+            import traceback
+            traceback.print_exc()
+            return None
+
     def predict_matches(self, matches: List[Dict]) -> pd.DataFrame:
         """
-        Forudsiger resultater for nye kampe
+        Forudsiger en liste af kampe ved at kalde predict_single_match for hver.
         
         Args:
-            matches: List af kampe at forudsige
+            matches: En liste af dictionaries, hver med 'home_team', 'away_team', 'match_date'.
             
         Returns:
-            DataFrame med predictions
+            En DataFrame med forudsigelserne.
         """
-        print(f"\n🎯 FORUDSIGER NYE KAMPE")
-        print("-" * 40)
+        print(f"\n🔮 Forudsiger {len(matches)} nye kampe...")
         
-        # Generate features
-        features_df = self.generate_features_for_new_matches(matches)
-        if features_df.empty:
-            print("❌ Ingen features at forudsige med!")
-            return pd.DataFrame()
-        
-        if self.model is None:
-            print("❌ Ingen trænet model tilgængelig!")
-            return pd.DataFrame()
-        
-        # Prepare features for prediction
-        metadata_cols = ['kamp_id', 'season', 'match_date', 'home_team', 'away_team', 'venue', 'league']
-        feature_cols = [col for col in features_df.columns if col not in metadata_cols]
-        
-        X_pred = features_df[feature_cols]
-        
-        print(f"📊 Prediction features: {X_pred.shape}")
-        
-        try:
-            # Make predictions
-            predictions, probabilities = self.model.predict(X_pred)
+        results = []
+        for match in matches:
+            home_team = match.get('home_team')
+            away_team = match.get('away_team')
+            match_date = match.get('match_date')
+
+            if not all([home_team, away_team, match_date]):
+                print(f"⚠️  Skipping invalid match data: {match}")
+                continue
+
+            prediction = self.predict_single_match(home_team, away_team, match_date)
             
-            # Create results
-            results = features_df[metadata_cols].copy()
-            results['predicted_home_win'] = predictions
-            results['home_win_probability'] = probabilities
-            results['away_win_probability'] = 1 - probabilities
+            result_row = {
+                'home_team': home_team,
+                'away_team': away_team,
+                'match_date': match_date.strftime('%Y-%m-%d'),
+            }
+
+            if prediction:
+                result_row['predicted_winner'] = 'Home' if prediction['prediction'] == 1 else 'Away'
+                result_row['home_win_probability'] = prediction['home_win_probability']
+                result_row['confidence'] = prediction['confidence']
+            else:
+                result_row['predicted_winner'] = 'Error'
+                result_row['home_win_probability'] = -1.0
+                result_row['confidence'] = -1.0
             
-            # Add prediction confidence
-            results['prediction_confidence'] = np.abs(probabilities - 0.5) * 2  # 0 = uncertain, 1 = very confident
-            
-            print(f"\n🏆 PREDICTION RESULTATER:")
-            for i in range(len(results)):
-                row = results.iloc[i]
-                prob = row['home_win_probability']
-                conf = row['prediction_confidence']
-                pred = "HJEMME SEJR" if row['predicted_home_win'] == 1 else "UDE SEJR"
-                
-                print(f"   {row['match_date']}: {row['home_team']} vs {row['away_team']}")
-                print(f"      Prediction: {pred} ({prob:.1%} confidence)")
-                print(f"      Certainty: {conf:.1%}")
-            
-            return results
-            
-        except Exception as e:
-            print(f"❌ Fejl ved prediction: {str(e)}")
-            return pd.DataFrame()
+            results.append(result_row)
+        
+        print("✅ Alle kampe er blevet behandlet.")
+        return pd.DataFrame(results)
+    
+    def get_season_from_date(self, match_date: datetime) -> str:
+        """
+        Bestemmer sæsonen (f.eks. "2023-2024") ud fra en given dato.
+        Antager at sæsonen skifter omkring juli.
+        """
+        year = match_date.year
+        month = match_date.month
+        if month >= 7:
+            return f"{year}-{year + 1}"
+        else:
+            return f"{year - 1}-{year}"
     
     def add_match_to_database(self, match_result: Dict):
         """
@@ -853,7 +491,7 @@ class HandballMatchPredictor:
             away_recall = 0.0
         
         # Confidence analysis
-        high_confidence_mask = results['prediction_confidence'] > 0.6
+        high_confidence_mask = results['confidence'] > 0.6
         if high_confidence_mask.sum() > 0:
             high_conf_accuracy = results[high_confidence_mask]['correct_prediction'].mean()
         else:
@@ -868,7 +506,7 @@ class HandballMatchPredictor:
             'away_recall': away_recall,
             'high_confidence_matches': high_confidence_mask.sum(),
             'high_confidence_accuracy': high_conf_accuracy,
-            'average_confidence': results['prediction_confidence'].mean()
+            'average_confidence': results['confidence'].mean()
         }
         
         print(f"\n📈 DETAILED PERFORMANCE METRICS:")

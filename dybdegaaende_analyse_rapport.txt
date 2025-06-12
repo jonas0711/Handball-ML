@@ -1,0 +1,87 @@
+DYBDEGÅENDE ANALYSERAPPORT FOR HÅNDBOLDMODELLER
+==================================================
+
+Dato: 2024-06-12
+Udarbejdet af: AI Assistant
+
+Denne rapport analyserer performance for Herre- og Kvindeliga-modellerne baseret på evaluering af usete testdata fra 2024-2025 sæsonen. Formålet er at afdække styrker, svagheder og eventuelle systematiske bias.
+
+---------------------------------
+1. OVERORDNET RESUMÉ
+---------------------------------
+
+*   **Kvindeliga-modellen er yderst robust og præcis (75.0% nøjagtighed)** uden tegn på systematisk bias. Den er særligt stærk i kampe, hvor den er sikker på sin forudsigelse.
+*   **Herreliga-modellen har en acceptabel performance (64.6% nøjagtighed)**, men er mærkbart svagere end Kvindeliga-modellen. Den viser en svag tendens til at favorisere hjemmehold, men ikke i alarmerende grad. Dens primære styrke er, ligesom Kvindeliga-modellen, evnen til at identificere kampe med høj forudsigelsessikkerhed.
+
+---------------------------------
+2. DETALJERET ANALYSE: HERRELIGA-MODEL
+---------------------------------
+
+**A. Nøgletal for Performance:**
+*   **Samlet Nøjagtighed:** 64.6% (rammer rigtigt i ca. 2 ud af 3 kampe).
+*   **Antal Testkampe:** 226
+
+**B. Analyse af Bias:**
+*   **Faktisk Hjemmesejrsrate:** 51.8%
+*   **Forudsagt Hjemmesejrsrate:** 57.1%
+*   **Konklusion:** Modellen forudsiger hjemmesejre 5.3 procentpoint oftere, end de reelt forekommer. Dette indikerer en **svag bias mod hjemmeholdet**. Den er dog ikke "blind" for udehold, da den stadig forudsiger udesejr i 42.9% af kampene.
+
+**C. Præcision og Recall (Evnen til at ramme rigtigt):**
+*   **Hjemmesejr-præcision:** 64.3% (Når den siger "hjemmeholdet vinder", har den ret 64.3% af gangene).
+*   **Udesejr-præcision:** 64.9% (Når den siger "udeholdet vinder", har den ret 64.9% af gangene).
+*   **Konklusion:** Modellen er lige pålidelig i sine forudsigelser, uanset om den peger på hjemme- eller udeholdet.
+
+*   **Hjemmesejr-recall:** 70.9% (Den fanger 70.9% af alle de faktiske hjemmesejre).
+*   **Udesejr-recall:** 57.8% (Den fanger kun 57.8% af alle de faktiske udesejre).
+*   **Konklusion:** Modellens største svaghed ift. bias er, at den har **sværere ved at identificere en "uventet" udesejr** end en hjemmesejr.
+
+**D. Styrker:**
+*   **Høj-sikkerheds-forudsigelser:** I 15.5% af kampene er modellen meget sikker i sin sag (confidence > 60%). I disse kampe er dens **nøjagtighed på hele 85.7%**. Dette er modellens absolut største styrke. Den ved, hvornår den skal stoles på.
+*   **Velafbalanceret præcision:** Der er ingen nævneværdig forskel i, hvor ofte den har ret, når den forudsiger hhv. hjemme- og udesejre.
+
+**E. Svagheder:**
+*   **Middelgod generel nøjagtighed:** En samlet nøjagtighed på 64.6% efterlader plads til forbedring.
+*   **Svært ved at spotte udesejre:** Den overser mere end 40% af de kampe, hvor udeholdet rent faktisk vinder (lav recall for udesejre).
+*   **Lav gennemsnitlig sikkerhed:** Den gennemsnitlige 'confidence' er kun 35.9%, hvilket betyder, at modellen anser mange kampe for at være meget tætte og svære at forudsige.
+
+---------------------------------
+3. DETALJERET ANALYSE: KVINDELIGA-MODEL
+---------------------------------
+
+**A. Nøgletal for Performance:**
+*   **Samlet Nøjagtighed:** 75.0% (rammer rigtigt i 3 ud af 4 kampe - et meget stærkt resultat).
+*   **Antal Testkampe:** 224
+
+**B. Analyse af Bias:**
+*   **Faktisk Hjemmesejrsrate:** 50.0%
+*   **Forudsagt Hjemmesejrsrate:** 47.3%
+*   **Konklusion:** Der er **ingen tegn på hjemmebane-bias**. Tværtimod er modellen en anelse konservativ og hælder en smule mod udeholdet, men forskellen er ubetydelig. Modellen er yderst velafbalanceret.
+
+**C. Præcision og Recall (Evnen til at ramme rigtigt):**
+*   **Hjemmesejr-præcision:** 76.4%
+*   **Udesejr-præcision:** 73.7%
+*   **Hjemmesejr-recall:** 72.3%
+*   **Udesejr-recall:** 77.7%
+*   **Konklusion:** Alle fire målinger er høje og ligger tæt på hinanden. Dette indikerer en sund og robust model, der er lige god til at forudsige alle typer udfald.
+
+**D. Styrker:**
+*   **Meget høj generel nøjagtighed:** 75.0% er et fremragende resultat for forudsigelse af sportskampe.
+*   **Ekstremt stærk på høj-sikkerheds-forudsigelser:** I hele 45.5% af kampene er modellen meget sikker (confidence > 60%). I disse kampe er dens **nøjagtighed på imponerende 88.2%**.
+*   **Fremragende balance:** Modellen viser ingen tegn på bias og er lige kompetent til at forudsige både hjemme- og udesejre.
+
+**E. Svagheder:**
+*   Det er svært at pege på markante svagheder. Modellen performer på et højt niveau over hele linjen. Hvis man skal finde et forbedringspunkt, kunne det være at løfte recall for hjemmesejre (72.3%) op på niveau med de andre metrics, men det er en mindre detalje.
+
+---------------------------------
+4. SAMMENLIGNING OG ANBEFALINGER
+---------------------------------
+
+**Sammenligning:**
+Kvindeliga-modellen er markant bedre end Herreliga-modellen på næsten alle parametre. Den er mere nøjagtig, bedre afbalanceret og oftere sikker i sin sag. Dette tyder på, at de tilgængelige data og features for Kvindeligaen enten er af højere kvalitet eller mere forudsigelige end for Herreligaen.
+
+**Anbefalinger til forbedring (primært for Herreliga-modellen):**
+1.  **Feature Engineering:** Undersøg om der er specifikke dynamikker i Herreligaen (f.eks. spillestil, transfermønstre), som ikke fanges af de nuværende features. Nye features, der bedre kan modellere disse forskelle, kan løfte modellens performance.
+2.  **Fokus på Udesejre:** En strategi kunne være at justere modellen eller data for at give mere vægt til kampe, hvor udeholdet vinder. Dette kunne forbedre den lave recall for udesejre, men kan risikere at gå ud over præcisionen.
+3.  **Udnyt Confidence Scoren:** I praktisk anvendelse bør forudsigelser med lav confidence (< 20%) betragtes som "for tætte at kalde". Forudsigelser med høj confidence (> 60%) kan derimod betragtes som meget pålidelige for begge ligaer.
+
+*** SLUT PÅ RAPPORT *** 

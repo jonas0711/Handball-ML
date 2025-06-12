@@ -384,44 +384,73 @@ class UltimateHandballPredictor:
     
     def predict(self, X: pd.DataFrame) -> Tuple[np.ndarray, np.ndarray]:
         """
-        Make predictions med ultimate model
-        
+        Gør forudsigelser med den ultimative model.
+        Denne funktion er designet til at håndtere "rå" feature-dataframes og anvende
+        den fulde preprocessing-pipeline, der blev defineret under træningen.
+
         Args:
-            X: Feature dataframe
-            
+            X (pd.DataFrame): En DataFrame, der indeholder alle de features,
+                              som blev genereret for en kamp.
+
         Returns:
-            (predictions, probabilities)
+            Tuple[np.ndarray, np.ndarray]: Et tuple med forudsigelser og sandsynligheder.
         """
+        # Formål: At sikre en robust og konsistent forudsigelses-pipeline.
+        # Hvorfor: Denne metode garanterer, at input til modellen altid har samme
+        # format som under træningen, ved at anvende de gemte preprocessing-komponenter.
         if self.model is None:
             raise ValueError("Model must be trained first!")
         
-        # Apply same preprocessing pipeline
+        # Kopier input for at undgå at ændre i den oprindelige dataframe.
         X_processed = X.copy()
         
-        # Apply categorical encoding
+        # Trin 1: Sikre at alle oprindelige features er til stede
+        # Få den fulde liste af features fra imputer'en, som blev fittet under træning
+        expected_features = self.preprocessing_components['imputer'].feature_names_in_
+        for col in expected_features:
+            if col not in X_processed.columns:
+                X_processed[col] = 0.0  # Tilføj manglende kolonner med 0
+        
+        # Sørg for at kolonnerne er i den korrekte rækkefølge
+        X_processed = X_processed[expected_features]
+
+        # Herfra følger vi den nøjagtige pipeline fra træningen.
+        # Hver komponent (encoder, imputer, selector, scaler) blev gemt efter træning
+        # og bliver nu genbrugt for at sikre konsistens.
+
+        # Anvend kategorisk encoding
         for col, encoder in self.preprocessing_components['categorical_encoders'].items():
             if col in X_processed.columns:
-                X_processed[col] = encoder.transform(X_processed[col].astype(str))
+                # Håndter usete labels robust
+                test_col_str = X_processed[col].astype(str)
+                unseen_mask = ~test_col_str.isin(encoder.classes_)
+                if unseen_mask.any():
+                    # Find den mest hyppige klasse fra træningen
+                    # Note: Dette kræver at vi gemmer den information under træning.
+                    # For nu bruger vi en simpel 'ukendt' eller den første klasse.
+                    most_common_class = encoder.classes_[0]
+                    test_col_str.loc[unseen_mask] = most_common_class
+                X_processed[col] = encoder.transform(test_col_str)
         
-        # Apply outlier bounds
+        # Anvend outlier grænser
         for col, (lower, upper) in self.preprocessing_components['outlier_bounds'].items():
             if col in X_processed.columns:
                 X_processed[col] = X_processed[col].clip(lower=lower, upper=upper)
         
-        # Apply imputation
-        X_processed = pd.DataFrame(
+        # Anvend imputation til at udfylde eventuelle resterende manglende værdier
+        X_imputed = pd.DataFrame(
             self.preprocessing_components['imputer'].transform(X_processed),
             columns=X_processed.columns,
             index=X_processed.index
         )
         
-        # Apply feature selection
-        X_selected = self.feature_selector.transform(X_processed)
+        # Anvend feature selection til at vælge de 50 bedste features
+        X_selected = self.feature_selector.transform(X_imputed)
         
-        # Apply scaling
+        # Anvend scaling
         X_scaled = self.scaler.transform(X_selected)
         
-        # Make predictions
+        # Lav forudsigelser
         predictions = self.model.predict(X_scaled)
         probabilities = self.model.predict_proba(X_scaled)[:, 1]
         

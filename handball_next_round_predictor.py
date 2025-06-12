@@ -22,6 +22,7 @@ import os
 import sys
 from typing import List, Dict, Tuple
 from datetime import datetime, timedelta
+import pandas as pd  # Importer pandas
 from handball_match_predictor import HandballMatchPredictor
 
 class NextRoundPredictor:
@@ -55,23 +56,29 @@ class NextRoundPredictor:
     
     def get_available_teams(self, league: str) -> List[str]:
         """
-        Henter tilgængelige holdnavne for en liga
+        Henter tilgængelige holdnavne for en liga fra det eksisterende ML-datasæt.
+        Dette er en mere robust metode end at basere sig på `historical_data`.
         """
+        # Hvorfor: Garanterer at vi altid har en liste af hold, så længe datasættet findes.
+        # Dette løser fejlen, hvor der ikke blev fundet holdnavne.
         if league not in self.predictors or self.predictors[league] is None:
             return []
             
         try:
             predictor = self.predictors[league]
-            # Get unique team names from database
-            teams = set()
-            
-            # Check if feature generator has historical data
-            if hasattr(predictor.feature_generator, 'historical_data'):
-                for match_data in predictor.feature_generator.historical_data.values():
-                    teams.add(match_data['hold_hjemme'])
-                    teams.add(match_data['hold_ude'])
-            
-            return sorted(list(teams))
+            # Brug det loadede datasæt som kilde til holdnavne
+            if predictor.existing_dataset is not None:
+                # Find unikke holdnavne fra både hjemme- og udeholdskolonnerne
+                home_teams = predictor.existing_dataset['home_team'].unique()
+                away_teams = predictor.existing_dataset['away_team'].unique()
+                
+                # Kombiner og sorter dem for at få en komplet liste
+                all_teams = sorted(list(set(home_teams) | set(away_teams)))
+                return all_teams
+            else:
+                print(f"⚠️  Advarsel: `existing_dataset` er ikke loadet for {league}. Kan ikke hente holdnavne.")
+                return []
+
         except Exception as e:
             print(f"❌ Fejl ved hentning af holdnavne: {e}")
             return []
@@ -164,13 +171,15 @@ class NextRoundPredictor:
         print(f"\n✅ {len(matches)} kampe indtastet for {league}")
         return matches
     
-    def predict_matches(self, league: str, matches: List[Dict]) -> List[Dict]:
+    def predict_matches(self, league: str, matches: List[Dict]) -> pd.DataFrame:
         """
-        Forudsiger en liste af kampe
+        Forudsiger en liste af kampe og returnerer altid en DataFrame.
         """
+        # Hvorfor: Sikrer at output altid er en DataFrame, selvom der opstår fejl.
+        # Dette forhindrer 'AttributeError' i kaldende funktioner.
         if league not in self.predictors or self.predictors[league] is None:
             print(f"❌ {league} predictor ikke tilgængelig")
-            return []
+            return pd.DataFrame() # Returner tom DataFrame
         
         predictor = self.predictors[league]
         predictions = []
@@ -197,8 +206,8 @@ class NextRoundPredictor:
                         'home_team': match['home_team'],
                         'away_team': match['away_team'],
                         'predicted_winner': 'Hjemme' if result['prediction'] == 1 else 'Ude',
-                        'home_win_probability': result['probabilities'][1],
-                        'away_win_probability': result['probabilities'][0],
+                        'home_win_probability': result['home_win_probability'],
+                        'away_win_probability': result['away_win_probability'],
                         'confidence': result['confidence'],
                         'prediction_strength': 'Høj' if result['confidence'] > 0.7 else 'Medium' if result['confidence'] > 0.6 else 'Lav'
                     }
@@ -213,18 +222,30 @@ class NextRoundPredictor:
                     
                 else:
                     print("❌ Kunne ikke generere prediction")
+                    # Tilføj en række for at markere fejlen
+                    predictions.append({
+                        'match_number': i,
+                        'home_team': match['home_team'],
+                        'away_team': match['away_team'],
+                        'predicted_winner': 'Fejl',
+                        'home_win_probability': 0.0,
+                        'away_win_probability': 0.0,
+                        'confidence': 0.0,
+                        'prediction_strength': 'N/A'
+                    })
                     
             except Exception as e:
                 print(f"❌ Fejl ved prediction: {e}")
                 continue
         
-        return predictions
+        return pd.DataFrame(predictions) # Konverter til DataFrame til sidst
     
-    def display_round_summary(self, league: str, predictions: List[Dict]):
+    def display_round_summary(self, league: str, predictions: pd.DataFrame):
         """
-        Viser sammenfatning af rundens predictions
+        Viser sammenfatning af rundens predictions fra en DataFrame.
         """
-        if not predictions:
+        # Hvorfor: Opdateret til at modtage en DataFrame for konsistens.
+        if predictions.empty:
             print("❌ Ingen predictions at vise")
             return
             
@@ -238,7 +259,7 @@ class NextRoundPredictor:
         total_confidence = 0
         high_confidence_count = 0
         
-        for pred in predictions:
+        for index, pred in predictions.iterrows():
             match_str = f"{pred['home_team']} vs {pred['away_team']}"
             if len(match_str) > 28:
                 match_str = match_str[:25] + "..."
@@ -254,18 +275,22 @@ class NextRoundPredictor:
         print("-" * 70)
         
         # Statistics
-        avg_confidence = total_confidence / len(predictions)
-        print(f"\n📈 STATISTICS:")
-        print(f"  Gennemsnitlig confidence: {avg_confidence:.1%}")
-        print(f"  Høj confidence predictions: {high_confidence_count}/{len(predictions)}")
-        print(f"  Hjemme sejre forudsagt: {sum(1 for p in predictions if p['predicted_winner'] == 'Hjemme')}")
-        print(f"  Ude sejre forudsagt: {sum(1 for p in predictions if p['predicted_winner'] == 'Ude')}")
+        if not predictions.empty:
+            avg_confidence = predictions['confidence'].mean()
+            home_wins = (predictions['predicted_winner'] == 'Hjemme').sum()
+            away_wins = (predictions['predicted_winner'] == 'Ude').sum()
+            
+            print(f"\n📈 STATISTICS:")
+            print(f"  Gennemsnitlig confidence: {avg_confidence:.1%}")
+            print(f"  Høj confidence predictions: {high_confidence_count}/{len(predictions)}")
+            print(f"  Hjemme sejre forudsagt: {home_wins}")
+            print(f"  Ude sejre forudsagt: {away_wins}")
     
-    def save_predictions(self, league: str, predictions: List[Dict]):
+    def save_predictions(self, league: str, predictions: pd.DataFrame):
         """
-        Gemmer predictions til fil
+        Gemmer predictions til fil fra en DataFrame
         """
-        if not predictions:
+        if predictions.empty:
             return
             
         filename = f"next_round_predictions_{league.lower()}_{datetime.now().strftime('%Y%m%d_%H%M')}.txt"
@@ -276,7 +301,7 @@ class NextRoundPredictor:
                 f.write("=" * 60 + "\n")
                 f.write(f"Genereret: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
                 
-                for pred in predictions:
+                for index, pred in predictions.iterrows():
                     f.write(f"KAMP {pred['match_number']}: {pred['home_team']} vs {pred['away_team']}\n")
                     f.write(f"  Forudsagt vinder: {pred['predicted_winner']}\n")
                     f.write(f"  Hjemme sejr: {pred['home_win_probability']:.1%}\n")
@@ -329,7 +354,7 @@ class NextRoundPredictor:
                 # Predict matches
                 predictions = self.predict_matches(league, matches)
                 
-                if predictions:
+                if not predictions.empty:
                     # Display summary
                     self.display_round_summary(league, predictions)
                     

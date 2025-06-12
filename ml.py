@@ -117,27 +117,6 @@ class HandballMLDatasetGenerator:
         self.seasons = valid_seasons
         print(f"\n📊 {len(self.seasons)} gyldige sæsoner fundet")
         
-    def validate_seasons(self):
-        """Validerer at sæsoner eksisterer"""
-        print("\n🔍 VALIDERER SÆSONER")
-        print("-" * 30)
-        
-        valid_seasons = []
-        for season in self.seasons:
-            season_path = os.path.join(self.database_dir, season)
-            if os.path.exists(season_path):
-                db_files = [f for f in os.listdir(season_path) if f.endswith('.db')]
-                if db_files:
-                    valid_seasons.append(season)
-                    print(f"  ✅ {season}: {len(db_files)} kampe")
-                else:
-                    print(f"  ❌ {season}: ingen DB filer")
-            else:
-                print(f"  ❌ {season}: directory ikke fundet")
-        
-        self.seasons = valid_seasons
-        print(f"\n📊 {len(self.seasons)} gyldige sæsoner fundet")
-        
         if not self.seasons:
             raise ValueError(f"Ingen gyldige sæsoner fundet for {self.league}!")
     
@@ -1831,7 +1810,10 @@ class HandballMLDatasetGenerator:
         print(f"\n🎯 TOTAL: {total_matches} historiske kampe loaded")
         
     def generate_ml_dataset(self):
-        """Genererer det komplette ML dataset"""
+        """
+        Genererer det fulde ML dataset ved at iterere over alle historiske kampe.
+        BRUGER NU DEN CENTRALE `generate_features_for_single_match` FUNKTION.
+        """
         print("\n🎯 GENERERER ML DATASET")
         print("-" * 40)
         
@@ -2173,6 +2155,82 @@ class HandballMLDatasetGenerator:
         print("  ✅ Robust error handling")
         print("  ✅ Temporal awareness")
         
+    def generate_features_for_single_match(self, match_info: Dict) -> Optional[Dict]:
+        """
+        Genererer et komplet feature set for en enkelt, fremtidig kamp.
+        Dette er den centrale funktion, der bruges af både batch-træning og real-time prediction.
+
+        Args:
+            match_info: Et dictionary med info om kampen:
+                - home_team (str)
+                - away_team (str)
+                - match_date (datetime)
+                - season (str)
+                - kamp_id (str, valgfri)
+
+        Returns:
+            Et dictionary med alle genererede features for kampen, klar til modellen.
+            Returnerer None hvis kritiske data mangler.
+        """
+        home_team = self.normalize_team_name(match_info['home_team'])
+        away_team = self.normalize_team_name(match_info['away_team'])
+        match_date = match_info['match_date']
+        season = match_info['season']
+        kamp_id = match_info.get('kamp_id', f"new_{home_team}_{away_team}_{match_date.strftime('%Y%m%d')}")
+
+        # --- Fuldstændig og korrekt feature-generering for en enkelt kamp ---
+        
+        # 1. Hent alle nødvendige data-komponenter
+        home_stats = self.calculate_team_historical_stats(home_team, match_date, num_games=10)
+        away_stats = self.calculate_team_historical_stats(away_team, match_date, num_games=10)
+        home_players = self.calculate_player_features(home_team, match_date)
+        away_players = self.calculate_player_features(away_team, match_date)
+        home_positions = self.calculate_positional_features(home_team, match_date)
+        away_positions = self.calculate_positional_features(away_team, match_date)
+        squad_elo_home = self.calculate_squad_elo_features(home_team, match_date, season)
+        squad_elo_away = self.calculate_squad_elo_features(away_team, match_date, season)
+        elo_trends_home = self.calculate_elo_trends(home_team, match_date, season)
+        elo_trends_away = self.calculate_elo_trends(away_team, match_date, season)
+        match_context_elo = self.get_match_context_elo_features(home_team, away_team, match_date, season)
+        h2h_stats = self.calculate_head_to_head_stats(home_team, away_team, match_date)
+        temporal = self.calculate_temporal_features(match_date, season)
+        home_context = self.calculate_league_context_features(home_team, match_date, season)
+        away_context = self.calculate_league_context_features(away_team, match_date, season)
+
+        # 2. Byg feature-dictionaryet med 100% korrekte præfikser
+        features = {
+            'kamp_id': kamp_id, 'season': season, 'match_date': match_date.strftime("%Y-%m-%d"),
+            'home_team': home_team, 'away_team': away_team, 'venue': 'Home', 'league': self.league,
+        }
+
+        def _add_prefix(data, prefix):
+            return {f"{prefix}_{key}": value for key, value in data.items()}
+
+        features.update(_add_prefix(home_stats, 'home'))
+        features.update(_add_prefix(away_stats, 'away'))
+        features.update(_add_prefix(home_players, 'home_players'))
+        features.update(_add_prefix(away_players, 'away_players'))
+        features.update(_add_prefix(home_positions, 'home'))
+        features.update(_add_prefix(away_positions, 'away'))
+        features.update(_add_prefix(squad_elo_home, 'home'))
+        features.update(_add_prefix(squad_elo_away, 'away'))
+        features.update(_add_prefix(elo_trends_home, 'home'))
+        features.update(_add_prefix(elo_trends_away, 'away'))
+        features.update(match_context_elo) # Har allerede korrekte navne
+        features.update(_add_prefix(h2h_stats, 'h2h'))
+        features.update(temporal) # Har ikke præfiks
+        features.update(_add_prefix(home_context, 'home_league'))
+        features.update(_add_prefix(away_context, 'away_league'))
+        
+        # 3. Beregn differential-features til sidst
+        features['team_strength_diff'] = features.get('home_offensive_strength', 0) - features.get('away_defensive_strength', 0)
+        features['defensive_diff'] = features.get('home_defensive_strength', 0) - features.get('away_offensive_strength', 0)
+        features['form_diff'] = features.get('home_momentum', 0) - features.get('away_momentum', 0)
+        features['elo_team_rating_diff'] = features.get('home_elo_team_weighted_rating', 1200) - features.get('away_elo_team_weighted_rating', 1200)
+        features['elo_top7_rating_diff'] = features.get('home_elo_team_top7_rating', 1200) - features.get('away_elo_team_top7_rating', 1200)
+        features['home_advantage_strength'] = features.get('home_home_win_rate', 0.5) - features.get('away_away_win_rate', 0.3)
+        
+        return features
 
 # === MAIN EXECUTION ===
 if __name__ == "__main__":
