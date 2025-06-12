@@ -51,7 +51,8 @@ class AdvancedModelAnalyzer:
             "bias_analysis": self._analyze_bias(),
             "confidence_analysis": self._analyze_confidence(),
             "team_performance": self._analyze_team_performance(),
-            "error_analysis": self._analyze_errors()
+            "error_analysis": self._analyze_errors(),
+            "feature_importance": self._analyze_feature_importance()
         }
         
         print(f"✅ Analyse for {self.league.upper()} er fuldført.")
@@ -114,6 +115,27 @@ class AdvancedModelAnalyzer:
         report_cols = ['match_date', 'home_team', 'away_team', 'predicted_home_win', 'target_home_win', 'confidence']
         return biggest_misses[report_cols].head(5)
 
+    def _analyze_feature_importance(self) -> pd.DataFrame:
+        """Henter de vigtigste features fra den trænede model."""
+        print("Analyserer feature importance...")
+        try:
+            # Vi kalder den indbyggede metode i vores UltimateHandballPredictor
+            if hasattr(self.predictor.model, 'get_feature_importance'):
+                feature_importance_df = self.predictor.model.get_feature_importance()
+                if feature_importance_df is not None and not feature_importance_df.empty:
+                    print(f"✅ Vigtigste features hentet: Top feature er '{feature_importance_df.iloc[0]['feature']}'")
+                    return feature_importance_df.head(20) # Returner top 20
+                else:
+                    print("⚠️ Modellen returnerede ingen feature importance.")
+                    return "Modellen returnerede ingen feature importance."
+            else:
+                print("❌ 'get_feature_importance' metode ikke fundet på modellen.")
+                return "Feature importance er ikke tilgængelig for denne modeltype."
+        except Exception as e:
+            print(f"❌ Fejl under hentning af feature importance: {e}")
+            # Returner selve fejlbeskeden for klarhed i rapporten
+            return f"Fejl under hentning af feature importance: {e}"
+
 def format_report_section(league_name: str, analysis: dict) -> str:
     """Formaterer den komplette analyserapport for en enkelt liga til en streng."""
     
@@ -167,6 +189,17 @@ def format_report_section(league_name: str, analysis: dict) -> str:
         report += f"     - Forudsagt: {row['Forudsagt']}, Faktisk vinder: {row['Vinder']}\n"
         report += f"     - Confidence i forkert vinder: {row['confidence']:.1%}\n"
 
+    # 6. Feature Importance
+    report += "\n**6. Vigtigste Features**\n"
+    report += "   Dette er de top 20 datakilder, som modellen lægger mest vægt på.\n\n"
+    feature_importance = analysis.get('feature_importance')
+    if isinstance(feature_importance, pd.DataFrame):
+        report += df_to_string(feature_importance) + "\n"
+    elif isinstance(feature_importance, str):
+        report += f"   {feature_importance}\n"
+    else:
+        report += "   Kunne ikke hente feature importance.\n"
+
     report += "\n"
     return report
 
@@ -190,7 +223,7 @@ def main():
             report_content += f"FEJL: Kunne ikke gennemføre analysen på grund af en fejl: {e}\n\n"
     
     # Gem den færdige rapport til en fil
-    report_filename = "avanceret_analyse_rapport.txt"
+    report_filename = "avanceret_dybdegaaende_analyse_rapport.txt"
     try:
         with open(report_filename, 'w', encoding='utf-8') as f:
             f.write(report_content)

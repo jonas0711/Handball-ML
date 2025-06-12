@@ -1,75 +1,75 @@
 AVANCERET DYBDEGÅENDE ANALYSERAPPORT
 =========================================
-Dato: 2025-06-12 15:15
+Dato: 2025-06-12 15:29
 
 Denne rapport analyserer de trænede modellers performance i detaljer.
 
 ## HERRELIGA ANALYSE
 --------------------------------------------------
 
-**1. Samlet Nøjagtighed:** 64.6%
+**1. Samlet Nøjagtighed:** 62.8%
 
 **2. Hjemme/Ude-bias Analyse**
    - Faktisk hjemmesejrsrate:   51.8%
-   - Forudsagt hjemmesejrsrate: 57.1%
-   - Konklusion: Modellen har en lille tendens til at favorisere HJEMMEHOLD (5.3%).
+   - Forudsagt hjemmesejrsrate: 59.7%
+   - Konklusion: Modellen har en lille tendens til at favorisere HJEMMEHOLD (8.0%).
 
 **3. Analyse af Modellens Selvtillid (Confidence)**
    Modellens nøjagtighed fordelt på, hvor sikker den er i sin sag.
 
 confidence_bin  accuracy  match_count
-        0%-20%  0.590909           66
-       20%-40%  0.524590           61
-       40%-60%  0.703125           64
-       60%-80%  0.843750           32
+        0%-20%  0.562500           64
+       20%-40%  0.491228           57
+       40%-60%  0.714286           63
+       60%-80%  0.769231           39
       80%-100%  1.000000            3
 
-   - Konklusion: Modellens selvtillid er en stærk indikator. Når den er over 60% sikker, er nøjagtigheden i gennemsnit 92.2%.
+   - Konklusion: Modellens selvtillid er en stærk indikator. Når den er over 60% sikker, er nøjagtigheden i gennemsnit 88.5%.
 
 **4. Performance for Individuelle Hold**
    Hvor godt klarer modellen sig for hvert enkelt hold?
 
                      Hold Nøjagtighed  Antal kampe
-         Aalborg Håndbold       88.6%           35
+         Aalborg Håndbold       85.7%           35
               KIF Kolding       76.9%           26
-            TTH Holstebro       74.3%           35
-    Nordsjælland Håndbold       73.3%           30
+            TTH Holstebro       71.4%           35
           Skjern Håndbold       69.4%           36
             Grindsted GIF       69.2%           13
   Fredericia Håndboldklub       66.7%            6
-          Ribe-Esbjerg HH       66.7%           30
+             TMS Ringsted       66.7%           30
+    Nordsjælland Håndbold       63.3%           30
                       GOG       61.1%           36
-    SAH – Skanderborg AGF       60.7%           28
-             TMS Ringsted       60.0%           30
-    Bjerringbro-Silkeborg       59.4%           32
+          Ribe-Esbjerg HH       56.7%           30
         Mors-Thy Håndbold       56.2%           32
+  Grindsted GIF, Håndbold       55.0%           20
  Fredericia Håndbold Klub       53.8%           26
-  Grindsted GIF, Håndbold       50.0%           20
-Sønderjyske Herrehåndbold       50.0%           30
+    SAH – Skanderborg AGF       53.6%           28
+Sønderjyske Herrehåndbold       53.3%           30
+    Bjerringbro-Silkeborg       53.1%           32
                  Skive fH       33.3%            3
           Skanderborg AGF       25.0%            4
 
-   - Bedst forudsagte hold: Aalborg Håndbold (88.6%)
+   - Bedst forudsagte hold: Aalborg Håndbold (85.7%)
    - Dårligst forudsagte hold: Skanderborg AGF (25.0%)
 
 **5. Analyse af Største Fejl**
    De 5 kampe, hvor modellen var mest sikker, men alligevel tog fejl.
 
-   - Kamp: SAH – Skanderborg AGF vs Grindsted GIF
-     - Forudsagt: SAH – Skanderborg AGF, Faktisk vinder: Grindsted GIF
-     - Confidence i forkert vinder: 72.1%
-   - Kamp: Mors-Thy Håndbold vs Aalborg Håndbold
-     - Forudsagt: Aalborg Håndbold, Faktisk vinder: Mors-Thy Håndbold
-     - Confidence i forkert vinder: 71.3%
    - Kamp: Skjern Håndbold vs Bjerringbro-Silkeborg
      - Forudsagt: Skjern Håndbold, Faktisk vinder: Bjerringbro-Silkeborg
-     - Confidence i forkert vinder: 65.0%
+     - Confidence i forkert vinder: 70.4%
+   - Kamp: Mors-Thy Håndbold vs Aalborg Håndbold
+     - Forudsagt: Aalborg Håndbold, Faktisk vinder: Mors-Thy Håndbold
+     - Confidence i forkert vinder: 69.8%
    - Kamp: Aalborg Håndbold vs Skjern Håndbold
      - Forudsagt: Aalborg Håndbold, Faktisk vinder: Skjern Håndbold
-     - Confidence i forkert vinder: 64.9%
-   - Kamp: SAH – Skanderborg AGF vs Ribe-Esbjerg HH
-     - Forudsagt: SAH – Skanderborg AGF, Faktisk vinder: Ribe-Esbjerg HH
-     - Confidence i forkert vinder: 60.7%
+     - Confidence i forkert vinder: 68.7%
+   - Kamp: Fredericia Håndbold Klub vs Ribe-Esbjerg HH
+     - Forudsagt: Fredericia Håndbold Klub, Faktisk vinder: Ribe-Esbjerg HH
+     - Confidence i forkert vinder: 68.6%
+   - Kamp: Skjern Håndbold vs Mors-Thy Håndbold
+     - Forudsagt: Skjern Håndbold, Faktisk vinder: Mors-Thy Håndbold
+     - Confidence i forkert vinder: 66.4%
 
 ## KVINDELIGA ANALYSE
 --------------------------------------------------

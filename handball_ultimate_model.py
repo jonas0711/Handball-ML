@@ -465,18 +465,24 @@ class UltimateHandballPredictor:
         
         # Get Random Forest feature importance (most interpretable)
         rf_model = None
-        for name, estimator in self.model.estimators:
+        # BRUG estimators_ (med underscore) for at få de FITTEDE modeller
+        # og zip det med de oprindelige estimatorer for at få navnene.
+        for (name, _), fitted_estimator in zip(self.model.estimators, self.model.estimators_):
             if name == 'random_forest':
-                rf_model = estimator
+                rf_model = fitted_estimator
                 break
         
         if rf_model is not None:
-            importance_df = pd.DataFrame({
-                'feature': self.feature_names,
-                'importance': rf_model.feature_importances_
-            }).sort_values('importance', ascending=False)
-            
-            return importance_df
+            # Tilføjet et ekstra check for at sikre, at modellen rent faktisk er fittet
+            if hasattr(rf_model, 'feature_importances_'):
+                importance_df = pd.DataFrame({
+                    'feature': self.feature_names,
+                    'importance': rf_model.feature_importances_
+                }).sort_values('importance', ascending=False)
+                
+                return importance_df
+            else:
+                return pd.DataFrame({'feature': ['Error'], 'importance': ['Random Forest model not fitted or no importances.']})
         else:
             return pd.DataFrame()
     
@@ -506,29 +512,31 @@ class UltimateHandballPredictor:
     @classmethod
     def load_model(cls, filepath: str) -> 'UltimateHandballPredictor':
         """
-        Load complete model package
+        Load complete model package from file
         """
         with open(filepath, 'rb') as f:
             model_package = pickle.load(f)
+
+        # Brug en default league hvis ikke fundet i metadata (backward compatibility)
+        league = model_package.get('model_metadata', {}).get('league', 'Unknown')
         
-        # Create new instance
-        instance = cls()
+        # Opret en instans med den korrekte liga fra filen
+        instance = cls(league=league)
         
-        # Restore all components
-        instance.model = model_package['model']
-        instance.feature_selector = model_package['feature_selector']
-        instance.scaler = model_package['scaler']
-        instance.feature_names = model_package['feature_names']
-        instance.preprocessing_components = model_package['preprocessing_components']
-        instance.training_performance = model_package['training_performance']
-        instance.model_metadata = model_package['model_metadata']
-        instance.league = model_package['model_metadata']['league']
-        
+        # Populate the instance with loaded data
+        instance.model = model_package.get('model')
+        instance.feature_selector = model_package.get('feature_selector')
+        instance.scaler = model_package.get('scaler')
+        instance.feature_names = model_package.get('feature_names')
+        instance.preprocessing_components = model_package.get('preprocessing_components')
+        instance.training_performance = model_package.get('training_performance', {})
+        instance.model_metadata = model_package.get('model_metadata', {})
+
         print(f"📂 Ultimate model loaded from: {filepath}")
-        print(f"   League: {instance.league}")
-        print(f"   Performance: {instance.training_performance['test_accuracy']:.1%} accuracy")
-        print(f"   Features: {len(instance.feature_names)}")
-        
+        print(f"   League: {instance.model_metadata.get('league', 'N/A')}")
+        print(f"   Performance: {instance.training_performance.get('test_accuracy', 0):.1%} accuracy")
+        print(f"   Features: {instance.model_metadata.get('feature_count', 'N/A')}")
+
         return instance
 
 def train_ultimate_model(league: str = "Herreliga") -> str:
