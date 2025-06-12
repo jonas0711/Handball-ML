@@ -1,0 +1,22 @@
+ULTIMATE HANDBALL PREDICTION MODEL - Herreliga
+============================================================
+
+PERFORMANCE METRICS:
+--------------------
+Test Accuracy: 64.2%
+Test ROC-AUC: 70.8%
+Test F1-Score: 67.5%
+CV ROC-AUC: 70.0% (±2.2%)
+
+MODEL DETAILS:
+---------------
+Training samples: 1,518
+Test samples: 226
+Features used: 50
+Model components: neural_network, random_forest, xgboost
+
+USAGE EXAMPLE:
+---------------
+from handball_ultimate_model import UltimateHandballPredictor
+model = UltimateHandballPredictor.load_model('ultimate_handball_model_herreliga.pkl')
+predictions, probabilities = model.predict(your_data)

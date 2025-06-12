@@ -1,0 +1,142 @@
+{
+  "data_info": {
+    "train_samples": 1518,
+    "test_samples": 226,
+    "n_features": 626,
+    "class_balance_train": 0.5289855072463768
+  },
+  "model_performance": {
+    "random_forest": {
+      "performance": {
+        "accuracy": 0.6238938053097345,
+        "precision": 0.625,
+        "recall": 0.6837606837606838,
+        "f1": 0.6530612244897959,
+        "roc_auc": 0.6843095742178312
+      },
+      "n_features": 50,
+      "feature_method": "importance_rfe",
+      "best_params": {
+        "n_estimators": 100,
+        "max_depth": 10,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_features": "log2"
+      }
+    },
+    "xgboost": {
+      "performance": {
+        "accuracy": 0.668141592920354,
+        "precision": 0.6521739130434783,
+        "recall": 0.7692307692307693,
+        "f1": 0.7058823529411765,
+        "roc_auc": 0.7250058809691836
+      },
+      "n_features": 60,
+      "feature_method": "importance_permutation",
+      "best_params": {
+        "n_estimators": 100,
+        "max_depth": 3,
+        "learning_rate": 0.01,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8
+      }
+    },
+    "svm": {
+      "performance": {
+        "accuracy": 0.6415929203539823,
+        "precision": 0.6475409836065574,
+        "recall": 0.6752136752136753,
+        "f1": 0.6610878661087866,
+        "roc_auc": 0.7052458245118794
+      },
+      "n_features": 40,
+      "feature_method": "pca_selectkbest",
+      "best_params": {
+        "C": 0.1,
+        "kernel": "linear",
+        "gamma": "scale"
+      }
+    },
+    "neural_network": {
+      "performance": {
+        "accuracy": 0.588495575221239,
+        "precision": 0.5952380952380952,
+        "recall": 0.6410256410256411,
+        "f1": 0.6172839506172839,
+        "roc_auc": 0.5996236179722418
+      },
+      "n_features": 80,
+      "feature_method": "variance_mutual_info",
+      "best_params": {
+        "hidden_layer_sizes": [
+          50
+        ],
+        "alpha": 0.0001,
+        "learning_rate_init": 0.01,
+        "activation": "tanh"
+      }
+    },
+    "knn": {
+      "performance": {
+        "accuracy": 0.5663716814159292,
+        "precision": 0.5785123966942148,
+        "recall": 0.5982905982905983,
+        "f1": 0.5882352941176471,
+        "roc_auc": 0.5746491021720379
+      },
+      "n_features": 20,
+      "feature_method": "distance_based",
+      "best_params": {
+        "n_neighbors": 5,
+        "weights": "uniform",
+        "metric": "euclidean"
+      }
+    },
+    "naive_bayes": {
+      "performance": {
+        "accuracy": 0.6327433628318584,
+        "precision": 0.639344262295082,
+        "recall": 0.6666666666666666,
+        "f1": 0.6527196652719666,
+        "roc_auc": 0.7078334509527171
+      },
+      "n_features": 30,
+      "feature_method": "chi2_info_gain",
+      "best_params": {
+        "var_smoothing": 1e-09
+      }
+    },
+    "decision_tree": {
+      "performance": {
+        "accuracy": 0.6238938053097345,
+        "precision": 0.6568627450980392,
+        "recall": 0.5726495726495726,
+        "f1": 0.6118721461187214,
+        "roc_auc": 0.6931702344546381
+      },
+      "n_features": 20,
+      "feature_method": "entropy_based",
+      "best_params": {
+        "max_depth": 5,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "criterion": "entropy"
+      }
+    },
+    "ensemble_voting": {
+      "performance": {
+        "accuracy": 0.6238938053097345,
+        "precision": 0.6311475409836066,
+        "recall": 0.6581196581196581,
+        "f1": 0.6443514644351465,
+        "roc_auc": 0.678977495491257
+      },
+      "n_features": 30,
+      "feature_method": "top_features_ensemble",
+      "best_params": {
+        "ensemble_method": "soft_voting"
+      }
+    }
+  }
+}

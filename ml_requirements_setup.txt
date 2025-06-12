@@ -1,0 +1,67 @@
+# HÅNDBOL ML PIPELINE - REQUIREMENTS & SETUP
+# ==========================================
+
+# Core ML Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.3.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Advanced ML Libraries (optional but recommended)
+xgboost>=1.7.0
+catboost>=1.1.0
+
+# Data Processing
+scipy>=1.9.0
+
+# Utilities
+pickle-mixin>=1.0.2
+joblib>=1.2.0
+
+# Progress bars (optional)
+tqdm>=4.64.0
+
+# Jupyter support (hvis du vil køre i notebooks)
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# INSTALLATION INSTRUCTIONS:
+# =========================
+# 
+# 1. Opret virtual environment:
+#    python -m venv handball_ml_env
+#    
+# 2. Aktiver environment:
+#    # Windows:
+#    handball_ml_env\Scripts\activate
+#    # macOS/Linux:
+#    source handball_ml_env/bin/activate
+#    
+# 3. Installer dependencies:
+#    pip install -r requirements.txt
+#    
+# 4. Alternativt, installer individuelt:
+#    pip install pandas numpy scikit-learn matplotlib seaborn
+#    pip install xgboost catboost  # Valgfrit
+#    
+# 5. Verificer installation:
+#    python -c "import pandas, numpy, sklearn, matplotlib, seaborn; print('All libraries installed successfully')"
+
+# SYSTEM REQUIREMENTS:
+# ===================
+# - Python 3.8 eller nyere
+# - Minimum 4GB RAM (8GB anbefalet)
+# - ~1GB ledig diskplads til data og resultater
+# - Processor: Enhver moderne CPU (multi-core anbefalet for XGBoost/CatBoost)
+
+# OPTIONAL ADVANCED LIBRARIES:
+# ============================
+# Optuna (for hyperparameter tuning):
+# pip install optuna>=3.0.0
+#
+# SHAP (for model explainability):
+# pip install shap>=0.41.0
+#
+# Plotly (for interactive plots):
+# pip install plotly>=5.0.0

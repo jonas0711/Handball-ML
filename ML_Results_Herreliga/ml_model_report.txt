@@ -1,0 +1,72 @@
+HÅNDBOL ML MODEL RAPPORT - Herreliga
+============================================================
+Genereret: 2025-06-12 12:36:16
+
+DATASET INFORMATION:
+- Træningsdata: 1518 kampe
+- Testdata: 226 kampe
+- Features: 100 (efter initial selection)
+- Class balance: 52.9% hjemme wins
+
+MODEL PERFORMANCE SUMMARY:
+----------------------------------------
+1. Neural Network
+   Accuracy: 0.659
+   ROC-AUC: 0.702
+   Features: 60
+
+2. Random Forest
+   Accuracy: 0.642
+   ROC-AUC: 0.691
+   Features: 40
+
+3. Voting Ensemble
+   Accuracy: 0.642
+   ROC-AUC: 0.710
+   Features: 26
+
+4. Logistic Regression
+   Accuracy: 0.628
+   ROC-AUC: 0.698
+   Features: 20
+
+5. SVM
+   Accuracy: 0.624
+   ROC-AUC: 0.694
+   Features: 30
+
+6. Naive Bayes
+   Accuracy: 0.624
+   ROC-AUC: 0.656
+   Features: 25
+
+7. XGBoost
+   Accuracy: 0.619
+   ROC-AUC: 0.664
+   Features: 50
+
+8. K-NN
+   Accuracy: 0.606
+   ROC-AUC: 0.666
+   Features: 15
+
+9. Decision Tree
+   Accuracy: 0.588
+   ROC-AUC: 0.639
+   Features: 15
+
+ANBEFALINGER:
+----------------------------------------
+🥇 ANBEFALET MODEL: Neural Network
+   - Accuracy: 0.659
+   - ROC-AUC: 0.702
+   - Features: 60
+
+PERFORMANCE VURDERING:
+✅ GODT: 65-70% accuracy - solid performance
+
+NÆSTE SKRIDT:
+- Hyperparameter tuning af bedste model
+- Feature engineering baseret på feature importance
+- Temporal cross-validation for robusthed
+- Evaluering på flere sæsoner hvis tilgængeligt
